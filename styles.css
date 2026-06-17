@@ -69,33 +69,6 @@ th, td {
 th { color: var(--muted); font-weight: 600; font-size: 13px; }
 tr:last-child td { border-bottom: 0; }
 a { color: var(--accent); text-decoration: none; }
-.project-cell {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  min-width: 180px;
-}
-.avatar {
-  width: 34px;
-  height: 34px;
-  flex: 0 0 34px;
-  border-radius: 50%;
-  background: #1b2432;
-  border: 1px solid var(--line);
-  object-fit: cover;
-}
-.avatar-fallback {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  color: var(--muted);
-  font-size: 13px;
-}
-.handle {
-  margin-top: 2px;
-  color: var(--muted);
-  font-size: 12px;
-}
 .tag {
   display: inline-block;
   margin: 0 4px 4px 0;
