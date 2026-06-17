@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-17T12:25:21.527Z",
+  "generatedAt": "2026-06-17T18:52:17.089Z",
   "totals": {
-    "telegramRows": 97,
+    "telegramRows": 107,
     "xRows": 282,
-    "projects": 82,
+    "projects": 86,
     "crossSource": 18
   },
   "projects": [
@@ -86,7 +86,8 @@
         }
       ],
       "text": " Origin OriginLaunchpad OriginLaunchpad OriginLaunchpad OriginLaunchpad OriginLaunchpad OriginLaunchpad OriginLaunchpad OriginLaunchpad OriginLaunchpad OriginLaunchpad OriginLaunchpad",
-      "score": 12
+      "score": 12,
+      "avatarUrl": ""
     },
     {
       "project": "Pay.meme",
@@ -157,7 +158,8 @@
         }
       ],
       "text": " Pay.meme Paymeme_ Paymeme_ Paymeme_ Paymeme_ Paymeme_ Paymeme_ Paymeme_ Paymeme_ Paymeme_",
-      "score": 10
+      "score": 10,
+      "avatarUrl": ""
     },
     {
       "project": "RocX",
@@ -228,7 +230,68 @@
         }
       ],
       "text": " RocX RocX_official RocX_official RocX_official RocX_official RocX_official RocX_official RocX_official RocX_official RocX_official",
-      "score": 10
+      "score": 10,
+      "avatarUrl": ""
+    },
+    {
+      "project": "4626.fun",
+      "account": "4626fun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        ".✦ ݁˖ 🟣",
+        "AlphaFries",
+        "Yangxiao214",
+        "ibrax"
+      ],
+      "tgAlphas": [
+        ".✦ ݁˖ 🟣",
+        "AlphaFries",
+        "Yangxiao214",
+        "ibrax"
+      ],
+      "xAlphas": [],
+      "mentions": 4,
+      "firstSeen": "2026-06-17T09:24:20+00:00",
+      "lastSeen": "2026-06-17T17:14:52+00:00",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "4626.fun",
+          "account": "4626fun",
+          "alpha": ".✦ ݁˖ 🟣",
+          "seenAt": "2026-06-17T17:14:52+00:00",
+          "messageId": "dodtwitterbot/8310"
+        },
+        {
+          "source": "TG",
+          "project": "4626.fun",
+          "account": "4626fun",
+          "alpha": "ibrax",
+          "seenAt": "2026-06-17T09:24:20+00:00",
+          "messageId": "dodtwitterbot/8221"
+        },
+        {
+          "source": "TG",
+          "project": "4626.fun",
+          "account": "4626fun",
+          "alpha": "AlphaFries",
+          "seenAt": "2026-06-17T09:27:13+00:00",
+          "messageId": "dodtwitterbot/8222"
+        },
+        {
+          "source": "TG",
+          "project": "4626.fun",
+          "account": "4626fun",
+          "alpha": "Yangxiao214",
+          "seenAt": "2026-06-17T09:34:09+00:00",
+          "messageId": "dodtwitterbot/8223"
+        }
+      ],
+      "text": " 4626.fun 4626fun 4626.fun 4626fun 4626.fun 4626fun 4626.fun 4626fun",
+      "score": 8,
+      "avatarUrl": "https://unavatar.io/twitter/4626fun"
     },
     {
       "project": "ambient.xyz",
@@ -289,7 +352,8 @@
         }
       ],
       "text": " ambient.xyz ambient_xyz ambient_xyz ambient_xyz ambient_xyz ambient_xyz ambient_xyz ambient_xyz",
-      "score": 8
+      "score": 8,
+      "avatarUrl": ""
     },
     {
       "project": "eggz",
@@ -350,7 +414,8 @@
         }
       ],
       "text": " eggz eggzbase eggzbase eggzbase eggzbase eggzbase eggzbase eggzbase",
-      "score": 8
+      "score": 8,
+      "avatarUrl": ""
     },
     {
       "project": "mondeto",
@@ -409,7 +474,8 @@
         }
       ],
       "text": " mondeto mondeto mondeto mondeto mondeto mondeto mondeto mondeto",
-      "score": 8
+      "score": 8,
+      "avatarUrl": ""
     },
     {
       "project": "Robinhook",
@@ -468,7 +534,8 @@
         }
       ],
       "text": " Robinhook RobinhookApp Robinhook RobinhookApp Robinhook RobinhookApp Robinhook RobinhookApp",
-      "score": 8
+      "score": 8,
+      "avatarUrl": ""
     },
     {
       "project": "0xSwen",
@@ -519,56 +586,8 @@
         }
       ],
       "text": " 0xSwen SwenChan 0xSwen SwenChan SwenChan SwenChan",
-      "score": 6
-    },
-    {
-      "project": "4626.fun",
-      "account": "4626fun",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "AlphaFries",
-        "Yangxiao214",
-        "ibrax"
-      ],
-      "tgAlphas": [
-        "AlphaFries",
-        "Yangxiao214",
-        "ibrax"
-      ],
-      "xAlphas": [],
-      "mentions": 3,
-      "firstSeen": "2026-06-17T09:24:20+00:00",
-      "lastSeen": "2026-06-17T09:34:09+00:00",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "4626.fun",
-          "account": "4626fun",
-          "alpha": "ibrax",
-          "seenAt": "2026-06-17T09:24:20+00:00",
-          "messageId": "dodtwitterbot/8221"
-        },
-        {
-          "source": "TG",
-          "project": "4626.fun",
-          "account": "4626fun",
-          "alpha": "AlphaFries",
-          "seenAt": "2026-06-17T09:27:13+00:00",
-          "messageId": "dodtwitterbot/8222"
-        },
-        {
-          "source": "TG",
-          "project": "4626.fun",
-          "account": "4626fun",
-          "alpha": "Yangxiao214",
-          "seenAt": "2026-06-17T09:34:09+00:00",
-          "messageId": "dodtwitterbot/8223"
-        }
-      ],
-      "text": " 4626.fun 4626fun 4626.fun 4626fun 4626.fun 4626fun",
-      "score": 6
+      "score": 6,
+      "avatarUrl": ""
     },
     {
       "project": "agentscupv4",
@@ -617,7 +636,8 @@
         }
       ],
       "text": " agentscupv4 agentscupv4 agentscupv4 agentscupv4 agentscupv4 agentscupv4",
-      "score": 6
+      "score": 6,
+      "avatarUrl": ""
     },
     {
       "project": "ArcPump",
@@ -666,7 +686,8 @@
         }
       ],
       "text": " ArcPump ArcPump ArcPump ArcPump ArcPump ArcPump",
-      "score": 6
+      "score": 6,
+      "avatarUrl": ""
     },
     {
       "project": "DohmFinance",
@@ -715,7 +736,8 @@
         }
       ],
       "text": " DohmFinance DohmFinance DohmFinance DohmFinance DohmFinance DohmFinance",
-      "score": 6
+      "score": 6,
+      "avatarUrl": ""
     },
     {
       "project": "echonv4",
@@ -764,7 +786,8 @@
         }
       ],
       "text": " echonv4 echonv4 echonv4 echonv4 echonv4 echonv4",
-      "score": 6
+      "score": 6,
+      "avatarUrl": ""
     },
     {
       "project": "eiDotter",
@@ -813,7 +836,8 @@
         }
       ],
       "text": " eiDotter eiDotterSystem eiDotter eiDotterSystem eiDotter eiDotterSystem",
-      "score": 6
+      "score": 6,
+      "avatarUrl": ""
     },
     {
       "project": "emergent_inc",
@@ -862,7 +886,8 @@
         }
       ],
       "text": " emergent_inc emergent_inc emergent_inc emergent_inc emergent_inc emergent_inc",
-      "score": 6
+      "score": 6,
+      "avatarUrl": ""
     },
     {
       "project": "Fadestate",
@@ -911,7 +936,8 @@
         }
       ],
       "text": " Fadestate Fadestate Fadestate Fadestate Fadestate Fadestate",
-      "score": 6
+      "score": 6,
+      "avatarUrl": ""
     },
     {
       "project": "Flovia",
@@ -962,7 +988,8 @@
         }
       ],
       "text": " Flovia flovia402 flovia402 flovia402 flovia402 flovia402",
-      "score": 6
+      "score": 6,
+      "avatarUrl": ""
     },
     {
       "project": "Heisted",
@@ -1013,7 +1040,8 @@
         }
       ],
       "text": " Heisted Heistedxyz Heisted Heistedxyz Heistedxyz Heistedxyz",
-      "score": 6
+      "score": 6,
+      "avatarUrl": ""
     },
     {
       "project": "mmorpg_fun",
@@ -1062,7 +1090,8 @@
         }
       ],
       "text": " mmorpg_fun mmorpg_fun mmorpg_fun mmorpg_fun mmorpg_fun mmorpg_fun",
-      "score": 6
+      "score": 6,
+      "avatarUrl": ""
     },
     {
       "project": "MrsDoodlifts",
@@ -1113,7 +1142,8 @@
         }
       ],
       "text": " MrsDoodlifts MrsDoodlifts MrsDoodlifts MrsDoodlifts MrsDoodlifts MrsDoodlifts",
-      "score": 6
+      "score": 6,
+      "avatarUrl": ""
     },
     {
       "project": "secure_rob",
@@ -1162,7 +1192,8 @@
         }
       ],
       "text": " secure_rob secure_rob secure_rob secure_rob secure_rob secure_rob",
-      "score": 6
+      "score": 6,
+      "avatarUrl": ""
     },
     {
       "project": "TCG Arena",
@@ -1211,7 +1242,8 @@
         }
       ],
       "text": " TCG Arena PlayTCGArena TCG Arena PlayTCGArena TCG Arena PlayTCGArena",
-      "score": 6
+      "score": 6,
+      "avatarUrl": ""
     },
     {
       "project": "WordBank",
@@ -1260,7 +1292,8 @@
         }
       ],
       "text": " WordBank wordbankgame WordBank wordbankgame WordBank wordbankgame",
-      "score": 6
+      "score": 6,
+      "avatarUrl": ""
     },
     {
       "project": "01",
@@ -1301,7 +1334,8 @@
         }
       ],
       "text": " 01 zero1cash zero1cash zero1cash",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "打死都不卖",
@@ -1342,7 +1376,8 @@
         }
       ],
       "text": " 打死都不卖 LynnChu26 LynnChu26 LynnChu26",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "ACK",
@@ -1381,7 +1416,8 @@
         }
       ],
       "text": " ACK ack_onchain ACK ack_onchain",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "Ask_CarpeDiem",
@@ -1420,7 +1456,8 @@
         }
       ],
       "text": " Ask_CarpeDiem Ask_CarpeDiem Ask_CarpeDiem Ask_CarpeDiem",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "Baby Asteroid",
@@ -1461,7 +1498,8 @@
         }
       ],
       "text": " Baby Asteroid AstroKid_Flap AstroKid_Flap AstroKid_Flap",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "chogfun",
@@ -1500,7 +1538,8 @@
         }
       ],
       "text": " chogfun chogfun chogfun chogfun",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "citadelxbt",
@@ -1539,7 +1578,8 @@
         }
       ],
       "text": " citadelxbt citadelxbt citadelxbt citadelxbt",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "cladiogames",
@@ -1578,7 +1618,8 @@
         }
       ],
       "text": " cladiogames cladiogames cladiogames cladiogames",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "ClawCash",
@@ -1617,7 +1658,8 @@
         }
       ],
       "text": " ClawCash 0xclawlens ClawCash 0xclawlens",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "collectablefun",
@@ -1656,7 +1698,8 @@
         }
       ],
       "text": " collectablefun collectablefun collectablefun collectablefun",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "CookingTao_",
@@ -1695,7 +1738,8 @@
         }
       ],
       "text": " CookingTao_ CookingTao_ CookingTao_ CookingTao_",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "culture",
@@ -1736,7 +1780,8 @@
         }
       ],
       "text": " culture cultureANON cultureANON cultureANON",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "Dave Stacey",
@@ -1775,7 +1820,8 @@
         }
       ],
       "text": " Dave Stacey davestacey Dave Stacey davestacey",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "Dollz_nft",
@@ -1814,7 +1860,8 @@
         }
       ],
       "text": " Dollz_nft Dollz_nft Dollz_nft Dollz_nft",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "Doodles",
@@ -1855,7 +1902,8 @@
         }
       ],
       "text": " Doodles doodles doodles doodles",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "EliteGacha",
@@ -1894,7 +1942,8 @@
         }
       ],
       "text": " EliteGacha EliteGacha EliteGacha EliteGacha",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "harvy_gg",
@@ -1933,7 +1982,8 @@
         }
       ],
       "text": " harvy_gg harvy_gg harvy_gg harvy_gg",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "HeeYeo希予",
@@ -1974,7 +2024,8 @@
         }
       ],
       "text": " HeeYeo希予 HeeYeoSoHOT HeeYeoSoHOT HeeYeoSoHOT",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "Hooknomics",
@@ -2013,7 +2064,8 @@
         }
       ],
       "text": " Hooknomics Hooknomics Hooknomics Hooknomics",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "horsefun_sol",
@@ -2052,7 +2104,48 @@
         }
       ],
       "text": " horsefun_sol horsefun_sol horsefun_sol horsefun_sol",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
+    },
+    {
+      "project": "Lectogram",
+      "account": "LectogramHQ",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        ".✦ ݁˖ 🟣",
+        "ibrax"
+      ],
+      "tgAlphas": [
+        ".✦ ݁˖ 🟣",
+        "ibrax"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-06-17T17:07:22+00:00",
+      "lastSeen": "2026-06-17T17:14:52+00:00",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Lectogram",
+          "account": "LectogramHQ",
+          "alpha": "ibrax",
+          "seenAt": "2026-06-17T17:07:22+00:00",
+          "messageId": "dodtwitterbot/8307"
+        },
+        {
+          "source": "TG",
+          "project": "Lectogram",
+          "account": "LectogramHQ",
+          "alpha": ".✦ ݁˖ 🟣",
+          "seenAt": "2026-06-17T17:14:52+00:00",
+          "messageId": "dodtwitterbot/8309"
+        }
+      ],
+      "text": " Lectogram LectogramHQ Lectogram LectogramHQ",
+      "score": 4,
+      "avatarUrl": "https://unavatar.io/twitter/LectogramHQ"
     },
     {
       "project": "memecraftpf",
@@ -2091,7 +2184,8 @@
         }
       ],
       "text": " memecraftpf memecraftpf memecraftpf memecraftpf",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "nav_certs",
@@ -2130,7 +2224,8 @@
         }
       ],
       "text": " nav_certs nav_certs nav_certs nav_certs",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "ometsonmonad",
@@ -2169,7 +2264,8 @@
         }
       ],
       "text": " ometsonmonad ometsonmonad ometsonmonad ometsonmonad",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "Onchain Guppies",
@@ -2210,7 +2306,8 @@
         }
       ],
       "text": " Onchain Guppies Guppies_nft Guppies_nft Guppies_nft",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "Orbit_v4",
@@ -2249,7 +2346,48 @@
         }
       ],
       "text": " Orbit_v4 Orbit_v4 Orbit_v4 Orbit_v4",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
+    },
+    {
+      "project": "Robindogenft",
+      "account": "Robindogenft",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "AlphaFries",
+        "zyy"
+      ],
+      "tgAlphas": [
+        "AlphaFries",
+        "zyy"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-06-16T16:41:17+00:00",
+      "lastSeen": "2026-06-17T16:22:47+00:00",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Robindogenft",
+          "account": "Robindogenft",
+          "alpha": "AlphaFries",
+          "seenAt": "2026-06-16T16:41:17+00:00",
+          "messageId": "dodtwitterbot/8138"
+        },
+        {
+          "source": "TG",
+          "project": "Robindogenft",
+          "account": "Robindogenft",
+          "alpha": "zyy",
+          "seenAt": "2026-06-17T16:22:47+00:00",
+          "messageId": "dodtwitterbot/8301"
+        }
+      ],
+      "text": " Robindogenft Robindogenft Robindogenft Robindogenft",
+      "score": 4,
+      "avatarUrl": "https://unavatar.io/twitter/Robindogenft"
     },
     {
       "project": "RobinFun",
@@ -2290,7 +2428,8 @@
         }
       ],
       "text": " RobinFun robinfunxyz robinfunxyz robinfunxyz",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "roodcoin",
@@ -2329,7 +2468,8 @@
         }
       ],
       "text": " roodcoin roodcoin roodcoin roodcoin",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "RYex_finance",
@@ -2368,7 +2508,8 @@
         }
       ],
       "text": " RYex_finance RYex_finance RYex_finance RYex_finance",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "SatcoinHQ",
@@ -2407,7 +2548,8 @@
         }
       ],
       "text": " SatcoinHQ SatcoinHQ SatcoinHQ SatcoinHQ",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "Takeover Bot",
@@ -2446,7 +2588,8 @@
         }
       ],
       "text": " Takeover Bot takeoverbot Takeover Bot takeoverbot",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "tmoney_145",
@@ -2485,7 +2628,8 @@
         }
       ],
       "text": " tmoney_145 tmoney_145 tmoney_145 tmoney_145",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "trybountyai",
@@ -2524,7 +2668,8 @@
         }
       ],
       "text": " trybountyai trybountyai trybountyai trybountyai",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "unitrustsystem",
@@ -2563,7 +2708,8 @@
         }
       ],
       "text": " unitrustsystem unitrustsystem unitrustsystem unitrustsystem",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "ZebraPerps",
@@ -2602,7 +2748,8 @@
         }
       ],
       "text": " ZebraPerps ZebraPerps ZebraPerps ZebraPerps",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "zero3xyz",
@@ -2641,7 +2788,8 @@
         }
       ],
       "text": " zero3xyz zero3xyz zero3xyz zero3xyz",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "Bitcoin-Classic",
@@ -2681,7 +2829,8 @@
         }
       ],
       "text": " Bitcoin-Classic Btc_Classic_KOL Btc_Classic_KOL Btc_Classic_KOL",
-      "score": 3
+      "score": 3,
+      "avatarUrl": ""
     },
     {
       "project": "AgentiQAI",
@@ -2710,7 +2859,8 @@
         }
       ],
       "text": " AgentiQAI AgentiQAI",
-      "score": 2
+      "score": 2,
+      "avatarUrl": ""
     },
     {
       "project": "AutoPayProtocol",
@@ -2739,7 +2889,8 @@
         }
       ],
       "text": " AutoPayProtocol AutoPayProtocol",
-      "score": 2
+      "score": 2,
+      "avatarUrl": ""
     },
     {
       "project": "BaseBoredClub",
@@ -2768,7 +2919,8 @@
         }
       ],
       "text": " BaseBoredClub baseboredclub",
-      "score": 2
+      "score": 2,
+      "avatarUrl": ""
     },
     {
       "project": "baseposting",
@@ -2797,7 +2949,8 @@
         }
       ],
       "text": " baseposting baseposting",
-      "score": 2
+      "score": 2,
+      "avatarUrl": ""
     },
     {
       "project": "BerryFiBase",
@@ -2826,7 +2979,8 @@
         }
       ],
       "text": " BerryFiBase BerryFiBase",
-      "score": 2
+      "score": 2,
+      "avatarUrl": ""
     },
     {
       "project": "Cell_v4",
@@ -2855,7 +3009,8 @@
         }
       ],
       "text": " Cell_v4 Cell_v4",
-      "score": 2
+      "score": 2,
+      "avatarUrl": ""
     },
     {
       "project": "ClanWorldGame",
@@ -2884,7 +3039,8 @@
         }
       ],
       "text": " ClanWorldGame ClanWorldGame",
-      "score": 2
+      "score": 2,
+      "avatarUrl": ""
     },
     {
       "project": "Don of Base",
@@ -2913,7 +3069,8 @@
         }
       ],
       "text": " Don of Base donofbase",
-      "score": 2
+      "score": 2,
+      "avatarUrl": ""
     },
     {
       "project": "Feather Robotics",
@@ -2942,7 +3099,8 @@
         }
       ],
       "text": " Feather Robotics featherrobotics",
-      "score": 2
+      "score": 2,
+      "avatarUrl": ""
     },
     {
       "project": "Go Fund Hook",
@@ -2971,7 +3129,8 @@
         }
       ],
       "text": " Go Fund Hook GoFundHook",
-      "score": 2
+      "score": 2,
+      "avatarUrl": ""
     },
     {
       "project": "gumonchain",
@@ -3000,7 +3159,8 @@
         }
       ],
       "text": " gumonchain gumonchain",
-      "score": 2
+      "score": 2,
+      "avatarUrl": ""
     },
     {
       "project": "Kite ML",
@@ -3029,7 +3189,8 @@
         }
       ],
       "text": " Kite ML trainrobotsfast",
-      "score": 2
+      "score": 2,
+      "avatarUrl": ""
     },
     {
       "project": "Markets_xyz",
@@ -3058,7 +3219,8 @@
         }
       ],
       "text": " Markets_xyz Markets_xyz",
-      "score": 2
+      "score": 2,
+      "avatarUrl": ""
     },
     {
       "project": "OrbiesProtocol",
@@ -3087,7 +3249,8 @@
         }
       ],
       "text": " OrbiesProtocol OrbiesProtocol",
-      "score": 2
+      "score": 2,
+      "avatarUrl": ""
     },
     {
       "project": "PerpetualCow",
@@ -3116,7 +3279,8 @@
         }
       ],
       "text": " PerpetualCow PerpetualCow",
-      "score": 2
+      "score": 2,
+      "avatarUrl": ""
     },
     {
       "project": "Perpsdotfun",
@@ -3145,7 +3309,8 @@
         }
       ],
       "text": " Perpsdotfun Perpsdotfun",
-      "score": 2
+      "score": 2,
+      "avatarUrl": ""
     },
     {
       "project": "PipelineMarkets",
@@ -3174,7 +3339,8 @@
         }
       ],
       "text": " PipelineMarkets PipelineMarkets",
-      "score": 2
+      "score": 2,
+      "avatarUrl": ""
     },
     {
       "project": "Plot_v4",
@@ -3203,7 +3369,8 @@
         }
       ],
       "text": " Plot_v4 Plot_v4",
-      "score": 2
+      "score": 2,
+      "avatarUrl": ""
     },
     {
       "project": "pulsev4hook",
@@ -3232,7 +3399,38 @@
         }
       ],
       "text": " pulsev4hook pulsev4hook",
-      "score": 2
+      "score": 2,
+      "avatarUrl": ""
+    },
+    {
+      "project": "RobinHOOK",
+      "account": "Robinhookv4",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "AlphaFries"
+      ],
+      "tgAlphas": [
+        "AlphaFries"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-06-17T16:17:31+00:00",
+      "lastSeen": "2026-06-17T16:17:31+00:00",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "RobinHOOK",
+          "account": "Robinhookv4",
+          "alpha": "AlphaFries",
+          "seenAt": "2026-06-17T16:17:31+00:00",
+          "messageId": "dodtwitterbot/8299"
+        }
+      ],
+      "text": " RobinHOOK Robinhookv4",
+      "score": 2,
+      "avatarUrl": "https://unavatar.io/twitter/Robinhookv4"
     },
     {
       "project": "SHOW ROBOTICS",
@@ -3261,7 +3459,8 @@
         }
       ],
       "text": " SHOW ROBOTICS SHOW_ROBOTICS",
-      "score": 2
+      "score": 2,
+      "avatarUrl": ""
     },
     {
       "project": "Shroom",
@@ -3290,7 +3489,8 @@
         }
       ],
       "text": " Shroom shroomv4",
-      "score": 2
+      "score": 2,
+      "avatarUrl": ""
     },
     {
       "project": "Sirius_Protocol",
@@ -3319,7 +3519,8 @@
         }
       ],
       "text": " Sirius_Protocol Sirius_Protocol",
-      "score": 2
+      "score": 2,
+      "avatarUrl": ""
     },
     {
       "project": "StarbaseBNB",
@@ -3348,7 +3549,38 @@
         }
       ],
       "text": " StarbaseBNB StarbaseBNB",
-      "score": 2
+      "score": 2,
+      "avatarUrl": ""
+    },
+    {
+      "project": "voidpad",
+      "account": "voidpadv4",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "AlphaFries"
+      ],
+      "tgAlphas": [
+        "AlphaFries"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-06-17T17:54:21+00:00",
+      "lastSeen": "2026-06-17T17:54:21+00:00",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "voidpad",
+          "account": "voidpadv4",
+          "alpha": "AlphaFries",
+          "seenAt": "2026-06-17T17:54:21+00:00",
+          "messageId": "dodtwitterbot/8312"
+        }
+      ],
+      "text": " voidpad voidpadv4",
+      "score": 2,
+      "avatarUrl": "https://unavatar.io/twitter/voidpadv4"
     }
   ],
   "crossSource": [
@@ -3431,7 +3663,8 @@
         }
       ],
       "text": " Origin OriginLaunchpad OriginLaunchpad OriginLaunchpad OriginLaunchpad OriginLaunchpad OriginLaunchpad OriginLaunchpad OriginLaunchpad OriginLaunchpad OriginLaunchpad OriginLaunchpad",
-      "score": 12
+      "score": 12,
+      "avatarUrl": ""
     },
     {
       "project": "Pay.meme",
@@ -3502,7 +3735,8 @@
         }
       ],
       "text": " Pay.meme Paymeme_ Paymeme_ Paymeme_ Paymeme_ Paymeme_ Paymeme_ Paymeme_ Paymeme_ Paymeme_",
-      "score": 10
+      "score": 10,
+      "avatarUrl": ""
     },
     {
       "project": "RocX",
@@ -3573,7 +3807,8 @@
         }
       ],
       "text": " RocX RocX_official RocX_official RocX_official RocX_official RocX_official RocX_official RocX_official RocX_official RocX_official",
-      "score": 10
+      "score": 10,
+      "avatarUrl": ""
     },
     {
       "project": "ambient.xyz",
@@ -3634,7 +3869,8 @@
         }
       ],
       "text": " ambient.xyz ambient_xyz ambient_xyz ambient_xyz ambient_xyz ambient_xyz ambient_xyz ambient_xyz",
-      "score": 8
+      "score": 8,
+      "avatarUrl": ""
     },
     {
       "project": "eggz",
@@ -3695,7 +3931,8 @@
         }
       ],
       "text": " eggz eggzbase eggzbase eggzbase eggzbase eggzbase eggzbase eggzbase",
-      "score": 8
+      "score": 8,
+      "avatarUrl": ""
     },
     {
       "project": "0xSwen",
@@ -3746,7 +3983,8 @@
         }
       ],
       "text": " 0xSwen SwenChan 0xSwen SwenChan SwenChan SwenChan",
-      "score": 6
+      "score": 6,
+      "avatarUrl": ""
     },
     {
       "project": "Flovia",
@@ -3797,7 +4035,8 @@
         }
       ],
       "text": " Flovia flovia402 flovia402 flovia402 flovia402 flovia402",
-      "score": 6
+      "score": 6,
+      "avatarUrl": ""
     },
     {
       "project": "Heisted",
@@ -3848,7 +4087,8 @@
         }
       ],
       "text": " Heisted Heistedxyz Heisted Heistedxyz Heistedxyz Heistedxyz",
-      "score": 6
+      "score": 6,
+      "avatarUrl": ""
     },
     {
       "project": "MrsDoodlifts",
@@ -3899,7 +4139,8 @@
         }
       ],
       "text": " MrsDoodlifts MrsDoodlifts MrsDoodlifts MrsDoodlifts MrsDoodlifts MrsDoodlifts",
-      "score": 6
+      "score": 6,
+      "avatarUrl": ""
     },
     {
       "project": "01",
@@ -3940,7 +4181,8 @@
         }
       ],
       "text": " 01 zero1cash zero1cash zero1cash",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "打死都不卖",
@@ -3981,7 +4223,8 @@
         }
       ],
       "text": " 打死都不卖 LynnChu26 LynnChu26 LynnChu26",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "Baby Asteroid",
@@ -4022,7 +4265,8 @@
         }
       ],
       "text": " Baby Asteroid AstroKid_Flap AstroKid_Flap AstroKid_Flap",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "culture",
@@ -4063,7 +4307,8 @@
         }
       ],
       "text": " culture cultureANON cultureANON cultureANON",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "Doodles",
@@ -4104,7 +4349,8 @@
         }
       ],
       "text": " Doodles doodles doodles doodles",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "HeeYeo希予",
@@ -4145,7 +4391,8 @@
         }
       ],
       "text": " HeeYeo希予 HeeYeoSoHOT HeeYeoSoHOT HeeYeoSoHOT",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "Onchain Guppies",
@@ -4186,7 +4433,8 @@
         }
       ],
       "text": " Onchain Guppies Guppies_nft Guppies_nft Guppies_nft",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "RobinFun",
@@ -4227,7 +4475,8 @@
         }
       ],
       "text": " RobinFun robinfunxyz robinfunxyz robinfunxyz",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "Bitcoin-Classic",
@@ -4267,7 +4516,8 @@
         }
       ],
       "text": " Bitcoin-Classic Btc_Classic_KOL Btc_Classic_KOL Btc_Classic_KOL",
-      "score": 3
+      "score": 3,
+      "avatarUrl": ""
     }
   ],
   "xMultiAlpha": [
@@ -4350,7 +4600,8 @@
         }
       ],
       "text": " Origin OriginLaunchpad OriginLaunchpad OriginLaunchpad OriginLaunchpad OriginLaunchpad OriginLaunchpad OriginLaunchpad OriginLaunchpad OriginLaunchpad OriginLaunchpad OriginLaunchpad",
-      "score": 12
+      "score": 12,
+      "avatarUrl": ""
     },
     {
       "project": "Pay.meme",
@@ -4421,7 +4672,8 @@
         }
       ],
       "text": " Pay.meme Paymeme_ Paymeme_ Paymeme_ Paymeme_ Paymeme_ Paymeme_ Paymeme_ Paymeme_ Paymeme_",
-      "score": 10
+      "score": 10,
+      "avatarUrl": ""
     },
     {
       "project": "RocX",
@@ -4492,7 +4744,8 @@
         }
       ],
       "text": " RocX RocX_official RocX_official RocX_official RocX_official RocX_official RocX_official RocX_official RocX_official RocX_official",
-      "score": 10
+      "score": 10,
+      "avatarUrl": ""
     },
     {
       "project": "ambient.xyz",
@@ -4553,7 +4806,8 @@
         }
       ],
       "text": " ambient.xyz ambient_xyz ambient_xyz ambient_xyz ambient_xyz ambient_xyz ambient_xyz ambient_xyz",
-      "score": 8
+      "score": 8,
+      "avatarUrl": ""
     },
     {
       "project": "eggz",
@@ -4614,7 +4868,8 @@
         }
       ],
       "text": " eggz eggzbase eggzbase eggzbase eggzbase eggzbase eggzbase eggzbase",
-      "score": 8
+      "score": 8,
+      "avatarUrl": ""
     },
     {
       "project": "mondeto",
@@ -4673,7 +4928,8 @@
         }
       ],
       "text": " mondeto mondeto mondeto mondeto mondeto mondeto mondeto mondeto",
-      "score": 8
+      "score": 8,
+      "avatarUrl": ""
     },
     {
       "project": "0xSwen",
@@ -4724,7 +4980,8 @@
         }
       ],
       "text": " 0xSwen SwenChan 0xSwen SwenChan SwenChan SwenChan",
-      "score": 6
+      "score": 6,
+      "avatarUrl": ""
     },
     {
       "project": "agentscupv4",
@@ -4773,7 +5030,8 @@
         }
       ],
       "text": " agentscupv4 agentscupv4 agentscupv4 agentscupv4 agentscupv4 agentscupv4",
-      "score": 6
+      "score": 6,
+      "avatarUrl": ""
     },
     {
       "project": "ArcPump",
@@ -4822,7 +5080,8 @@
         }
       ],
       "text": " ArcPump ArcPump ArcPump ArcPump ArcPump ArcPump",
-      "score": 6
+      "score": 6,
+      "avatarUrl": ""
     },
     {
       "project": "DohmFinance",
@@ -4871,7 +5130,8 @@
         }
       ],
       "text": " DohmFinance DohmFinance DohmFinance DohmFinance DohmFinance DohmFinance",
-      "score": 6
+      "score": 6,
+      "avatarUrl": ""
     },
     {
       "project": "echonv4",
@@ -4920,7 +5180,8 @@
         }
       ],
       "text": " echonv4 echonv4 echonv4 echonv4 echonv4 echonv4",
-      "score": 6
+      "score": 6,
+      "avatarUrl": ""
     },
     {
       "project": "emergent_inc",
@@ -4969,7 +5230,8 @@
         }
       ],
       "text": " emergent_inc emergent_inc emergent_inc emergent_inc emergent_inc emergent_inc",
-      "score": 6
+      "score": 6,
+      "avatarUrl": ""
     },
     {
       "project": "Fadestate",
@@ -5018,7 +5280,8 @@
         }
       ],
       "text": " Fadestate Fadestate Fadestate Fadestate Fadestate Fadestate",
-      "score": 6
+      "score": 6,
+      "avatarUrl": ""
     },
     {
       "project": "Flovia",
@@ -5069,7 +5332,8 @@
         }
       ],
       "text": " Flovia flovia402 flovia402 flovia402 flovia402 flovia402",
-      "score": 6
+      "score": 6,
+      "avatarUrl": ""
     },
     {
       "project": "Heisted",
@@ -5120,7 +5384,8 @@
         }
       ],
       "text": " Heisted Heistedxyz Heisted Heistedxyz Heistedxyz Heistedxyz",
-      "score": 6
+      "score": 6,
+      "avatarUrl": ""
     },
     {
       "project": "mmorpg_fun",
@@ -5169,7 +5434,8 @@
         }
       ],
       "text": " mmorpg_fun mmorpg_fun mmorpg_fun mmorpg_fun mmorpg_fun mmorpg_fun",
-      "score": 6
+      "score": 6,
+      "avatarUrl": ""
     },
     {
       "project": "MrsDoodlifts",
@@ -5220,7 +5486,8 @@
         }
       ],
       "text": " MrsDoodlifts MrsDoodlifts MrsDoodlifts MrsDoodlifts MrsDoodlifts MrsDoodlifts",
-      "score": 6
+      "score": 6,
+      "avatarUrl": ""
     },
     {
       "project": "secure_rob",
@@ -5269,7 +5536,8 @@
         }
       ],
       "text": " secure_rob secure_rob secure_rob secure_rob secure_rob secure_rob",
-      "score": 6
+      "score": 6,
+      "avatarUrl": ""
     },
     {
       "project": "01",
@@ -5310,7 +5578,8 @@
         }
       ],
       "text": " 01 zero1cash zero1cash zero1cash",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "打死都不卖",
@@ -5351,7 +5620,8 @@
         }
       ],
       "text": " 打死都不卖 LynnChu26 LynnChu26 LynnChu26",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "Ask_CarpeDiem",
@@ -5390,7 +5660,8 @@
         }
       ],
       "text": " Ask_CarpeDiem Ask_CarpeDiem Ask_CarpeDiem Ask_CarpeDiem",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "Baby Asteroid",
@@ -5431,7 +5702,8 @@
         }
       ],
       "text": " Baby Asteroid AstroKid_Flap AstroKid_Flap AstroKid_Flap",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "chogfun",
@@ -5470,7 +5742,8 @@
         }
       ],
       "text": " chogfun chogfun chogfun chogfun",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "citadelxbt",
@@ -5509,7 +5782,8 @@
         }
       ],
       "text": " citadelxbt citadelxbt citadelxbt citadelxbt",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "cladiogames",
@@ -5548,7 +5822,8 @@
         }
       ],
       "text": " cladiogames cladiogames cladiogames cladiogames",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "collectablefun",
@@ -5587,7 +5862,8 @@
         }
       ],
       "text": " collectablefun collectablefun collectablefun collectablefun",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "CookingTao_",
@@ -5626,7 +5902,8 @@
         }
       ],
       "text": " CookingTao_ CookingTao_ CookingTao_ CookingTao_",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "culture",
@@ -5667,7 +5944,8 @@
         }
       ],
       "text": " culture cultureANON cultureANON cultureANON",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "Dollz_nft",
@@ -5706,7 +5984,8 @@
         }
       ],
       "text": " Dollz_nft Dollz_nft Dollz_nft Dollz_nft",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "Doodles",
@@ -5747,7 +6026,8 @@
         }
       ],
       "text": " Doodles doodles doodles doodles",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "EliteGacha",
@@ -5786,7 +6066,8 @@
         }
       ],
       "text": " EliteGacha EliteGacha EliteGacha EliteGacha",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "harvy_gg",
@@ -5825,7 +6106,8 @@
         }
       ],
       "text": " harvy_gg harvy_gg harvy_gg harvy_gg",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "HeeYeo希予",
@@ -5866,7 +6148,8 @@
         }
       ],
       "text": " HeeYeo希予 HeeYeoSoHOT HeeYeoSoHOT HeeYeoSoHOT",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "Hooknomics",
@@ -5905,7 +6188,8 @@
         }
       ],
       "text": " Hooknomics Hooknomics Hooknomics Hooknomics",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "horsefun_sol",
@@ -5944,7 +6228,8 @@
         }
       ],
       "text": " horsefun_sol horsefun_sol horsefun_sol horsefun_sol",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "memecraftpf",
@@ -5983,7 +6268,8 @@
         }
       ],
       "text": " memecraftpf memecraftpf memecraftpf memecraftpf",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "nav_certs",
@@ -6022,7 +6308,8 @@
         }
       ],
       "text": " nav_certs nav_certs nav_certs nav_certs",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "ometsonmonad",
@@ -6061,7 +6348,8 @@
         }
       ],
       "text": " ometsonmonad ometsonmonad ometsonmonad ometsonmonad",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "Onchain Guppies",
@@ -6102,7 +6390,8 @@
         }
       ],
       "text": " Onchain Guppies Guppies_nft Guppies_nft Guppies_nft",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "Orbit_v4",
@@ -6141,7 +6430,8 @@
         }
       ],
       "text": " Orbit_v4 Orbit_v4 Orbit_v4 Orbit_v4",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "RobinFun",
@@ -6182,7 +6472,8 @@
         }
       ],
       "text": " RobinFun robinfunxyz robinfunxyz robinfunxyz",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "roodcoin",
@@ -6221,7 +6512,8 @@
         }
       ],
       "text": " roodcoin roodcoin roodcoin roodcoin",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "RYex_finance",
@@ -6260,7 +6552,8 @@
         }
       ],
       "text": " RYex_finance RYex_finance RYex_finance RYex_finance",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "SatcoinHQ",
@@ -6299,7 +6592,8 @@
         }
       ],
       "text": " SatcoinHQ SatcoinHQ SatcoinHQ SatcoinHQ",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "trybountyai",
@@ -6338,7 +6632,8 @@
         }
       ],
       "text": " trybountyai trybountyai trybountyai trybountyai",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "unitrustsystem",
@@ -6377,7 +6672,8 @@
         }
       ],
       "text": " unitrustsystem unitrustsystem unitrustsystem unitrustsystem",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "ZebraPerps",
@@ -6416,7 +6712,8 @@
         }
       ],
       "text": " ZebraPerps ZebraPerps ZebraPerps ZebraPerps",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     },
     {
       "project": "zero3xyz",
@@ -6455,18 +6752,30 @@
         }
       ],
       "text": " zero3xyz zero3xyz zero3xyz zero3xyz",
-      "score": 4
+      "score": 4,
+      "avatarUrl": ""
     }
   ],
   "tgPriority": [
     {
-      "project": "RobinFun",
-      "x_account": "robinfunxyz",
-      "total_mentions": 4,
+      "project": "4626.fun",
+      "x_account": "4626fun",
+      "total_mentions": 5,
       "unique_alphas": "4",
-      "first_seen_utc": "2026-06-16T16:19:59+00:00",
-      "last_seen_utc": "2026-06-16T16:39:53+00:00",
-      "status": "priority"
+      "first_seen_utc": "2026-06-17T09:24:20+00:00",
+      "last_seen_utc": "2026-06-17T17:14:52+00:00",
+      "status": "priority",
+      "avatarUrl": "https://unavatar.io/twitter/4626fun"
+    },
+    {
+      "project": "Lectogram",
+      "x_account": "LectogramHQ",
+      "total_mentions": 4,
+      "unique_alphas": "2",
+      "first_seen_utc": "2026-06-17T17:07:22+00:00",
+      "last_seen_utc": "2026-06-17T17:14:52+00:00",
+      "status": "priority",
+      "avatarUrl": "https://unavatar.io/twitter/LectogramHQ"
     },
     {
       "project": "Robinhook",
@@ -6475,16 +6784,8 @@
       "unique_alphas": "4",
       "first_seen_utc": "2026-06-15T15:14:35+00:00",
       "last_seen_utc": "2026-06-15T16:17:21+00:00",
-      "status": "priority"
-    },
-    {
-      "project": "4626.fun",
-      "x_account": "4626fun",
-      "total_mentions": 3,
-      "unique_alphas": "3",
-      "first_seen_utc": "2026-06-17T09:24:20+00:00",
-      "last_seen_utc": "2026-06-17T09:34:09+00:00",
-      "status": "priority"
+      "status": "priority",
+      "avatarUrl": ""
     },
     {
       "project": "eiDotter",
@@ -6493,7 +6794,18 @@
       "unique_alphas": "3",
       "first_seen_utc": "2026-06-15T15:11:24+00:00",
       "last_seen_utc": "2026-06-15T15:16:10+00:00",
-      "status": "priority"
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Robindogenft",
+      "x_account": "Robindogenft",
+      "total_mentions": 3,
+      "unique_alphas": "2",
+      "first_seen_utc": "2026-06-16T16:41:17+00:00",
+      "last_seen_utc": "2026-06-17T16:22:47+00:00",
+      "status": "priority",
+      "avatarUrl": "https://unavatar.io/twitter/Robindogenft"
     },
     {
       "project": "TCG Arena",
@@ -6502,7 +6814,8 @@
       "unique_alphas": "3",
       "first_seen_utc": "2026-06-17T08:09:35+00:00",
       "last_seen_utc": "2026-06-17T08:29:14+00:00",
-      "status": "priority"
+      "status": "priority",
+      "avatarUrl": ""
     },
     {
       "project": "WordBank",
@@ -6511,7 +6824,18 @@
       "unique_alphas": "3",
       "first_seen_utc": "2026-06-17T10:15:50+00:00",
       "last_seen_utc": "2026-06-17T10:27:36+00:00",
-      "status": "priority"
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
+      "project": "0xSwen",
+      "x_account": "SwenChan",
+      "total_mentions": 2,
+      "unique_alphas": "2",
+      "first_seen_utc": "2026-06-15T15:37:47+00:00",
+      "last_seen_utc": "2026-06-16T04:36:43+00:00",
+      "status": "watch",
+      "avatarUrl": ""
     },
     {
       "project": "ACK",
@@ -6520,7 +6844,8 @@
       "unique_alphas": "2",
       "first_seen_utc": "2026-06-17T07:12:21+00:00",
       "last_seen_utc": "2026-06-17T07:13:45+00:00",
-      "status": "watch"
+      "status": "watch",
+      "avatarUrl": ""
     },
     {
       "project": "ClawCash",
@@ -6529,7 +6854,28 @@
       "unique_alphas": "2",
       "first_seen_utc": "2026-06-17T10:08:33+00:00",
       "last_seen_utc": "2026-06-17T11:06:43+00:00",
-      "status": "priority"
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Dave Stacey",
+      "x_account": "davestacey",
+      "total_mentions": 2,
+      "unique_alphas": "2",
+      "first_seen_utc": "2026-06-15T15:11:24+00:00",
+      "last_seen_utc": "2026-06-15T15:11:25+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Fixels",
+      "x_account": "Fixels_ETH",
+      "total_mentions": 2,
+      "unique_alphas": "1",
+      "first_seen_utc": "2026-06-17T16:42:24+00:00",
+      "last_seen_utc": "2026-06-17T16:42:24+00:00",
+      "status": "watch",
+      "avatarUrl": "https://unavatar.io/twitter/Fixels_ETH"
     },
     {
       "project": "Heisted",
@@ -6538,16 +6884,48 @@
       "unique_alphas": "2",
       "first_seen_utc": "2026-06-16T16:56:14+00:00",
       "last_seen_utc": "2026-06-17T08:02:30+00:00",
-      "status": "insufficient"
+      "status": "watch",
+      "avatarUrl": ""
     },
     {
-      "project": "Kora Game",
-      "x_account": "koragamepx",
+      "project": "Hot Hands",
+      "x_account": "hothandsdotfun",
+      "total_mentions": 2,
+      "unique_alphas": "1",
+      "first_seen_utc": "2026-06-17T17:14:52+00:00",
+      "last_seen_utc": "2026-06-17T17:14:52+00:00",
+      "status": "watch",
+      "avatarUrl": "https://unavatar.io/twitter/hothandsdotfun"
+    },
+    {
+      "project": "MrsDoodlifts",
+      "x_account": "MrsDoodlifts",
       "total_mentions": 2,
       "unique_alphas": "2",
-      "first_seen_utc": "2026-06-16T15:14:42+00:00",
-      "last_seen_utc": "2026-06-16T15:17:29+00:00",
-      "status": "watch"
+      "first_seen_utc": "2026-06-15T15:56:28+00:00",
+      "last_seen_utc": "2026-06-15T15:56:29+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "RobinHOOK",
+      "x_account": "Robinhookv4",
+      "total_mentions": 2,
+      "unique_alphas": "1",
+      "first_seen_utc": "2026-06-17T16:17:31+00:00",
+      "last_seen_utc": "2026-06-17T16:17:31+00:00",
+      "status": "watch",
+      "avatarUrl": "https://unavatar.io/twitter/Robinhookv4"
+    },
+    {
+      "project": "Screen Charm",
+      "x_account": "ScreenCharm",
+      "total_mentions": 2,
+      "unique_alphas": "1",
+      "first_seen_utc": "2026-06-17T16:19:46+00:00",
+      "last_seen_utc": "2026-06-17T16:19:46+00:00",
+      "status": "watch",
+      "avatarUrl": "https://unavatar.io/twitter/ScreenCharm"
     },
     {
       "project": "Takeover Bot",
@@ -6556,7 +6934,38 @@
       "unique_alphas": "2",
       "first_seen_utc": "2026-06-17T11:06:43+00:00",
       "last_seen_utc": "2026-06-17T11:09:44+00:00",
-      "status": "watch"
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "tmoney_145",
+      "x_account": "tmoney_145",
+      "total_mentions": 2,
+      "unique_alphas": "2",
+      "first_seen_utc": "2026-06-17T07:12:54+00:00",
+      "last_seen_utc": "2026-06-17T07:13:44+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "TROLL",
+      "x_account": "Troll_",
+      "total_mentions": 2,
+      "unique_alphas": "1",
+      "first_seen_utc": "2026-06-17T16:10:33+00:00",
+      "last_seen_utc": "2026-06-17T16:10:33+00:00",
+      "status": "watch",
+      "avatarUrl": "https://unavatar.io/twitter/Troll_"
+    },
+    {
+      "project": "voidpad",
+      "x_account": "voidpadv4",
+      "total_mentions": 2,
+      "unique_alphas": "1",
+      "first_seen_utc": "2026-06-17T17:54:21+00:00",
+      "last_seen_utc": "2026-06-17T17:54:21+00:00",
+      "status": "watch",
+      "avatarUrl": "https://unavatar.io/twitter/voidpadv4"
     },
     {
       "project": "BaseBoredClub",
@@ -6565,7 +6974,18 @@
       "unique_alphas": "1",
       "first_seen_utc": "2026-06-17T07:37:43+00:00",
       "last_seen_utc": "2026-06-17T07:37:43+00:00",
-      "status": "watch"
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Don of Base",
+      "x_account": "donofbase",
+      "total_mentions": 1,
+      "unique_alphas": "1",
+      "first_seen_utc": "2026-06-17T10:23:09+00:00",
+      "last_seen_utc": "2026-06-17T10:23:09+00:00",
+      "status": "watch",
+      "avatarUrl": ""
     },
     {
       "project": "eggz",
@@ -6574,7 +6994,8 @@
       "unique_alphas": "1",
       "first_seen_utc": "2026-06-17T10:31:55+00:00",
       "last_seen_utc": "2026-06-17T10:31:55+00:00",
-      "status": "watch"
+      "status": "watch",
+      "avatarUrl": ""
     },
     {
       "project": "Feather Robotics",
@@ -6583,7 +7004,8 @@
       "unique_alphas": "1",
       "first_seen_utc": "2026-06-16T05:53:29+00:00",
       "last_seen_utc": "2026-06-16T05:53:29+00:00",
-      "status": "watch"
+      "status": "watch",
+      "avatarUrl": ""
     },
     {
       "project": "Go Fund Hook",
@@ -6592,7 +7014,8 @@
       "unique_alphas": "1",
       "first_seen_utc": "2026-06-16T17:51:01+00:00",
       "last_seen_utc": "2026-06-16T17:51:01+00:00",
-      "status": "watch"
+      "status": "watch",
+      "avatarUrl": ""
     },
     {
       "project": "Kite ML",
@@ -6601,7 +7024,18 @@
       "unique_alphas": "1",
       "first_seen_utc": "2026-06-16T17:05:03+00:00",
       "last_seen_utc": "2026-06-16T17:05:03+00:00",
-      "status": "watch"
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Onchain Guppies",
+      "x_account": "Guppies_nft",
+      "total_mentions": 1,
+      "unique_alphas": "1",
+      "first_seen_utc": "2026-06-16T06:28:11+00:00",
+      "last_seen_utc": "2026-06-16T06:28:11+00:00",
+      "status": "watch",
+      "avatarUrl": ""
     },
     {
       "project": "Origin",
@@ -6610,7 +7044,8 @@
       "unique_alphas": "1",
       "first_seen_utc": "2026-06-16T06:29:44+00:00",
       "last_seen_utc": "2026-06-16T06:29:44+00:00",
-      "status": "watch"
+      "status": "watch",
+      "avatarUrl": ""
     },
     {
       "project": "SHOW ROBOTICS",
@@ -6619,7 +7054,8 @@
       "unique_alphas": "1",
       "first_seen_utc": "2026-06-16T05:53:29+00:00",
       "last_seen_utc": "2026-06-16T05:53:29+00:00",
-      "status": "watch"
+      "status": "watch",
+      "avatarUrl": ""
     },
     {
       "project": "Shroom",
@@ -6628,14 +7064,25 @@
       "unique_alphas": "1",
       "first_seen_utc": "2026-06-17T07:37:43+00:00",
       "last_seen_utc": "2026-06-17T07:37:43+00:00",
-      "status": "watch"
+      "status": "watch",
+      "avatarUrl": ""
     }
   ],
   "reports": [
     {
+      "file": "last-update-error.log",
+      "title": "last-update-error.log",
+      "updatedAt": "2026-06-17T18:50:28.458Z"
+    },
+    {
       "file": "2026-06-17-1930-monitor.md",
       "title": "2026-06-17-1930-monitor",
       "updatedAt": "2026-06-17T11:33:01.543Z"
+    },
+    {
+      "file": "2026-06-17-1816-telegram-browser.md",
+      "title": "2026-06-17-1816-telegram-browser",
+      "updatedAt": "2026-06-17T18:16:40.831Z"
     },
     {
       "file": "2026-06-17-1632-monitor.md",

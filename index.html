@@ -17,7 +17,28 @@
   </header>
 
   <main>
+    <section class="filters">
+      <input id="search" type="search" placeholder="搜索项目、X 账号或 Alpha">
+      <select id="range">
+        <option value="all">全部时间</option>
+        <option value="6h">最近 6 小时</option>
+        <option value="24h">今天/24小时</option>
+        <option value="3d">最近 3 天</option>
+      </select>
+      <select id="source">
+        <option value="all">全部来源</option>
+        <option value="cross">TG + X 双来源</option>
+        <option value="tg">只看 TG</option>
+        <option value="x">只看 X</option>
+      </select>
+    </section>
+
     <section class="cards" id="totals"></section>
+
+    <section>
+      <h2>重点项目</h2>
+      <div id="priority"></div>
+    </section>
 
     <section>
       <h2>TG 和 X 都有提及</h2>

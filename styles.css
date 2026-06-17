@@ -44,6 +44,26 @@ button {
   cursor: pointer;
 }
 
+input, select {
+  width: 100%;
+  border: 1px solid var(--line);
+  background: var(--panel);
+  color: var(--text);
+  border-radius: 10px;
+  padding: 11px 12px;
+  outline: none;
+}
+
+input:focus, select:focus, button:hover {
+  border-color: var(--accent);
+}
+
+.filters {
+  display: grid;
+  grid-template-columns: minmax(240px, 1fr) 160px 180px;
+  gap: 12px;
+}
+
 .cards {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
@@ -116,5 +136,39 @@ a { color: var(--accent); text-decoration: none; }
   color: var(--muted);
   font-size: 12px;
 }
+.level {
+  display: inline-block;
+  min-width: 42px;
+  padding: 4px 8px;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 700;
+  text-align: center;
+}
+.level-high {
+  color: #07130e;
+  background: var(--accent);
+}
+.level-mid {
+  color: #211704;
+  background: var(--warn);
+}
+.level-watch {
+  color: var(--muted);
+  border: 1px solid var(--line);
+}
 .empty { color: var(--muted); padding: 16px; }
 .score { color: var(--warn); font-weight: 700; }
+
+@media (max-width: 760px) {
+  header {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .filters {
+    grid-template-columns: 1fr;
+  }
+  th, td {
+    padding: 10px 9px;
+  }
+}
