@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-17T19:03:35.724Z",
+  "generatedAt": "2026-06-17T19:32:28.780Z",
   "totals": {
     "telegramRows": 107,
     "xRows": 282,
-    "projects": 86,
-    "crossSource": 18
+    "projects": 80,
+    "crossSource": 14
   },
   "projects": [
     {
@@ -158,78 +158,6 @@
         }
       ],
       "text": " Pay.meme Paymeme_ Paymeme_ Paymeme_ Paymeme_ Paymeme_ Paymeme_ Paymeme_ Paymeme_ Paymeme_",
-      "score": 10,
-      "avatarUrl": ""
-    },
-    {
-      "project": "RocX",
-      "account": "RocX_official",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "Mutu",
-        "TheVoldron",
-        "ibraxbt",
-        "juesaiquan",
-        "mutu_1987"
-      ],
-      "tgAlphas": [
-        "Mutu"
-      ],
-      "xAlphas": [
-        "TheVoldron",
-        "ibraxbt",
-        "juesaiquan",
-        "mutu_1987"
-      ],
-      "mentions": 5,
-      "firstSeen": "2026-06-16T05:50:12+00:00",
-      "lastSeen": "2026-06-17",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "RocX",
-          "account": "RocX_official",
-          "alpha": "Mutu",
-          "seenAt": "2026-06-16T05:50:12+00:00",
-          "messageId": "dodtwitterbot/8015"
-        },
-        {
-          "source": "X",
-          "project": "RocX_official",
-          "account": "RocX_official",
-          "alpha": "TheVoldron",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-TheVoldron.csv"
-        },
-        {
-          "source": "X",
-          "project": "RocX_official",
-          "account": "RocX_official",
-          "alpha": "ibraxbt",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-ibraxbt.csv"
-        },
-        {
-          "source": "X",
-          "project": "RocX_official",
-          "account": "RocX_official",
-          "alpha": "juesaiquan",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-juesaiquan.csv"
-        },
-        {
-          "source": "X",
-          "project": "RocX_official",
-          "account": "RocX_official",
-          "alpha": "mutu_1987",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-mutu_1987.csv"
-        }
-      ],
-      "text": " RocX RocX_official RocX_official RocX_official RocX_official RocX_official RocX_official RocX_official RocX_official RocX_official",
       "score": 10,
       "avatarUrl": ""
     },
@@ -535,58 +463,6 @@
       ],
       "text": " Robinhook RobinhookApp Robinhook RobinhookApp Robinhook RobinhookApp Robinhook RobinhookApp",
       "score": 8,
-      "avatarUrl": ""
-    },
-    {
-      "project": "0xSwen",
-      "account": "SwenChan",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "NotVanGogh88",
-        "发誓要做永赚大师",
-        "阿宏"
-      ],
-      "tgAlphas": [
-        "发誓要做永赚大师",
-        "阿宏"
-      ],
-      "xAlphas": [
-        "NotVanGogh88"
-      ],
-      "mentions": 3,
-      "firstSeen": "2026-06-15T15:37:47+00:00",
-      "lastSeen": "2026-06-17",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "0xSwen",
-          "account": "SwenChan",
-          "alpha": "阿宏",
-          "seenAt": "2026-06-15T15:37:47+00:00",
-          "messageId": "dodtwitterbot/7906"
-        },
-        {
-          "source": "TG",
-          "project": "0xSwen",
-          "account": "SwenChan",
-          "alpha": "发誓要做永赚大师",
-          "seenAt": "2026-06-16T04:36:43+00:00",
-          "messageId": "dodtwitterbot/8007"
-        },
-        {
-          "source": "X",
-          "project": "SwenChan",
-          "account": "SwenChan",
-          "alpha": "NotVanGogh88",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-NotVanGogh88.csv"
-        }
-      ],
-      "text": " 0xSwen SwenChan 0xSwen SwenChan SwenChan SwenChan",
-      "score": 6,
       "avatarUrl": ""
     },
     {
@@ -1090,58 +966,6 @@
         }
       ],
       "text": " mmorpg_fun mmorpg_fun mmorpg_fun mmorpg_fun mmorpg_fun mmorpg_fun",
-      "score": 6,
-      "avatarUrl": ""
-    },
-    {
-      "project": "MrsDoodlifts",
-      "account": "MrsDoodlifts",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "zizai3ro",
-        "自在",
-        "阿宏"
-      ],
-      "tgAlphas": [
-        "自在",
-        "阿宏"
-      ],
-      "xAlphas": [
-        "zizai3ro"
-      ],
-      "mentions": 3,
-      "firstSeen": "2026-06-15T15:56:28+00:00",
-      "lastSeen": "2026-06-17",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "MrsDoodlifts",
-          "account": "MrsDoodlifts",
-          "alpha": "阿宏",
-          "seenAt": "2026-06-15T15:56:28+00:00",
-          "messageId": "dodtwitterbot/7908"
-        },
-        {
-          "source": "TG",
-          "project": "MrsDoodlifts",
-          "account": "MrsDoodlifts",
-          "alpha": "自在",
-          "seenAt": "2026-06-15T15:56:29+00:00",
-          "messageId": "dodtwitterbot/7910"
-        },
-        {
-          "source": "X",
-          "project": "MrsDoodlifts",
-          "account": "MrsDoodlifts",
-          "alpha": "zizai3ro",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-zizai3ro.csv"
-        }
-      ],
-      "text": " MrsDoodlifts MrsDoodlifts MrsDoodlifts MrsDoodlifts MrsDoodlifts MrsDoodlifts",
       "score": 6,
       "avatarUrl": ""
     },
@@ -1780,46 +1604,6 @@
         }
       ],
       "text": " culture cultureANON cultureANON cultureANON",
-      "score": 4,
-      "avatarUrl": ""
-    },
-    {
-      "project": "Dave Stacey",
-      "account": "davestacey",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "发誓要做永赚大师",
-        "阿宏"
-      ],
-      "tgAlphas": [
-        "发誓要做永赚大师",
-        "阿宏"
-      ],
-      "xAlphas": [],
-      "mentions": 2,
-      "firstSeen": "2026-06-15T15:11:24+00:00",
-      "lastSeen": "2026-06-15T15:11:25+00:00",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Dave Stacey",
-          "account": "davestacey",
-          "alpha": "阿宏",
-          "seenAt": "2026-06-15T15:11:24+00:00",
-          "messageId": "dodtwitterbot/7896"
-        },
-        {
-          "source": "TG",
-          "project": "Dave Stacey",
-          "account": "davestacey",
-          "alpha": "发誓要做永赚大师",
-          "seenAt": "2026-06-15T15:11:25+00:00",
-          "messageId": "dodtwitterbot/7899"
-        }
-      ],
-      "text": " Dave Stacey davestacey Dave Stacey davestacey",
       "score": 4,
       "avatarUrl": ""
     },
@@ -2592,46 +2376,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "tmoney_145",
-      "account": "tmoney_145",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "Ahong",
-        "NotVanGogh88"
-      ],
-      "tgAlphas": [
-        "Ahong",
-        "NotVanGogh88"
-      ],
-      "xAlphas": [],
-      "mentions": 2,
-      "firstSeen": "2026-06-17T07:12:54+00:00",
-      "lastSeen": "2026-06-17T07:13:44+00:00",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "tmoney_145",
-          "account": "tmoney_145",
-          "alpha": "NotVanGogh88",
-          "seenAt": "2026-06-17T07:12:54+00:00",
-          "messageId": "dodtwitterbot/8206"
-        },
-        {
-          "source": "TG",
-          "project": "tmoney_145",
-          "account": "tmoney_145",
-          "alpha": "Ahong",
-          "seenAt": "2026-06-17T07:13:44+00:00",
-          "messageId": "dodtwitterbot/8207"
-        }
-      ],
-      "text": " tmoney_145 tmoney_145 tmoney_145 tmoney_145",
-      "score": 4,
-      "avatarUrl": ""
-    },
-    {
       "project": "trybountyai",
       "account": "trybountyai",
       "sources": [
@@ -2789,47 +2533,6 @@
       ],
       "text": " zero3xyz zero3xyz zero3xyz zero3xyz",
       "score": 4,
-      "avatarUrl": ""
-    },
-    {
-      "project": "Bitcoin-Classic",
-      "account": "Btc_Classic_KOL",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "nlgcf69515952"
-      ],
-      "tgAlphas": [
-        "nlgcf69515952"
-      ],
-      "xAlphas": [
-        "nlgcf69515952"
-      ],
-      "mentions": 2,
-      "firstSeen": "2026-06-16T16:33:48+00:00",
-      "lastSeen": "2026-06-17",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Bitcoin-Classic",
-          "account": "Btc_Classic_KOL",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-16T16:33:48+00:00",
-          "messageId": "dodtwitterbot/8136"
-        },
-        {
-          "source": "X",
-          "project": "Btc_Classic_KOL",
-          "account": "Btc_Classic_KOL",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-nlgcf69515952.csv"
-        }
-      ],
-      "text": " Bitcoin-Classic Btc_Classic_KOL Btc_Classic_KOL Btc_Classic_KOL",
-      "score": 3,
       "avatarUrl": ""
     },
     {
@@ -3043,32 +2746,32 @@
       "avatarUrl": ""
     },
     {
-      "project": "Don of Base",
-      "account": "donofbase",
+      "project": "FanTokens",
+      "account": "FanTokens",
       "sources": [
-        "TG"
+        "X"
       ],
       "alphas": [
         "nlgcf69515952"
       ],
-      "tgAlphas": [
+      "tgAlphas": [],
+      "xAlphas": [
         "nlgcf69515952"
       ],
-      "xAlphas": [],
       "mentions": 1,
-      "firstSeen": "2026-06-17T10:23:09+00:00",
-      "lastSeen": "2026-06-17T10:23:09+00:00",
+      "firstSeen": "2026-06-17",
+      "lastSeen": "2026-06-17",
       "rows": [
         {
-          "source": "TG",
-          "project": "Don of Base",
-          "account": "donofbase",
+          "source": "X",
+          "project": "FanTokens",
+          "account": "FanTokens",
           "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-17T10:23:09+00:00",
-          "messageId": "dodtwitterbot/8227"
+          "seenAt": "2026-06-17",
+          "messageId": "2026-06-17-x-partial-nlgcf69515952.csv"
         }
       ],
-      "text": " Don of Base donofbase",
+      "text": " FanTokens FanTokens",
       "score": 2,
       "avatarUrl": ""
     },
@@ -3739,78 +3442,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "RocX",
-      "account": "RocX_official",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "Mutu",
-        "TheVoldron",
-        "ibraxbt",
-        "juesaiquan",
-        "mutu_1987"
-      ],
-      "tgAlphas": [
-        "Mutu"
-      ],
-      "xAlphas": [
-        "TheVoldron",
-        "ibraxbt",
-        "juesaiquan",
-        "mutu_1987"
-      ],
-      "mentions": 5,
-      "firstSeen": "2026-06-16T05:50:12+00:00",
-      "lastSeen": "2026-06-17",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "RocX",
-          "account": "RocX_official",
-          "alpha": "Mutu",
-          "seenAt": "2026-06-16T05:50:12+00:00",
-          "messageId": "dodtwitterbot/8015"
-        },
-        {
-          "source": "X",
-          "project": "RocX_official",
-          "account": "RocX_official",
-          "alpha": "TheVoldron",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-TheVoldron.csv"
-        },
-        {
-          "source": "X",
-          "project": "RocX_official",
-          "account": "RocX_official",
-          "alpha": "ibraxbt",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-ibraxbt.csv"
-        },
-        {
-          "source": "X",
-          "project": "RocX_official",
-          "account": "RocX_official",
-          "alpha": "juesaiquan",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-juesaiquan.csv"
-        },
-        {
-          "source": "X",
-          "project": "RocX_official",
-          "account": "RocX_official",
-          "alpha": "mutu_1987",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-mutu_1987.csv"
-        }
-      ],
-      "text": " RocX RocX_official RocX_official RocX_official RocX_official RocX_official RocX_official RocX_official RocX_official RocX_official",
-      "score": 10,
-      "avatarUrl": ""
-    },
-    {
       "project": "ambient.xyz",
       "account": "ambient_xyz",
       "sources": [
@@ -3935,58 +3566,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "0xSwen",
-      "account": "SwenChan",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "NotVanGogh88",
-        "发誓要做永赚大师",
-        "阿宏"
-      ],
-      "tgAlphas": [
-        "发誓要做永赚大师",
-        "阿宏"
-      ],
-      "xAlphas": [
-        "NotVanGogh88"
-      ],
-      "mentions": 3,
-      "firstSeen": "2026-06-15T15:37:47+00:00",
-      "lastSeen": "2026-06-17",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "0xSwen",
-          "account": "SwenChan",
-          "alpha": "阿宏",
-          "seenAt": "2026-06-15T15:37:47+00:00",
-          "messageId": "dodtwitterbot/7906"
-        },
-        {
-          "source": "TG",
-          "project": "0xSwen",
-          "account": "SwenChan",
-          "alpha": "发誓要做永赚大师",
-          "seenAt": "2026-06-16T04:36:43+00:00",
-          "messageId": "dodtwitterbot/8007"
-        },
-        {
-          "source": "X",
-          "project": "SwenChan",
-          "account": "SwenChan",
-          "alpha": "NotVanGogh88",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-NotVanGogh88.csv"
-        }
-      ],
-      "text": " 0xSwen SwenChan 0xSwen SwenChan SwenChan SwenChan",
-      "score": 6,
-      "avatarUrl": ""
-    },
-    {
       "project": "Flovia",
       "account": "flovia402",
       "sources": [
@@ -4087,58 +3666,6 @@
         }
       ],
       "text": " Heisted Heistedxyz Heisted Heistedxyz Heistedxyz Heistedxyz",
-      "score": 6,
-      "avatarUrl": ""
-    },
-    {
-      "project": "MrsDoodlifts",
-      "account": "MrsDoodlifts",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "zizai3ro",
-        "自在",
-        "阿宏"
-      ],
-      "tgAlphas": [
-        "自在",
-        "阿宏"
-      ],
-      "xAlphas": [
-        "zizai3ro"
-      ],
-      "mentions": 3,
-      "firstSeen": "2026-06-15T15:56:28+00:00",
-      "lastSeen": "2026-06-17",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "MrsDoodlifts",
-          "account": "MrsDoodlifts",
-          "alpha": "阿宏",
-          "seenAt": "2026-06-15T15:56:28+00:00",
-          "messageId": "dodtwitterbot/7908"
-        },
-        {
-          "source": "TG",
-          "project": "MrsDoodlifts",
-          "account": "MrsDoodlifts",
-          "alpha": "自在",
-          "seenAt": "2026-06-15T15:56:29+00:00",
-          "messageId": "dodtwitterbot/7910"
-        },
-        {
-          "source": "X",
-          "project": "MrsDoodlifts",
-          "account": "MrsDoodlifts",
-          "alpha": "zizai3ro",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-zizai3ro.csv"
-        }
-      ],
-      "text": " MrsDoodlifts MrsDoodlifts MrsDoodlifts MrsDoodlifts MrsDoodlifts MrsDoodlifts",
       "score": 6,
       "avatarUrl": ""
     },
@@ -4477,47 +4004,6 @@
       "text": " RobinFun robinfunxyz robinfunxyz robinfunxyz",
       "score": 4,
       "avatarUrl": ""
-    },
-    {
-      "project": "Bitcoin-Classic",
-      "account": "Btc_Classic_KOL",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "nlgcf69515952"
-      ],
-      "tgAlphas": [
-        "nlgcf69515952"
-      ],
-      "xAlphas": [
-        "nlgcf69515952"
-      ],
-      "mentions": 2,
-      "firstSeen": "2026-06-16T16:33:48+00:00",
-      "lastSeen": "2026-06-17",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Bitcoin-Classic",
-          "account": "Btc_Classic_KOL",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-16T16:33:48+00:00",
-          "messageId": "dodtwitterbot/8136"
-        },
-        {
-          "source": "X",
-          "project": "Btc_Classic_KOL",
-          "account": "Btc_Classic_KOL",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-nlgcf69515952.csv"
-        }
-      ],
-      "text": " Bitcoin-Classic Btc_Classic_KOL Btc_Classic_KOL Btc_Classic_KOL",
-      "score": 3,
-      "avatarUrl": ""
     }
   ],
   "xMultiAlpha": [
@@ -4672,78 +4158,6 @@
         }
       ],
       "text": " Pay.meme Paymeme_ Paymeme_ Paymeme_ Paymeme_ Paymeme_ Paymeme_ Paymeme_ Paymeme_ Paymeme_",
-      "score": 10,
-      "avatarUrl": ""
-    },
-    {
-      "project": "RocX",
-      "account": "RocX_official",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "Mutu",
-        "TheVoldron",
-        "ibraxbt",
-        "juesaiquan",
-        "mutu_1987"
-      ],
-      "tgAlphas": [
-        "Mutu"
-      ],
-      "xAlphas": [
-        "TheVoldron",
-        "ibraxbt",
-        "juesaiquan",
-        "mutu_1987"
-      ],
-      "mentions": 5,
-      "firstSeen": "2026-06-16T05:50:12+00:00",
-      "lastSeen": "2026-06-17",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "RocX",
-          "account": "RocX_official",
-          "alpha": "Mutu",
-          "seenAt": "2026-06-16T05:50:12+00:00",
-          "messageId": "dodtwitterbot/8015"
-        },
-        {
-          "source": "X",
-          "project": "RocX_official",
-          "account": "RocX_official",
-          "alpha": "TheVoldron",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-TheVoldron.csv"
-        },
-        {
-          "source": "X",
-          "project": "RocX_official",
-          "account": "RocX_official",
-          "alpha": "ibraxbt",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-ibraxbt.csv"
-        },
-        {
-          "source": "X",
-          "project": "RocX_official",
-          "account": "RocX_official",
-          "alpha": "juesaiquan",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-juesaiquan.csv"
-        },
-        {
-          "source": "X",
-          "project": "RocX_official",
-          "account": "RocX_official",
-          "alpha": "mutu_1987",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-mutu_1987.csv"
-        }
-      ],
-      "text": " RocX RocX_official RocX_official RocX_official RocX_official RocX_official RocX_official RocX_official RocX_official RocX_official",
       "score": 10,
       "avatarUrl": ""
     },
@@ -4929,58 +4343,6 @@
       ],
       "text": " mondeto mondeto mondeto mondeto mondeto mondeto mondeto mondeto",
       "score": 8,
-      "avatarUrl": ""
-    },
-    {
-      "project": "0xSwen",
-      "account": "SwenChan",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "NotVanGogh88",
-        "发誓要做永赚大师",
-        "阿宏"
-      ],
-      "tgAlphas": [
-        "发誓要做永赚大师",
-        "阿宏"
-      ],
-      "xAlphas": [
-        "NotVanGogh88"
-      ],
-      "mentions": 3,
-      "firstSeen": "2026-06-15T15:37:47+00:00",
-      "lastSeen": "2026-06-17",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "0xSwen",
-          "account": "SwenChan",
-          "alpha": "阿宏",
-          "seenAt": "2026-06-15T15:37:47+00:00",
-          "messageId": "dodtwitterbot/7906"
-        },
-        {
-          "source": "TG",
-          "project": "0xSwen",
-          "account": "SwenChan",
-          "alpha": "发誓要做永赚大师",
-          "seenAt": "2026-06-16T04:36:43+00:00",
-          "messageId": "dodtwitterbot/8007"
-        },
-        {
-          "source": "X",
-          "project": "SwenChan",
-          "account": "SwenChan",
-          "alpha": "NotVanGogh88",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-NotVanGogh88.csv"
-        }
-      ],
-      "text": " 0xSwen SwenChan 0xSwen SwenChan SwenChan SwenChan",
-      "score": 6,
       "avatarUrl": ""
     },
     {
@@ -5434,58 +4796,6 @@
         }
       ],
       "text": " mmorpg_fun mmorpg_fun mmorpg_fun mmorpg_fun mmorpg_fun mmorpg_fun",
-      "score": 6,
-      "avatarUrl": ""
-    },
-    {
-      "project": "MrsDoodlifts",
-      "account": "MrsDoodlifts",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "zizai3ro",
-        "自在",
-        "阿宏"
-      ],
-      "tgAlphas": [
-        "自在",
-        "阿宏"
-      ],
-      "xAlphas": [
-        "zizai3ro"
-      ],
-      "mentions": 3,
-      "firstSeen": "2026-06-15T15:56:28+00:00",
-      "lastSeen": "2026-06-17",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "MrsDoodlifts",
-          "account": "MrsDoodlifts",
-          "alpha": "阿宏",
-          "seenAt": "2026-06-15T15:56:28+00:00",
-          "messageId": "dodtwitterbot/7908"
-        },
-        {
-          "source": "TG",
-          "project": "MrsDoodlifts",
-          "account": "MrsDoodlifts",
-          "alpha": "自在",
-          "seenAt": "2026-06-15T15:56:29+00:00",
-          "messageId": "dodtwitterbot/7910"
-        },
-        {
-          "source": "X",
-          "project": "MrsDoodlifts",
-          "account": "MrsDoodlifts",
-          "alpha": "zizai3ro",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-zizai3ro.csv"
-        }
-      ],
-      "text": " MrsDoodlifts MrsDoodlifts MrsDoodlifts MrsDoodlifts MrsDoodlifts MrsDoodlifts",
       "score": 6,
       "avatarUrl": ""
     },
@@ -6828,16 +6138,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "0xSwen",
-      "x_account": "SwenChan",
-      "total_mentions": 2,
-      "unique_alphas": "2",
-      "first_seen_utc": "2026-06-15T15:37:47+00:00",
-      "last_seen_utc": "2026-06-16T04:36:43+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "ACK",
       "x_account": "ack_onchain",
       "total_mentions": 2,
@@ -6854,16 +6154,6 @@
       "unique_alphas": "2",
       "first_seen_utc": "2026-06-17T10:08:33+00:00",
       "last_seen_utc": "2026-06-17T11:06:43+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Dave Stacey",
-      "x_account": "davestacey",
-      "total_mentions": 2,
-      "unique_alphas": "2",
-      "first_seen_utc": "2026-06-15T15:11:24+00:00",
-      "last_seen_utc": "2026-06-15T15:11:25+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -6898,16 +6188,6 @@
       "avatarUrl": "https://unavatar.io/twitter/hothandsdotfun"
     },
     {
-      "project": "MrsDoodlifts",
-      "x_account": "MrsDoodlifts",
-      "total_mentions": 2,
-      "unique_alphas": "2",
-      "first_seen_utc": "2026-06-15T15:56:28+00:00",
-      "last_seen_utc": "2026-06-15T15:56:29+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "RobinHOOK",
       "x_account": "Robinhookv4",
       "total_mentions": 2,
@@ -6938,26 +6218,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "tmoney_145",
-      "x_account": "tmoney_145",
-      "total_mentions": 2,
-      "unique_alphas": "2",
-      "first_seen_utc": "2026-06-17T07:12:54+00:00",
-      "last_seen_utc": "2026-06-17T07:13:44+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "TROLL",
-      "x_account": "Troll_",
-      "total_mentions": 2,
-      "unique_alphas": "1",
-      "first_seen_utc": "2026-06-17T16:10:33+00:00",
-      "last_seen_utc": "2026-06-17T16:10:33+00:00",
-      "status": "watch",
-      "avatarUrl": "https://unavatar.io/twitter/Troll_"
-    },
-    {
       "project": "voidpad",
       "x_account": "voidpadv4",
       "total_mentions": 2,
@@ -6974,16 +6234,6 @@
       "unique_alphas": "1",
       "first_seen_utc": "2026-06-17T07:37:43+00:00",
       "last_seen_utc": "2026-06-17T07:37:43+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Don of Base",
-      "x_account": "donofbase",
-      "total_mentions": 1,
-      "unique_alphas": "1",
-      "first_seen_utc": "2026-06-17T10:23:09+00:00",
-      "last_seen_utc": "2026-06-17T10:23:09+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -7072,7 +6322,7 @@
     {
       "file": "last-update-error.log",
       "title": "last-update-error.log",
-      "updatedAt": "2026-06-17T19:03:35.651Z"
+      "updatedAt": "2026-06-17T19:32:28.657Z"
     },
     {
       "file": "2026-06-17-1930-monitor.md",
