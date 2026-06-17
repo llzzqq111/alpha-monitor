@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Alpha 项目监控</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <header>
+    <div>
+      <p class="eyebrow">Alpha Monitor</p>
+      <h1>TG + X 早期项目看板</h1>
+      <p id="meta">加载中...</p>
+    </div>
+    <button id="refresh">刷新</button>
+  </header>
+
+  <main>
+    <section class="cards" id="totals"></section>
+
+    <section>
+      <h2>两边都有提及</h2>
+      <div id="cross"></div>
+    </section>
+
+    <section>
+      <h2>TG 出现次数排行</h2>
+      <div id="tg"></div>
+    </section>
+
+    <section>
+      <h2>X 多 Alpha 共同关注</h2>
+      <div id="xmulti"></div>
+    </section>
+
+    <section>
+      <h2>最新报告</h2>
+      <div id="reports"></div>
+    </section>
+  </main>
+
+  <script src="./app.js"></script>
+</body>
+</html>
