@@ -1,5 +1,5 @@
 const $ = (id) => document.getElementById(id);
-const state = { data: null, query: "", range: "all", source: "all", day: "all" };
+const state = { data: null, query: "", range: "all", source: "all", day: "" };
 
 function escapeHtml(value) {
   return String(value ?? "")
@@ -23,9 +23,8 @@ function link(account) {
 function avatar(account, avatarUrl = "") {
   const handle = cleanAccount(account);
   const initial = escapeHtml((handle || "?").slice(0, 1).toUpperCase());
-  if (!handle) return `<span class="avatar avatar-fallback">${initial}</span>`;
   const src = String(avatarUrl || "").trim();
-  if (!src) return `<span class="avatar avatar-fallback">${initial}</span>`;
+  if (!handle || !src) return `<span class="avatar avatar-fallback">${initial}</span>`;
   return `<span class="avatar-wrap">
     <span class="avatar avatar-fallback">${initial}</span>
     <img class="avatar avatar-img" src="${escapeHtml(src)}" alt="@${escapeHtml(handle)}" loading="lazy" referrerpolicy="no-referrer" onload="this.previousElementSibling.style.display='none'" onerror="this.style.display='none'">
@@ -44,6 +43,12 @@ function projectCell(project, account, avatarUrl = "") {
 
 function tags(items) {
   return (items || []).map((item) => `<span class="tag">${escapeHtml(item)}</span>`).join("");
+}
+
+function statusBadge(item) {
+  if (item.dayStatus === "new") return `<span class="status-new">NEW</span>`;
+  if (item.dayStatus === "repeat") return `<span class="status-repeat">再次出现</span>`;
+  return "";
 }
 
 function level(item) {
@@ -95,7 +100,7 @@ function passRange(item) {
   return Date.now() - time <= hours * 60 * 60 * 1000;
 }
 
-function passSource(item, required) {
+function passSource(item, required = state.source) {
   if (required === "all") return true;
   const sources = item.sources || [];
   if (required === "cross") return sources.includes("TG") && sources.includes("X");
@@ -105,7 +110,7 @@ function passSource(item, required) {
 }
 
 function passDay(item) {
-  if (state.day === "all") return true;
+  if (!state.day || state.day === "all") return true;
   return itemDate(item) === state.day;
 }
 
@@ -129,14 +134,35 @@ function priorityItems(data) {
 
 function populateDays(data) {
   const select = $("day");
-  const current = state.day;
   const days = (data.daily || []).map((group) => group.date);
+  if (!state.day) state.day = days[0] || "all";
+  const current = days.includes(state.day) || state.day === "all" ? state.day : days[0] || "all";
   select.innerHTML = [
     `<option value="all">全部日期</option>`,
     ...days.map((day) => `<option value="${escapeHtml(day)}">${escapeHtml(day)}</option>`),
   ].join("");
-  state.day = days.includes(current) ? current : "all";
-  select.value = state.day;
+  state.day = current;
+  select.value = current;
+}
+
+function projectRow(p) {
+  return `<tr>
+    <td>${projectCell(p.project, p.account, p.avatarUrl)}</td>
+    <td>${statusBadge(p)} ${levelBadge(p)}</td>
+    <td>${tags(p.sources)}</td>
+    <td>
+      ${p.tgAlphas?.length ? `<div class="source-line">TG：${tags(p.tgAlphas.slice(0, 8))}</div>` : ""}
+      ${p.xAlphas?.length ? `<div class="source-line">X：${tags(p.xAlphas.slice(0, 8))}</div>` : tags((p.alphas || []).slice(0, 8))}
+    </td>
+    <td class="score">${escapeHtml(p.score || p.mentions || "")}</td>
+  </tr>`;
+}
+
+function daySection(title, items, empty) {
+  return `<div class="subsection">
+    <h4>${escapeHtml(title)}</h4>
+    ${table(["项目", "状态", "来源", "Alpha", "强度"], items.slice(0, 20).map(projectRow), empty)}
+  </div>`;
 }
 
 function renderDaily(data) {
@@ -145,20 +171,24 @@ function renderDaily(data) {
     : (data.daily || []).filter((group) => group.date === state.day);
 
   $("daily").innerHTML = groups.map((group) => {
-    const projects = filterItems(group.projects || []);
-    const rows = projects.slice(0, 20).map((p) => `<tr>
-      <td>${projectCell(p.project, p.account, p.avatarUrl)}</td>
-      <td>${levelBadge(p)}</td>
-      <td>${tags(p.sources)}</td>
-      <td>${tags((p.alphas || []).slice(0, 8))}</td>
-      <td class="score">${escapeHtml(p.score || p.mentions || "")}</td>
-    </tr>`);
+    const projects = (group.projects || []).filter((item) => {
+      const query = state.query.trim().toLowerCase();
+      if (query && !itemText(item).includes(query)) return false;
+      if (!passSource(item)) return false;
+      return true;
+    });
+    const newItems = projects.filter((item) => item.dayStatus === "new");
+    const repeatItems = projects.filter((item) => item.dayStatus === "repeat");
+    const crossItems = projects.filter((item) => (item.sources || []).includes("TG") && (item.sources || []).includes("X"));
+
     return `<div class="day-block">
       <div class="day-title">
         <h3>${escapeHtml(group.date)}</h3>
-        <span>${escapeHtml(group.projectCount)} 个项目 · ${escapeHtml(group.totalRows)} 条记录 · 双来源 ${escapeHtml(group.crossSource)}</span>
+        <span>${escapeHtml(group.projectCount)} 个项目 · 新增 ${escapeHtml(group.newCount || 0)} · 再次出现 ${escapeHtml(group.repeatCount || 0)} · 双来源 ${escapeHtml(group.crossSource)}</span>
       </div>
-      ${table(["项目", "等级", "来源", "Alpha", "强度"], rows, "这一天暂无符合筛选的项目")}
+      ${daySection("今日新增项目", newItems, "这一天暂无新增项目")}
+      ${daySection("今日重复出现 / 多 Alpha 关注", repeatItems, "这一天暂无重复出现项目")}
+      ${daySection("今日 TG + X 双来源", crossItems, "这一天暂无双来源项目")}
     </div>`;
   }).join("") || `<div class="table-wrap"><p class="empty">暂无日期数据</p></div>`;
 }
@@ -176,7 +206,7 @@ function render() {
 
   $("meta").textContent = `最后生成：${new Date(data.generatedAt).toLocaleString()}，页面每 10 分钟自动刷新`;
   $("totals").innerHTML = [
-    ["筛选后项目", data.totals.projects],
+    ["总项目", data.totals.projects],
     ["当前重点", priority.length],
     ["TG 记录", data.totals.telegramRows],
     ["X 记录", data.totals.xRows],

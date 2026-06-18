@@ -177,6 +177,34 @@ a { color: var(--accent); text-decoration: none; }
   color: var(--muted);
   font-size: 13px;
 }
+.subsection {
+  margin: 0 0 16px;
+}
+.subsection h4 {
+  margin: 0 0 8px;
+  color: var(--accent);
+  font-size: 15px;
+}
+.source-line {
+  margin-bottom: 4px;
+}
+.status-new,
+.status-repeat {
+  display: inline-block;
+  margin: 0 6px 4px 0;
+  padding: 4px 8px;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 800;
+}
+.status-new {
+  color: #07130e;
+  background: var(--accent);
+}
+.status-repeat {
+  color: #211704;
+  background: var(--warn);
+}
 
 @media (max-width: 760px) {
   header {
