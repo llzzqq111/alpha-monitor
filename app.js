@@ -1,5 +1,5 @@
 const $ = (id) => document.getElementById(id);
-const state = { data: null, query: "", range: "all", source: "all" };
+const state = { data: null, query: "", range: "all", source: "all", day: "all" };
 
 function escapeHtml(value) {
   return String(value ?? "")
@@ -82,6 +82,11 @@ function itemTime(item) {
   return Date.parse(item.lastSeen || item.last_seen_utc || item.firstSeen || item.first_seen_utc || "") || 0;
 }
 
+function itemDate(item) {
+  const raw = String(item.lastSeen || item.last_seen_utc || item.firstSeen || item.first_seen_utc || "");
+  return raw.match(/\d{4}-\d{2}-\d{2}/)?.[0] || "";
+}
+
 function passRange(item) {
   if (state.range === "all") return true;
   const time = itemTime(item);
@@ -99,12 +104,18 @@ function passSource(item, required) {
   return true;
 }
 
+function passDay(item) {
+  if (state.day === "all") return true;
+  return itemDate(item) === state.day;
+}
+
 function filterItems(items, source = state.source) {
   const query = state.query.trim().toLowerCase();
   return (items || []).filter((item) => {
     if (query && !itemText(item).includes(query)) return false;
     if (!passRange(item)) return false;
     if (!passSource(item, source)) return false;
+    if (!passDay(item)) return false;
     return true;
   });
 }
@@ -116,9 +127,47 @@ function priorityItems(data) {
     .sort((a, b) => Number(b.score || 0) - Number(a.score || 0));
 }
 
+function populateDays(data) {
+  const select = $("day");
+  const current = state.day;
+  const days = (data.daily || []).map((group) => group.date);
+  select.innerHTML = [
+    `<option value="all">全部日期</option>`,
+    ...days.map((day) => `<option value="${escapeHtml(day)}">${escapeHtml(day)}</option>`),
+  ].join("");
+  state.day = days.includes(current) ? current : "all";
+  select.value = state.day;
+}
+
+function renderDaily(data) {
+  const groups = state.day === "all"
+    ? (data.daily || []).slice(0, 7)
+    : (data.daily || []).filter((group) => group.date === state.day);
+
+  $("daily").innerHTML = groups.map((group) => {
+    const projects = filterItems(group.projects || []);
+    const rows = projects.slice(0, 20).map((p) => `<tr>
+      <td>${projectCell(p.project, p.account, p.avatarUrl)}</td>
+      <td>${levelBadge(p)}</td>
+      <td>${tags(p.sources)}</td>
+      <td>${tags((p.alphas || []).slice(0, 8))}</td>
+      <td class="score">${escapeHtml(p.score || p.mentions || "")}</td>
+    </tr>`);
+    return `<div class="day-block">
+      <div class="day-title">
+        <h3>${escapeHtml(group.date)}</h3>
+        <span>${escapeHtml(group.projectCount)} 个项目 · ${escapeHtml(group.totalRows)} 条记录 · 双来源 ${escapeHtml(group.crossSource)}</span>
+      </div>
+      ${table(["项目", "等级", "来源", "Alpha", "强度"], rows, "这一天暂无符合筛选的项目")}
+    </div>`;
+  }).join("") || `<div class="table-wrap"><p class="empty">暂无日期数据</p></div>`;
+}
+
 function render() {
   const data = state.data;
   if (!data) return;
+
+  populateDays(data);
 
   const priority = priorityItems(data);
   const cross = filterItems(data.crossSource || [], "cross");
@@ -144,6 +193,8 @@ function render() {
       <td class="score">${escapeHtml(p.score || p.mentions || "")}</td>
     </tr>`)
   );
+
+  renderDaily(data);
 
   $("cross").innerHTML = table(
     ["项目", "等级", "来源", "TG Alpha", "X Alpha", "强度"],
@@ -203,6 +254,10 @@ $("range").addEventListener("change", (event) => {
 });
 $("source").addEventListener("change", (event) => {
   state.source = event.target.value;
+  render();
+});
+$("day").addEventListener("change", (event) => {
+  state.day = event.target.value;
   render();
 });
 

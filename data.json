@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T20:04:19.357Z",
+  "generatedAt": "2026-06-18T20:14:19.237Z",
   "totals": {
     "telegramRows": 107,
     "xRows": 549,
@@ -8849,11 +8849,3257 @@
       "avatarUrl": ""
     }
   ],
+  "daily": [
+    {
+      "date": "2026-06-18",
+      "totalRows": 267,
+      "projectCount": 25,
+      "crossSource": 0,
+      "projects": [
+        {
+          "project": "DegenhoodL2",
+          "account": "DegenhoodL2",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "Yangxiao214",
+            "alphafries",
+            "juesaiquan",
+            "kingmakerxbt"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "Yangxiao214",
+            "alphafries",
+            "juesaiquan",
+            "kingmakerxbt"
+          ],
+          "mentions": 4,
+          "firstSeen": "2026-06-18",
+          "lastSeen": "2026-06-18",
+          "rows": [
+            {
+              "source": "X",
+              "project": "DegenhoodL2",
+              "account": "DegenhoodL2",
+              "alpha": "Yangxiao214",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-Yangxiao214.csv"
+            },
+            {
+              "source": "X",
+              "project": "DegenhoodL2",
+              "account": "DegenhoodL2",
+              "alpha": "alphafries",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-alphafries.csv"
+            },
+            {
+              "source": "X",
+              "project": "DegenhoodL2",
+              "account": "DegenhoodL2",
+              "alpha": "juesaiquan",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-juesaiquan.csv"
+            },
+            {
+              "source": "X",
+              "project": "DegenhoodL2",
+              "account": "DegenhoodL2",
+              "alpha": "kingmakerxbt",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-kingmakerxbt.csv"
+            }
+          ],
+          "text": " DegenhoodL2 DegenhoodL2 DegenhoodL2 DegenhoodL2 DegenhoodL2 DegenhoodL2 DegenhoodL2 DegenhoodL2",
+          "score": 8,
+          "avatarUrl": ""
+        },
+        {
+          "project": "robinhood_rats",
+          "account": "robinhood_rats",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "Yangxiao214",
+            "alphafries",
+            "juesaiquan",
+            "kingmakerxbt"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "Yangxiao214",
+            "alphafries",
+            "juesaiquan",
+            "kingmakerxbt"
+          ],
+          "mentions": 4,
+          "firstSeen": "2026-06-18",
+          "lastSeen": "2026-06-18",
+          "rows": [
+            {
+              "source": "X",
+              "project": "robinhood_rats",
+              "account": "robinhood_rats",
+              "alpha": "Yangxiao214",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-Yangxiao214.csv"
+            },
+            {
+              "source": "X",
+              "project": "robinhood_rats",
+              "account": "robinhood_rats",
+              "alpha": "alphafries",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-alphafries.csv"
+            },
+            {
+              "source": "X",
+              "project": "robinhood_rats",
+              "account": "robinhood_rats",
+              "alpha": "juesaiquan",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-juesaiquan.csv"
+            },
+            {
+              "source": "X",
+              "project": "robinhood_rats",
+              "account": "robinhood_rats",
+              "alpha": "kingmakerxbt",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-kingmakerxbt.csv"
+            }
+          ],
+          "text": " robinhood_rats robinhood_rats robinhood_rats robinhood_rats robinhood_rats robinhood_rats robinhood_rats robinhood_rats",
+          "score": 8,
+          "avatarUrl": ""
+        },
+        {
+          "project": "Robinhookv4",
+          "account": "Robinhookv4",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "_0xzhang",
+            "alphafries",
+            "juesaiquan",
+            "kingmakerxbt"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "_0xzhang",
+            "alphafries",
+            "juesaiquan",
+            "kingmakerxbt"
+          ],
+          "mentions": 4,
+          "firstSeen": "2026-06-18",
+          "lastSeen": "2026-06-18",
+          "rows": [
+            {
+              "source": "X",
+              "project": "Robinhookv4",
+              "account": "Robinhookv4",
+              "alpha": "_0xzhang",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-_0xzhang.csv"
+            },
+            {
+              "source": "X",
+              "project": "Robinhookv4",
+              "account": "Robinhookv4",
+              "alpha": "alphafries",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-alphafries.csv"
+            },
+            {
+              "source": "X",
+              "project": "Robinhookv4",
+              "account": "Robinhookv4",
+              "alpha": "juesaiquan",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-juesaiquan.csv"
+            },
+            {
+              "source": "X",
+              "project": "Robinhookv4",
+              "account": "Robinhookv4",
+              "alpha": "kingmakerxbt",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-kingmakerxbt.csv"
+            }
+          ],
+          "text": " Robinhookv4 Robinhookv4 Robinhookv4 Robinhookv4 Robinhookv4 Robinhookv4 Robinhookv4 Robinhookv4",
+          "score": 8,
+          "avatarUrl": "https://unavatar.io/twitter/Robinhookv4"
+        },
+        {
+          "project": "4626fun",
+          "account": "4626fun",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "Yangxiao214",
+            "_0xzhang",
+            "juesaiquan"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "Yangxiao214",
+            "_0xzhang",
+            "juesaiquan"
+          ],
+          "mentions": 3,
+          "firstSeen": "2026-06-18",
+          "lastSeen": "2026-06-18",
+          "rows": [
+            {
+              "source": "X",
+              "project": "4626fun",
+              "account": "4626fun",
+              "alpha": "Yangxiao214",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-Yangxiao214.csv"
+            },
+            {
+              "source": "X",
+              "project": "4626fun",
+              "account": "4626fun",
+              "alpha": "_0xzhang",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-_0xzhang.csv"
+            },
+            {
+              "source": "X",
+              "project": "4626fun",
+              "account": "4626fun",
+              "alpha": "juesaiquan",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-juesaiquan.csv"
+            }
+          ],
+          "text": " 4626fun 4626fun 4626fun 4626fun 4626fun 4626fun",
+          "score": 6,
+          "avatarUrl": "https://unavatar.io/twitter/4626fun"
+        },
+        {
+          "project": "bleed_v4",
+          "account": "bleed_v4",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "alphafries",
+            "juesaiquan",
+            "kingmakerxbt"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "alphafries",
+            "juesaiquan",
+            "kingmakerxbt"
+          ],
+          "mentions": 3,
+          "firstSeen": "2026-06-18",
+          "lastSeen": "2026-06-18",
+          "rows": [
+            {
+              "source": "X",
+              "project": "bleed_v4",
+              "account": "bleed_v4",
+              "alpha": "alphafries",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-alphafries.csv"
+            },
+            {
+              "source": "X",
+              "project": "bleed_v4",
+              "account": "bleed_v4",
+              "alpha": "juesaiquan",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-juesaiquan.csv"
+            },
+            {
+              "source": "X",
+              "project": "bleed_v4",
+              "account": "bleed_v4",
+              "alpha": "kingmakerxbt",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-kingmakerxbt.csv"
+            }
+          ],
+          "text": " bleed_v4 bleed_v4 bleed_v4 bleed_v4 bleed_v4 bleed_v4",
+          "score": 6,
+          "avatarUrl": ""
+        },
+        {
+          "project": "Infectv4",
+          "account": "Infectv4",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "Yangxiao214",
+            "alphafries",
+            "juesaiquan"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "Yangxiao214",
+            "alphafries",
+            "juesaiquan"
+          ],
+          "mentions": 3,
+          "firstSeen": "2026-06-18",
+          "lastSeen": "2026-06-18",
+          "rows": [
+            {
+              "source": "X",
+              "project": "Infectv4",
+              "account": "Infectv4",
+              "alpha": "Yangxiao214",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-Yangxiao214.csv"
+            },
+            {
+              "source": "X",
+              "project": "Infectv4",
+              "account": "Infectv4",
+              "alpha": "alphafries",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-alphafries.csv"
+            },
+            {
+              "source": "X",
+              "project": "Infectv4",
+              "account": "Infectv4",
+              "alpha": "juesaiquan",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-juesaiquan.csv"
+            }
+          ],
+          "text": " Infectv4 Infectv4 Infectv4 Infectv4 Infectv4 Infectv4",
+          "score": 6,
+          "avatarUrl": ""
+        },
+        {
+          "project": "ack_onchain",
+          "account": "ack_onchain",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "_0xzhang",
+            "juesaiquan"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "_0xzhang",
+            "juesaiquan"
+          ],
+          "mentions": 2,
+          "firstSeen": "2026-06-18",
+          "lastSeen": "2026-06-18",
+          "rows": [
+            {
+              "source": "X",
+              "project": "ack_onchain",
+              "account": "ack_onchain",
+              "alpha": "_0xzhang",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-_0xzhang.csv"
+            },
+            {
+              "source": "X",
+              "project": "ack_onchain",
+              "account": "ack_onchain",
+              "alpha": "juesaiquan",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-juesaiquan.csv"
+            }
+          ],
+          "text": " ack_onchain ack_onchain ack_onchain ack_onchain",
+          "score": 4,
+          "avatarUrl": ""
+        },
+        {
+          "project": "bullyvhook",
+          "account": "bullyvhook",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "juesaiquan",
+            "kingmakerxbt"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "juesaiquan",
+            "kingmakerxbt"
+          ],
+          "mentions": 2,
+          "firstSeen": "2026-06-18",
+          "lastSeen": "2026-06-18",
+          "rows": [
+            {
+              "source": "X",
+              "project": "bullyvhook",
+              "account": "bullyvhook",
+              "alpha": "juesaiquan",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-juesaiquan.csv"
+            },
+            {
+              "source": "X",
+              "project": "bullyvhook",
+              "account": "bullyvhook",
+              "alpha": "kingmakerxbt",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-kingmakerxbt.csv"
+            }
+          ],
+          "text": " bullyvhook bullyvhook bullyvhook bullyvhook",
+          "score": 4,
+          "avatarUrl": ""
+        },
+        {
+          "project": "chogfun",
+          "account": "chogfun",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "Yangxiao214",
+            "_0xzhang"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "Yangxiao214",
+            "_0xzhang"
+          ],
+          "mentions": 2,
+          "firstSeen": "2026-06-18",
+          "lastSeen": "2026-06-18",
+          "rows": [
+            {
+              "source": "X",
+              "project": "chogfun",
+              "account": "chogfun",
+              "alpha": "Yangxiao214",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-Yangxiao214.csv"
+            },
+            {
+              "source": "X",
+              "project": "chogfun",
+              "account": "chogfun",
+              "alpha": "_0xzhang",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-_0xzhang.csv"
+            }
+          ],
+          "text": " chogfun chogfun chogfun chogfun",
+          "score": 4,
+          "avatarUrl": ""
+        },
+        {
+          "project": "Heistedxyz",
+          "account": "Heistedxyz",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "Yangxiao214",
+            "_0xzhang"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "Yangxiao214",
+            "_0xzhang"
+          ],
+          "mentions": 2,
+          "firstSeen": "2026-06-18",
+          "lastSeen": "2026-06-18",
+          "rows": [
+            {
+              "source": "X",
+              "project": "Heistedxyz",
+              "account": "Heistedxyz",
+              "alpha": "Yangxiao214",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-Yangxiao214.csv"
+            },
+            {
+              "source": "X",
+              "project": "Heistedxyz",
+              "account": "Heistedxyz",
+              "alpha": "_0xzhang",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-_0xzhang.csv"
+            }
+          ],
+          "text": " Heistedxyz Heistedxyz Heistedxyz Heistedxyz",
+          "score": 4,
+          "avatarUrl": ""
+        },
+        {
+          "project": "Noxa_Fi",
+          "account": "Noxa_Fi",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "_0xzhang",
+            "juesaiquan"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "_0xzhang",
+            "juesaiquan"
+          ],
+          "mentions": 2,
+          "firstSeen": "2026-06-18",
+          "lastSeen": "2026-06-18",
+          "rows": [
+            {
+              "source": "X",
+              "project": "Noxa_Fi",
+              "account": "Noxa_Fi",
+              "alpha": "_0xzhang",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-_0xzhang.csv"
+            },
+            {
+              "source": "X",
+              "project": "Noxa_Fi",
+              "account": "Noxa_Fi",
+              "alpha": "juesaiquan",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-juesaiquan.csv"
+            }
+          ],
+          "text": " Noxa_Fi Noxa_Fi Noxa_Fi Noxa_Fi",
+          "score": 4,
+          "avatarUrl": ""
+        },
+        {
+          "project": "rbhd_inscribe",
+          "account": "rbhd_inscribe",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "alphafries",
+            "kingmakerxbt"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "alphafries",
+            "kingmakerxbt"
+          ],
+          "mentions": 2,
+          "firstSeen": "2026-06-18",
+          "lastSeen": "2026-06-18",
+          "rows": [
+            {
+              "source": "X",
+              "project": "rbhd_inscribe",
+              "account": "rbhd_inscribe",
+              "alpha": "alphafries",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-alphafries.csv"
+            },
+            {
+              "source": "X",
+              "project": "rbhd_inscribe",
+              "account": "rbhd_inscribe",
+              "alpha": "kingmakerxbt",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-kingmakerxbt.csv"
+            }
+          ],
+          "text": " rbhd_inscribe rbhd_inscribe rbhd_inscribe rbhd_inscribe",
+          "score": 4,
+          "avatarUrl": ""
+        },
+        {
+          "project": "rbrc20",
+          "account": "rbrc20",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "alphafries",
+            "kingmakerxbt"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "alphafries",
+            "kingmakerxbt"
+          ],
+          "mentions": 2,
+          "firstSeen": "2026-06-18",
+          "lastSeen": "2026-06-18",
+          "rows": [
+            {
+              "source": "X",
+              "project": "rbrc20",
+              "account": "rbrc20",
+              "alpha": "alphafries",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-alphafries.csv"
+            },
+            {
+              "source": "X",
+              "project": "rbrc20",
+              "account": "rbrc20",
+              "alpha": "kingmakerxbt",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-kingmakerxbt.csv"
+            }
+          ],
+          "text": " rbrc20 rbrc20 rbrc20 rbrc20",
+          "score": 4,
+          "avatarUrl": ""
+        },
+        {
+          "project": "robinfunxyz",
+          "account": "robinfunxyz",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "Yangxiao214",
+            "_0xzhang"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "Yangxiao214",
+            "_0xzhang"
+          ],
+          "mentions": 2,
+          "firstSeen": "2026-06-18",
+          "lastSeen": "2026-06-18",
+          "rows": [
+            {
+              "source": "X",
+              "project": "robinfunxyz",
+              "account": "robinfunxyz",
+              "alpha": "Yangxiao214",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-Yangxiao214.csv"
+            },
+            {
+              "source": "X",
+              "project": "robinfunxyz",
+              "account": "robinfunxyz",
+              "alpha": "_0xzhang",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-_0xzhang.csv"
+            }
+          ],
+          "text": " robinfunxyz robinfunxyz robinfunxyz robinfunxyz",
+          "score": 4,
+          "avatarUrl": ""
+        },
+        {
+          "project": "Robinoscription",
+          "account": "Robinoscription",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "alphafries",
+            "kingmakerxbt"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "alphafries",
+            "kingmakerxbt"
+          ],
+          "mentions": 2,
+          "firstSeen": "2026-06-18",
+          "lastSeen": "2026-06-18",
+          "rows": [
+            {
+              "source": "X",
+              "project": "Robinoscription",
+              "account": "Robinoscription",
+              "alpha": "alphafries",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-alphafries.csv"
+            },
+            {
+              "source": "X",
+              "project": "Robinoscription",
+              "account": "Robinoscription",
+              "alpha": "kingmakerxbt",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-kingmakerxbt.csv"
+            }
+          ],
+          "text": " Robinoscription Robinoscription Robinoscription Robinoscription",
+          "score": 4,
+          "avatarUrl": ""
+        },
+        {
+          "project": "thearcosai",
+          "account": "thearcosai",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "alphafries",
+            "kingmakerxbt"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "alphafries",
+            "kingmakerxbt"
+          ],
+          "mentions": 2,
+          "firstSeen": "2026-06-18",
+          "lastSeen": "2026-06-18",
+          "rows": [
+            {
+              "source": "X",
+              "project": "thearcosai",
+              "account": "thearcosai",
+              "alpha": "alphafries",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-alphafries.csv"
+            },
+            {
+              "source": "X",
+              "project": "thearcosai",
+              "account": "thearcosai",
+              "alpha": "kingmakerxbt",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-kingmakerxbt.csv"
+            }
+          ],
+          "text": " thearcosai thearcosai thearcosai thearcosai",
+          "score": 4,
+          "avatarUrl": ""
+        },
+        {
+          "project": "wordbankgame",
+          "account": "wordbankgame",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "Yangxiao214",
+            "alphafries"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "Yangxiao214",
+            "alphafries"
+          ],
+          "mentions": 2,
+          "firstSeen": "2026-06-18",
+          "lastSeen": "2026-06-18",
+          "rows": [
+            {
+              "source": "X",
+              "project": "wordbankgame",
+              "account": "wordbankgame",
+              "alpha": "Yangxiao214",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-Yangxiao214.csv"
+            },
+            {
+              "source": "X",
+              "project": "wordbankgame",
+              "account": "wordbankgame",
+              "alpha": "alphafries",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-alphafries.csv"
+            }
+          ],
+          "text": " wordbankgame wordbankgame wordbankgame wordbankgame",
+          "score": 4,
+          "avatarUrl": ""
+        },
+        {
+          "project": "15protocol",
+          "account": "15protocol",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "_0xzhang"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "_0xzhang"
+          ],
+          "mentions": 1,
+          "firstSeen": "2026-06-18",
+          "lastSeen": "2026-06-18",
+          "rows": [
+            {
+              "source": "X",
+              "project": "15protocol",
+              "account": "15protocol",
+              "alpha": "_0xzhang",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-_0xzhang.csv"
+            }
+          ],
+          "text": " 15protocol 15protocol",
+          "score": 2,
+          "avatarUrl": ""
+        },
+        {
+          "project": "baseboredclub",
+          "account": "baseboredclub",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "Yangxiao214"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "Yangxiao214"
+          ],
+          "mentions": 1,
+          "firstSeen": "2026-06-18",
+          "lastSeen": "2026-06-18",
+          "rows": [
+            {
+              "source": "X",
+              "project": "baseboredclub",
+              "account": "baseboredclub",
+              "alpha": "Yangxiao214",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-Yangxiao214.csv"
+            }
+          ],
+          "text": " baseboredclub baseboredclub",
+          "score": 2,
+          "avatarUrl": ""
+        },
+        {
+          "project": "cladiogames",
+          "account": "cladiogames",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "Yangxiao214"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "Yangxiao214"
+          ],
+          "mentions": 1,
+          "firstSeen": "2026-06-18",
+          "lastSeen": "2026-06-18",
+          "rows": [
+            {
+              "source": "X",
+              "project": "cladiogames",
+              "account": "cladiogames",
+              "alpha": "Yangxiao214",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-Yangxiao214.csv"
+            }
+          ],
+          "text": " cladiogames cladiogames",
+          "score": 2,
+          "avatarUrl": ""
+        },
+        {
+          "project": "gravehook",
+          "account": "gravehook",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "alphafries"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "alphafries"
+          ],
+          "mentions": 1,
+          "firstSeen": "2026-06-18",
+          "lastSeen": "2026-06-18",
+          "rows": [
+            {
+              "source": "X",
+              "project": "gravehook",
+              "account": "gravehook",
+              "alpha": "alphafries",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-alphafries.csv"
+            }
+          ],
+          "text": " gravehook gravehook",
+          "score": 2,
+          "avatarUrl": ""
+        },
+        {
+          "project": "guiltyuniswap",
+          "account": "guiltyuniswap",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "alphafries"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "alphafries"
+          ],
+          "mentions": 1,
+          "firstSeen": "2026-06-18",
+          "lastSeen": "2026-06-18",
+          "rows": [
+            {
+              "source": "X",
+              "project": "guiltyuniswap",
+              "account": "guiltyuniswap",
+              "alpha": "alphafries",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-alphafries.csv"
+            }
+          ],
+          "text": " guiltyuniswap guiltyuniswap",
+          "score": 2,
+          "avatarUrl": ""
+        },
+        {
+          "project": "onchain_goat",
+          "account": "onchain_goat",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "juesaiquan"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "juesaiquan"
+          ],
+          "mentions": 1,
+          "firstSeen": "2026-06-18",
+          "lastSeen": "2026-06-18",
+          "rows": [
+            {
+              "source": "X",
+              "project": "onchain_goat",
+              "account": "onchain_goat",
+              "alpha": "juesaiquan",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-juesaiquan.csv"
+            }
+          ],
+          "text": " onchain_goat onchain_goat",
+          "score": 2,
+          "avatarUrl": ""
+        },
+        {
+          "project": "Plot_v4",
+          "account": "Plot_v4",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "Yangxiao214"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "Yangxiao214"
+          ],
+          "mentions": 1,
+          "firstSeen": "2026-06-18",
+          "lastSeen": "2026-06-18",
+          "rows": [
+            {
+              "source": "X",
+              "project": "Plot_v4",
+              "account": "Plot_v4",
+              "alpha": "Yangxiao214",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-Yangxiao214.csv"
+            }
+          ],
+          "text": " Plot_v4 Plot_v4",
+          "score": 2,
+          "avatarUrl": ""
+        },
+        {
+          "project": "prognosysmarket",
+          "account": "prognosysmarket",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "alphafries"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "alphafries"
+          ],
+          "mentions": 1,
+          "firstSeen": "2026-06-18",
+          "lastSeen": "2026-06-18",
+          "rows": [
+            {
+              "source": "X",
+              "project": "prognosysmarket",
+              "account": "prognosysmarket",
+              "alpha": "alphafries",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-alphafries.csv"
+            }
+          ],
+          "text": " prognosysmarket prognosysmarket",
+          "score": 2,
+          "avatarUrl": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-06-17",
+      "totalRows": 321,
+      "projectCount": 65,
+      "crossSource": 3,
+      "projects": [
+        {
+          "project": "4626.fun",
+          "account": "4626fun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            ".✦ ݁˖ 🟣",
+            "AlphaFries",
+            "Yangxiao214",
+            "ibrax"
+          ],
+          "tgAlphas": [
+            ".✦ ݁˖ 🟣",
+            "AlphaFries",
+            "Yangxiao214",
+            "ibrax"
+          ],
+          "xAlphas": [],
+          "mentions": 4,
+          "firstSeen": "2026-06-17T09:24:20+00:00",
+          "lastSeen": "2026-06-17T17:14:52+00:00",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "4626.fun",
+              "account": "4626fun",
+              "alpha": ".✦ ݁˖ 🟣",
+              "seenAt": "2026-06-17T17:14:52+00:00",
+              "messageId": "dodtwitterbot/8310"
+            },
+            {
+              "source": "TG",
+              "project": "4626.fun",
+              "account": "4626fun",
+              "alpha": "ibrax",
+              "seenAt": "2026-06-17T09:24:20+00:00",
+              "messageId": "dodtwitterbot/8221"
+            },
+            {
+              "source": "TG",
+              "project": "4626.fun",
+              "account": "4626fun",
+              "alpha": "AlphaFries",
+              "seenAt": "2026-06-17T09:27:13+00:00",
+              "messageId": "dodtwitterbot/8222"
+            },
+            {
+              "source": "TG",
+              "project": "4626.fun",
+              "account": "4626fun",
+              "alpha": "Yangxiao214",
+              "seenAt": "2026-06-17T09:34:09+00:00",
+              "messageId": "dodtwitterbot/8223"
+            }
+          ],
+          "text": " 4626.fun 4626fun 4626.fun 4626fun 4626.fun 4626fun 4626.fun 4626fun",
+          "score": 8,
+          "avatarUrl": "https://unavatar.io/twitter/4626fun"
+        },
+        {
+          "project": "eggz",
+          "account": "eggzbase",
+          "sources": [
+            "TG",
+            "X"
+          ],
+          "alphas": [
+            "NotVanGogh88",
+            "Yangxiao214",
+            "ibraxbt",
+            "nlgcf69515952"
+          ],
+          "tgAlphas": [
+            "nlgcf69515952"
+          ],
+          "xAlphas": [
+            "NotVanGogh88",
+            "Yangxiao214",
+            "ibraxbt"
+          ],
+          "mentions": 4,
+          "firstSeen": "2026-06-17",
+          "lastSeen": "2026-06-17T10:31:55+00:00",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "eggz",
+              "account": "eggzbase",
+              "alpha": "nlgcf69515952",
+              "seenAt": "2026-06-17T10:31:55+00:00",
+              "messageId": "dodtwitterbot/8229"
+            },
+            {
+              "source": "X",
+              "project": "eggzbase",
+              "account": "eggzbase",
+              "alpha": "NotVanGogh88",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-NotVanGogh88.csv"
+            },
+            {
+              "source": "X",
+              "project": "eggzbase",
+              "account": "eggzbase",
+              "alpha": "Yangxiao214",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-Yangxiao214.csv"
+            },
+            {
+              "source": "X",
+              "project": "eggzbase",
+              "account": "eggzbase",
+              "alpha": "ibraxbt",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-ibraxbt.csv"
+            }
+          ],
+          "text": " eggz eggzbase eggzbase eggzbase eggzbase eggzbase eggzbase eggzbase",
+          "score": 8,
+          "avatarUrl": ""
+        },
+        {
+          "project": "mondeto",
+          "account": "mondeto",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "Yangxiao214",
+            "ibraxbt",
+            "juesaiquan",
+            "xeogy92298766"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "Yangxiao214",
+            "ibraxbt",
+            "juesaiquan",
+            "xeogy92298766"
+          ],
+          "mentions": 4,
+          "firstSeen": "2026-06-17",
+          "lastSeen": "2026-06-17",
+          "rows": [
+            {
+              "source": "X",
+              "project": "mondeto",
+              "account": "mondeto",
+              "alpha": "Yangxiao214",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-Yangxiao214.csv"
+            },
+            {
+              "source": "X",
+              "project": "mondeto",
+              "account": "mondeto",
+              "alpha": "ibraxbt",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-ibraxbt.csv"
+            },
+            {
+              "source": "X",
+              "project": "mondeto",
+              "account": "mondeto",
+              "alpha": "juesaiquan",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-juesaiquan.csv"
+            },
+            {
+              "source": "X",
+              "project": "mondeto",
+              "account": "mondeto",
+              "alpha": "xeogy92298766",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-xeogy92298766.csv"
+            }
+          ],
+          "text": " mondeto mondeto mondeto mondeto mondeto mondeto mondeto mondeto",
+          "score": 8,
+          "avatarUrl": ""
+        },
+        {
+          "project": "OriginLaunchpad",
+          "account": "OriginLaunchpad",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "Yangxiao214",
+            "ibraxbt",
+            "juesaiquan",
+            "mutu_1987"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "Yangxiao214",
+            "ibraxbt",
+            "juesaiquan",
+            "mutu_1987"
+          ],
+          "mentions": 4,
+          "firstSeen": "2026-06-17",
+          "lastSeen": "2026-06-17",
+          "rows": [
+            {
+              "source": "X",
+              "project": "OriginLaunchpad",
+              "account": "OriginLaunchpad",
+              "alpha": "Yangxiao214",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-Yangxiao214.csv"
+            },
+            {
+              "source": "X",
+              "project": "OriginLaunchpad",
+              "account": "OriginLaunchpad",
+              "alpha": "ibraxbt",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-ibraxbt.csv"
+            },
+            {
+              "source": "X",
+              "project": "OriginLaunchpad",
+              "account": "OriginLaunchpad",
+              "alpha": "juesaiquan",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-juesaiquan.csv"
+            },
+            {
+              "source": "X",
+              "project": "OriginLaunchpad",
+              "account": "OriginLaunchpad",
+              "alpha": "mutu_1987",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-mutu_1987.csv"
+            }
+          ],
+          "text": " OriginLaunchpad OriginLaunchpad OriginLaunchpad OriginLaunchpad OriginLaunchpad OriginLaunchpad OriginLaunchpad OriginLaunchpad",
+          "score": 8,
+          "avatarUrl": ""
+        },
+        {
+          "project": "agentscupv4",
+          "account": "agentscupv4",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "Yangxiao214",
+            "ibraxbt",
+            "mutu_1987"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "Yangxiao214",
+            "ibraxbt",
+            "mutu_1987"
+          ],
+          "mentions": 3,
+          "firstSeen": "2026-06-17",
+          "lastSeen": "2026-06-17",
+          "rows": [
+            {
+              "source": "X",
+              "project": "agentscupv4",
+              "account": "agentscupv4",
+              "alpha": "Yangxiao214",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-Yangxiao214.csv"
+            },
+            {
+              "source": "X",
+              "project": "agentscupv4",
+              "account": "agentscupv4",
+              "alpha": "ibraxbt",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-ibraxbt.csv"
+            },
+            {
+              "source": "X",
+              "project": "agentscupv4",
+              "account": "agentscupv4",
+              "alpha": "mutu_1987",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-mutu_1987.csv"
+            }
+          ],
+          "text": " agentscupv4 agentscupv4 agentscupv4 agentscupv4 agentscupv4 agentscupv4",
+          "score": 6,
+          "avatarUrl": ""
+        },
+        {
+          "project": "ambient_xyz",
+          "account": "ambient_xyz",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "juesaiquan",
+            "nlgcf69515952",
+            "xeogy92298766"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "juesaiquan",
+            "nlgcf69515952",
+            "xeogy92298766"
+          ],
+          "mentions": 3,
+          "firstSeen": "2026-06-17",
+          "lastSeen": "2026-06-17",
+          "rows": [
+            {
+              "source": "X",
+              "project": "ambient_xyz",
+              "account": "ambient_xyz",
+              "alpha": "juesaiquan",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-juesaiquan.csv"
+            },
+            {
+              "source": "X",
+              "project": "ambient_xyz",
+              "account": "ambient_xyz",
+              "alpha": "nlgcf69515952",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-nlgcf69515952.csv"
+            },
+            {
+              "source": "X",
+              "project": "ambient_xyz",
+              "account": "ambient_xyz",
+              "alpha": "xeogy92298766",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-xeogy92298766.csv"
+            }
+          ],
+          "text": " ambient_xyz ambient_xyz ambient_xyz ambient_xyz ambient_xyz ambient_xyz",
+          "score": 6,
+          "avatarUrl": ""
+        },
+        {
+          "project": "ArcPump",
+          "account": "ArcPump",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "NotVanGogh88",
+            "Yangxiao214",
+            "juesaiquan"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "NotVanGogh88",
+            "Yangxiao214",
+            "juesaiquan"
+          ],
+          "mentions": 3,
+          "firstSeen": "2026-06-17",
+          "lastSeen": "2026-06-17",
+          "rows": [
+            {
+              "source": "X",
+              "project": "ArcPump",
+              "account": "ArcPump",
+              "alpha": "NotVanGogh88",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-NotVanGogh88.csv"
+            },
+            {
+              "source": "X",
+              "project": "ArcPump",
+              "account": "ArcPump",
+              "alpha": "Yangxiao214",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-Yangxiao214.csv"
+            },
+            {
+              "source": "X",
+              "project": "ArcPump",
+              "account": "ArcPump",
+              "alpha": "juesaiquan",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-juesaiquan.csv"
+            }
+          ],
+          "text": " ArcPump ArcPump ArcPump ArcPump ArcPump ArcPump",
+          "score": 6,
+          "avatarUrl": ""
+        },
+        {
+          "project": "DohmFinance",
+          "account": "DohmFinance",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "NotVanGogh88",
+            "Yangxiao214",
+            "nlgcf69515952"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "NotVanGogh88",
+            "Yangxiao214",
+            "nlgcf69515952"
+          ],
+          "mentions": 3,
+          "firstSeen": "2026-06-17",
+          "lastSeen": "2026-06-17",
+          "rows": [
+            {
+              "source": "X",
+              "project": "DohmFinance",
+              "account": "DohmFinance",
+              "alpha": "NotVanGogh88",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-NotVanGogh88.csv"
+            },
+            {
+              "source": "X",
+              "project": "DohmFinance",
+              "account": "DohmFinance",
+              "alpha": "Yangxiao214",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-Yangxiao214.csv"
+            },
+            {
+              "source": "X",
+              "project": "DohmFinance",
+              "account": "DohmFinance",
+              "alpha": "nlgcf69515952",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-nlgcf69515952.csv"
+            }
+          ],
+          "text": " DohmFinance DohmFinance DohmFinance DohmFinance DohmFinance DohmFinance",
+          "score": 6,
+          "avatarUrl": ""
+        },
+        {
+          "project": "emergent_inc",
+          "account": "emergent_inc",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "TheVoldron",
+            "mutu_1987",
+            "xeogy92298766"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "TheVoldron",
+            "mutu_1987",
+            "xeogy92298766"
+          ],
+          "mentions": 3,
+          "firstSeen": "2026-06-17",
+          "lastSeen": "2026-06-17",
+          "rows": [
+            {
+              "source": "X",
+              "project": "emergent_inc",
+              "account": "emergent_inc",
+              "alpha": "TheVoldron",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-TheVoldron.csv"
+            },
+            {
+              "source": "X",
+              "project": "emergent_inc",
+              "account": "emergent_inc",
+              "alpha": "mutu_1987",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-mutu_1987.csv"
+            },
+            {
+              "source": "X",
+              "project": "emergent_inc",
+              "account": "emergent_inc",
+              "alpha": "xeogy92298766",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-xeogy92298766.csv"
+            }
+          ],
+          "text": " emergent_inc emergent_inc emergent_inc emergent_inc emergent_inc emergent_inc",
+          "score": 6,
+          "avatarUrl": ""
+        },
+        {
+          "project": "mmorpg_fun",
+          "account": "mmorpg_fun",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "TheVoldron",
+            "Yangxiao214",
+            "juesaiquan"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "TheVoldron",
+            "Yangxiao214",
+            "juesaiquan"
+          ],
+          "mentions": 3,
+          "firstSeen": "2026-06-17",
+          "lastSeen": "2026-06-17",
+          "rows": [
+            {
+              "source": "X",
+              "project": "mmorpg_fun",
+              "account": "mmorpg_fun",
+              "alpha": "TheVoldron",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-TheVoldron.csv"
+            },
+            {
+              "source": "X",
+              "project": "mmorpg_fun",
+              "account": "mmorpg_fun",
+              "alpha": "Yangxiao214",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-Yangxiao214.csv"
+            },
+            {
+              "source": "X",
+              "project": "mmorpg_fun",
+              "account": "mmorpg_fun",
+              "alpha": "juesaiquan",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-juesaiquan.csv"
+            }
+          ],
+          "text": " mmorpg_fun mmorpg_fun mmorpg_fun mmorpg_fun mmorpg_fun mmorpg_fun",
+          "score": 6,
+          "avatarUrl": ""
+        },
+        {
+          "project": "Paymeme_",
+          "account": "Paymeme_",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "TheVoldron",
+            "Yangxiao214",
+            "juesaiquan"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "TheVoldron",
+            "Yangxiao214",
+            "juesaiquan"
+          ],
+          "mentions": 3,
+          "firstSeen": "2026-06-17",
+          "lastSeen": "2026-06-17",
+          "rows": [
+            {
+              "source": "X",
+              "project": "Paymeme_",
+              "account": "Paymeme_",
+              "alpha": "TheVoldron",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-TheVoldron.csv"
+            },
+            {
+              "source": "X",
+              "project": "Paymeme_",
+              "account": "Paymeme_",
+              "alpha": "Yangxiao214",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-Yangxiao214.csv"
+            },
+            {
+              "source": "X",
+              "project": "Paymeme_",
+              "account": "Paymeme_",
+              "alpha": "juesaiquan",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-juesaiquan.csv"
+            }
+          ],
+          "text": " Paymeme_ Paymeme_ Paymeme_ Paymeme_ Paymeme_ Paymeme_",
+          "score": 6,
+          "avatarUrl": ""
+        },
+        {
+          "project": "secure_rob",
+          "account": "secure_rob",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "NotVanGogh88",
+            "TheVoldron",
+            "Yangxiao214"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "NotVanGogh88",
+            "TheVoldron",
+            "Yangxiao214"
+          ],
+          "mentions": 3,
+          "firstSeen": "2026-06-17",
+          "lastSeen": "2026-06-17",
+          "rows": [
+            {
+              "source": "X",
+              "project": "secure_rob",
+              "account": "secure_rob",
+              "alpha": "NotVanGogh88",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-NotVanGogh88.csv"
+            },
+            {
+              "source": "X",
+              "project": "secure_rob",
+              "account": "secure_rob",
+              "alpha": "TheVoldron",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-TheVoldron.csv"
+            },
+            {
+              "source": "X",
+              "project": "secure_rob",
+              "account": "secure_rob",
+              "alpha": "Yangxiao214",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-Yangxiao214.csv"
+            }
+          ],
+          "text": " secure_rob secure_rob secure_rob secure_rob secure_rob secure_rob",
+          "score": 6,
+          "avatarUrl": ""
+        },
+        {
+          "project": "TCG Arena",
+          "account": "PlayTCGArena",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BearzVerse",
+            "ibrax",
+            "mutu_1987"
+          ],
+          "tgAlphas": [
+            "BearzVerse",
+            "ibrax",
+            "mutu_1987"
+          ],
+          "xAlphas": [],
+          "mentions": 3,
+          "firstSeen": "2026-06-17T08:09:35+00:00",
+          "lastSeen": "2026-06-17T08:29:14+00:00",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "TCG Arena",
+              "account": "PlayTCGArena",
+              "alpha": "ibrax",
+              "seenAt": "2026-06-17T08:09:35+00:00",
+              "messageId": "dodtwitterbot/8215"
+            },
+            {
+              "source": "TG",
+              "project": "TCG Arena",
+              "account": "PlayTCGArena",
+              "alpha": "BearzVerse",
+              "seenAt": "2026-06-17T08:18:02+00:00",
+              "messageId": "dodtwitterbot/8216"
+            },
+            {
+              "source": "TG",
+              "project": "TCG Arena",
+              "account": "PlayTCGArena",
+              "alpha": "mutu_1987",
+              "seenAt": "2026-06-17T08:29:14+00:00",
+              "messageId": "dodtwitterbot/8217"
+            }
+          ],
+          "text": " TCG Arena PlayTCGArena TCG Arena PlayTCGArena TCG Arena PlayTCGArena",
+          "score": 6,
+          "avatarUrl": ""
+        },
+        {
+          "project": "WordBank",
+          "account": "wordbankgame",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "AlphaFries",
+            "mutu_1987",
+            "xeogy92298766"
+          ],
+          "tgAlphas": [
+            "AlphaFries",
+            "mutu_1987",
+            "xeogy92298766"
+          ],
+          "xAlphas": [],
+          "mentions": 3,
+          "firstSeen": "2026-06-17T10:15:50+00:00",
+          "lastSeen": "2026-06-17T10:27:36+00:00",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "WordBank",
+              "account": "wordbankgame",
+              "alpha": "xeogy92298766",
+              "seenAt": "2026-06-17T10:15:50+00:00",
+              "messageId": "dodtwitterbot/8225"
+            },
+            {
+              "source": "TG",
+              "project": "WordBank",
+              "account": "wordbankgame",
+              "alpha": "mutu_1987",
+              "seenAt": "2026-06-17T10:21:43+00:00",
+              "messageId": "dodtwitterbot/8226"
+            },
+            {
+              "source": "TG",
+              "project": "WordBank",
+              "account": "wordbankgame",
+              "alpha": "AlphaFries",
+              "seenAt": "2026-06-17T10:27:36+00:00",
+              "messageId": "dodtwitterbot/8228"
+            }
+          ],
+          "text": " WordBank wordbankgame WordBank wordbankgame WordBank wordbankgame",
+          "score": 6,
+          "avatarUrl": ""
+        },
+        {
+          "project": "ACK",
+          "account": "ack_onchain",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Ahong",
+            "NotVanGogh88"
+          ],
+          "tgAlphas": [
+            "Ahong",
+            "NotVanGogh88"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-06-17T07:12:21+00:00",
+          "lastSeen": "2026-06-17T07:13:45+00:00",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "ACK",
+              "account": "ack_onchain",
+              "alpha": "NotVanGogh88",
+              "seenAt": "2026-06-17T07:12:21+00:00",
+              "messageId": "dodtwitterbot/8205"
+            },
+            {
+              "source": "TG",
+              "project": "ACK",
+              "account": "ack_onchain",
+              "alpha": "Ahong",
+              "seenAt": "2026-06-17T07:13:45+00:00",
+              "messageId": "dodtwitterbot/8208"
+            }
+          ],
+          "text": " ACK ack_onchain ACK ack_onchain",
+          "score": 4,
+          "avatarUrl": ""
+        },
+        {
+          "project": "Ask_CarpeDiem",
+          "account": "Ask_CarpeDiem",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "ibraxbt",
+            "xeogy92298766"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "ibraxbt",
+            "xeogy92298766"
+          ],
+          "mentions": 2,
+          "firstSeen": "2026-06-17",
+          "lastSeen": "2026-06-17",
+          "rows": [
+            {
+              "source": "X",
+              "project": "Ask_CarpeDiem",
+              "account": "Ask_CarpeDiem",
+              "alpha": "ibraxbt",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-ibraxbt.csv"
+            },
+            {
+              "source": "X",
+              "project": "Ask_CarpeDiem",
+              "account": "Ask_CarpeDiem",
+              "alpha": "xeogy92298766",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-xeogy92298766.csv"
+            }
+          ],
+          "text": " Ask_CarpeDiem Ask_CarpeDiem Ask_CarpeDiem Ask_CarpeDiem",
+          "score": 4,
+          "avatarUrl": ""
+        },
+        {
+          "project": "chogfun",
+          "account": "chogfun",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "TheVoldron",
+            "juesaiquan"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "TheVoldron",
+            "juesaiquan"
+          ],
+          "mentions": 2,
+          "firstSeen": "2026-06-17",
+          "lastSeen": "2026-06-17",
+          "rows": [
+            {
+              "source": "X",
+              "project": "chogfun",
+              "account": "chogfun",
+              "alpha": "TheVoldron",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-TheVoldron.csv"
+            },
+            {
+              "source": "X",
+              "project": "chogfun",
+              "account": "chogfun",
+              "alpha": "juesaiquan",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-juesaiquan.csv"
+            }
+          ],
+          "text": " chogfun chogfun chogfun chogfun",
+          "score": 4,
+          "avatarUrl": ""
+        },
+        {
+          "project": "citadelxbt",
+          "account": "citadelxbt",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "nlgcf69515952",
+            "xeogy92298766"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "nlgcf69515952",
+            "xeogy92298766"
+          ],
+          "mentions": 2,
+          "firstSeen": "2026-06-17",
+          "lastSeen": "2026-06-17",
+          "rows": [
+            {
+              "source": "X",
+              "project": "citadelxbt",
+              "account": "citadelxbt",
+              "alpha": "nlgcf69515952",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-nlgcf69515952.csv"
+            },
+            {
+              "source": "X",
+              "project": "citadelxbt",
+              "account": "citadelxbt",
+              "alpha": "xeogy92298766",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-xeogy92298766.csv"
+            }
+          ],
+          "text": " citadelxbt citadelxbt citadelxbt citadelxbt",
+          "score": 4,
+          "avatarUrl": ""
+        },
+        {
+          "project": "cladiogames",
+          "account": "cladiogames",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "Yangxiao214",
+            "juesaiquan"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "Yangxiao214",
+            "juesaiquan"
+          ],
+          "mentions": 2,
+          "firstSeen": "2026-06-17",
+          "lastSeen": "2026-06-17",
+          "rows": [
+            {
+              "source": "X",
+              "project": "cladiogames",
+              "account": "cladiogames",
+              "alpha": "Yangxiao214",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-Yangxiao214.csv"
+            },
+            {
+              "source": "X",
+              "project": "cladiogames",
+              "account": "cladiogames",
+              "alpha": "juesaiquan",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-juesaiquan.csv"
+            }
+          ],
+          "text": " cladiogames cladiogames cladiogames cladiogames",
+          "score": 4,
+          "avatarUrl": ""
+        },
+        {
+          "project": "ClawCash",
+          "account": "0xclawlens",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "NotVanGogh88",
+            "ibrax"
+          ],
+          "tgAlphas": [
+            "NotVanGogh88",
+            "ibrax"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-06-17T10:08:33+00:00",
+          "lastSeen": "2026-06-17T11:06:43+00:00",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "ClawCash",
+              "account": "0xclawlens",
+              "alpha": "ibrax",
+              "seenAt": "2026-06-17T10:08:33+00:00",
+              "messageId": "dodtwitterbot/8224"
+            },
+            {
+              "source": "TG",
+              "project": "ClawCash",
+              "account": "0xclawlens",
+              "alpha": "NotVanGogh88",
+              "seenAt": "2026-06-17T11:06:43+00:00",
+              "messageId": "dodtwitterbot/8231"
+            }
+          ],
+          "text": " ClawCash 0xclawlens ClawCash 0xclawlens",
+          "score": 4,
+          "avatarUrl": ""
+        },
+        {
+          "project": "collectablefun",
+          "account": "collectablefun",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "ibraxbt",
+            "mutu_1987"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "ibraxbt",
+            "mutu_1987"
+          ],
+          "mentions": 2,
+          "firstSeen": "2026-06-17",
+          "lastSeen": "2026-06-17",
+          "rows": [
+            {
+              "source": "X",
+              "project": "collectablefun",
+              "account": "collectablefun",
+              "alpha": "ibraxbt",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-ibraxbt.csv"
+            },
+            {
+              "source": "X",
+              "project": "collectablefun",
+              "account": "collectablefun",
+              "alpha": "mutu_1987",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-mutu_1987.csv"
+            }
+          ],
+          "text": " collectablefun collectablefun collectablefun collectablefun",
+          "score": 4,
+          "avatarUrl": ""
+        },
+        {
+          "project": "culture",
+          "account": "cultureANON",
+          "sources": [
+            "TG",
+            "X"
+          ],
+          "alphas": [
+            "TheVoldron",
+            "nlgcf69515952"
+          ],
+          "tgAlphas": [
+            "nlgcf69515952"
+          ],
+          "xAlphas": [
+            "TheVoldron"
+          ],
+          "mentions": 2,
+          "firstSeen": "2026-06-17",
+          "lastSeen": "2026-06-17T09:05:48+00:00",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "culture",
+              "account": "cultureANON",
+              "alpha": "nlgcf69515952",
+              "seenAt": "2026-06-17T09:05:48+00:00",
+              "messageId": "dodtwitterbot/8220"
+            },
+            {
+              "source": "X",
+              "project": "cultureANON",
+              "account": "cultureANON",
+              "alpha": "TheVoldron",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-TheVoldron.csv"
+            }
+          ],
+          "text": " culture cultureANON cultureANON cultureANON",
+          "score": 4,
+          "avatarUrl": ""
+        },
+        {
+          "project": "Dollz_nft",
+          "account": "Dollz_nft",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "NotVanGogh88",
+            "Yangxiao214"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "NotVanGogh88",
+            "Yangxiao214"
+          ],
+          "mentions": 2,
+          "firstSeen": "2026-06-17",
+          "lastSeen": "2026-06-17",
+          "rows": [
+            {
+              "source": "X",
+              "project": "Dollz_nft",
+              "account": "Dollz_nft",
+              "alpha": "NotVanGogh88",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-NotVanGogh88.csv"
+            },
+            {
+              "source": "X",
+              "project": "Dollz_nft",
+              "account": "Dollz_nft",
+              "alpha": "Yangxiao214",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-Yangxiao214.csv"
+            }
+          ],
+          "text": " Dollz_nft Dollz_nft Dollz_nft Dollz_nft",
+          "score": 4,
+          "avatarUrl": ""
+        },
+        {
+          "project": "echonv4",
+          "account": "echonv4",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "juesaiquan",
+            "xeogy92298766"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "juesaiquan",
+            "xeogy92298766"
+          ],
+          "mentions": 2,
+          "firstSeen": "2026-06-17",
+          "lastSeen": "2026-06-17",
+          "rows": [
+            {
+              "source": "X",
+              "project": "echonv4",
+              "account": "echonv4",
+              "alpha": "juesaiquan",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-juesaiquan.csv"
+            },
+            {
+              "source": "X",
+              "project": "echonv4",
+              "account": "echonv4",
+              "alpha": "xeogy92298766",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-xeogy92298766.csv"
+            }
+          ],
+          "text": " echonv4 echonv4 echonv4 echonv4",
+          "score": 4,
+          "avatarUrl": ""
+        },
+        {
+          "project": "EliteGacha",
+          "account": "EliteGacha",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "juesaiquan",
+            "zizai3ro"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "juesaiquan",
+            "zizai3ro"
+          ],
+          "mentions": 2,
+          "firstSeen": "2026-06-17",
+          "lastSeen": "2026-06-17",
+          "rows": [
+            {
+              "source": "X",
+              "project": "EliteGacha",
+              "account": "EliteGacha",
+              "alpha": "juesaiquan",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-juesaiquan.csv"
+            },
+            {
+              "source": "X",
+              "project": "EliteGacha",
+              "account": "EliteGacha",
+              "alpha": "zizai3ro",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-zizai3ro.csv"
+            }
+          ],
+          "text": " EliteGacha EliteGacha EliteGacha EliteGacha",
+          "score": 4,
+          "avatarUrl": ""
+        },
+        {
+          "project": "Fadestate",
+          "account": "Fadestate",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "Yangxiao214",
+            "juesaiquan"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "Yangxiao214",
+            "juesaiquan"
+          ],
+          "mentions": 2,
+          "firstSeen": "2026-06-17",
+          "lastSeen": "2026-06-17",
+          "rows": [
+            {
+              "source": "X",
+              "project": "Fadestate",
+              "account": "Fadestate",
+              "alpha": "Yangxiao214",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-Yangxiao214.csv"
+            },
+            {
+              "source": "X",
+              "project": "Fadestate",
+              "account": "Fadestate",
+              "alpha": "juesaiquan",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-juesaiquan.csv"
+            }
+          ],
+          "text": " Fadestate Fadestate Fadestate Fadestate",
+          "score": 4,
+          "avatarUrl": ""
+        },
+        {
+          "project": "flovia402",
+          "account": "flovia402",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "nlgcf69515952",
+            "zizai3ro"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "nlgcf69515952",
+            "zizai3ro"
+          ],
+          "mentions": 2,
+          "firstSeen": "2026-06-17",
+          "lastSeen": "2026-06-17",
+          "rows": [
+            {
+              "source": "X",
+              "project": "flovia402",
+              "account": "flovia402",
+              "alpha": "nlgcf69515952",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-nlgcf69515952.csv"
+            },
+            {
+              "source": "X",
+              "project": "flovia402",
+              "account": "flovia402",
+              "alpha": "zizai3ro",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-zizai3ro.csv"
+            }
+          ],
+          "text": " flovia402 flovia402 flovia402 flovia402",
+          "score": 4,
+          "avatarUrl": ""
+        },
+        {
+          "project": "harvy_gg",
+          "account": "harvy_gg",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "TheVoldron",
+            "juesaiquan"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "TheVoldron",
+            "juesaiquan"
+          ],
+          "mentions": 2,
+          "firstSeen": "2026-06-17",
+          "lastSeen": "2026-06-17",
+          "rows": [
+            {
+              "source": "X",
+              "project": "harvy_gg",
+              "account": "harvy_gg",
+              "alpha": "TheVoldron",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-TheVoldron.csv"
+            },
+            {
+              "source": "X",
+              "project": "harvy_gg",
+              "account": "harvy_gg",
+              "alpha": "juesaiquan",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-juesaiquan.csv"
+            }
+          ],
+          "text": " harvy_gg harvy_gg harvy_gg harvy_gg",
+          "score": 4,
+          "avatarUrl": ""
+        },
+        {
+          "project": "Heisted",
+          "account": "Heistedxyz",
+          "sources": [
+            "TG",
+            "X"
+          ],
+          "alphas": [
+            "ibraxbt",
+            "xeogy92298766"
+          ],
+          "tgAlphas": [
+            "xeogy92298766"
+          ],
+          "xAlphas": [
+            "ibraxbt"
+          ],
+          "mentions": 2,
+          "firstSeen": "2026-06-17",
+          "lastSeen": "2026-06-17T08:02:30+00:00",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Heisted",
+              "account": "Heistedxyz",
+              "alpha": "xeogy92298766",
+              "seenAt": "2026-06-17T08:02:30+00:00",
+              "messageId": "dodtwitterbot/8214"
+            },
+            {
+              "source": "X",
+              "project": "Heistedxyz",
+              "account": "Heistedxyz",
+              "alpha": "ibraxbt",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-ibraxbt.csv"
+            }
+          ],
+          "text": " Heisted Heistedxyz Heistedxyz Heistedxyz",
+          "score": 4,
+          "avatarUrl": ""
+        },
+        {
+          "project": "Hooknomics",
+          "account": "Hooknomics",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "juesaiquan",
+            "nlgcf69515952"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "juesaiquan",
+            "nlgcf69515952"
+          ],
+          "mentions": 2,
+          "firstSeen": "2026-06-17",
+          "lastSeen": "2026-06-17",
+          "rows": [
+            {
+              "source": "X",
+              "project": "Hooknomics",
+              "account": "Hooknomics",
+              "alpha": "juesaiquan",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-juesaiquan.csv"
+            },
+            {
+              "source": "X",
+              "project": "Hooknomics",
+              "account": "Hooknomics",
+              "alpha": "nlgcf69515952",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-nlgcf69515952.csv"
+            }
+          ],
+          "text": " Hooknomics Hooknomics Hooknomics Hooknomics",
+          "score": 4,
+          "avatarUrl": ""
+        },
+        {
+          "project": "horsefun_sol",
+          "account": "horsefun_sol",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "Yangxiao214",
+            "juesaiquan"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "Yangxiao214",
+            "juesaiquan"
+          ],
+          "mentions": 2,
+          "firstSeen": "2026-06-17",
+          "lastSeen": "2026-06-17",
+          "rows": [
+            {
+              "source": "X",
+              "project": "horsefun_sol",
+              "account": "horsefun_sol",
+              "alpha": "Yangxiao214",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-Yangxiao214.csv"
+            },
+            {
+              "source": "X",
+              "project": "horsefun_sol",
+              "account": "horsefun_sol",
+              "alpha": "juesaiquan",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-juesaiquan.csv"
+            }
+          ],
+          "text": " horsefun_sol horsefun_sol horsefun_sol horsefun_sol",
+          "score": 4,
+          "avatarUrl": ""
+        },
+        {
+          "project": "Lectogram",
+          "account": "LectogramHQ",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            ".✦ ݁˖ 🟣",
+            "ibrax"
+          ],
+          "tgAlphas": [
+            ".✦ ݁˖ 🟣",
+            "ibrax"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-06-17T17:07:22+00:00",
+          "lastSeen": "2026-06-17T17:14:52+00:00",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Lectogram",
+              "account": "LectogramHQ",
+              "alpha": "ibrax",
+              "seenAt": "2026-06-17T17:07:22+00:00",
+              "messageId": "dodtwitterbot/8307"
+            },
+            {
+              "source": "TG",
+              "project": "Lectogram",
+              "account": "LectogramHQ",
+              "alpha": ".✦ ݁˖ 🟣",
+              "seenAt": "2026-06-17T17:14:52+00:00",
+              "messageId": "dodtwitterbot/8309"
+            }
+          ],
+          "text": " Lectogram LectogramHQ Lectogram LectogramHQ",
+          "score": 4,
+          "avatarUrl": "https://unavatar.io/twitter/LectogramHQ"
+        },
+        {
+          "project": "memecraftpf",
+          "account": "memecraftpf",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "NotVanGogh88",
+            "TheVoldron"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "NotVanGogh88",
+            "TheVoldron"
+          ],
+          "mentions": 2,
+          "firstSeen": "2026-06-17",
+          "lastSeen": "2026-06-17",
+          "rows": [
+            {
+              "source": "X",
+              "project": "memecraftpf",
+              "account": "memecraftpf",
+              "alpha": "NotVanGogh88",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-NotVanGogh88.csv"
+            },
+            {
+              "source": "X",
+              "project": "memecraftpf",
+              "account": "memecraftpf",
+              "alpha": "TheVoldron",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-TheVoldron.csv"
+            }
+          ],
+          "text": " memecraftpf memecraftpf memecraftpf memecraftpf",
+          "score": 4,
+          "avatarUrl": ""
+        },
+        {
+          "project": "nav_certs",
+          "account": "nav_certs",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "juesaiquan",
+            "xeogy92298766"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "juesaiquan",
+            "xeogy92298766"
+          ],
+          "mentions": 2,
+          "firstSeen": "2026-06-17",
+          "lastSeen": "2026-06-17",
+          "rows": [
+            {
+              "source": "X",
+              "project": "nav_certs",
+              "account": "nav_certs",
+              "alpha": "juesaiquan",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-juesaiquan.csv"
+            },
+            {
+              "source": "X",
+              "project": "nav_certs",
+              "account": "nav_certs",
+              "alpha": "xeogy92298766",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-xeogy92298766.csv"
+            }
+          ],
+          "text": " nav_certs nav_certs nav_certs nav_certs",
+          "score": 4,
+          "avatarUrl": ""
+        },
+        {
+          "project": "ometsonmonad",
+          "account": "ometsonmonad",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "Yangxiao214",
+            "ibraxbt"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "Yangxiao214",
+            "ibraxbt"
+          ],
+          "mentions": 2,
+          "firstSeen": "2026-06-17",
+          "lastSeen": "2026-06-17",
+          "rows": [
+            {
+              "source": "X",
+              "project": "ometsonmonad",
+              "account": "ometsonmonad",
+              "alpha": "Yangxiao214",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-Yangxiao214.csv"
+            },
+            {
+              "source": "X",
+              "project": "ometsonmonad",
+              "account": "ometsonmonad",
+              "alpha": "ibraxbt",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-ibraxbt.csv"
+            }
+          ],
+          "text": " ometsonmonad ometsonmonad ometsonmonad ometsonmonad",
+          "score": 4,
+          "avatarUrl": ""
+        },
+        {
+          "project": "roodcoin",
+          "account": "roodcoin",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "TheVoldron",
+            "Yangxiao214"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "TheVoldron",
+            "Yangxiao214"
+          ],
+          "mentions": 2,
+          "firstSeen": "2026-06-17",
+          "lastSeen": "2026-06-17",
+          "rows": [
+            {
+              "source": "X",
+              "project": "roodcoin",
+              "account": "roodcoin",
+              "alpha": "TheVoldron",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-TheVoldron.csv"
+            },
+            {
+              "source": "X",
+              "project": "roodcoin",
+              "account": "roodcoin",
+              "alpha": "Yangxiao214",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-Yangxiao214.csv"
+            }
+          ],
+          "text": " roodcoin roodcoin roodcoin roodcoin",
+          "score": 4,
+          "avatarUrl": ""
+        },
+        {
+          "project": "RYex_finance",
+          "account": "RYex_finance",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "TheVoldron",
+            "ibraxbt"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "TheVoldron",
+            "ibraxbt"
+          ],
+          "mentions": 2,
+          "firstSeen": "2026-06-17",
+          "lastSeen": "2026-06-17",
+          "rows": [
+            {
+              "source": "X",
+              "project": "RYex_finance",
+              "account": "RYex_finance",
+              "alpha": "TheVoldron",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-TheVoldron.csv"
+            },
+            {
+              "source": "X",
+              "project": "RYex_finance",
+              "account": "RYex_finance",
+              "alpha": "ibraxbt",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-ibraxbt.csv"
+            }
+          ],
+          "text": " RYex_finance RYex_finance RYex_finance RYex_finance",
+          "score": 4,
+          "avatarUrl": ""
+        },
+        {
+          "project": "SatcoinHQ",
+          "account": "SatcoinHQ",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "Yangxiao214",
+            "juesaiquan"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "Yangxiao214",
+            "juesaiquan"
+          ],
+          "mentions": 2,
+          "firstSeen": "2026-06-17",
+          "lastSeen": "2026-06-17",
+          "rows": [
+            {
+              "source": "X",
+              "project": "SatcoinHQ",
+              "account": "SatcoinHQ",
+              "alpha": "Yangxiao214",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-Yangxiao214.csv"
+            },
+            {
+              "source": "X",
+              "project": "SatcoinHQ",
+              "account": "SatcoinHQ",
+              "alpha": "juesaiquan",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-juesaiquan.csv"
+            }
+          ],
+          "text": " SatcoinHQ SatcoinHQ SatcoinHQ SatcoinHQ",
+          "score": 4,
+          "avatarUrl": ""
+        },
+        {
+          "project": "Takeover Bot",
+          "account": "takeoverbot",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "AlphaFries",
+            "mutu_1987"
+          ],
+          "tgAlphas": [
+            "AlphaFries",
+            "mutu_1987"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-06-17T11:06:43+00:00",
+          "lastSeen": "2026-06-17T11:09:44+00:00",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Takeover Bot",
+              "account": "takeoverbot",
+              "alpha": "mutu_1987",
+              "seenAt": "2026-06-17T11:06:43+00:00",
+              "messageId": "dodtwitterbot/8232"
+            },
+            {
+              "source": "TG",
+              "project": "Takeover Bot",
+              "account": "takeoverbot",
+              "alpha": "AlphaFries",
+              "seenAt": "2026-06-17T11:09:44+00:00",
+              "messageId": "dodtwitterbot/8234"
+            }
+          ],
+          "text": " Takeover Bot takeoverbot Takeover Bot takeoverbot",
+          "score": 4,
+          "avatarUrl": ""
+        },
+        {
+          "project": "trybountyai",
+          "account": "trybountyai",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "TheVoldron",
+            "ibraxbt"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "TheVoldron",
+            "ibraxbt"
+          ],
+          "mentions": 2,
+          "firstSeen": "2026-06-17",
+          "lastSeen": "2026-06-17",
+          "rows": [
+            {
+              "source": "X",
+              "project": "trybountyai",
+              "account": "trybountyai",
+              "alpha": "TheVoldron",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-TheVoldron.csv"
+            },
+            {
+              "source": "X",
+              "project": "trybountyai",
+              "account": "trybountyai",
+              "alpha": "ibraxbt",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-ibraxbt.csv"
+            }
+          ],
+          "text": " trybountyai trybountyai trybountyai trybountyai",
+          "score": 4,
+          "avatarUrl": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-06-16",
+      "totalRows": 48,
+      "projectCount": 9,
+      "crossSource": 3,
+      "projects": [
+        {
+          "project": "Onchain Guppies",
+          "account": "Guppies_nft",
+          "sources": [
+            "TG",
+            "X"
+          ],
+          "alphas": [
+            "AlphaFries",
+            "alphafries"
+          ],
+          "tgAlphas": [
+            "AlphaFries"
+          ],
+          "xAlphas": [
+            "alphafries"
+          ],
+          "mentions": 2,
+          "firstSeen": "2026-06-16",
+          "lastSeen": "2026-06-16T06:28:11+00:00",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Onchain Guppies",
+              "account": "Guppies_nft",
+              "alpha": "AlphaFries",
+              "seenAt": "2026-06-16T06:28:11+00:00",
+              "messageId": "dodtwitterbot/8022"
+            },
+            {
+              "source": "X",
+              "project": "Guppies_nft",
+              "account": "Guppies_nft",
+              "alpha": "alphafries",
+              "seenAt": "2026-06-16",
+              "messageId": "2026-06-16-x-partial-alphafries.csv"
+            }
+          ],
+          "text": " Onchain Guppies Guppies_nft Guppies_nft Guppies_nft",
+          "score": 4,
+          "avatarUrl": ""
+        },
+        {
+          "project": "Origin",
+          "account": "OriginLaunchpad",
+          "sources": [
+            "TG",
+            "X"
+          ],
+          "alphas": [
+            "AlphaFries",
+            "alphafries"
+          ],
+          "tgAlphas": [
+            "AlphaFries"
+          ],
+          "xAlphas": [
+            "alphafries"
+          ],
+          "mentions": 2,
+          "firstSeen": "2026-06-16",
+          "lastSeen": "2026-06-16T06:29:44+00:00",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Origin",
+              "account": "OriginLaunchpad",
+              "alpha": "AlphaFries",
+              "seenAt": "2026-06-16T06:29:44+00:00",
+              "messageId": "dodtwitterbot/8024"
+            },
+            {
+              "source": "X",
+              "project": "OriginLaunchpad",
+              "account": "OriginLaunchpad",
+              "alpha": "alphafries",
+              "seenAt": "2026-06-16",
+              "messageId": "2026-06-16-x-partial-alphafries.csv"
+            }
+          ],
+          "text": " Origin OriginLaunchpad OriginLaunchpad OriginLaunchpad",
+          "score": 4,
+          "avatarUrl": ""
+        },
+        {
+          "project": "Pay.meme",
+          "account": "Paymeme_",
+          "sources": [
+            "TG",
+            "X"
+          ],
+          "alphas": [
+            "AlphaFries",
+            "alphafries"
+          ],
+          "tgAlphas": [
+            "AlphaFries"
+          ],
+          "xAlphas": [
+            "alphafries"
+          ],
+          "mentions": 2,
+          "firstSeen": "2026-06-16",
+          "lastSeen": "2026-06-16T06:28:11+00:00",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Pay.meme",
+              "account": "Paymeme_",
+              "alpha": "AlphaFries",
+              "seenAt": "2026-06-16T06:28:11+00:00",
+              "messageId": "dodtwitterbot/8023"
+            },
+            {
+              "source": "X",
+              "project": "Paymeme_",
+              "account": "Paymeme_",
+              "alpha": "alphafries",
+              "seenAt": "2026-06-16",
+              "messageId": "2026-06-16-x-partial-alphafries.csv"
+            }
+          ],
+          "text": " Pay.meme Paymeme_ Paymeme_ Paymeme_",
+          "score": 4,
+          "avatarUrl": ""
+        },
+        {
+          "project": "echonv4",
+          "account": "echonv4",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "alphafries"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "alphafries"
+          ],
+          "mentions": 1,
+          "firstSeen": "2026-06-16",
+          "lastSeen": "2026-06-16",
+          "rows": [
+            {
+              "source": "X",
+              "project": "echonv4",
+              "account": "echonv4",
+              "alpha": "alphafries",
+              "seenAt": "2026-06-16",
+              "messageId": "2026-06-16-x-partial-alphafries.csv"
+            }
+          ],
+          "text": " echonv4 echonv4",
+          "score": 2,
+          "avatarUrl": ""
+        },
+        {
+          "project": "Feather Robotics",
+          "account": "featherrobotics",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-06-16T05:53:29+00:00",
+          "lastSeen": "2026-06-16T05:53:29+00:00",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Feather Robotics",
+              "account": "featherrobotics",
+              "alpha": "阿宏",
+              "seenAt": "2026-06-16T05:53:29+00:00",
+              "messageId": "dodtwitterbot/8016"
+            }
+          ],
+          "text": " Feather Robotics featherrobotics",
+          "score": 2,
+          "avatarUrl": ""
+        },
+        {
+          "project": "Go Fund Hook",
+          "account": "GoFundHook",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "CCcheer"
+          ],
+          "tgAlphas": [
+            "CCcheer"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-06-16T17:51:01+00:00",
+          "lastSeen": "2026-06-16T17:51:01+00:00",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Go Fund Hook",
+              "account": "GoFundHook",
+              "alpha": "CCcheer",
+              "seenAt": "2026-06-16T17:51:01+00:00",
+              "messageId": "dodtwitterbot/8147"
+            }
+          ],
+          "text": " Go Fund Hook GoFundHook",
+          "score": 2,
+          "avatarUrl": ""
+        },
+        {
+          "project": "Kite ML",
+          "account": "trainrobotsfast",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Ahong"
+          ],
+          "tgAlphas": [
+            "Ahong"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-06-16T17:05:03+00:00",
+          "lastSeen": "2026-06-16T17:05:03+00:00",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Kite ML",
+              "account": "trainrobotsfast",
+              "alpha": "Ahong",
+              "seenAt": "2026-06-16T17:05:03+00:00",
+              "messageId": "dodtwitterbot/8144"
+            }
+          ],
+          "text": " Kite ML trainrobotsfast",
+          "score": 2,
+          "avatarUrl": ""
+        },
+        {
+          "project": "Orbit_v4",
+          "account": "Orbit_v4",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "alphafries"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "alphafries"
+          ],
+          "mentions": 1,
+          "firstSeen": "2026-06-16",
+          "lastSeen": "2026-06-16",
+          "rows": [
+            {
+              "source": "X",
+              "project": "Orbit_v4",
+              "account": "Orbit_v4",
+              "alpha": "alphafries",
+              "seenAt": "2026-06-16",
+              "messageId": "2026-06-16-x-partial-alphafries.csv"
+            }
+          ],
+          "text": " Orbit_v4 Orbit_v4",
+          "score": 2,
+          "avatarUrl": ""
+        },
+        {
+          "project": "SHOW ROBOTICS",
+          "account": "SHOW_ROBOTICS",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-06-16T05:53:29+00:00",
+          "lastSeen": "2026-06-16T05:53:29+00:00",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "SHOW ROBOTICS",
+              "account": "SHOW_ROBOTICS",
+              "alpha": "阿宏",
+              "seenAt": "2026-06-16T05:53:29+00:00",
+              "messageId": "dodtwitterbot/8017"
+            }
+          ],
+          "text": " SHOW ROBOTICS SHOW_ROBOTICS",
+          "score": 2,
+          "avatarUrl": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-06-15",
+      "totalRows": 20,
+      "projectCount": 2,
+      "crossSource": 0,
+      "projects": [
+        {
+          "project": "Robinhook",
+          "account": "RobinhookApp",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "NΞO",
+            "发誓要做永赚大师",
+            "新手",
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "NΞO",
+            "发誓要做永赚大师",
+            "新手",
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 4,
+          "firstSeen": "2026-06-15T15:14:35+00:00",
+          "lastSeen": "2026-06-15T16:17:21+00:00",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Robinhook",
+              "account": "RobinhookApp",
+              "alpha": "发誓要做永赚大师",
+              "seenAt": "2026-06-15T15:14:35+00:00",
+              "messageId": "dodtwitterbot/7900"
+            },
+            {
+              "source": "TG",
+              "project": "Robinhook",
+              "account": "RobinhookApp",
+              "alpha": "新手",
+              "seenAt": "2026-06-15T15:22:13+00:00",
+              "messageId": "dodtwitterbot/7902"
+            },
+            {
+              "source": "TG",
+              "project": "Robinhook",
+              "account": "RobinhookApp",
+              "alpha": "NΞO",
+              "seenAt": "2026-06-15T15:25:21+00:00",
+              "messageId": "dodtwitterbot/7903"
+            },
+            {
+              "source": "TG",
+              "project": "Robinhook",
+              "account": "RobinhookApp",
+              "alpha": "阿宏",
+              "seenAt": "2026-06-15T16:17:21+00:00",
+              "messageId": "dodtwitterbot/7911"
+            }
+          ],
+          "text": " Robinhook RobinhookApp Robinhook RobinhookApp Robinhook RobinhookApp Robinhook RobinhookApp",
+          "score": 8,
+          "avatarUrl": ""
+        },
+        {
+          "project": "eiDotter",
+          "account": "eiDotterSystem",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "NΞO",
+            "发誓要做永赚大师",
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "NΞO",
+            "发誓要做永赚大师",
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 3,
+          "firstSeen": "2026-06-15T15:11:24+00:00",
+          "lastSeen": "2026-06-15T15:16:10+00:00",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "eiDotter",
+              "account": "eiDotterSystem",
+              "alpha": "发誓要做永赚大师",
+              "seenAt": "2026-06-15T15:11:24+00:00",
+              "messageId": "dodtwitterbot/7895"
+            },
+            {
+              "source": "TG",
+              "project": "eiDotter",
+              "account": "eiDotterSystem",
+              "alpha": "阿宏",
+              "seenAt": "2026-06-15T15:11:25+00:00",
+              "messageId": "dodtwitterbot/7898"
+            },
+            {
+              "source": "TG",
+              "project": "eiDotter",
+              "account": "eiDotterSystem",
+              "alpha": "NΞO",
+              "seenAt": "2026-06-15T15:16:10+00:00",
+              "messageId": "dodtwitterbot/7901"
+            }
+          ],
+          "text": " eiDotter eiDotterSystem eiDotter eiDotterSystem eiDotter eiDotterSystem",
+          "score": 6,
+          "avatarUrl": ""
+        }
+      ]
+    }
+  ],
   "reports": [
     {
       "file": "last-update-error.log",
       "title": "last-update-error.log",
-      "updatedAt": "2026-06-18T20:04:19.226Z"
+      "updatedAt": "2026-06-18T20:14:19.109Z"
     },
     {
       "file": "2026-06-17-1930-monitor.md",

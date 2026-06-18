@@ -60,7 +60,7 @@ input:focus, select:focus, button:hover {
 
 .filters {
   display: grid;
-  grid-template-columns: minmax(240px, 1fr) 160px 180px;
+  grid-template-columns: minmax(240px, 1fr) 160px 180px 160px;
   gap: 12px;
 }
 
@@ -159,6 +159,24 @@ a { color: var(--accent); text-decoration: none; }
 }
 .empty { color: var(--muted); padding: 16px; }
 .score { color: var(--warn); font-weight: 700; }
+.day-block {
+  margin-bottom: 18px;
+}
+.day-title {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  margin: 0 0 10px;
+}
+.day-title h3 {
+  margin: 0;
+  font-size: 17px;
+}
+.day-title span {
+  color: var(--muted);
+  font-size: 13px;
+}
 
 @media (max-width: 760px) {
   header {
