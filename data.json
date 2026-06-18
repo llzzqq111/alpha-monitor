@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-18T20:14:19.237Z",
+  "generatedAt": "2026-06-18T20:34:19.135Z",
   "totals": {
     "telegramRows": 107,
     "xRows": 549,
-    "projects": 97,
-    "crossSource": 22
+    "projects": 92,
+    "crossSource": 18
   },
   "projects": [
     {
@@ -1977,48 +1977,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "打死都不卖",
-      "account": "LynnChu26",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "nlgcf69515952",
-        "发财猪"
-      ],
-      "tgAlphas": [
-        "发财猪"
-      ],
-      "xAlphas": [
-        "nlgcf69515952"
-      ],
-      "mentions": 2,
-      "firstSeen": "2026-06-16T05:36:02+00:00",
-      "lastSeen": "2026-06-17",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "打死都不卖",
-          "account": "LynnChu26",
-          "alpha": "发财猪",
-          "seenAt": "2026-06-16T05:36:02+00:00",
-          "messageId": "dodtwitterbot/8013"
-        },
-        {
-          "source": "X",
-          "project": "LynnChu26",
-          "account": "LynnChu26",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-nlgcf69515952.csv"
-        }
-      ],
-      "text": " 打死都不卖 LynnChu26 LynnChu26 LynnChu26",
-      "score": 4,
-      "avatarUrl": ""
-    },
-    {
       "project": "Ask_CarpeDiem",
       "account": "Ask_CarpeDiem",
       "sources": [
@@ -2137,46 +2095,6 @@
         }
       ],
       "text": " bullyvhook bullyvhook bullyvhook bullyvhook",
-      "score": 4,
-      "avatarUrl": ""
-    },
-    {
-      "project": "citadelxbt",
-      "account": "citadelxbt",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "nlgcf69515952",
-        "xeogy92298766"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "nlgcf69515952",
-        "xeogy92298766"
-      ],
-      "mentions": 2,
-      "firstSeen": "2026-06-17",
-      "lastSeen": "2026-06-17",
-      "rows": [
-        {
-          "source": "X",
-          "project": "citadelxbt",
-          "account": "citadelxbt",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-nlgcf69515952.csv"
-        },
-        {
-          "source": "X",
-          "project": "citadelxbt",
-          "account": "citadelxbt",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-xeogy92298766.csv"
-        }
-      ],
-      "text": " citadelxbt citadelxbt citadelxbt citadelxbt",
       "score": 4,
       "avatarUrl": ""
     },
@@ -2301,48 +2219,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "culture",
-      "account": "cultureANON",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "TheVoldron",
-        "nlgcf69515952"
-      ],
-      "tgAlphas": [
-        "nlgcf69515952"
-      ],
-      "xAlphas": [
-        "TheVoldron"
-      ],
-      "mentions": 2,
-      "firstSeen": "2026-06-17",
-      "lastSeen": "2026-06-17T09:05:48+00:00",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "culture",
-          "account": "cultureANON",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-17T09:05:48+00:00",
-          "messageId": "dodtwitterbot/8220"
-        },
-        {
-          "source": "X",
-          "project": "cultureANON",
-          "account": "cultureANON",
-          "alpha": "TheVoldron",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-TheVoldron.csv"
-        }
-      ],
-      "text": " culture cultureANON cultureANON cultureANON",
-      "score": 4,
-      "avatarUrl": ""
-    },
-    {
       "project": "Dollz_nft",
       "account": "Dollz_nft",
       "sources": [
@@ -2379,48 +2255,6 @@
         }
       ],
       "text": " Dollz_nft Dollz_nft Dollz_nft Dollz_nft",
-      "score": 4,
-      "avatarUrl": ""
-    },
-    {
-      "project": "Doodles",
-      "account": "doodles",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "zizai3ro",
-        "自在"
-      ],
-      "tgAlphas": [
-        "自在"
-      ],
-      "xAlphas": [
-        "zizai3ro"
-      ],
-      "mentions": 2,
-      "firstSeen": "2026-06-15T15:56:28+00:00",
-      "lastSeen": "2026-06-17",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Doodles",
-          "account": "doodles",
-          "alpha": "自在",
-          "seenAt": "2026-06-15T15:56:28+00:00",
-          "messageId": "dodtwitterbot/7909"
-        },
-        {
-          "source": "X",
-          "project": "doodles",
-          "account": "doodles",
-          "alpha": "zizai3ro",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-zizai3ro.csv"
-        }
-      ],
-      "text": " Doodles doodles doodles doodles",
       "score": 4,
       "avatarUrl": ""
     },
@@ -2543,48 +2377,6 @@
         }
       ],
       "text": " harvy_gg harvy_gg harvy_gg harvy_gg",
-      "score": 4,
-      "avatarUrl": ""
-    },
-    {
-      "project": "HeeYeo希予",
-      "account": "HeeYeoSoHOT",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "zizai3ro",
-        "自在"
-      ],
-      "tgAlphas": [
-        "自在"
-      ],
-      "xAlphas": [
-        "zizai3ro"
-      ],
-      "mentions": 2,
-      "firstSeen": "2026-06-15T15:37:47+00:00",
-      "lastSeen": "2026-06-17",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "HeeYeo希予",
-          "account": "HeeYeoSoHOT",
-          "alpha": "自在",
-          "seenAt": "2026-06-15T15:37:47+00:00",
-          "messageId": "dodtwitterbot/7905"
-        },
-        {
-          "source": "X",
-          "project": "HeeYeoSoHOT",
-          "account": "HeeYeoSoHOT",
-          "alpha": "zizai3ro",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-zizai3ro.csv"
-        }
-      ],
-      "text": " HeeYeo希予 HeeYeoSoHOT HeeYeoSoHOT HeeYeoSoHOT",
       "score": 4,
       "avatarUrl": ""
     },
@@ -5157,48 +4949,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "打死都不卖",
-      "account": "LynnChu26",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "nlgcf69515952",
-        "发财猪"
-      ],
-      "tgAlphas": [
-        "发财猪"
-      ],
-      "xAlphas": [
-        "nlgcf69515952"
-      ],
-      "mentions": 2,
-      "firstSeen": "2026-06-16T05:36:02+00:00",
-      "lastSeen": "2026-06-17",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "打死都不卖",
-          "account": "LynnChu26",
-          "alpha": "发财猪",
-          "seenAt": "2026-06-16T05:36:02+00:00",
-          "messageId": "dodtwitterbot/8013"
-        },
-        {
-          "source": "X",
-          "project": "LynnChu26",
-          "account": "LynnChu26",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-nlgcf69515952.csv"
-        }
-      ],
-      "text": " 打死都不卖 LynnChu26 LynnChu26 LynnChu26",
-      "score": 4,
-      "avatarUrl": ""
-    },
-    {
       "project": "Baby Asteroid",
       "account": "AstroKid_Flap",
       "sources": [
@@ -5237,90 +4987,6 @@
         }
       ],
       "text": " Baby Asteroid AstroKid_Flap AstroKid_Flap AstroKid_Flap",
-      "score": 4,
-      "avatarUrl": ""
-    },
-    {
-      "project": "culture",
-      "account": "cultureANON",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "TheVoldron",
-        "nlgcf69515952"
-      ],
-      "tgAlphas": [
-        "nlgcf69515952"
-      ],
-      "xAlphas": [
-        "TheVoldron"
-      ],
-      "mentions": 2,
-      "firstSeen": "2026-06-17",
-      "lastSeen": "2026-06-17T09:05:48+00:00",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "culture",
-          "account": "cultureANON",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-17T09:05:48+00:00",
-          "messageId": "dodtwitterbot/8220"
-        },
-        {
-          "source": "X",
-          "project": "cultureANON",
-          "account": "cultureANON",
-          "alpha": "TheVoldron",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-TheVoldron.csv"
-        }
-      ],
-      "text": " culture cultureANON cultureANON cultureANON",
-      "score": 4,
-      "avatarUrl": ""
-    },
-    {
-      "project": "Doodles",
-      "account": "doodles",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "zizai3ro",
-        "自在"
-      ],
-      "tgAlphas": [
-        "自在"
-      ],
-      "xAlphas": [
-        "zizai3ro"
-      ],
-      "mentions": 2,
-      "firstSeen": "2026-06-15T15:56:28+00:00",
-      "lastSeen": "2026-06-17",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Doodles",
-          "account": "doodles",
-          "alpha": "自在",
-          "seenAt": "2026-06-15T15:56:28+00:00",
-          "messageId": "dodtwitterbot/7909"
-        },
-        {
-          "source": "X",
-          "project": "doodles",
-          "account": "doodles",
-          "alpha": "zizai3ro",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-zizai3ro.csv"
-        }
-      ],
-      "text": " Doodles doodles doodles doodles",
       "score": 4,
       "avatarUrl": ""
     },
@@ -5365,48 +5031,6 @@
       "text": " Fixels Fixels_ETH Fixels_ETH Fixels_ETH",
       "score": 4,
       "avatarUrl": "https://unavatar.io/twitter/Fixels_ETH"
-    },
-    {
-      "project": "HeeYeo希予",
-      "account": "HeeYeoSoHOT",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "zizai3ro",
-        "自在"
-      ],
-      "tgAlphas": [
-        "自在"
-      ],
-      "xAlphas": [
-        "zizai3ro"
-      ],
-      "mentions": 2,
-      "firstSeen": "2026-06-15T15:37:47+00:00",
-      "lastSeen": "2026-06-17",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "HeeYeo希予",
-          "account": "HeeYeoSoHOT",
-          "alpha": "自在",
-          "seenAt": "2026-06-15T15:37:47+00:00",
-          "messageId": "dodtwitterbot/7905"
-        },
-        {
-          "source": "X",
-          "project": "HeeYeoSoHOT",
-          "account": "HeeYeoSoHOT",
-          "alpha": "zizai3ro",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-zizai3ro.csv"
-        }
-      ],
-      "text": " HeeYeo希予 HeeYeoSoHOT HeeYeoSoHOT HeeYeoSoHOT",
-      "score": 4,
-      "avatarUrl": ""
     },
     {
       "project": "Onchain Guppies",
@@ -7303,48 +6927,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "打死都不卖",
-      "account": "LynnChu26",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "nlgcf69515952",
-        "发财猪"
-      ],
-      "tgAlphas": [
-        "发财猪"
-      ],
-      "xAlphas": [
-        "nlgcf69515952"
-      ],
-      "mentions": 2,
-      "firstSeen": "2026-06-16T05:36:02+00:00",
-      "lastSeen": "2026-06-17",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "打死都不卖",
-          "account": "LynnChu26",
-          "alpha": "发财猪",
-          "seenAt": "2026-06-16T05:36:02+00:00",
-          "messageId": "dodtwitterbot/8013"
-        },
-        {
-          "source": "X",
-          "project": "LynnChu26",
-          "account": "LynnChu26",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-nlgcf69515952.csv"
-        }
-      ],
-      "text": " 打死都不卖 LynnChu26 LynnChu26 LynnChu26",
-      "score": 4,
-      "avatarUrl": ""
-    },
-    {
       "project": "Ask_CarpeDiem",
       "account": "Ask_CarpeDiem",
       "sources": [
@@ -7467,46 +7049,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "citadelxbt",
-      "account": "citadelxbt",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "nlgcf69515952",
-        "xeogy92298766"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "nlgcf69515952",
-        "xeogy92298766"
-      ],
-      "mentions": 2,
-      "firstSeen": "2026-06-17",
-      "lastSeen": "2026-06-17",
-      "rows": [
-        {
-          "source": "X",
-          "project": "citadelxbt",
-          "account": "citadelxbt",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-nlgcf69515952.csv"
-        },
-        {
-          "source": "X",
-          "project": "citadelxbt",
-          "account": "citadelxbt",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-xeogy92298766.csv"
-        }
-      ],
-      "text": " citadelxbt citadelxbt citadelxbt citadelxbt",
-      "score": 4,
-      "avatarUrl": ""
-    },
-    {
       "project": "collectablefun",
       "account": "collectablefun",
       "sources": [
@@ -7587,48 +7129,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "culture",
-      "account": "cultureANON",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "TheVoldron",
-        "nlgcf69515952"
-      ],
-      "tgAlphas": [
-        "nlgcf69515952"
-      ],
-      "xAlphas": [
-        "TheVoldron"
-      ],
-      "mentions": 2,
-      "firstSeen": "2026-06-17",
-      "lastSeen": "2026-06-17T09:05:48+00:00",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "culture",
-          "account": "cultureANON",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-17T09:05:48+00:00",
-          "messageId": "dodtwitterbot/8220"
-        },
-        {
-          "source": "X",
-          "project": "cultureANON",
-          "account": "cultureANON",
-          "alpha": "TheVoldron",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-TheVoldron.csv"
-        }
-      ],
-      "text": " culture cultureANON cultureANON cultureANON",
-      "score": 4,
-      "avatarUrl": ""
-    },
-    {
       "project": "Dollz_nft",
       "account": "Dollz_nft",
       "sources": [
@@ -7665,48 +7165,6 @@
         }
       ],
       "text": " Dollz_nft Dollz_nft Dollz_nft Dollz_nft",
-      "score": 4,
-      "avatarUrl": ""
-    },
-    {
-      "project": "Doodles",
-      "account": "doodles",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "zizai3ro",
-        "自在"
-      ],
-      "tgAlphas": [
-        "自在"
-      ],
-      "xAlphas": [
-        "zizai3ro"
-      ],
-      "mentions": 2,
-      "firstSeen": "2026-06-15T15:56:28+00:00",
-      "lastSeen": "2026-06-17",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Doodles",
-          "account": "doodles",
-          "alpha": "自在",
-          "seenAt": "2026-06-15T15:56:28+00:00",
-          "messageId": "dodtwitterbot/7909"
-        },
-        {
-          "source": "X",
-          "project": "doodles",
-          "account": "doodles",
-          "alpha": "zizai3ro",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-zizai3ro.csv"
-        }
-      ],
-      "text": " Doodles doodles doodles doodles",
       "score": 4,
       "avatarUrl": ""
     },
@@ -7829,48 +7287,6 @@
         }
       ],
       "text": " harvy_gg harvy_gg harvy_gg harvy_gg",
-      "score": 4,
-      "avatarUrl": ""
-    },
-    {
-      "project": "HeeYeo希予",
-      "account": "HeeYeoSoHOT",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "zizai3ro",
-        "自在"
-      ],
-      "tgAlphas": [
-        "自在"
-      ],
-      "xAlphas": [
-        "zizai3ro"
-      ],
-      "mentions": 2,
-      "firstSeen": "2026-06-15T15:37:47+00:00",
-      "lastSeen": "2026-06-17",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "HeeYeo希予",
-          "account": "HeeYeoSoHOT",
-          "alpha": "自在",
-          "seenAt": "2026-06-15T15:37:47+00:00",
-          "messageId": "dodtwitterbot/7905"
-        },
-        {
-          "source": "X",
-          "project": "HeeYeoSoHOT",
-          "account": "HeeYeoSoHOT",
-          "alpha": "zizai3ro",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-zizai3ro.csv"
-        }
-      ],
-      "text": " HeeYeo希予 HeeYeoSoHOT HeeYeoSoHOT HeeYeoSoHOT",
       "score": 4,
       "avatarUrl": ""
     },
@@ -8850,6 +8266,13 @@
     }
   ],
   "daily": [
+    {
+      "date": "2026-06-19",
+      "totalRows": 0,
+      "projectCount": 0,
+      "crossSource": 0,
+      "projects": []
+    },
     {
       "date": "2026-06-18",
       "totalRows": 267,
@@ -9871,8 +9294,8 @@
     {
       "date": "2026-06-17",
       "totalRows": 321,
-      "projectCount": 65,
-      "crossSource": 3,
+      "projectCount": 63,
+      "crossSource": 2,
       "projects": [
         {
           "project": "4626.fun",
@@ -10737,46 +10160,6 @@
           "avatarUrl": ""
         },
         {
-          "project": "citadelxbt",
-          "account": "citadelxbt",
-          "sources": [
-            "X"
-          ],
-          "alphas": [
-            "nlgcf69515952",
-            "xeogy92298766"
-          ],
-          "tgAlphas": [],
-          "xAlphas": [
-            "nlgcf69515952",
-            "xeogy92298766"
-          ],
-          "mentions": 2,
-          "firstSeen": "2026-06-17",
-          "lastSeen": "2026-06-17",
-          "rows": [
-            {
-              "source": "X",
-              "project": "citadelxbt",
-              "account": "citadelxbt",
-              "alpha": "nlgcf69515952",
-              "seenAt": "2026-06-17",
-              "messageId": "2026-06-17-x-partial-nlgcf69515952.csv"
-            },
-            {
-              "source": "X",
-              "project": "citadelxbt",
-              "account": "citadelxbt",
-              "alpha": "xeogy92298766",
-              "seenAt": "2026-06-17",
-              "messageId": "2026-06-17-x-partial-xeogy92298766.csv"
-            }
-          ],
-          "text": " citadelxbt citadelxbt citadelxbt citadelxbt",
-          "score": 4,
-          "avatarUrl": ""
-        },
-        {
           "project": "cladiogames",
           "account": "cladiogames",
           "sources": [
@@ -10893,48 +10276,6 @@
             }
           ],
           "text": " collectablefun collectablefun collectablefun collectablefun",
-          "score": 4,
-          "avatarUrl": ""
-        },
-        {
-          "project": "culture",
-          "account": "cultureANON",
-          "sources": [
-            "TG",
-            "X"
-          ],
-          "alphas": [
-            "TheVoldron",
-            "nlgcf69515952"
-          ],
-          "tgAlphas": [
-            "nlgcf69515952"
-          ],
-          "xAlphas": [
-            "TheVoldron"
-          ],
-          "mentions": 2,
-          "firstSeen": "2026-06-17",
-          "lastSeen": "2026-06-17T09:05:48+00:00",
-          "rows": [
-            {
-              "source": "TG",
-              "project": "culture",
-              "account": "cultureANON",
-              "alpha": "nlgcf69515952",
-              "seenAt": "2026-06-17T09:05:48+00:00",
-              "messageId": "dodtwitterbot/8220"
-            },
-            {
-              "source": "X",
-              "project": "cultureANON",
-              "account": "cultureANON",
-              "alpha": "TheVoldron",
-              "seenAt": "2026-06-17",
-              "messageId": "2026-06-17-x-partial-TheVoldron.csv"
-            }
-          ],
-          "text": " culture cultureANON cultureANON cultureANON",
           "score": 4,
           "avatarUrl": ""
         },
@@ -11659,6 +11000,86 @@
           "text": " trybountyai trybountyai trybountyai trybountyai",
           "score": 4,
           "avatarUrl": ""
+        },
+        {
+          "project": "unitrustsystem",
+          "account": "unitrustsystem",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "Yangxiao214",
+            "juesaiquan"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "Yangxiao214",
+            "juesaiquan"
+          ],
+          "mentions": 2,
+          "firstSeen": "2026-06-17",
+          "lastSeen": "2026-06-17",
+          "rows": [
+            {
+              "source": "X",
+              "project": "unitrustsystem",
+              "account": "unitrustsystem",
+              "alpha": "Yangxiao214",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-Yangxiao214.csv"
+            },
+            {
+              "source": "X",
+              "project": "unitrustsystem",
+              "account": "unitrustsystem",
+              "alpha": "juesaiquan",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-juesaiquan.csv"
+            }
+          ],
+          "text": " unitrustsystem unitrustsystem unitrustsystem unitrustsystem",
+          "score": 4,
+          "avatarUrl": ""
+        },
+        {
+          "project": "ZebraPerps",
+          "account": "ZebraPerps",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "ibraxbt",
+            "juesaiquan"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "ibraxbt",
+            "juesaiquan"
+          ],
+          "mentions": 2,
+          "firstSeen": "2026-06-17",
+          "lastSeen": "2026-06-17",
+          "rows": [
+            {
+              "source": "X",
+              "project": "ZebraPerps",
+              "account": "ZebraPerps",
+              "alpha": "ibraxbt",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-ibraxbt.csv"
+            },
+            {
+              "source": "X",
+              "project": "ZebraPerps",
+              "account": "ZebraPerps",
+              "alpha": "juesaiquan",
+              "seenAt": "2026-06-17",
+              "messageId": "2026-06-17-x-partial-juesaiquan.csv"
+            }
+          ],
+          "text": " ZebraPerps ZebraPerps ZebraPerps ZebraPerps",
+          "score": 4,
+          "avatarUrl": ""
         }
       ]
     },
@@ -12099,7 +11520,7 @@
     {
       "file": "last-update-error.log",
       "title": "last-update-error.log",
-      "updatedAt": "2026-06-18T20:14:19.109Z"
+      "updatedAt": "2026-06-18T20:34:19.005Z"
     },
     {
       "file": "2026-06-17-1930-monitor.md",
