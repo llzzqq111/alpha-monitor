@@ -1,0 +1,2 @@
+Set shell = CreateObject("WScript.Shell")
+shell.Run "powershell.exe -NoProfile -ExecutionPolicy Bypass -EncodedCommand UwBlAHQALQBMAG8AYwBhAHQAaQBvAG4AIAAtAEwAaQB0AGUAcgBhAGwAUABhAHQAaAAgACcARAA6AFwAYwBvAGUAZABlAHgAXACoY3lysGV5mO52JwA7ACAAJgAgACcALgBcAHIAdQBuAC0AYQBsAHAAaABhAC0AdQBwAGQAYQB0AGUALgBwAHMAMQAnAA==", 0, False

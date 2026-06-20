@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Alpha 项目监控</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <header>
+    <div>
+      <p class="eyebrow">Alpha Monitor</p>
+      <h1>TG + X 早期项目看板</h1>
+      <p id="meta">加载中...</p>
+    </div>
+    <button id="refresh">刷新</button>
+  </header>
+
+  <main>
+    <section class="filters">
+      <input id="search" type="search" placeholder="搜索项目、X 账号或 Alpha">
+      <select id="range">
+        <option value="all">全部时间</option>
+        <option value="6h">最近 6 小时</option>
+        <option value="24h">今天 / 24 小时</option>
+        <option value="3d">最近 3 天</option>
+      </select>
+      <select id="source">
+        <option value="all">全部来源</option>
+        <option value="cross">TG + X 双来源</option>
+        <option value="tg">只看 TG</option>
+        <option value="x">只看 X</option>
+      </select>
+      <select id="day">
+        <option value="all">全部日期</option>
+      </select>
+    </section>
+
+    <section class="cards" id="totals"></section>
+
+    <section>
+      <h2>重点项目</h2>
+      <div id="priority"></div>
+    </section>
+
+    <section>
+      <h2>按日期查看</h2>
+      <div id="daily"></div>
+    </section>
+
+    <section>
+      <h2>TG 和 X 都有提及</h2>
+      <div id="cross"></div>
+    </section>
+
+    <section>
+      <h2>TG 出现次数排行</h2>
+      <div id="tg"></div>
+    </section>
+
+    <section>
+      <h2>X 多 Alpha 共同关注</h2>
+      <div id="xmulti"></div>
+    </section>
+
+    <section>
+      <h2>最新报告</h2>
+      <div id="reports"></div>
+    </section>
+  </main>
+
+  <script src="./app.js"></script>
+</body>
+</html>
