@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-20T07:54:19.609Z",
+  "generatedAt": "2026-06-20T08:04:19.534Z",
   "totals": {
-    "telegramRows": 119,
+    "telegramRows": 133,
     "xRows": 662,
-    "projects": 156,
-    "crossSource": 34
+    "projects": 164,
+    "crossSource": 35
   },
   "projects": [
     {
@@ -3405,6 +3405,50 @@
       "avatarUrl": ""
     },
     {
+      "project": "Fibo",
+      "account": "fibodotfun",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "ibraxbt",
+        "well"
+      ],
+      "tgAlphas": [
+        "well"
+      ],
+      "xAlphas": [
+        "ibraxbt"
+      ],
+      "mentions": 2,
+      "firstSeen": "2026-06-19",
+      "lastSeen": "2026-06-20T05:32:00+00:00",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Fibo",
+          "account": "fibodotfun",
+          "alpha": "well",
+          "seenAt": "2026-06-20T05:32:00+00:00",
+          "messageId": "tg-8648",
+          "text": "\"Coming soon on Base.\""
+        },
+        {
+          "source": "X",
+          "project": "fibodotfun",
+          "account": "fibodotfun",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-19",
+          "messageId": "2026-06-19-x-partial-ibraxbt.csv",
+          "text": "\"Early Base project coming soon.\""
+        }
+      ],
+      "text": " Fibo fibodotfun \"Coming soon on Base.\" fibodotfun fibodotfun \"Early Base project coming soon.\"",
+      "score": 4,
+      "avatarUrl": ""
+    },
+    {
       "project": "FireFliesMarket",
       "account": "FireFliesMarket",
       "sources": [
@@ -4133,6 +4177,48 @@
       "avatarUrl": ""
     },
     {
+      "project": "PolicyPool",
+      "account": "PolicyPoolHQ",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "speest",
+        "小雨倾城"
+      ],
+      "tgAlphas": [
+        "speest",
+        "小雨倾城"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-06-20T04:59:00+00:00",
+      "lastSeen": "2026-06-20T05:02:00+00:00",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "PolicyPool",
+          "account": "PolicyPoolHQ",
+          "alpha": "speest",
+          "seenAt": "2026-06-20T04:59:00+00:00",
+          "messageId": "tg-8642",
+          "text": "\"Uniswap v4 Hook on X Layer. Same swap"
+        },
+        {
+          "source": "TG",
+          "project": "PolicyPool",
+          "account": "PolicyPoolHQ",
+          "alpha": "小雨倾城",
+          "seenAt": "2026-06-20T05:02:00+00:00",
+          "messageId": "tg-8643",
+          "text": "\"Uniswap v4 Hook on X Layer. Same swap"
+        }
+      ],
+      "text": " PolicyPool PolicyPoolHQ \"Uniswap v4 Hook on X Layer. Same swap PolicyPool PolicyPoolHQ \"Uniswap v4 Hook on X Layer. Same swap",
+      "score": 4,
+      "avatarUrl": ""
+    },
+    {
       "project": "pulseitfun",
       "account": "pulseitfun",
       "sources": [
@@ -4381,6 +4467,48 @@
         }
       ],
       "text": " sanctuairyfun sanctuairyfun \"Home of autonomous 3D companions built on threews.\" sanctuairyfun sanctuairyfun \"Home of autonomous 3D companions built on threews.\"",
+      "score": 4,
+      "avatarUrl": ""
+    },
+    {
+      "project": "Shield Suite",
+      "account": "ShieldSuite_",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "自在",
+        "苦瓜大王"
+      ],
+      "tgAlphas": [
+        "自在",
+        "苦瓜大王"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-06-20T05:22:00+00:00",
+      "lastSeen": "2026-06-20T06:09:00+00:00",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Shield Suite",
+          "account": "ShieldSuite_",
+          "alpha": "苦瓜大王",
+          "seenAt": "2026-06-20T05:22:00+00:00",
+          "messageId": "tg-8646",
+          "text": "\"AI-shielded transaction security and autonomous sports speculation on X Layer.\""
+        },
+        {
+          "source": "TG",
+          "project": "Shield Suite",
+          "account": "ShieldSuite_",
+          "alpha": "自在",
+          "seenAt": "2026-06-20T06:09:00+00:00",
+          "messageId": "tg-8654",
+          "text": "\"AI-shielded transaction security and autonomous sports speculation on X Layer.\""
+        }
+      ],
+      "text": " Shield Suite ShieldSuite_ \"AI-shielded transaction security and autonomous sports speculation on X Layer.\" Shield Suite ShieldSuite_ \"AI-shielded transaction security and autonomous sports speculation on X Layer.\"",
       "score": 4,
       "avatarUrl": ""
     },
@@ -5412,6 +5540,37 @@
       "avatarUrl": ""
     },
     {
+      "project": "agenomy",
+      "account": "agenomylayer",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "自在"
+      ],
+      "tgAlphas": [
+        "自在"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-06-20T07:56:00+00:00",
+      "lastSeen": "2026-06-20T07:56:00+00:00",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "agenomy",
+          "account": "agenomylayer",
+          "alpha": "自在",
+          "seenAt": "2026-06-20T07:56:00+00:00",
+          "messageId": "tg-8658",
+          "text": "\"On-chain layer for autonomous AI workers with wallet memory and USDC for agents.\""
+        }
+      ],
+      "text": " agenomy agenomylayer \"On-chain layer for autonomous AI workers with wallet memory and USDC for agents.\"",
+      "score": 2,
+      "avatarUrl": ""
+    },
+    {
       "project": "AgentiQAI",
       "account": "AgentiQAI",
       "sources": [
@@ -5815,6 +5974,37 @@
       "avatarUrl": ""
     },
     {
+      "project": "CLAW3D",
+      "account": "claw3dcity",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-06-20T05:36:00+00:00",
+      "lastSeen": "2026-06-20T05:36:00+00:00",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "CLAW3D",
+          "account": "claw3dcity",
+          "alpha": "蛋总",
+          "seenAt": "2026-06-20T05:36:00+00:00",
+          "messageId": "tg-8651",
+          "text": "\"3D virtual office for AI agents. Watch AI workforce review code"
+        }
+      ],
+      "text": " CLAW3D claw3dcity \"3D virtual office for AI agents. Watch AI workforce review code",
+      "score": 2,
+      "avatarUrl": ""
+    },
+    {
       "project": "Cournot Protocol",
       "account": "CournotProtocol",
       "sources": [
@@ -6059,37 +6249,6 @@
         }
       ],
       "text": " Feather Robotics featherrobotics ",
-      "score": 2,
-      "avatarUrl": ""
-    },
-    {
-      "project": "fibodotfun",
-      "account": "fibodotfun",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "ibraxbt"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "ibraxbt"
-      ],
-      "mentions": 1,
-      "firstSeen": "2026-06-19",
-      "lastSeen": "2026-06-19",
-      "rows": [
-        {
-          "source": "X",
-          "project": "fibodotfun",
-          "account": "fibodotfun",
-          "alpha": "ibraxbt",
-          "seenAt": "2026-06-19",
-          "messageId": "2026-06-19-x-partial-ibraxbt.csv",
-          "text": "\"Early Base project coming soon.\""
-        }
-      ],
-      "text": " fibodotfun fibodotfun \"Early Base project coming soon.\"",
       "score": 2,
       "avatarUrl": ""
     },
@@ -6652,6 +6811,68 @@
       "avatarUrl": ""
     },
     {
+      "project": "RAG Labs",
+      "account": "raglabshq",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "well"
+      ],
+      "tgAlphas": [
+        "well"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-06-20T05:34:00+00:00",
+      "lastSeen": "2026-06-20T05:34:00+00:00",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "RAG Labs",
+          "account": "raglabshq",
+          "alpha": "well",
+          "seenAt": "2026-06-20T05:34:00+00:00",
+          "messageId": "tg-8650",
+          "text": "\"Frontier product lab building products systems and services for a more agentic world.\""
+        }
+      ],
+      "text": " RAG Labs raglabshq \"Frontier product lab building products systems and services for a more agentic world.\"",
+      "score": 2,
+      "avatarUrl": ""
+    },
+    {
+      "project": "RouletteSwap",
+      "account": "RouletteSwap",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "speest"
+      ],
+      "tgAlphas": [
+        "speest"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-06-20T05:02:00+00:00",
+      "lastSeen": "2026-06-20T05:02:00+00:00",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "RouletteSwap",
+          "account": "RouletteSwap",
+          "alpha": "speest",
+          "seenAt": "2026-06-20T05:02:00+00:00",
+          "messageId": "tg-8644",
+          "text": "\"Uniswap v4 Hook on X Layer. Pick your fee or pick your luck. Live on testnet.\""
+        }
+      ],
+      "text": " RouletteSwap RouletteSwap \"Uniswap v4 Hook on X Layer. Pick your fee or pick your luck. Live on testnet.\"",
+      "score": 2,
+      "avatarUrl": ""
+    },
+    {
       "project": "SecretSoc_NFT",
       "account": "SecretSoc_NFT",
       "sources": [
@@ -6679,6 +6900,37 @@
         }
       ],
       "text": " SecretSoc_NFT SecretSoc_NFT ETH A realm of secrets",
+      "score": 2,
+      "avatarUrl": ""
+    },
+    {
+      "project": "shot2win",
+      "account": "shot2windotxyz",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "自在"
+      ],
+      "tgAlphas": [
+        "自在"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-06-20T07:15:00+00:00",
+      "lastSeen": "2026-06-20T07:15:00+00:00",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "shot2win",
+          "account": "shot2windotxyz",
+          "alpha": "自在",
+          "seenAt": "2026-06-20T07:15:00+00:00",
+          "messageId": "tg-8656",
+          "text": "\"World Cup degen game driven by v4 hooks where goals and shots change game mechanics.\""
+        }
+      ],
+      "text": " shot2win shot2windotxyz \"World Cup degen game driven by v4 hooks where goals and shots change game mechanics.\"",
       "score": 2,
       "avatarUrl": ""
     },
@@ -6896,6 +7148,37 @@
         }
       ],
       "text": " thebasement_fun thebasement_fun \"Verified on-chain verdicts for Solana games.\"",
+      "score": 2,
+      "avatarUrl": ""
+    },
+    {
+      "project": "TinyHumans AI",
+      "account": "tinyhumansai",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "speest"
+      ],
+      "tgAlphas": [
+        "speest"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-06-20T05:15:00+00:00",
+      "lastSeen": "2026-06-20T05:15:00+00:00",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "TinyHumans AI",
+          "account": "tinyhumansai",
+          "alpha": "speest",
+          "seenAt": "2026-06-20T05:15:00+00:00",
+          "messageId": "tg-8645",
+          "text": "\"AI lab building AI agents with human-like memory and artificial subconscious.\""
+        }
+      ],
+      "text": " TinyHumans AI tinyhumansai \"AI lab building AI agents with human-like memory and artificial subconscious.\"",
       "score": 2,
       "avatarUrl": ""
     },
@@ -8424,6 +8707,50 @@
         }
       ],
       "text": " Elisym Labs elisymlabs Open Execution Market for AI Agents infrastructure for humans and AI agents elisymlabs elisymlabs \"Infrastructure for humans and AI agents.\"",
+      "score": 4,
+      "avatarUrl": ""
+    },
+    {
+      "project": "Fibo",
+      "account": "fibodotfun",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "ibraxbt",
+        "well"
+      ],
+      "tgAlphas": [
+        "well"
+      ],
+      "xAlphas": [
+        "ibraxbt"
+      ],
+      "mentions": 2,
+      "firstSeen": "2026-06-19",
+      "lastSeen": "2026-06-20T05:32:00+00:00",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Fibo",
+          "account": "fibodotfun",
+          "alpha": "well",
+          "seenAt": "2026-06-20T05:32:00+00:00",
+          "messageId": "tg-8648",
+          "text": "\"Coming soon on Base.\""
+        },
+        {
+          "source": "X",
+          "project": "fibodotfun",
+          "account": "fibodotfun",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-19",
+          "messageId": "2026-06-19-x-partial-ibraxbt.csv",
+          "text": "\"Early Base project coming soon.\""
+        }
+      ],
+      "text": " Fibo fibodotfun \"Coming soon on Base.\" fibodotfun fibodotfun \"Early Base project coming soon.\"",
       "score": 4,
       "avatarUrl": ""
     },
@@ -12280,6 +12607,50 @@
       "avatarUrl": ""
     },
     {
+      "project": "Fibo",
+      "account": "fibodotfun",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "ibraxbt",
+        "well"
+      ],
+      "tgAlphas": [
+        "well"
+      ],
+      "xAlphas": [
+        "ibraxbt"
+      ],
+      "mentions": 2,
+      "firstSeen": "2026-06-19",
+      "lastSeen": "2026-06-20T05:32:00+00:00",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Fibo",
+          "account": "fibodotfun",
+          "alpha": "well",
+          "seenAt": "2026-06-20T05:32:00+00:00",
+          "messageId": "tg-8648",
+          "text": "\"Coming soon on Base.\""
+        },
+        {
+          "source": "X",
+          "project": "fibodotfun",
+          "account": "fibodotfun",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-19",
+          "messageId": "2026-06-19-x-partial-ibraxbt.csv",
+          "text": "\"Early Base project coming soon.\""
+        }
+      ],
+      "text": " Fibo fibodotfun \"Coming soon on Base.\" fibodotfun fibodotfun \"Early Base project coming soon.\"",
+      "score": 4,
+      "avatarUrl": ""
+    },
+    {
       "project": "FireFliesMarket",
       "account": "FireFliesMarket",
       "sources": [
@@ -13985,12 +14356,323 @@
   "daily": [
     {
       "date": "2026-06-20",
-      "totalRows": 0,
-      "projectCount": 0,
+      "totalRows": 14,
+      "projectCount": 9,
       "crossSource": 0,
-      "newCount": 0,
-      "repeatCount": 0,
-      "projects": []
+      "newCount": 8,
+      "repeatCount": 1,
+      "projects": [
+        {
+          "project": "PolicyPool",
+          "account": "PolicyPoolHQ",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "speest",
+            "小雨倾城"
+          ],
+          "tgAlphas": [
+            "speest",
+            "小雨倾城"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-06-20T04:59:00+00:00",
+          "lastSeen": "2026-06-20T05:02:00+00:00",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "PolicyPool",
+              "account": "PolicyPoolHQ",
+              "alpha": "speest",
+              "seenAt": "2026-06-20T04:59:00+00:00",
+              "messageId": "tg-8642",
+              "text": "\"Uniswap v4 Hook on X Layer. Same swap"
+            },
+            {
+              "source": "TG",
+              "project": "PolicyPool",
+              "account": "PolicyPoolHQ",
+              "alpha": "小雨倾城",
+              "seenAt": "2026-06-20T05:02:00+00:00",
+              "messageId": "tg-8643",
+              "text": "\"Uniswap v4 Hook on X Layer. Same swap"
+            }
+          ],
+          "text": " PolicyPool PolicyPoolHQ \"Uniswap v4 Hook on X Layer. Same swap PolicyPool PolicyPoolHQ \"Uniswap v4 Hook on X Layer. Same swap",
+          "score": 4,
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Shield Suite",
+          "account": "ShieldSuite_",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "自在",
+            "苦瓜大王"
+          ],
+          "tgAlphas": [
+            "自在",
+            "苦瓜大王"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-06-20T05:22:00+00:00",
+          "lastSeen": "2026-06-20T06:09:00+00:00",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Shield Suite",
+              "account": "ShieldSuite_",
+              "alpha": "苦瓜大王",
+              "seenAt": "2026-06-20T05:22:00+00:00",
+              "messageId": "tg-8646",
+              "text": "\"AI-shielded transaction security and autonomous sports speculation on X Layer.\""
+            },
+            {
+              "source": "TG",
+              "project": "Shield Suite",
+              "account": "ShieldSuite_",
+              "alpha": "自在",
+              "seenAt": "2026-06-20T06:09:00+00:00",
+              "messageId": "tg-8654",
+              "text": "\"AI-shielded transaction security and autonomous sports speculation on X Layer.\""
+            }
+          ],
+          "text": " Shield Suite ShieldSuite_ \"AI-shielded transaction security and autonomous sports speculation on X Layer.\" Shield Suite ShieldSuite_ \"AI-shielded transaction security and autonomous sports speculation on X Layer.\"",
+          "score": 4,
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "agenomy",
+          "account": "agenomylayer",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "自在"
+          ],
+          "tgAlphas": [
+            "自在"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-06-20T07:56:00+00:00",
+          "lastSeen": "2026-06-20T07:56:00+00:00",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "agenomy",
+              "account": "agenomylayer",
+              "alpha": "自在",
+              "seenAt": "2026-06-20T07:56:00+00:00",
+              "messageId": "tg-8658",
+              "text": "\"On-chain layer for autonomous AI workers with wallet memory and USDC for agents.\""
+            }
+          ],
+          "text": " agenomy agenomylayer \"On-chain layer for autonomous AI workers with wallet memory and USDC for agents.\"",
+          "score": 2,
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "CLAW3D",
+          "account": "claw3dcity",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-06-20T05:36:00+00:00",
+          "lastSeen": "2026-06-20T05:36:00+00:00",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "CLAW3D",
+              "account": "claw3dcity",
+              "alpha": "蛋总",
+              "seenAt": "2026-06-20T05:36:00+00:00",
+              "messageId": "tg-8651",
+              "text": "\"3D virtual office for AI agents. Watch AI workforce review code"
+            }
+          ],
+          "text": " CLAW3D claw3dcity \"3D virtual office for AI agents. Watch AI workforce review code",
+          "score": 2,
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Fibo",
+          "account": "fibodotfun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "well"
+          ],
+          "tgAlphas": [
+            "well"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-06-20T05:32:00+00:00",
+          "lastSeen": "2026-06-20T05:32:00+00:00",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Fibo",
+              "account": "fibodotfun",
+              "alpha": "well",
+              "seenAt": "2026-06-20T05:32:00+00:00",
+              "messageId": "tg-8648",
+              "text": "\"Coming soon on Base.\""
+            }
+          ],
+          "text": " Fibo fibodotfun \"Coming soon on Base.\"",
+          "score": 2,
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "RAG Labs",
+          "account": "raglabshq",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "well"
+          ],
+          "tgAlphas": [
+            "well"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-06-20T05:34:00+00:00",
+          "lastSeen": "2026-06-20T05:34:00+00:00",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "RAG Labs",
+              "account": "raglabshq",
+              "alpha": "well",
+              "seenAt": "2026-06-20T05:34:00+00:00",
+              "messageId": "tg-8650",
+              "text": "\"Frontier product lab building products systems and services for a more agentic world.\""
+            }
+          ],
+          "text": " RAG Labs raglabshq \"Frontier product lab building products systems and services for a more agentic world.\"",
+          "score": 2,
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "RouletteSwap",
+          "account": "RouletteSwap",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "speest"
+          ],
+          "tgAlphas": [
+            "speest"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-06-20T05:02:00+00:00",
+          "lastSeen": "2026-06-20T05:02:00+00:00",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "RouletteSwap",
+              "account": "RouletteSwap",
+              "alpha": "speest",
+              "seenAt": "2026-06-20T05:02:00+00:00",
+              "messageId": "tg-8644",
+              "text": "\"Uniswap v4 Hook on X Layer. Pick your fee or pick your luck. Live on testnet.\""
+            }
+          ],
+          "text": " RouletteSwap RouletteSwap \"Uniswap v4 Hook on X Layer. Pick your fee or pick your luck. Live on testnet.\"",
+          "score": 2,
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "shot2win",
+          "account": "shot2windotxyz",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "自在"
+          ],
+          "tgAlphas": [
+            "自在"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-06-20T07:15:00+00:00",
+          "lastSeen": "2026-06-20T07:15:00+00:00",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "shot2win",
+              "account": "shot2windotxyz",
+              "alpha": "自在",
+              "seenAt": "2026-06-20T07:15:00+00:00",
+              "messageId": "tg-8656",
+              "text": "\"World Cup degen game driven by v4 hooks where goals and shots change game mechanics.\""
+            }
+          ],
+          "text": " shot2win shot2windotxyz \"World Cup degen game driven by v4 hooks where goals and shots change game mechanics.\"",
+          "score": 2,
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "TinyHumans AI",
+          "account": "tinyhumansai",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "speest"
+          ],
+          "tgAlphas": [
+            "speest"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-06-20T05:15:00+00:00",
+          "lastSeen": "2026-06-20T05:15:00+00:00",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "TinyHumans AI",
+              "account": "tinyhumansai",
+              "alpha": "speest",
+              "seenAt": "2026-06-20T05:15:00+00:00",
+              "messageId": "tg-8645",
+              "text": "\"AI lab building AI agents with human-like memory and artificial subconscious.\""
+            }
+          ],
+          "text": " TinyHumans AI tinyhumansai \"AI lab building AI agents with human-like memory and artificial subconscious.\"",
+          "score": 2,
+          "avatarUrl": "",
+          "dayStatus": "new"
+        }
+      ]
     },
     {
       "date": "2026-06-19",
@@ -19545,7 +20227,7 @@
     {
       "file": "last-update-error.log",
       "title": "last-update-error.log",
-      "updatedAt": "2026-06-20T07:54:19.471Z"
+      "updatedAt": "2026-06-20T08:04:19.398Z"
     },
     {
       "file": "2026-06-17-1930-monitor.md",
