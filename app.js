@@ -134,9 +134,11 @@ function priorityItems(data) {
 
 function populateDays(data) {
   const select = $("day");
-  const days = (data.daily || []).map((group) => group.date);
-  if (!state.day) state.day = days[0] || "all";
-  const current = days.includes(state.day) || state.day === "all" ? state.day : days[0] || "all";
+  const daily = data.daily || [];
+  const days = daily.map((group) => group.date);
+  const latestWithData = daily.find((group) => Number(group.projectCount || 0) > 0 || Number(group.totalRows || 0) > 0)?.date || days[0] || "all";
+  if (!state.day) state.day = latestWithData;
+  const current = days.includes(state.day) || state.day === "all" ? state.day : latestWithData;
   select.innerHTML = [
     `<option value="all">全部日期</option>`,
     ...days.map((day) => `<option value="${escapeHtml(day)}">${escapeHtml(day)}</option>`),
