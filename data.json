@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-20T08:14:19.647Z",
+  "generatedAt": "2026-06-20T08:24:20.142Z",
   "totals": {
     "telegramRows": 133,
-    "xRows": 770,
-    "projects": 193,
+    "xRows": 800,
+    "projects": 200,
     "crossSource": 39
   },
   "projects": [
@@ -35,7 +35,7 @@
         "ibraxbt",
         "xeogy92298766"
       ],
-      "mentions": 9,
+      "mentions": 10,
       "firstSeen": "2026-06-16T16:56:14+00:00",
       "lastSeen": "2026-06-20",
       "rows": [
@@ -119,10 +119,19 @@
           "seenAt": "2026-06-20",
           "messageId": "2026-06-20-x-partial-bearzverse.csv",
           "text": "\"On-chain heist simulator.\""
+        },
+        {
+          "source": "X",
+          "project": "Heistedxyz",
+          "account": "Heistedxyz",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-xeogy92298766.csv",
+          "text": "\"On-chain heist simulator.\""
         }
       ],
-      "text": " Heisted Heistedxyz  Heisted Heistedxyz  Heistedxyz Heistedxyz  Heistedxyz Heistedxyz  Heistedxyz Heistedxyz  Heistedxyz Heistedxyz \"On-chain heist simulator.\" Heistedxyz Heistedxyz \"On-chain heist simulator.\" Heistedxyz Heistedxyz \"On-chain heist simulator.\" Heistedxyz Heistedxyz \"On-chain heist simulator.\"",
-      "score": 16,
+      "text": " Heisted Heistedxyz  Heisted Heistedxyz  Heistedxyz Heistedxyz  Heistedxyz Heistedxyz  Heistedxyz Heistedxyz  Heistedxyz Heistedxyz \"On-chain heist simulator.\" Heistedxyz Heistedxyz \"On-chain heist simulator.\" Heistedxyz Heistedxyz \"On-chain heist simulator.\" Heistedxyz Heistedxyz \"On-chain heist simulator.\" Heistedxyz Heistedxyz \"On-chain heist simulator.\"",
+      "score": 17,
       "avatarUrl": ""
     },
     {
@@ -329,6 +338,102 @@
       ],
       "text": " RobinFun robinfunxyz  robinfunxyz robinfunxyz  robinfunxyz robinfunxyz 启动想法。交易叙事。一个市场诞生的代币发射台。 robinfunxyz robinfunxyz 启动想法。交易叙事。一个市场诞生的代币发射台。 robinfunxyz robinfunxyz \"Token launchpad for launching ideas and trading narratives.\" robinfunxyz robinfunxyz \"Token launchpad for launching ideas and trading narratives.\" robinfunxyz robinfunxyz \"Token launchpad for launching ideas and trading narratives.\"",
       "score": 13,
+      "avatarUrl": ""
+    },
+    {
+      "project": "WordBank",
+      "account": "wordbankgame",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "AlphaFries",
+        "Yangxiao214",
+        "alphafries",
+        "mutu_1987",
+        "xeogy92298766"
+      ],
+      "tgAlphas": [
+        "AlphaFries",
+        "mutu_1987",
+        "xeogy92298766"
+      ],
+      "xAlphas": [
+        "Yangxiao214",
+        "alphafries",
+        "xeogy92298766"
+      ],
+      "mentions": 7,
+      "firstSeen": "2026-06-17T10:15:50+00:00",
+      "lastSeen": "2026-06-20",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "WordBank",
+          "account": "wordbankgame",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-17T10:15:50+00:00",
+          "messageId": "dodtwitterbot/8225",
+          "text": ""
+        },
+        {
+          "source": "TG",
+          "project": "WordBank",
+          "account": "wordbankgame",
+          "alpha": "mutu_1987",
+          "seenAt": "2026-06-17T10:21:43+00:00",
+          "messageId": "dodtwitterbot/8226",
+          "text": ""
+        },
+        {
+          "source": "TG",
+          "project": "WordBank",
+          "account": "wordbankgame",
+          "alpha": "AlphaFries",
+          "seenAt": "2026-06-17T10:27:36+00:00",
+          "messageId": "dodtwitterbot/8228",
+          "text": ""
+        },
+        {
+          "source": "X",
+          "project": "wordbankgame",
+          "account": "wordbankgame",
+          "alpha": "Yangxiao214",
+          "seenAt": "2026-06-18",
+          "messageId": "2026-06-18-x-partial-Yangxiao214.csv",
+          "text": "以太坊上首个完全链上且无需许可的游戏藏品，由 Uniswap V4 流动性支持"
+        },
+        {
+          "source": "X",
+          "project": "wordbankgame",
+          "account": "wordbankgame",
+          "alpha": "alphafries",
+          "seenAt": "2026-06-18",
+          "messageId": "2026-06-18-x-partial-alphafries.csv",
+          "text": "以太坊上首个完全链上且无需许可的游戏藏品，由 Uniswap V4 流动性支持"
+        },
+        {
+          "source": "X",
+          "project": "wordbankgame",
+          "account": "wordbankgame",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-19",
+          "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
+          "text": "\"Fully on-chain permissionless game collectible on Ethereum backed by Uniswap v4 liquidity.\""
+        },
+        {
+          "source": "X",
+          "project": "wordbankgame",
+          "account": "wordbankgame",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-xeogy92298766.csv",
+          "text": "\"Fully on-chain permissionless game collectible on Ethereum backed by Uniswap v4 liquidity.\""
+        }
+      ],
+      "text": " WordBank wordbankgame  WordBank wordbankgame  WordBank wordbankgame  wordbankgame wordbankgame 以太坊上首个完全链上且无需许可的游戏藏品，由 Uniswap V4 流动性支持 wordbankgame wordbankgame 以太坊上首个完全链上且无需许可的游戏藏品，由 Uniswap V4 流动性支持 wordbankgame wordbankgame \"Fully on-chain permissionless game collectible on Ethereum backed by Uniswap v4 liquidity.\" wordbankgame wordbankgame \"Fully on-chain permissionless game collectible on Ethereum backed by Uniswap v4 liquidity.\"",
+      "score": 12,
       "avatarUrl": ""
     },
     {
@@ -594,6 +699,92 @@
       "avatarUrl": ""
     },
     {
+      "project": "Robindogenft",
+      "account": "Robindogenft",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "AlphaFries",
+        "_0xzhang",
+        "nlgcf69515952",
+        "xeogy92298766",
+        "zyy"
+      ],
+      "tgAlphas": [
+        "AlphaFries",
+        "zyy"
+      ],
+      "xAlphas": [
+        "_0xzhang",
+        "nlgcf69515952",
+        "xeogy92298766"
+      ],
+      "mentions": 6,
+      "firstSeen": "2026-06-16T16:41:17+00:00",
+      "lastSeen": "2026-06-20",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Robindogenft",
+          "account": "Robindogenft",
+          "alpha": "AlphaFries",
+          "seenAt": "2026-06-16T16:41:17+00:00",
+          "messageId": "dodtwitterbot/8138",
+          "text": ""
+        },
+        {
+          "source": "TG",
+          "project": "Robindogenft",
+          "account": "Robindogenft",
+          "alpha": "zyy",
+          "seenAt": "2026-06-17T16:22:47+00:00",
+          "messageId": "dodtwitterbot/8301",
+          "text": ""
+        },
+        {
+          "source": "X",
+          "project": "Robindogenft",
+          "account": "Robindogenft",
+          "alpha": "_0xzhang",
+          "seenAt": "2026-06-18",
+          "messageId": "2026-06-18-x-partial-_0xzhang.csv",
+          "text": "首个 NFT 系列以及基于 Robinhood Chain 的链上市场"
+        },
+        {
+          "source": "X",
+          "project": "Robindogenft",
+          "account": "Robindogenft",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-19",
+          "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
+          "text": "\"First NFT collection and on-chain market built on Robinhood Chain.\""
+        },
+        {
+          "source": "X",
+          "project": "Robindogenft",
+          "account": "Robindogenft",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-nlgcf69515952.csv",
+          "text": "\"First NFT collection and on-chain market built on Robinhood Chain.\""
+        },
+        {
+          "source": "X",
+          "project": "Robindogenft",
+          "account": "Robindogenft",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-xeogy92298766.csv",
+          "text": "\"First NFT collection and on-chain market built on Robinhood Chain.\""
+        }
+      ],
+      "text": " Robindogenft Robindogenft  Robindogenft Robindogenft  Robindogenft Robindogenft 首个 NFT 系列以及基于 Robinhood Chain 的链上市场 Robindogenft Robindogenft \"First NFT collection and on-chain market built on Robinhood Chain.\" Robindogenft Robindogenft \"First NFT collection and on-chain market built on Robinhood Chain.\" Robindogenft Robindogenft \"First NFT collection and on-chain market built on Robinhood Chain.\"",
+      "score": 11,
+      "avatarUrl": "https://unavatar.io/twitter/Robindogenft"
+    },
+    {
       "project": "TCG Arena",
       "account": "PlayTCGArena",
       "sources": [
@@ -680,90 +871,87 @@
       "avatarUrl": ""
     },
     {
-      "project": "WordBank",
-      "account": "wordbankgame",
+      "project": "ambient.xyz",
+      "account": "ambient_xyz",
       "sources": [
         "TG",
         "X"
       ],
       "alphas": [
-        "AlphaFries",
-        "Yangxiao214",
-        "alphafries",
-        "mutu_1987",
-        "xeogy92298766"
+        "juesaiquan",
+        "nlgcf69515952",
+        "xeogy92298766",
+        "zhiyuan"
       ],
       "tgAlphas": [
-        "AlphaFries",
-        "mutu_1987",
-        "xeogy92298766"
+        "zhiyuan"
       ],
       "xAlphas": [
-        "Yangxiao214",
-        "alphafries",
+        "juesaiquan",
+        "nlgcf69515952",
         "xeogy92298766"
       ],
       "mentions": 6,
-      "firstSeen": "2026-06-17T10:15:50+00:00",
-      "lastSeen": "2026-06-19",
+      "firstSeen": "2026-06-15T16:21:46+00:00",
+      "lastSeen": "2026-06-20",
       "rows": [
         {
           "source": "TG",
-          "project": "WordBank",
-          "account": "wordbankgame",
+          "project": "ambient.xyz",
+          "account": "ambient_xyz",
+          "alpha": "zhiyuan",
+          "seenAt": "2026-06-15T16:21:46+00:00",
+          "messageId": "dodtwitterbot/7914",
+          "text": ""
+        },
+        {
+          "source": "X",
+          "project": "ambient_xyz",
+          "account": "ambient_xyz",
+          "alpha": "juesaiquan",
+          "seenAt": "2026-06-17",
+          "messageId": "2026-06-17-x-partial-juesaiquan.csv",
+          "text": ""
+        },
+        {
+          "source": "X",
+          "project": "ambient_xyz",
+          "account": "ambient_xyz",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-06-17",
+          "messageId": "2026-06-17-x-partial-nlgcf69515952.csv",
+          "text": ""
+        },
+        {
+          "source": "X",
+          "project": "ambient_xyz",
+          "account": "ambient_xyz",
           "alpha": "xeogy92298766",
-          "seenAt": "2026-06-17T10:15:50+00:00",
-          "messageId": "dodtwitterbot/8225",
-          "text": ""
-        },
-        {
-          "source": "TG",
-          "project": "WordBank",
-          "account": "wordbankgame",
-          "alpha": "mutu_1987",
-          "seenAt": "2026-06-17T10:21:43+00:00",
-          "messageId": "dodtwitterbot/8226",
-          "text": ""
-        },
-        {
-          "source": "TG",
-          "project": "WordBank",
-          "account": "wordbankgame",
-          "alpha": "AlphaFries",
-          "seenAt": "2026-06-17T10:27:36+00:00",
-          "messageId": "dodtwitterbot/8228",
+          "seenAt": "2026-06-17",
+          "messageId": "2026-06-17-x-partial-xeogy92298766.csv",
           "text": ""
         },
         {
           "source": "X",
-          "project": "wordbankgame",
-          "account": "wordbankgame",
-          "alpha": "Yangxiao214",
-          "seenAt": "2026-06-18",
-          "messageId": "2026-06-18-x-partial-Yangxiao214.csv",
-          "text": "以太坊上首个完全链上且无需许可的游戏藏品，由 Uniswap V4 流动性支持"
-        },
-        {
-          "source": "X",
-          "project": "wordbankgame",
-          "account": "wordbankgame",
-          "alpha": "alphafries",
-          "seenAt": "2026-06-18",
-          "messageId": "2026-06-18-x-partial-alphafries.csv",
-          "text": "以太坊上首个完全链上且无需许可的游戏藏品，由 Uniswap V4 流动性支持"
-        },
-        {
-          "source": "X",
-          "project": "wordbankgame",
-          "account": "wordbankgame",
+          "project": "ambient_xyz",
+          "account": "ambient_xyz",
           "alpha": "xeogy92298766",
           "seenAt": "2026-06-19",
           "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
-          "text": "\"Fully on-chain permissionless game collectible on Ethereum backed by Uniswap v4 liquidity.\""
+          "text": "\"PoW L1 for hyperscale verified inference for large AI models.\""
+        },
+        {
+          "source": "X",
+          "project": "ambient_xyz",
+          "account": "ambient_xyz",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-xeogy92298766.csv",
+          "text": "\"PoW L1 for hyperscale verified inference for large AI models.\""
         }
       ],
-      "text": " WordBank wordbankgame  WordBank wordbankgame  WordBank wordbankgame  wordbankgame wordbankgame 以太坊上首个完全链上且无需许可的游戏藏品，由 Uniswap V4 流动性支持 wordbankgame wordbankgame 以太坊上首个完全链上且无需许可的游戏藏品，由 Uniswap V4 流动性支持 wordbankgame wordbankgame \"Fully on-chain permissionless game collectible on Ethereum backed by Uniswap v4 liquidity.\"",
-      "score": 11,
+      "text": " ambient.xyz ambient_xyz  ambient_xyz ambient_xyz  ambient_xyz ambient_xyz  ambient_xyz ambient_xyz  ambient_xyz ambient_xyz \"PoW L1 for hyperscale verified inference for large AI models.\" ambient_xyz ambient_xyz \"PoW L1 for hyperscale verified inference for large AI models.\"",
+      "score": 10,
       "avatarUrl": ""
     },
     {
@@ -851,120 +1039,50 @@
       "avatarUrl": ""
     },
     {
-      "project": "Robindogenft",
-      "account": "Robindogenft",
+      "project": "mondeto",
+      "account": "mondeto",
       "sources": [
-        "TG",
         "X"
       ],
       "alphas": [
-        "AlphaFries",
-        "_0xzhang",
-        "nlgcf69515952",
-        "xeogy92298766",
-        "zyy"
-      ],
-      "tgAlphas": [
-        "AlphaFries",
-        "zyy"
-      ],
-      "xAlphas": [
-        "_0xzhang",
-        "nlgcf69515952",
+        "Yangxiao214",
+        "ibraxbt",
+        "juesaiquan",
         "xeogy92298766"
       ],
-      "mentions": 5,
-      "firstSeen": "2026-06-16T16:41:17+00:00",
+      "tgAlphas": [],
+      "xAlphas": [
+        "Yangxiao214",
+        "ibraxbt",
+        "juesaiquan",
+        "xeogy92298766"
+      ],
+      "mentions": 6,
+      "firstSeen": "2026-06-17",
       "lastSeen": "2026-06-20",
       "rows": [
         {
-          "source": "TG",
-          "project": "Robindogenft",
-          "account": "Robindogenft",
-          "alpha": "AlphaFries",
-          "seenAt": "2026-06-16T16:41:17+00:00",
-          "messageId": "dodtwitterbot/8138",
-          "text": ""
-        },
-        {
-          "source": "TG",
-          "project": "Robindogenft",
-          "account": "Robindogenft",
-          "alpha": "zyy",
-          "seenAt": "2026-06-17T16:22:47+00:00",
-          "messageId": "dodtwitterbot/8301",
+          "source": "X",
+          "project": "mondeto",
+          "account": "mondeto",
+          "alpha": "Yangxiao214",
+          "seenAt": "2026-06-17",
+          "messageId": "2026-06-17-x-partial-Yangxiao214.csv",
           "text": ""
         },
         {
           "source": "X",
-          "project": "Robindogenft",
-          "account": "Robindogenft",
-          "alpha": "_0xzhang",
-          "seenAt": "2026-06-18",
-          "messageId": "2026-06-18-x-partial-_0xzhang.csv",
-          "text": "首个 NFT 系列以及基于 Robinhood Chain 的链上市场"
-        },
-        {
-          "source": "X",
-          "project": "Robindogenft",
-          "account": "Robindogenft",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-19",
-          "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
-          "text": "\"First NFT collection and on-chain market built on Robinhood Chain.\""
-        },
-        {
-          "source": "X",
-          "project": "Robindogenft",
-          "account": "Robindogenft",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-20",
-          "messageId": "2026-06-20-x-partial-nlgcf69515952.csv",
-          "text": "\"First NFT collection and on-chain market built on Robinhood Chain.\""
-        }
-      ],
-      "text": " Robindogenft Robindogenft  Robindogenft Robindogenft  Robindogenft Robindogenft 首个 NFT 系列以及基于 Robinhood Chain 的链上市场 Robindogenft Robindogenft \"First NFT collection and on-chain market built on Robinhood Chain.\" Robindogenft Robindogenft \"First NFT collection and on-chain market built on Robinhood Chain.\"",
-      "score": 10,
-      "avatarUrl": "https://unavatar.io/twitter/Robindogenft"
-    },
-    {
-      "project": "ambient.xyz",
-      "account": "ambient_xyz",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "juesaiquan",
-        "nlgcf69515952",
-        "xeogy92298766",
-        "zhiyuan"
-      ],
-      "tgAlphas": [
-        "zhiyuan"
-      ],
-      "xAlphas": [
-        "juesaiquan",
-        "nlgcf69515952",
-        "xeogy92298766"
-      ],
-      "mentions": 5,
-      "firstSeen": "2026-06-15T16:21:46+00:00",
-      "lastSeen": "2026-06-19",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "ambient.xyz",
-          "account": "ambient_xyz",
-          "alpha": "zhiyuan",
-          "seenAt": "2026-06-15T16:21:46+00:00",
-          "messageId": "dodtwitterbot/7914",
+          "project": "mondeto",
+          "account": "mondeto",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-17",
+          "messageId": "2026-06-17-x-partial-ibraxbt.csv",
           "text": ""
         },
         {
           "source": "X",
-          "project": "ambient_xyz",
-          "account": "ambient_xyz",
+          "project": "mondeto",
+          "account": "mondeto",
           "alpha": "juesaiquan",
           "seenAt": "2026-06-17",
           "messageId": "2026-06-17-x-partial-juesaiquan.csv",
@@ -972,17 +1090,8 @@
         },
         {
           "source": "X",
-          "project": "ambient_xyz",
-          "account": "ambient_xyz",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-nlgcf69515952.csv",
-          "text": ""
-        },
-        {
-          "source": "X",
-          "project": "ambient_xyz",
-          "account": "ambient_xyz",
+          "project": "mondeto",
+          "account": "mondeto",
           "alpha": "xeogy92298766",
           "seenAt": "2026-06-17",
           "messageId": "2026-06-17-x-partial-xeogy92298766.csv",
@@ -990,16 +1099,25 @@
         },
         {
           "source": "X",
-          "project": "ambient_xyz",
-          "account": "ambient_xyz",
+          "project": "mondeto",
+          "account": "mondeto",
           "alpha": "xeogy92298766",
           "seenAt": "2026-06-19",
           "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
-          "text": "\"PoW L1 for hyperscale verified inference for large AI models.\""
+          "text": "\"Own the world one pixel at a time on MiniPay.\""
+        },
+        {
+          "source": "X",
+          "project": "mondeto",
+          "account": "mondeto",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-xeogy92298766.csv",
+          "text": "\"Own the world one pixel at a time on MiniPay.\""
         }
       ],
-      "text": " ambient.xyz ambient_xyz  ambient_xyz ambient_xyz  ambient_xyz ambient_xyz  ambient_xyz ambient_xyz  ambient_xyz ambient_xyz \"PoW L1 for hyperscale verified inference for large AI models.\"",
-      "score": 9,
+      "text": " mondeto mondeto  mondeto mondeto  mondeto mondeto  mondeto mondeto  mondeto mondeto \"Own the world one pixel at a time on MiniPay.\" mondeto mondeto \"Own the world one pixel at a time on MiniPay.\"",
+      "score": 10,
       "avatarUrl": ""
     },
     {
@@ -1076,79 +1194,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "mondeto",
-      "account": "mondeto",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "Yangxiao214",
-        "ibraxbt",
-        "juesaiquan",
-        "xeogy92298766"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "Yangxiao214",
-        "ibraxbt",
-        "juesaiquan",
-        "xeogy92298766"
-      ],
-      "mentions": 5,
-      "firstSeen": "2026-06-17",
-      "lastSeen": "2026-06-19",
-      "rows": [
-        {
-          "source": "X",
-          "project": "mondeto",
-          "account": "mondeto",
-          "alpha": "Yangxiao214",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-Yangxiao214.csv",
-          "text": ""
-        },
-        {
-          "source": "X",
-          "project": "mondeto",
-          "account": "mondeto",
-          "alpha": "ibraxbt",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-ibraxbt.csv",
-          "text": ""
-        },
-        {
-          "source": "X",
-          "project": "mondeto",
-          "account": "mondeto",
-          "alpha": "juesaiquan",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-juesaiquan.csv",
-          "text": ""
-        },
-        {
-          "source": "X",
-          "project": "mondeto",
-          "account": "mondeto",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-xeogy92298766.csv",
-          "text": ""
-        },
-        {
-          "source": "X",
-          "project": "mondeto",
-          "account": "mondeto",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-19",
-          "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
-          "text": "\"Own the world one pixel at a time on MiniPay.\""
-        }
-      ],
-      "text": " mondeto mondeto  mondeto mondeto  mondeto mondeto  mondeto mondeto  mondeto mondeto \"Own the world one pixel at a time on MiniPay.\"",
-      "score": 9,
-      "avatarUrl": ""
-    },
-    {
       "project": "robinhood_rats",
       "account": "robinhood_rats",
       "sources": [
@@ -1219,6 +1264,148 @@
       ],
       "text": " robinhood_rats robinhood_rats 一个完全链上像素老鼠的殖民地，在 RobinhoodApp 上 robinhood_rats robinhood_rats 完全链上像素老鼠的殖民地，在 @RobinhoodApp 上 robinhood_rats robinhood_rats 完全链上像素老鼠殖民地 RobinhoodApp robinhood_rats robinhood_rats 完全链上像素老鼠的殖民地，在 RobinhoodApp 上 robinhood_rats robinhood_rats \"On-chain pixel rats on Robinhood App chain.\"",
       "score": 9,
+      "avatarUrl": ""
+    },
+    {
+      "project": "echonv4",
+      "account": "echonv4",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "alphafries",
+        "juesaiquan",
+        "xeogy92298766"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "alphafries",
+        "juesaiquan",
+        "xeogy92298766"
+      ],
+      "mentions": 5,
+      "firstSeen": "2026-06-16",
+      "lastSeen": "2026-06-20",
+      "rows": [
+        {
+          "source": "X",
+          "project": "echonv4",
+          "account": "echonv4",
+          "alpha": "alphafries",
+          "seenAt": "2026-06-16",
+          "messageId": "2026-06-16-x-partial-alphafries.csv",
+          "text": ""
+        },
+        {
+          "source": "X",
+          "project": "echonv4",
+          "account": "echonv4",
+          "alpha": "juesaiquan",
+          "seenAt": "2026-06-17",
+          "messageId": "2026-06-17-x-partial-juesaiquan.csv",
+          "text": ""
+        },
+        {
+          "source": "X",
+          "project": "echonv4",
+          "account": "echonv4",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-17",
+          "messageId": "2026-06-17-x-partial-xeogy92298766.csv",
+          "text": ""
+        },
+        {
+          "source": "X",
+          "project": "echonv4",
+          "account": "echonv4",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-19",
+          "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
+          "text": "\"ECHO on Uniswap v4. Buy reflect reset restart; every swap leaves a trace.\""
+        },
+        {
+          "source": "X",
+          "project": "echonv4",
+          "account": "echonv4",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-xeogy92298766.csv",
+          "text": "\"ECHO on Uniswap v4. Buy reflect reset restart; every swap leaves a trace.\""
+        }
+      ],
+      "text": " echonv4 echonv4  echonv4 echonv4  echonv4 echonv4  echonv4 echonv4 \"ECHO on Uniswap v4. Buy reflect reset restart; every swap leaves a trace.\" echonv4 echonv4 \"ECHO on Uniswap v4. Buy reflect reset restart; every swap leaves a trace.\"",
+      "score": 8,
+      "avatarUrl": ""
+    },
+    {
+      "project": "emergent_inc",
+      "account": "emergent_inc",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "TheVoldron",
+        "mutu_1987",
+        "xeogy92298766"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "TheVoldron",
+        "mutu_1987",
+        "xeogy92298766"
+      ],
+      "mentions": 5,
+      "firstSeen": "2026-06-17",
+      "lastSeen": "2026-06-20",
+      "rows": [
+        {
+          "source": "X",
+          "project": "emergent_inc",
+          "account": "emergent_inc",
+          "alpha": "TheVoldron",
+          "seenAt": "2026-06-17",
+          "messageId": "2026-06-17-x-partial-TheVoldron.csv",
+          "text": ""
+        },
+        {
+          "source": "X",
+          "project": "emergent_inc",
+          "account": "emergent_inc",
+          "alpha": "mutu_1987",
+          "seenAt": "2026-06-17",
+          "messageId": "2026-06-17-x-partial-mutu_1987.csv",
+          "text": ""
+        },
+        {
+          "source": "X",
+          "project": "emergent_inc",
+          "account": "emergent_inc",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-17",
+          "messageId": "2026-06-17-x-partial-xeogy92298766.csv",
+          "text": ""
+        },
+        {
+          "source": "X",
+          "project": "emergent_inc",
+          "account": "emergent_inc",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-19",
+          "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
+          "text": "\"Emergent Computing early project account.\""
+        },
+        {
+          "source": "X",
+          "project": "emergent_inc",
+          "account": "emergent_inc",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-xeogy92298766.csv",
+          "text": "\"Emergent Computing early project account.\""
+        }
+      ],
+      "text": " emergent_inc emergent_inc  emergent_inc emergent_inc  emergent_inc emergent_inc  emergent_inc emergent_inc \"Emergent Computing early project account.\" emergent_inc emergent_inc \"Emergent Computing early project account.\"",
+      "score": 8,
       "avatarUrl": ""
     },
     {
@@ -1360,6 +1547,77 @@
         }
       ],
       "text": " SatcoinHQ SatcoinHQ  SatcoinHQ SatcoinHQ  SatcoinHQ SatcoinHQ Solana 上由代理操作的挖矿 SatcoinHQ SatcoinHQ \"Agent-operated mining on Solana.\" SatcoinHQ SatcoinHQ \"Agent-operated mining on Solana.\"",
+      "score": 8,
+      "avatarUrl": ""
+    },
+    {
+      "project": "world_xyz",
+      "account": "world_xyz",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "bearzverse",
+        "ibraxbt",
+        "xeogy92298766"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "bearzverse",
+        "ibraxbt",
+        "xeogy92298766"
+      ],
+      "mentions": 5,
+      "firstSeen": "2026-06-19",
+      "lastSeen": "2026-06-20",
+      "rows": [
+        {
+          "source": "X",
+          "project": "world_xyz",
+          "account": "world_xyz",
+          "alpha": "bearzverse",
+          "seenAt": "2026-06-19",
+          "messageId": "2026-06-19-x-partial-bearzverse.csv",
+          "text": "\"Coming soon early project account.\""
+        },
+        {
+          "source": "X",
+          "project": "world_xyz",
+          "account": "world_xyz",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-19",
+          "messageId": "2026-06-19-x-partial-ibraxbt.csv",
+          "text": "\"Coming soon early project account.\""
+        },
+        {
+          "source": "X",
+          "project": "world_xyz",
+          "account": "world_xyz",
+          "alpha": "bearzverse",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-bearzverse.csv",
+          "text": "\"Coming soon early project account.\""
+        },
+        {
+          "source": "X",
+          "project": "world_xyz",
+          "account": "world_xyz",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-ibraxbt.csv",
+          "text": "\"Coming soon early project account.\""
+        },
+        {
+          "source": "X",
+          "project": "world_xyz",
+          "account": "world_xyz",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-xeogy92298766.csv",
+          "text": "\"Coming soon early project account.\""
+        }
+      ],
+      "text": " world_xyz world_xyz \"Coming soon early project account.\" world_xyz world_xyz \"Coming soon early project account.\" world_xyz world_xyz \"Coming soon early project account.\" world_xyz world_xyz \"Coming soon early project account.\" world_xyz world_xyz \"Coming soon early project account.\"",
       "score": 8,
       "avatarUrl": ""
     },
@@ -1941,130 +2199,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "echonv4",
-      "account": "echonv4",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "alphafries",
-        "juesaiquan",
-        "xeogy92298766"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "alphafries",
-        "juesaiquan",
-        "xeogy92298766"
-      ],
-      "mentions": 4,
-      "firstSeen": "2026-06-16",
-      "lastSeen": "2026-06-19",
-      "rows": [
-        {
-          "source": "X",
-          "project": "echonv4",
-          "account": "echonv4",
-          "alpha": "alphafries",
-          "seenAt": "2026-06-16",
-          "messageId": "2026-06-16-x-partial-alphafries.csv",
-          "text": ""
-        },
-        {
-          "source": "X",
-          "project": "echonv4",
-          "account": "echonv4",
-          "alpha": "juesaiquan",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-juesaiquan.csv",
-          "text": ""
-        },
-        {
-          "source": "X",
-          "project": "echonv4",
-          "account": "echonv4",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-xeogy92298766.csv",
-          "text": ""
-        },
-        {
-          "source": "X",
-          "project": "echonv4",
-          "account": "echonv4",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-19",
-          "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
-          "text": "\"ECHO on Uniswap v4. Buy reflect reset restart; every swap leaves a trace.\""
-        }
-      ],
-      "text": " echonv4 echonv4  echonv4 echonv4  echonv4 echonv4  echonv4 echonv4 \"ECHO on Uniswap v4. Buy reflect reset restart; every swap leaves a trace.\"",
-      "score": 7,
-      "avatarUrl": ""
-    },
-    {
-      "project": "emergent_inc",
-      "account": "emergent_inc",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "TheVoldron",
-        "mutu_1987",
-        "xeogy92298766"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "TheVoldron",
-        "mutu_1987",
-        "xeogy92298766"
-      ],
-      "mentions": 4,
-      "firstSeen": "2026-06-17",
-      "lastSeen": "2026-06-19",
-      "rows": [
-        {
-          "source": "X",
-          "project": "emergent_inc",
-          "account": "emergent_inc",
-          "alpha": "TheVoldron",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-TheVoldron.csv",
-          "text": ""
-        },
-        {
-          "source": "X",
-          "project": "emergent_inc",
-          "account": "emergent_inc",
-          "alpha": "mutu_1987",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-mutu_1987.csv",
-          "text": ""
-        },
-        {
-          "source": "X",
-          "project": "emergent_inc",
-          "account": "emergent_inc",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-xeogy92298766.csv",
-          "text": ""
-        },
-        {
-          "source": "X",
-          "project": "emergent_inc",
-          "account": "emergent_inc",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-19",
-          "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
-          "text": "\"Emergent Computing early project account.\""
-        }
-      ],
-      "text": " emergent_inc emergent_inc  emergent_inc emergent_inc  emergent_inc emergent_inc  emergent_inc emergent_inc \"Emergent Computing early project account.\"",
-      "score": 7,
-      "avatarUrl": ""
-    },
-    {
       "project": "Hooknomics",
       "account": "Hooknomics",
       "sources": [
@@ -2315,6 +2449,66 @@
       "avatarUrl": ""
     },
     {
+      "project": "Ask_CarpeDiem",
+      "account": "Ask_CarpeDiem",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "ibraxbt",
+        "xeogy92298766"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "ibraxbt",
+        "xeogy92298766"
+      ],
+      "mentions": 4,
+      "firstSeen": "2026-06-17",
+      "lastSeen": "2026-06-20",
+      "rows": [
+        {
+          "source": "X",
+          "project": "Ask_CarpeDiem",
+          "account": "Ask_CarpeDiem",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-17",
+          "messageId": "2026-06-17-x-partial-ibraxbt.csv",
+          "text": ""
+        },
+        {
+          "source": "X",
+          "project": "Ask_CarpeDiem",
+          "account": "Ask_CarpeDiem",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-17",
+          "messageId": "2026-06-17-x-partial-xeogy92298766.csv",
+          "text": ""
+        },
+        {
+          "source": "X",
+          "project": "Ask_CarpeDiem",
+          "account": "Ask_CarpeDiem",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-19",
+          "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
+          "text": "\"Decentralized market for DIEM inference quota"
+        },
+        {
+          "source": "X",
+          "project": "Ask_CarpeDiem",
+          "account": "Ask_CarpeDiem",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-xeogy92298766.csv",
+          "text": "\"Decentralized market for DIEM inference quota"
+        }
+      ],
+      "text": " Ask_CarpeDiem Ask_CarpeDiem  Ask_CarpeDiem Ask_CarpeDiem  Ask_CarpeDiem Ask_CarpeDiem \"Decentralized market for DIEM inference quota Ask_CarpeDiem Ask_CarpeDiem \"Decentralized market for DIEM inference quota",
+      "score": 6,
+      "avatarUrl": ""
+    },
+    {
       "project": "FireFliesMarket",
       "account": "FireFliesMarket",
       "sources": [
@@ -2431,6 +2625,66 @@
         }
       ],
       "text": " ForgeLending ForgeLending \"Bittensor native money market. Borrow TAO with your Subnet tokens.\" ForgeLending ForgeLending \"Bittensor native money market. Borrow TAO with subnet tokens.\" ForgeLending ForgeLending \"Bittensor native money market. Borrow TAO with subnet tokens.\" ForgeLending ForgeLending \"Bittensor native money market. Borrow TAO with subnet tokens.\"",
+      "score": 6,
+      "avatarUrl": ""
+    },
+    {
+      "project": "nav_certs",
+      "account": "nav_certs",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "juesaiquan",
+        "xeogy92298766"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "juesaiquan",
+        "xeogy92298766"
+      ],
+      "mentions": 4,
+      "firstSeen": "2026-06-17",
+      "lastSeen": "2026-06-20",
+      "rows": [
+        {
+          "source": "X",
+          "project": "nav_certs",
+          "account": "nav_certs",
+          "alpha": "juesaiquan",
+          "seenAt": "2026-06-17",
+          "messageId": "2026-06-17-x-partial-juesaiquan.csv",
+          "text": ""
+        },
+        {
+          "source": "X",
+          "project": "nav_certs",
+          "account": "nav_certs",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-17",
+          "messageId": "2026-06-17-x-partial-xeogy92298766.csv",
+          "text": ""
+        },
+        {
+          "source": "X",
+          "project": "nav_certs",
+          "account": "nav_certs",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-19",
+          "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
+          "text": "\"NAV token and ERC-721 certs where idle balances decay and art reflects wallet state.\""
+        },
+        {
+          "source": "X",
+          "project": "nav_certs",
+          "account": "nav_certs",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-xeogy92298766.csv",
+          "text": "\"NAV token and ERC-721 certs where idle balances decay and art reflects wallet state.\""
+        }
+      ],
+      "text": " nav_certs nav_certs  nav_certs nav_certs  nav_certs nav_certs \"NAV token and ERC-721 certs where idle balances decay and art reflects wallet state.\" nav_certs nav_certs \"NAV token and ERC-721 certs where idle balances decay and art reflects wallet state.\"",
       "score": 6,
       "avatarUrl": ""
     },
@@ -2615,62 +2869,62 @@
       "avatarUrl": ""
     },
     {
-      "project": "world_xyz",
-      "account": "world_xyz",
+      "project": "useflashpoint",
+      "account": "useflashpoint",
       "sources": [
         "X"
       ],
       "alphas": [
         "bearzverse",
-        "ibraxbt"
+        "xeogy92298766"
       ],
       "tgAlphas": [],
       "xAlphas": [
         "bearzverse",
-        "ibraxbt"
+        "xeogy92298766"
       ],
       "mentions": 4,
-      "firstSeen": "2026-06-19",
+      "firstSeen": "2026-06-17",
       "lastSeen": "2026-06-20",
       "rows": [
         {
           "source": "X",
-          "project": "world_xyz",
-          "account": "world_xyz",
+          "project": "useflashpoint",
+          "account": "useflashpoint",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-17",
+          "messageId": "2026-06-17-x-partial-xeogy92298766.csv",
+          "text": ""
+        },
+        {
+          "source": "X",
+          "project": "useflashpoint",
+          "account": "useflashpoint",
           "alpha": "bearzverse",
           "seenAt": "2026-06-19",
           "messageId": "2026-06-19-x-partial-bearzverse.csv",
-          "text": "\"Coming soon early project account.\""
+          "text": "\"Real-time edge for crypto markets.\""
         },
         {
           "source": "X",
-          "project": "world_xyz",
-          "account": "world_xyz",
-          "alpha": "ibraxbt",
+          "project": "useflashpoint",
+          "account": "useflashpoint",
+          "alpha": "xeogy92298766",
           "seenAt": "2026-06-19",
-          "messageId": "2026-06-19-x-partial-ibraxbt.csv",
-          "text": "\"Coming soon early project account.\""
+          "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
+          "text": "\"Real-time edge for crypto markets.\""
         },
         {
           "source": "X",
-          "project": "world_xyz",
-          "account": "world_xyz",
-          "alpha": "bearzverse",
+          "project": "useflashpoint",
+          "account": "useflashpoint",
+          "alpha": "xeogy92298766",
           "seenAt": "2026-06-20",
-          "messageId": "2026-06-20-x-partial-bearzverse.csv",
-          "text": "\"Coming soon early project account.\""
-        },
-        {
-          "source": "X",
-          "project": "world_xyz",
-          "account": "world_xyz",
-          "alpha": "ibraxbt",
-          "seenAt": "2026-06-20",
-          "messageId": "2026-06-20-x-partial-ibraxbt.csv",
-          "text": "\"Coming soon early project account.\""
+          "messageId": "2026-06-20-x-partial-xeogy92298766.csv",
+          "text": "\"Real-time edge for crypto markets.\""
         }
       ],
-      "text": " world_xyz world_xyz \"Coming soon early project account.\" world_xyz world_xyz \"Coming soon early project account.\" world_xyz world_xyz \"Coming soon early project account.\" world_xyz world_xyz \"Coming soon early project account.\"",
+      "text": " useflashpoint useflashpoint  useflashpoint useflashpoint \"Real-time edge for crypto markets.\" useflashpoint useflashpoint \"Real-time edge for crypto markets.\" useflashpoint useflashpoint \"Real-time edge for crypto markets.\"",
       "score": 6,
       "avatarUrl": ""
     },
@@ -3213,57 +3467,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Ask_CarpeDiem",
-      "account": "Ask_CarpeDiem",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "ibraxbt",
-        "xeogy92298766"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "ibraxbt",
-        "xeogy92298766"
-      ],
-      "mentions": 3,
-      "firstSeen": "2026-06-17",
-      "lastSeen": "2026-06-19",
-      "rows": [
-        {
-          "source": "X",
-          "project": "Ask_CarpeDiem",
-          "account": "Ask_CarpeDiem",
-          "alpha": "ibraxbt",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-ibraxbt.csv",
-          "text": ""
-        },
-        {
-          "source": "X",
-          "project": "Ask_CarpeDiem",
-          "account": "Ask_CarpeDiem",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-xeogy92298766.csv",
-          "text": ""
-        },
-        {
-          "source": "X",
-          "project": "Ask_CarpeDiem",
-          "account": "Ask_CarpeDiem",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-19",
-          "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
-          "text": "\"Decentralized market for DIEM inference quota"
-        }
-      ],
-      "text": " Ask_CarpeDiem Ask_CarpeDiem  Ask_CarpeDiem Ask_CarpeDiem  Ask_CarpeDiem Ask_CarpeDiem \"Decentralized market for DIEM inference quota",
-      "score": 5,
-      "avatarUrl": ""
-    },
-    {
       "project": "Baby Asteroid",
       "account": "AstroKid_Flap",
       "sources": [
@@ -3415,6 +3618,59 @@
         }
       ],
       "text": " cladiogames cladiogames  cladiogames cladiogames  cladiogames cladiogames BNB Chain 下一代赛博罗马策略游戏",
+      "score": 5,
+      "avatarUrl": ""
+    },
+    {
+      "project": "Elisym Labs",
+      "account": "elisymlabs",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "NotVanGogh88",
+        "发誓要做永赚大师"
+      ],
+      "tgAlphas": [
+        "发誓要做永赚大师"
+      ],
+      "xAlphas": [
+        "NotVanGogh88"
+      ],
+      "mentions": 3,
+      "firstSeen": "2026-06-19",
+      "lastSeen": "2026-06-20",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Elisym Labs",
+          "account": "elisymlabs",
+          "alpha": "发誓要做永赚大师",
+          "seenAt": "2026-06-19T05:03:04+00:00",
+          "messageId": "tg-8488",
+          "text": "Open Execution Market for AI Agents infrastructure for humans and AI agents"
+        },
+        {
+          "source": "X",
+          "project": "elisymlabs",
+          "account": "elisymlabs",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-19",
+          "messageId": "2026-06-19-x-partial-NotVanGogh88.csv",
+          "text": "\"Infrastructure for humans and AI agents.\""
+        },
+        {
+          "source": "X",
+          "project": "elisymlabs",
+          "account": "elisymlabs",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-NotVanGogh88.csv",
+          "text": "\"Infrastructure for humans and AI agents.\""
+        }
+      ],
+      "text": " Elisym Labs elisymlabs Open Execution Market for AI Agents infrastructure for humans and AI agents elisymlabs elisymlabs \"Infrastructure for humans and AI agents.\" elisymlabs elisymlabs \"Infrastructure for humans and AI agents.\"",
       "score": 5,
       "avatarUrl": ""
     },
@@ -3623,57 +3879,6 @@
         }
       ],
       "text": " Loom loomecosystem Worlds built on Solana no token right now loomecosystem loomecosystem \"Worlds built on Solana. No token right now.\" loomecosystem loomecosystem \"Worlds built on Solana. No token right now.\"",
-      "score": 5,
-      "avatarUrl": ""
-    },
-    {
-      "project": "nav_certs",
-      "account": "nav_certs",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "juesaiquan",
-        "xeogy92298766"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "juesaiquan",
-        "xeogy92298766"
-      ],
-      "mentions": 3,
-      "firstSeen": "2026-06-17",
-      "lastSeen": "2026-06-19",
-      "rows": [
-        {
-          "source": "X",
-          "project": "nav_certs",
-          "account": "nav_certs",
-          "alpha": "juesaiquan",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-juesaiquan.csv",
-          "text": ""
-        },
-        {
-          "source": "X",
-          "project": "nav_certs",
-          "account": "nav_certs",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-xeogy92298766.csv",
-          "text": ""
-        },
-        {
-          "source": "X",
-          "project": "nav_certs",
-          "account": "nav_certs",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-19",
-          "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
-          "text": "\"NAV token and ERC-721 certs where idle balances decay and art reflects wallet state.\""
-        }
-      ],
-      "text": " nav_certs nav_certs  nav_certs nav_certs  nav_certs nav_certs \"NAV token and ERC-721 certs where idle balances decay and art reflects wallet state.\"",
       "score": 5,
       "avatarUrl": ""
     },
@@ -4092,57 +4297,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "useflashpoint",
-      "account": "useflashpoint",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "bearzverse",
-        "xeogy92298766"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "bearzverse",
-        "xeogy92298766"
-      ],
-      "mentions": 3,
-      "firstSeen": "2026-06-17",
-      "lastSeen": "2026-06-19",
-      "rows": [
-        {
-          "source": "X",
-          "project": "useflashpoint",
-          "account": "useflashpoint",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-xeogy92298766.csv",
-          "text": ""
-        },
-        {
-          "source": "X",
-          "project": "useflashpoint",
-          "account": "useflashpoint",
-          "alpha": "bearzverse",
-          "seenAt": "2026-06-19",
-          "messageId": "2026-06-19-x-partial-bearzverse.csv",
-          "text": "\"Real-time edge for crypto markets.\""
-        },
-        {
-          "source": "X",
-          "project": "useflashpoint",
-          "account": "useflashpoint",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-19",
-          "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
-          "text": "\"Real-time edge for crypto markets.\""
-        }
-      ],
-      "text": " useflashpoint useflashpoint  useflashpoint useflashpoint \"Real-time edge for crypto markets.\" useflashpoint useflashpoint \"Real-time edge for crypto markets.\"",
-      "score": 5,
-      "avatarUrl": ""
-    },
-    {
       "project": "WagmiRush",
       "account": "WagmiRush",
       "sources": [
@@ -4246,6 +4400,349 @@
       ],
       "text": " zzznaakkee zzznaakkee 1111 zzznaakkee coming to Ethereum free mint zzznaakkee zzznaakkee \"1111 zzznaakkee coming to Ethereum soon. Play snake to get whitelisted. Free mint.\" zzznaakkee zzznaakkee \"1111 zzznaakkee coming to Ethereum. Play snake to get whitelisted. Free mint.\"",
       "score": 5,
+      "avatarUrl": ""
+    },
+    {
+      "project": "Capminal",
+      "account": "Capminal",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "xeogy92298766"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "xeogy92298766"
+      ],
+      "mentions": 3,
+      "firstSeen": "2026-06-17",
+      "lastSeen": "2026-06-20",
+      "rows": [
+        {
+          "source": "X",
+          "project": "Capminal",
+          "account": "Capminal",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-17",
+          "messageId": "2026-06-17-x-partial-xeogy92298766.csv",
+          "text": ""
+        },
+        {
+          "source": "X",
+          "project": "Capminal",
+          "account": "Capminal",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-19",
+          "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
+          "text": "\"AI terminal with perpetual AI compute"
+        },
+        {
+          "source": "X",
+          "project": "Capminal",
+          "account": "Capminal",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-xeogy92298766.csv",
+          "text": "\"AI terminal with perpetual AI compute"
+        }
+      ],
+      "text": " Capminal Capminal  Capminal Capminal \"AI terminal with perpetual AI compute Capminal Capminal \"AI terminal with perpetual AI compute",
+      "score": 4,
+      "avatarUrl": ""
+    },
+    {
+      "project": "Cell_v4",
+      "account": "Cell_v4",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "xeogy92298766"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "xeogy92298766"
+      ],
+      "mentions": 3,
+      "firstSeen": "2026-06-17",
+      "lastSeen": "2026-06-20",
+      "rows": [
+        {
+          "source": "X",
+          "project": "Cell_v4",
+          "account": "Cell_v4",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-17",
+          "messageId": "2026-06-17-x-partial-xeogy92298766.csv",
+          "text": ""
+        },
+        {
+          "source": "X",
+          "project": "Cell_v4",
+          "account": "Cell_v4",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-19",
+          "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
+          "text": "\"CARN-20 carnivorous token that earns ETH and eats nearby holders.\""
+        },
+        {
+          "source": "X",
+          "project": "Cell_v4",
+          "account": "Cell_v4",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-xeogy92298766.csv",
+          "text": "\"CARN-20 carnivorous token that earns ETH and eats nearby holders.\""
+        }
+      ],
+      "text": " Cell_v4 Cell_v4  Cell_v4 Cell_v4 \"CARN-20 carnivorous token that earns ETH and eats nearby holders.\" Cell_v4 Cell_v4 \"CARN-20 carnivorous token that earns ETH and eats nearby holders.\"",
+      "score": 4,
+      "avatarUrl": ""
+    },
+    {
+      "project": "DackieSwap",
+      "account": "DackieSwap",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "xeogy92298766"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "xeogy92298766"
+      ],
+      "mentions": 3,
+      "firstSeen": "2026-06-17",
+      "lastSeen": "2026-06-20",
+      "rows": [
+        {
+          "source": "X",
+          "project": "DackieSwap",
+          "account": "DackieSwap",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-17",
+          "messageId": "2026-06-17-x-partial-xeogy92298766.csv",
+          "text": ""
+        },
+        {
+          "source": "X",
+          "project": "DackieSwap",
+          "account": "DackieSwap",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-19",
+          "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
+          "text": "\"Meta-aggregator DEX for better DeFi swap execution.\""
+        },
+        {
+          "source": "X",
+          "project": "DackieSwap",
+          "account": "DackieSwap",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-xeogy92298766.csv",
+          "text": "\"Meta-aggregator DEX for better DeFi swap execution.\""
+        }
+      ],
+      "text": " DackieSwap DackieSwap  DackieSwap DackieSwap \"Meta-aggregator DEX for better DeFi swap execution.\" DackieSwap DackieSwap \"Meta-aggregator DEX for better DeFi swap execution.\"",
+      "score": 4,
+      "avatarUrl": ""
+    },
+    {
+      "project": "pulsev4hook",
+      "account": "pulsev4hook",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "xeogy92298766"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "xeogy92298766"
+      ],
+      "mentions": 3,
+      "firstSeen": "2026-06-17",
+      "lastSeen": "2026-06-20",
+      "rows": [
+        {
+          "source": "X",
+          "project": "pulsev4hook",
+          "account": "pulsev4hook",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-17",
+          "messageId": "2026-06-17-x-partial-xeogy92298766.csv",
+          "text": ""
+        },
+        {
+          "source": "X",
+          "project": "pulsev4hook",
+          "account": "pulsev4hook",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-19",
+          "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
+          "text": "\"PULSE Uniswap v4 hook where every swap is a heartbeat.\""
+        },
+        {
+          "source": "X",
+          "project": "pulsev4hook",
+          "account": "pulsev4hook",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-xeogy92298766.csv",
+          "text": "\"PULSE Uniswap v4 hook where every swap is a heartbeat.\""
+        }
+      ],
+      "text": " pulsev4hook pulsev4hook  pulsev4hook pulsev4hook \"PULSE Uniswap v4 hook where every swap is a heartbeat.\" pulsev4hook pulsev4hook \"PULSE Uniswap v4 hook where every swap is a heartbeat.\"",
+      "score": 4,
+      "avatarUrl": ""
+    },
+    {
+      "project": "rialto_xyz",
+      "account": "rialto_xyz",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "xeogy92298766"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "xeogy92298766"
+      ],
+      "mentions": 3,
+      "firstSeen": "2026-06-17",
+      "lastSeen": "2026-06-20",
+      "rows": [
+        {
+          "source": "X",
+          "project": "rialto_xyz",
+          "account": "rialto_xyz",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-17",
+          "messageId": "2026-06-17-x-partial-xeogy92298766.csv",
+          "text": ""
+        },
+        {
+          "source": "X",
+          "project": "rialto_xyz",
+          "account": "rialto_xyz",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-19",
+          "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
+          "text": "\"Capital markets rebuilt on-chain.\""
+        },
+        {
+          "source": "X",
+          "project": "rialto_xyz",
+          "account": "rialto_xyz",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-xeogy92298766.csv",
+          "text": "\"Capital markets rebuilt on-chain.\""
+        }
+      ],
+      "text": " rialto_xyz rialto_xyz  rialto_xyz rialto_xyz \"Capital markets rebuilt on-chain.\" rialto_xyz rialto_xyz \"Capital markets rebuilt on-chain.\"",
+      "score": 4,
+      "avatarUrl": ""
+    },
+    {
+      "project": "sa1tdotfun",
+      "account": "sa1tdotfun",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "xeogy92298766"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "xeogy92298766"
+      ],
+      "mentions": 3,
+      "firstSeen": "2026-06-17",
+      "lastSeen": "2026-06-20",
+      "rows": [
+        {
+          "source": "X",
+          "project": "sa1tdotfun",
+          "account": "sa1tdotfun",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-17",
+          "messageId": "2026-06-17-x-partial-xeogy92298766.csv",
+          "text": ""
+        },
+        {
+          "source": "X",
+          "project": "sa1tdotfun",
+          "account": "sa1tdotfun",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-19",
+          "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
+          "text": "\"Launch tokens with built-in Uniswap v4 hook mechanics.\""
+        },
+        {
+          "source": "X",
+          "project": "sa1tdotfun",
+          "account": "sa1tdotfun",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-xeogy92298766.csv",
+          "text": "\"Launch tokens with built-in Uniswap v4 hook mechanics.\""
+        }
+      ],
+      "text": " sa1tdotfun sa1tdotfun  sa1tdotfun sa1tdotfun \"Launch tokens with built-in Uniswap v4 hook mechanics.\" sa1tdotfun sa1tdotfun \"Launch tokens with built-in Uniswap v4 hook mechanics.\"",
+      "score": 4,
+      "avatarUrl": ""
+    },
+    {
+      "project": "secondhq",
+      "account": "secondhq",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "xeogy92298766"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "xeogy92298766"
+      ],
+      "mentions": 3,
+      "firstSeen": "2026-06-17",
+      "lastSeen": "2026-06-20",
+      "rows": [
+        {
+          "source": "X",
+          "project": "secondhq",
+          "account": "secondhq",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-17",
+          "messageId": "2026-06-17-x-partial-xeogy92298766.csv",
+          "text": ""
+        },
+        {
+          "source": "X",
+          "project": "secondhq",
+          "account": "secondhq",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-19",
+          "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
+          "text": "\"Developer solution for integrating Bitcoin payments using Lightning"
+        },
+        {
+          "source": "X",
+          "project": "secondhq",
+          "account": "secondhq",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-xeogy92298766.csv",
+          "text": "\"Developer solution for integrating Bitcoin payments using Lightning"
+        }
+      ],
+      "text": " secondhq secondhq  secondhq secondhq \"Developer solution for integrating Bitcoin payments using Lightning secondhq secondhq \"Developer solution for integrating Bitcoin payments using Lightning",
+      "score": 4,
       "avatarUrl": ""
     },
     {
@@ -4675,50 +5172,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Elisym Labs",
-      "account": "elisymlabs",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "NotVanGogh88",
-        "发誓要做永赚大师"
-      ],
-      "tgAlphas": [
-        "发誓要做永赚大师"
-      ],
-      "xAlphas": [
-        "NotVanGogh88"
-      ],
-      "mentions": 2,
-      "firstSeen": "2026-06-19",
-      "lastSeen": "2026-06-19T05:03:04+00:00",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Elisym Labs",
-          "account": "elisymlabs",
-          "alpha": "发誓要做永赚大师",
-          "seenAt": "2026-06-19T05:03:04+00:00",
-          "messageId": "tg-8488",
-          "text": "Open Execution Market for AI Agents infrastructure for humans and AI agents"
-        },
-        {
-          "source": "X",
-          "project": "elisymlabs",
-          "account": "elisymlabs",
-          "alpha": "NotVanGogh88",
-          "seenAt": "2026-06-19",
-          "messageId": "2026-06-19-x-partial-NotVanGogh88.csv",
-          "text": "\"Infrastructure for humans and AI agents.\""
-        }
-      ],
-      "text": " Elisym Labs elisymlabs Open Execution Market for AI Agents infrastructure for humans and AI agents elisymlabs elisymlabs \"Infrastructure for humans and AI agents.\"",
-      "score": 4,
-      "avatarUrl": ""
-    },
-    {
       "project": "EliteGacha",
       "account": "EliteGacha",
       "sources": [
@@ -4757,6 +5210,48 @@
         }
       ],
       "text": " EliteGacha EliteGacha  EliteGacha EliteGacha ",
+      "score": 4,
+      "avatarUrl": ""
+    },
+    {
+      "project": "falkordb",
+      "account": "falkordb",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "NotVanGogh88",
+        "xeogy92298766"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "NotVanGogh88",
+        "xeogy92298766"
+      ],
+      "mentions": 2,
+      "firstSeen": "2026-06-19",
+      "lastSeen": "2026-06-20",
+      "rows": [
+        {
+          "source": "X",
+          "project": "falkordb",
+          "account": "falkordb",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-19",
+          "messageId": "2026-06-19-x-partial-NotVanGogh88.csv",
+          "text": "\"Graph database powering generative AI.\""
+        },
+        {
+          "source": "X",
+          "project": "falkordb",
+          "account": "falkordb",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-xeogy92298766.csv",
+          "text": "\"Open-source graph database powering generative AI.\""
+        }
+      ],
+      "text": " falkordb falkordb \"Graph database powering generative AI.\" falkordb falkordb \"Open-source graph database powering generative AI.\"",
       "score": 4,
       "avatarUrl": ""
     },
@@ -5902,126 +6397,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Capminal",
-      "account": "Capminal",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "xeogy92298766"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "xeogy92298766"
-      ],
-      "mentions": 2,
-      "firstSeen": "2026-06-17",
-      "lastSeen": "2026-06-19",
-      "rows": [
-        {
-          "source": "X",
-          "project": "Capminal",
-          "account": "Capminal",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-xeogy92298766.csv",
-          "text": ""
-        },
-        {
-          "source": "X",
-          "project": "Capminal",
-          "account": "Capminal",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-19",
-          "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
-          "text": "\"AI terminal with perpetual AI compute"
-        }
-      ],
-      "text": " Capminal Capminal  Capminal Capminal \"AI terminal with perpetual AI compute",
-      "score": 3,
-      "avatarUrl": ""
-    },
-    {
-      "project": "Cell_v4",
-      "account": "Cell_v4",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "xeogy92298766"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "xeogy92298766"
-      ],
-      "mentions": 2,
-      "firstSeen": "2026-06-17",
-      "lastSeen": "2026-06-19",
-      "rows": [
-        {
-          "source": "X",
-          "project": "Cell_v4",
-          "account": "Cell_v4",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-xeogy92298766.csv",
-          "text": ""
-        },
-        {
-          "source": "X",
-          "project": "Cell_v4",
-          "account": "Cell_v4",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-19",
-          "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
-          "text": "\"CARN-20 carnivorous token that earns ETH and eats nearby holders.\""
-        }
-      ],
-      "text": " Cell_v4 Cell_v4  Cell_v4 Cell_v4 \"CARN-20 carnivorous token that earns ETH and eats nearby holders.\"",
-      "score": 3,
-      "avatarUrl": ""
-    },
-    {
-      "project": "DackieSwap",
-      "account": "DackieSwap",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "xeogy92298766"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "xeogy92298766"
-      ],
-      "mentions": 2,
-      "firstSeen": "2026-06-17",
-      "lastSeen": "2026-06-19",
-      "rows": [
-        {
-          "source": "X",
-          "project": "DackieSwap",
-          "account": "DackieSwap",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-xeogy92298766.csv",
-          "text": ""
-        },
-        {
-          "source": "X",
-          "project": "DackieSwap",
-          "account": "DackieSwap",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-19",
-          "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
-          "text": "\"Meta-aggregator DEX for better DeFi swap execution.\""
-        }
-      ],
-      "text": " DackieSwap DackieSwap  DackieSwap DackieSwap \"Meta-aggregator DEX for better DeFi swap execution.\"",
-      "score": 3,
-      "avatarUrl": ""
-    },
-    {
       "project": "Ducat",
       "account": "Ducatstable",
       "sources": [
@@ -6348,6 +6723,46 @@
       "avatarUrl": ""
     },
     {
+      "project": "MRCYsupply",
+      "account": "MRCYsupply",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "xeogy92298766"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "xeogy92298766"
+      ],
+      "mentions": 2,
+      "firstSeen": "2026-06-19",
+      "lastSeen": "2026-06-20",
+      "rows": [
+        {
+          "source": "X",
+          "project": "MRCYsupply",
+          "account": "MRCYsupply",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-19",
+          "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
+          "text": "\"Liquid metal mined on HyperEVM.\""
+        },
+        {
+          "source": "X",
+          "project": "MRCYsupply",
+          "account": "MRCYsupply",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-xeogy92298766.csv",
+          "text": "\"Liquid metal mined on HyperEVM.\""
+        }
+      ],
+      "text": " MRCYsupply MRCYsupply \"Liquid metal mined on HyperEVM.\" MRCYsupply MRCYsupply \"Liquid metal mined on HyperEVM.\"",
+      "score": 3,
+      "avatarUrl": ""
+    },
+    {
       "project": "PathmonSOL",
       "account": "PathmonSOL",
       "sources": [
@@ -6508,46 +6923,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "pulsev4hook",
-      "account": "pulsev4hook",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "xeogy92298766"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "xeogy92298766"
-      ],
-      "mentions": 2,
-      "firstSeen": "2026-06-17",
-      "lastSeen": "2026-06-19",
-      "rows": [
-        {
-          "source": "X",
-          "project": "pulsev4hook",
-          "account": "pulsev4hook",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-xeogy92298766.csv",
-          "text": ""
-        },
-        {
-          "source": "X",
-          "project": "pulsev4hook",
-          "account": "pulsev4hook",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-19",
-          "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
-          "text": "\"PULSE Uniswap v4 hook where every swap is a heartbeat.\""
-        }
-      ],
-      "text": " pulsev4hook pulsev4hook  pulsev4hook pulsev4hook \"PULSE Uniswap v4 hook where every swap is a heartbeat.\"",
-      "score": 3,
-      "avatarUrl": ""
-    },
-    {
       "project": "qntxdotfun",
       "account": "qntxdotfun",
       "sources": [
@@ -6584,126 +6959,6 @@
         }
       ],
       "text": " qntxdotfun qntxdotfun  qntxdotfun qntxdotfun \"Economic layer for AI agents on Base.\"",
-      "score": 3,
-      "avatarUrl": ""
-    },
-    {
-      "project": "rialto_xyz",
-      "account": "rialto_xyz",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "xeogy92298766"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "xeogy92298766"
-      ],
-      "mentions": 2,
-      "firstSeen": "2026-06-17",
-      "lastSeen": "2026-06-19",
-      "rows": [
-        {
-          "source": "X",
-          "project": "rialto_xyz",
-          "account": "rialto_xyz",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-xeogy92298766.csv",
-          "text": ""
-        },
-        {
-          "source": "X",
-          "project": "rialto_xyz",
-          "account": "rialto_xyz",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-19",
-          "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
-          "text": "\"Capital markets rebuilt on-chain.\""
-        }
-      ],
-      "text": " rialto_xyz rialto_xyz  rialto_xyz rialto_xyz \"Capital markets rebuilt on-chain.\"",
-      "score": 3,
-      "avatarUrl": ""
-    },
-    {
-      "project": "sa1tdotfun",
-      "account": "sa1tdotfun",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "xeogy92298766"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "xeogy92298766"
-      ],
-      "mentions": 2,
-      "firstSeen": "2026-06-17",
-      "lastSeen": "2026-06-19",
-      "rows": [
-        {
-          "source": "X",
-          "project": "sa1tdotfun",
-          "account": "sa1tdotfun",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-xeogy92298766.csv",
-          "text": ""
-        },
-        {
-          "source": "X",
-          "project": "sa1tdotfun",
-          "account": "sa1tdotfun",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-19",
-          "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
-          "text": "\"Launch tokens with built-in Uniswap v4 hook mechanics.\""
-        }
-      ],
-      "text": " sa1tdotfun sa1tdotfun  sa1tdotfun sa1tdotfun \"Launch tokens with built-in Uniswap v4 hook mechanics.\"",
-      "score": 3,
-      "avatarUrl": ""
-    },
-    {
-      "project": "secondhq",
-      "account": "secondhq",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "xeogy92298766"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "xeogy92298766"
-      ],
-      "mentions": 2,
-      "firstSeen": "2026-06-17",
-      "lastSeen": "2026-06-19",
-      "rows": [
-        {
-          "source": "X",
-          "project": "secondhq",
-          "account": "secondhq",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-xeogy92298766.csv",
-          "text": ""
-        },
-        {
-          "source": "X",
-          "project": "secondhq",
-          "account": "secondhq",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-19",
-          "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
-          "text": "\"Developer solution for integrating Bitcoin payments using Lightning"
-        }
-      ],
-      "text": " secondhq secondhq  secondhq secondhq \"Developer solution for integrating Bitcoin payments using Lightning",
       "score": 3,
       "avatarUrl": ""
     },
@@ -7037,6 +7292,68 @@
         }
       ],
       "text": " AgentiQAI AgentiQAI ",
+      "score": 2,
+      "avatarUrl": ""
+    },
+    {
+      "project": "AlkanexApp",
+      "account": "AlkanexApp",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "NotVanGogh88"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "NotVanGogh88"
+      ],
+      "mentions": 1,
+      "firstSeen": "2026-06-20",
+      "lastSeen": "2026-06-20",
+      "rows": [
+        {
+          "source": "X",
+          "project": "AlkanexApp",
+          "account": "AlkanexApp",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-NotVanGogh88.csv",
+          "text": "\"Tools for Alkanes to make Bitcoin L1 DeFi accessible.\""
+        }
+      ],
+      "text": " AlkanexApp AlkanexApp \"Tools for Alkanes to make Bitcoin L1 DeFi accessible.\"",
+      "score": 2,
+      "avatarUrl": ""
+    },
+    {
+      "project": "aoagents",
+      "account": "aoagents",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "NotVanGogh88"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "NotVanGogh88"
+      ],
+      "mentions": 1,
+      "firstSeen": "2026-06-20",
+      "lastSeen": "2026-06-20",
+      "rows": [
+        {
+          "source": "X",
+          "project": "aoagents",
+          "account": "aoagents",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-NotVanGogh88.csv",
+          "text": "\"Agent IDE and meta harness for orchestrating parallel coding agents.\""
+        }
+      ],
+      "text": " aoagents aoagents \"Agent IDE and meta harness for orchestrating parallel coding agents.\"",
       "score": 2,
       "avatarUrl": ""
     },
@@ -7413,6 +7730,37 @@
       "avatarUrl": ""
     },
     {
+      "project": "clashofperps",
+      "account": "clashofperps",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "NotVanGogh88"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "NotVanGogh88"
+      ],
+      "mentions": 1,
+      "firstSeen": "2026-06-20",
+      "lastSeen": "2026-06-20",
+      "rows": [
+        {
+          "source": "X",
+          "project": "clashofperps",
+          "account": "clashofperps",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-NotVanGogh88.csv",
+          "text": "\"Gamified perp DEX frontend integrated with 8 perp DEXes.\""
+        }
+      ],
+      "text": " clashofperps clashofperps \"Gamified perp DEX frontend integrated with 8 perp DEXes.\"",
+      "score": 2,
+      "avatarUrl": ""
+    },
+    {
       "project": "CLAW3D",
       "account": "claw3dcity",
       "sources": [
@@ -7630,37 +7978,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "falkordb",
-      "account": "falkordb",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "NotVanGogh88"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "NotVanGogh88"
-      ],
-      "mentions": 1,
-      "firstSeen": "2026-06-19",
-      "lastSeen": "2026-06-19",
-      "rows": [
-        {
-          "source": "X",
-          "project": "falkordb",
-          "account": "falkordb",
-          "alpha": "NotVanGogh88",
-          "seenAt": "2026-06-19",
-          "messageId": "2026-06-19-x-partial-NotVanGogh88.csv",
-          "text": "\"Graph database powering generative AI.\""
-        }
-      ],
-      "text": " falkordb falkordb \"Graph database powering generative AI.\"",
-      "score": 2,
-      "avatarUrl": ""
-    },
-    {
       "project": "FanTokens",
       "account": "FanTokens",
       "sources": [
@@ -7750,6 +8067,68 @@
         }
       ],
       "text": " Feather Robotics featherrobotics ",
+      "score": 2,
+      "avatarUrl": ""
+    },
+    {
+      "project": "floatrouter",
+      "account": "floatrouter",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "NotVanGogh88"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "NotVanGogh88"
+      ],
+      "mentions": 1,
+      "firstSeen": "2026-06-20",
+      "lastSeen": "2026-06-20",
+      "rows": [
+        {
+          "source": "X",
+          "project": "floatrouter",
+          "account": "floatrouter",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-NotVanGogh88.csv",
+          "text": "\"Capital efficiency layer for Arc-native apps and agents.\""
+        }
+      ],
+      "text": " floatrouter floatrouter \"Capital efficiency layer for Arc-native apps and agents.\"",
+      "score": 2,
+      "avatarUrl": ""
+    },
+    {
+      "project": "Frag_Growth",
+      "account": "Frag_Growth",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "NotVanGogh88"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "NotVanGogh88"
+      ],
+      "mentions": 1,
+      "firstSeen": "2026-06-20",
+      "lastSeen": "2026-06-20",
+      "rows": [
+        {
+          "source": "X",
+          "project": "Frag_Growth",
+          "account": "Frag_Growth",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-NotVanGogh88.csv",
+          "text": "\"Visual art/NFT project built from real textures"
+        }
+      ],
+      "text": " Frag_Growth Frag_Growth \"Visual art/NFT project built from real textures",
       "score": 2,
       "avatarUrl": ""
     },
@@ -8184,6 +8563,37 @@
         }
       ],
       "text": " PebblPet PebblPet \"Digital companion powered by hardware identity and on-chain ownership.\"",
+      "score": 2,
+      "avatarUrl": ""
+    },
+    {
+      "project": "PercolatorTrade",
+      "account": "PercolatorTrade",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "NotVanGogh88"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "NotVanGogh88"
+      ],
+      "mentions": 1,
+      "firstSeen": "2026-06-20",
+      "lastSeen": "2026-06-20",
+      "rows": [
+        {
+          "source": "X",
+          "project": "PercolatorTrade",
+          "account": "PercolatorTrade",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-NotVanGogh88.csv",
+          "text": "\"Permissionless perpetual futures on Solana for any token with a DEX pool.\""
+        }
+      ],
+      "text": " PercolatorTrade PercolatorTrade \"Permissionless perpetual futures on Solana for any token with a DEX pool.\"",
       "score": 2,
       "avatarUrl": ""
     },
@@ -8868,7 +9278,7 @@
         "ibraxbt",
         "xeogy92298766"
       ],
-      "mentions": 9,
+      "mentions": 10,
       "firstSeen": "2026-06-16T16:56:14+00:00",
       "lastSeen": "2026-06-20",
       "rows": [
@@ -8952,10 +9362,19 @@
           "seenAt": "2026-06-20",
           "messageId": "2026-06-20-x-partial-bearzverse.csv",
           "text": "\"On-chain heist simulator.\""
+        },
+        {
+          "source": "X",
+          "project": "Heistedxyz",
+          "account": "Heistedxyz",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-xeogy92298766.csv",
+          "text": "\"On-chain heist simulator.\""
         }
       ],
-      "text": " Heisted Heistedxyz  Heisted Heistedxyz  Heistedxyz Heistedxyz  Heistedxyz Heistedxyz  Heistedxyz Heistedxyz  Heistedxyz Heistedxyz \"On-chain heist simulator.\" Heistedxyz Heistedxyz \"On-chain heist simulator.\" Heistedxyz Heistedxyz \"On-chain heist simulator.\" Heistedxyz Heistedxyz \"On-chain heist simulator.\"",
-      "score": 16,
+      "text": " Heisted Heistedxyz  Heisted Heistedxyz  Heistedxyz Heistedxyz  Heistedxyz Heistedxyz  Heistedxyz Heistedxyz  Heistedxyz Heistedxyz \"On-chain heist simulator.\" Heistedxyz Heistedxyz \"On-chain heist simulator.\" Heistedxyz Heistedxyz \"On-chain heist simulator.\" Heistedxyz Heistedxyz \"On-chain heist simulator.\" Heistedxyz Heistedxyz \"On-chain heist simulator.\"",
+      "score": 17,
       "avatarUrl": ""
     },
     {
@@ -9162,6 +9581,102 @@
       ],
       "text": " RobinFun robinfunxyz  robinfunxyz robinfunxyz  robinfunxyz robinfunxyz 启动想法。交易叙事。一个市场诞生的代币发射台。 robinfunxyz robinfunxyz 启动想法。交易叙事。一个市场诞生的代币发射台。 robinfunxyz robinfunxyz \"Token launchpad for launching ideas and trading narratives.\" robinfunxyz robinfunxyz \"Token launchpad for launching ideas and trading narratives.\" robinfunxyz robinfunxyz \"Token launchpad for launching ideas and trading narratives.\"",
       "score": 13,
+      "avatarUrl": ""
+    },
+    {
+      "project": "WordBank",
+      "account": "wordbankgame",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "AlphaFries",
+        "Yangxiao214",
+        "alphafries",
+        "mutu_1987",
+        "xeogy92298766"
+      ],
+      "tgAlphas": [
+        "AlphaFries",
+        "mutu_1987",
+        "xeogy92298766"
+      ],
+      "xAlphas": [
+        "Yangxiao214",
+        "alphafries",
+        "xeogy92298766"
+      ],
+      "mentions": 7,
+      "firstSeen": "2026-06-17T10:15:50+00:00",
+      "lastSeen": "2026-06-20",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "WordBank",
+          "account": "wordbankgame",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-17T10:15:50+00:00",
+          "messageId": "dodtwitterbot/8225",
+          "text": ""
+        },
+        {
+          "source": "TG",
+          "project": "WordBank",
+          "account": "wordbankgame",
+          "alpha": "mutu_1987",
+          "seenAt": "2026-06-17T10:21:43+00:00",
+          "messageId": "dodtwitterbot/8226",
+          "text": ""
+        },
+        {
+          "source": "TG",
+          "project": "WordBank",
+          "account": "wordbankgame",
+          "alpha": "AlphaFries",
+          "seenAt": "2026-06-17T10:27:36+00:00",
+          "messageId": "dodtwitterbot/8228",
+          "text": ""
+        },
+        {
+          "source": "X",
+          "project": "wordbankgame",
+          "account": "wordbankgame",
+          "alpha": "Yangxiao214",
+          "seenAt": "2026-06-18",
+          "messageId": "2026-06-18-x-partial-Yangxiao214.csv",
+          "text": "以太坊上首个完全链上且无需许可的游戏藏品，由 Uniswap V4 流动性支持"
+        },
+        {
+          "source": "X",
+          "project": "wordbankgame",
+          "account": "wordbankgame",
+          "alpha": "alphafries",
+          "seenAt": "2026-06-18",
+          "messageId": "2026-06-18-x-partial-alphafries.csv",
+          "text": "以太坊上首个完全链上且无需许可的游戏藏品，由 Uniswap V4 流动性支持"
+        },
+        {
+          "source": "X",
+          "project": "wordbankgame",
+          "account": "wordbankgame",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-19",
+          "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
+          "text": "\"Fully on-chain permissionless game collectible on Ethereum backed by Uniswap v4 liquidity.\""
+        },
+        {
+          "source": "X",
+          "project": "wordbankgame",
+          "account": "wordbankgame",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-xeogy92298766.csv",
+          "text": "\"Fully on-chain permissionless game collectible on Ethereum backed by Uniswap v4 liquidity.\""
+        }
+      ],
+      "text": " WordBank wordbankgame  WordBank wordbankgame  WordBank wordbankgame  wordbankgame wordbankgame 以太坊上首个完全链上且无需许可的游戏藏品，由 Uniswap V4 流动性支持 wordbankgame wordbankgame 以太坊上首个完全链上且无需许可的游戏藏品，由 Uniswap V4 流动性支持 wordbankgame wordbankgame \"Fully on-chain permissionless game collectible on Ethereum backed by Uniswap v4 liquidity.\" wordbankgame wordbankgame \"Fully on-chain permissionless game collectible on Ethereum backed by Uniswap v4 liquidity.\"",
+      "score": 12,
       "avatarUrl": ""
     },
     {
@@ -9427,6 +9942,92 @@
       "avatarUrl": ""
     },
     {
+      "project": "Robindogenft",
+      "account": "Robindogenft",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "AlphaFries",
+        "_0xzhang",
+        "nlgcf69515952",
+        "xeogy92298766",
+        "zyy"
+      ],
+      "tgAlphas": [
+        "AlphaFries",
+        "zyy"
+      ],
+      "xAlphas": [
+        "_0xzhang",
+        "nlgcf69515952",
+        "xeogy92298766"
+      ],
+      "mentions": 6,
+      "firstSeen": "2026-06-16T16:41:17+00:00",
+      "lastSeen": "2026-06-20",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Robindogenft",
+          "account": "Robindogenft",
+          "alpha": "AlphaFries",
+          "seenAt": "2026-06-16T16:41:17+00:00",
+          "messageId": "dodtwitterbot/8138",
+          "text": ""
+        },
+        {
+          "source": "TG",
+          "project": "Robindogenft",
+          "account": "Robindogenft",
+          "alpha": "zyy",
+          "seenAt": "2026-06-17T16:22:47+00:00",
+          "messageId": "dodtwitterbot/8301",
+          "text": ""
+        },
+        {
+          "source": "X",
+          "project": "Robindogenft",
+          "account": "Robindogenft",
+          "alpha": "_0xzhang",
+          "seenAt": "2026-06-18",
+          "messageId": "2026-06-18-x-partial-_0xzhang.csv",
+          "text": "首个 NFT 系列以及基于 Robinhood Chain 的链上市场"
+        },
+        {
+          "source": "X",
+          "project": "Robindogenft",
+          "account": "Robindogenft",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-19",
+          "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
+          "text": "\"First NFT collection and on-chain market built on Robinhood Chain.\""
+        },
+        {
+          "source": "X",
+          "project": "Robindogenft",
+          "account": "Robindogenft",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-nlgcf69515952.csv",
+          "text": "\"First NFT collection and on-chain market built on Robinhood Chain.\""
+        },
+        {
+          "source": "X",
+          "project": "Robindogenft",
+          "account": "Robindogenft",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-xeogy92298766.csv",
+          "text": "\"First NFT collection and on-chain market built on Robinhood Chain.\""
+        }
+      ],
+      "text": " Robindogenft Robindogenft  Robindogenft Robindogenft  Robindogenft Robindogenft 首个 NFT 系列以及基于 Robinhood Chain 的链上市场 Robindogenft Robindogenft \"First NFT collection and on-chain market built on Robinhood Chain.\" Robindogenft Robindogenft \"First NFT collection and on-chain market built on Robinhood Chain.\" Robindogenft Robindogenft \"First NFT collection and on-chain market built on Robinhood Chain.\"",
+      "score": 11,
+      "avatarUrl": "https://unavatar.io/twitter/Robindogenft"
+    },
+    {
       "project": "TCG Arena",
       "account": "PlayTCGArena",
       "sources": [
@@ -9513,90 +10114,87 @@
       "avatarUrl": ""
     },
     {
-      "project": "WordBank",
-      "account": "wordbankgame",
+      "project": "ambient.xyz",
+      "account": "ambient_xyz",
       "sources": [
         "TG",
         "X"
       ],
       "alphas": [
-        "AlphaFries",
-        "Yangxiao214",
-        "alphafries",
-        "mutu_1987",
-        "xeogy92298766"
+        "juesaiquan",
+        "nlgcf69515952",
+        "xeogy92298766",
+        "zhiyuan"
       ],
       "tgAlphas": [
-        "AlphaFries",
-        "mutu_1987",
-        "xeogy92298766"
+        "zhiyuan"
       ],
       "xAlphas": [
-        "Yangxiao214",
-        "alphafries",
+        "juesaiquan",
+        "nlgcf69515952",
         "xeogy92298766"
       ],
       "mentions": 6,
-      "firstSeen": "2026-06-17T10:15:50+00:00",
-      "lastSeen": "2026-06-19",
+      "firstSeen": "2026-06-15T16:21:46+00:00",
+      "lastSeen": "2026-06-20",
       "rows": [
         {
           "source": "TG",
-          "project": "WordBank",
-          "account": "wordbankgame",
+          "project": "ambient.xyz",
+          "account": "ambient_xyz",
+          "alpha": "zhiyuan",
+          "seenAt": "2026-06-15T16:21:46+00:00",
+          "messageId": "dodtwitterbot/7914",
+          "text": ""
+        },
+        {
+          "source": "X",
+          "project": "ambient_xyz",
+          "account": "ambient_xyz",
+          "alpha": "juesaiquan",
+          "seenAt": "2026-06-17",
+          "messageId": "2026-06-17-x-partial-juesaiquan.csv",
+          "text": ""
+        },
+        {
+          "source": "X",
+          "project": "ambient_xyz",
+          "account": "ambient_xyz",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-06-17",
+          "messageId": "2026-06-17-x-partial-nlgcf69515952.csv",
+          "text": ""
+        },
+        {
+          "source": "X",
+          "project": "ambient_xyz",
+          "account": "ambient_xyz",
           "alpha": "xeogy92298766",
-          "seenAt": "2026-06-17T10:15:50+00:00",
-          "messageId": "dodtwitterbot/8225",
-          "text": ""
-        },
-        {
-          "source": "TG",
-          "project": "WordBank",
-          "account": "wordbankgame",
-          "alpha": "mutu_1987",
-          "seenAt": "2026-06-17T10:21:43+00:00",
-          "messageId": "dodtwitterbot/8226",
-          "text": ""
-        },
-        {
-          "source": "TG",
-          "project": "WordBank",
-          "account": "wordbankgame",
-          "alpha": "AlphaFries",
-          "seenAt": "2026-06-17T10:27:36+00:00",
-          "messageId": "dodtwitterbot/8228",
+          "seenAt": "2026-06-17",
+          "messageId": "2026-06-17-x-partial-xeogy92298766.csv",
           "text": ""
         },
         {
           "source": "X",
-          "project": "wordbankgame",
-          "account": "wordbankgame",
-          "alpha": "Yangxiao214",
-          "seenAt": "2026-06-18",
-          "messageId": "2026-06-18-x-partial-Yangxiao214.csv",
-          "text": "以太坊上首个完全链上且无需许可的游戏藏品，由 Uniswap V4 流动性支持"
-        },
-        {
-          "source": "X",
-          "project": "wordbankgame",
-          "account": "wordbankgame",
-          "alpha": "alphafries",
-          "seenAt": "2026-06-18",
-          "messageId": "2026-06-18-x-partial-alphafries.csv",
-          "text": "以太坊上首个完全链上且无需许可的游戏藏品，由 Uniswap V4 流动性支持"
-        },
-        {
-          "source": "X",
-          "project": "wordbankgame",
-          "account": "wordbankgame",
+          "project": "ambient_xyz",
+          "account": "ambient_xyz",
           "alpha": "xeogy92298766",
           "seenAt": "2026-06-19",
           "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
-          "text": "\"Fully on-chain permissionless game collectible on Ethereum backed by Uniswap v4 liquidity.\""
+          "text": "\"PoW L1 for hyperscale verified inference for large AI models.\""
+        },
+        {
+          "source": "X",
+          "project": "ambient_xyz",
+          "account": "ambient_xyz",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-xeogy92298766.csv",
+          "text": "\"PoW L1 for hyperscale verified inference for large AI models.\""
         }
       ],
-      "text": " WordBank wordbankgame  WordBank wordbankgame  WordBank wordbankgame  wordbankgame wordbankgame 以太坊上首个完全链上且无需许可的游戏藏品，由 Uniswap V4 流动性支持 wordbankgame wordbankgame 以太坊上首个完全链上且无需许可的游戏藏品，由 Uniswap V4 流动性支持 wordbankgame wordbankgame \"Fully on-chain permissionless game collectible on Ethereum backed by Uniswap v4 liquidity.\"",
-      "score": 11,
+      "text": " ambient.xyz ambient_xyz  ambient_xyz ambient_xyz  ambient_xyz ambient_xyz  ambient_xyz ambient_xyz  ambient_xyz ambient_xyz \"PoW L1 for hyperscale verified inference for large AI models.\" ambient_xyz ambient_xyz \"PoW L1 for hyperscale verified inference for large AI models.\"",
+      "score": 10,
       "avatarUrl": ""
     },
     {
@@ -9681,158 +10279,6 @@
       ],
       "text": " FeatherFi FeatherFi Native DEX and deep liquidity layer on Robin FeatherFi FeatherFi \"Native DEX and deep liquidity layer on Robin. Swap LP and earn.\" FeatherFi FeatherFi \"Native DEX and deep liquidity layer on Robin. Swap LP and earn.\" FeatherFi FeatherFi \"Native DEX and deep liquidity layer on Robin. Swap LP and earn.\" FeatherFi FeatherFi \"Native DEX and deep liquidity layer on Robin. Swap LP and earn.\" FeatherFi FeatherFi \"Native DEX and deep liquidity layer on Robin. Swap",
       "score": 10,
-      "avatarUrl": ""
-    },
-    {
-      "project": "Robindogenft",
-      "account": "Robindogenft",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "AlphaFries",
-        "_0xzhang",
-        "nlgcf69515952",
-        "xeogy92298766",
-        "zyy"
-      ],
-      "tgAlphas": [
-        "AlphaFries",
-        "zyy"
-      ],
-      "xAlphas": [
-        "_0xzhang",
-        "nlgcf69515952",
-        "xeogy92298766"
-      ],
-      "mentions": 5,
-      "firstSeen": "2026-06-16T16:41:17+00:00",
-      "lastSeen": "2026-06-20",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Robindogenft",
-          "account": "Robindogenft",
-          "alpha": "AlphaFries",
-          "seenAt": "2026-06-16T16:41:17+00:00",
-          "messageId": "dodtwitterbot/8138",
-          "text": ""
-        },
-        {
-          "source": "TG",
-          "project": "Robindogenft",
-          "account": "Robindogenft",
-          "alpha": "zyy",
-          "seenAt": "2026-06-17T16:22:47+00:00",
-          "messageId": "dodtwitterbot/8301",
-          "text": ""
-        },
-        {
-          "source": "X",
-          "project": "Robindogenft",
-          "account": "Robindogenft",
-          "alpha": "_0xzhang",
-          "seenAt": "2026-06-18",
-          "messageId": "2026-06-18-x-partial-_0xzhang.csv",
-          "text": "首个 NFT 系列以及基于 Robinhood Chain 的链上市场"
-        },
-        {
-          "source": "X",
-          "project": "Robindogenft",
-          "account": "Robindogenft",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-19",
-          "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
-          "text": "\"First NFT collection and on-chain market built on Robinhood Chain.\""
-        },
-        {
-          "source": "X",
-          "project": "Robindogenft",
-          "account": "Robindogenft",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-20",
-          "messageId": "2026-06-20-x-partial-nlgcf69515952.csv",
-          "text": "\"First NFT collection and on-chain market built on Robinhood Chain.\""
-        }
-      ],
-      "text": " Robindogenft Robindogenft  Robindogenft Robindogenft  Robindogenft Robindogenft 首个 NFT 系列以及基于 Robinhood Chain 的链上市场 Robindogenft Robindogenft \"First NFT collection and on-chain market built on Robinhood Chain.\" Robindogenft Robindogenft \"First NFT collection and on-chain market built on Robinhood Chain.\"",
-      "score": 10,
-      "avatarUrl": "https://unavatar.io/twitter/Robindogenft"
-    },
-    {
-      "project": "ambient.xyz",
-      "account": "ambient_xyz",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "juesaiquan",
-        "nlgcf69515952",
-        "xeogy92298766",
-        "zhiyuan"
-      ],
-      "tgAlphas": [
-        "zhiyuan"
-      ],
-      "xAlphas": [
-        "juesaiquan",
-        "nlgcf69515952",
-        "xeogy92298766"
-      ],
-      "mentions": 5,
-      "firstSeen": "2026-06-15T16:21:46+00:00",
-      "lastSeen": "2026-06-19",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "ambient.xyz",
-          "account": "ambient_xyz",
-          "alpha": "zhiyuan",
-          "seenAt": "2026-06-15T16:21:46+00:00",
-          "messageId": "dodtwitterbot/7914",
-          "text": ""
-        },
-        {
-          "source": "X",
-          "project": "ambient_xyz",
-          "account": "ambient_xyz",
-          "alpha": "juesaiquan",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-juesaiquan.csv",
-          "text": ""
-        },
-        {
-          "source": "X",
-          "project": "ambient_xyz",
-          "account": "ambient_xyz",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-nlgcf69515952.csv",
-          "text": ""
-        },
-        {
-          "source": "X",
-          "project": "ambient_xyz",
-          "account": "ambient_xyz",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-xeogy92298766.csv",
-          "text": ""
-        },
-        {
-          "source": "X",
-          "project": "ambient_xyz",
-          "account": "ambient_xyz",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-19",
-          "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
-          "text": "\"PoW L1 for hyperscale verified inference for large AI models.\""
-        }
-      ],
-      "text": " ambient.xyz ambient_xyz  ambient_xyz ambient_xyz  ambient_xyz ambient_xyz  ambient_xyz ambient_xyz  ambient_xyz ambient_xyz \"PoW L1 for hyperscale verified inference for large AI models.\"",
-      "score": 9,
       "avatarUrl": ""
     },
     {
@@ -10370,6 +10816,59 @@
       "avatarUrl": ""
     },
     {
+      "project": "Elisym Labs",
+      "account": "elisymlabs",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "NotVanGogh88",
+        "发誓要做永赚大师"
+      ],
+      "tgAlphas": [
+        "发誓要做永赚大师"
+      ],
+      "xAlphas": [
+        "NotVanGogh88"
+      ],
+      "mentions": 3,
+      "firstSeen": "2026-06-19",
+      "lastSeen": "2026-06-20",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Elisym Labs",
+          "account": "elisymlabs",
+          "alpha": "发誓要做永赚大师",
+          "seenAt": "2026-06-19T05:03:04+00:00",
+          "messageId": "tg-8488",
+          "text": "Open Execution Market for AI Agents infrastructure for humans and AI agents"
+        },
+        {
+          "source": "X",
+          "project": "elisymlabs",
+          "account": "elisymlabs",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-19",
+          "messageId": "2026-06-19-x-partial-NotVanGogh88.csv",
+          "text": "\"Infrastructure for humans and AI agents.\""
+        },
+        {
+          "source": "X",
+          "project": "elisymlabs",
+          "account": "elisymlabs",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-NotVanGogh88.csv",
+          "text": "\"Infrastructure for humans and AI agents.\""
+        }
+      ],
+      "text": " Elisym Labs elisymlabs Open Execution Market for AI Agents infrastructure for humans and AI agents elisymlabs elisymlabs \"Infrastructure for humans and AI agents.\" elisymlabs elisymlabs \"Infrastructure for humans and AI agents.\"",
+      "score": 5,
+      "avatarUrl": ""
+    },
+    {
       "project": "Fibo",
       "account": "fibodotfun",
       "sources": [
@@ -10873,50 +11372,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Elisym Labs",
-      "account": "elisymlabs",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "NotVanGogh88",
-        "发誓要做永赚大师"
-      ],
-      "tgAlphas": [
-        "发誓要做永赚大师"
-      ],
-      "xAlphas": [
-        "NotVanGogh88"
-      ],
-      "mentions": 2,
-      "firstSeen": "2026-06-19",
-      "lastSeen": "2026-06-19T05:03:04+00:00",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Elisym Labs",
-          "account": "elisymlabs",
-          "alpha": "发誓要做永赚大师",
-          "seenAt": "2026-06-19T05:03:04+00:00",
-          "messageId": "tg-8488",
-          "text": "Open Execution Market for AI Agents infrastructure for humans and AI agents"
-        },
-        {
-          "source": "X",
-          "project": "elisymlabs",
-          "account": "elisymlabs",
-          "alpha": "NotVanGogh88",
-          "seenAt": "2026-06-19",
-          "messageId": "2026-06-19-x-partial-NotVanGogh88.csv",
-          "text": "\"Infrastructure for humans and AI agents.\""
-        }
-      ],
-      "text": " Elisym Labs elisymlabs Open Execution Market for AI Agents infrastructure for humans and AI agents elisymlabs elisymlabs \"Infrastructure for humans and AI agents.\"",
-      "score": 4,
-      "avatarUrl": ""
-    },
-    {
       "project": "Fixels",
       "account": "Fixels_ETH",
       "sources": [
@@ -11295,7 +11750,7 @@
         "ibraxbt",
         "xeogy92298766"
       ],
-      "mentions": 9,
+      "mentions": 10,
       "firstSeen": "2026-06-16T16:56:14+00:00",
       "lastSeen": "2026-06-20",
       "rows": [
@@ -11379,10 +11834,19 @@
           "seenAt": "2026-06-20",
           "messageId": "2026-06-20-x-partial-bearzverse.csv",
           "text": "\"On-chain heist simulator.\""
+        },
+        {
+          "source": "X",
+          "project": "Heistedxyz",
+          "account": "Heistedxyz",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-xeogy92298766.csv",
+          "text": "\"On-chain heist simulator.\""
         }
       ],
-      "text": " Heisted Heistedxyz  Heisted Heistedxyz  Heistedxyz Heistedxyz  Heistedxyz Heistedxyz  Heistedxyz Heistedxyz  Heistedxyz Heistedxyz \"On-chain heist simulator.\" Heistedxyz Heistedxyz \"On-chain heist simulator.\" Heistedxyz Heistedxyz \"On-chain heist simulator.\" Heistedxyz Heistedxyz \"On-chain heist simulator.\"",
-      "score": 16,
+      "text": " Heisted Heistedxyz  Heisted Heistedxyz  Heistedxyz Heistedxyz  Heistedxyz Heistedxyz  Heistedxyz Heistedxyz  Heistedxyz Heistedxyz \"On-chain heist simulator.\" Heistedxyz Heistedxyz \"On-chain heist simulator.\" Heistedxyz Heistedxyz \"On-chain heist simulator.\" Heistedxyz Heistedxyz \"On-chain heist simulator.\" Heistedxyz Heistedxyz \"On-chain heist simulator.\"",
+      "score": 17,
       "avatarUrl": ""
     },
     {
@@ -11589,6 +12053,102 @@
       ],
       "text": " RobinFun robinfunxyz  robinfunxyz robinfunxyz  robinfunxyz robinfunxyz 启动想法。交易叙事。一个市场诞生的代币发射台。 robinfunxyz robinfunxyz 启动想法。交易叙事。一个市场诞生的代币发射台。 robinfunxyz robinfunxyz \"Token launchpad for launching ideas and trading narratives.\" robinfunxyz robinfunxyz \"Token launchpad for launching ideas and trading narratives.\" robinfunxyz robinfunxyz \"Token launchpad for launching ideas and trading narratives.\"",
       "score": 13,
+      "avatarUrl": ""
+    },
+    {
+      "project": "WordBank",
+      "account": "wordbankgame",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "AlphaFries",
+        "Yangxiao214",
+        "alphafries",
+        "mutu_1987",
+        "xeogy92298766"
+      ],
+      "tgAlphas": [
+        "AlphaFries",
+        "mutu_1987",
+        "xeogy92298766"
+      ],
+      "xAlphas": [
+        "Yangxiao214",
+        "alphafries",
+        "xeogy92298766"
+      ],
+      "mentions": 7,
+      "firstSeen": "2026-06-17T10:15:50+00:00",
+      "lastSeen": "2026-06-20",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "WordBank",
+          "account": "wordbankgame",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-17T10:15:50+00:00",
+          "messageId": "dodtwitterbot/8225",
+          "text": ""
+        },
+        {
+          "source": "TG",
+          "project": "WordBank",
+          "account": "wordbankgame",
+          "alpha": "mutu_1987",
+          "seenAt": "2026-06-17T10:21:43+00:00",
+          "messageId": "dodtwitterbot/8226",
+          "text": ""
+        },
+        {
+          "source": "TG",
+          "project": "WordBank",
+          "account": "wordbankgame",
+          "alpha": "AlphaFries",
+          "seenAt": "2026-06-17T10:27:36+00:00",
+          "messageId": "dodtwitterbot/8228",
+          "text": ""
+        },
+        {
+          "source": "X",
+          "project": "wordbankgame",
+          "account": "wordbankgame",
+          "alpha": "Yangxiao214",
+          "seenAt": "2026-06-18",
+          "messageId": "2026-06-18-x-partial-Yangxiao214.csv",
+          "text": "以太坊上首个完全链上且无需许可的游戏藏品，由 Uniswap V4 流动性支持"
+        },
+        {
+          "source": "X",
+          "project": "wordbankgame",
+          "account": "wordbankgame",
+          "alpha": "alphafries",
+          "seenAt": "2026-06-18",
+          "messageId": "2026-06-18-x-partial-alphafries.csv",
+          "text": "以太坊上首个完全链上且无需许可的游戏藏品，由 Uniswap V4 流动性支持"
+        },
+        {
+          "source": "X",
+          "project": "wordbankgame",
+          "account": "wordbankgame",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-19",
+          "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
+          "text": "\"Fully on-chain permissionless game collectible on Ethereum backed by Uniswap v4 liquidity.\""
+        },
+        {
+          "source": "X",
+          "project": "wordbankgame",
+          "account": "wordbankgame",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-xeogy92298766.csv",
+          "text": "\"Fully on-chain permissionless game collectible on Ethereum backed by Uniswap v4 liquidity.\""
+        }
+      ],
+      "text": " WordBank wordbankgame  WordBank wordbankgame  WordBank wordbankgame  wordbankgame wordbankgame 以太坊上首个完全链上且无需许可的游戏藏品，由 Uniswap V4 流动性支持 wordbankgame wordbankgame 以太坊上首个完全链上且无需许可的游戏藏品，由 Uniswap V4 流动性支持 wordbankgame wordbankgame \"Fully on-chain permissionless game collectible on Ethereum backed by Uniswap v4 liquidity.\" wordbankgame wordbankgame \"Fully on-chain permissionless game collectible on Ethereum backed by Uniswap v4 liquidity.\"",
+      "score": 12,
       "avatarUrl": ""
     },
     {
@@ -11854,6 +12414,92 @@
       "avatarUrl": ""
     },
     {
+      "project": "Robindogenft",
+      "account": "Robindogenft",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "AlphaFries",
+        "_0xzhang",
+        "nlgcf69515952",
+        "xeogy92298766",
+        "zyy"
+      ],
+      "tgAlphas": [
+        "AlphaFries",
+        "zyy"
+      ],
+      "xAlphas": [
+        "_0xzhang",
+        "nlgcf69515952",
+        "xeogy92298766"
+      ],
+      "mentions": 6,
+      "firstSeen": "2026-06-16T16:41:17+00:00",
+      "lastSeen": "2026-06-20",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Robindogenft",
+          "account": "Robindogenft",
+          "alpha": "AlphaFries",
+          "seenAt": "2026-06-16T16:41:17+00:00",
+          "messageId": "dodtwitterbot/8138",
+          "text": ""
+        },
+        {
+          "source": "TG",
+          "project": "Robindogenft",
+          "account": "Robindogenft",
+          "alpha": "zyy",
+          "seenAt": "2026-06-17T16:22:47+00:00",
+          "messageId": "dodtwitterbot/8301",
+          "text": ""
+        },
+        {
+          "source": "X",
+          "project": "Robindogenft",
+          "account": "Robindogenft",
+          "alpha": "_0xzhang",
+          "seenAt": "2026-06-18",
+          "messageId": "2026-06-18-x-partial-_0xzhang.csv",
+          "text": "首个 NFT 系列以及基于 Robinhood Chain 的链上市场"
+        },
+        {
+          "source": "X",
+          "project": "Robindogenft",
+          "account": "Robindogenft",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-19",
+          "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
+          "text": "\"First NFT collection and on-chain market built on Robinhood Chain.\""
+        },
+        {
+          "source": "X",
+          "project": "Robindogenft",
+          "account": "Robindogenft",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-nlgcf69515952.csv",
+          "text": "\"First NFT collection and on-chain market built on Robinhood Chain.\""
+        },
+        {
+          "source": "X",
+          "project": "Robindogenft",
+          "account": "Robindogenft",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-xeogy92298766.csv",
+          "text": "\"First NFT collection and on-chain market built on Robinhood Chain.\""
+        }
+      ],
+      "text": " Robindogenft Robindogenft  Robindogenft Robindogenft  Robindogenft Robindogenft 首个 NFT 系列以及基于 Robinhood Chain 的链上市场 Robindogenft Robindogenft \"First NFT collection and on-chain market built on Robinhood Chain.\" Robindogenft Robindogenft \"First NFT collection and on-chain market built on Robinhood Chain.\" Robindogenft Robindogenft \"First NFT collection and on-chain market built on Robinhood Chain.\"",
+      "score": 11,
+      "avatarUrl": "https://unavatar.io/twitter/Robindogenft"
+    },
+    {
       "project": "TCG Arena",
       "account": "PlayTCGArena",
       "sources": [
@@ -11940,90 +12586,87 @@
       "avatarUrl": ""
     },
     {
-      "project": "WordBank",
-      "account": "wordbankgame",
+      "project": "ambient.xyz",
+      "account": "ambient_xyz",
       "sources": [
         "TG",
         "X"
       ],
       "alphas": [
-        "AlphaFries",
-        "Yangxiao214",
-        "alphafries",
-        "mutu_1987",
-        "xeogy92298766"
+        "juesaiquan",
+        "nlgcf69515952",
+        "xeogy92298766",
+        "zhiyuan"
       ],
       "tgAlphas": [
-        "AlphaFries",
-        "mutu_1987",
-        "xeogy92298766"
+        "zhiyuan"
       ],
       "xAlphas": [
-        "Yangxiao214",
-        "alphafries",
+        "juesaiquan",
+        "nlgcf69515952",
         "xeogy92298766"
       ],
       "mentions": 6,
-      "firstSeen": "2026-06-17T10:15:50+00:00",
-      "lastSeen": "2026-06-19",
+      "firstSeen": "2026-06-15T16:21:46+00:00",
+      "lastSeen": "2026-06-20",
       "rows": [
         {
           "source": "TG",
-          "project": "WordBank",
-          "account": "wordbankgame",
+          "project": "ambient.xyz",
+          "account": "ambient_xyz",
+          "alpha": "zhiyuan",
+          "seenAt": "2026-06-15T16:21:46+00:00",
+          "messageId": "dodtwitterbot/7914",
+          "text": ""
+        },
+        {
+          "source": "X",
+          "project": "ambient_xyz",
+          "account": "ambient_xyz",
+          "alpha": "juesaiquan",
+          "seenAt": "2026-06-17",
+          "messageId": "2026-06-17-x-partial-juesaiquan.csv",
+          "text": ""
+        },
+        {
+          "source": "X",
+          "project": "ambient_xyz",
+          "account": "ambient_xyz",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-06-17",
+          "messageId": "2026-06-17-x-partial-nlgcf69515952.csv",
+          "text": ""
+        },
+        {
+          "source": "X",
+          "project": "ambient_xyz",
+          "account": "ambient_xyz",
           "alpha": "xeogy92298766",
-          "seenAt": "2026-06-17T10:15:50+00:00",
-          "messageId": "dodtwitterbot/8225",
-          "text": ""
-        },
-        {
-          "source": "TG",
-          "project": "WordBank",
-          "account": "wordbankgame",
-          "alpha": "mutu_1987",
-          "seenAt": "2026-06-17T10:21:43+00:00",
-          "messageId": "dodtwitterbot/8226",
-          "text": ""
-        },
-        {
-          "source": "TG",
-          "project": "WordBank",
-          "account": "wordbankgame",
-          "alpha": "AlphaFries",
-          "seenAt": "2026-06-17T10:27:36+00:00",
-          "messageId": "dodtwitterbot/8228",
+          "seenAt": "2026-06-17",
+          "messageId": "2026-06-17-x-partial-xeogy92298766.csv",
           "text": ""
         },
         {
           "source": "X",
-          "project": "wordbankgame",
-          "account": "wordbankgame",
-          "alpha": "Yangxiao214",
-          "seenAt": "2026-06-18",
-          "messageId": "2026-06-18-x-partial-Yangxiao214.csv",
-          "text": "以太坊上首个完全链上且无需许可的游戏藏品，由 Uniswap V4 流动性支持"
-        },
-        {
-          "source": "X",
-          "project": "wordbankgame",
-          "account": "wordbankgame",
-          "alpha": "alphafries",
-          "seenAt": "2026-06-18",
-          "messageId": "2026-06-18-x-partial-alphafries.csv",
-          "text": "以太坊上首个完全链上且无需许可的游戏藏品，由 Uniswap V4 流动性支持"
-        },
-        {
-          "source": "X",
-          "project": "wordbankgame",
-          "account": "wordbankgame",
+          "project": "ambient_xyz",
+          "account": "ambient_xyz",
           "alpha": "xeogy92298766",
           "seenAt": "2026-06-19",
           "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
-          "text": "\"Fully on-chain permissionless game collectible on Ethereum backed by Uniswap v4 liquidity.\""
+          "text": "\"PoW L1 for hyperscale verified inference for large AI models.\""
+        },
+        {
+          "source": "X",
+          "project": "ambient_xyz",
+          "account": "ambient_xyz",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-xeogy92298766.csv",
+          "text": "\"PoW L1 for hyperscale verified inference for large AI models.\""
         }
       ],
-      "text": " WordBank wordbankgame  WordBank wordbankgame  WordBank wordbankgame  wordbankgame wordbankgame 以太坊上首个完全链上且无需许可的游戏藏品，由 Uniswap V4 流动性支持 wordbankgame wordbankgame 以太坊上首个完全链上且无需许可的游戏藏品，由 Uniswap V4 流动性支持 wordbankgame wordbankgame \"Fully on-chain permissionless game collectible on Ethereum backed by Uniswap v4 liquidity.\"",
-      "score": 11,
+      "text": " ambient.xyz ambient_xyz  ambient_xyz ambient_xyz  ambient_xyz ambient_xyz  ambient_xyz ambient_xyz  ambient_xyz ambient_xyz \"PoW L1 for hyperscale verified inference for large AI models.\" ambient_xyz ambient_xyz \"PoW L1 for hyperscale verified inference for large AI models.\"",
+      "score": 10,
       "avatarUrl": ""
     },
     {
@@ -12111,120 +12754,50 @@
       "avatarUrl": ""
     },
     {
-      "project": "Robindogenft",
-      "account": "Robindogenft",
+      "project": "mondeto",
+      "account": "mondeto",
       "sources": [
-        "TG",
         "X"
       ],
       "alphas": [
-        "AlphaFries",
-        "_0xzhang",
-        "nlgcf69515952",
-        "xeogy92298766",
-        "zyy"
-      ],
-      "tgAlphas": [
-        "AlphaFries",
-        "zyy"
-      ],
-      "xAlphas": [
-        "_0xzhang",
-        "nlgcf69515952",
+        "Yangxiao214",
+        "ibraxbt",
+        "juesaiquan",
         "xeogy92298766"
       ],
-      "mentions": 5,
-      "firstSeen": "2026-06-16T16:41:17+00:00",
+      "tgAlphas": [],
+      "xAlphas": [
+        "Yangxiao214",
+        "ibraxbt",
+        "juesaiquan",
+        "xeogy92298766"
+      ],
+      "mentions": 6,
+      "firstSeen": "2026-06-17",
       "lastSeen": "2026-06-20",
       "rows": [
         {
-          "source": "TG",
-          "project": "Robindogenft",
-          "account": "Robindogenft",
-          "alpha": "AlphaFries",
-          "seenAt": "2026-06-16T16:41:17+00:00",
-          "messageId": "dodtwitterbot/8138",
-          "text": ""
-        },
-        {
-          "source": "TG",
-          "project": "Robindogenft",
-          "account": "Robindogenft",
-          "alpha": "zyy",
-          "seenAt": "2026-06-17T16:22:47+00:00",
-          "messageId": "dodtwitterbot/8301",
+          "source": "X",
+          "project": "mondeto",
+          "account": "mondeto",
+          "alpha": "Yangxiao214",
+          "seenAt": "2026-06-17",
+          "messageId": "2026-06-17-x-partial-Yangxiao214.csv",
           "text": ""
         },
         {
           "source": "X",
-          "project": "Robindogenft",
-          "account": "Robindogenft",
-          "alpha": "_0xzhang",
-          "seenAt": "2026-06-18",
-          "messageId": "2026-06-18-x-partial-_0xzhang.csv",
-          "text": "首个 NFT 系列以及基于 Robinhood Chain 的链上市场"
-        },
-        {
-          "source": "X",
-          "project": "Robindogenft",
-          "account": "Robindogenft",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-19",
-          "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
-          "text": "\"First NFT collection and on-chain market built on Robinhood Chain.\""
-        },
-        {
-          "source": "X",
-          "project": "Robindogenft",
-          "account": "Robindogenft",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-20",
-          "messageId": "2026-06-20-x-partial-nlgcf69515952.csv",
-          "text": "\"First NFT collection and on-chain market built on Robinhood Chain.\""
-        }
-      ],
-      "text": " Robindogenft Robindogenft  Robindogenft Robindogenft  Robindogenft Robindogenft 首个 NFT 系列以及基于 Robinhood Chain 的链上市场 Robindogenft Robindogenft \"First NFT collection and on-chain market built on Robinhood Chain.\" Robindogenft Robindogenft \"First NFT collection and on-chain market built on Robinhood Chain.\"",
-      "score": 10,
-      "avatarUrl": "https://unavatar.io/twitter/Robindogenft"
-    },
-    {
-      "project": "ambient.xyz",
-      "account": "ambient_xyz",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "juesaiquan",
-        "nlgcf69515952",
-        "xeogy92298766",
-        "zhiyuan"
-      ],
-      "tgAlphas": [
-        "zhiyuan"
-      ],
-      "xAlphas": [
-        "juesaiquan",
-        "nlgcf69515952",
-        "xeogy92298766"
-      ],
-      "mentions": 5,
-      "firstSeen": "2026-06-15T16:21:46+00:00",
-      "lastSeen": "2026-06-19",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "ambient.xyz",
-          "account": "ambient_xyz",
-          "alpha": "zhiyuan",
-          "seenAt": "2026-06-15T16:21:46+00:00",
-          "messageId": "dodtwitterbot/7914",
+          "project": "mondeto",
+          "account": "mondeto",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-17",
+          "messageId": "2026-06-17-x-partial-ibraxbt.csv",
           "text": ""
         },
         {
           "source": "X",
-          "project": "ambient_xyz",
-          "account": "ambient_xyz",
+          "project": "mondeto",
+          "account": "mondeto",
           "alpha": "juesaiquan",
           "seenAt": "2026-06-17",
           "messageId": "2026-06-17-x-partial-juesaiquan.csv",
@@ -12232,17 +12805,8 @@
         },
         {
           "source": "X",
-          "project": "ambient_xyz",
-          "account": "ambient_xyz",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-nlgcf69515952.csv",
-          "text": ""
-        },
-        {
-          "source": "X",
-          "project": "ambient_xyz",
-          "account": "ambient_xyz",
+          "project": "mondeto",
+          "account": "mondeto",
           "alpha": "xeogy92298766",
           "seenAt": "2026-06-17",
           "messageId": "2026-06-17-x-partial-xeogy92298766.csv",
@@ -12250,16 +12814,25 @@
         },
         {
           "source": "X",
-          "project": "ambient_xyz",
-          "account": "ambient_xyz",
+          "project": "mondeto",
+          "account": "mondeto",
           "alpha": "xeogy92298766",
           "seenAt": "2026-06-19",
           "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
-          "text": "\"PoW L1 for hyperscale verified inference for large AI models.\""
+          "text": "\"Own the world one pixel at a time on MiniPay.\""
+        },
+        {
+          "source": "X",
+          "project": "mondeto",
+          "account": "mondeto",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-xeogy92298766.csv",
+          "text": "\"Own the world one pixel at a time on MiniPay.\""
         }
       ],
-      "text": " ambient.xyz ambient_xyz  ambient_xyz ambient_xyz  ambient_xyz ambient_xyz  ambient_xyz ambient_xyz  ambient_xyz ambient_xyz \"PoW L1 for hyperscale verified inference for large AI models.\"",
-      "score": 9,
+      "text": " mondeto mondeto  mondeto mondeto  mondeto mondeto  mondeto mondeto  mondeto mondeto \"Own the world one pixel at a time on MiniPay.\" mondeto mondeto \"Own the world one pixel at a time on MiniPay.\"",
+      "score": 10,
       "avatarUrl": ""
     },
     {
@@ -12336,79 +12909,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "mondeto",
-      "account": "mondeto",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "Yangxiao214",
-        "ibraxbt",
-        "juesaiquan",
-        "xeogy92298766"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "Yangxiao214",
-        "ibraxbt",
-        "juesaiquan",
-        "xeogy92298766"
-      ],
-      "mentions": 5,
-      "firstSeen": "2026-06-17",
-      "lastSeen": "2026-06-19",
-      "rows": [
-        {
-          "source": "X",
-          "project": "mondeto",
-          "account": "mondeto",
-          "alpha": "Yangxiao214",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-Yangxiao214.csv",
-          "text": ""
-        },
-        {
-          "source": "X",
-          "project": "mondeto",
-          "account": "mondeto",
-          "alpha": "ibraxbt",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-ibraxbt.csv",
-          "text": ""
-        },
-        {
-          "source": "X",
-          "project": "mondeto",
-          "account": "mondeto",
-          "alpha": "juesaiquan",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-juesaiquan.csv",
-          "text": ""
-        },
-        {
-          "source": "X",
-          "project": "mondeto",
-          "account": "mondeto",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-xeogy92298766.csv",
-          "text": ""
-        },
-        {
-          "source": "X",
-          "project": "mondeto",
-          "account": "mondeto",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-19",
-          "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
-          "text": "\"Own the world one pixel at a time on MiniPay.\""
-        }
-      ],
-      "text": " mondeto mondeto  mondeto mondeto  mondeto mondeto  mondeto mondeto  mondeto mondeto \"Own the world one pixel at a time on MiniPay.\"",
-      "score": 9,
-      "avatarUrl": ""
-    },
-    {
       "project": "robinhood_rats",
       "account": "robinhood_rats",
       "sources": [
@@ -12479,6 +12979,148 @@
       ],
       "text": " robinhood_rats robinhood_rats 一个完全链上像素老鼠的殖民地，在 RobinhoodApp 上 robinhood_rats robinhood_rats 完全链上像素老鼠的殖民地，在 @RobinhoodApp 上 robinhood_rats robinhood_rats 完全链上像素老鼠殖民地 RobinhoodApp robinhood_rats robinhood_rats 完全链上像素老鼠的殖民地，在 RobinhoodApp 上 robinhood_rats robinhood_rats \"On-chain pixel rats on Robinhood App chain.\"",
       "score": 9,
+      "avatarUrl": ""
+    },
+    {
+      "project": "echonv4",
+      "account": "echonv4",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "alphafries",
+        "juesaiquan",
+        "xeogy92298766"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "alphafries",
+        "juesaiquan",
+        "xeogy92298766"
+      ],
+      "mentions": 5,
+      "firstSeen": "2026-06-16",
+      "lastSeen": "2026-06-20",
+      "rows": [
+        {
+          "source": "X",
+          "project": "echonv4",
+          "account": "echonv4",
+          "alpha": "alphafries",
+          "seenAt": "2026-06-16",
+          "messageId": "2026-06-16-x-partial-alphafries.csv",
+          "text": ""
+        },
+        {
+          "source": "X",
+          "project": "echonv4",
+          "account": "echonv4",
+          "alpha": "juesaiquan",
+          "seenAt": "2026-06-17",
+          "messageId": "2026-06-17-x-partial-juesaiquan.csv",
+          "text": ""
+        },
+        {
+          "source": "X",
+          "project": "echonv4",
+          "account": "echonv4",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-17",
+          "messageId": "2026-06-17-x-partial-xeogy92298766.csv",
+          "text": ""
+        },
+        {
+          "source": "X",
+          "project": "echonv4",
+          "account": "echonv4",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-19",
+          "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
+          "text": "\"ECHO on Uniswap v4. Buy reflect reset restart; every swap leaves a trace.\""
+        },
+        {
+          "source": "X",
+          "project": "echonv4",
+          "account": "echonv4",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-xeogy92298766.csv",
+          "text": "\"ECHO on Uniswap v4. Buy reflect reset restart; every swap leaves a trace.\""
+        }
+      ],
+      "text": " echonv4 echonv4  echonv4 echonv4  echonv4 echonv4  echonv4 echonv4 \"ECHO on Uniswap v4. Buy reflect reset restart; every swap leaves a trace.\" echonv4 echonv4 \"ECHO on Uniswap v4. Buy reflect reset restart; every swap leaves a trace.\"",
+      "score": 8,
+      "avatarUrl": ""
+    },
+    {
+      "project": "emergent_inc",
+      "account": "emergent_inc",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "TheVoldron",
+        "mutu_1987",
+        "xeogy92298766"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "TheVoldron",
+        "mutu_1987",
+        "xeogy92298766"
+      ],
+      "mentions": 5,
+      "firstSeen": "2026-06-17",
+      "lastSeen": "2026-06-20",
+      "rows": [
+        {
+          "source": "X",
+          "project": "emergent_inc",
+          "account": "emergent_inc",
+          "alpha": "TheVoldron",
+          "seenAt": "2026-06-17",
+          "messageId": "2026-06-17-x-partial-TheVoldron.csv",
+          "text": ""
+        },
+        {
+          "source": "X",
+          "project": "emergent_inc",
+          "account": "emergent_inc",
+          "alpha": "mutu_1987",
+          "seenAt": "2026-06-17",
+          "messageId": "2026-06-17-x-partial-mutu_1987.csv",
+          "text": ""
+        },
+        {
+          "source": "X",
+          "project": "emergent_inc",
+          "account": "emergent_inc",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-17",
+          "messageId": "2026-06-17-x-partial-xeogy92298766.csv",
+          "text": ""
+        },
+        {
+          "source": "X",
+          "project": "emergent_inc",
+          "account": "emergent_inc",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-19",
+          "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
+          "text": "\"Emergent Computing early project account.\""
+        },
+        {
+          "source": "X",
+          "project": "emergent_inc",
+          "account": "emergent_inc",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-xeogy92298766.csv",
+          "text": "\"Emergent Computing early project account.\""
+        }
+      ],
+      "text": " emergent_inc emergent_inc  emergent_inc emergent_inc  emergent_inc emergent_inc  emergent_inc emergent_inc \"Emergent Computing early project account.\" emergent_inc emergent_inc \"Emergent Computing early project account.\"",
+      "score": 8,
       "avatarUrl": ""
     },
     {
@@ -12620,6 +13262,77 @@
         }
       ],
       "text": " SatcoinHQ SatcoinHQ  SatcoinHQ SatcoinHQ  SatcoinHQ SatcoinHQ Solana 上由代理操作的挖矿 SatcoinHQ SatcoinHQ \"Agent-operated mining on Solana.\" SatcoinHQ SatcoinHQ \"Agent-operated mining on Solana.\"",
+      "score": 8,
+      "avatarUrl": ""
+    },
+    {
+      "project": "world_xyz",
+      "account": "world_xyz",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "bearzverse",
+        "ibraxbt",
+        "xeogy92298766"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "bearzverse",
+        "ibraxbt",
+        "xeogy92298766"
+      ],
+      "mentions": 5,
+      "firstSeen": "2026-06-19",
+      "lastSeen": "2026-06-20",
+      "rows": [
+        {
+          "source": "X",
+          "project": "world_xyz",
+          "account": "world_xyz",
+          "alpha": "bearzverse",
+          "seenAt": "2026-06-19",
+          "messageId": "2026-06-19-x-partial-bearzverse.csv",
+          "text": "\"Coming soon early project account.\""
+        },
+        {
+          "source": "X",
+          "project": "world_xyz",
+          "account": "world_xyz",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-19",
+          "messageId": "2026-06-19-x-partial-ibraxbt.csv",
+          "text": "\"Coming soon early project account.\""
+        },
+        {
+          "source": "X",
+          "project": "world_xyz",
+          "account": "world_xyz",
+          "alpha": "bearzverse",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-bearzverse.csv",
+          "text": "\"Coming soon early project account.\""
+        },
+        {
+          "source": "X",
+          "project": "world_xyz",
+          "account": "world_xyz",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-ibraxbt.csv",
+          "text": "\"Coming soon early project account.\""
+        },
+        {
+          "source": "X",
+          "project": "world_xyz",
+          "account": "world_xyz",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-xeogy92298766.csv",
+          "text": "\"Coming soon early project account.\""
+        }
+      ],
+      "text": " world_xyz world_xyz \"Coming soon early project account.\" world_xyz world_xyz \"Coming soon early project account.\" world_xyz world_xyz \"Coming soon early project account.\" world_xyz world_xyz \"Coming soon early project account.\" world_xyz world_xyz \"Coming soon early project account.\"",
       "score": 8,
       "avatarUrl": ""
     },
@@ -13137,130 +13850,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "echonv4",
-      "account": "echonv4",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "alphafries",
-        "juesaiquan",
-        "xeogy92298766"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "alphafries",
-        "juesaiquan",
-        "xeogy92298766"
-      ],
-      "mentions": 4,
-      "firstSeen": "2026-06-16",
-      "lastSeen": "2026-06-19",
-      "rows": [
-        {
-          "source": "X",
-          "project": "echonv4",
-          "account": "echonv4",
-          "alpha": "alphafries",
-          "seenAt": "2026-06-16",
-          "messageId": "2026-06-16-x-partial-alphafries.csv",
-          "text": ""
-        },
-        {
-          "source": "X",
-          "project": "echonv4",
-          "account": "echonv4",
-          "alpha": "juesaiquan",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-juesaiquan.csv",
-          "text": ""
-        },
-        {
-          "source": "X",
-          "project": "echonv4",
-          "account": "echonv4",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-xeogy92298766.csv",
-          "text": ""
-        },
-        {
-          "source": "X",
-          "project": "echonv4",
-          "account": "echonv4",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-19",
-          "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
-          "text": "\"ECHO on Uniswap v4. Buy reflect reset restart; every swap leaves a trace.\""
-        }
-      ],
-      "text": " echonv4 echonv4  echonv4 echonv4  echonv4 echonv4  echonv4 echonv4 \"ECHO on Uniswap v4. Buy reflect reset restart; every swap leaves a trace.\"",
-      "score": 7,
-      "avatarUrl": ""
-    },
-    {
-      "project": "emergent_inc",
-      "account": "emergent_inc",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "TheVoldron",
-        "mutu_1987",
-        "xeogy92298766"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "TheVoldron",
-        "mutu_1987",
-        "xeogy92298766"
-      ],
-      "mentions": 4,
-      "firstSeen": "2026-06-17",
-      "lastSeen": "2026-06-19",
-      "rows": [
-        {
-          "source": "X",
-          "project": "emergent_inc",
-          "account": "emergent_inc",
-          "alpha": "TheVoldron",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-TheVoldron.csv",
-          "text": ""
-        },
-        {
-          "source": "X",
-          "project": "emergent_inc",
-          "account": "emergent_inc",
-          "alpha": "mutu_1987",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-mutu_1987.csv",
-          "text": ""
-        },
-        {
-          "source": "X",
-          "project": "emergent_inc",
-          "account": "emergent_inc",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-xeogy92298766.csv",
-          "text": ""
-        },
-        {
-          "source": "X",
-          "project": "emergent_inc",
-          "account": "emergent_inc",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-19",
-          "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
-          "text": "\"Emergent Computing early project account.\""
-        }
-      ],
-      "text": " emergent_inc emergent_inc  emergent_inc emergent_inc  emergent_inc emergent_inc  emergent_inc emergent_inc \"Emergent Computing early project account.\"",
-      "score": 7,
-      "avatarUrl": ""
-    },
-    {
       "project": "Hooknomics",
       "account": "Hooknomics",
       "sources": [
@@ -13511,6 +14100,66 @@
       "avatarUrl": ""
     },
     {
+      "project": "Ask_CarpeDiem",
+      "account": "Ask_CarpeDiem",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "ibraxbt",
+        "xeogy92298766"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "ibraxbt",
+        "xeogy92298766"
+      ],
+      "mentions": 4,
+      "firstSeen": "2026-06-17",
+      "lastSeen": "2026-06-20",
+      "rows": [
+        {
+          "source": "X",
+          "project": "Ask_CarpeDiem",
+          "account": "Ask_CarpeDiem",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-17",
+          "messageId": "2026-06-17-x-partial-ibraxbt.csv",
+          "text": ""
+        },
+        {
+          "source": "X",
+          "project": "Ask_CarpeDiem",
+          "account": "Ask_CarpeDiem",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-17",
+          "messageId": "2026-06-17-x-partial-xeogy92298766.csv",
+          "text": ""
+        },
+        {
+          "source": "X",
+          "project": "Ask_CarpeDiem",
+          "account": "Ask_CarpeDiem",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-19",
+          "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
+          "text": "\"Decentralized market for DIEM inference quota"
+        },
+        {
+          "source": "X",
+          "project": "Ask_CarpeDiem",
+          "account": "Ask_CarpeDiem",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-xeogy92298766.csv",
+          "text": "\"Decentralized market for DIEM inference quota"
+        }
+      ],
+      "text": " Ask_CarpeDiem Ask_CarpeDiem  Ask_CarpeDiem Ask_CarpeDiem  Ask_CarpeDiem Ask_CarpeDiem \"Decentralized market for DIEM inference quota Ask_CarpeDiem Ask_CarpeDiem \"Decentralized market for DIEM inference quota",
+      "score": 6,
+      "avatarUrl": ""
+    },
+    {
       "project": "FireFliesMarket",
       "account": "FireFliesMarket",
       "sources": [
@@ -13627,6 +14276,66 @@
         }
       ],
       "text": " ForgeLending ForgeLending \"Bittensor native money market. Borrow TAO with your Subnet tokens.\" ForgeLending ForgeLending \"Bittensor native money market. Borrow TAO with subnet tokens.\" ForgeLending ForgeLending \"Bittensor native money market. Borrow TAO with subnet tokens.\" ForgeLending ForgeLending \"Bittensor native money market. Borrow TAO with subnet tokens.\"",
+      "score": 6,
+      "avatarUrl": ""
+    },
+    {
+      "project": "nav_certs",
+      "account": "nav_certs",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "juesaiquan",
+        "xeogy92298766"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "juesaiquan",
+        "xeogy92298766"
+      ],
+      "mentions": 4,
+      "firstSeen": "2026-06-17",
+      "lastSeen": "2026-06-20",
+      "rows": [
+        {
+          "source": "X",
+          "project": "nav_certs",
+          "account": "nav_certs",
+          "alpha": "juesaiquan",
+          "seenAt": "2026-06-17",
+          "messageId": "2026-06-17-x-partial-juesaiquan.csv",
+          "text": ""
+        },
+        {
+          "source": "X",
+          "project": "nav_certs",
+          "account": "nav_certs",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-17",
+          "messageId": "2026-06-17-x-partial-xeogy92298766.csv",
+          "text": ""
+        },
+        {
+          "source": "X",
+          "project": "nav_certs",
+          "account": "nav_certs",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-19",
+          "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
+          "text": "\"NAV token and ERC-721 certs where idle balances decay and art reflects wallet state.\""
+        },
+        {
+          "source": "X",
+          "project": "nav_certs",
+          "account": "nav_certs",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-xeogy92298766.csv",
+          "text": "\"NAV token and ERC-721 certs where idle balances decay and art reflects wallet state.\""
+        }
+      ],
+      "text": " nav_certs nav_certs  nav_certs nav_certs  nav_certs nav_certs \"NAV token and ERC-721 certs where idle balances decay and art reflects wallet state.\" nav_certs nav_certs \"NAV token and ERC-721 certs where idle balances decay and art reflects wallet state.\"",
       "score": 6,
       "avatarUrl": ""
     },
@@ -13811,62 +14520,62 @@
       "avatarUrl": ""
     },
     {
-      "project": "world_xyz",
-      "account": "world_xyz",
+      "project": "useflashpoint",
+      "account": "useflashpoint",
       "sources": [
         "X"
       ],
       "alphas": [
         "bearzverse",
-        "ibraxbt"
+        "xeogy92298766"
       ],
       "tgAlphas": [],
       "xAlphas": [
         "bearzverse",
-        "ibraxbt"
+        "xeogy92298766"
       ],
       "mentions": 4,
-      "firstSeen": "2026-06-19",
+      "firstSeen": "2026-06-17",
       "lastSeen": "2026-06-20",
       "rows": [
         {
           "source": "X",
-          "project": "world_xyz",
-          "account": "world_xyz",
+          "project": "useflashpoint",
+          "account": "useflashpoint",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-17",
+          "messageId": "2026-06-17-x-partial-xeogy92298766.csv",
+          "text": ""
+        },
+        {
+          "source": "X",
+          "project": "useflashpoint",
+          "account": "useflashpoint",
           "alpha": "bearzverse",
           "seenAt": "2026-06-19",
           "messageId": "2026-06-19-x-partial-bearzverse.csv",
-          "text": "\"Coming soon early project account.\""
+          "text": "\"Real-time edge for crypto markets.\""
         },
         {
           "source": "X",
-          "project": "world_xyz",
-          "account": "world_xyz",
-          "alpha": "ibraxbt",
+          "project": "useflashpoint",
+          "account": "useflashpoint",
+          "alpha": "xeogy92298766",
           "seenAt": "2026-06-19",
-          "messageId": "2026-06-19-x-partial-ibraxbt.csv",
-          "text": "\"Coming soon early project account.\""
+          "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
+          "text": "\"Real-time edge for crypto markets.\""
         },
         {
           "source": "X",
-          "project": "world_xyz",
-          "account": "world_xyz",
-          "alpha": "bearzverse",
+          "project": "useflashpoint",
+          "account": "useflashpoint",
+          "alpha": "xeogy92298766",
           "seenAt": "2026-06-20",
-          "messageId": "2026-06-20-x-partial-bearzverse.csv",
-          "text": "\"Coming soon early project account.\""
-        },
-        {
-          "source": "X",
-          "project": "world_xyz",
-          "account": "world_xyz",
-          "alpha": "ibraxbt",
-          "seenAt": "2026-06-20",
-          "messageId": "2026-06-20-x-partial-ibraxbt.csv",
-          "text": "\"Coming soon early project account.\""
+          "messageId": "2026-06-20-x-partial-xeogy92298766.csv",
+          "text": "\"Real-time edge for crypto markets.\""
         }
       ],
-      "text": " world_xyz world_xyz \"Coming soon early project account.\" world_xyz world_xyz \"Coming soon early project account.\" world_xyz world_xyz \"Coming soon early project account.\" world_xyz world_xyz \"Coming soon early project account.\"",
+      "text": " useflashpoint useflashpoint  useflashpoint useflashpoint \"Real-time edge for crypto markets.\" useflashpoint useflashpoint \"Real-time edge for crypto markets.\" useflashpoint useflashpoint \"Real-time edge for crypto markets.\"",
       "score": 6,
       "avatarUrl": ""
     },
@@ -14356,57 +15065,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Ask_CarpeDiem",
-      "account": "Ask_CarpeDiem",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "ibraxbt",
-        "xeogy92298766"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "ibraxbt",
-        "xeogy92298766"
-      ],
-      "mentions": 3,
-      "firstSeen": "2026-06-17",
-      "lastSeen": "2026-06-19",
-      "rows": [
-        {
-          "source": "X",
-          "project": "Ask_CarpeDiem",
-          "account": "Ask_CarpeDiem",
-          "alpha": "ibraxbt",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-ibraxbt.csv",
-          "text": ""
-        },
-        {
-          "source": "X",
-          "project": "Ask_CarpeDiem",
-          "account": "Ask_CarpeDiem",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-xeogy92298766.csv",
-          "text": ""
-        },
-        {
-          "source": "X",
-          "project": "Ask_CarpeDiem",
-          "account": "Ask_CarpeDiem",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-19",
-          "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
-          "text": "\"Decentralized market for DIEM inference quota"
-        }
-      ],
-      "text": " Ask_CarpeDiem Ask_CarpeDiem  Ask_CarpeDiem Ask_CarpeDiem  Ask_CarpeDiem Ask_CarpeDiem \"Decentralized market for DIEM inference quota",
-      "score": 5,
-      "avatarUrl": ""
-    },
-    {
       "project": "Baby Asteroid",
       "account": "AstroKid_Flap",
       "sources": [
@@ -14558,6 +15216,59 @@
         }
       ],
       "text": " cladiogames cladiogames  cladiogames cladiogames  cladiogames cladiogames BNB Chain 下一代赛博罗马策略游戏",
+      "score": 5,
+      "avatarUrl": ""
+    },
+    {
+      "project": "Elisym Labs",
+      "account": "elisymlabs",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "NotVanGogh88",
+        "发誓要做永赚大师"
+      ],
+      "tgAlphas": [
+        "发誓要做永赚大师"
+      ],
+      "xAlphas": [
+        "NotVanGogh88"
+      ],
+      "mentions": 3,
+      "firstSeen": "2026-06-19",
+      "lastSeen": "2026-06-20",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Elisym Labs",
+          "account": "elisymlabs",
+          "alpha": "发誓要做永赚大师",
+          "seenAt": "2026-06-19T05:03:04+00:00",
+          "messageId": "tg-8488",
+          "text": "Open Execution Market for AI Agents infrastructure for humans and AI agents"
+        },
+        {
+          "source": "X",
+          "project": "elisymlabs",
+          "account": "elisymlabs",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-19",
+          "messageId": "2026-06-19-x-partial-NotVanGogh88.csv",
+          "text": "\"Infrastructure for humans and AI agents.\""
+        },
+        {
+          "source": "X",
+          "project": "elisymlabs",
+          "account": "elisymlabs",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-NotVanGogh88.csv",
+          "text": "\"Infrastructure for humans and AI agents.\""
+        }
+      ],
+      "text": " Elisym Labs elisymlabs Open Execution Market for AI Agents infrastructure for humans and AI agents elisymlabs elisymlabs \"Infrastructure for humans and AI agents.\" elisymlabs elisymlabs \"Infrastructure for humans and AI agents.\"",
       "score": 5,
       "avatarUrl": ""
     },
@@ -14766,57 +15477,6 @@
         }
       ],
       "text": " Loom loomecosystem Worlds built on Solana no token right now loomecosystem loomecosystem \"Worlds built on Solana. No token right now.\" loomecosystem loomecosystem \"Worlds built on Solana. No token right now.\"",
-      "score": 5,
-      "avatarUrl": ""
-    },
-    {
-      "project": "nav_certs",
-      "account": "nav_certs",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "juesaiquan",
-        "xeogy92298766"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "juesaiquan",
-        "xeogy92298766"
-      ],
-      "mentions": 3,
-      "firstSeen": "2026-06-17",
-      "lastSeen": "2026-06-19",
-      "rows": [
-        {
-          "source": "X",
-          "project": "nav_certs",
-          "account": "nav_certs",
-          "alpha": "juesaiquan",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-juesaiquan.csv",
-          "text": ""
-        },
-        {
-          "source": "X",
-          "project": "nav_certs",
-          "account": "nav_certs",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-xeogy92298766.csv",
-          "text": ""
-        },
-        {
-          "source": "X",
-          "project": "nav_certs",
-          "account": "nav_certs",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-19",
-          "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
-          "text": "\"NAV token and ERC-721 certs where idle balances decay and art reflects wallet state.\""
-        }
-      ],
-      "text": " nav_certs nav_certs  nav_certs nav_certs  nav_certs nav_certs \"NAV token and ERC-721 certs where idle balances decay and art reflects wallet state.\"",
       "score": 5,
       "avatarUrl": ""
     },
@@ -15231,57 +15891,6 @@
         }
       ],
       "text": " uglyguysNFT uglyguysNFT abstract NFT on Ethereum uglyguysNFT uglyguysNFT \"Ugly Guys NFT project on Ethereum.\" uglyguysNFT uglyguysNFT \"Abstract NFT collection on Ethereum.\"",
-      "score": 5,
-      "avatarUrl": ""
-    },
-    {
-      "project": "useflashpoint",
-      "account": "useflashpoint",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "bearzverse",
-        "xeogy92298766"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "bearzverse",
-        "xeogy92298766"
-      ],
-      "mentions": 3,
-      "firstSeen": "2026-06-17",
-      "lastSeen": "2026-06-19",
-      "rows": [
-        {
-          "source": "X",
-          "project": "useflashpoint",
-          "account": "useflashpoint",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-17",
-          "messageId": "2026-06-17-x-partial-xeogy92298766.csv",
-          "text": ""
-        },
-        {
-          "source": "X",
-          "project": "useflashpoint",
-          "account": "useflashpoint",
-          "alpha": "bearzverse",
-          "seenAt": "2026-06-19",
-          "messageId": "2026-06-19-x-partial-bearzverse.csv",
-          "text": "\"Real-time edge for crypto markets.\""
-        },
-        {
-          "source": "X",
-          "project": "useflashpoint",
-          "account": "useflashpoint",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-19",
-          "messageId": "2026-06-19-x-partial-xeogy92298766.csv",
-          "text": "\"Real-time edge for crypto markets.\""
-        }
-      ],
-      "text": " useflashpoint useflashpoint  useflashpoint useflashpoint \"Real-time edge for crypto markets.\" useflashpoint useflashpoint \"Real-time edge for crypto markets.\"",
       "score": 5,
       "avatarUrl": ""
     },
@@ -15818,50 +16427,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Elisym Labs",
-      "account": "elisymlabs",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "NotVanGogh88",
-        "发誓要做永赚大师"
-      ],
-      "tgAlphas": [
-        "发誓要做永赚大师"
-      ],
-      "xAlphas": [
-        "NotVanGogh88"
-      ],
-      "mentions": 2,
-      "firstSeen": "2026-06-19",
-      "lastSeen": "2026-06-19T05:03:04+00:00",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Elisym Labs",
-          "account": "elisymlabs",
-          "alpha": "发誓要做永赚大师",
-          "seenAt": "2026-06-19T05:03:04+00:00",
-          "messageId": "tg-8488",
-          "text": "Open Execution Market for AI Agents infrastructure for humans and AI agents"
-        },
-        {
-          "source": "X",
-          "project": "elisymlabs",
-          "account": "elisymlabs",
-          "alpha": "NotVanGogh88",
-          "seenAt": "2026-06-19",
-          "messageId": "2026-06-19-x-partial-NotVanGogh88.csv",
-          "text": "\"Infrastructure for humans and AI agents.\""
-        }
-      ],
-      "text": " Elisym Labs elisymlabs Open Execution Market for AI Agents infrastructure for humans and AI agents elisymlabs elisymlabs \"Infrastructure for humans and AI agents.\"",
-      "score": 4,
-      "avatarUrl": ""
-    },
-    {
       "project": "EliteGacha",
       "account": "EliteGacha",
       "sources": [
@@ -15900,6 +16465,48 @@
         }
       ],
       "text": " EliteGacha EliteGacha  EliteGacha EliteGacha ",
+      "score": 4,
+      "avatarUrl": ""
+    },
+    {
+      "project": "falkordb",
+      "account": "falkordb",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "NotVanGogh88",
+        "xeogy92298766"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "NotVanGogh88",
+        "xeogy92298766"
+      ],
+      "mentions": 2,
+      "firstSeen": "2026-06-19",
+      "lastSeen": "2026-06-20",
+      "rows": [
+        {
+          "source": "X",
+          "project": "falkordb",
+          "account": "falkordb",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-19",
+          "messageId": "2026-06-19-x-partial-NotVanGogh88.csv",
+          "text": "\"Graph database powering generative AI.\""
+        },
+        {
+          "source": "X",
+          "project": "falkordb",
+          "account": "falkordb",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-xeogy92298766.csv",
+          "text": "\"Open-source graph database powering generative AI.\""
+        }
+      ],
+      "text": " falkordb falkordb \"Graph database powering generative AI.\" falkordb falkordb \"Open-source graph database powering generative AI.\"",
       "score": 4,
       "avatarUrl": ""
     },
@@ -17093,11 +17700,11 @@
   "daily": [
     {
       "date": "2026-06-20",
-      "totalRows": 122,
-      "projectCount": 72,
+      "totalRows": 152,
+      "projectCount": 92,
       "crossSource": 4,
-      "newCount": 30,
-      "repeatCount": 42,
+      "newCount": 36,
+      "repeatCount": 56,
       "projects": [
         {
           "project": "FeatherFi",
@@ -17264,6 +17871,60 @@
           "score": 6,
           "avatarUrl": "",
           "dayStatus": "new"
+        },
+        {
+          "project": "world_xyz",
+          "account": "world_xyz",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "bearzverse",
+            "ibraxbt",
+            "xeogy92298766"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "bearzverse",
+            "ibraxbt",
+            "xeogy92298766"
+          ],
+          "mentions": 3,
+          "firstSeen": "2026-06-20",
+          "lastSeen": "2026-06-20",
+          "rows": [
+            {
+              "source": "X",
+              "project": "world_xyz",
+              "account": "world_xyz",
+              "alpha": "bearzverse",
+              "seenAt": "2026-06-20",
+              "messageId": "2026-06-20-x-partial-bearzverse.csv",
+              "text": "\"Coming soon early project account.\""
+            },
+            {
+              "source": "X",
+              "project": "world_xyz",
+              "account": "world_xyz",
+              "alpha": "ibraxbt",
+              "seenAt": "2026-06-20",
+              "messageId": "2026-06-20-x-partial-ibraxbt.csv",
+              "text": "\"Coming soon early project account.\""
+            },
+            {
+              "source": "X",
+              "project": "world_xyz",
+              "account": "world_xyz",
+              "alpha": "xeogy92298766",
+              "seenAt": "2026-06-20",
+              "messageId": "2026-06-20-x-partial-xeogy92298766.csv",
+              "text": "\"Coming soon early project account.\""
+            }
+          ],
+          "text": " world_xyz world_xyz \"Coming soon early project account.\" world_xyz world_xyz \"Coming soon early project account.\" world_xyz world_xyz \"Coming soon early project account.\"",
+          "score": 6,
+          "avatarUrl": "",
+          "dayStatus": "repeat"
         },
         {
           "project": "copefun",
@@ -17440,6 +18101,49 @@
           "dayStatus": "repeat"
         },
         {
+          "project": "Heistedxyz",
+          "account": "Heistedxyz",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "bearzverse",
+            "xeogy92298766"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "bearzverse",
+            "xeogy92298766"
+          ],
+          "mentions": 2,
+          "firstSeen": "2026-06-20",
+          "lastSeen": "2026-06-20",
+          "rows": [
+            {
+              "source": "X",
+              "project": "Heistedxyz",
+              "account": "Heistedxyz",
+              "alpha": "bearzverse",
+              "seenAt": "2026-06-20",
+              "messageId": "2026-06-20-x-partial-bearzverse.csv",
+              "text": "\"On-chain heist simulator.\""
+            },
+            {
+              "source": "X",
+              "project": "Heistedxyz",
+              "account": "Heistedxyz",
+              "alpha": "xeogy92298766",
+              "seenAt": "2026-06-20",
+              "messageId": "2026-06-20-x-partial-xeogy92298766.csv",
+              "text": "\"On-chain heist simulator.\""
+            }
+          ],
+          "text": " Heistedxyz Heistedxyz \"On-chain heist simulator.\" Heistedxyz Heistedxyz \"On-chain heist simulator.\"",
+          "score": 4,
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
           "project": "PolicyPool",
           "account": "PolicyPoolHQ",
           "sources": [
@@ -17609,6 +18313,49 @@
           "text": " redotools redotools \"Multiplatform on Ethereum coming soon.\" redotools redotools \"Multiplatform on Ethereum coming soon.\"",
           "score": 4,
           "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Robindogenft",
+          "account": "Robindogenft",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "nlgcf69515952",
+            "xeogy92298766"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "nlgcf69515952",
+            "xeogy92298766"
+          ],
+          "mentions": 2,
+          "firstSeen": "2026-06-20",
+          "lastSeen": "2026-06-20",
+          "rows": [
+            {
+              "source": "X",
+              "project": "Robindogenft",
+              "account": "Robindogenft",
+              "alpha": "nlgcf69515952",
+              "seenAt": "2026-06-20",
+              "messageId": "2026-06-20-x-partial-nlgcf69515952.csv",
+              "text": "\"First NFT collection and on-chain market built on Robinhood Chain.\""
+            },
+            {
+              "source": "X",
+              "project": "Robindogenft",
+              "account": "Robindogenft",
+              "alpha": "xeogy92298766",
+              "seenAt": "2026-06-20",
+              "messageId": "2026-06-20-x-partial-xeogy92298766.csv",
+              "text": "\"First NFT collection and on-chain market built on Robinhood Chain.\""
+            }
+          ],
+          "text": " Robindogenft Robindogenft \"First NFT collection and on-chain market built on Robinhood Chain.\" Robindogenft Robindogenft \"First NFT collection and on-chain market built on Robinhood Chain.\"",
+          "score": 4,
+          "avatarUrl": "https://unavatar.io/twitter/Robindogenft",
           "dayStatus": "repeat"
         },
         {
@@ -17915,49 +18662,6 @@
           "dayStatus": "repeat"
         },
         {
-          "project": "world_xyz",
-          "account": "world_xyz",
-          "sources": [
-            "X"
-          ],
-          "alphas": [
-            "bearzverse",
-            "ibraxbt"
-          ],
-          "tgAlphas": [],
-          "xAlphas": [
-            "bearzverse",
-            "ibraxbt"
-          ],
-          "mentions": 2,
-          "firstSeen": "2026-06-20",
-          "lastSeen": "2026-06-20",
-          "rows": [
-            {
-              "source": "X",
-              "project": "world_xyz",
-              "account": "world_xyz",
-              "alpha": "bearzverse",
-              "seenAt": "2026-06-20",
-              "messageId": "2026-06-20-x-partial-bearzverse.csv",
-              "text": "\"Coming soon early project account.\""
-            },
-            {
-              "source": "X",
-              "project": "world_xyz",
-              "account": "world_xyz",
-              "alpha": "ibraxbt",
-              "seenAt": "2026-06-20",
-              "messageId": "2026-06-20-x-partial-ibraxbt.csv",
-              "text": "\"Coming soon early project account.\""
-            }
-          ],
-          "text": " world_xyz world_xyz \"Coming soon early project account.\" world_xyz world_xyz \"Coming soon early project account.\"",
-          "score": 4,
-          "avatarUrl": "",
-          "dayStatus": "repeat"
-        },
-        {
           "project": "agenomy",
           "account": "agenomylayer",
           "sources": [
@@ -17988,6 +18692,102 @@
           "score": 2,
           "avatarUrl": "",
           "dayStatus": "new"
+        },
+        {
+          "project": "AlkanexApp",
+          "account": "AlkanexApp",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "NotVanGogh88"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "NotVanGogh88"
+          ],
+          "mentions": 1,
+          "firstSeen": "2026-06-20",
+          "lastSeen": "2026-06-20",
+          "rows": [
+            {
+              "source": "X",
+              "project": "AlkanexApp",
+              "account": "AlkanexApp",
+              "alpha": "NotVanGogh88",
+              "seenAt": "2026-06-20",
+              "messageId": "2026-06-20-x-partial-NotVanGogh88.csv",
+              "text": "\"Tools for Alkanes to make Bitcoin L1 DeFi accessible.\""
+            }
+          ],
+          "text": " AlkanexApp AlkanexApp \"Tools for Alkanes to make Bitcoin L1 DeFi accessible.\"",
+          "score": 2,
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "aoagents",
+          "account": "aoagents",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "NotVanGogh88"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "NotVanGogh88"
+          ],
+          "mentions": 1,
+          "firstSeen": "2026-06-20",
+          "lastSeen": "2026-06-20",
+          "rows": [
+            {
+              "source": "X",
+              "project": "aoagents",
+              "account": "aoagents",
+              "alpha": "NotVanGogh88",
+              "seenAt": "2026-06-20",
+              "messageId": "2026-06-20-x-partial-NotVanGogh88.csv",
+              "text": "\"Agent IDE and meta harness for orchestrating parallel coding agents.\""
+            }
+          ],
+          "text": " aoagents aoagents \"Agent IDE and meta harness for orchestrating parallel coding agents.\"",
+          "score": 2,
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Ask_CarpeDiem",
+          "account": "Ask_CarpeDiem",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "xeogy92298766"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "xeogy92298766"
+          ],
+          "mentions": 1,
+          "firstSeen": "2026-06-20",
+          "lastSeen": "2026-06-20",
+          "rows": [
+            {
+              "source": "X",
+              "project": "Ask_CarpeDiem",
+              "account": "Ask_CarpeDiem",
+              "alpha": "xeogy92298766",
+              "seenAt": "2026-06-20",
+              "messageId": "2026-06-20-x-partial-xeogy92298766.csv",
+              "text": "\"Decentralized market for DIEM inference quota"
+            }
+          ],
+          "text": " Ask_CarpeDiem Ask_CarpeDiem \"Decentralized market for DIEM inference quota",
+          "score": 2,
+          "avatarUrl": "",
+          "dayStatus": "repeat"
         },
         {
           "project": "AstroKid_Flap",
@@ -18118,6 +18918,70 @@
           "dayStatus": "repeat"
         },
         {
+          "project": "Capminal",
+          "account": "Capminal",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "xeogy92298766"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "xeogy92298766"
+          ],
+          "mentions": 1,
+          "firstSeen": "2026-06-20",
+          "lastSeen": "2026-06-20",
+          "rows": [
+            {
+              "source": "X",
+              "project": "Capminal",
+              "account": "Capminal",
+              "alpha": "xeogy92298766",
+              "seenAt": "2026-06-20",
+              "messageId": "2026-06-20-x-partial-xeogy92298766.csv",
+              "text": "\"AI terminal with perpetual AI compute"
+            }
+          ],
+          "text": " Capminal Capminal \"AI terminal with perpetual AI compute",
+          "score": 2,
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Cell_v4",
+          "account": "Cell_v4",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "xeogy92298766"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "xeogy92298766"
+          ],
+          "mentions": 1,
+          "firstSeen": "2026-06-20",
+          "lastSeen": "2026-06-20",
+          "rows": [
+            {
+              "source": "X",
+              "project": "Cell_v4",
+              "account": "Cell_v4",
+              "alpha": "xeogy92298766",
+              "seenAt": "2026-06-20",
+              "messageId": "2026-06-20-x-partial-xeogy92298766.csv",
+              "text": "\"CARN-20 carnivorous token that earns ETH and eats nearby holders.\""
+            }
+          ],
+          "text": " Cell_v4 Cell_v4 \"CARN-20 carnivorous token that earns ETH and eats nearby holders.\"",
+          "score": 2,
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
           "project": "ChronyxStudios",
           "account": "ChronyxStudios",
           "sources": [
@@ -18148,6 +19012,38 @@
           "score": 2,
           "avatarUrl": "",
           "dayStatus": "repeat"
+        },
+        {
+          "project": "clashofperps",
+          "account": "clashofperps",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "NotVanGogh88"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "NotVanGogh88"
+          ],
+          "mentions": 1,
+          "firstSeen": "2026-06-20",
+          "lastSeen": "2026-06-20",
+          "rows": [
+            {
+              "source": "X",
+              "project": "clashofperps",
+              "account": "clashofperps",
+              "alpha": "NotVanGogh88",
+              "seenAt": "2026-06-20",
+              "messageId": "2026-06-20-x-partial-NotVanGogh88.csv",
+              "text": "\"Gamified perp DEX frontend integrated with 8 perp DEXes.\""
+            }
+          ],
+          "text": " clashofperps clashofperps \"Gamified perp DEX frontend integrated with 8 perp DEXes.\"",
+          "score": 2,
+          "avatarUrl": "",
+          "dayStatus": "new"
         },
         {
           "project": "CLAW3D",
@@ -18214,6 +19110,38 @@
           "dayStatus": "new"
         },
         {
+          "project": "DackieSwap",
+          "account": "DackieSwap",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "xeogy92298766"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "xeogy92298766"
+          ],
+          "mentions": 1,
+          "firstSeen": "2026-06-20",
+          "lastSeen": "2026-06-20",
+          "rows": [
+            {
+              "source": "X",
+              "project": "DackieSwap",
+              "account": "DackieSwap",
+              "alpha": "xeogy92298766",
+              "seenAt": "2026-06-20",
+              "messageId": "2026-06-20-x-partial-xeogy92298766.csv",
+              "text": "\"Meta-aggregator DEX for better DeFi swap execution.\""
+            }
+          ],
+          "text": " DackieSwap DackieSwap \"Meta-aggregator DEX for better DeFi swap execution.\"",
+          "score": 2,
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
           "project": "DegenFCdotfun",
           "account": "DegenFCdotfun",
           "sources": [
@@ -18278,6 +19206,38 @@
           "dayStatus": "repeat"
         },
         {
+          "project": "echonv4",
+          "account": "echonv4",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "xeogy92298766"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "xeogy92298766"
+          ],
+          "mentions": 1,
+          "firstSeen": "2026-06-20",
+          "lastSeen": "2026-06-20",
+          "rows": [
+            {
+              "source": "X",
+              "project": "echonv4",
+              "account": "echonv4",
+              "alpha": "xeogy92298766",
+              "seenAt": "2026-06-20",
+              "messageId": "2026-06-20-x-partial-xeogy92298766.csv",
+              "text": "\"ECHO on Uniswap v4. Buy reflect reset restart; every swap leaves a trace.\""
+            }
+          ],
+          "text": " echonv4 echonv4 \"ECHO on Uniswap v4. Buy reflect reset restart; every swap leaves a trace.\"",
+          "score": 2,
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
           "project": "egglingshl",
           "account": "egglingshl",
           "sources": [
@@ -18305,326 +19265,6 @@
             }
           ],
           "text": " egglingshl egglingshl \"111 supply stealth free mint on Ethereum.\"",
-          "score": 2,
-          "avatarUrl": "",
-          "dayStatus": "repeat"
-        },
-        {
-          "project": "engmiHQ",
-          "account": "engmiHQ",
-          "sources": [
-            "X"
-          ],
-          "alphas": [
-            "alphafries"
-          ],
-          "tgAlphas": [],
-          "xAlphas": [
-            "alphafries"
-          ],
-          "mentions": 1,
-          "firstSeen": "2026-06-20",
-          "lastSeen": "2026-06-20",
-          "rows": [
-            {
-              "source": "X",
-              "project": "engmiHQ",
-              "account": "engmiHQ",
-              "alpha": "alphafries",
-              "seenAt": "2026-06-20",
-              "messageId": "2026-06-20-x-partial-alphafries.csv",
-              "text": "\"10000 pre-rugged Pepe NGMI NFT/meme project.\""
-            }
-          ],
-          "text": " engmiHQ engmiHQ \"10000 pre-rugged Pepe NGMI NFT/meme project.\"",
-          "score": 2,
-          "avatarUrl": "",
-          "dayStatus": "new"
-        },
-        {
-          "project": "GoPokeAgent",
-          "account": "GoPokeAgent",
-          "sources": [
-            "X"
-          ],
-          "alphas": [
-            "bearzverse"
-          ],
-          "tgAlphas": [],
-          "xAlphas": [
-            "bearzverse"
-          ],
-          "mentions": 1,
-          "firstSeen": "2026-06-20",
-          "lastSeen": "2026-06-20",
-          "rows": [
-            {
-              "source": "X",
-              "project": "GoPokeAgent",
-              "account": "GoPokeAgent",
-              "alpha": "bearzverse",
-              "seenAt": "2026-06-20",
-              "messageId": "2026-06-20-x-partial-bearzverse.csv",
-              "text": "\"Autonomous on-chain monster trainer on Solana.\""
-            }
-          ],
-          "text": " GoPokeAgent GoPokeAgent \"Autonomous on-chain monster trainer on Solana.\"",
-          "score": 2,
-          "avatarUrl": "",
-          "dayStatus": "repeat"
-        },
-        {
-          "project": "hashrocklol",
-          "account": "hashrocklol",
-          "sources": [
-            "X"
-          ],
-          "alphas": [
-            "bearzverse"
-          ],
-          "tgAlphas": [],
-          "xAlphas": [
-            "bearzverse"
-          ],
-          "mentions": 1,
-          "firstSeen": "2026-06-20",
-          "lastSeen": "2026-06-20",
-          "rows": [
-            {
-              "source": "X",
-              "project": "hashrocklol",
-              "account": "hashrocklol",
-              "alpha": "bearzverse",
-              "seenAt": "2026-06-20",
-              "messageId": "2026-06-20-x-partial-bearzverse.csv",
-              "text": "\"Top-down mine-to-earn token game on Solana with in-game tokens backed 1:1 by on-chain tokens.\""
-            }
-          ],
-          "text": " hashrocklol hashrocklol \"Top-down mine-to-earn token game on Solana with in-game tokens backed 1:1 by on-chain tokens.\"",
-          "score": 2,
-          "avatarUrl": "",
-          "dayStatus": "new"
-        },
-        {
-          "project": "Heistedxyz",
-          "account": "Heistedxyz",
-          "sources": [
-            "X"
-          ],
-          "alphas": [
-            "bearzverse"
-          ],
-          "tgAlphas": [],
-          "xAlphas": [
-            "bearzverse"
-          ],
-          "mentions": 1,
-          "firstSeen": "2026-06-20",
-          "lastSeen": "2026-06-20",
-          "rows": [
-            {
-              "source": "X",
-              "project": "Heistedxyz",
-              "account": "Heistedxyz",
-              "alpha": "bearzverse",
-              "seenAt": "2026-06-20",
-              "messageId": "2026-06-20-x-partial-bearzverse.csv",
-              "text": "\"On-chain heist simulator.\""
-            }
-          ],
-          "text": " Heistedxyz Heistedxyz \"On-chain heist simulator.\"",
-          "score": 2,
-          "avatarUrl": "",
-          "dayStatus": "repeat"
-        },
-        {
-          "project": "HiveERC",
-          "account": "HiveERC",
-          "sources": [
-            "X"
-          ],
-          "alphas": [
-            "alphafries"
-          ],
-          "tgAlphas": [],
-          "xAlphas": [
-            "alphafries"
-          ],
-          "mentions": 1,
-          "firstSeen": "2026-06-20",
-          "lastSeen": "2026-06-20",
-          "rows": [
-            {
-              "source": "X",
-              "project": "HiveERC",
-              "account": "HiveERC",
-              "alpha": "alphafries",
-              "seenAt": "2026-06-20",
-              "messageId": "2026-06-20-x-partial-alphafries.csv",
-              "text": "\"Tokenized prediction index. Trade on Hive with the hive.\""
-            }
-          ],
-          "text": " HiveERC HiveERC \"Tokenized prediction index. Trade on Hive with the hive.\"",
-          "score": 2,
-          "avatarUrl": "",
-          "dayStatus": "new"
-        },
-        {
-          "project": "Hooknomics",
-          "account": "Hooknomics",
-          "sources": [
-            "X"
-          ],
-          "alphas": [
-            "ibraxbt"
-          ],
-          "tgAlphas": [],
-          "xAlphas": [
-            "ibraxbt"
-          ],
-          "mentions": 1,
-          "firstSeen": "2026-06-20",
-          "lastSeen": "2026-06-20",
-          "rows": [
-            {
-              "source": "X",
-              "project": "Hooknomics",
-              "account": "Hooknomics",
-              "alpha": "ibraxbt",
-              "seenAt": "2026-06-20",
-              "messageId": "2026-06-20-x-partial-ibraxbt.csv",
-              "text": "\"Tokenomics 2.0 project.\""
-            }
-          ],
-          "text": " Hooknomics Hooknomics \"Tokenomics 2.0 project.\"",
-          "score": 2,
-          "avatarUrl": "",
-          "dayStatus": "repeat"
-        },
-        {
-          "project": "horsefun_sol",
-          "account": "horsefun_sol",
-          "sources": [
-            "X"
-          ],
-          "alphas": [
-            "bearzverse"
-          ],
-          "tgAlphas": [],
-          "xAlphas": [
-            "bearzverse"
-          ],
-          "mentions": 1,
-          "firstSeen": "2026-06-20",
-          "lastSeen": "2026-06-20",
-          "rows": [
-            {
-              "source": "X",
-              "project": "horsefun_sol",
-              "account": "horsefun_sol",
-              "alpha": "bearzverse",
-              "seenAt": "2026-06-20",
-              "messageId": "2026-06-20-x-partial-bearzverse.csv",
-              "text": "\"Provably fair horse racing protocol on Solana. Pari-mutuel and verifiable on-chain.\""
-            }
-          ],
-          "text": " horsefun_sol horsefun_sol \"Provably fair horse racing protocol on Solana. Pari-mutuel and verifiable on-chain.\"",
-          "score": 2,
-          "avatarUrl": "",
-          "dayStatus": "repeat"
-        },
-        {
-          "project": "Inception_Data",
-          "account": "Inception_Data",
-          "sources": [
-            "X"
-          ],
-          "alphas": [
-            "bearzverse"
-          ],
-          "tgAlphas": [],
-          "xAlphas": [
-            "bearzverse"
-          ],
-          "mentions": 1,
-          "firstSeen": "2026-06-20",
-          "lastSeen": "2026-06-20",
-          "rows": [
-            {
-              "source": "X",
-              "project": "Inception_Data",
-              "account": "Inception_Data",
-              "alpha": "bearzverse",
-              "seenAt": "2026-06-20",
-              "messageId": "2026-06-20-x-partial-bearzverse.csv",
-              "text": "\"Data bounties for AI models agents and robotics companies. No token.\""
-            }
-          ],
-          "text": " Inception_Data Inception_Data \"Data bounties for AI models agents and robotics companies. No token.\"",
-          "score": 2,
-          "avatarUrl": "",
-          "dayStatus": "repeat"
-        },
-        {
-          "project": "Infectv4",
-          "account": "Infectv4",
-          "sources": [
-            "X"
-          ],
-          "alphas": [
-            "alphafries"
-          ],
-          "tgAlphas": [],
-          "xAlphas": [
-            "alphafries"
-          ],
-          "mentions": 1,
-          "firstSeen": "2026-06-20",
-          "lastSeen": "2026-06-20",
-          "rows": [
-            {
-              "source": "X",
-              "project": "Infectv4",
-              "account": "Infectv4",
-              "alpha": "alphafries",
-              "seenAt": "2026-06-20",
-              "messageId": "2026-06-20-x-partial-alphafries.csv",
-              "text": "\"Ethereum v4 infection mechanic project that profits from infected wallets.\""
-            }
-          ],
-          "text": " Infectv4 Infectv4 \"Ethereum v4 infection mechanic project that profits from infected wallets.\"",
-          "score": 2,
-          "avatarUrl": "",
-          "dayStatus": "repeat"
-        },
-        {
-          "project": "koragamepx",
-          "account": "koragamepx",
-          "sources": [
-            "X"
-          ],
-          "alphas": [
-            "bearzverse"
-          ],
-          "tgAlphas": [],
-          "xAlphas": [
-            "bearzverse"
-          ],
-          "mentions": 1,
-          "firstSeen": "2026-06-20",
-          "lastSeen": "2026-06-20",
-          "rows": [
-            {
-              "source": "X",
-              "project": "koragamepx",
-              "account": "koragamepx",
-              "alpha": "bearzverse",
-              "seenAt": "2026-06-20",
-              "messageId": "2026-06-20-x-partial-bearzverse.csv",
-              "text": "\"Seasonal pixel MMO on Solana. Collect"
-            }
-          ],
-          "text": " koragamepx koragamepx \"Seasonal pixel MMO on Solana. Collect",
           "score": 2,
           "avatarUrl": "",
           "dayStatus": "repeat"
@@ -24184,7 +24824,7 @@
     {
       "file": "last-update-error.log",
       "title": "last-update-error.log",
-      "updatedAt": "2026-06-20T08:14:19.513Z"
+      "updatedAt": "2026-06-20T08:24:19.380Z"
     },
     {
       "file": "2026-06-17-1930-monitor.md",
