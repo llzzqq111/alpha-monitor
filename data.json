@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-21T12:11:44.268Z",
+  "generatedAt": "2026-06-21T13:58:27.553Z",
   "totals": {
     "telegramRows": 144,
-    "xRows": 814,
-    "projects": 211,
+    "xRows": 963,
+    "projects": 212,
     "crossSource": 39
   },
   "projects": [
@@ -6541,6 +6541,46 @@
       "avatarUrl": "https://unavatar.io/twitter/clashofperps"
     },
     {
+      "project": "CoinlatorPF",
+      "account": "CoinlatorPF",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "NotVanGogh88"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "NotVanGogh88"
+      ],
+      "mentions": 2,
+      "firstSeen": "2026-06-20",
+      "lastSeen": "2026-06-21",
+      "rows": [
+        {
+          "source": "X",
+          "project": "CoinlatorPF",
+          "account": "CoinlatorPF",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-NotVanGogh88.csv",
+          "text": "\"Fee-funded max leverage long deployment memecoin powered by Percolator updates.\""
+        },
+        {
+          "source": "X",
+          "project": "CoinlatorPF",
+          "account": "CoinlatorPF",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-21",
+          "messageId": "2026-06-21-x-partial-NotVanGogh88.csv",
+          "text": "\"Fee-funded max leverage long memecoin deployer powered by percolator updates.\""
+        }
+      ],
+      "text": " CoinlatorPF CoinlatorPF \"Fee-funded max leverage long deployment memecoin powered by Percolator updates.\" CoinlatorPF CoinlatorPF \"Fee-funded max leverage long memecoin deployer powered by percolator updates.\"",
+      "score": 3,
+      "avatarUrl": "https://unavatar.io/twitter/CoinlatorPF"
+    },
+    {
       "project": "Ducat",
       "account": "Ducatstable",
       "sources": [
@@ -6701,7 +6741,7 @@
       ],
       "text": " Eulr_Official Eulr_Official \"Precision launch protocol on X Layer for on-chain token creation.\" Eulr_Official Eulr_Official \"Precision launch protocol on X Layer for on-chain token creation.\"",
       "score": 3,
-      "avatarUrl": ""
+      "avatarUrl": "https://unavatar.io/twitter/Eulr_Official"
     },
     {
       "project": "floatrouter",
@@ -18141,7 +18181,7 @@
   "daily": [
     {
       "date": "2026-06-21",
-      "totalRows": 25,
+      "totalRows": 174,
       "projectCount": 13,
       "crossSource": 0,
       "newCount": 9,
@@ -25702,7 +25742,7 @@
     {
       "file": "last-update-error.log",
       "title": "last-update-error.log",
-      "updatedAt": "2026-06-20T17:58:19.105Z"
+      "updatedAt": "2026-06-21T13:58:27.413Z"
     },
     {
       "file": "2026-06-17-1930-monitor.md",
