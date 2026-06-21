@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T13:58:27.553Z",
+  "generatedAt": "2026-06-21T17:58:27.684Z",
   "totals": {
     "telegramRows": 144,
     "xRows": 963,
@@ -18180,6 +18180,15 @@
   ],
   "daily": [
     {
+      "date": "2026-06-22",
+      "totalRows": 0,
+      "projectCount": 0,
+      "crossSource": 0,
+      "newCount": 0,
+      "repeatCount": 0,
+      "projects": []
+    },
+    {
       "date": "2026-06-21",
       "totalRows": 174,
       "projectCount": 13,
@@ -25742,7 +25751,7 @@
     {
       "file": "last-update-error.log",
       "title": "last-update-error.log",
-      "updatedAt": "2026-06-21T13:58:27.413Z"
+      "updatedAt": "2026-06-21T17:58:27.539Z"
     },
     {
       "file": "2026-06-17-1930-monitor.md",
