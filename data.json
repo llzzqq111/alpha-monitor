@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-20T20:43:12.826Z",
+  "generatedAt": "2026-06-21T12:11:44.268Z",
   "totals": {
-    "telegramRows": 133,
-    "xRows": 800,
-    "projects": 200,
+    "telegramRows": 144,
+    "xRows": 814,
+    "projects": 211,
     "crossSource": 39
   },
   "projects": [
@@ -1121,6 +1121,88 @@
       "avatarUrl": "https://unavatar.io/twitter/mondeto"
     },
     {
+      "project": "world_xyz",
+      "account": "world_xyz",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "NotVanGogh88",
+        "bearzverse",
+        "ibraxbt",
+        "xeogy92298766"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "NotVanGogh88",
+        "bearzverse",
+        "ibraxbt",
+        "xeogy92298766"
+      ],
+      "mentions": 6,
+      "firstSeen": "2026-06-19",
+      "lastSeen": "2026-06-21",
+      "rows": [
+        {
+          "source": "X",
+          "project": "world_xyz",
+          "account": "world_xyz",
+          "alpha": "bearzverse",
+          "seenAt": "2026-06-19",
+          "messageId": "2026-06-19-x-partial-bearzverse.csv",
+          "text": "\"Coming soon early project account.\""
+        },
+        {
+          "source": "X",
+          "project": "world_xyz",
+          "account": "world_xyz",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-19",
+          "messageId": "2026-06-19-x-partial-ibraxbt.csv",
+          "text": "\"Coming soon early project account.\""
+        },
+        {
+          "source": "X",
+          "project": "world_xyz",
+          "account": "world_xyz",
+          "alpha": "bearzverse",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-bearzverse.csv",
+          "text": "\"Coming soon early project account.\""
+        },
+        {
+          "source": "X",
+          "project": "world_xyz",
+          "account": "world_xyz",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-ibraxbt.csv",
+          "text": "\"Coming soon early project account.\""
+        },
+        {
+          "source": "X",
+          "project": "world_xyz",
+          "account": "world_xyz",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-xeogy92298766.csv",
+          "text": "\"Coming soon early project account.\""
+        },
+        {
+          "source": "X",
+          "project": "world_xyz",
+          "account": "world_xyz",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-21",
+          "messageId": "2026-06-21-x-partial-NotVanGogh88.csv",
+          "text": "\"Coming soon early project account.\""
+        }
+      ],
+      "text": " world_xyz world_xyz \"Coming soon early project account.\" world_xyz world_xyz \"Coming soon early project account.\" world_xyz world_xyz \"Coming soon early project account.\" world_xyz world_xyz \"Coming soon early project account.\" world_xyz world_xyz \"Coming soon early project account.\" world_xyz world_xyz \"Coming soon early project account.\"",
+      "score": 10,
+      "avatarUrl": "https://unavatar.io/twitter/world_xyz"
+    },
+    {
       "project": "mmorpg_fun",
       "account": "mmorpg_fun",
       "sources": [
@@ -1549,77 +1631,6 @@
       "text": " SatcoinHQ SatcoinHQ  SatcoinHQ SatcoinHQ  SatcoinHQ SatcoinHQ Solana 上由代理操作的挖矿 SatcoinHQ SatcoinHQ \"Agent-operated mining on Solana.\" SatcoinHQ SatcoinHQ \"Agent-operated mining on Solana.\"",
       "score": 8,
       "avatarUrl": "https://unavatar.io/twitter/SatcoinHQ"
-    },
-    {
-      "project": "world_xyz",
-      "account": "world_xyz",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "bearzverse",
-        "ibraxbt",
-        "xeogy92298766"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "bearzverse",
-        "ibraxbt",
-        "xeogy92298766"
-      ],
-      "mentions": 5,
-      "firstSeen": "2026-06-19",
-      "lastSeen": "2026-06-20",
-      "rows": [
-        {
-          "source": "X",
-          "project": "world_xyz",
-          "account": "world_xyz",
-          "alpha": "bearzverse",
-          "seenAt": "2026-06-19",
-          "messageId": "2026-06-19-x-partial-bearzverse.csv",
-          "text": "\"Coming soon early project account.\""
-        },
-        {
-          "source": "X",
-          "project": "world_xyz",
-          "account": "world_xyz",
-          "alpha": "ibraxbt",
-          "seenAt": "2026-06-19",
-          "messageId": "2026-06-19-x-partial-ibraxbt.csv",
-          "text": "\"Coming soon early project account.\""
-        },
-        {
-          "source": "X",
-          "project": "world_xyz",
-          "account": "world_xyz",
-          "alpha": "bearzverse",
-          "seenAt": "2026-06-20",
-          "messageId": "2026-06-20-x-partial-bearzverse.csv",
-          "text": "\"Coming soon early project account.\""
-        },
-        {
-          "source": "X",
-          "project": "world_xyz",
-          "account": "world_xyz",
-          "alpha": "ibraxbt",
-          "seenAt": "2026-06-20",
-          "messageId": "2026-06-20-x-partial-ibraxbt.csv",
-          "text": "\"Coming soon early project account.\""
-        },
-        {
-          "source": "X",
-          "project": "world_xyz",
-          "account": "world_xyz",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-20",
-          "messageId": "2026-06-20-x-partial-xeogy92298766.csv",
-          "text": "\"Coming soon early project account.\""
-        }
-      ],
-      "text": " world_xyz world_xyz \"Coming soon early project account.\" world_xyz world_xyz \"Coming soon early project account.\" world_xyz world_xyz \"Coming soon early project account.\" world_xyz world_xyz \"Coming soon early project account.\" world_xyz world_xyz \"Coming soon early project account.\"",
-      "score": 8,
-      "avatarUrl": "https://unavatar.io/twitter/world_xyz"
     },
     {
       "project": "ACK",
@@ -3357,6 +3368,59 @@
       "text": " secure_rob secure_rob  secure_rob secure_rob  secure_rob secure_rob ",
       "score": 6,
       "avatarUrl": "https://unavatar.io/twitter/secure_rob"
+    },
+    {
+      "project": "Sheerwood_",
+      "account": "Sheerwood_",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "NotVanGogh88",
+        "alphafries",
+        "ibraxbt"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "NotVanGogh88",
+        "alphafries",
+        "ibraxbt"
+      ],
+      "mentions": 3,
+      "firstSeen": "2026-06-20",
+      "lastSeen": "2026-06-21",
+      "rows": [
+        {
+          "source": "X",
+          "project": "Sheerwood_",
+          "account": "Sheerwood_",
+          "alpha": "alphafries",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-alphafries.csv",
+          "text": "\"Bonding curve token launcher on Robinhood L2. No token.\""
+        },
+        {
+          "source": "X",
+          "project": "Sheerwood_",
+          "account": "Sheerwood_",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-ibraxbt.csv",
+          "text": "\"Bonding curve token launcher on Robinhood L2. No token.\""
+        },
+        {
+          "source": "X",
+          "project": "Sheerwood_",
+          "account": "Sheerwood_",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-21",
+          "messageId": "2026-06-21-x-partial-NotVanGogh88.csv",
+          "text": "\"Bonding curve token launcher on Robinhood L2. No token.\""
+        }
+      ],
+      "text": " Sheerwood_ Sheerwood_ \"Bonding curve token launcher on Robinhood L2. No token.\" Sheerwood_ Sheerwood_ \"Bonding curve token launcher on Robinhood L2. No token.\" Sheerwood_ Sheerwood_ \"Bonding curve token launcher on Robinhood L2. No token.\"",
+      "score": 6,
+      "avatarUrl": "https://unavatar.io/twitter/Sheerwood_"
     },
     {
       "project": "Takeover Bot",
@@ -5172,6 +5236,48 @@
       "avatarUrl": "https://unavatar.io/twitter/Dollz_nft"
     },
     {
+      "project": "DOTT",
+      "account": "growdottv4",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "小雨倾城",
+        "新手"
+      ],
+      "tgAlphas": [
+        "小雨倾城",
+        "新手"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-06-21T06:41:00+00:00",
+      "lastSeen": "2026-06-21T11:24:00+00:00",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "DOTT",
+          "account": "growdottv4",
+          "alpha": "小雨倾城",
+          "seenAt": "2026-06-21T06:41:00+00:00",
+          "messageId": "tg-8751",
+          "text": "\"Grow your DOTT on v4. Wallet-based v4 project.\""
+        },
+        {
+          "source": "TG",
+          "project": "DOTT",
+          "account": "growdottv4",
+          "alpha": "新手",
+          "seenAt": "2026-06-21T11:24:00+00:00",
+          "messageId": "tg-8759",
+          "text": "\"Grow your DOTT on v4 with contract shown.\""
+        }
+      ],
+      "text": " DOTT growdottv4 \"Grow your DOTT on v4. Wallet-based v4 project.\" DOTT growdottv4 \"Grow your DOTT on v4 with contract shown.\"",
+      "score": 4,
+      "avatarUrl": "https://unavatar.io/twitter/growdottv4"
+    },
+    {
       "project": "EliteGacha",
       "account": "EliteGacha",
       "sources": [
@@ -5936,48 +6042,6 @@
       "avatarUrl": "https://unavatar.io/twitter/RYex_finance"
     },
     {
-      "project": "Sheerwood_",
-      "account": "Sheerwood_",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "alphafries",
-        "ibraxbt"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "alphafries",
-        "ibraxbt"
-      ],
-      "mentions": 2,
-      "firstSeen": "2026-06-20",
-      "lastSeen": "2026-06-20",
-      "rows": [
-        {
-          "source": "X",
-          "project": "Sheerwood_",
-          "account": "Sheerwood_",
-          "alpha": "alphafries",
-          "seenAt": "2026-06-20",
-          "messageId": "2026-06-20-x-partial-alphafries.csv",
-          "text": "\"Bonding curve token launcher on Robinhood L2. No token.\""
-        },
-        {
-          "source": "X",
-          "project": "Sheerwood_",
-          "account": "Sheerwood_",
-          "alpha": "ibraxbt",
-          "seenAt": "2026-06-20",
-          "messageId": "2026-06-20-x-partial-ibraxbt.csv",
-          "text": "\"Bonding curve token launcher on Robinhood L2. No token.\""
-        }
-      ],
-      "text": " Sheerwood_ Sheerwood_ \"Bonding curve token launcher on Robinhood L2. No token.\" Sheerwood_ Sheerwood_ \"Bonding curve token launcher on Robinhood L2. No token.\"",
-      "score": 4,
-      "avatarUrl": "https://unavatar.io/twitter/Sheerwood_"
-    },
-    {
       "project": "Shield Suite",
       "account": "ShieldSuite_",
       "sources": [
@@ -6274,6 +6338,46 @@
       "avatarUrl": "https://unavatar.io/twitter/zero3xyz"
     },
     {
+      "project": "aoagents",
+      "account": "aoagents",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "NotVanGogh88"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "NotVanGogh88"
+      ],
+      "mentions": 2,
+      "firstSeen": "2026-06-20",
+      "lastSeen": "2026-06-21",
+      "rows": [
+        {
+          "source": "X",
+          "project": "aoagents",
+          "account": "aoagents",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-NotVanGogh88.csv",
+          "text": "\"Agent IDE and meta harness for orchestrating parallel coding agents.\""
+        },
+        {
+          "source": "X",
+          "project": "aoagents",
+          "account": "aoagents",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-21",
+          "messageId": "2026-06-21-x-partial-NotVanGogh88.csv",
+          "text": "\"Agent IDE and meta harness for orchestrating parallel coding agents.\""
+        }
+      ],
+      "text": " aoagents aoagents \"Agent IDE and meta harness for orchestrating parallel coding agents.\" aoagents aoagents \"Agent IDE and meta harness for orchestrating parallel coding agents.\"",
+      "score": 3,
+      "avatarUrl": "https://unavatar.io/twitter/aoagents"
+    },
+    {
       "project": "app_gotcha",
       "account": "app_gotcha",
       "sources": [
@@ -6397,6 +6501,46 @@
       "avatarUrl": "https://unavatar.io/twitter/Bitsies_NFT"
     },
     {
+      "project": "clashofperps",
+      "account": "clashofperps",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "NotVanGogh88"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "NotVanGogh88"
+      ],
+      "mentions": 2,
+      "firstSeen": "2026-06-20",
+      "lastSeen": "2026-06-21",
+      "rows": [
+        {
+          "source": "X",
+          "project": "clashofperps",
+          "account": "clashofperps",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-NotVanGogh88.csv",
+          "text": "\"Gamified perp DEX frontend integrated with 8 perp DEXes.\""
+        },
+        {
+          "source": "X",
+          "project": "clashofperps",
+          "account": "clashofperps",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-21",
+          "messageId": "2026-06-21-x-partial-NotVanGogh88.csv",
+          "text": "\"Gamified perp DEX frontend integrated with 8 perp DEXes.\""
+        }
+      ],
+      "text": " clashofperps clashofperps \"Gamified perp DEX frontend integrated with 8 perp DEXes.\" clashofperps clashofperps \"Gamified perp DEX frontend integrated with 8 perp DEXes.\"",
+      "score": 3,
+      "avatarUrl": "https://unavatar.io/twitter/clashofperps"
+    },
+    {
       "project": "Ducat",
       "account": "Ducatstable",
       "sources": [
@@ -6518,6 +6662,86 @@
       "text": " egglingshl egglingshl \"Stealth free mint on Ethereum.\" egglingshl egglingshl \"111 supply stealth free mint on Ethereum.\"",
       "score": 3,
       "avatarUrl": "https://unavatar.io/twitter/egglingshl"
+    },
+    {
+      "project": "Eulr_Official",
+      "account": "Eulr_Official",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "NotVanGogh88"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "NotVanGogh88"
+      ],
+      "mentions": 2,
+      "firstSeen": "2026-06-20",
+      "lastSeen": "2026-06-21",
+      "rows": [
+        {
+          "source": "X",
+          "project": "Eulr_Official",
+          "account": "Eulr_Official",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-NotVanGogh88.csv",
+          "text": "\"Precision launch protocol on X Layer for on-chain token creation.\""
+        },
+        {
+          "source": "X",
+          "project": "Eulr_Official",
+          "account": "Eulr_Official",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-21",
+          "messageId": "2026-06-21-x-partial-NotVanGogh88.csv",
+          "text": "\"Precision launch protocol on X Layer for on-chain token creation.\""
+        }
+      ],
+      "text": " Eulr_Official Eulr_Official \"Precision launch protocol on X Layer for on-chain token creation.\" Eulr_Official Eulr_Official \"Precision launch protocol on X Layer for on-chain token creation.\"",
+      "score": 3,
+      "avatarUrl": ""
+    },
+    {
+      "project": "floatrouter",
+      "account": "floatrouter",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "NotVanGogh88"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "NotVanGogh88"
+      ],
+      "mentions": 2,
+      "firstSeen": "2026-06-20",
+      "lastSeen": "2026-06-21",
+      "rows": [
+        {
+          "source": "X",
+          "project": "floatrouter",
+          "account": "floatrouter",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-NotVanGogh88.csv",
+          "text": "\"Capital efficiency layer for Arc-native apps and agents.\""
+        },
+        {
+          "source": "X",
+          "project": "floatrouter",
+          "account": "floatrouter",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-21",
+          "messageId": "2026-06-21-x-partial-NotVanGogh88.csv",
+          "text": "\"Capital efficiency layer for Arc-native apps and agents.\""
+        }
+      ],
+      "text": " floatrouter floatrouter \"Capital efficiency layer for Arc-native apps and agents.\" floatrouter floatrouter \"Capital efficiency layer for Arc-native apps and agents.\"",
+      "score": 3,
+      "avatarUrl": "https://unavatar.io/twitter/floatrouter"
     },
     {
       "project": "GoPokeAgent",
@@ -6761,6 +6985,46 @@
       "text": " MRCYsupply MRCYsupply \"Liquid metal mined on HyperEVM.\" MRCYsupply MRCYsupply \"Liquid metal mined on HyperEVM.\"",
       "score": 3,
       "avatarUrl": "https://unavatar.io/twitter/MRCYsupply"
+    },
+    {
+      "project": "orynthnews",
+      "account": "orynthnews",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "NotVanGogh88"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "NotVanGogh88"
+      ],
+      "mentions": 2,
+      "firstSeen": "2026-06-20",
+      "lastSeen": "2026-06-21",
+      "rows": [
+        {
+          "source": "X",
+          "project": "orynthnews",
+          "account": "orynthnews",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-NotVanGogh88.csv",
+          "text": "\"Orynth news account.\""
+        },
+        {
+          "source": "X",
+          "project": "orynthnews",
+          "account": "orynthnews",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-21",
+          "messageId": "2026-06-21-x-partial-NotVanGogh88.csv",
+          "text": "\"Orynth news account.\""
+        }
+      ],
+      "text": " orynthnews orynthnews \"Orynth news account.\" orynthnews orynthnews \"Orynth news account.\"",
+      "score": 3,
+      "avatarUrl": ""
     },
     {
       "project": "PathmonSOL",
@@ -7327,8 +7591,8 @@
       "avatarUrl": "https://unavatar.io/twitter/AlkanexApp"
     },
     {
-      "project": "aoagents",
-      "account": "aoagents",
+      "project": "autonom_games",
+      "account": "autonom_games",
       "sources": [
         "X"
       ],
@@ -7340,22 +7604,22 @@
         "NotVanGogh88"
       ],
       "mentions": 1,
-      "firstSeen": "2026-06-20",
-      "lastSeen": "2026-06-20",
+      "firstSeen": "2026-06-21",
+      "lastSeen": "2026-06-21",
       "rows": [
         {
           "source": "X",
-          "project": "aoagents",
-          "account": "aoagents",
+          "project": "autonom_games",
+          "account": "autonom_games",
           "alpha": "NotVanGogh88",
-          "seenAt": "2026-06-20",
-          "messageId": "2026-06-20-x-partial-NotVanGogh88.csv",
-          "text": "\"Agent IDE and meta harness for orchestrating parallel coding agents.\""
+          "seenAt": "2026-06-21",
+          "messageId": "2026-06-21-x-partial-NotVanGogh88.csv",
+          "text": "\"Independent game studio created by Dota Agents.\""
         }
       ],
-      "text": " aoagents aoagents \"Agent IDE and meta harness for orchestrating parallel coding agents.\"",
+      "text": " autonom_games autonom_games \"Independent game studio created by Dota Agents.\"",
       "score": 2,
-      "avatarUrl": "https://unavatar.io/twitter/aoagents"
+      "avatarUrl": "https://unavatar.io/twitter/autonom_games"
     },
     {
       "project": "AutoPayProtocol",
@@ -7606,6 +7870,37 @@
       "avatarUrl": "https://unavatar.io/twitter/blackpointxyz"
     },
     {
+      "project": "Blocks",
+      "account": "blockscash",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "黑客fa1r"
+      ],
+      "tgAlphas": [
+        "黑客fa1r"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-06-21T10:43:00+00:00",
+      "lastSeen": "2026-06-21T10:43:00+00:00",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Blocks",
+          "account": "blockscash",
+          "alpha": "黑客fa1r",
+          "seenAt": "2026-06-21T10:43:00+00:00",
+          "messageId": "tg-8758",
+          "text": "\"Infrastructure for token launches and on-chain reward distribution.\""
+        }
+      ],
+      "text": " Blocks blockscash \"Infrastructure for token launches and on-chain reward distribution.\"",
+      "score": 2,
+      "avatarUrl": "https://unavatar.io/twitter/blockscash"
+    },
+    {
       "project": "bloxwarsfun",
       "account": "bloxwarsfun",
       "sources": [
@@ -7728,37 +8023,6 @@
       "text": " ClanWorldGame ClanWorldGame ",
       "score": 2,
       "avatarUrl": "https://unavatar.io/twitter/ClanWorldGame"
-    },
-    {
-      "project": "clashofperps",
-      "account": "clashofperps",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "NotVanGogh88"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "NotVanGogh88"
-      ],
-      "mentions": 1,
-      "firstSeen": "2026-06-20",
-      "lastSeen": "2026-06-20",
-      "rows": [
-        {
-          "source": "X",
-          "project": "clashofperps",
-          "account": "clashofperps",
-          "alpha": "NotVanGogh88",
-          "seenAt": "2026-06-20",
-          "messageId": "2026-06-20-x-partial-NotVanGogh88.csv",
-          "text": "\"Gamified perp DEX frontend integrated with 8 perp DEXes.\""
-        }
-      ],
-      "text": " clashofperps clashofperps \"Gamified perp DEX frontend integrated with 8 perp DEXes.\"",
-      "score": 2,
-      "avatarUrl": "https://unavatar.io/twitter/clashofperps"
     },
     {
       "project": "CLAW3D",
@@ -8071,37 +8335,6 @@
       "avatarUrl": "https://unavatar.io/twitter/featherrobotics"
     },
     {
-      "project": "floatrouter",
-      "account": "floatrouter",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "NotVanGogh88"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "NotVanGogh88"
-      ],
-      "mentions": 1,
-      "firstSeen": "2026-06-20",
-      "lastSeen": "2026-06-20",
-      "rows": [
-        {
-          "source": "X",
-          "project": "floatrouter",
-          "account": "floatrouter",
-          "alpha": "NotVanGogh88",
-          "seenAt": "2026-06-20",
-          "messageId": "2026-06-20-x-partial-NotVanGogh88.csv",
-          "text": "\"Capital efficiency layer for Arc-native apps and agents.\""
-        }
-      ],
-      "text": " floatrouter floatrouter \"Capital efficiency layer for Arc-native apps and agents.\"",
-      "score": 2,
-      "avatarUrl": "https://unavatar.io/twitter/floatrouter"
-    },
-    {
       "project": "Frag_Growth",
       "account": "Frag_Growth",
       "sources": [
@@ -8162,6 +8395,37 @@
       "text": " giga_dex giga_dex ",
       "score": 2,
       "avatarUrl": "https://unavatar.io/twitter/giga_dex"
+    },
+    {
+      "project": "Gram Store",
+      "account": "GramStoreApp",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "AlphaFries"
+      ],
+      "tgAlphas": [
+        "AlphaFries"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-06-21T04:03:00+00:00",
+      "lastSeen": "2026-06-21T04:03:00+00:00",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Gram Store",
+          "account": "GramStoreApp",
+          "alpha": "AlphaFries",
+          "seenAt": "2026-06-21T04:03:00+00:00",
+          "messageId": "tg-8742",
+          "text": "\"Launchpad for Telegram Mini Apps where builders get funded.\""
+        }
+      ],
+      "text": " Gram Store GramStoreApp \"Launchpad for Telegram Mini Apps where builders get funded.\"",
+      "score": 2,
+      "avatarUrl": "https://unavatar.io/twitter/GramStoreApp"
     },
     {
       "project": "gravehook",
@@ -8536,6 +8800,37 @@
       "avatarUrl": "https://unavatar.io/twitter/OrbiesProtocol"
     },
     {
+      "project": "PaintWars",
+      "account": "PaintWarspf",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse"
+      ],
+      "tgAlphas": [
+        "BearzVerse"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-06-21T04:10:00+00:00",
+      "lastSeen": "2026-06-21T04:10:00+00:00",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "PaintWars",
+          "account": "PaintWarspf",
+          "alpha": "BearzVerse",
+          "seenAt": "2026-06-21T04:10:00+00:00",
+          "messageId": "tg-8749",
+          "text": "\"Real-time pixel art battle on Solana.\""
+        }
+      ],
+      "text": " PaintWars PaintWarspf \"Real-time pixel art battle on Solana.\"",
+      "score": 2,
+      "avatarUrl": "https://unavatar.io/twitter/PaintWarspf"
+    },
+    {
       "project": "PebblPet",
       "account": "PebblPet",
       "sources": [
@@ -8658,6 +8953,37 @@
       "text": " Perpsdotfun Perpsdotfun ",
       "score": 2,
       "avatarUrl": "https://unavatar.io/twitter/Perpsdotfun"
+    },
+    {
+      "project": "pic2cells",
+      "account": "pic2cells",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "NotVanGogh88"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "NotVanGogh88"
+      ],
+      "mentions": 1,
+      "firstSeen": "2026-06-21",
+      "lastSeen": "2026-06-21",
+      "rows": [
+        {
+          "source": "X",
+          "project": "pic2cells",
+          "account": "pic2cells",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-21",
+          "messageId": "2026-06-21-x-partial-NotVanGogh88.csv",
+          "text": "\"Cells NFT collection launching June 22 on OpenSea.\""
+        }
+      ],
+      "text": " pic2cells pic2cells \"Cells NFT collection launching June 22 on OpenSea.\"",
+      "score": 2,
+      "avatarUrl": "https://unavatar.io/twitter/pic2cells"
     },
     {
       "project": "pikkazonft",
@@ -9063,6 +9389,68 @@
       "avatarUrl": "https://unavatar.io/twitter/StarbaseBNB"
     },
     {
+      "project": "Tachyo_ai",
+      "account": "Tachyo_ai",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "NotVanGogh88"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "NotVanGogh88"
+      ],
+      "mentions": 1,
+      "firstSeen": "2026-06-21",
+      "lastSeen": "2026-06-21",
+      "rows": [
+        {
+          "source": "X",
+          "project": "Tachyo_ai",
+          "account": "Tachyo_ai",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-21",
+          "messageId": "2026-06-21-x-partial-NotVanGogh88.csv",
+          "text": "\"Machine learning engine indexing wallets to identify profitable wallets before they buy.\""
+        }
+      ],
+      "text": " Tachyo_ai Tachyo_ai \"Machine learning engine indexing wallets to identify profitable wallets before they buy.\"",
+      "score": 2,
+      "avatarUrl": "https://unavatar.io/twitter/Tachyo_ai"
+    },
+    {
+      "project": "TheMegaEye",
+      "account": "TheMegaEye",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "NotVanGogh88"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "NotVanGogh88"
+      ],
+      "mentions": 1,
+      "firstSeen": "2026-06-21",
+      "lastSeen": "2026-06-21",
+      "rows": [
+        {
+          "source": "X",
+          "project": "TheMegaEye",
+          "account": "TheMegaEye",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-21",
+          "messageId": "2026-06-21-x-partial-NotVanGogh88.csv",
+          "text": "\"Finds ICM tokens seconds after launch and sends alerts. Contract shown.\""
+        }
+      ],
+      "text": " TheMegaEye TheMegaEye \"Finds ICM tokens seconds after launch and sends alerts. Contract shown.\"",
+      "score": 2,
+      "avatarUrl": "https://unavatar.io/twitter/TheMegaEye"
+    },
+    {
       "project": "themeowbrix",
       "account": "themeowbrix",
       "sources": [
@@ -9092,6 +9480,37 @@
       "text": " themeowbrix themeowbrix \"2222 cat/brick NFT project coming to Ethereum.\"",
       "score": 2,
       "avatarUrl": "https://unavatar.io/twitter/themeowbrix"
+    },
+    {
+      "project": "trix_mrkt",
+      "account": "trix_mrkt",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "NotVanGogh88"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "NotVanGogh88"
+      ],
+      "mentions": 1,
+      "firstSeen": "2026-06-21",
+      "lastSeen": "2026-06-21",
+      "rows": [
+        {
+          "source": "X",
+          "project": "trix_mrkt",
+          "account": "trix_mrkt",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-21",
+          "messageId": "2026-06-21-x-partial-NotVanGogh88.csv",
+          "text": "\"New Solana token deployer.\""
+        }
+      ],
+      "text": " trix_mrkt trix_mrkt \"New Solana token deployer.\"",
+      "score": 2,
+      "avatarUrl": "https://unavatar.io/twitter/trix_mrkt"
     },
     {
       "project": "urugemu",
@@ -12836,6 +13255,88 @@
       "avatarUrl": "https://unavatar.io/twitter/mondeto"
     },
     {
+      "project": "world_xyz",
+      "account": "world_xyz",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "NotVanGogh88",
+        "bearzverse",
+        "ibraxbt",
+        "xeogy92298766"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "NotVanGogh88",
+        "bearzverse",
+        "ibraxbt",
+        "xeogy92298766"
+      ],
+      "mentions": 6,
+      "firstSeen": "2026-06-19",
+      "lastSeen": "2026-06-21",
+      "rows": [
+        {
+          "source": "X",
+          "project": "world_xyz",
+          "account": "world_xyz",
+          "alpha": "bearzverse",
+          "seenAt": "2026-06-19",
+          "messageId": "2026-06-19-x-partial-bearzverse.csv",
+          "text": "\"Coming soon early project account.\""
+        },
+        {
+          "source": "X",
+          "project": "world_xyz",
+          "account": "world_xyz",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-19",
+          "messageId": "2026-06-19-x-partial-ibraxbt.csv",
+          "text": "\"Coming soon early project account.\""
+        },
+        {
+          "source": "X",
+          "project": "world_xyz",
+          "account": "world_xyz",
+          "alpha": "bearzverse",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-bearzverse.csv",
+          "text": "\"Coming soon early project account.\""
+        },
+        {
+          "source": "X",
+          "project": "world_xyz",
+          "account": "world_xyz",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-ibraxbt.csv",
+          "text": "\"Coming soon early project account.\""
+        },
+        {
+          "source": "X",
+          "project": "world_xyz",
+          "account": "world_xyz",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-xeogy92298766.csv",
+          "text": "\"Coming soon early project account.\""
+        },
+        {
+          "source": "X",
+          "project": "world_xyz",
+          "account": "world_xyz",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-21",
+          "messageId": "2026-06-21-x-partial-NotVanGogh88.csv",
+          "text": "\"Coming soon early project account.\""
+        }
+      ],
+      "text": " world_xyz world_xyz \"Coming soon early project account.\" world_xyz world_xyz \"Coming soon early project account.\" world_xyz world_xyz \"Coming soon early project account.\" world_xyz world_xyz \"Coming soon early project account.\" world_xyz world_xyz \"Coming soon early project account.\" world_xyz world_xyz \"Coming soon early project account.\"",
+      "score": 10,
+      "avatarUrl": "https://unavatar.io/twitter/world_xyz"
+    },
+    {
       "project": "mmorpg_fun",
       "account": "mmorpg_fun",
       "sources": [
@@ -13264,77 +13765,6 @@
       "text": " SatcoinHQ SatcoinHQ  SatcoinHQ SatcoinHQ  SatcoinHQ SatcoinHQ Solana 上由代理操作的挖矿 SatcoinHQ SatcoinHQ \"Agent-operated mining on Solana.\" SatcoinHQ SatcoinHQ \"Agent-operated mining on Solana.\"",
       "score": 8,
       "avatarUrl": "https://unavatar.io/twitter/SatcoinHQ"
-    },
-    {
-      "project": "world_xyz",
-      "account": "world_xyz",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "bearzverse",
-        "ibraxbt",
-        "xeogy92298766"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "bearzverse",
-        "ibraxbt",
-        "xeogy92298766"
-      ],
-      "mentions": 5,
-      "firstSeen": "2026-06-19",
-      "lastSeen": "2026-06-20",
-      "rows": [
-        {
-          "source": "X",
-          "project": "world_xyz",
-          "account": "world_xyz",
-          "alpha": "bearzverse",
-          "seenAt": "2026-06-19",
-          "messageId": "2026-06-19-x-partial-bearzverse.csv",
-          "text": "\"Coming soon early project account.\""
-        },
-        {
-          "source": "X",
-          "project": "world_xyz",
-          "account": "world_xyz",
-          "alpha": "ibraxbt",
-          "seenAt": "2026-06-19",
-          "messageId": "2026-06-19-x-partial-ibraxbt.csv",
-          "text": "\"Coming soon early project account.\""
-        },
-        {
-          "source": "X",
-          "project": "world_xyz",
-          "account": "world_xyz",
-          "alpha": "bearzverse",
-          "seenAt": "2026-06-20",
-          "messageId": "2026-06-20-x-partial-bearzverse.csv",
-          "text": "\"Coming soon early project account.\""
-        },
-        {
-          "source": "X",
-          "project": "world_xyz",
-          "account": "world_xyz",
-          "alpha": "ibraxbt",
-          "seenAt": "2026-06-20",
-          "messageId": "2026-06-20-x-partial-ibraxbt.csv",
-          "text": "\"Coming soon early project account.\""
-        },
-        {
-          "source": "X",
-          "project": "world_xyz",
-          "account": "world_xyz",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-20",
-          "messageId": "2026-06-20-x-partial-xeogy92298766.csv",
-          "text": "\"Coming soon early project account.\""
-        }
-      ],
-      "text": " world_xyz world_xyz \"Coming soon early project account.\" world_xyz world_xyz \"Coming soon early project account.\" world_xyz world_xyz \"Coming soon early project account.\" world_xyz world_xyz \"Coming soon early project account.\" world_xyz world_xyz \"Coming soon early project account.\"",
-      "score": 8,
-      "avatarUrl": "https://unavatar.io/twitter/world_xyz"
     },
     {
       "project": "ACK",
@@ -14955,6 +15385,59 @@
       "text": " secure_rob secure_rob  secure_rob secure_rob  secure_rob secure_rob ",
       "score": 6,
       "avatarUrl": "https://unavatar.io/twitter/secure_rob"
+    },
+    {
+      "project": "Sheerwood_",
+      "account": "Sheerwood_",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "NotVanGogh88",
+        "alphafries",
+        "ibraxbt"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "NotVanGogh88",
+        "alphafries",
+        "ibraxbt"
+      ],
+      "mentions": 3,
+      "firstSeen": "2026-06-20",
+      "lastSeen": "2026-06-21",
+      "rows": [
+        {
+          "source": "X",
+          "project": "Sheerwood_",
+          "account": "Sheerwood_",
+          "alpha": "alphafries",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-alphafries.csv",
+          "text": "\"Bonding curve token launcher on Robinhood L2. No token.\""
+        },
+        {
+          "source": "X",
+          "project": "Sheerwood_",
+          "account": "Sheerwood_",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-20",
+          "messageId": "2026-06-20-x-partial-ibraxbt.csv",
+          "text": "\"Bonding curve token launcher on Robinhood L2. No token.\""
+        },
+        {
+          "source": "X",
+          "project": "Sheerwood_",
+          "account": "Sheerwood_",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-21",
+          "messageId": "2026-06-21-x-partial-NotVanGogh88.csv",
+          "text": "\"Bonding curve token launcher on Robinhood L2. No token.\""
+        }
+      ],
+      "text": " Sheerwood_ Sheerwood_ \"Bonding curve token launcher on Robinhood L2. No token.\" Sheerwood_ Sheerwood_ \"Bonding curve token launcher on Robinhood L2. No token.\" Sheerwood_ Sheerwood_ \"Bonding curve token launcher on Robinhood L2. No token.\"",
+      "score": 6,
+      "avatarUrl": "https://unavatar.io/twitter/Sheerwood_"
     },
     {
       "project": "Takeover Bot",
@@ -17149,48 +17632,6 @@
       "avatarUrl": "https://unavatar.io/twitter/RYex_finance"
     },
     {
-      "project": "Sheerwood_",
-      "account": "Sheerwood_",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "alphafries",
-        "ibraxbt"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "alphafries",
-        "ibraxbt"
-      ],
-      "mentions": 2,
-      "firstSeen": "2026-06-20",
-      "lastSeen": "2026-06-20",
-      "rows": [
-        {
-          "source": "X",
-          "project": "Sheerwood_",
-          "account": "Sheerwood_",
-          "alpha": "alphafries",
-          "seenAt": "2026-06-20",
-          "messageId": "2026-06-20-x-partial-alphafries.csv",
-          "text": "\"Bonding curve token launcher on Robinhood L2. No token.\""
-        },
-        {
-          "source": "X",
-          "project": "Sheerwood_",
-          "account": "Sheerwood_",
-          "alpha": "ibraxbt",
-          "seenAt": "2026-06-20",
-          "messageId": "2026-06-20-x-partial-ibraxbt.csv",
-          "text": "\"Bonding curve token launcher on Robinhood L2. No token.\""
-        }
-      ],
-      "text": " Sheerwood_ Sheerwood_ \"Bonding curve token launcher on Robinhood L2. No token.\" Sheerwood_ Sheerwood_ \"Bonding curve token launcher on Robinhood L2. No token.\"",
-      "score": 4,
-      "avatarUrl": "https://unavatar.io/twitter/Sheerwood_"
-    },
-    {
       "project": "termdotworks",
       "account": "termdotworks",
       "sources": [
@@ -17700,12 +18141,440 @@
   "daily": [
     {
       "date": "2026-06-21",
-      "totalRows": 0,
-      "projectCount": 0,
+      "totalRows": 25,
+      "projectCount": 13,
       "crossSource": 0,
-      "newCount": 0,
-      "repeatCount": 0,
-      "projects": []
+      "newCount": 9,
+      "repeatCount": 4,
+      "projects": [
+        {
+          "project": "DOTT",
+          "account": "growdottv4",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "小雨倾城",
+            "新手"
+          ],
+          "tgAlphas": [
+            "小雨倾城",
+            "新手"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-06-21T06:41:00+00:00",
+          "lastSeen": "2026-06-21T11:24:00+00:00",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "DOTT",
+              "account": "growdottv4",
+              "alpha": "小雨倾城",
+              "seenAt": "2026-06-21T06:41:00+00:00",
+              "messageId": "tg-8751",
+              "text": "\"Grow your DOTT on v4. Wallet-based v4 project.\""
+            },
+            {
+              "source": "TG",
+              "project": "DOTT",
+              "account": "growdottv4",
+              "alpha": "新手",
+              "seenAt": "2026-06-21T11:24:00+00:00",
+              "messageId": "tg-8759",
+              "text": "\"Grow your DOTT on v4 with contract shown.\""
+            }
+          ],
+          "text": " DOTT growdottv4 \"Grow your DOTT on v4. Wallet-based v4 project.\" DOTT growdottv4 \"Grow your DOTT on v4 with contract shown.\"",
+          "score": 4,
+          "avatarUrl": "https://unavatar.io/twitter/growdottv4",
+          "dayStatus": "new"
+        },
+        {
+          "project": "aoagents",
+          "account": "aoagents",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "NotVanGogh88"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "NotVanGogh88"
+          ],
+          "mentions": 1,
+          "firstSeen": "2026-06-21",
+          "lastSeen": "2026-06-21",
+          "rows": [
+            {
+              "source": "X",
+              "project": "aoagents",
+              "account": "aoagents",
+              "alpha": "NotVanGogh88",
+              "seenAt": "2026-06-21",
+              "messageId": "2026-06-21-x-partial-NotVanGogh88.csv",
+              "text": "\"Agent IDE and meta harness for orchestrating parallel coding agents.\""
+            }
+          ],
+          "text": " aoagents aoagents \"Agent IDE and meta harness for orchestrating parallel coding agents.\"",
+          "score": 2,
+          "avatarUrl": "https://unavatar.io/twitter/aoagents",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "autonom_games",
+          "account": "autonom_games",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "NotVanGogh88"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "NotVanGogh88"
+          ],
+          "mentions": 1,
+          "firstSeen": "2026-06-21",
+          "lastSeen": "2026-06-21",
+          "rows": [
+            {
+              "source": "X",
+              "project": "autonom_games",
+              "account": "autonom_games",
+              "alpha": "NotVanGogh88",
+              "seenAt": "2026-06-21",
+              "messageId": "2026-06-21-x-partial-NotVanGogh88.csv",
+              "text": "\"Independent game studio created by Dota Agents.\""
+            }
+          ],
+          "text": " autonom_games autonom_games \"Independent game studio created by Dota Agents.\"",
+          "score": 2,
+          "avatarUrl": "https://unavatar.io/twitter/autonom_games",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Blocks",
+          "account": "blockscash",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "黑客fa1r"
+          ],
+          "tgAlphas": [
+            "黑客fa1r"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-06-21T10:43:00+00:00",
+          "lastSeen": "2026-06-21T10:43:00+00:00",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Blocks",
+              "account": "blockscash",
+              "alpha": "黑客fa1r",
+              "seenAt": "2026-06-21T10:43:00+00:00",
+              "messageId": "tg-8758",
+              "text": "\"Infrastructure for token launches and on-chain reward distribution.\""
+            }
+          ],
+          "text": " Blocks blockscash \"Infrastructure for token launches and on-chain reward distribution.\"",
+          "score": 2,
+          "avatarUrl": "https://unavatar.io/twitter/blockscash",
+          "dayStatus": "new"
+        },
+        {
+          "project": "clashofperps",
+          "account": "clashofperps",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "NotVanGogh88"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "NotVanGogh88"
+          ],
+          "mentions": 1,
+          "firstSeen": "2026-06-21",
+          "lastSeen": "2026-06-21",
+          "rows": [
+            {
+              "source": "X",
+              "project": "clashofperps",
+              "account": "clashofperps",
+              "alpha": "NotVanGogh88",
+              "seenAt": "2026-06-21",
+              "messageId": "2026-06-21-x-partial-NotVanGogh88.csv",
+              "text": "\"Gamified perp DEX frontend integrated with 8 perp DEXes.\""
+            }
+          ],
+          "text": " clashofperps clashofperps \"Gamified perp DEX frontend integrated with 8 perp DEXes.\"",
+          "score": 2,
+          "avatarUrl": "https://unavatar.io/twitter/clashofperps",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "floatrouter",
+          "account": "floatrouter",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "NotVanGogh88"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "NotVanGogh88"
+          ],
+          "mentions": 1,
+          "firstSeen": "2026-06-21",
+          "lastSeen": "2026-06-21",
+          "rows": [
+            {
+              "source": "X",
+              "project": "floatrouter",
+              "account": "floatrouter",
+              "alpha": "NotVanGogh88",
+              "seenAt": "2026-06-21",
+              "messageId": "2026-06-21-x-partial-NotVanGogh88.csv",
+              "text": "\"Capital efficiency layer for Arc-native apps and agents.\""
+            }
+          ],
+          "text": " floatrouter floatrouter \"Capital efficiency layer for Arc-native apps and agents.\"",
+          "score": 2,
+          "avatarUrl": "https://unavatar.io/twitter/floatrouter",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Gram Store",
+          "account": "GramStoreApp",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "AlphaFries"
+          ],
+          "tgAlphas": [
+            "AlphaFries"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-06-21T04:03:00+00:00",
+          "lastSeen": "2026-06-21T04:03:00+00:00",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Gram Store",
+              "account": "GramStoreApp",
+              "alpha": "AlphaFries",
+              "seenAt": "2026-06-21T04:03:00+00:00",
+              "messageId": "tg-8742",
+              "text": "\"Launchpad for Telegram Mini Apps where builders get funded.\""
+            }
+          ],
+          "text": " Gram Store GramStoreApp \"Launchpad for Telegram Mini Apps where builders get funded.\"",
+          "score": 2,
+          "avatarUrl": "https://unavatar.io/twitter/GramStoreApp",
+          "dayStatus": "new"
+        },
+        {
+          "project": "PaintWars",
+          "account": "PaintWarspf",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BearzVerse"
+          ],
+          "tgAlphas": [
+            "BearzVerse"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-06-21T04:10:00+00:00",
+          "lastSeen": "2026-06-21T04:10:00+00:00",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "PaintWars",
+              "account": "PaintWarspf",
+              "alpha": "BearzVerse",
+              "seenAt": "2026-06-21T04:10:00+00:00",
+              "messageId": "tg-8749",
+              "text": "\"Real-time pixel art battle on Solana.\""
+            }
+          ],
+          "text": " PaintWars PaintWarspf \"Real-time pixel art battle on Solana.\"",
+          "score": 2,
+          "avatarUrl": "https://unavatar.io/twitter/PaintWarspf",
+          "dayStatus": "new"
+        },
+        {
+          "project": "pic2cells",
+          "account": "pic2cells",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "NotVanGogh88"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "NotVanGogh88"
+          ],
+          "mentions": 1,
+          "firstSeen": "2026-06-21",
+          "lastSeen": "2026-06-21",
+          "rows": [
+            {
+              "source": "X",
+              "project": "pic2cells",
+              "account": "pic2cells",
+              "alpha": "NotVanGogh88",
+              "seenAt": "2026-06-21",
+              "messageId": "2026-06-21-x-partial-NotVanGogh88.csv",
+              "text": "\"Cells NFT collection launching June 22 on OpenSea.\""
+            }
+          ],
+          "text": " pic2cells pic2cells \"Cells NFT collection launching June 22 on OpenSea.\"",
+          "score": 2,
+          "avatarUrl": "https://unavatar.io/twitter/pic2cells",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Sheerwood_",
+          "account": "Sheerwood_",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "NotVanGogh88"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "NotVanGogh88"
+          ],
+          "mentions": 1,
+          "firstSeen": "2026-06-21",
+          "lastSeen": "2026-06-21",
+          "rows": [
+            {
+              "source": "X",
+              "project": "Sheerwood_",
+              "account": "Sheerwood_",
+              "alpha": "NotVanGogh88",
+              "seenAt": "2026-06-21",
+              "messageId": "2026-06-21-x-partial-NotVanGogh88.csv",
+              "text": "\"Bonding curve token launcher on Robinhood L2. No token.\""
+            }
+          ],
+          "text": " Sheerwood_ Sheerwood_ \"Bonding curve token launcher on Robinhood L2. No token.\"",
+          "score": 2,
+          "avatarUrl": "https://unavatar.io/twitter/Sheerwood_",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Tachyo_ai",
+          "account": "Tachyo_ai",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "NotVanGogh88"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "NotVanGogh88"
+          ],
+          "mentions": 1,
+          "firstSeen": "2026-06-21",
+          "lastSeen": "2026-06-21",
+          "rows": [
+            {
+              "source": "X",
+              "project": "Tachyo_ai",
+              "account": "Tachyo_ai",
+              "alpha": "NotVanGogh88",
+              "seenAt": "2026-06-21",
+              "messageId": "2026-06-21-x-partial-NotVanGogh88.csv",
+              "text": "\"Machine learning engine indexing wallets to identify profitable wallets before they buy.\""
+            }
+          ],
+          "text": " Tachyo_ai Tachyo_ai \"Machine learning engine indexing wallets to identify profitable wallets before they buy.\"",
+          "score": 2,
+          "avatarUrl": "https://unavatar.io/twitter/Tachyo_ai",
+          "dayStatus": "new"
+        },
+        {
+          "project": "TheMegaEye",
+          "account": "TheMegaEye",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "NotVanGogh88"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "NotVanGogh88"
+          ],
+          "mentions": 1,
+          "firstSeen": "2026-06-21",
+          "lastSeen": "2026-06-21",
+          "rows": [
+            {
+              "source": "X",
+              "project": "TheMegaEye",
+              "account": "TheMegaEye",
+              "alpha": "NotVanGogh88",
+              "seenAt": "2026-06-21",
+              "messageId": "2026-06-21-x-partial-NotVanGogh88.csv",
+              "text": "\"Finds ICM tokens seconds after launch and sends alerts. Contract shown.\""
+            }
+          ],
+          "text": " TheMegaEye TheMegaEye \"Finds ICM tokens seconds after launch and sends alerts. Contract shown.\"",
+          "score": 2,
+          "avatarUrl": "https://unavatar.io/twitter/TheMegaEye",
+          "dayStatus": "new"
+        },
+        {
+          "project": "trix_mrkt",
+          "account": "trix_mrkt",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "NotVanGogh88"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "NotVanGogh88"
+          ],
+          "mentions": 1,
+          "firstSeen": "2026-06-21",
+          "lastSeen": "2026-06-21",
+          "rows": [
+            {
+              "source": "X",
+              "project": "trix_mrkt",
+              "account": "trix_mrkt",
+              "alpha": "NotVanGogh88",
+              "seenAt": "2026-06-21",
+              "messageId": "2026-06-21-x-partial-NotVanGogh88.csv",
+              "text": "\"New Solana token deployer.\""
+            }
+          ],
+          "text": " trix_mrkt trix_mrkt \"New Solana token deployer.\"",
+          "score": 2,
+          "avatarUrl": "https://unavatar.io/twitter/trix_mrkt",
+          "dayStatus": "new"
+        }
+      ]
     },
     {
       "date": "2026-06-20",
