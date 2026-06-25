@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-25T05:58:27.654Z",
+  "generatedAt": "2026-06-25T10:39:25.933Z",
   "totals": {
-    "telegramRows": 144,
-    "xRows": 963,
+    "telegramRows": 153,
+    "xRows": 1122,
     "projects": 212,
     "crossSource": 39
   },
@@ -18180,8 +18180,17 @@
   ],
   "daily": [
     {
+      "date": "unknown",
+      "totalRows": 9,
+      "projectCount": 0,
+      "crossSource": 0,
+      "newCount": 0,
+      "repeatCount": 0,
+      "projects": []
+    },
+    {
       "date": "2026-06-25",
-      "totalRows": 0,
+      "totalRows": 159,
       "projectCount": 0,
       "crossSource": 0,
       "newCount": 0,
