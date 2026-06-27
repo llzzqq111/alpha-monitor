@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-26T11:55:50.230Z",
+  "generatedAt": "2026-06-27T09:52:44.851Z",
   "totals": {
-    "telegramRows": 162,
+    "telegramRows": 172,
     "xRows": 1258,
-    "projects": 384,
-    "crossSource": 54
+    "projects": 390,
+    "crossSource": 57
   },
   "projects": [
     {
@@ -2983,6 +2983,62 @@
       "avatarUrl": "https://unavatar.io/twitter/flovia402"
     },
     {
+      "project": "Metal",
+      "account": "metalntwx",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "alphafries",
+        "ibraxbt",
+        "小雨倾城"
+      ],
+      "tgAlphas": [
+        "小雨倾城"
+      ],
+      "xAlphas": [
+        "alphafries",
+        "ibraxbt"
+      ],
+      "mentions": 3,
+      "firstSeen": "2026-06-26",
+      "lastSeen": "2026-06-27",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Metal",
+          "account": "metalntwx",
+          "alpha": "小雨倾城",
+          "seenAt": "2026-06-27",
+          "messageId": "https://x.com/metalntwx",
+          "text": "Settlement network for tokenized financial products"
+        },
+        {
+          "source": "X",
+          "project": "Metal",
+          "account": "metalntwx",
+          "alpha": "alphafries",
+          "seenAt": "2026-06-26",
+          "messageId": "2026-06-26-x-partial-alphafries.csv",
+          "text": "Settlement network for tokenized financial products"
+        },
+        {
+          "source": "X",
+          "project": "Metal",
+          "account": "metalntwx",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-26",
+          "messageId": "2026-06-26-x-partial-ibraxbt.csv",
+          "text": "Settlement network for tokenized financial products"
+        }
+      ],
+      "text": " Metal metalntwx Settlement network for tokenized financial products Metal metalntwx Settlement network for tokenized financial products Metal metalntwx Settlement network for tokenized financial products",
+      "score": 11,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/metalntwx"
+    },
+    {
       "project": "Mootopia",
       "account": "Mootopiafun",
       "sources": [
@@ -3448,6 +3504,60 @@
       "score": 10,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/elisymlabs"
+    },
+    {
+      "project": "PrivyPets",
+      "account": "privypets",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "alphafries",
+        "小雨倾城"
+      ],
+      "tgAlphas": [
+        "小雨倾城"
+      ],
+      "xAlphas": [
+        "alphafries"
+      ],
+      "mentions": 3,
+      "firstSeen": "2026-06-25",
+      "lastSeen": "2026-06-27",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "PrivyPets",
+          "account": "privypets",
+          "alpha": "小雨倾城",
+          "seenAt": "2026-06-27",
+          "messageId": "https://x.com/privypets",
+          "text": "Tradable pixel pets on Solana backed by PETS"
+        },
+        {
+          "source": "X",
+          "project": "PrivyPets",
+          "account": "privypets",
+          "alpha": "alphafries",
+          "seenAt": "2026-06-25",
+          "messageId": "2026-06-25-x-partial-alphafries.csv",
+          "text": "Tradable pixel pets on Solana powered by PETS"
+        },
+        {
+          "source": "X",
+          "project": "PrivyPets",
+          "account": "privypets",
+          "alpha": "alphafries",
+          "seenAt": "2026-06-26",
+          "messageId": "2026-06-26-x-partial-alphafries.csv",
+          "text": "Tradable pixel pets on Solana powered by PETS"
+        }
+      ],
+      "text": " PrivyPets privypets Tradable pixel pets on Solana backed by PETS PrivyPets privypets Tradable pixel pets on Solana powered by PETS PrivyPets privypets Tradable pixel pets on Solana powered by PETS",
+      "score": 10,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/privypets"
     },
     {
       "project": "shot2win",
@@ -4458,6 +4568,51 @@
       "score": 9,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/PaintWarspf"
+    },
+    {
+      "project": "Salune",
+      "account": "Salunexyz",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "bearzverse",
+        "小雨倾城"
+      ],
+      "tgAlphas": [
+        "小雨倾城"
+      ],
+      "xAlphas": [
+        "bearzverse"
+      ],
+      "mentions": 2,
+      "firstSeen": "2026-06-26",
+      "lastSeen": "2026-06-27",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Salune",
+          "account": "Salunexyz",
+          "alpha": "小雨倾城",
+          "seenAt": "2026-06-27",
+          "messageId": "https://x.com/Salunexyz",
+          "text": "Publication for tokenized cultural markets on Solana"
+        },
+        {
+          "source": "X",
+          "project": "Salune",
+          "account": "Salunexyz",
+          "alpha": "bearzverse",
+          "seenAt": "2026-06-26",
+          "messageId": "2026-06-26-x-partial-bearzverse.csv",
+          "text": "Publication for tokenized cultural markets on Solana"
+        }
+      ],
+      "text": " Salune Salunexyz Publication for tokenized cultural markets on Solana Salune Salunexyz Publication for tokenized cultural markets on Solana",
+      "score": 9,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/Salunexyz"
     },
     {
       "project": "Senthos",
@@ -9487,49 +9642,6 @@
       "avatarUrl": "https://unavatar.io/twitter/Hooksensor"
     },
     {
-      "project": "Metal",
-      "account": "metalntwx",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "alphafries",
-        "ibraxbt"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "alphafries",
-        "ibraxbt"
-      ],
-      "mentions": 2,
-      "firstSeen": "2026-06-26",
-      "lastSeen": "2026-06-26",
-      "rows": [
-        {
-          "source": "X",
-          "project": "Metal",
-          "account": "metalntwx",
-          "alpha": "alphafries",
-          "seenAt": "2026-06-26",
-          "messageId": "2026-06-26-x-partial-alphafries.csv",
-          "text": "Settlement network for tokenized financial products"
-        },
-        {
-          "source": "X",
-          "project": "Metal",
-          "account": "metalntwx",
-          "alpha": "ibraxbt",
-          "seenAt": "2026-06-26",
-          "messageId": "2026-06-26-x-partial-ibraxbt.csv",
-          "text": "Settlement network for tokenized financial products"
-        }
-      ],
-      "text": " Metal metalntwx Settlement network for tokenized financial products Metal metalntwx Settlement network for tokenized financial products",
-      "score": 4,
-      "displayTier": "focus",
-      "avatarUrl": "https://unavatar.io/twitter/metalntwx"
-    },
-    {
       "project": "Noxa_Fi",
       "account": "Noxa_Fi",
       "sources": [
@@ -12975,47 +13087,6 @@
       "avatarUrl": "https://unavatar.io/twitter/0xprivacypools"
     },
     {
-      "project": "PrivyPets",
-      "account": "privypets",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "alphafries"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "alphafries"
-      ],
-      "mentions": 2,
-      "firstSeen": "2026-06-25",
-      "lastSeen": "2026-06-26",
-      "rows": [
-        {
-          "source": "X",
-          "project": "PrivyPets",
-          "account": "privypets",
-          "alpha": "alphafries",
-          "seenAt": "2026-06-25",
-          "messageId": "2026-06-25-x-partial-alphafries.csv",
-          "text": "Tradable pixel pets on Solana powered by PETS"
-        },
-        {
-          "source": "X",
-          "project": "PrivyPets",
-          "account": "privypets",
-          "alpha": "alphafries",
-          "seenAt": "2026-06-26",
-          "messageId": "2026-06-26-x-partial-alphafries.csv",
-          "text": "Tradable pixel pets on Solana powered by PETS"
-        }
-      ],
-      "text": " PrivyPets privypets Tradable pixel pets on Solana powered by PETS PrivyPets privypets Tradable pixel pets on Solana powered by PETS",
-      "score": 3,
-      "displayTier": "focus",
-      "avatarUrl": "https://unavatar.io/twitter/privypets"
-    },
-    {
       "project": "Project Pathfinder",
       "account": "ProjPathfinder1",
       "sources": [
@@ -14745,6 +14816,38 @@
       "avatarUrl": "https://unavatar.io/twitter/Bridle_Layer"
     },
     {
+      "project": "BTCBruce1",
+      "account": "BTCBruce1",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "_0xzhang"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "_0xzhang"
+      ],
+      "mentions": 1,
+      "firstSeen": "2026-06-18",
+      "lastSeen": "2026-06-18",
+      "rows": [
+        {
+          "source": "X",
+          "project": "BTCBruce1",
+          "account": "BTCBruce1",
+          "alpha": "_0xzhang",
+          "seenAt": "2026-06-18",
+          "messageId": "2026-06-18-x-partial-_0xzhang.csv",
+          "text": "Bitcoin miner"
+        }
+      ],
+      "text": " BTCBruce1 BTCBruce1 Bitcoin miner",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Buildr Systems",
       "account": "BuildrSystems",
       "sources": [
@@ -15385,6 +15488,38 @@
       "avatarUrl": "https://unavatar.io/twitter/DivigentAI"
     },
     {
+      "project": "DMT-BIT",
+      "account": "dmt_bit_",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BTC alpha"
+      ],
+      "tgAlphas": [
+        "BTC alpha"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-06-27",
+      "lastSeen": "2026-06-27",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "DMT-BIT",
+          "account": "dmt_bit_",
+          "alpha": "BTC alpha",
+          "seenAt": "2026-06-27",
+          "messageId": "https://x.com/dmt_bit_",
+          "text": "Decentralized security budget layer for Bitcoin"
+        }
+      ],
+      "text": " DMT-BIT dmt_bit_ Decentralized security budget layer for Bitcoin",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/dmt_bit_"
+    },
+    {
       "project": "Dropcast",
       "account": "DropcastBNB",
       "sources": [
@@ -15673,6 +15808,38 @@
       "avatarUrl": "https://unavatar.io/twitter/featherrobotics"
     },
     {
+      "project": "Fission",
+      "account": "FissionDotFun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "speest"
+      ],
+      "tgAlphas": [
+        "speest"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-06-27",
+      "lastSeen": "2026-06-27",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Fission",
+          "account": "FissionDotFun",
+          "alpha": "speest",
+          "seenAt": "2026-06-27",
+          "messageId": "https://x.com/FissionDotFun",
+          "text": "Perpetual-backed memecoin launcher on Solana powered by Jupiter and FlashTrade"
+        }
+      ],
+      "text": " Fission FissionDotFun Perpetual-backed memecoin launcher on Solana powered by Jupiter and FlashTrade",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/FissionDotFun"
+    },
+    {
       "project": "fold",
       "account": "foldcomputer",
       "sources": [
@@ -15799,6 +15966,38 @@
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": "https://unavatar.io/twitter/GloomKidsCult"
+    },
+    {
+      "project": "Gloop",
+      "account": "Gloop_eth",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "AlphaFries"
+      ],
+      "tgAlphas": [
+        "AlphaFries"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-06-27",
+      "lastSeen": "2026-06-27",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Gloop",
+          "account": "Gloop_eth",
+          "alpha": "AlphaFries",
+          "seenAt": "2026-06-27",
+          "messageId": "https://x.com/Gloop_eth",
+          "text": "Animated onchain collection on Ethereum"
+        }
+      ],
+      "text": " Gloop Gloop_eth Animated onchain collection on Ethereum",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/Gloop_eth"
     },
     {
       "project": "GomeEXE",
@@ -17273,38 +17472,6 @@
       "avatarUrl": "https://unavatar.io/twitter/Solar_U_Network"
     },
     {
-      "project": "Salune",
-      "account": "Salunexyz",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "bearzverse"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "bearzverse"
-      ],
-      "mentions": 1,
-      "firstSeen": "2026-06-26",
-      "lastSeen": "2026-06-26",
-      "rows": [
-        {
-          "source": "X",
-          "project": "Salune",
-          "account": "Salunexyz",
-          "alpha": "bearzverse",
-          "seenAt": "2026-06-26",
-          "messageId": "2026-06-26-x-partial-bearzverse.csv",
-          "text": "Publication for tokenized cultural markets on Solana"
-        }
-      ],
-      "text": " Salune Salunexyz Publication for tokenized cultural markets on Solana",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": "https://unavatar.io/twitter/Salunexyz"
-    },
-    {
       "project": "SecretSoc_NFT",
       "account": "SecretSoc_NFT",
       "sources": [
@@ -17657,6 +17824,38 @@
       "avatarUrl": "https://unavatar.io/twitter/TheMegaEye"
     },
     {
+      "project": "Tiny Validators",
+      "account": "tinyvalidators",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "AlphaFries"
+      ],
+      "tgAlphas": [
+        "AlphaFries"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-06-27",
+      "lastSeen": "2026-06-27",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Tiny Validators",
+          "account": "tinyvalidators",
+          "alpha": "AlphaFries",
+          "seenAt": "2026-06-27",
+          "messageId": "https://x.com/tinyvalidators",
+          "text": "B20 Base citizen/project collection"
+        }
+      ],
+      "text": " Tiny Validators tinyvalidators B20 Base citizen/project collection",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/tinyvalidators"
+    },
+    {
       "project": "TOKEN TYCOON",
       "account": "playtokentycoon",
       "sources": [
@@ -17719,6 +17918,38 @@
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": "https://unavatar.io/twitter/treasures_io"
+    },
+    {
+      "project": "tren.ch",
+      "account": "trenches",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "发财猪"
+      ],
+      "tgAlphas": [
+        "发财猪"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-06-27",
+      "lastSeen": "2026-06-27",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "tren.ch",
+          "account": "trenches",
+          "alpha": "发财猪",
+          "seenAt": "2026-06-27",
+          "messageId": "https://x.com/trenches",
+          "text": "Attention market on Solana with waitlist"
+        }
+      ],
+      "text": " tren.ch trenches Attention market on Solana with waitlist",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/trenches"
     },
     {
       "project": "trix_mrkt",
@@ -20614,6 +20845,62 @@
       "avatarUrl": "https://unavatar.io/twitter/flovia402"
     },
     {
+      "project": "Metal",
+      "account": "metalntwx",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "alphafries",
+        "ibraxbt",
+        "小雨倾城"
+      ],
+      "tgAlphas": [
+        "小雨倾城"
+      ],
+      "xAlphas": [
+        "alphafries",
+        "ibraxbt"
+      ],
+      "mentions": 3,
+      "firstSeen": "2026-06-26",
+      "lastSeen": "2026-06-27",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Metal",
+          "account": "metalntwx",
+          "alpha": "小雨倾城",
+          "seenAt": "2026-06-27",
+          "messageId": "https://x.com/metalntwx",
+          "text": "Settlement network for tokenized financial products"
+        },
+        {
+          "source": "X",
+          "project": "Metal",
+          "account": "metalntwx",
+          "alpha": "alphafries",
+          "seenAt": "2026-06-26",
+          "messageId": "2026-06-26-x-partial-alphafries.csv",
+          "text": "Settlement network for tokenized financial products"
+        },
+        {
+          "source": "X",
+          "project": "Metal",
+          "account": "metalntwx",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-26",
+          "messageId": "2026-06-26-x-partial-ibraxbt.csv",
+          "text": "Settlement network for tokenized financial products"
+        }
+      ],
+      "text": " Metal metalntwx Settlement network for tokenized financial products Metal metalntwx Settlement network for tokenized financial products Metal metalntwx Settlement network for tokenized financial products",
+      "score": 11,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/metalntwx"
+    },
+    {
       "project": "Mootopia",
       "account": "Mootopiafun",
       "sources": [
@@ -20996,6 +21283,60 @@
       "score": 10,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/elisymlabs"
+    },
+    {
+      "project": "PrivyPets",
+      "account": "privypets",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "alphafries",
+        "小雨倾城"
+      ],
+      "tgAlphas": [
+        "小雨倾城"
+      ],
+      "xAlphas": [
+        "alphafries"
+      ],
+      "mentions": 3,
+      "firstSeen": "2026-06-25",
+      "lastSeen": "2026-06-27",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "PrivyPets",
+          "account": "privypets",
+          "alpha": "小雨倾城",
+          "seenAt": "2026-06-27",
+          "messageId": "https://x.com/privypets",
+          "text": "Tradable pixel pets on Solana backed by PETS"
+        },
+        {
+          "source": "X",
+          "project": "PrivyPets",
+          "account": "privypets",
+          "alpha": "alphafries",
+          "seenAt": "2026-06-25",
+          "messageId": "2026-06-25-x-partial-alphafries.csv",
+          "text": "Tradable pixel pets on Solana powered by PETS"
+        },
+        {
+          "source": "X",
+          "project": "PrivyPets",
+          "account": "privypets",
+          "alpha": "alphafries",
+          "seenAt": "2026-06-26",
+          "messageId": "2026-06-26-x-partial-alphafries.csv",
+          "text": "Tradable pixel pets on Solana powered by PETS"
+        }
+      ],
+      "text": " PrivyPets privypets Tradable pixel pets on Solana backed by PETS PrivyPets privypets Tradable pixel pets on Solana powered by PETS PrivyPets privypets Tradable pixel pets on Solana powered by PETS",
+      "score": 10,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/privypets"
     },
     {
       "project": "shot2win",
@@ -21689,6 +22030,51 @@
       "score": 9,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/PaintWarspf"
+    },
+    {
+      "project": "Salune",
+      "account": "Salunexyz",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "bearzverse",
+        "小雨倾城"
+      ],
+      "tgAlphas": [
+        "小雨倾城"
+      ],
+      "xAlphas": [
+        "bearzverse"
+      ],
+      "mentions": 2,
+      "firstSeen": "2026-06-26",
+      "lastSeen": "2026-06-27",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Salune",
+          "account": "Salunexyz",
+          "alpha": "小雨倾城",
+          "seenAt": "2026-06-27",
+          "messageId": "https://x.com/Salunexyz",
+          "text": "Publication for tokenized cultural markets on Solana"
+        },
+        {
+          "source": "X",
+          "project": "Salune",
+          "account": "Salunexyz",
+          "alpha": "bearzverse",
+          "seenAt": "2026-06-26",
+          "messageId": "2026-06-26-x-partial-bearzverse.csv",
+          "text": "Publication for tokenized cultural markets on Solana"
+        }
+      ],
+      "text": " Salune Salunexyz Publication for tokenized cultural markets on Solana Salune Salunexyz Publication for tokenized cultural markets on Solana",
+      "score": 9,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/Salunexyz"
     },
     {
       "project": "Senthos",
@@ -24845,6 +25231,62 @@
       "avatarUrl": "https://unavatar.io/twitter/flovia402"
     },
     {
+      "project": "Metal",
+      "account": "metalntwx",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "alphafries",
+        "ibraxbt",
+        "小雨倾城"
+      ],
+      "tgAlphas": [
+        "小雨倾城"
+      ],
+      "xAlphas": [
+        "alphafries",
+        "ibraxbt"
+      ],
+      "mentions": 3,
+      "firstSeen": "2026-06-26",
+      "lastSeen": "2026-06-27",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Metal",
+          "account": "metalntwx",
+          "alpha": "小雨倾城",
+          "seenAt": "2026-06-27",
+          "messageId": "https://x.com/metalntwx",
+          "text": "Settlement network for tokenized financial products"
+        },
+        {
+          "source": "X",
+          "project": "Metal",
+          "account": "metalntwx",
+          "alpha": "alphafries",
+          "seenAt": "2026-06-26",
+          "messageId": "2026-06-26-x-partial-alphafries.csv",
+          "text": "Settlement network for tokenized financial products"
+        },
+        {
+          "source": "X",
+          "project": "Metal",
+          "account": "metalntwx",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-26",
+          "messageId": "2026-06-26-x-partial-ibraxbt.csv",
+          "text": "Settlement network for tokenized financial products"
+        }
+      ],
+      "text": " Metal metalntwx Settlement network for tokenized financial products Metal metalntwx Settlement network for tokenized financial products Metal metalntwx Settlement network for tokenized financial products",
+      "score": 11,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/metalntwx"
+    },
+    {
       "project": "Mootopia",
       "account": "Mootopiafun",
       "sources": [
@@ -25310,6 +25752,60 @@
       "score": 10,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/elisymlabs"
+    },
+    {
+      "project": "PrivyPets",
+      "account": "privypets",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "alphafries",
+        "小雨倾城"
+      ],
+      "tgAlphas": [
+        "小雨倾城"
+      ],
+      "xAlphas": [
+        "alphafries"
+      ],
+      "mentions": 3,
+      "firstSeen": "2026-06-25",
+      "lastSeen": "2026-06-27",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "PrivyPets",
+          "account": "privypets",
+          "alpha": "小雨倾城",
+          "seenAt": "2026-06-27",
+          "messageId": "https://x.com/privypets",
+          "text": "Tradable pixel pets on Solana backed by PETS"
+        },
+        {
+          "source": "X",
+          "project": "PrivyPets",
+          "account": "privypets",
+          "alpha": "alphafries",
+          "seenAt": "2026-06-25",
+          "messageId": "2026-06-25-x-partial-alphafries.csv",
+          "text": "Tradable pixel pets on Solana powered by PETS"
+        },
+        {
+          "source": "X",
+          "project": "PrivyPets",
+          "account": "privypets",
+          "alpha": "alphafries",
+          "seenAt": "2026-06-26",
+          "messageId": "2026-06-26-x-partial-alphafries.csv",
+          "text": "Tradable pixel pets on Solana powered by PETS"
+        }
+      ],
+      "text": " PrivyPets privypets Tradable pixel pets on Solana backed by PETS PrivyPets privypets Tradable pixel pets on Solana powered by PETS PrivyPets privypets Tradable pixel pets on Solana powered by PETS",
+      "score": 10,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/privypets"
     },
     {
       "project": "shot2win",
@@ -26320,6 +26816,51 @@
       "score": 9,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/PaintWarspf"
+    },
+    {
+      "project": "Salune",
+      "account": "Salunexyz",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "bearzverse",
+        "小雨倾城"
+      ],
+      "tgAlphas": [
+        "小雨倾城"
+      ],
+      "xAlphas": [
+        "bearzverse"
+      ],
+      "mentions": 2,
+      "firstSeen": "2026-06-26",
+      "lastSeen": "2026-06-27",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Salune",
+          "account": "Salunexyz",
+          "alpha": "小雨倾城",
+          "seenAt": "2026-06-27",
+          "messageId": "https://x.com/Salunexyz",
+          "text": "Publication for tokenized cultural markets on Solana"
+        },
+        {
+          "source": "X",
+          "project": "Salune",
+          "account": "Salunexyz",
+          "alpha": "bearzverse",
+          "seenAt": "2026-06-26",
+          "messageId": "2026-06-26-x-partial-bearzverse.csv",
+          "text": "Publication for tokenized cultural markets on Solana"
+        }
+      ],
+      "text": " Salune Salunexyz Publication for tokenized cultural markets on Solana Salune Salunexyz Publication for tokenized cultural markets on Solana",
+      "score": 9,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/Salunexyz"
     },
     {
       "project": "Senthos",
@@ -30092,49 +30633,6 @@
       "avatarUrl": "https://unavatar.io/twitter/Hooksensor"
     },
     {
-      "project": "Metal",
-      "account": "metalntwx",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "alphafries",
-        "ibraxbt"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "alphafries",
-        "ibraxbt"
-      ],
-      "mentions": 2,
-      "firstSeen": "2026-06-26",
-      "lastSeen": "2026-06-26",
-      "rows": [
-        {
-          "source": "X",
-          "project": "Metal",
-          "account": "metalntwx",
-          "alpha": "alphafries",
-          "seenAt": "2026-06-26",
-          "messageId": "2026-06-26-x-partial-alphafries.csv",
-          "text": "Settlement network for tokenized financial products"
-        },
-        {
-          "source": "X",
-          "project": "Metal",
-          "account": "metalntwx",
-          "alpha": "ibraxbt",
-          "seenAt": "2026-06-26",
-          "messageId": "2026-06-26-x-partial-ibraxbt.csv",
-          "text": "Settlement network for tokenized financial products"
-        }
-      ],
-      "text": " Metal metalntwx Settlement network for tokenized financial products Metal metalntwx Settlement network for tokenized financial products",
-      "score": 4,
-      "displayTier": "focus",
-      "avatarUrl": "https://unavatar.io/twitter/metalntwx"
-    },
-    {
       "project": "Noxa_Fi",
       "account": "Noxa_Fi",
       "sources": [
@@ -31248,6 +31746,282 @@
     }
   ],
   "daily": [
+    {
+      "date": "2026-06-27",
+      "totalRows": 10,
+      "projectCount": 8,
+      "focusCount": 0,
+      "candidateCount": 8,
+      "crossSource": 0,
+      "newCount": 5,
+      "repeatCount": 3,
+      "projects": [
+        {
+          "project": "DMT-BIT",
+          "account": "dmt_bit_",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BTC alpha"
+          ],
+          "tgAlphas": [
+            "BTC alpha"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-06-27",
+          "lastSeen": "2026-06-27",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "DMT-BIT",
+              "account": "dmt_bit_",
+              "alpha": "BTC alpha",
+              "seenAt": "2026-06-27",
+              "messageId": "https://x.com/dmt_bit_",
+              "text": "Decentralized security budget layer for Bitcoin"
+            }
+          ],
+          "text": " DMT-BIT dmt_bit_ Decentralized security budget layer for Bitcoin",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/dmt_bit_",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Fission",
+          "account": "FissionDotFun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "speest"
+          ],
+          "tgAlphas": [
+            "speest"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-06-27",
+          "lastSeen": "2026-06-27",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Fission",
+              "account": "FissionDotFun",
+              "alpha": "speest",
+              "seenAt": "2026-06-27",
+              "messageId": "https://x.com/FissionDotFun",
+              "text": "Perpetual-backed memecoin launcher on Solana powered by Jupiter and FlashTrade"
+            }
+          ],
+          "text": " Fission FissionDotFun Perpetual-backed memecoin launcher on Solana powered by Jupiter and FlashTrade",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/FissionDotFun",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Gloop",
+          "account": "Gloop_eth",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "AlphaFries"
+          ],
+          "tgAlphas": [
+            "AlphaFries"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-06-27",
+          "lastSeen": "2026-06-27",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Gloop",
+              "account": "Gloop_eth",
+              "alpha": "AlphaFries",
+              "seenAt": "2026-06-27",
+              "messageId": "https://x.com/Gloop_eth",
+              "text": "Animated onchain collection on Ethereum"
+            }
+          ],
+          "text": " Gloop Gloop_eth Animated onchain collection on Ethereum",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/Gloop_eth",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Metal",
+          "account": "metalntwx",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "小雨倾城"
+          ],
+          "tgAlphas": [
+            "小雨倾城"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-06-27",
+          "lastSeen": "2026-06-27",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Metal",
+              "account": "metalntwx",
+              "alpha": "小雨倾城",
+              "seenAt": "2026-06-27",
+              "messageId": "https://x.com/metalntwx",
+              "text": "Settlement network for tokenized financial products"
+            }
+          ],
+          "text": " Metal metalntwx Settlement network for tokenized financial products",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/metalntwx",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "PrivyPets",
+          "account": "privypets",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "小雨倾城"
+          ],
+          "tgAlphas": [
+            "小雨倾城"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-06-27",
+          "lastSeen": "2026-06-27",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "PrivyPets",
+              "account": "privypets",
+              "alpha": "小雨倾城",
+              "seenAt": "2026-06-27",
+              "messageId": "https://x.com/privypets",
+              "text": "Tradable pixel pets on Solana backed by PETS"
+            }
+          ],
+          "text": " PrivyPets privypets Tradable pixel pets on Solana backed by PETS",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/privypets",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Salune",
+          "account": "Salunexyz",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "小雨倾城"
+          ],
+          "tgAlphas": [
+            "小雨倾城"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-06-27",
+          "lastSeen": "2026-06-27",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Salune",
+              "account": "Salunexyz",
+              "alpha": "小雨倾城",
+              "seenAt": "2026-06-27",
+              "messageId": "https://x.com/Salunexyz",
+              "text": "Publication for tokenized cultural markets on Solana"
+            }
+          ],
+          "text": " Salune Salunexyz Publication for tokenized cultural markets on Solana",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/Salunexyz",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Tiny Validators",
+          "account": "tinyvalidators",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "AlphaFries"
+          ],
+          "tgAlphas": [
+            "AlphaFries"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-06-27",
+          "lastSeen": "2026-06-27",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Tiny Validators",
+              "account": "tinyvalidators",
+              "alpha": "AlphaFries",
+              "seenAt": "2026-06-27",
+              "messageId": "https://x.com/tinyvalidators",
+              "text": "B20 Base citizen/project collection"
+            }
+          ],
+          "text": " Tiny Validators tinyvalidators B20 Base citizen/project collection",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/tinyvalidators",
+          "dayStatus": "new"
+        },
+        {
+          "project": "tren.ch",
+          "account": "trenches",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "发财猪"
+          ],
+          "tgAlphas": [
+            "发财猪"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-06-27",
+          "lastSeen": "2026-06-27",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "tren.ch",
+              "account": "trenches",
+              "alpha": "发财猪",
+              "seenAt": "2026-06-27",
+              "messageId": "https://x.com/trenches",
+              "text": "Attention market on Solana with waitlist"
+            }
+          ],
+          "text": " tren.ch trenches Attention market on Solana with waitlist",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/trenches",
+          "dayStatus": "new"
+        }
+      ]
+    },
     {
       "date": "2026-06-26",
       "totalRows": 145,
@@ -39400,11 +40174,11 @@
     {
       "date": "2026-06-18",
       "totalRows": 267,
-      "projectCount": 39,
+      "projectCount": 40,
       "focusCount": 17,
-      "candidateCount": 22,
+      "candidateCount": 23,
       "crossSource": 0,
-      "newCount": 24,
+      "newCount": 25,
       "repeatCount": 15,
       "projects": [
         {
@@ -40352,6 +41126,39 @@
           "displayTier": "candidate",
           "avatarUrl": "https://unavatar.io/twitter/baseboredclub",
           "dayStatus": "repeat"
+        },
+        {
+          "project": "BTCBruce1",
+          "account": "BTCBruce1",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "_0xzhang"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "_0xzhang"
+          ],
+          "mentions": 1,
+          "firstSeen": "2026-06-18",
+          "lastSeen": "2026-06-18",
+          "rows": [
+            {
+              "source": "X",
+              "project": "BTCBruce1",
+              "account": "BTCBruce1",
+              "alpha": "_0xzhang",
+              "seenAt": "2026-06-18",
+              "messageId": "2026-06-18-x-partial-_0xzhang.csv",
+              "text": "Bitcoin miner"
+            }
+          ],
+          "text": " BTCBruce1 BTCBruce1 Bitcoin miner",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
         },
         {
           "project": "ChogNFT",
