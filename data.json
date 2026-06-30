@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-30T09:45:20.157Z",
+  "generatedAt": "2026-06-30T10:40:43.426Z",
   "totals": {
-    "telegramRows": 214,
+    "telegramRows": 226,
     "xRows": 1710,
-    "projects": 521,
+    "projects": 528,
     "crossSource": 87
   },
   "projects": [
@@ -15454,6 +15454,49 @@
       "avatarUrl": "https://unavatar.io/twitter/bullyvhook"
     },
     {
+      "project": "CapybArc",
+      "account": "CapybArc_fun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Kingmaker",
+        "小雨倾城"
+      ],
+      "tgAlphas": [
+        "Kingmaker",
+        "小雨倾城"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-06-30",
+      "lastSeen": "2026-06-30",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "CapybArc",
+          "account": "CapybArc_fun",
+          "alpha": "Kingmaker",
+          "seenAt": "2026-06-30",
+          "messageId": "https://x.com/CapybArc_fun",
+          "text": "Early project with limited visible description"
+        },
+        {
+          "source": "TG",
+          "project": "CapybArc",
+          "account": "CapybArc_fun",
+          "alpha": "小雨倾城",
+          "seenAt": "2026-06-30",
+          "messageId": "https://x.com/CapybArc_fun",
+          "text": "Early project with limited visible description"
+        }
+      ],
+      "text": " CapybArc CapybArc_fun Early project with limited visible description CapybArc CapybArc_fun Early project with limited visible description",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/CapybArc_fun"
+    },
+    {
       "project": "cardcentergg",
       "account": "cardcentergg",
       "sources": [
@@ -21642,6 +21685,38 @@
       "avatarUrl": "https://unavatar.io/twitter/anyone_market"
     },
     {
+      "project": "ArAIstotle Fact Checker",
+      "account": "ArAIstotle",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "新手"
+      ],
+      "tgAlphas": [
+        "新手"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-06-30",
+      "lastSeen": "2026-06-30",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "ArAIstotle Fact Checker",
+          "account": "ArAIstotle",
+          "alpha": "新手",
+          "seenAt": "2026-06-30",
+          "messageId": "https://x.com/ArAIstotle",
+          "text": "Virtuals/Base AI fact-checking agent"
+        }
+      ],
+      "text": " ArAIstotle Fact Checker ArAIstotle Virtuals/Base AI fact-checking agent",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/ArAIstotle"
+    },
+    {
       "project": "Arete",
       "account": "hungrytrtl",
       "sources": [
@@ -22730,6 +22805,38 @@
       "avatarUrl": "https://unavatar.io/twitter/CowzFarm"
     },
     {
+      "project": "DashX",
+      "account": "DashXHQ",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-06-30",
+      "lastSeen": "2026-06-30",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "DashX",
+          "account": "DashXHQ",
+          "alpha": "蛋总",
+          "seenAt": "2026-06-30",
+          "messageId": "https://x.com/DashXHQ",
+          "text": "Payments platform for Indian freelancers and exporters with USD and stablecoin INR settlement"
+        }
+      ],
+      "text": " DashX DashXHQ Payments platform for Indian freelancers and exporters with USD and stablecoin INR settlement",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/DashXHQ"
+    },
+    {
       "project": "DataPort Navigator",
       "account": "dataPort_agent",
       "sources": [
@@ -23498,6 +23605,38 @@
       "avatarUrl": "https://unavatar.io/twitter/gravehook"
     },
     {
+      "project": "Gridlock",
+      "account": "GridlockCompute",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse"
+      ],
+      "tgAlphas": [
+        "BearzVerse"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-06-30",
+      "lastSeen": "2026-06-30",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Gridlock",
+          "account": "GridlockCompute",
+          "alpha": "BearzVerse",
+          "seenAt": "2026-06-30",
+          "messageId": "https://x.com/GridlockCompute",
+          "text": "Decentralized AI inference with onchain SLA"
+        }
+      ],
+      "text": " Gridlock GridlockCompute Decentralized AI inference with onchain SLA",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/GridlockCompute"
+    },
+    {
       "project": "guiltyuniswap",
       "account": "guiltyuniswap",
       "sources": [
@@ -23752,6 +23891,38 @@
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": "https://unavatar.io/twitter/HyroCloud"
+    },
+    {
+      "project": "iCLONE",
+      "account": "icloneframe",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Mutu"
+      ],
+      "tgAlphas": [
+        "Mutu"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-06-30",
+      "lastSeen": "2026-06-30",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "iCLONE",
+          "account": "icloneframe",
+          "alpha": "Mutu",
+          "seenAt": "2026-06-30",
+          "messageId": "https://x.com/icloneframe",
+          "text": "Virtuals AI agent with GitHub-backed project"
+        }
+      ],
+      "text": " iCLONE icloneframe Virtuals AI agent with GitHub-backed project",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/icloneframe"
     },
     {
       "project": "joblesscomic",
@@ -25162,6 +25333,38 @@
       "avatarUrl": "https://unavatar.io/twitter/spectrum_b20"
     },
     {
+      "project": "Spiko",
+      "account": "Spiko_finance",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "发誓要做永赚大师"
+      ],
+      "tgAlphas": [
+        "发誓要做永赚大师"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-06-30",
+      "lastSeen": "2026-06-30",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Spiko",
+          "account": "Spiko_finance",
+          "alpha": "发誓要做永赚大师",
+          "seenAt": "2026-06-30",
+          "messageId": "https://x.com/Spiko_finance",
+          "text": "Capital markets infrastructure starting with money markets"
+        }
+      ],
+      "text": " Spiko Spiko_finance Capital markets infrastructure starting with money markets",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/Spiko_finance"
+    },
+    {
       "project": "StarbaseBNB",
       "account": "StarbaseBNB",
       "sources": [
@@ -25320,6 +25523,38 @@
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": "https://unavatar.io/twitter/TaskOS_Ai"
+    },
+    {
+      "project": "The God Pull",
+      "account": "TheGodPull",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse"
+      ],
+      "tgAlphas": [
+        "BearzVerse"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-06-30",
+      "lastSeen": "2026-06-30",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "The God Pull",
+          "account": "TheGodPull",
+          "alpha": "BearzVerse",
+          "seenAt": "2026-06-30",
+          "messageId": "https://x.com/TheGodPull",
+          "text": "Collect-and-royalties game or pack project coming soon"
+        }
+      ],
+      "text": " The God Pull TheGodPull Collect-and-royalties game or pack project coming soon",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/TheGodPull"
     },
     {
       "project": "TheMegaEye",
@@ -45032,12 +45267,12 @@
   "daily": [
     {
       "date": "2026-06-30",
-      "totalRows": 175,
-      "projectCount": 102,
-      "focusCount": 23,
-      "candidateCount": 79,
+      "totalRows": 187,
+      "projectCount": 109,
+      "focusCount": 24,
+      "candidateCount": 85,
       "crossSource": 5,
-      "newCount": 18,
+      "newCount": 25,
       "repeatCount": 84,
       "projects": [
         {
@@ -45632,6 +45867,50 @@
           "displayTier": "focus",
           "avatarUrl": "https://unavatar.io/twitter/bark2zero",
           "dayStatus": "repeat"
+        },
+        {
+          "project": "CapybArc",
+          "account": "CapybArc_fun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Kingmaker",
+            "小雨倾城"
+          ],
+          "tgAlphas": [
+            "Kingmaker",
+            "小雨倾城"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-06-30",
+          "lastSeen": "2026-06-30",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "CapybArc",
+              "account": "CapybArc_fun",
+              "alpha": "Kingmaker",
+              "seenAt": "2026-06-30",
+              "messageId": "https://x.com/CapybArc_fun",
+              "text": "Early project with limited visible description"
+            },
+            {
+              "source": "TG",
+              "project": "CapybArc",
+              "account": "CapybArc_fun",
+              "alpha": "小雨倾城",
+              "seenAt": "2026-06-30",
+              "messageId": "https://x.com/CapybArc_fun",
+              "text": "Early project with limited visible description"
+            }
+          ],
+          "text": " CapybArc CapybArc_fun Early project with limited visible description CapybArc CapybArc_fun Early project with limited visible description",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "https://unavatar.io/twitter/CapybArc_fun",
+          "dayStatus": "new"
         },
         {
           "project": "genesis",
@@ -46294,6 +46573,39 @@
           "dayStatus": "repeat"
         },
         {
+          "project": "ArAIstotle Fact Checker",
+          "account": "ArAIstotle",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "新手"
+          ],
+          "tgAlphas": [
+            "新手"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-06-30",
+          "lastSeen": "2026-06-30",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "ArAIstotle Fact Checker",
+              "account": "ArAIstotle",
+              "alpha": "新手",
+              "seenAt": "2026-06-30",
+              "messageId": "https://x.com/ArAIstotle",
+              "text": "Virtuals/Base AI fact-checking agent"
+            }
+          ],
+          "text": " ArAIstotle Fact Checker ArAIstotle Virtuals/Base AI fact-checking agent",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/ArAIstotle",
+          "dayStatus": "new"
+        },
+        {
           "project": "Arena War",
           "account": "Arenawarzgame",
           "sources": [
@@ -46655,72 +46967,6 @@
           "displayTier": "candidate",
           "avatarUrl": "https://unavatar.io/twitter/blueagent_",
           "dayStatus": "repeat"
-        },
-        {
-          "project": "BOUNCERS",
-          "account": "playbouncers",
-          "sources": [
-            "X"
-          ],
-          "alphas": [
-            "bearzverse"
-          ],
-          "tgAlphas": [],
-          "xAlphas": [
-            "bearzverse"
-          ],
-          "mentions": 1,
-          "firstSeen": "2026-06-30",
-          "lastSeen": "2026-06-30",
-          "rows": [
-            {
-              "source": "X",
-              "project": "BOUNCERS",
-              "account": "playbouncers",
-              "alpha": "bearzverse",
-              "seenAt": "2026-06-30",
-              "messageId": "2026-06-30-x-partial-bearzverse.csv",
-              "text": "Arena squad battle game"
-            }
-          ],
-          "text": " BOUNCERS playbouncers Arena squad battle game",
-          "score": 2,
-          "displayTier": "candidate",
-          "avatarUrl": "https://unavatar.io/twitter/playbouncers",
-          "dayStatus": "new"
-        },
-        {
-          "project": "Cari Network",
-          "account": "carinetwork",
-          "sources": [
-            "TG"
-          ],
-          "alphas": [
-            "Kingmaker"
-          ],
-          "tgAlphas": [
-            "Kingmaker"
-          ],
-          "xAlphas": [],
-          "mentions": 1,
-          "firstSeen": "2026-06-30",
-          "lastSeen": "2026-06-30",
-          "rows": [
-            {
-              "source": "TG",
-              "project": "Cari Network",
-              "account": "carinetwork",
-              "alpha": "Kingmaker",
-              "seenAt": "2026-06-30",
-              "messageId": "https://x.com/carinetwork",
-              "text": "Tokenized deposit network connecting chartered banks and DeFi"
-            }
-          ],
-          "text": " Cari Network carinetwork Tokenized deposit network connecting chartered banks and DeFi",
-          "score": 2,
-          "displayTier": "candidate",
-          "avatarUrl": "https://unavatar.io/twitter/carinetwork",
-          "dayStatus": "new"
         }
       ]
     },
