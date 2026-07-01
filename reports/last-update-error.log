@@ -1,4 +1,4 @@
-time=2026-06-26T11:16:15.608Z
+time=2026-06-30T20:45:56.918Z
 source=telegram
 message=fetch failed
-code=UND_ERR_CONNECT_TIMEOUT
+code=EACCES

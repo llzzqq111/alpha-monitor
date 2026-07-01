@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-30T10:40:43.426Z",
+  "generatedAt": "2026-07-01T11:41:16.479Z",
   "totals": {
-    "telegramRows": 226,
-    "xRows": 1710,
-    "projects": 528,
-    "crossSource": 87
+    "telegramRows": 235,
+    "xRows": 1721,
+    "projects": 535,
+    "crossSource": 89
   },
   "projects": [
     {
@@ -2245,91 +2245,6 @@
       "avatarUrl": "https://unavatar.io/twitter/PlayTCGArena"
     },
     {
-      "project": "Codes",
-      "account": "internet_codes",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "Kingmaker",
-        "NotVanGogh88",
-        "unsynned",
-        "xeogy92298766"
-      ],
-      "tgAlphas": [
-        "Kingmaker"
-      ],
-      "xAlphas": [
-        "NotVanGogh88",
-        "unsynned",
-        "xeogy92298766"
-      ],
-      "mentions": 6,
-      "firstSeen": "2026-06-29",
-      "lastSeen": "2026-06-30",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Codes",
-          "account": "internet_codes",
-          "alpha": "Kingmaker",
-          "seenAt": "2026-06-29",
-          "messageId": "https://x.com/internet_codes",
-          "text": "Early product account with 4 mutual follows"
-        },
-        {
-          "source": "X",
-          "project": "Codes",
-          "account": "internet_codes",
-          "alpha": "unsynned",
-          "seenAt": "2026-06-29",
-          "messageId": "2026-06-29-x-partial-unsynned.csv",
-          "text": "Early product account with multiple mutual follows"
-        },
-        {
-          "source": "X",
-          "project": "Codes",
-          "account": "internet_codes",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-29",
-          "messageId": "2026-06-29-x-partial-xeogy92298766.csv",
-          "text": "Early product account with multiple mutual follows"
-        },
-        {
-          "source": "X",
-          "project": "Codes",
-          "account": "internet_codes",
-          "alpha": "NotVanGogh88",
-          "seenAt": "2026-06-30",
-          "messageId": "2026-06-30-x-partial-NotVanGogh88.csv",
-          "text": "Early product account with multiple mutual follows"
-        },
-        {
-          "source": "X",
-          "project": "Codes",
-          "account": "internet_codes",
-          "alpha": "unsynned",
-          "seenAt": "2026-06-30",
-          "messageId": "2026-06-30-x-partial-unsynned.csv",
-          "text": "Early product account with multiple mutual follows"
-        },
-        {
-          "source": "X",
-          "project": "Codes",
-          "account": "internet_codes",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-30",
-          "messageId": "2026-06-30-x-partial-xeogy92298766.csv",
-          "text": "Early product account with multiple mutual follows"
-        }
-      ],
-      "text": " Codes internet_codes Early product account with 4 mutual follows Codes internet_codes Early product account with multiple mutual follows Codes internet_codes Early product account with multiple mutual follows Codes internet_codes Early product account with multiple mutual follows Codes internet_codes Early product account with multiple mutual follows Codes internet_codes Early product account with multiple mutual follows",
-      "score": 15,
-      "displayTier": "focus",
-      "avatarUrl": "https://unavatar.io/twitter/internet_codes"
-    },
-    {
       "project": "opcode",
       "account": "opcode_fi",
       "sources": [
@@ -2348,9 +2263,9 @@
         "nlgcf69515952",
         "zizai3ro"
       ],
-      "mentions": 10,
+      "mentions": 11,
       "firstSeen": "2026-06-26",
-      "lastSeen": "2026-06-30",
+      "lastSeen": "2026-07-01",
       "rows": [
         {
           "source": "X",
@@ -2441,12 +2356,191 @@
           "seenAt": "2026-06-30",
           "messageId": "2026-06-30-x-partial-zizai3ro.csv",
           "text": "Stock and ETF access on Ethereum"
+        },
+        {
+          "source": "X",
+          "project": "opcode",
+          "account": "opcode_fi",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-07-01",
+          "messageId": "2026-07-01-x-partial-nlgcf69515952.csv",
+          "text": "Stock and ETF access on Ethereum"
         }
       ],
-      "text": " opcode opcode_fi Ethereum stock and ETF product opcode opcode_fi Ethereum stock and ETF product opcode opcode_fi Ethereum stock and ETF product opcode opcode_fi Ethereum stock and ETF product opcode opcode_fi Stock and ETF access on Ethereum opcode opcode_fi Stock and ETF access on Ethereum opcode opcode_fi Stock and ETF access on Ethereum opcode opcode_fi Stock and ETF access on Ethereum opcode opcode_fi Stock and ETF access on Ethereum opcode opcode_fi Stock and ETF access on Ethereum",
-      "score": 14,
+      "text": " opcode opcode_fi Ethereum stock and ETF product opcode opcode_fi Ethereum stock and ETF product opcode opcode_fi Ethereum stock and ETF product opcode opcode_fi Ethereum stock and ETF product opcode opcode_fi Stock and ETF access on Ethereum opcode opcode_fi Stock and ETF access on Ethereum opcode opcode_fi Stock and ETF access on Ethereum opcode opcode_fi Stock and ETF access on Ethereum opcode opcode_fi Stock and ETF access on Ethereum opcode opcode_fi Stock and ETF access on Ethereum opcode opcode_fi Stock and ETF access on Ethereum",
+      "score": 15,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/opcode_fi"
+    },
+    {
+      "project": "Codes",
+      "account": "internet_codes",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "Kingmaker",
+        "NotVanGogh88",
+        "unsynned",
+        "xeogy92298766"
+      ],
+      "tgAlphas": [
+        "Kingmaker"
+      ],
+      "xAlphas": [
+        "NotVanGogh88",
+        "unsynned",
+        "xeogy92298766"
+      ],
+      "mentions": 6,
+      "firstSeen": "2026-06-29",
+      "lastSeen": "2026-06-30",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Codes",
+          "account": "internet_codes",
+          "alpha": "Kingmaker",
+          "seenAt": "2026-06-29",
+          "messageId": "https://x.com/internet_codes",
+          "text": "Early product account with 4 mutual follows"
+        },
+        {
+          "source": "X",
+          "project": "Codes",
+          "account": "internet_codes",
+          "alpha": "unsynned",
+          "seenAt": "2026-06-29",
+          "messageId": "2026-06-29-x-partial-unsynned.csv",
+          "text": "Early product account with multiple mutual follows"
+        },
+        {
+          "source": "X",
+          "project": "Codes",
+          "account": "internet_codes",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-29",
+          "messageId": "2026-06-29-x-partial-xeogy92298766.csv",
+          "text": "Early product account with multiple mutual follows"
+        },
+        {
+          "source": "X",
+          "project": "Codes",
+          "account": "internet_codes",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-30",
+          "messageId": "2026-06-30-x-partial-NotVanGogh88.csv",
+          "text": "Early product account with multiple mutual follows"
+        },
+        {
+          "source": "X",
+          "project": "Codes",
+          "account": "internet_codes",
+          "alpha": "unsynned",
+          "seenAt": "2026-06-30",
+          "messageId": "2026-06-30-x-partial-unsynned.csv",
+          "text": "Early product account with multiple mutual follows"
+        },
+        {
+          "source": "X",
+          "project": "Codes",
+          "account": "internet_codes",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-30",
+          "messageId": "2026-06-30-x-partial-xeogy92298766.csv",
+          "text": "Early product account with multiple mutual follows"
+        }
+      ],
+      "text": " Codes internet_codes Early product account with 4 mutual follows Codes internet_codes Early product account with multiple mutual follows Codes internet_codes Early product account with multiple mutual follows Codes internet_codes Early product account with multiple mutual follows Codes internet_codes Early product account with multiple mutual follows Codes internet_codes Early product account with multiple mutual follows",
+      "score": 15,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/internet_codes"
+    },
+    {
+      "project": "Metal",
+      "account": "metalntwx",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "alphafries",
+        "ibraxbt",
+        "nlgcf69515952",
+        "小雨倾城"
+      ],
+      "tgAlphas": [
+        "小雨倾城"
+      ],
+      "xAlphas": [
+        "alphafries",
+        "ibraxbt",
+        "nlgcf69515952"
+      ],
+      "mentions": 6,
+      "firstSeen": "2026-06-26",
+      "lastSeen": "2026-07-01",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Metal",
+          "account": "metalntwx",
+          "alpha": "小雨倾城",
+          "seenAt": "2026-06-27",
+          "messageId": "https://x.com/metalntwx",
+          "text": "Settlement network for tokenized financial products"
+        },
+        {
+          "source": "X",
+          "project": "Metal",
+          "account": "metalntwx",
+          "alpha": "alphafries",
+          "seenAt": "2026-06-26",
+          "messageId": "2026-06-26-x-partial-alphafries.csv",
+          "text": "Settlement network for tokenized financial products"
+        },
+        {
+          "source": "X",
+          "project": "Metal",
+          "account": "metalntwx",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-26",
+          "messageId": "2026-06-26-x-partial-ibraxbt.csv",
+          "text": "Settlement network for tokenized financial products"
+        },
+        {
+          "source": "X",
+          "project": "Metal",
+          "account": "metalntwx",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-06-28",
+          "messageId": "2026-06-28-x-partial-nlgcf69515952.csv",
+          "text": "Settlement network for tokenized financial products"
+        },
+        {
+          "source": "X",
+          "project": "Metal",
+          "account": "metalntwx",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-06-30",
+          "messageId": "2026-06-30-x-partial-nlgcf69515952.csv",
+          "text": "Settlement network for tokenized financial products"
+        },
+        {
+          "source": "X",
+          "project": "Metal",
+          "account": "metalntwx",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-07-01",
+          "messageId": "2026-07-01-x-partial-nlgcf69515952.csv",
+          "text": "Settlement network for tokenized financial products"
+        }
+      ],
+      "text": " Metal metalntwx Settlement network for tokenized financial products Metal metalntwx Settlement network for tokenized financial products Metal metalntwx Settlement network for tokenized financial products Metal metalntwx Settlement network for tokenized financial products Metal metalntwx Settlement network for tokenized financial products Metal metalntwx Settlement network for tokenized financial products",
+      "score": 15,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/metalntwx"
     },
     {
       "project": "TradeFish",
@@ -2530,82 +2624,6 @@
       "score": 14,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/tradefishfun"
-    },
-    {
-      "project": "Metal",
-      "account": "metalntwx",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "alphafries",
-        "ibraxbt",
-        "nlgcf69515952",
-        "小雨倾城"
-      ],
-      "tgAlphas": [
-        "小雨倾城"
-      ],
-      "xAlphas": [
-        "alphafries",
-        "ibraxbt",
-        "nlgcf69515952"
-      ],
-      "mentions": 5,
-      "firstSeen": "2026-06-26",
-      "lastSeen": "2026-06-30",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Metal",
-          "account": "metalntwx",
-          "alpha": "小雨倾城",
-          "seenAt": "2026-06-27",
-          "messageId": "https://x.com/metalntwx",
-          "text": "Settlement network for tokenized financial products"
-        },
-        {
-          "source": "X",
-          "project": "Metal",
-          "account": "metalntwx",
-          "alpha": "alphafries",
-          "seenAt": "2026-06-26",
-          "messageId": "2026-06-26-x-partial-alphafries.csv",
-          "text": "Settlement network for tokenized financial products"
-        },
-        {
-          "source": "X",
-          "project": "Metal",
-          "account": "metalntwx",
-          "alpha": "ibraxbt",
-          "seenAt": "2026-06-26",
-          "messageId": "2026-06-26-x-partial-ibraxbt.csv",
-          "text": "Settlement network for tokenized financial products"
-        },
-        {
-          "source": "X",
-          "project": "Metal",
-          "account": "metalntwx",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-28",
-          "messageId": "2026-06-28-x-partial-nlgcf69515952.csv",
-          "text": "Settlement network for tokenized financial products"
-        },
-        {
-          "source": "X",
-          "project": "Metal",
-          "account": "metalntwx",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-30",
-          "messageId": "2026-06-30-x-partial-nlgcf69515952.csv",
-          "text": "Settlement network for tokenized financial products"
-        }
-      ],
-      "text": " Metal metalntwx Settlement network for tokenized financial products Metal metalntwx Settlement network for tokenized financial products Metal metalntwx Settlement network for tokenized financial products Metal metalntwx Settlement network for tokenized financial products Metal metalntwx Settlement network for tokenized financial products",
-      "score": 14,
-      "displayTier": "focus",
-      "avatarUrl": "https://unavatar.io/twitter/metalntwx"
     },
     {
       "project": "Infeld",
@@ -3871,6 +3889,105 @@
       "avatarUrl": "https://unavatar.io/twitter/taxsdotfun"
     },
     {
+      "project": "Bubble Buns",
+      "account": "BubbleBunsHQ",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "NotVanGogh88",
+        "ibraxbt",
+        "nlgcf69515952"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "NotVanGogh88",
+        "ibraxbt",
+        "nlgcf69515952"
+      ],
+      "mentions": 8,
+      "firstSeen": "2026-06-28",
+      "lastSeen": "2026-07-01",
+      "rows": [
+        {
+          "source": "X",
+          "project": "Bubble Buns",
+          "account": "BubbleBunsHQ",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-28",
+          "messageId": "2026-06-28-x-partial-ibraxbt.csv",
+          "text": "Unlaunched Bubble Buns themed project"
+        },
+        {
+          "source": "X",
+          "project": "Bubble Buns",
+          "account": "BubbleBunsHQ",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-06-28",
+          "messageId": "2026-06-28-x-partial-nlgcf69515952.csv",
+          "text": "Unlaunched Bubble Buns themed project"
+        },
+        {
+          "source": "X",
+          "project": "Bubble Buns",
+          "account": "BubbleBunsHQ",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-29",
+          "messageId": "2026-06-29-x-partial-NotVanGogh88.csv",
+          "text": "Unlaunched Bubble Buns themed project"
+        },
+        {
+          "source": "X",
+          "project": "Bubble Buns",
+          "account": "BubbleBunsHQ",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-29",
+          "messageId": "2026-06-29-x-partial-ibraxbt.csv",
+          "text": "Unlaunched Bubble Buns themed project"
+        },
+        {
+          "source": "X",
+          "project": "Bubble Buns",
+          "account": "BubbleBunsHQ",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-30",
+          "messageId": "2026-06-30-x-partial-NotVanGogh88.csv",
+          "text": "Unlaunched Bubble Buns themed project"
+        },
+        {
+          "source": "X",
+          "project": "Bubble Buns",
+          "account": "BubbleBunsHQ",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-30",
+          "messageId": "2026-06-30-x-partial-ibraxbt.csv",
+          "text": "Unlaunched Bubble Buns themed project"
+        },
+        {
+          "source": "X",
+          "project": "Bubble Buns",
+          "account": "BubbleBunsHQ",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-06-30",
+          "messageId": "2026-06-30-x-partial-nlgcf69515952.csv",
+          "text": "Unlaunched Bubble Buns themed project"
+        },
+        {
+          "source": "X",
+          "project": "Bubble Buns",
+          "account": "BubbleBunsHQ",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-07-01",
+          "messageId": "2026-07-01-x-partial-nlgcf69515952.csv",
+          "text": "Unlaunched Bubble Buns themed project"
+        }
+      ],
+      "text": " Bubble Buns BubbleBunsHQ Unlaunched Bubble Buns themed project Bubble Buns BubbleBunsHQ Unlaunched Bubble Buns themed project Bubble Buns BubbleBunsHQ Unlaunched Bubble Buns themed project Bubble Buns BubbleBunsHQ Unlaunched Bubble Buns themed project Bubble Buns BubbleBunsHQ Unlaunched Bubble Buns themed project Bubble Buns BubbleBunsHQ Unlaunched Bubble Buns themed project Bubble Buns BubbleBunsHQ Unlaunched Bubble Buns themed project Bubble Buns BubbleBunsHQ Unlaunched Bubble Buns themed project",
+      "score": 11,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/BubbleBunsHQ"
+    },
+    {
       "project": "echonv4",
       "account": "echonv4",
       "sources": [
@@ -4152,6 +4269,69 @@
       "score": 11,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/Sheerwood_"
+    },
+    {
+      "project": "Crypto Lifeline",
+      "account": "CryptoLifeBSC",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "nlgcf69515952",
+        "发财猪"
+      ],
+      "tgAlphas": [
+        "发财猪"
+      ],
+      "xAlphas": [
+        "nlgcf69515952"
+      ],
+      "mentions": 4,
+      "firstSeen": "2026-06-28",
+      "lastSeen": "2026-07-01",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Crypto Lifeline",
+          "account": "CryptoLifeBSC",
+          "alpha": "发财猪",
+          "seenAt": "2026-06-28",
+          "messageId": "https://x.com/CryptoLifeBSC",
+          "text": "Pixel-world crypto worker and mining-office onchain city"
+        },
+        {
+          "source": "X",
+          "project": "Crypto Lifeline",
+          "account": "CryptoLifeBSC",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-06-28",
+          "messageId": "2026-06-28-x-partial-nlgcf69515952.csv",
+          "text": "Pixel onchain city around crypto workers and mining office gameplay"
+        },
+        {
+          "source": "X",
+          "project": "Crypto Lifeline",
+          "account": "CryptoLifeBSC",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-06-30",
+          "messageId": "2026-06-30-x-partial-nlgcf69515952.csv",
+          "text": "Pixel onchain city around crypto workers and mining office gameplay"
+        },
+        {
+          "source": "X",
+          "project": "Crypto Lifeline",
+          "account": "CryptoLifeBSC",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-07-01",
+          "messageId": "2026-07-01-x-partial-nlgcf69515952.csv",
+          "text": "Pixel onchain city around crypto workers and mining office gameplay"
+        }
+      ],
+      "text": " Crypto Lifeline CryptoLifeBSC Pixel-world crypto worker and mining-office onchain city Crypto Lifeline CryptoLifeBSC Pixel onchain city around crypto workers and mining office gameplay Crypto Lifeline CryptoLifeBSC Pixel onchain city around crypto workers and mining office gameplay Crypto Lifeline CryptoLifeBSC Pixel onchain city around crypto workers and mining office gameplay",
+      "score": 11,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/CryptoLifeBSC"
     },
     {
       "project": "Fibo",
@@ -4784,6 +4964,69 @@
       "avatarUrl": "https://unavatar.io/twitter/TheUnnamedETH"
     },
     {
+      "project": "tren.ch",
+      "account": "trenches",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "nlgcf69515952",
+        "发财猪"
+      ],
+      "tgAlphas": [
+        "发财猪"
+      ],
+      "xAlphas": [
+        "nlgcf69515952"
+      ],
+      "mentions": 4,
+      "firstSeen": "2026-06-27",
+      "lastSeen": "2026-07-01",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "tren.ch",
+          "account": "trenches",
+          "alpha": "发财猪",
+          "seenAt": "2026-06-27",
+          "messageId": "https://x.com/trenches",
+          "text": "Attention market on Solana with waitlist"
+        },
+        {
+          "source": "X",
+          "project": "tren.ch",
+          "account": "trenches",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-06-28",
+          "messageId": "2026-06-28-x-partial-nlgcf69515952.csv",
+          "text": "Solana attention market launching waitlist"
+        },
+        {
+          "source": "X",
+          "project": "tren.ch",
+          "account": "trenches",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-06-30",
+          "messageId": "2026-06-30-x-partial-nlgcf69515952.csv",
+          "text": "Solana attention market launching waitlist"
+        },
+        {
+          "source": "X",
+          "project": "tren.ch",
+          "account": "trenches",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-07-01",
+          "messageId": "2026-07-01-x-partial-nlgcf69515952.csv",
+          "text": "Solana attention market launching waitlist"
+        }
+      ],
+      "text": " tren.ch trenches Attention market on Solana with waitlist tren.ch trenches Solana attention market launching waitlist tren.ch trenches Solana attention market launching waitlist tren.ch trenches Solana attention market launching waitlist",
+      "score": 11,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/trenches"
+    },
+    {
       "project": "WagmiRush",
       "account": "WagmiRush",
       "sources": [
@@ -5280,96 +5523,6 @@
       "avatarUrl": "https://unavatar.io/twitter/bark2zero"
     },
     {
-      "project": "Bubble Buns",
-      "account": "BubbleBunsHQ",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "NotVanGogh88",
-        "ibraxbt",
-        "nlgcf69515952"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "NotVanGogh88",
-        "ibraxbt",
-        "nlgcf69515952"
-      ],
-      "mentions": 7,
-      "firstSeen": "2026-06-28",
-      "lastSeen": "2026-06-30",
-      "rows": [
-        {
-          "source": "X",
-          "project": "Bubble Buns",
-          "account": "BubbleBunsHQ",
-          "alpha": "ibraxbt",
-          "seenAt": "2026-06-28",
-          "messageId": "2026-06-28-x-partial-ibraxbt.csv",
-          "text": "Unlaunched Bubble Buns themed project"
-        },
-        {
-          "source": "X",
-          "project": "Bubble Buns",
-          "account": "BubbleBunsHQ",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-28",
-          "messageId": "2026-06-28-x-partial-nlgcf69515952.csv",
-          "text": "Unlaunched Bubble Buns themed project"
-        },
-        {
-          "source": "X",
-          "project": "Bubble Buns",
-          "account": "BubbleBunsHQ",
-          "alpha": "NotVanGogh88",
-          "seenAt": "2026-06-29",
-          "messageId": "2026-06-29-x-partial-NotVanGogh88.csv",
-          "text": "Unlaunched Bubble Buns themed project"
-        },
-        {
-          "source": "X",
-          "project": "Bubble Buns",
-          "account": "BubbleBunsHQ",
-          "alpha": "ibraxbt",
-          "seenAt": "2026-06-29",
-          "messageId": "2026-06-29-x-partial-ibraxbt.csv",
-          "text": "Unlaunched Bubble Buns themed project"
-        },
-        {
-          "source": "X",
-          "project": "Bubble Buns",
-          "account": "BubbleBunsHQ",
-          "alpha": "NotVanGogh88",
-          "seenAt": "2026-06-30",
-          "messageId": "2026-06-30-x-partial-NotVanGogh88.csv",
-          "text": "Unlaunched Bubble Buns themed project"
-        },
-        {
-          "source": "X",
-          "project": "Bubble Buns",
-          "account": "BubbleBunsHQ",
-          "alpha": "ibraxbt",
-          "seenAt": "2026-06-30",
-          "messageId": "2026-06-30-x-partial-ibraxbt.csv",
-          "text": "Unlaunched Bubble Buns themed project"
-        },
-        {
-          "source": "X",
-          "project": "Bubble Buns",
-          "account": "BubbleBunsHQ",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-30",
-          "messageId": "2026-06-30-x-partial-nlgcf69515952.csv",
-          "text": "Unlaunched Bubble Buns themed project"
-        }
-      ],
-      "text": " Bubble Buns BubbleBunsHQ Unlaunched Bubble Buns themed project Bubble Buns BubbleBunsHQ Unlaunched Bubble Buns themed project Bubble Buns BubbleBunsHQ Unlaunched Bubble Buns themed project Bubble Buns BubbleBunsHQ Unlaunched Bubble Buns themed project Bubble Buns BubbleBunsHQ Unlaunched Bubble Buns themed project Bubble Buns BubbleBunsHQ Unlaunched Bubble Buns themed project Bubble Buns BubbleBunsHQ Unlaunched Bubble Buns themed project",
-      "score": 10,
-      "displayTier": "focus",
-      "avatarUrl": "https://unavatar.io/twitter/BubbleBunsHQ"
-    },
-    {
       "project": "div.fun",
       "account": "divdotfun",
       "sources": [
@@ -5849,60 +6002,6 @@
       "avatarUrl": "https://unavatar.io/twitter/bloopslab"
     },
     {
-      "project": "Crypto Lifeline",
-      "account": "CryptoLifeBSC",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "nlgcf69515952",
-        "发财猪"
-      ],
-      "tgAlphas": [
-        "发财猪"
-      ],
-      "xAlphas": [
-        "nlgcf69515952"
-      ],
-      "mentions": 3,
-      "firstSeen": "2026-06-28",
-      "lastSeen": "2026-06-30",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Crypto Lifeline",
-          "account": "CryptoLifeBSC",
-          "alpha": "发财猪",
-          "seenAt": "2026-06-28",
-          "messageId": "https://x.com/CryptoLifeBSC",
-          "text": "Pixel-world crypto worker and mining-office onchain city"
-        },
-        {
-          "source": "X",
-          "project": "Crypto Lifeline",
-          "account": "CryptoLifeBSC",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-28",
-          "messageId": "2026-06-28-x-partial-nlgcf69515952.csv",
-          "text": "Pixel onchain city around crypto workers and mining office gameplay"
-        },
-        {
-          "source": "X",
-          "project": "Crypto Lifeline",
-          "account": "CryptoLifeBSC",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-30",
-          "messageId": "2026-06-30-x-partial-nlgcf69515952.csv",
-          "text": "Pixel onchain city around crypto workers and mining office gameplay"
-        }
-      ],
-      "text": " Crypto Lifeline CryptoLifeBSC Pixel-world crypto worker and mining-office onchain city Crypto Lifeline CryptoLifeBSC Pixel onchain city around crypto workers and mining office gameplay Crypto Lifeline CryptoLifeBSC Pixel onchain city around crypto workers and mining office gameplay",
-      "score": 10,
-      "displayTier": "focus",
-      "avatarUrl": "https://unavatar.io/twitter/CryptoLifeBSC"
-    },
-    {
       "project": "DYM",
       "account": "dynamicmachives",
       "sources": [
@@ -6333,60 +6432,6 @@
       "score": 10,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/tinyhumansai"
-    },
-    {
-      "project": "tren.ch",
-      "account": "trenches",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "nlgcf69515952",
-        "发财猪"
-      ],
-      "tgAlphas": [
-        "发财猪"
-      ],
-      "xAlphas": [
-        "nlgcf69515952"
-      ],
-      "mentions": 3,
-      "firstSeen": "2026-06-27",
-      "lastSeen": "2026-06-30",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "tren.ch",
-          "account": "trenches",
-          "alpha": "发财猪",
-          "seenAt": "2026-06-27",
-          "messageId": "https://x.com/trenches",
-          "text": "Attention market on Solana with waitlist"
-        },
-        {
-          "source": "X",
-          "project": "tren.ch",
-          "account": "trenches",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-28",
-          "messageId": "2026-06-28-x-partial-nlgcf69515952.csv",
-          "text": "Solana attention market launching waitlist"
-        },
-        {
-          "source": "X",
-          "project": "tren.ch",
-          "account": "trenches",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-30",
-          "messageId": "2026-06-30-x-partial-nlgcf69515952.csv",
-          "text": "Solana attention market launching waitlist"
-        }
-      ],
-      "text": " tren.ch trenches Attention market on Solana with waitlist tren.ch trenches Solana attention market launching waitlist tren.ch trenches Solana attention market launching waitlist",
-      "score": 10,
-      "displayTier": "focus",
-      "avatarUrl": "https://unavatar.io/twitter/trenches"
     },
     {
       "project": "Wonkies",
@@ -7298,6 +7343,51 @@
       "avatarUrl": "https://unavatar.io/twitter/npcB20"
     },
     {
+      "project": "Olm Health",
+      "account": "olmhealth",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "FILANTROP",
+        "bearzverse"
+      ],
+      "tgAlphas": [
+        "FILANTROP"
+      ],
+      "xAlphas": [
+        "bearzverse"
+      ],
+      "mentions": 2,
+      "firstSeen": "2026-06-30",
+      "lastSeen": "2026-07-01",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Olm Health",
+          "account": "olmhealth",
+          "alpha": "FILANTROP",
+          "seenAt": "2026-07-01",
+          "messageId": "https://x.com/olmhealth",
+          "text": "Health project focused on unlocking the immune system"
+        },
+        {
+          "source": "X",
+          "project": "Olm Health",
+          "account": "olmhealth",
+          "alpha": "bearzverse",
+          "seenAt": "2026-06-30",
+          "messageId": "2026-06-30-x-partial-bearzverse.csv",
+          "text": "Health project focused on unlocking the immune system"
+        }
+      ],
+      "text": " Olm Health olmhealth Health project focused on unlocking the immune system Olm Health olmhealth Health project focused on unlocking the immune system",
+      "score": 9,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/olmhealth"
+    },
+    {
       "project": "Onchain Guppies",
       "account": "Guppies_nft",
       "sources": [
@@ -7476,6 +7566,130 @@
       "score": 9,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/tinyvalidators"
+    },
+    {
+      "project": "Vision Wallet",
+      "account": "VisionWallet",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "nlgcf69515952",
+        "发财猪"
+      ],
+      "tgAlphas": [
+        "发财猪"
+      ],
+      "xAlphas": [
+        "nlgcf69515952"
+      ],
+      "mentions": 2,
+      "firstSeen": "2026-06-30",
+      "lastSeen": "2026-07-01",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Vision Wallet",
+          "account": "VisionWallet",
+          "alpha": "发财猪",
+          "seenAt": "2026-06-30",
+          "messageId": "https://x.com/VisionWallet",
+          "text": "Wallet merging traditional investing with blockchain tools"
+        },
+        {
+          "source": "X",
+          "project": "Vision Wallet",
+          "account": "VisionWallet",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-07-01",
+          "messageId": "2026-07-01-x-partial-nlgcf69515952.csv",
+          "text": "Wallet merging traditional investing with blockchain tools"
+        }
+      ],
+      "text": " Vision Wallet VisionWallet Wallet merging traditional investing with blockchain tools Vision Wallet VisionWallet Wallet merging traditional investing with blockchain tools",
+      "score": 9,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/VisionWallet"
+    },
+    {
+      "project": "FD_XYZ",
+      "account": "FD_XYZ",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "ibraxbt",
+        "nlgcf69515952"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "ibraxbt",
+        "nlgcf69515952"
+      ],
+      "mentions": 6,
+      "firstSeen": "2026-06-19",
+      "lastSeen": "2026-07-01",
+      "rows": [
+        {
+          "source": "X",
+          "project": "FD_XYZ",
+          "account": "FD_XYZ",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-19",
+          "messageId": "2026-06-19-x-partial-ibraxbt.csv",
+          "text": "\"Infrastructure for the agent economy.\""
+        },
+        {
+          "source": "X",
+          "project": "Finance District",
+          "account": "FD_XYZ",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-06-25",
+          "messageId": "2026-06-25-x-partial-nlgcf69515952.csv",
+          "text": "Infrastructure for the agent economy"
+        },
+        {
+          "source": "X",
+          "project": "Finance District",
+          "account": "FD_XYZ",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-06-26",
+          "messageId": "2026-06-26-x-partial-nlgcf69515952.csv",
+          "text": "Infrastructure for the agent economy"
+        },
+        {
+          "source": "X",
+          "project": "Finance District",
+          "account": "FD_XYZ",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-06-28",
+          "messageId": "2026-06-28-x-partial-nlgcf69515952.csv",
+          "text": "Infrastructure for the agent economy"
+        },
+        {
+          "source": "X",
+          "project": "Finance District",
+          "account": "FD_XYZ",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-06-30",
+          "messageId": "2026-06-30-x-partial-nlgcf69515952.csv",
+          "text": "Infrastructure for the agent economy"
+        },
+        {
+          "source": "X",
+          "project": "Finance District",
+          "account": "FD_XYZ",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-07-01",
+          "messageId": "2026-07-01-x-partial-nlgcf69515952.csv",
+          "text": "Infrastructure for the agent economy"
+        }
+      ],
+      "text": " FD_XYZ FD_XYZ \"Infrastructure for the agent economy.\" Finance District FD_XYZ Infrastructure for the agent economy Finance District FD_XYZ Infrastructure for the agent economy Finance District FD_XYZ Infrastructure for the agent economy Finance District FD_XYZ Infrastructure for the agent economy Finance District FD_XYZ Infrastructure for the agent economy",
+      "score": 8,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/FD_XYZ"
     },
     {
       "project": "Pixel Putt",
@@ -8826,76 +9040,6 @@
       "avatarUrl": "https://unavatar.io/twitter/EngramLab"
     },
     {
-      "project": "FD_XYZ",
-      "account": "FD_XYZ",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "ibraxbt",
-        "nlgcf69515952"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "ibraxbt",
-        "nlgcf69515952"
-      ],
-      "mentions": 5,
-      "firstSeen": "2026-06-19",
-      "lastSeen": "2026-06-30",
-      "rows": [
-        {
-          "source": "X",
-          "project": "FD_XYZ",
-          "account": "FD_XYZ",
-          "alpha": "ibraxbt",
-          "seenAt": "2026-06-19",
-          "messageId": "2026-06-19-x-partial-ibraxbt.csv",
-          "text": "\"Infrastructure for the agent economy.\""
-        },
-        {
-          "source": "X",
-          "project": "Finance District",
-          "account": "FD_XYZ",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-25",
-          "messageId": "2026-06-25-x-partial-nlgcf69515952.csv",
-          "text": "Infrastructure for the agent economy"
-        },
-        {
-          "source": "X",
-          "project": "Finance District",
-          "account": "FD_XYZ",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-26",
-          "messageId": "2026-06-26-x-partial-nlgcf69515952.csv",
-          "text": "Infrastructure for the agent economy"
-        },
-        {
-          "source": "X",
-          "project": "Finance District",
-          "account": "FD_XYZ",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-28",
-          "messageId": "2026-06-28-x-partial-nlgcf69515952.csv",
-          "text": "Infrastructure for the agent economy"
-        },
-        {
-          "source": "X",
-          "project": "Finance District",
-          "account": "FD_XYZ",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-30",
-          "messageId": "2026-06-30-x-partial-nlgcf69515952.csv",
-          "text": "Infrastructure for the agent economy"
-        }
-      ],
-      "text": " FD_XYZ FD_XYZ \"Infrastructure for the agent economy.\" Finance District FD_XYZ Infrastructure for the agent economy Finance District FD_XYZ Infrastructure for the agent economy Finance District FD_XYZ Infrastructure for the agent economy Finance District FD_XYZ Infrastructure for the agent economy",
-      "score": 7,
-      "displayTier": "focus",
-      "avatarUrl": "https://unavatar.io/twitter/FD_XYZ"
-    },
-    {
       "project": "FireFliesMarket",
       "account": "FireFliesMarket",
       "sources": [
@@ -9984,6 +10128,74 @@
       "score": 6,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/ArcOs_402"
+    },
+    {
+      "project": "PullBattle",
+      "account": "pullbattle",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "nlgcf69515952"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "nlgcf69515952"
+      ],
+      "mentions": 5,
+      "firstSeen": "2026-06-25",
+      "lastSeen": "2026-07-01",
+      "rows": [
+        {
+          "source": "X",
+          "project": "PullBattle",
+          "account": "pullbattle",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-06-25",
+          "messageId": "2026-06-25-x-partial-nlgcf69515952.csv",
+          "text": "Pack ripping and prediction battle game"
+        },
+        {
+          "source": "X",
+          "project": "PullBattle",
+          "account": "pullbattle",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-06-26",
+          "messageId": "2026-06-26-x-partial-nlgcf69515952.csv",
+          "text": "Pack ripping and prediction battle game"
+        },
+        {
+          "source": "X",
+          "project": "PullBattle",
+          "account": "pullbattle",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-06-28",
+          "messageId": "2026-06-28-x-partial-nlgcf69515952.csv",
+          "text": "Pack opening and prediction battle game with waitlist"
+        },
+        {
+          "source": "X",
+          "project": "PullBattle",
+          "account": "pullbattle",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-06-30",
+          "messageId": "2026-06-30-x-partial-nlgcf69515952.csv",
+          "text": "Pack opening and prediction battle game with waitlist"
+        },
+        {
+          "source": "X",
+          "project": "PullBattle",
+          "account": "pullbattle",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-07-01",
+          "messageId": "2026-07-01-x-partial-nlgcf69515952.csv",
+          "text": "Pack opening and prediction battle game with waitlist"
+        }
+      ],
+      "text": " PullBattle pullbattle Pack ripping and prediction battle game PullBattle pullbattle Pack ripping and prediction battle game PullBattle pullbattle Pack opening and prediction battle game with waitlist PullBattle pullbattle Pack opening and prediction battle game with waitlist PullBattle pullbattle Pack opening and prediction battle game with waitlist",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/pullbattle"
     },
     {
       "project": "Reflex",
@@ -11424,65 +11636,6 @@
       "avatarUrl": "https://unavatar.io/twitter/pokefightsol"
     },
     {
-      "project": "PullBattle",
-      "account": "pullbattle",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "nlgcf69515952"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "nlgcf69515952"
-      ],
-      "mentions": 4,
-      "firstSeen": "2026-06-25",
-      "lastSeen": "2026-06-30",
-      "rows": [
-        {
-          "source": "X",
-          "project": "PullBattle",
-          "account": "pullbattle",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-25",
-          "messageId": "2026-06-25-x-partial-nlgcf69515952.csv",
-          "text": "Pack ripping and prediction battle game"
-        },
-        {
-          "source": "X",
-          "project": "PullBattle",
-          "account": "pullbattle",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-26",
-          "messageId": "2026-06-26-x-partial-nlgcf69515952.csv",
-          "text": "Pack ripping and prediction battle game"
-        },
-        {
-          "source": "X",
-          "project": "PullBattle",
-          "account": "pullbattle",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-28",
-          "messageId": "2026-06-28-x-partial-nlgcf69515952.csv",
-          "text": "Pack opening and prediction battle game with waitlist"
-        },
-        {
-          "source": "X",
-          "project": "PullBattle",
-          "account": "pullbattle",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-30",
-          "messageId": "2026-06-30-x-partial-nlgcf69515952.csv",
-          "text": "Pack opening and prediction battle game with waitlist"
-        }
-      ],
-      "text": " PullBattle pullbattle Pack ripping and prediction battle game PullBattle pullbattle Pack ripping and prediction battle game PullBattle pullbattle Pack opening and prediction battle game with waitlist PullBattle pullbattle Pack opening and prediction battle game with waitlist",
-      "score": 5,
-      "displayTier": "focus",
-      "avatarUrl": "https://unavatar.io/twitter/pullbattle"
-    },
-    {
       "project": "pulsev4hook",
       "account": "pulsev4hook",
       "sources": [
@@ -12868,6 +13021,56 @@
       "avatarUrl": "https://unavatar.io/twitter/Age_of_Guilds"
     },
     {
+      "project": "aiport.trade",
+      "account": "aiport_trade",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "nlgcf69515952"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "nlgcf69515952"
+      ],
+      "mentions": 3,
+      "firstSeen": "2026-06-28",
+      "lastSeen": "2026-07-01",
+      "rows": [
+        {
+          "source": "X",
+          "project": "aiport.trade",
+          "account": "aiport_trade",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-06-28",
+          "messageId": "2026-06-28-x-partial-nlgcf69515952.csv",
+          "text": "Operator layer for Base agents with proof-of-life and recovery"
+        },
+        {
+          "source": "X",
+          "project": "aiport.trade",
+          "account": "aiport_trade",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-06-30",
+          "messageId": "2026-06-30-x-partial-nlgcf69515952.csv",
+          "text": "Operator layer for Base agents with proof-of-life and recovery"
+        },
+        {
+          "source": "X",
+          "project": "aiport.trade",
+          "account": "aiport_trade",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-07-01",
+          "messageId": "2026-07-01-x-partial-nlgcf69515952.csv",
+          "text": "Operator layer for Base agents with proof-of-life and recovery"
+        }
+      ],
+      "text": " aiport.trade aiport_trade Operator layer for Base agents with proof-of-life and recovery aiport.trade aiport_trade Operator layer for Base agents with proof-of-life and recovery aiport.trade aiport_trade Operator layer for Base agents with proof-of-life and recovery",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/aiport_trade"
+    },
+    {
       "project": "Alve Agent",
       "account": "AlveAgent",
       "sources": [
@@ -13866,6 +14069,56 @@
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/GoPokeAgent"
+    },
+    {
+      "project": "GRAM Ecosystem",
+      "account": "gram_voyage",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "nlgcf69515952"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "nlgcf69515952"
+      ],
+      "mentions": 3,
+      "firstSeen": "2026-06-28",
+      "lastSeen": "2026-07-01",
+      "rows": [
+        {
+          "source": "X",
+          "project": "GRAM Ecosystem",
+          "account": "gram_voyage",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-06-28",
+          "messageId": "2026-06-28-x-partial-nlgcf69515952.csv",
+          "text": "Base game ecosystem and Chef Universe with ingredient curves"
+        },
+        {
+          "source": "X",
+          "project": "GRAM Ecosystem",
+          "account": "gram_voyage",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-06-30",
+          "messageId": "2026-06-30-x-partial-nlgcf69515952.csv",
+          "text": "Base game ecosystem and Chef Universe with ingredient curves"
+        },
+        {
+          "source": "X",
+          "project": "GRAM Ecosystem",
+          "account": "gram_voyage",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-07-01",
+          "messageId": "2026-07-01-x-partial-nlgcf69515952.csv",
+          "text": "Base game ecosystem and Chef Universe with ingredient curves"
+        }
+      ],
+      "text": " GRAM Ecosystem gram_voyage Base game ecosystem and Chef Universe with ingredient curves GRAM Ecosystem gram_voyage Base game ecosystem and Chef Universe with ingredient curves GRAM Ecosystem gram_voyage Base game ecosystem and Chef Universe with ingredient curves",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/gram_voyage"
     },
     {
       "project": "Grove",
@@ -16572,6 +16825,92 @@
       "avatarUrl": "https://unavatar.io/twitter/RYex_finance"
     },
     {
+      "project": "SHOW ROBOTICS",
+      "account": "SHOW_ROBOTICS",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Kingmaker",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "Kingmaker",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-06-16T05:53:29+00:00",
+      "lastSeen": "2026-07-01",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "SHOW ROBOTICS",
+          "account": "SHOW_ROBOTICS",
+          "alpha": "阿宏",
+          "seenAt": "2026-06-16T05:53:29+00:00",
+          "messageId": "dodtwitterbot/8017",
+          "text": ""
+        },
+        {
+          "source": "TG",
+          "project": "SHOW ROBOTICS",
+          "account": "SHOW_ROBOTICS",
+          "alpha": "Kingmaker",
+          "seenAt": "2026-07-01",
+          "messageId": "https://x.com/SHOW_ROBOTICS",
+          "text": "Embodied AI and robotics project powered by SHOW on Virtuals"
+        }
+      ],
+      "text": " SHOW ROBOTICS SHOW_ROBOTICS  SHOW ROBOTICS SHOW_ROBOTICS Embodied AI and robotics project powered by SHOW on Virtuals",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/SHOW_ROBOTICS"
+    },
+    {
+      "project": "speedist",
+      "account": "speeddotist",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse",
+        "FILANTROP"
+      ],
+      "tgAlphas": [
+        "BearzVerse",
+        "FILANTROP"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-06-30",
+      "lastSeen": "2026-07-01",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "speedist",
+          "account": "speeddotist",
+          "alpha": "BearzVerse",
+          "seenAt": "2026-06-30",
+          "messageId": "https://x.com/speeddotist",
+          "text": "Fast platform for the fastest chain"
+        },
+        {
+          "source": "TG",
+          "project": "speedist",
+          "account": "speeddotist",
+          "alpha": "FILANTROP",
+          "seenAt": "2026-07-01",
+          "messageId": "https://x.com/speeddotist",
+          "text": "Fast platform for the fastest chain"
+        }
+      ],
+      "text": " speedist speeddotist Fast platform for the fastest chain speedist speeddotist Fast platform for the fastest chain",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/speeddotist"
+    },
+    {
       "project": "Taler",
       "account": "talerfinance",
       "sources": [
@@ -16613,6 +16952,49 @@
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/talerfinance"
+    },
+    {
+      "project": "The God Pull",
+      "account": "TheGodPull",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse",
+        "FILANTROP"
+      ],
+      "tgAlphas": [
+        "BearzVerse",
+        "FILANTROP"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-06-30",
+      "lastSeen": "2026-07-01",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "The God Pull",
+          "account": "TheGodPull",
+          "alpha": "BearzVerse",
+          "seenAt": "2026-06-30",
+          "messageId": "https://x.com/TheGodPull",
+          "text": "Collect-and-royalties game or pack project coming soon"
+        },
+        {
+          "source": "TG",
+          "project": "The God Pull",
+          "account": "TheGodPull",
+          "alpha": "FILANTROP",
+          "seenAt": "2026-07-01",
+          "messageId": "https://x.com/TheGodPull",
+          "text": "Collect-and-royalties game or pack project coming soon"
+        }
+      ],
+      "text": " The God Pull TheGodPull Collect-and-royalties game or pack project coming soon The God Pull TheGodPull Collect-and-royalties game or pack project coming soon",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/TheGodPull"
     },
     {
       "project": "trybountyai",
@@ -16785,47 +17167,6 @@
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/zero3xyz"
-    },
-    {
-      "project": "aiport.trade",
-      "account": "aiport_trade",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "nlgcf69515952"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "nlgcf69515952"
-      ],
-      "mentions": 2,
-      "firstSeen": "2026-06-28",
-      "lastSeen": "2026-06-30",
-      "rows": [
-        {
-          "source": "X",
-          "project": "aiport.trade",
-          "account": "aiport_trade",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-28",
-          "messageId": "2026-06-28-x-partial-nlgcf69515952.csv",
-          "text": "Operator layer for Base agents with proof-of-life and recovery"
-        },
-        {
-          "source": "X",
-          "project": "aiport.trade",
-          "account": "aiport_trade",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-30",
-          "messageId": "2026-06-30-x-partial-nlgcf69515952.csv",
-          "text": "Operator layer for Base agents with proof-of-life and recovery"
-        }
-      ],
-      "text": " aiport.trade aiport_trade Operator layer for Base agents with proof-of-life and recovery aiport.trade aiport_trade Operator layer for Base agents with proof-of-life and recovery",
-      "score": 3,
-      "displayTier": "focus",
-      "avatarUrl": "https://unavatar.io/twitter/aiport_trade"
     },
     {
       "project": "AIVM",
@@ -18099,6 +18440,47 @@
       "avatarUrl": "https://unavatar.io/twitter/dinkers_eth"
     },
     {
+      "project": "DotLand",
+      "account": "DotLandApp",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "nlgcf69515952"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "nlgcf69515952"
+      ],
+      "mentions": 2,
+      "firstSeen": "2026-06-30",
+      "lastSeen": "2026-07-01",
+      "rows": [
+        {
+          "source": "X",
+          "project": "DotLand",
+          "account": "DotLandApp",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-06-30",
+          "messageId": "2026-06-30-x-partial-nlgcf69515952.csv",
+          "text": "Onchain dots and grid-land project for internet culture"
+        },
+        {
+          "source": "X",
+          "project": "DotLand",
+          "account": "DotLandApp",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-07-01",
+          "messageId": "2026-07-01-x-partial-nlgcf69515952.csv",
+          "text": "Onchain dots and grid-land project for internet culture"
+        }
+      ],
+      "text": " DotLand DotLandApp Onchain dots and grid-land project for internet culture DotLand DotLandApp Onchain dots and grid-land project for internet culture",
+      "score": 3,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/DotLandApp"
+    },
+    {
       "project": "EggLand",
       "account": "useeggland",
       "sources": [
@@ -18630,47 +19012,6 @@
       "score": 3,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/gamerzonedotgg"
-    },
-    {
-      "project": "GRAM Ecosystem",
-      "account": "gram_voyage",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "nlgcf69515952"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "nlgcf69515952"
-      ],
-      "mentions": 2,
-      "firstSeen": "2026-06-28",
-      "lastSeen": "2026-06-30",
-      "rows": [
-        {
-          "source": "X",
-          "project": "GRAM Ecosystem",
-          "account": "gram_voyage",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-28",
-          "messageId": "2026-06-28-x-partial-nlgcf69515952.csv",
-          "text": "Base game ecosystem and Chef Universe with ingredient curves"
-        },
-        {
-          "source": "X",
-          "project": "GRAM Ecosystem",
-          "account": "gram_voyage",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-30",
-          "messageId": "2026-06-30-x-partial-nlgcf69515952.csv",
-          "text": "Base game ecosystem and Chef Universe with ingredient curves"
-        }
-      ],
-      "text": " GRAM Ecosystem gram_voyage Base game ecosystem and Chef Universe with ingredient curves GRAM Ecosystem gram_voyage Base game ecosystem and Chef Universe with ingredient curves",
-      "score": 3,
-      "displayTier": "focus",
-      "avatarUrl": "https://unavatar.io/twitter/gram_voyage"
     },
     {
       "project": "Grand Theft Clout",
@@ -23061,38 +23402,6 @@
       "avatarUrl": "https://unavatar.io/twitter/dmt_bit_"
     },
     {
-      "project": "DotLand",
-      "account": "DotLandApp",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "nlgcf69515952"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "nlgcf69515952"
-      ],
-      "mentions": 1,
-      "firstSeen": "2026-06-30",
-      "lastSeen": "2026-06-30",
-      "rows": [
-        {
-          "source": "X",
-          "project": "DotLand",
-          "account": "DotLandApp",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-30",
-          "messageId": "2026-06-30-x-partial-nlgcf69515952.csv",
-          "text": "Onchain dots and grid-land project for internet culture"
-        }
-      ],
-      "text": " DotLand DotLandApp Onchain dots and grid-land project for internet culture",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": "https://unavatar.io/twitter/DotLandApp"
-    },
-    {
       "project": "Dropcast",
       "account": "DropcastBNB",
       "sources": [
@@ -23411,6 +23720,38 @@
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": "https://unavatar.io/twitter/Frag_Growth"
+    },
+    {
+      "project": "Front",
+      "account": "FrontDotFun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Kingmaker"
+      ],
+      "tgAlphas": [
+        "Kingmaker"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-01",
+      "lastSeen": "2026-07-01",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Front",
+          "account": "FrontDotFun",
+          "alpha": "Kingmaker",
+          "seenAt": "2026-07-01",
+          "messageId": "https://x.com/FrontDotFun",
+          "text": "Leveraged memecoin trading on Solana using real spot buys through Jupiter"
+        }
+      ],
+      "text": " Front FrontDotFun Leveraged memecoin trading on Solana using real spot buys through Jupiter",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/FrontDotFun"
     },
     {
       "project": "giga_dex",
@@ -25045,6 +25386,38 @@
       "avatarUrl": "https://unavatar.io/twitter/riftpetsxyz"
     },
     {
+      "project": "RobinFarm",
+      "account": "RobinFarms",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Kingmaker"
+      ],
+      "tgAlphas": [
+        "Kingmaker"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-01",
+      "lastSeen": "2026-07-01",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "RobinFarm",
+          "account": "RobinFarms",
+          "alpha": "Kingmaker",
+          "seenAt": "2026-07-01",
+          "messageId": "https://x.com/RobinFarms",
+          "text": "Onchain farming game on Robin Chain with NFT farmers"
+        }
+      ],
+      "text": " RobinFarm RobinFarms Onchain farming game on Robin Chain with NFT farmers",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/RobinFarms"
+    },
+    {
       "project": "RouletteSwap",
       "account": "RouletteSwap",
       "sources": [
@@ -25171,38 +25544,6 @@
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": "https://unavatar.io/twitter/SecretSoc_NFT"
-    },
-    {
-      "project": "SHOW ROBOTICS",
-      "account": "SHOW_ROBOTICS",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "阿宏"
-      ],
-      "tgAlphas": [
-        "阿宏"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-06-16T05:53:29+00:00",
-      "lastSeen": "2026-06-16T05:53:29+00:00",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "SHOW ROBOTICS",
-          "account": "SHOW_ROBOTICS",
-          "alpha": "阿宏",
-          "seenAt": "2026-06-16T05:53:29+00:00",
-          "messageId": "dodtwitterbot/8017",
-          "text": ""
-        }
-      ],
-      "text": " SHOW ROBOTICS SHOW_ROBOTICS ",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": "https://unavatar.io/twitter/SHOW_ROBOTICS"
     },
     {
       "project": "Shroom",
@@ -25461,6 +25802,70 @@
       "avatarUrl": "https://unavatar.io/twitter/sTokensfun"
     },
     {
+      "project": "Summo",
+      "account": "summocash",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Kingmaker"
+      ],
+      "tgAlphas": [
+        "Kingmaker"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-01",
+      "lastSeen": "2026-07-01",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Summo",
+          "account": "summocash",
+          "alpha": "Kingmaker",
+          "seenAt": "2026-07-01",
+          "messageId": "https://x.com/summocash",
+          "text": "Warm wallet coming soon"
+        }
+      ],
+      "text": " Summo summocash Warm wallet coming soon",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/summocash"
+    },
+    {
+      "project": "Swing",
+      "account": "swing_io",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Kingmaker"
+      ],
+      "tgAlphas": [
+        "Kingmaker"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-01",
+      "lastSeen": "2026-07-01",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Swing",
+          "account": "swing_io",
+          "alpha": "Kingmaker",
+          "seenAt": "2026-07-01",
+          "messageId": "https://x.com/swing_io",
+          "text": "Continuous trading competition on Solana with private beta in July"
+        }
+      ],
+      "text": " Swing swing_io Continuous trading competition on Solana with private beta in July",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/swing_io"
+    },
+    {
       "project": "Tachyo_ai",
       "account": "Tachyo_ai",
       "sources": [
@@ -25523,38 +25928,6 @@
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": "https://unavatar.io/twitter/TaskOS_Ai"
-    },
-    {
-      "project": "The God Pull",
-      "account": "TheGodPull",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "BearzVerse"
-      ],
-      "tgAlphas": [
-        "BearzVerse"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-06-30",
-      "lastSeen": "2026-06-30",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "The God Pull",
-          "account": "TheGodPull",
-          "alpha": "BearzVerse",
-          "seenAt": "2026-06-30",
-          "messageId": "https://x.com/TheGodPull",
-          "text": "Collect-and-royalties game or pack project coming soon"
-        }
-      ],
-      "text": " The God Pull TheGodPull Collect-and-royalties game or pack project coming soon",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": "https://unavatar.io/twitter/TheGodPull"
     },
     {
       "project": "TheMegaEye",
@@ -28393,6 +28766,91 @@
       "avatarUrl": "https://unavatar.io/twitter/internet_codes"
     },
     {
+      "project": "Metal",
+      "account": "metalntwx",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "alphafries",
+        "ibraxbt",
+        "nlgcf69515952",
+        "小雨倾城"
+      ],
+      "tgAlphas": [
+        "小雨倾城"
+      ],
+      "xAlphas": [
+        "alphafries",
+        "ibraxbt",
+        "nlgcf69515952"
+      ],
+      "mentions": 6,
+      "firstSeen": "2026-06-26",
+      "lastSeen": "2026-07-01",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Metal",
+          "account": "metalntwx",
+          "alpha": "小雨倾城",
+          "seenAt": "2026-06-27",
+          "messageId": "https://x.com/metalntwx",
+          "text": "Settlement network for tokenized financial products"
+        },
+        {
+          "source": "X",
+          "project": "Metal",
+          "account": "metalntwx",
+          "alpha": "alphafries",
+          "seenAt": "2026-06-26",
+          "messageId": "2026-06-26-x-partial-alphafries.csv",
+          "text": "Settlement network for tokenized financial products"
+        },
+        {
+          "source": "X",
+          "project": "Metal",
+          "account": "metalntwx",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-26",
+          "messageId": "2026-06-26-x-partial-ibraxbt.csv",
+          "text": "Settlement network for tokenized financial products"
+        },
+        {
+          "source": "X",
+          "project": "Metal",
+          "account": "metalntwx",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-06-28",
+          "messageId": "2026-06-28-x-partial-nlgcf69515952.csv",
+          "text": "Settlement network for tokenized financial products"
+        },
+        {
+          "source": "X",
+          "project": "Metal",
+          "account": "metalntwx",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-06-30",
+          "messageId": "2026-06-30-x-partial-nlgcf69515952.csv",
+          "text": "Settlement network for tokenized financial products"
+        },
+        {
+          "source": "X",
+          "project": "Metal",
+          "account": "metalntwx",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-07-01",
+          "messageId": "2026-07-01-x-partial-nlgcf69515952.csv",
+          "text": "Settlement network for tokenized financial products"
+        }
+      ],
+      "text": " Metal metalntwx Settlement network for tokenized financial products Metal metalntwx Settlement network for tokenized financial products Metal metalntwx Settlement network for tokenized financial products Metal metalntwx Settlement network for tokenized financial products Metal metalntwx Settlement network for tokenized financial products Metal metalntwx Settlement network for tokenized financial products",
+      "score": 15,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/metalntwx"
+    },
+    {
       "project": "TradeFish",
       "account": "tradefishfun",
       "sources": [
@@ -28474,82 +28932,6 @@
       "score": 14,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/tradefishfun"
-    },
-    {
-      "project": "Metal",
-      "account": "metalntwx",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "alphafries",
-        "ibraxbt",
-        "nlgcf69515952",
-        "小雨倾城"
-      ],
-      "tgAlphas": [
-        "小雨倾城"
-      ],
-      "xAlphas": [
-        "alphafries",
-        "ibraxbt",
-        "nlgcf69515952"
-      ],
-      "mentions": 5,
-      "firstSeen": "2026-06-26",
-      "lastSeen": "2026-06-30",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Metal",
-          "account": "metalntwx",
-          "alpha": "小雨倾城",
-          "seenAt": "2026-06-27",
-          "messageId": "https://x.com/metalntwx",
-          "text": "Settlement network for tokenized financial products"
-        },
-        {
-          "source": "X",
-          "project": "Metal",
-          "account": "metalntwx",
-          "alpha": "alphafries",
-          "seenAt": "2026-06-26",
-          "messageId": "2026-06-26-x-partial-alphafries.csv",
-          "text": "Settlement network for tokenized financial products"
-        },
-        {
-          "source": "X",
-          "project": "Metal",
-          "account": "metalntwx",
-          "alpha": "ibraxbt",
-          "seenAt": "2026-06-26",
-          "messageId": "2026-06-26-x-partial-ibraxbt.csv",
-          "text": "Settlement network for tokenized financial products"
-        },
-        {
-          "source": "X",
-          "project": "Metal",
-          "account": "metalntwx",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-28",
-          "messageId": "2026-06-28-x-partial-nlgcf69515952.csv",
-          "text": "Settlement network for tokenized financial products"
-        },
-        {
-          "source": "X",
-          "project": "Metal",
-          "account": "metalntwx",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-30",
-          "messageId": "2026-06-30-x-partial-nlgcf69515952.csv",
-          "text": "Settlement network for tokenized financial products"
-        }
-      ],
-      "text": " Metal metalntwx Settlement network for tokenized financial products Metal metalntwx Settlement network for tokenized financial products Metal metalntwx Settlement network for tokenized financial products Metal metalntwx Settlement network for tokenized financial products Metal metalntwx Settlement network for tokenized financial products",
-      "score": 14,
-      "displayTier": "focus",
-      "avatarUrl": "https://unavatar.io/twitter/metalntwx"
     },
     {
       "project": "iochain",
@@ -29597,6 +29979,69 @@
       "avatarUrl": "https://unavatar.io/twitter/taxsdotfun"
     },
     {
+      "project": "Crypto Lifeline",
+      "account": "CryptoLifeBSC",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "nlgcf69515952",
+        "发财猪"
+      ],
+      "tgAlphas": [
+        "发财猪"
+      ],
+      "xAlphas": [
+        "nlgcf69515952"
+      ],
+      "mentions": 4,
+      "firstSeen": "2026-06-28",
+      "lastSeen": "2026-07-01",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Crypto Lifeline",
+          "account": "CryptoLifeBSC",
+          "alpha": "发财猪",
+          "seenAt": "2026-06-28",
+          "messageId": "https://x.com/CryptoLifeBSC",
+          "text": "Pixel-world crypto worker and mining-office onchain city"
+        },
+        {
+          "source": "X",
+          "project": "Crypto Lifeline",
+          "account": "CryptoLifeBSC",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-06-28",
+          "messageId": "2026-06-28-x-partial-nlgcf69515952.csv",
+          "text": "Pixel onchain city around crypto workers and mining office gameplay"
+        },
+        {
+          "source": "X",
+          "project": "Crypto Lifeline",
+          "account": "CryptoLifeBSC",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-06-30",
+          "messageId": "2026-06-30-x-partial-nlgcf69515952.csv",
+          "text": "Pixel onchain city around crypto workers and mining office gameplay"
+        },
+        {
+          "source": "X",
+          "project": "Crypto Lifeline",
+          "account": "CryptoLifeBSC",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-07-01",
+          "messageId": "2026-07-01-x-partial-nlgcf69515952.csv",
+          "text": "Pixel onchain city around crypto workers and mining office gameplay"
+        }
+      ],
+      "text": " Crypto Lifeline CryptoLifeBSC Pixel-world crypto worker and mining-office onchain city Crypto Lifeline CryptoLifeBSC Pixel onchain city around crypto workers and mining office gameplay Crypto Lifeline CryptoLifeBSC Pixel onchain city around crypto workers and mining office gameplay Crypto Lifeline CryptoLifeBSC Pixel onchain city around crypto workers and mining office gameplay",
+      "score": 11,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/CryptoLifeBSC"
+    },
+    {
       "project": "Fibo",
       "account": "fibodotfun",
       "sources": [
@@ -30227,6 +30672,69 @@
       "avatarUrl": "https://unavatar.io/twitter/TheUnnamedETH"
     },
     {
+      "project": "tren.ch",
+      "account": "trenches",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "nlgcf69515952",
+        "发财猪"
+      ],
+      "tgAlphas": [
+        "发财猪"
+      ],
+      "xAlphas": [
+        "nlgcf69515952"
+      ],
+      "mentions": 4,
+      "firstSeen": "2026-06-27",
+      "lastSeen": "2026-07-01",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "tren.ch",
+          "account": "trenches",
+          "alpha": "发财猪",
+          "seenAt": "2026-06-27",
+          "messageId": "https://x.com/trenches",
+          "text": "Attention market on Solana with waitlist"
+        },
+        {
+          "source": "X",
+          "project": "tren.ch",
+          "account": "trenches",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-06-28",
+          "messageId": "2026-06-28-x-partial-nlgcf69515952.csv",
+          "text": "Solana attention market launching waitlist"
+        },
+        {
+          "source": "X",
+          "project": "tren.ch",
+          "account": "trenches",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-06-30",
+          "messageId": "2026-06-30-x-partial-nlgcf69515952.csv",
+          "text": "Solana attention market launching waitlist"
+        },
+        {
+          "source": "X",
+          "project": "tren.ch",
+          "account": "trenches",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-07-01",
+          "messageId": "2026-07-01-x-partial-nlgcf69515952.csv",
+          "text": "Solana attention market launching waitlist"
+        }
+      ],
+      "text": " tren.ch trenches Attention market on Solana with waitlist tren.ch trenches Solana attention market launching waitlist tren.ch trenches Solana attention market launching waitlist tren.ch trenches Solana attention market launching waitlist",
+      "score": 11,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/trenches"
+    },
+    {
       "project": "WagmiRush",
       "account": "WagmiRush",
       "sources": [
@@ -30849,60 +31357,6 @@
       "avatarUrl": "https://unavatar.io/twitter/bloopslab"
     },
     {
-      "project": "Crypto Lifeline",
-      "account": "CryptoLifeBSC",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "nlgcf69515952",
-        "发财猪"
-      ],
-      "tgAlphas": [
-        "发财猪"
-      ],
-      "xAlphas": [
-        "nlgcf69515952"
-      ],
-      "mentions": 3,
-      "firstSeen": "2026-06-28",
-      "lastSeen": "2026-06-30",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Crypto Lifeline",
-          "account": "CryptoLifeBSC",
-          "alpha": "发财猪",
-          "seenAt": "2026-06-28",
-          "messageId": "https://x.com/CryptoLifeBSC",
-          "text": "Pixel-world crypto worker and mining-office onchain city"
-        },
-        {
-          "source": "X",
-          "project": "Crypto Lifeline",
-          "account": "CryptoLifeBSC",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-28",
-          "messageId": "2026-06-28-x-partial-nlgcf69515952.csv",
-          "text": "Pixel onchain city around crypto workers and mining office gameplay"
-        },
-        {
-          "source": "X",
-          "project": "Crypto Lifeline",
-          "account": "CryptoLifeBSC",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-30",
-          "messageId": "2026-06-30-x-partial-nlgcf69515952.csv",
-          "text": "Pixel onchain city around crypto workers and mining office gameplay"
-        }
-      ],
-      "text": " Crypto Lifeline CryptoLifeBSC Pixel-world crypto worker and mining-office onchain city Crypto Lifeline CryptoLifeBSC Pixel onchain city around crypto workers and mining office gameplay Crypto Lifeline CryptoLifeBSC Pixel onchain city around crypto workers and mining office gameplay",
-      "score": 10,
-      "displayTier": "focus",
-      "avatarUrl": "https://unavatar.io/twitter/CryptoLifeBSC"
-    },
-    {
       "project": "DYM",
       "account": "dynamicmachives",
       "sources": [
@@ -31333,60 +31787,6 @@
       "score": 10,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/tinyhumansai"
-    },
-    {
-      "project": "tren.ch",
-      "account": "trenches",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "nlgcf69515952",
-        "发财猪"
-      ],
-      "tgAlphas": [
-        "发财猪"
-      ],
-      "xAlphas": [
-        "nlgcf69515952"
-      ],
-      "mentions": 3,
-      "firstSeen": "2026-06-27",
-      "lastSeen": "2026-06-30",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "tren.ch",
-          "account": "trenches",
-          "alpha": "发财猪",
-          "seenAt": "2026-06-27",
-          "messageId": "https://x.com/trenches",
-          "text": "Attention market on Solana with waitlist"
-        },
-        {
-          "source": "X",
-          "project": "tren.ch",
-          "account": "trenches",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-28",
-          "messageId": "2026-06-28-x-partial-nlgcf69515952.csv",
-          "text": "Solana attention market launching waitlist"
-        },
-        {
-          "source": "X",
-          "project": "tren.ch",
-          "account": "trenches",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-30",
-          "messageId": "2026-06-30-x-partial-nlgcf69515952.csv",
-          "text": "Solana attention market launching waitlist"
-        }
-      ],
-      "text": " tren.ch trenches Attention market on Solana with waitlist tren.ch trenches Solana attention market launching waitlist tren.ch trenches Solana attention market launching waitlist",
-      "score": 10,
-      "displayTier": "focus",
-      "avatarUrl": "https://unavatar.io/twitter/trenches"
     },
     {
       "project": "01",
@@ -31974,6 +32374,51 @@
       "avatarUrl": "https://unavatar.io/twitter/npcB20"
     },
     {
+      "project": "Olm Health",
+      "account": "olmhealth",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "FILANTROP",
+        "bearzverse"
+      ],
+      "tgAlphas": [
+        "FILANTROP"
+      ],
+      "xAlphas": [
+        "bearzverse"
+      ],
+      "mentions": 2,
+      "firstSeen": "2026-06-30",
+      "lastSeen": "2026-07-01",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Olm Health",
+          "account": "olmhealth",
+          "alpha": "FILANTROP",
+          "seenAt": "2026-07-01",
+          "messageId": "https://x.com/olmhealth",
+          "text": "Health project focused on unlocking the immune system"
+        },
+        {
+          "source": "X",
+          "project": "Olm Health",
+          "account": "olmhealth",
+          "alpha": "bearzverse",
+          "seenAt": "2026-06-30",
+          "messageId": "2026-06-30-x-partial-bearzverse.csv",
+          "text": "Health project focused on unlocking the immune system"
+        }
+      ],
+      "text": " Olm Health olmhealth Health project focused on unlocking the immune system Olm Health olmhealth Health project focused on unlocking the immune system",
+      "score": 9,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/olmhealth"
+    },
+    {
       "project": "Onchain Guppies",
       "account": "Guppies_nft",
       "sources": [
@@ -32152,6 +32597,51 @@
       "score": 9,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/tinyvalidators"
+    },
+    {
+      "project": "Vision Wallet",
+      "account": "VisionWallet",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "nlgcf69515952",
+        "发财猪"
+      ],
+      "tgAlphas": [
+        "发财猪"
+      ],
+      "xAlphas": [
+        "nlgcf69515952"
+      ],
+      "mentions": 2,
+      "firstSeen": "2026-06-30",
+      "lastSeen": "2026-07-01",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Vision Wallet",
+          "account": "VisionWallet",
+          "alpha": "发财猪",
+          "seenAt": "2026-06-30",
+          "messageId": "https://x.com/VisionWallet",
+          "text": "Wallet merging traditional investing with blockchain tools"
+        },
+        {
+          "source": "X",
+          "project": "Vision Wallet",
+          "account": "VisionWallet",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-07-01",
+          "messageId": "2026-07-01-x-partial-nlgcf69515952.csv",
+          "text": "Wallet merging traditional investing with blockchain tools"
+        }
+      ],
+      "text": " Vision Wallet VisionWallet Wallet merging traditional investing with blockchain tools Vision Wallet VisionWallet Wallet merging traditional investing with blockchain tools",
+      "score": 9,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/VisionWallet"
     },
     {
       "project": "BaseBoredClub",
@@ -34525,91 +35015,6 @@
       "avatarUrl": "https://unavatar.io/twitter/PlayTCGArena"
     },
     {
-      "project": "Codes",
-      "account": "internet_codes",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "Kingmaker",
-        "NotVanGogh88",
-        "unsynned",
-        "xeogy92298766"
-      ],
-      "tgAlphas": [
-        "Kingmaker"
-      ],
-      "xAlphas": [
-        "NotVanGogh88",
-        "unsynned",
-        "xeogy92298766"
-      ],
-      "mentions": 6,
-      "firstSeen": "2026-06-29",
-      "lastSeen": "2026-06-30",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Codes",
-          "account": "internet_codes",
-          "alpha": "Kingmaker",
-          "seenAt": "2026-06-29",
-          "messageId": "https://x.com/internet_codes",
-          "text": "Early product account with 4 mutual follows"
-        },
-        {
-          "source": "X",
-          "project": "Codes",
-          "account": "internet_codes",
-          "alpha": "unsynned",
-          "seenAt": "2026-06-29",
-          "messageId": "2026-06-29-x-partial-unsynned.csv",
-          "text": "Early product account with multiple mutual follows"
-        },
-        {
-          "source": "X",
-          "project": "Codes",
-          "account": "internet_codes",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-29",
-          "messageId": "2026-06-29-x-partial-xeogy92298766.csv",
-          "text": "Early product account with multiple mutual follows"
-        },
-        {
-          "source": "X",
-          "project": "Codes",
-          "account": "internet_codes",
-          "alpha": "NotVanGogh88",
-          "seenAt": "2026-06-30",
-          "messageId": "2026-06-30-x-partial-NotVanGogh88.csv",
-          "text": "Early product account with multiple mutual follows"
-        },
-        {
-          "source": "X",
-          "project": "Codes",
-          "account": "internet_codes",
-          "alpha": "unsynned",
-          "seenAt": "2026-06-30",
-          "messageId": "2026-06-30-x-partial-unsynned.csv",
-          "text": "Early product account with multiple mutual follows"
-        },
-        {
-          "source": "X",
-          "project": "Codes",
-          "account": "internet_codes",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-30",
-          "messageId": "2026-06-30-x-partial-xeogy92298766.csv",
-          "text": "Early product account with multiple mutual follows"
-        }
-      ],
-      "text": " Codes internet_codes Early product account with 4 mutual follows Codes internet_codes Early product account with multiple mutual follows Codes internet_codes Early product account with multiple mutual follows Codes internet_codes Early product account with multiple mutual follows Codes internet_codes Early product account with multiple mutual follows Codes internet_codes Early product account with multiple mutual follows",
-      "score": 15,
-      "displayTier": "focus",
-      "avatarUrl": "https://unavatar.io/twitter/internet_codes"
-    },
-    {
       "project": "opcode",
       "account": "opcode_fi",
       "sources": [
@@ -34628,9 +35033,9 @@
         "nlgcf69515952",
         "zizai3ro"
       ],
-      "mentions": 10,
+      "mentions": 11,
       "firstSeen": "2026-06-26",
-      "lastSeen": "2026-06-30",
+      "lastSeen": "2026-07-01",
       "rows": [
         {
           "source": "X",
@@ -34721,12 +35126,191 @@
           "seenAt": "2026-06-30",
           "messageId": "2026-06-30-x-partial-zizai3ro.csv",
           "text": "Stock and ETF access on Ethereum"
+        },
+        {
+          "source": "X",
+          "project": "opcode",
+          "account": "opcode_fi",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-07-01",
+          "messageId": "2026-07-01-x-partial-nlgcf69515952.csv",
+          "text": "Stock and ETF access on Ethereum"
         }
       ],
-      "text": " opcode opcode_fi Ethereum stock and ETF product opcode opcode_fi Ethereum stock and ETF product opcode opcode_fi Ethereum stock and ETF product opcode opcode_fi Ethereum stock and ETF product opcode opcode_fi Stock and ETF access on Ethereum opcode opcode_fi Stock and ETF access on Ethereum opcode opcode_fi Stock and ETF access on Ethereum opcode opcode_fi Stock and ETF access on Ethereum opcode opcode_fi Stock and ETF access on Ethereum opcode opcode_fi Stock and ETF access on Ethereum",
-      "score": 14,
+      "text": " opcode opcode_fi Ethereum stock and ETF product opcode opcode_fi Ethereum stock and ETF product opcode opcode_fi Ethereum stock and ETF product opcode opcode_fi Ethereum stock and ETF product opcode opcode_fi Stock and ETF access on Ethereum opcode opcode_fi Stock and ETF access on Ethereum opcode opcode_fi Stock and ETF access on Ethereum opcode opcode_fi Stock and ETF access on Ethereum opcode opcode_fi Stock and ETF access on Ethereum opcode opcode_fi Stock and ETF access on Ethereum opcode opcode_fi Stock and ETF access on Ethereum",
+      "score": 15,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/opcode_fi"
+    },
+    {
+      "project": "Codes",
+      "account": "internet_codes",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "Kingmaker",
+        "NotVanGogh88",
+        "unsynned",
+        "xeogy92298766"
+      ],
+      "tgAlphas": [
+        "Kingmaker"
+      ],
+      "xAlphas": [
+        "NotVanGogh88",
+        "unsynned",
+        "xeogy92298766"
+      ],
+      "mentions": 6,
+      "firstSeen": "2026-06-29",
+      "lastSeen": "2026-06-30",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Codes",
+          "account": "internet_codes",
+          "alpha": "Kingmaker",
+          "seenAt": "2026-06-29",
+          "messageId": "https://x.com/internet_codes",
+          "text": "Early product account with 4 mutual follows"
+        },
+        {
+          "source": "X",
+          "project": "Codes",
+          "account": "internet_codes",
+          "alpha": "unsynned",
+          "seenAt": "2026-06-29",
+          "messageId": "2026-06-29-x-partial-unsynned.csv",
+          "text": "Early product account with multiple mutual follows"
+        },
+        {
+          "source": "X",
+          "project": "Codes",
+          "account": "internet_codes",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-29",
+          "messageId": "2026-06-29-x-partial-xeogy92298766.csv",
+          "text": "Early product account with multiple mutual follows"
+        },
+        {
+          "source": "X",
+          "project": "Codes",
+          "account": "internet_codes",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-30",
+          "messageId": "2026-06-30-x-partial-NotVanGogh88.csv",
+          "text": "Early product account with multiple mutual follows"
+        },
+        {
+          "source": "X",
+          "project": "Codes",
+          "account": "internet_codes",
+          "alpha": "unsynned",
+          "seenAt": "2026-06-30",
+          "messageId": "2026-06-30-x-partial-unsynned.csv",
+          "text": "Early product account with multiple mutual follows"
+        },
+        {
+          "source": "X",
+          "project": "Codes",
+          "account": "internet_codes",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-30",
+          "messageId": "2026-06-30-x-partial-xeogy92298766.csv",
+          "text": "Early product account with multiple mutual follows"
+        }
+      ],
+      "text": " Codes internet_codes Early product account with 4 mutual follows Codes internet_codes Early product account with multiple mutual follows Codes internet_codes Early product account with multiple mutual follows Codes internet_codes Early product account with multiple mutual follows Codes internet_codes Early product account with multiple mutual follows Codes internet_codes Early product account with multiple mutual follows",
+      "score": 15,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/internet_codes"
+    },
+    {
+      "project": "Metal",
+      "account": "metalntwx",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "alphafries",
+        "ibraxbt",
+        "nlgcf69515952",
+        "小雨倾城"
+      ],
+      "tgAlphas": [
+        "小雨倾城"
+      ],
+      "xAlphas": [
+        "alphafries",
+        "ibraxbt",
+        "nlgcf69515952"
+      ],
+      "mentions": 6,
+      "firstSeen": "2026-06-26",
+      "lastSeen": "2026-07-01",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Metal",
+          "account": "metalntwx",
+          "alpha": "小雨倾城",
+          "seenAt": "2026-06-27",
+          "messageId": "https://x.com/metalntwx",
+          "text": "Settlement network for tokenized financial products"
+        },
+        {
+          "source": "X",
+          "project": "Metal",
+          "account": "metalntwx",
+          "alpha": "alphafries",
+          "seenAt": "2026-06-26",
+          "messageId": "2026-06-26-x-partial-alphafries.csv",
+          "text": "Settlement network for tokenized financial products"
+        },
+        {
+          "source": "X",
+          "project": "Metal",
+          "account": "metalntwx",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-26",
+          "messageId": "2026-06-26-x-partial-ibraxbt.csv",
+          "text": "Settlement network for tokenized financial products"
+        },
+        {
+          "source": "X",
+          "project": "Metal",
+          "account": "metalntwx",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-06-28",
+          "messageId": "2026-06-28-x-partial-nlgcf69515952.csv",
+          "text": "Settlement network for tokenized financial products"
+        },
+        {
+          "source": "X",
+          "project": "Metal",
+          "account": "metalntwx",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-06-30",
+          "messageId": "2026-06-30-x-partial-nlgcf69515952.csv",
+          "text": "Settlement network for tokenized financial products"
+        },
+        {
+          "source": "X",
+          "project": "Metal",
+          "account": "metalntwx",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-07-01",
+          "messageId": "2026-07-01-x-partial-nlgcf69515952.csv",
+          "text": "Settlement network for tokenized financial products"
+        }
+      ],
+      "text": " Metal metalntwx Settlement network for tokenized financial products Metal metalntwx Settlement network for tokenized financial products Metal metalntwx Settlement network for tokenized financial products Metal metalntwx Settlement network for tokenized financial products Metal metalntwx Settlement network for tokenized financial products Metal metalntwx Settlement network for tokenized financial products",
+      "score": 15,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/metalntwx"
     },
     {
       "project": "TradeFish",
@@ -34810,82 +35394,6 @@
       "score": 14,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/tradefishfun"
-    },
-    {
-      "project": "Metal",
-      "account": "metalntwx",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "alphafries",
-        "ibraxbt",
-        "nlgcf69515952",
-        "小雨倾城"
-      ],
-      "tgAlphas": [
-        "小雨倾城"
-      ],
-      "xAlphas": [
-        "alphafries",
-        "ibraxbt",
-        "nlgcf69515952"
-      ],
-      "mentions": 5,
-      "firstSeen": "2026-06-26",
-      "lastSeen": "2026-06-30",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Metal",
-          "account": "metalntwx",
-          "alpha": "小雨倾城",
-          "seenAt": "2026-06-27",
-          "messageId": "https://x.com/metalntwx",
-          "text": "Settlement network for tokenized financial products"
-        },
-        {
-          "source": "X",
-          "project": "Metal",
-          "account": "metalntwx",
-          "alpha": "alphafries",
-          "seenAt": "2026-06-26",
-          "messageId": "2026-06-26-x-partial-alphafries.csv",
-          "text": "Settlement network for tokenized financial products"
-        },
-        {
-          "source": "X",
-          "project": "Metal",
-          "account": "metalntwx",
-          "alpha": "ibraxbt",
-          "seenAt": "2026-06-26",
-          "messageId": "2026-06-26-x-partial-ibraxbt.csv",
-          "text": "Settlement network for tokenized financial products"
-        },
-        {
-          "source": "X",
-          "project": "Metal",
-          "account": "metalntwx",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-28",
-          "messageId": "2026-06-28-x-partial-nlgcf69515952.csv",
-          "text": "Settlement network for tokenized financial products"
-        },
-        {
-          "source": "X",
-          "project": "Metal",
-          "account": "metalntwx",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-30",
-          "messageId": "2026-06-30-x-partial-nlgcf69515952.csv",
-          "text": "Settlement network for tokenized financial products"
-        }
-      ],
-      "text": " Metal metalntwx Settlement network for tokenized financial products Metal metalntwx Settlement network for tokenized financial products Metal metalntwx Settlement network for tokenized financial products Metal metalntwx Settlement network for tokenized financial products Metal metalntwx Settlement network for tokenized financial products",
-      "score": 14,
-      "displayTier": "focus",
-      "avatarUrl": "https://unavatar.io/twitter/metalntwx"
     },
     {
       "project": "Infeld",
@@ -36151,6 +36659,105 @@
       "avatarUrl": "https://unavatar.io/twitter/taxsdotfun"
     },
     {
+      "project": "Bubble Buns",
+      "account": "BubbleBunsHQ",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "NotVanGogh88",
+        "ibraxbt",
+        "nlgcf69515952"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "NotVanGogh88",
+        "ibraxbt",
+        "nlgcf69515952"
+      ],
+      "mentions": 8,
+      "firstSeen": "2026-06-28",
+      "lastSeen": "2026-07-01",
+      "rows": [
+        {
+          "source": "X",
+          "project": "Bubble Buns",
+          "account": "BubbleBunsHQ",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-28",
+          "messageId": "2026-06-28-x-partial-ibraxbt.csv",
+          "text": "Unlaunched Bubble Buns themed project"
+        },
+        {
+          "source": "X",
+          "project": "Bubble Buns",
+          "account": "BubbleBunsHQ",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-06-28",
+          "messageId": "2026-06-28-x-partial-nlgcf69515952.csv",
+          "text": "Unlaunched Bubble Buns themed project"
+        },
+        {
+          "source": "X",
+          "project": "Bubble Buns",
+          "account": "BubbleBunsHQ",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-29",
+          "messageId": "2026-06-29-x-partial-NotVanGogh88.csv",
+          "text": "Unlaunched Bubble Buns themed project"
+        },
+        {
+          "source": "X",
+          "project": "Bubble Buns",
+          "account": "BubbleBunsHQ",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-29",
+          "messageId": "2026-06-29-x-partial-ibraxbt.csv",
+          "text": "Unlaunched Bubble Buns themed project"
+        },
+        {
+          "source": "X",
+          "project": "Bubble Buns",
+          "account": "BubbleBunsHQ",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-30",
+          "messageId": "2026-06-30-x-partial-NotVanGogh88.csv",
+          "text": "Unlaunched Bubble Buns themed project"
+        },
+        {
+          "source": "X",
+          "project": "Bubble Buns",
+          "account": "BubbleBunsHQ",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-30",
+          "messageId": "2026-06-30-x-partial-ibraxbt.csv",
+          "text": "Unlaunched Bubble Buns themed project"
+        },
+        {
+          "source": "X",
+          "project": "Bubble Buns",
+          "account": "BubbleBunsHQ",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-06-30",
+          "messageId": "2026-06-30-x-partial-nlgcf69515952.csv",
+          "text": "Unlaunched Bubble Buns themed project"
+        },
+        {
+          "source": "X",
+          "project": "Bubble Buns",
+          "account": "BubbleBunsHQ",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-07-01",
+          "messageId": "2026-07-01-x-partial-nlgcf69515952.csv",
+          "text": "Unlaunched Bubble Buns themed project"
+        }
+      ],
+      "text": " Bubble Buns BubbleBunsHQ Unlaunched Bubble Buns themed project Bubble Buns BubbleBunsHQ Unlaunched Bubble Buns themed project Bubble Buns BubbleBunsHQ Unlaunched Bubble Buns themed project Bubble Buns BubbleBunsHQ Unlaunched Bubble Buns themed project Bubble Buns BubbleBunsHQ Unlaunched Bubble Buns themed project Bubble Buns BubbleBunsHQ Unlaunched Bubble Buns themed project Bubble Buns BubbleBunsHQ Unlaunched Bubble Buns themed project Bubble Buns BubbleBunsHQ Unlaunched Bubble Buns themed project",
+      "score": 11,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/BubbleBunsHQ"
+    },
+    {
       "project": "echonv4",
       "account": "echonv4",
       "sources": [
@@ -36432,6 +37039,69 @@
       "score": 11,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/Sheerwood_"
+    },
+    {
+      "project": "Crypto Lifeline",
+      "account": "CryptoLifeBSC",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "nlgcf69515952",
+        "发财猪"
+      ],
+      "tgAlphas": [
+        "发财猪"
+      ],
+      "xAlphas": [
+        "nlgcf69515952"
+      ],
+      "mentions": 4,
+      "firstSeen": "2026-06-28",
+      "lastSeen": "2026-07-01",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Crypto Lifeline",
+          "account": "CryptoLifeBSC",
+          "alpha": "发财猪",
+          "seenAt": "2026-06-28",
+          "messageId": "https://x.com/CryptoLifeBSC",
+          "text": "Pixel-world crypto worker and mining-office onchain city"
+        },
+        {
+          "source": "X",
+          "project": "Crypto Lifeline",
+          "account": "CryptoLifeBSC",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-06-28",
+          "messageId": "2026-06-28-x-partial-nlgcf69515952.csv",
+          "text": "Pixel onchain city around crypto workers and mining office gameplay"
+        },
+        {
+          "source": "X",
+          "project": "Crypto Lifeline",
+          "account": "CryptoLifeBSC",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-06-30",
+          "messageId": "2026-06-30-x-partial-nlgcf69515952.csv",
+          "text": "Pixel onchain city around crypto workers and mining office gameplay"
+        },
+        {
+          "source": "X",
+          "project": "Crypto Lifeline",
+          "account": "CryptoLifeBSC",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-07-01",
+          "messageId": "2026-07-01-x-partial-nlgcf69515952.csv",
+          "text": "Pixel onchain city around crypto workers and mining office gameplay"
+        }
+      ],
+      "text": " Crypto Lifeline CryptoLifeBSC Pixel-world crypto worker and mining-office onchain city Crypto Lifeline CryptoLifeBSC Pixel onchain city around crypto workers and mining office gameplay Crypto Lifeline CryptoLifeBSC Pixel onchain city around crypto workers and mining office gameplay Crypto Lifeline CryptoLifeBSC Pixel onchain city around crypto workers and mining office gameplay",
+      "score": 11,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/CryptoLifeBSC"
     },
     {
       "project": "Fibo",
@@ -37064,6 +37734,69 @@
       "avatarUrl": "https://unavatar.io/twitter/TheUnnamedETH"
     },
     {
+      "project": "tren.ch",
+      "account": "trenches",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "nlgcf69515952",
+        "发财猪"
+      ],
+      "tgAlphas": [
+        "发财猪"
+      ],
+      "xAlphas": [
+        "nlgcf69515952"
+      ],
+      "mentions": 4,
+      "firstSeen": "2026-06-27",
+      "lastSeen": "2026-07-01",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "tren.ch",
+          "account": "trenches",
+          "alpha": "发财猪",
+          "seenAt": "2026-06-27",
+          "messageId": "https://x.com/trenches",
+          "text": "Attention market on Solana with waitlist"
+        },
+        {
+          "source": "X",
+          "project": "tren.ch",
+          "account": "trenches",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-06-28",
+          "messageId": "2026-06-28-x-partial-nlgcf69515952.csv",
+          "text": "Solana attention market launching waitlist"
+        },
+        {
+          "source": "X",
+          "project": "tren.ch",
+          "account": "trenches",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-06-30",
+          "messageId": "2026-06-30-x-partial-nlgcf69515952.csv",
+          "text": "Solana attention market launching waitlist"
+        },
+        {
+          "source": "X",
+          "project": "tren.ch",
+          "account": "trenches",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-07-01",
+          "messageId": "2026-07-01-x-partial-nlgcf69515952.csv",
+          "text": "Solana attention market launching waitlist"
+        }
+      ],
+      "text": " tren.ch trenches Attention market on Solana with waitlist tren.ch trenches Solana attention market launching waitlist tren.ch trenches Solana attention market launching waitlist tren.ch trenches Solana attention market launching waitlist",
+      "score": 11,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/trenches"
+    },
+    {
       "project": "WagmiRush",
       "account": "WagmiRush",
       "sources": [
@@ -37560,96 +38293,6 @@
       "avatarUrl": "https://unavatar.io/twitter/bark2zero"
     },
     {
-      "project": "Bubble Buns",
-      "account": "BubbleBunsHQ",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "NotVanGogh88",
-        "ibraxbt",
-        "nlgcf69515952"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "NotVanGogh88",
-        "ibraxbt",
-        "nlgcf69515952"
-      ],
-      "mentions": 7,
-      "firstSeen": "2026-06-28",
-      "lastSeen": "2026-06-30",
-      "rows": [
-        {
-          "source": "X",
-          "project": "Bubble Buns",
-          "account": "BubbleBunsHQ",
-          "alpha": "ibraxbt",
-          "seenAt": "2026-06-28",
-          "messageId": "2026-06-28-x-partial-ibraxbt.csv",
-          "text": "Unlaunched Bubble Buns themed project"
-        },
-        {
-          "source": "X",
-          "project": "Bubble Buns",
-          "account": "BubbleBunsHQ",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-28",
-          "messageId": "2026-06-28-x-partial-nlgcf69515952.csv",
-          "text": "Unlaunched Bubble Buns themed project"
-        },
-        {
-          "source": "X",
-          "project": "Bubble Buns",
-          "account": "BubbleBunsHQ",
-          "alpha": "NotVanGogh88",
-          "seenAt": "2026-06-29",
-          "messageId": "2026-06-29-x-partial-NotVanGogh88.csv",
-          "text": "Unlaunched Bubble Buns themed project"
-        },
-        {
-          "source": "X",
-          "project": "Bubble Buns",
-          "account": "BubbleBunsHQ",
-          "alpha": "ibraxbt",
-          "seenAt": "2026-06-29",
-          "messageId": "2026-06-29-x-partial-ibraxbt.csv",
-          "text": "Unlaunched Bubble Buns themed project"
-        },
-        {
-          "source": "X",
-          "project": "Bubble Buns",
-          "account": "BubbleBunsHQ",
-          "alpha": "NotVanGogh88",
-          "seenAt": "2026-06-30",
-          "messageId": "2026-06-30-x-partial-NotVanGogh88.csv",
-          "text": "Unlaunched Bubble Buns themed project"
-        },
-        {
-          "source": "X",
-          "project": "Bubble Buns",
-          "account": "BubbleBunsHQ",
-          "alpha": "ibraxbt",
-          "seenAt": "2026-06-30",
-          "messageId": "2026-06-30-x-partial-ibraxbt.csv",
-          "text": "Unlaunched Bubble Buns themed project"
-        },
-        {
-          "source": "X",
-          "project": "Bubble Buns",
-          "account": "BubbleBunsHQ",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-30",
-          "messageId": "2026-06-30-x-partial-nlgcf69515952.csv",
-          "text": "Unlaunched Bubble Buns themed project"
-        }
-      ],
-      "text": " Bubble Buns BubbleBunsHQ Unlaunched Bubble Buns themed project Bubble Buns BubbleBunsHQ Unlaunched Bubble Buns themed project Bubble Buns BubbleBunsHQ Unlaunched Bubble Buns themed project Bubble Buns BubbleBunsHQ Unlaunched Bubble Buns themed project Bubble Buns BubbleBunsHQ Unlaunched Bubble Buns themed project Bubble Buns BubbleBunsHQ Unlaunched Bubble Buns themed project Bubble Buns BubbleBunsHQ Unlaunched Bubble Buns themed project",
-      "score": 10,
-      "displayTier": "focus",
-      "avatarUrl": "https://unavatar.io/twitter/BubbleBunsHQ"
-    },
-    {
       "project": "div.fun",
       "account": "divdotfun",
       "sources": [
@@ -38129,60 +38772,6 @@
       "avatarUrl": "https://unavatar.io/twitter/bloopslab"
     },
     {
-      "project": "Crypto Lifeline",
-      "account": "CryptoLifeBSC",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "nlgcf69515952",
-        "发财猪"
-      ],
-      "tgAlphas": [
-        "发财猪"
-      ],
-      "xAlphas": [
-        "nlgcf69515952"
-      ],
-      "mentions": 3,
-      "firstSeen": "2026-06-28",
-      "lastSeen": "2026-06-30",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Crypto Lifeline",
-          "account": "CryptoLifeBSC",
-          "alpha": "发财猪",
-          "seenAt": "2026-06-28",
-          "messageId": "https://x.com/CryptoLifeBSC",
-          "text": "Pixel-world crypto worker and mining-office onchain city"
-        },
-        {
-          "source": "X",
-          "project": "Crypto Lifeline",
-          "account": "CryptoLifeBSC",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-28",
-          "messageId": "2026-06-28-x-partial-nlgcf69515952.csv",
-          "text": "Pixel onchain city around crypto workers and mining office gameplay"
-        },
-        {
-          "source": "X",
-          "project": "Crypto Lifeline",
-          "account": "CryptoLifeBSC",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-30",
-          "messageId": "2026-06-30-x-partial-nlgcf69515952.csv",
-          "text": "Pixel onchain city around crypto workers and mining office gameplay"
-        }
-      ],
-      "text": " Crypto Lifeline CryptoLifeBSC Pixel-world crypto worker and mining-office onchain city Crypto Lifeline CryptoLifeBSC Pixel onchain city around crypto workers and mining office gameplay Crypto Lifeline CryptoLifeBSC Pixel onchain city around crypto workers and mining office gameplay",
-      "score": 10,
-      "displayTier": "focus",
-      "avatarUrl": "https://unavatar.io/twitter/CryptoLifeBSC"
-    },
-    {
       "project": "DYM",
       "account": "dynamicmachives",
       "sources": [
@@ -38613,60 +39202,6 @@
       "score": 10,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/tinyhumansai"
-    },
-    {
-      "project": "tren.ch",
-      "account": "trenches",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "nlgcf69515952",
-        "发财猪"
-      ],
-      "tgAlphas": [
-        "发财猪"
-      ],
-      "xAlphas": [
-        "nlgcf69515952"
-      ],
-      "mentions": 3,
-      "firstSeen": "2026-06-27",
-      "lastSeen": "2026-06-30",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "tren.ch",
-          "account": "trenches",
-          "alpha": "发财猪",
-          "seenAt": "2026-06-27",
-          "messageId": "https://x.com/trenches",
-          "text": "Attention market on Solana with waitlist"
-        },
-        {
-          "source": "X",
-          "project": "tren.ch",
-          "account": "trenches",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-28",
-          "messageId": "2026-06-28-x-partial-nlgcf69515952.csv",
-          "text": "Solana attention market launching waitlist"
-        },
-        {
-          "source": "X",
-          "project": "tren.ch",
-          "account": "trenches",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-30",
-          "messageId": "2026-06-30-x-partial-nlgcf69515952.csv",
-          "text": "Solana attention market launching waitlist"
-        }
-      ],
-      "text": " tren.ch trenches Attention market on Solana with waitlist tren.ch trenches Solana attention market launching waitlist tren.ch trenches Solana attention market launching waitlist",
-      "score": 10,
-      "displayTier": "focus",
-      "avatarUrl": "https://unavatar.io/twitter/trenches"
     },
     {
       "project": "Wonkies",
@@ -39578,6 +40113,51 @@
       "avatarUrl": "https://unavatar.io/twitter/npcB20"
     },
     {
+      "project": "Olm Health",
+      "account": "olmhealth",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "FILANTROP",
+        "bearzverse"
+      ],
+      "tgAlphas": [
+        "FILANTROP"
+      ],
+      "xAlphas": [
+        "bearzverse"
+      ],
+      "mentions": 2,
+      "firstSeen": "2026-06-30",
+      "lastSeen": "2026-07-01",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Olm Health",
+          "account": "olmhealth",
+          "alpha": "FILANTROP",
+          "seenAt": "2026-07-01",
+          "messageId": "https://x.com/olmhealth",
+          "text": "Health project focused on unlocking the immune system"
+        },
+        {
+          "source": "X",
+          "project": "Olm Health",
+          "account": "olmhealth",
+          "alpha": "bearzverse",
+          "seenAt": "2026-06-30",
+          "messageId": "2026-06-30-x-partial-bearzverse.csv",
+          "text": "Health project focused on unlocking the immune system"
+        }
+      ],
+      "text": " Olm Health olmhealth Health project focused on unlocking the immune system Olm Health olmhealth Health project focused on unlocking the immune system",
+      "score": 9,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/olmhealth"
+    },
+    {
       "project": "Onchain Guppies",
       "account": "Guppies_nft",
       "sources": [
@@ -39756,6 +40336,130 @@
       "score": 9,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/tinyvalidators"
+    },
+    {
+      "project": "Vision Wallet",
+      "account": "VisionWallet",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "nlgcf69515952",
+        "发财猪"
+      ],
+      "tgAlphas": [
+        "发财猪"
+      ],
+      "xAlphas": [
+        "nlgcf69515952"
+      ],
+      "mentions": 2,
+      "firstSeen": "2026-06-30",
+      "lastSeen": "2026-07-01",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Vision Wallet",
+          "account": "VisionWallet",
+          "alpha": "发财猪",
+          "seenAt": "2026-06-30",
+          "messageId": "https://x.com/VisionWallet",
+          "text": "Wallet merging traditional investing with blockchain tools"
+        },
+        {
+          "source": "X",
+          "project": "Vision Wallet",
+          "account": "VisionWallet",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-07-01",
+          "messageId": "2026-07-01-x-partial-nlgcf69515952.csv",
+          "text": "Wallet merging traditional investing with blockchain tools"
+        }
+      ],
+      "text": " Vision Wallet VisionWallet Wallet merging traditional investing with blockchain tools Vision Wallet VisionWallet Wallet merging traditional investing with blockchain tools",
+      "score": 9,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/VisionWallet"
+    },
+    {
+      "project": "FD_XYZ",
+      "account": "FD_XYZ",
+      "sources": [
+        "X"
+      ],
+      "alphas": [
+        "ibraxbt",
+        "nlgcf69515952"
+      ],
+      "tgAlphas": [],
+      "xAlphas": [
+        "ibraxbt",
+        "nlgcf69515952"
+      ],
+      "mentions": 6,
+      "firstSeen": "2026-06-19",
+      "lastSeen": "2026-07-01",
+      "rows": [
+        {
+          "source": "X",
+          "project": "FD_XYZ",
+          "account": "FD_XYZ",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-19",
+          "messageId": "2026-06-19-x-partial-ibraxbt.csv",
+          "text": "\"Infrastructure for the agent economy.\""
+        },
+        {
+          "source": "X",
+          "project": "Finance District",
+          "account": "FD_XYZ",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-06-25",
+          "messageId": "2026-06-25-x-partial-nlgcf69515952.csv",
+          "text": "Infrastructure for the agent economy"
+        },
+        {
+          "source": "X",
+          "project": "Finance District",
+          "account": "FD_XYZ",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-06-26",
+          "messageId": "2026-06-26-x-partial-nlgcf69515952.csv",
+          "text": "Infrastructure for the agent economy"
+        },
+        {
+          "source": "X",
+          "project": "Finance District",
+          "account": "FD_XYZ",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-06-28",
+          "messageId": "2026-06-28-x-partial-nlgcf69515952.csv",
+          "text": "Infrastructure for the agent economy"
+        },
+        {
+          "source": "X",
+          "project": "Finance District",
+          "account": "FD_XYZ",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-06-30",
+          "messageId": "2026-06-30-x-partial-nlgcf69515952.csv",
+          "text": "Infrastructure for the agent economy"
+        },
+        {
+          "source": "X",
+          "project": "Finance District",
+          "account": "FD_XYZ",
+          "alpha": "nlgcf69515952",
+          "seenAt": "2026-07-01",
+          "messageId": "2026-07-01-x-partial-nlgcf69515952.csv",
+          "text": "Infrastructure for the agent economy"
+        }
+      ],
+      "text": " FD_XYZ FD_XYZ \"Infrastructure for the agent economy.\" Finance District FD_XYZ Infrastructure for the agent economy Finance District FD_XYZ Infrastructure for the agent economy Finance District FD_XYZ Infrastructure for the agent economy Finance District FD_XYZ Infrastructure for the agent economy Finance District FD_XYZ Infrastructure for the agent economy",
+      "score": 8,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/FD_XYZ"
     },
     {
       "project": "Pixel Putt",
@@ -40830,76 +41534,6 @@
       "score": 7,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/EngramLab"
-    },
-    {
-      "project": "FD_XYZ",
-      "account": "FD_XYZ",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "ibraxbt",
-        "nlgcf69515952"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "ibraxbt",
-        "nlgcf69515952"
-      ],
-      "mentions": 5,
-      "firstSeen": "2026-06-19",
-      "lastSeen": "2026-06-30",
-      "rows": [
-        {
-          "source": "X",
-          "project": "FD_XYZ",
-          "account": "FD_XYZ",
-          "alpha": "ibraxbt",
-          "seenAt": "2026-06-19",
-          "messageId": "2026-06-19-x-partial-ibraxbt.csv",
-          "text": "\"Infrastructure for the agent economy.\""
-        },
-        {
-          "source": "X",
-          "project": "Finance District",
-          "account": "FD_XYZ",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-25",
-          "messageId": "2026-06-25-x-partial-nlgcf69515952.csv",
-          "text": "Infrastructure for the agent economy"
-        },
-        {
-          "source": "X",
-          "project": "Finance District",
-          "account": "FD_XYZ",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-26",
-          "messageId": "2026-06-26-x-partial-nlgcf69515952.csv",
-          "text": "Infrastructure for the agent economy"
-        },
-        {
-          "source": "X",
-          "project": "Finance District",
-          "account": "FD_XYZ",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-28",
-          "messageId": "2026-06-28-x-partial-nlgcf69515952.csv",
-          "text": "Infrastructure for the agent economy"
-        },
-        {
-          "source": "X",
-          "project": "Finance District",
-          "account": "FD_XYZ",
-          "alpha": "nlgcf69515952",
-          "seenAt": "2026-06-30",
-          "messageId": "2026-06-30-x-partial-nlgcf69515952.csv",
-          "text": "Infrastructure for the agent economy"
-        }
-      ],
-      "text": " FD_XYZ FD_XYZ \"Infrastructure for the agent economy.\" Finance District FD_XYZ Infrastructure for the agent economy Finance District FD_XYZ Infrastructure for the agent economy Finance District FD_XYZ Infrastructure for the agent economy Finance District FD_XYZ Infrastructure for the agent economy",
-      "score": 7,
-      "displayTier": "focus",
-      "avatarUrl": "https://unavatar.io/twitter/FD_XYZ"
     },
     {
       "project": "FireFliesMarket",
@@ -45265,6 +45899,480 @@
     }
   ],
   "daily": [
+    {
+      "date": "2026-07-01",
+      "totalRows": 20,
+      "projectCount": 14,
+      "focusCount": 0,
+      "candidateCount": 14,
+      "crossSource": 0,
+      "newCount": 4,
+      "repeatCount": 10,
+      "projects": [
+        {
+          "project": "aiport.trade",
+          "account": "aiport_trade",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "nlgcf69515952"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "nlgcf69515952"
+          ],
+          "mentions": 1,
+          "firstSeen": "2026-07-01",
+          "lastSeen": "2026-07-01",
+          "rows": [
+            {
+              "source": "X",
+              "project": "aiport.trade",
+              "account": "aiport_trade",
+              "alpha": "nlgcf69515952",
+              "seenAt": "2026-07-01",
+              "messageId": "2026-07-01-x-partial-nlgcf69515952.csv",
+              "text": "Operator layer for Base agents with proof-of-life and recovery"
+            }
+          ],
+          "text": " aiport.trade aiport_trade Operator layer for Base agents with proof-of-life and recovery",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/aiport_trade",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Crypto Lifeline",
+          "account": "CryptoLifeBSC",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "nlgcf69515952"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "nlgcf69515952"
+          ],
+          "mentions": 1,
+          "firstSeen": "2026-07-01",
+          "lastSeen": "2026-07-01",
+          "rows": [
+            {
+              "source": "X",
+              "project": "Crypto Lifeline",
+              "account": "CryptoLifeBSC",
+              "alpha": "nlgcf69515952",
+              "seenAt": "2026-07-01",
+              "messageId": "2026-07-01-x-partial-nlgcf69515952.csv",
+              "text": "Pixel onchain city around crypto workers and mining office gameplay"
+            }
+          ],
+          "text": " Crypto Lifeline CryptoLifeBSC Pixel onchain city around crypto workers and mining office gameplay",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/CryptoLifeBSC",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "DotLand",
+          "account": "DotLandApp",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "nlgcf69515952"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "nlgcf69515952"
+          ],
+          "mentions": 1,
+          "firstSeen": "2026-07-01",
+          "lastSeen": "2026-07-01",
+          "rows": [
+            {
+              "source": "X",
+              "project": "DotLand",
+              "account": "DotLandApp",
+              "alpha": "nlgcf69515952",
+              "seenAt": "2026-07-01",
+              "messageId": "2026-07-01-x-partial-nlgcf69515952.csv",
+              "text": "Onchain dots and grid-land project for internet culture"
+            }
+          ],
+          "text": " DotLand DotLandApp Onchain dots and grid-land project for internet culture",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/DotLandApp",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Finance District",
+          "account": "FD_XYZ",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "nlgcf69515952"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "nlgcf69515952"
+          ],
+          "mentions": 1,
+          "firstSeen": "2026-07-01",
+          "lastSeen": "2026-07-01",
+          "rows": [
+            {
+              "source": "X",
+              "project": "Finance District",
+              "account": "FD_XYZ",
+              "alpha": "nlgcf69515952",
+              "seenAt": "2026-07-01",
+              "messageId": "2026-07-01-x-partial-nlgcf69515952.csv",
+              "text": "Infrastructure for the agent economy"
+            }
+          ],
+          "text": " Finance District FD_XYZ Infrastructure for the agent economy",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/FD_XYZ",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Front",
+          "account": "FrontDotFun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Kingmaker"
+          ],
+          "tgAlphas": [
+            "Kingmaker"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-01",
+          "lastSeen": "2026-07-01",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Front",
+              "account": "FrontDotFun",
+              "alpha": "Kingmaker",
+              "seenAt": "2026-07-01",
+              "messageId": "https://x.com/FrontDotFun",
+              "text": "Leveraged memecoin trading on Solana using real spot buys through Jupiter"
+            }
+          ],
+          "text": " Front FrontDotFun Leveraged memecoin trading on Solana using real spot buys through Jupiter",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/FrontDotFun",
+          "dayStatus": "new"
+        },
+        {
+          "project": "GRAM Ecosystem",
+          "account": "gram_voyage",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "nlgcf69515952"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "nlgcf69515952"
+          ],
+          "mentions": 1,
+          "firstSeen": "2026-07-01",
+          "lastSeen": "2026-07-01",
+          "rows": [
+            {
+              "source": "X",
+              "project": "GRAM Ecosystem",
+              "account": "gram_voyage",
+              "alpha": "nlgcf69515952",
+              "seenAt": "2026-07-01",
+              "messageId": "2026-07-01-x-partial-nlgcf69515952.csv",
+              "text": "Base game ecosystem and Chef Universe with ingredient curves"
+            }
+          ],
+          "text": " GRAM Ecosystem gram_voyage Base game ecosystem and Chef Universe with ingredient curves",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/gram_voyage",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Metal",
+          "account": "metalntwx",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "nlgcf69515952"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "nlgcf69515952"
+          ],
+          "mentions": 1,
+          "firstSeen": "2026-07-01",
+          "lastSeen": "2026-07-01",
+          "rows": [
+            {
+              "source": "X",
+              "project": "Metal",
+              "account": "metalntwx",
+              "alpha": "nlgcf69515952",
+              "seenAt": "2026-07-01",
+              "messageId": "2026-07-01-x-partial-nlgcf69515952.csv",
+              "text": "Settlement network for tokenized financial products"
+            }
+          ],
+          "text": " Metal metalntwx Settlement network for tokenized financial products",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/metalntwx",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "PullBattle",
+          "account": "pullbattle",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "nlgcf69515952"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "nlgcf69515952"
+          ],
+          "mentions": 1,
+          "firstSeen": "2026-07-01",
+          "lastSeen": "2026-07-01",
+          "rows": [
+            {
+              "source": "X",
+              "project": "PullBattle",
+              "account": "pullbattle",
+              "alpha": "nlgcf69515952",
+              "seenAt": "2026-07-01",
+              "messageId": "2026-07-01-x-partial-nlgcf69515952.csv",
+              "text": "Pack opening and prediction battle game with waitlist"
+            }
+          ],
+          "text": " PullBattle pullbattle Pack opening and prediction battle game with waitlist",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/pullbattle",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "RobinFarm",
+          "account": "RobinFarms",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Kingmaker"
+          ],
+          "tgAlphas": [
+            "Kingmaker"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-01",
+          "lastSeen": "2026-07-01",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "RobinFarm",
+              "account": "RobinFarms",
+              "alpha": "Kingmaker",
+              "seenAt": "2026-07-01",
+              "messageId": "https://x.com/RobinFarms",
+              "text": "Onchain farming game on Robin Chain with NFT farmers"
+            }
+          ],
+          "text": " RobinFarm RobinFarms Onchain farming game on Robin Chain with NFT farmers",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/RobinFarms",
+          "dayStatus": "new"
+        },
+        {
+          "project": "SHOW ROBOTICS",
+          "account": "SHOW_ROBOTICS",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Kingmaker"
+          ],
+          "tgAlphas": [
+            "Kingmaker"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-01",
+          "lastSeen": "2026-07-01",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "SHOW ROBOTICS",
+              "account": "SHOW_ROBOTICS",
+              "alpha": "Kingmaker",
+              "seenAt": "2026-07-01",
+              "messageId": "https://x.com/SHOW_ROBOTICS",
+              "text": "Embodied AI and robotics project powered by SHOW on Virtuals"
+            }
+          ],
+          "text": " SHOW ROBOTICS SHOW_ROBOTICS Embodied AI and robotics project powered by SHOW on Virtuals",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/SHOW_ROBOTICS",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Summo",
+          "account": "summocash",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Kingmaker"
+          ],
+          "tgAlphas": [
+            "Kingmaker"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-01",
+          "lastSeen": "2026-07-01",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Summo",
+              "account": "summocash",
+              "alpha": "Kingmaker",
+              "seenAt": "2026-07-01",
+              "messageId": "https://x.com/summocash",
+              "text": "Warm wallet coming soon"
+            }
+          ],
+          "text": " Summo summocash Warm wallet coming soon",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/summocash",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Swing",
+          "account": "swing_io",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Kingmaker"
+          ],
+          "tgAlphas": [
+            "Kingmaker"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-01",
+          "lastSeen": "2026-07-01",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Swing",
+              "account": "swing_io",
+              "alpha": "Kingmaker",
+              "seenAt": "2026-07-01",
+              "messageId": "https://x.com/swing_io",
+              "text": "Continuous trading competition on Solana with private beta in July"
+            }
+          ],
+          "text": " Swing swing_io Continuous trading competition on Solana with private beta in July",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/swing_io",
+          "dayStatus": "new"
+        },
+        {
+          "project": "The God Pull",
+          "account": "TheGodPull",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "FILANTROP"
+          ],
+          "tgAlphas": [
+            "FILANTROP"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-01",
+          "lastSeen": "2026-07-01",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "The God Pull",
+              "account": "TheGodPull",
+              "alpha": "FILANTROP",
+              "seenAt": "2026-07-01",
+              "messageId": "https://x.com/TheGodPull",
+              "text": "Collect-and-royalties game or pack project coming soon"
+            }
+          ],
+          "text": " The God Pull TheGodPull Collect-and-royalties game or pack project coming soon",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/TheGodPull",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "tren.ch",
+          "account": "trenches",
+          "sources": [
+            "X"
+          ],
+          "alphas": [
+            "nlgcf69515952"
+          ],
+          "tgAlphas": [],
+          "xAlphas": [
+            "nlgcf69515952"
+          ],
+          "mentions": 1,
+          "firstSeen": "2026-07-01",
+          "lastSeen": "2026-07-01",
+          "rows": [
+            {
+              "source": "X",
+              "project": "tren.ch",
+              "account": "trenches",
+              "alpha": "nlgcf69515952",
+              "seenAt": "2026-07-01",
+              "messageId": "2026-07-01-x-partial-nlgcf69515952.csv",
+              "text": "Solana attention market launching waitlist"
+            }
+          ],
+          "text": " tren.ch trenches Solana attention market launching waitlist",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/trenches",
+          "dayStatus": "repeat"
+        }
+      ]
+    },
     {
       "date": "2026-06-30",
       "totalRows": 187,
@@ -62689,7 +63797,7 @@
     {
       "file": "last-update-error.log",
       "title": "last-update-error.log",
-      "updatedAt": "2026-06-26T11:16:15.612Z"
+      "updatedAt": "2026-06-30T20:45:56.920Z"
     },
     {
       "file": "2026-06-17-1930-monitor.md",
