@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-01T11:41:16.479Z",
+  "generatedAt": "2026-07-02T12:45:46.018Z",
   "totals": {
-    "telegramRows": 235,
+    "telegramRows": 275,
     "xRows": 1721,
-    "projects": 535,
-    "crossSource": 89
+    "projects": 559,
+    "crossSource": 92
   },
   "projects": [
     {
@@ -1783,6 +1783,109 @@
       "score": 18,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/Robinhookv4"
+    },
+    {
+      "project": "Hyperworld",
+      "account": "PlayHyperWorld",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "NEO",
+        "alphafries",
+        "ibraxbt",
+        "xeogy92298766"
+      ],
+      "tgAlphas": [
+        "NEO"
+      ],
+      "xAlphas": [
+        "alphafries",
+        "ibraxbt",
+        "xeogy92298766"
+      ],
+      "mentions": 8,
+      "firstSeen": "2026-06-25",
+      "lastSeen": "2026-07-02",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Hyperworld",
+          "account": "PlayHyperWorld",
+          "alpha": "NEO",
+          "seenAt": "2026-07-02",
+          "messageId": "https://x.com/PlayHyperWorld",
+          "text": "Onchain pixel MMO on HyperEVM with contract address visible"
+        },
+        {
+          "source": "X",
+          "project": "Hyperworld",
+          "account": "PlayHyperWorld",
+          "alpha": "alphafries",
+          "seenAt": "2026-06-25",
+          "messageId": "2026-06-25-x-partial-alphafries.csv",
+          "text": "Pixel MMO on HyperEVM"
+        },
+        {
+          "source": "X",
+          "project": "Hyperworld",
+          "account": "PlayHyperWorld",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-25",
+          "messageId": "2026-06-25-x-partial-ibraxbt.csv",
+          "text": "Pixel MMO on HyperEVM"
+        },
+        {
+          "source": "X",
+          "project": "Hyperworld",
+          "account": "PlayHyperWorld",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-25",
+          "messageId": "2026-06-25-x-partial-xeogy92298766.csv",
+          "text": "Pixel MMO on HyperEVM"
+        },
+        {
+          "source": "X",
+          "project": "Hyperworld",
+          "account": "PlayHyperWorld",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-26",
+          "messageId": "2026-06-26-x-partial-xeogy92298766.csv",
+          "text": "Pixel MMO on HyperEVM"
+        },
+        {
+          "source": "X",
+          "project": "Hyperworld",
+          "account": "PlayHyperWorld",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-28",
+          "messageId": "2026-06-28-x-partial-xeogy92298766.csv",
+          "text": "Onchain pixel MMO on HyperEVM"
+        },
+        {
+          "source": "X",
+          "project": "Hyperworld",
+          "account": "PlayHyperWorld",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-29",
+          "messageId": "2026-06-29-x-partial-xeogy92298766.csv",
+          "text": "Onchain pixel MMO on HyperEVM"
+        },
+        {
+          "source": "X",
+          "project": "Hyperworld",
+          "account": "PlayHyperWorld",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-30",
+          "messageId": "2026-06-30-x-partial-xeogy92298766.csv",
+          "text": "Onchain pixel MMO on HyperEVM"
+        }
+      ],
+      "text": " Hyperworld PlayHyperWorld Onchain pixel MMO on HyperEVM with contract address visible Hyperworld PlayHyperWorld Pixel MMO on HyperEVM Hyperworld PlayHyperWorld Pixel MMO on HyperEVM Hyperworld PlayHyperWorld Pixel MMO on HyperEVM Hyperworld PlayHyperWorld Pixel MMO on HyperEVM Hyperworld PlayHyperWorld Onchain pixel MMO on HyperEVM Hyperworld PlayHyperWorld Onchain pixel MMO on HyperEVM Hyperworld PlayHyperWorld Onchain pixel MMO on HyperEVM",
+      "score": 17,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/PlayHyperWorld"
     },
     {
       "project": "Juniper Lane",
@@ -5265,6 +5368,62 @@
       "avatarUrl": "https://unavatar.io/twitter/Mootopiafun"
     },
     {
+      "project": "NPC",
+      "account": "npcB20",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "Kingmaker",
+        "Xiaoyu",
+        "alphafries"
+      ],
+      "tgAlphas": [
+        "Kingmaker",
+        "Xiaoyu"
+      ],
+      "xAlphas": [
+        "alphafries"
+      ],
+      "mentions": 3,
+      "firstSeen": "2026-06-29",
+      "lastSeen": "2026-07-02",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "NPC",
+          "account": "npcB20",
+          "alpha": "Kingmaker",
+          "seenAt": "2026-06-29",
+          "messageId": "https://x.com/npcB20",
+          "text": "B20-powered AI NPC minting project on Base"
+        },
+        {
+          "source": "TG",
+          "project": "NPC",
+          "account": "npcB20",
+          "alpha": "Xiaoyu",
+          "seenAt": "2026-07-02",
+          "messageId": "https://x.com/npcB20",
+          "text": "B20-powered NPCs on Base with memory and AI personality"
+        },
+        {
+          "source": "X",
+          "project": "NPC",
+          "account": "npcB20",
+          "alpha": "alphafries",
+          "seenAt": "2026-06-30",
+          "messageId": "2026-06-30-x-partial-alphafries.csv",
+          "text": "B20-powered AI NPC minting project on Base"
+        }
+      ],
+      "text": " NPC npcB20 B20-powered AI NPC minting project on Base NPC npcB20 B20-powered NPCs on Base with memory and AI personality NPC npcB20 B20-powered AI NPC minting project on Base",
+      "score": 11,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/npcB20"
+    },
+    {
       "project": "RIFT",
       "account": "rift_sys",
       "sources": [
@@ -5611,96 +5770,6 @@
       "score": 10,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/divdotfun"
-    },
-    {
-      "project": "Hyperworld",
-      "account": "PlayHyperWorld",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "alphafries",
-        "ibraxbt",
-        "xeogy92298766"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "alphafries",
-        "ibraxbt",
-        "xeogy92298766"
-      ],
-      "mentions": 7,
-      "firstSeen": "2026-06-25",
-      "lastSeen": "2026-06-30",
-      "rows": [
-        {
-          "source": "X",
-          "project": "Hyperworld",
-          "account": "PlayHyperWorld",
-          "alpha": "alphafries",
-          "seenAt": "2026-06-25",
-          "messageId": "2026-06-25-x-partial-alphafries.csv",
-          "text": "Pixel MMO on HyperEVM"
-        },
-        {
-          "source": "X",
-          "project": "Hyperworld",
-          "account": "PlayHyperWorld",
-          "alpha": "ibraxbt",
-          "seenAt": "2026-06-25",
-          "messageId": "2026-06-25-x-partial-ibraxbt.csv",
-          "text": "Pixel MMO on HyperEVM"
-        },
-        {
-          "source": "X",
-          "project": "Hyperworld",
-          "account": "PlayHyperWorld",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-25",
-          "messageId": "2026-06-25-x-partial-xeogy92298766.csv",
-          "text": "Pixel MMO on HyperEVM"
-        },
-        {
-          "source": "X",
-          "project": "Hyperworld",
-          "account": "PlayHyperWorld",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-26",
-          "messageId": "2026-06-26-x-partial-xeogy92298766.csv",
-          "text": "Pixel MMO on HyperEVM"
-        },
-        {
-          "source": "X",
-          "project": "Hyperworld",
-          "account": "PlayHyperWorld",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-28",
-          "messageId": "2026-06-28-x-partial-xeogy92298766.csv",
-          "text": "Onchain pixel MMO on HyperEVM"
-        },
-        {
-          "source": "X",
-          "project": "Hyperworld",
-          "account": "PlayHyperWorld",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-29",
-          "messageId": "2026-06-29-x-partial-xeogy92298766.csv",
-          "text": "Onchain pixel MMO on HyperEVM"
-        },
-        {
-          "source": "X",
-          "project": "Hyperworld",
-          "account": "PlayHyperWorld",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-30",
-          "messageId": "2026-06-30-x-partial-xeogy92298766.csv",
-          "text": "Onchain pixel MMO on HyperEVM"
-        }
-      ],
-      "text": " Hyperworld PlayHyperWorld Pixel MMO on HyperEVM Hyperworld PlayHyperWorld Pixel MMO on HyperEVM Hyperworld PlayHyperWorld Pixel MMO on HyperEVM Hyperworld PlayHyperWorld Pixel MMO on HyperEVM Hyperworld PlayHyperWorld Onchain pixel MMO on HyperEVM Hyperworld PlayHyperWorld Onchain pixel MMO on HyperEVM Hyperworld PlayHyperWorld Onchain pixel MMO on HyperEVM",
-      "score": 10,
-      "displayTier": "focus",
-      "avatarUrl": "https://unavatar.io/twitter/PlayHyperWorld"
     },
     {
       "project": "mmorpg_fun",
@@ -6108,6 +6177,60 @@
       "score": 10,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/elisymlabs"
+    },
+    {
+      "project": "EmberQuest",
+      "account": "EmberQuestIO",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "bearzverse",
+        "speest"
+      ],
+      "tgAlphas": [
+        "speest"
+      ],
+      "xAlphas": [
+        "bearzverse"
+      ],
+      "mentions": 3,
+      "firstSeen": "2026-06-29",
+      "lastSeen": "2026-07-02",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "EmberQuest",
+          "account": "EmberQuestIO",
+          "alpha": "speest",
+          "seenAt": "2026-07-02",
+          "messageId": "https://x.com/EmberQuestIO",
+          "text": "Browser MMORPG launching on Solana with SEAR token utility"
+        },
+        {
+          "source": "X",
+          "project": "EmberQuest",
+          "account": "EmberQuestIO",
+          "alpha": "bearzverse",
+          "seenAt": "2026-06-29",
+          "messageId": "2026-06-29-x-partial-bearzverse.csv",
+          "text": "Browser MMORPG"
+        },
+        {
+          "source": "X",
+          "project": "EmberQuest",
+          "account": "EmberQuestIO",
+          "alpha": "bearzverse",
+          "seenAt": "2026-06-30",
+          "messageId": "2026-06-30-x-partial-bearzverse.csv",
+          "text": "Browser MMORPG launching on Solana"
+        }
+      ],
+      "text": " EmberQuest EmberQuestIO Browser MMORPG launching on Solana with SEAR token utility EmberQuest EmberQuestIO Browser MMORPG EmberQuest EmberQuestIO Browser MMORPG launching on Solana",
+      "score": 10,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/EmberQuestIO"
     },
     {
       "project": "InfinityFDN",
@@ -6803,6 +6926,51 @@
       "avatarUrl": "https://unavatar.io/twitter/zero1cash"
     },
     {
+      "project": "axol.io",
+      "account": "axol_io",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "NEO",
+        "NotVanGogh88"
+      ],
+      "tgAlphas": [
+        "NEO"
+      ],
+      "xAlphas": [
+        "NotVanGogh88"
+      ],
+      "mentions": 2,
+      "firstSeen": "2026-06-26",
+      "lastSeen": "2026-07-02",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "axol.io",
+          "account": "axol_io",
+          "alpha": "NEO",
+          "seenAt": "2026-07-02",
+          "messageId": "https://x.com/axol_io",
+          "text": "Agent runtime for on-chain commerce and privacy-oriented blockchain axolotls"
+        },
+        {
+          "source": "X",
+          "project": "axol.io",
+          "account": "axol_io",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-26",
+          "messageId": "2026-06-26-x-partial-NotVanGogh88.csv",
+          "text": "Agent runtime for onchain commerce"
+        }
+      ],
+      "text": " axol.io axol_io Agent runtime for on-chain commerce and privacy-oriented blockchain axolotls axol.io axol_io Agent runtime for onchain commerce",
+      "score": 9,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/axol_io"
+    },
+    {
       "project": "ChessArena",
       "account": "ChessArenaSol",
       "sources": [
@@ -7296,51 +7464,6 @@
       "score": 9,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/NexariaWorld"
-    },
-    {
-      "project": "NPC",
-      "account": "npcB20",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "Kingmaker",
-        "alphafries"
-      ],
-      "tgAlphas": [
-        "Kingmaker"
-      ],
-      "xAlphas": [
-        "alphafries"
-      ],
-      "mentions": 2,
-      "firstSeen": "2026-06-29",
-      "lastSeen": "2026-06-30",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "NPC",
-          "account": "npcB20",
-          "alpha": "Kingmaker",
-          "seenAt": "2026-06-29",
-          "messageId": "https://x.com/npcB20",
-          "text": "B20-powered AI NPC minting project on Base"
-        },
-        {
-          "source": "X",
-          "project": "NPC",
-          "account": "npcB20",
-          "alpha": "alphafries",
-          "seenAt": "2026-06-30",
-          "messageId": "2026-06-30-x-partial-alphafries.csv",
-          "text": "B20-powered AI NPC minting project on Base"
-        }
-      ],
-      "text": " NPC npcB20 B20-powered AI NPC minting project on Base NPC npcB20 B20-powered AI NPC minting project on Base",
-      "score": 9,
-      "displayTier": "focus",
-      "avatarUrl": "https://unavatar.io/twitter/npcB20"
     },
     {
       "project": "Olm Health",
@@ -16696,6 +16819,49 @@
       "avatarUrl": "https://unavatar.io/twitter/resettleio"
     },
     {
+      "project": "RobinFarm",
+      "account": "RobinFarms",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Kingmaker",
+        "Newbie"
+      ],
+      "tgAlphas": [
+        "Kingmaker",
+        "Newbie"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-07-01",
+      "lastSeen": "2026-07-02",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "RobinFarm",
+          "account": "RobinFarms",
+          "alpha": "Kingmaker",
+          "seenAt": "2026-07-01",
+          "messageId": "https://x.com/RobinFarms",
+          "text": "Onchain farming game on Robin Chain with NFT farmers"
+        },
+        {
+          "source": "TG",
+          "project": "RobinFarm",
+          "account": "RobinFarms",
+          "alpha": "Newbie",
+          "seenAt": "2026-07-02",
+          "messageId": "https://x.com/RobinFarms",
+          "text": "On-chain farming game on Robin Chain with NFT farmers"
+        }
+      ],
+      "text": " RobinFarm RobinFarms Onchain farming game on Robin Chain with NFT farmers RobinFarm RobinFarms On-chain farming game on Robin Chain with NFT farmers",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/RobinFarms"
+    },
+    {
       "project": "Robinoscription",
       "account": "Robinoscription",
       "sources": [
@@ -16909,6 +17075,49 @@
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/speeddotist"
+    },
+    {
+      "project": "Swing",
+      "account": "swing_io",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse",
+        "Kingmaker"
+      ],
+      "tgAlphas": [
+        "BearzVerse",
+        "Kingmaker"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-07-01",
+      "lastSeen": "2026-07-02",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Swing",
+          "account": "swing_io",
+          "alpha": "Kingmaker",
+          "seenAt": "2026-07-01",
+          "messageId": "https://x.com/swing_io",
+          "text": "Continuous trading competition on Solana with private beta in July"
+        },
+        {
+          "source": "TG",
+          "project": "Swing",
+          "account": "swing_io",
+          "alpha": "BearzVerse",
+          "seenAt": "2026-07-02",
+          "messageId": "https://x.com/swing_io",
+          "text": "Continuous trading competition on Solana with private beta in July"
+        }
+      ],
+      "text": " Swing swing_io Continuous trading competition on Solana with private beta in July Swing swing_io Continuous trading competition on Solana with private beta in July",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/swing_io"
     },
     {
       "project": "Taler",
@@ -18561,47 +18770,6 @@
       "score": 3,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/egglingshl"
-    },
-    {
-      "project": "EmberQuest",
-      "account": "EmberQuestIO",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "bearzverse"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "bearzverse"
-      ],
-      "mentions": 2,
-      "firstSeen": "2026-06-29",
-      "lastSeen": "2026-06-30",
-      "rows": [
-        {
-          "source": "X",
-          "project": "EmberQuest",
-          "account": "EmberQuestIO",
-          "alpha": "bearzverse",
-          "seenAt": "2026-06-29",
-          "messageId": "2026-06-29-x-partial-bearzverse.csv",
-          "text": "Browser MMORPG"
-        },
-        {
-          "source": "X",
-          "project": "EmberQuest",
-          "account": "EmberQuestIO",
-          "alpha": "bearzverse",
-          "seenAt": "2026-06-30",
-          "messageId": "2026-06-30-x-partial-bearzverse.csv",
-          "text": "Browser MMORPG launching on Solana"
-        }
-      ],
-      "text": " EmberQuest EmberQuestIO Browser MMORPG EmberQuest EmberQuestIO Browser MMORPG launching on Solana",
-      "score": 3,
-      "displayTier": "focus",
-      "avatarUrl": "https://unavatar.io/twitter/EmberQuestIO"
     },
     {
       "project": "engmiHQ",
@@ -21994,6 +22162,38 @@
       "avatarUrl": "https://unavatar.io/twitter/7_4_250"
     },
     {
+      "project": "Anvil",
+      "account": "anvilpay",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Kingmaker"
+      ],
+      "tgAlphas": [
+        "Kingmaker"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-02",
+      "lastSeen": "2026-07-02",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Anvil",
+          "account": "anvilpay",
+          "alpha": "Kingmaker",
+          "seenAt": "2026-07-02",
+          "messageId": "https://x.com/anvilpay",
+          "text": "Autonomous agent framework on Base"
+        }
+      ],
+      "text": " Anvil anvilpay Autonomous agent framework on Base",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/anvilpay"
+    },
+    {
       "project": "Anyone",
       "account": "anyone_market",
       "sources": [
@@ -22056,6 +22256,38 @@
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": "https://unavatar.io/twitter/ArAIstotle"
+    },
+    {
+      "project": "Arcus",
+      "account": "arcus_xyz",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "poet"
+      ],
+      "tgAlphas": [
+        "poet"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-02",
+      "lastSeen": "2026-07-02",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Arcus",
+          "account": "arcus_xyz",
+          "alpha": "poet",
+          "seenAt": "2026-07-02",
+          "messageId": "https://x.com/arcus_xyz",
+          "text": "Stock and perps trading product built by the dYdX team in partnership with Robinhood Crypto"
+        }
+      ],
+      "text": " Arcus arcus_xyz Stock and perps trading product built by the dYdX team in partnership with Robinhood Crypto",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/arcus_xyz"
     },
     {
       "project": "Arete",
@@ -22154,6 +22386,38 @@
       "avatarUrl": "https://unavatar.io/twitter/playarveilon"
     },
     {
+      "project": "Assetra",
+      "account": "assetrafun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Kingmaker"
+      ],
+      "tgAlphas": [
+        "Kingmaker"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-02",
+      "lastSeen": "2026-07-02",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Assetra",
+          "account": "assetrafun",
+          "alpha": "Kingmaker",
+          "seenAt": "2026-07-02",
+          "messageId": "https://x.com/assetrafun",
+          "text": "NFT-Fi protocol on Robinhood App or Robinhood Chain"
+        }
+      ],
+      "text": " Assetra assetrafun NFT-Fi protocol on Robinhood App or Robinhood Chain",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/assetrafun"
+    },
+    {
       "project": "autonom_games",
       "account": "autonom_games",
       "sources": [
@@ -22250,38 +22514,6 @@
       "avatarUrl": "https://unavatar.io/twitter/AxiosFi"
     },
     {
-      "project": "axol.io",
-      "account": "axol_io",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "NotVanGogh88"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "NotVanGogh88"
-      ],
-      "mentions": 1,
-      "firstSeen": "2026-06-26",
-      "lastSeen": "2026-06-26",
-      "rows": [
-        {
-          "source": "X",
-          "project": "axol.io",
-          "account": "axol_io",
-          "alpha": "NotVanGogh88",
-          "seenAt": "2026-06-26",
-          "messageId": "2026-06-26-x-partial-NotVanGogh88.csv",
-          "text": "Agent runtime for onchain commerce"
-        }
-      ],
-      "text": " axol.io axol_io Agent runtime for onchain commerce",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": "https://unavatar.io/twitter/axol_io"
-    },
-    {
       "project": "b20x",
       "account": "b20x_bsc",
       "sources": [
@@ -22312,6 +22544,38 @@
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": "https://unavatar.io/twitter/b20x_bsc"
+    },
+    {
+      "project": "Baseflywheel",
+      "account": "Baseflywheel",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "AlphaFries"
+      ],
+      "tgAlphas": [
+        "AlphaFries"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-02",
+      "lastSeen": "2026-07-02",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Baseflywheel",
+          "account": "Baseflywheel",
+          "alpha": "AlphaFries",
+          "seenAt": "2026-07-02",
+          "messageId": "https://x.com/Baseflywheel",
+          "text": "Token launchpad on Base with locked liquidity and BWHEEL buybacks"
+        }
+      ],
+      "text": " Baseflywheel Baseflywheel Token launchpad on Base with locked liquidity and BWHEEL buybacks",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/Baseflywheel"
     },
     {
       "project": "BaseHub",
@@ -22568,6 +22832,38 @@
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": "https://unavatar.io/twitter/bloxwarsfun"
+    },
+    {
+      "project": "BONO",
+      "account": "BONOoneth",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Newbie"
+      ],
+      "tgAlphas": [
+        "Newbie"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-02",
+      "lastSeen": "2026-07-02",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "BONO",
+          "account": "BONOoneth",
+          "alpha": "Newbie",
+          "seenAt": "2026-07-02",
+          "messageId": "https://x.com/BONOoneth",
+          "text": "Coming-soon Ethereum culture or NFT project"
+        }
+      ],
+      "text": " BONO BONOoneth Coming-soon Ethereum culture or NFT project",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/BONOoneth"
     },
     {
       "project": "BOUNCERS",
@@ -23082,6 +23378,38 @@
       "avatarUrl": "https://unavatar.io/twitter/clowdermmo"
     },
     {
+      "project": "Collectra",
+      "account": "CollectraShop",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Kingmaker"
+      ],
+      "tgAlphas": [
+        "Kingmaker"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-02",
+      "lastSeen": "2026-07-02",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Collectra",
+          "account": "CollectraShop",
+          "alpha": "Kingmaker",
+          "seenAt": "2026-07-02",
+          "messageId": "https://x.com/CollectraShop",
+          "text": "Collector marketplace for TCG and sports cards on Base"
+        }
+      ],
+      "text": " Collectra CollectraShop Collector marketplace for TCG and sports cards on Base",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/CollectraShop"
+    },
+    {
       "project": "Cournot Protocol",
       "account": "CournotProtocol",
       "sources": [
@@ -23240,6 +23568,38 @@
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": "https://unavatar.io/twitter/BasedDRB"
+    },
+    {
+      "project": "Degen Bean Head",
+      "account": "BeanHead_eth",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Kingmaker"
+      ],
+      "tgAlphas": [
+        "Kingmaker"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-02",
+      "lastSeen": "2026-07-02",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Degen Bean Head",
+          "account": "BeanHead_eth",
+          "alpha": "Kingmaker",
+          "seenAt": "2026-07-02",
+          "messageId": "https://x.com/BeanHead_eth",
+          "text": "Coming-soon Ethereum NFT or culture collection"
+        }
+      ],
+      "text": " Degen Bean Head BeanHead_eth Coming-soon Ethereum NFT or culture collection",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/BeanHead_eth"
     },
     {
       "project": "Degen FC",
@@ -23434,6 +23794,38 @@
       "avatarUrl": "https://unavatar.io/twitter/DropcastBNB"
     },
     {
+      "project": "dung",
+      "account": "PlayDUNG_",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "CSR"
+      ],
+      "tgAlphas": [
+        "CSR"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-02",
+      "lastSeen": "2026-07-02",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "dung",
+          "account": "PlayDUNG_",
+          "alpha": "CSR",
+          "seenAt": "2026-07-02",
+          "messageId": "https://x.com/PlayDUNG_",
+          "text": "On-chain games for impulse-control style gameplay"
+        }
+      ],
+      "text": " dung PlayDUNG_ On-chain games for impulse-control style gameplay",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/PlayDUNG_"
+    },
+    {
       "project": "ELFERIUM",
       "account": "ElferiumNFT",
       "sources": [
@@ -23528,6 +23920,38 @@
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": "https://unavatar.io/twitter/ErasedEth"
+    },
+    {
+      "project": "Etheria",
+      "account": "Etheriatown",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Newbie"
+      ],
+      "tgAlphas": [
+        "Newbie"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-02",
+      "lastSeen": "2026-07-02",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Etheria",
+          "account": "Etheriatown",
+          "alpha": "Newbie",
+          "seenAt": "2026-07-02",
+          "messageId": "https://x.com/Etheriatown",
+          "text": "3D voxel isometric MMO playable in browser"
+        }
+      ],
+      "text": " Etheria Etheriatown 3D voxel isometric MMO playable in browser",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/Etheriatown"
     },
     {
       "project": "EvaProtocol",
@@ -23656,6 +24080,38 @@
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": "https://unavatar.io/twitter/featherrobotics"
+    },
+    {
+      "project": "Fledge",
+      "account": "Fledgetrade",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "NEO"
+      ],
+      "tgAlphas": [
+        "NEO"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-02",
+      "lastSeen": "2026-07-02",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Fledge",
+          "account": "Fledgetrade",
+          "alpha": "NEO",
+          "seenAt": "2026-07-02",
+          "messageId": "https://x.com/Fledgetrade",
+          "text": "Turns stock prices into tradeable on-chain markets on Robinhood L2"
+        }
+      ],
+      "text": " Fledge Fledgetrade Turns stock prices into tradeable on-chain markets on Robinhood L2",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/Fledgetrade"
     },
     {
       "project": "fold",
@@ -24266,6 +24722,38 @@
       "avatarUrl": "https://unavatar.io/twitter/icloneframe"
     },
     {
+      "project": "Incorporate",
+      "account": "IncorporateB20",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Xiaoyu"
+      ],
+      "tgAlphas": [
+        "Xiaoyu"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-02",
+      "lastSeen": "2026-07-02",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Incorporate",
+          "account": "IncorporateB20",
+          "alpha": "Xiaoyu",
+          "seenAt": "2026-07-02",
+          "messageId": "https://x.com/IncorporateB20",
+          "text": "Turns NFTs into fully on-chain businesses on Base B20"
+        }
+      ],
+      "text": " Incorporate IncorporateB20 Turns NFTs into fully on-chain businesses on Base B20",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/IncorporateB20"
+    },
+    {
       "project": "joblesscomic",
       "account": "joblesscomic",
       "sources": [
@@ -24488,6 +24976,38 @@
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": "https://unavatar.io/twitter/GoMintly"
+    },
+    {
+      "project": "Mireye",
+      "account": "MireyeHQ",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        ".purple"
+      ],
+      "tgAlphas": [
+        ".purple"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-02",
+      "lastSeen": "2026-07-02",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Mireye",
+          "account": "MireyeHQ",
+          "alpha": ".purple",
+          "seenAt": "2026-07-02",
+          "messageId": "https://x.com/MireyeHQ",
+          "text": "Infrastructure for physical-world AI agents"
+        }
+      ],
+      "text": " Mireye MireyeHQ Infrastructure for physical-world AI agents",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/MireyeHQ"
     },
     {
       "project": "MoneyPaiger",
@@ -25322,6 +25842,38 @@
       "avatarUrl": "https://unavatar.io/twitter/0xPygmalion"
     },
     {
+      "project": "Pyramid",
+      "account": "PyramidDeFi",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "AlphaFries"
+      ],
+      "tgAlphas": [
+        "AlphaFries"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-02",
+      "lastSeen": "2026-07-02",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Pyramid",
+          "account": "PyramidDeFi",
+          "alpha": "AlphaFries",
+          "seenAt": "2026-07-02",
+          "messageId": "https://x.com/PyramidDeFi",
+          "text": "Onchain finance layer built on Robinhood Chain"
+        }
+      ],
+      "text": " Pyramid PyramidDeFi Onchain finance layer built on Robinhood Chain",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/PyramidDeFi"
+    },
+    {
       "project": "reHOOK",
       "account": "reHOOK_ETH",
       "sources": [
@@ -25352,6 +25904,38 @@
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": "https://unavatar.io/twitter/reHOOK_ETH"
+    },
+    {
+      "project": "Remnants",
+      "account": "remnantsart",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse"
+      ],
+      "tgAlphas": [
+        "BearzVerse"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-02",
+      "lastSeen": "2026-07-02",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Remnants",
+          "account": "remnantsart",
+          "alpha": "BearzVerse",
+          "seenAt": "2026-07-02",
+          "messageId": "https://x.com/remnantsart",
+          "text": "Onchain art or NFT collection with 666 remaining"
+        }
+      ],
+      "text": " Remnants remnantsart Onchain art or NFT collection with 666 remaining",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/remnantsart"
     },
     {
       "project": "RiftPets",
@@ -25386,36 +25970,36 @@
       "avatarUrl": "https://unavatar.io/twitter/riftpetsxyz"
     },
     {
-      "project": "RobinFarm",
-      "account": "RobinFarms",
+      "project": "Robinhook",
+      "account": "Robin_HookV4",
       "sources": [
         "TG"
       ],
       "alphas": [
-        "Kingmaker"
+        "AlphaFries"
       ],
       "tgAlphas": [
-        "Kingmaker"
+        "AlphaFries"
       ],
       "xAlphas": [],
       "mentions": 1,
-      "firstSeen": "2026-07-01",
-      "lastSeen": "2026-07-01",
+      "firstSeen": "2026-07-02",
+      "lastSeen": "2026-07-02",
       "rows": [
         {
           "source": "TG",
-          "project": "RobinFarm",
-          "account": "RobinFarms",
-          "alpha": "Kingmaker",
-          "seenAt": "2026-07-01",
-          "messageId": "https://x.com/RobinFarms",
-          "text": "Onchain farming game on Robin Chain with NFT farmers"
+          "project": "Robinhook",
+          "account": "Robin_HookV4",
+          "alpha": "AlphaFries",
+          "seenAt": "2026-07-02",
+          "messageId": "https://x.com/Robin_HookV4",
+          "text": "Programmable DeFi on Robinhood Chain with customizable hooks"
         }
       ],
-      "text": " RobinFarm RobinFarms Onchain farming game on Robin Chain with NFT farmers",
+      "text": " Robinhook Robin_HookV4 Programmable DeFi on Robinhood Chain with customizable hooks",
       "score": 2,
       "displayTier": "candidate",
-      "avatarUrl": "https://unavatar.io/twitter/RobinFarms"
+      "avatarUrl": "https://unavatar.io/twitter/Robin_HookV4"
     },
     {
       "project": "RouletteSwap",
@@ -25448,6 +26032,38 @@
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": "https://unavatar.io/twitter/RouletteSwap"
+    },
+    {
+      "project": "Rush",
+      "account": "rushtradingx",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "speest"
+      ],
+      "tgAlphas": [
+        "speest"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-02",
+      "lastSeen": "2026-07-02",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Rush",
+          "account": "rushtradingx",
+          "alpha": "speest",
+          "seenAt": "2026-07-02",
+          "messageId": "https://x.com/rushtradingx",
+          "text": "Prediction-market infrastructure layer built on Solana"
+        }
+      ],
+      "text": " Rush rushtradingx Prediction-market infrastructure layer built on Solana",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/rushtradingx"
     },
     {
       "project": "RWAGMI",
@@ -25610,6 +26226,38 @@
       "avatarUrl": "https://unavatar.io/twitter/Sirius_Protocol"
     },
     {
+      "project": "Slonana Labs",
+      "account": "slonana_network",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse"
+      ],
+      "tgAlphas": [
+        "BearzVerse"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-02",
+      "lastSeen": "2026-07-02",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Slonana Labs",
+          "account": "slonana_network",
+          "alpha": "BearzVerse",
+          "seenAt": "2026-07-02",
+          "messageId": "https://x.com/slonana_network",
+          "text": "SVM-based L1 for the agent economy and machine-speed DeFi"
+        }
+      ],
+      "text": " Slonana Labs slonana_network SVM-based L1 for the agent economy and machine-speed DeFi",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/slonana_network"
+    },
+    {
       "project": "Solaria",
       "account": "SolariaGG",
       "sources": [
@@ -25640,6 +26288,38 @@
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": "https://unavatar.io/twitter/SolariaGG"
+    },
+    {
+      "project": "SOLTEL",
+      "account": "soltelworld",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Kingmaker"
+      ],
+      "tgAlphas": [
+        "Kingmaker"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-02",
+      "lastSeen": "2026-07-02",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "SOLTEL",
+          "account": "soltelworld",
+          "alpha": "Kingmaker",
+          "seenAt": "2026-07-02",
+          "messageId": "https://x.com/soltelworld",
+          "text": "Playable hotel-building MMO on Solana"
+        }
+      ],
+      "text": " SOLTEL soltelworld Playable hotel-building MMO on Solana",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/soltelworld"
     },
     {
       "project": "Spectrum AI",
@@ -25738,6 +26418,38 @@
       "avatarUrl": "https://unavatar.io/twitter/StarbaseBNB"
     },
     {
+      "project": "Stark",
+      "account": "UseStarkCpu",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Kingmaker"
+      ],
+      "tgAlphas": [
+        "Kingmaker"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-02",
+      "lastSeen": "2026-07-02",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Stark",
+          "account": "UseStarkCpu",
+          "alpha": "Kingmaker",
+          "seenAt": "2026-07-02",
+          "messageId": "https://x.com/UseStarkCpu",
+          "text": "Decentralized compute infrastructure for crypto-native rewards"
+        }
+      ],
+      "text": " Stark UseStarkCpu Decentralized compute infrastructure for crypto-native rewards",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/UseStarkCpu"
+    },
+    {
       "project": "Stellar DeFi Hub",
       "account": "stellardefihub",
       "sources": [
@@ -25834,38 +26546,6 @@
       "avatarUrl": "https://unavatar.io/twitter/summocash"
     },
     {
-      "project": "Swing",
-      "account": "swing_io",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "Kingmaker"
-      ],
-      "tgAlphas": [
-        "Kingmaker"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-07-01",
-      "lastSeen": "2026-07-01",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Swing",
-          "account": "swing_io",
-          "alpha": "Kingmaker",
-          "seenAt": "2026-07-01",
-          "messageId": "https://x.com/swing_io",
-          "text": "Continuous trading competition on Solana with private beta in July"
-        }
-      ],
-      "text": " Swing swing_io Continuous trading competition on Solana with private beta in July",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": "https://unavatar.io/twitter/swing_io"
-    },
-    {
       "project": "Tachyo_ai",
       "account": "Tachyo_ai",
       "sources": [
@@ -25898,6 +26578,38 @@
       "avatarUrl": "https://unavatar.io/twitter/Tachyo_ai"
     },
     {
+      "project": "Talos",
+      "account": "Talosdotfun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Mutu"
+      ],
+      "tgAlphas": [
+        "Mutu"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-02",
+      "lastSeen": "2026-07-02",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Talos",
+          "account": "Talosdotfun",
+          "alpha": "Mutu",
+          "seenAt": "2026-07-02",
+          "messageId": "https://x.com/Talosdotfun",
+          "text": "Turns AI agents into onchain businesses with identities wallets services and x402 payments"
+        }
+      ],
+      "text": " Talos Talosdotfun Turns AI agents into onchain businesses with identities wallets services and x402 payments",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/Talosdotfun"
+    },
+    {
       "project": "Task OS",
       "account": "TaskOS_Ai",
       "sources": [
@@ -25928,6 +26640,70 @@
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": "https://unavatar.io/twitter/TaskOS_Ai"
+    },
+    {
+      "project": "TENKE",
+      "account": "TENKENFT",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "AlphaFries"
+      ],
+      "tgAlphas": [
+        "AlphaFries"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-02",
+      "lastSeen": "2026-07-02",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "TENKE",
+          "account": "TENKENFT",
+          "alpha": "AlphaFries",
+          "seenAt": "2026-07-02",
+          "messageId": "https://x.com/TENKENFT",
+          "text": "Coming-soon Ethereum NFT collection from pencil-stroke artwork"
+        }
+      ],
+      "text": " TENKE TENKENFT Coming-soon Ethereum NFT collection from pencil-stroke artwork",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/TENKENFT"
+    },
+    {
+      "project": "The Fable",
+      "account": "thefableart",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Kingmaker"
+      ],
+      "tgAlphas": [
+        "Kingmaker"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-02",
+      "lastSeen": "2026-07-02",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "The Fable",
+          "account": "thefableart",
+          "alpha": "Kingmaker",
+          "seenAt": "2026-07-02",
+          "messageId": "https://x.com/thefableart",
+          "text": "Procedurally generated onchain butterfly and moth art collection"
+        }
+      ],
+      "text": " The Fable thefableart Procedurally generated onchain butterfly and moth art collection",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/thefableart"
     },
     {
       "project": "TheMegaEye",
@@ -25992,6 +26768,38 @@
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": "https://unavatar.io/twitter/playtokentycoon"
+    },
+    {
+      "project": "TRIGGER",
+      "account": "uniswaptrigger",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "AlphaFries"
+      ],
+      "tgAlphas": [
+        "AlphaFries"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-02",
+      "lastSeen": "2026-07-02",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "TRIGGER",
+          "account": "uniswaptrigger",
+          "alpha": "AlphaFries",
+          "seenAt": "2026-07-02",
+          "messageId": "https://x.com/uniswaptrigger",
+          "text": "Uniswap-themed early project with swap trigger positioning"
+        }
+      ],
+      "text": " TRIGGER uniswaptrigger Uniswap-themed early project with swap trigger positioning",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/uniswaptrigger"
     },
     {
       "project": "trix_mrkt",
@@ -26120,6 +26928,38 @@
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": "https://unavatar.io/twitter/valoriagame"
+    },
+    {
+      "project": "Vistadex",
+      "account": "Vistadex",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        ".purple"
+      ],
+      "tgAlphas": [
+        ".purple"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-02",
+      "lastSeen": "2026-07-02",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Vistadex",
+          "account": "Vistadex",
+          "alpha": ".purple",
+          "seenAt": "2026-07-02",
+          "messageId": "https://x.com/Vistadex",
+          "text": "Information frontier project"
+        }
+      ],
+      "text": " Vistadex Vistadex Information frontier project",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/Vistadex"
     },
     {
       "project": "voidpad",
@@ -28219,6 +29059,109 @@
       "score": 18,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/Robinhookv4"
+    },
+    {
+      "project": "Hyperworld",
+      "account": "PlayHyperWorld",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "NEO",
+        "alphafries",
+        "ibraxbt",
+        "xeogy92298766"
+      ],
+      "tgAlphas": [
+        "NEO"
+      ],
+      "xAlphas": [
+        "alphafries",
+        "ibraxbt",
+        "xeogy92298766"
+      ],
+      "mentions": 8,
+      "firstSeen": "2026-06-25",
+      "lastSeen": "2026-07-02",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Hyperworld",
+          "account": "PlayHyperWorld",
+          "alpha": "NEO",
+          "seenAt": "2026-07-02",
+          "messageId": "https://x.com/PlayHyperWorld",
+          "text": "Onchain pixel MMO on HyperEVM with contract address visible"
+        },
+        {
+          "source": "X",
+          "project": "Hyperworld",
+          "account": "PlayHyperWorld",
+          "alpha": "alphafries",
+          "seenAt": "2026-06-25",
+          "messageId": "2026-06-25-x-partial-alphafries.csv",
+          "text": "Pixel MMO on HyperEVM"
+        },
+        {
+          "source": "X",
+          "project": "Hyperworld",
+          "account": "PlayHyperWorld",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-25",
+          "messageId": "2026-06-25-x-partial-ibraxbt.csv",
+          "text": "Pixel MMO on HyperEVM"
+        },
+        {
+          "source": "X",
+          "project": "Hyperworld",
+          "account": "PlayHyperWorld",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-25",
+          "messageId": "2026-06-25-x-partial-xeogy92298766.csv",
+          "text": "Pixel MMO on HyperEVM"
+        },
+        {
+          "source": "X",
+          "project": "Hyperworld",
+          "account": "PlayHyperWorld",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-26",
+          "messageId": "2026-06-26-x-partial-xeogy92298766.csv",
+          "text": "Pixel MMO on HyperEVM"
+        },
+        {
+          "source": "X",
+          "project": "Hyperworld",
+          "account": "PlayHyperWorld",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-28",
+          "messageId": "2026-06-28-x-partial-xeogy92298766.csv",
+          "text": "Onchain pixel MMO on HyperEVM"
+        },
+        {
+          "source": "X",
+          "project": "Hyperworld",
+          "account": "PlayHyperWorld",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-29",
+          "messageId": "2026-06-29-x-partial-xeogy92298766.csv",
+          "text": "Onchain pixel MMO on HyperEVM"
+        },
+        {
+          "source": "X",
+          "project": "Hyperworld",
+          "account": "PlayHyperWorld",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-30",
+          "messageId": "2026-06-30-x-partial-xeogy92298766.csv",
+          "text": "Onchain pixel MMO on HyperEVM"
+        }
+      ],
+      "text": " Hyperworld PlayHyperWorld Onchain pixel MMO on HyperEVM with contract address visible Hyperworld PlayHyperWorld Pixel MMO on HyperEVM Hyperworld PlayHyperWorld Pixel MMO on HyperEVM Hyperworld PlayHyperWorld Pixel MMO on HyperEVM Hyperworld PlayHyperWorld Pixel MMO on HyperEVM Hyperworld PlayHyperWorld Onchain pixel MMO on HyperEVM Hyperworld PlayHyperWorld Onchain pixel MMO on HyperEVM Hyperworld PlayHyperWorld Onchain pixel MMO on HyperEVM",
+      "score": 17,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/PlayHyperWorld"
     },
     {
       "project": "Juniper Lane",
@@ -30973,6 +31916,62 @@
       "avatarUrl": "https://unavatar.io/twitter/Mootopiafun"
     },
     {
+      "project": "NPC",
+      "account": "npcB20",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "Kingmaker",
+        "Xiaoyu",
+        "alphafries"
+      ],
+      "tgAlphas": [
+        "Kingmaker",
+        "Xiaoyu"
+      ],
+      "xAlphas": [
+        "alphafries"
+      ],
+      "mentions": 3,
+      "firstSeen": "2026-06-29",
+      "lastSeen": "2026-07-02",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "NPC",
+          "account": "npcB20",
+          "alpha": "Kingmaker",
+          "seenAt": "2026-06-29",
+          "messageId": "https://x.com/npcB20",
+          "text": "B20-powered AI NPC minting project on Base"
+        },
+        {
+          "source": "TG",
+          "project": "NPC",
+          "account": "npcB20",
+          "alpha": "Xiaoyu",
+          "seenAt": "2026-07-02",
+          "messageId": "https://x.com/npcB20",
+          "text": "B20-powered NPCs on Base with memory and AI personality"
+        },
+        {
+          "source": "X",
+          "project": "NPC",
+          "account": "npcB20",
+          "alpha": "alphafries",
+          "seenAt": "2026-06-30",
+          "messageId": "2026-06-30-x-partial-alphafries.csv",
+          "text": "B20-powered AI NPC minting project on Base"
+        }
+      ],
+      "text": " NPC npcB20 B20-powered AI NPC minting project on Base NPC npcB20 B20-powered NPCs on Base with memory and AI personality NPC npcB20 B20-powered AI NPC minting project on Base",
+      "score": 11,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/npcB20"
+    },
+    {
       "project": "RIFT",
       "account": "rift_sys",
       "sources": [
@@ -31465,6 +32464,60 @@
       "avatarUrl": "https://unavatar.io/twitter/elisymlabs"
     },
     {
+      "project": "EmberQuest",
+      "account": "EmberQuestIO",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "bearzverse",
+        "speest"
+      ],
+      "tgAlphas": [
+        "speest"
+      ],
+      "xAlphas": [
+        "bearzverse"
+      ],
+      "mentions": 3,
+      "firstSeen": "2026-06-29",
+      "lastSeen": "2026-07-02",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "EmberQuest",
+          "account": "EmberQuestIO",
+          "alpha": "speest",
+          "seenAt": "2026-07-02",
+          "messageId": "https://x.com/EmberQuestIO",
+          "text": "Browser MMORPG launching on Solana with SEAR token utility"
+        },
+        {
+          "source": "X",
+          "project": "EmberQuest",
+          "account": "EmberQuestIO",
+          "alpha": "bearzverse",
+          "seenAt": "2026-06-29",
+          "messageId": "2026-06-29-x-partial-bearzverse.csv",
+          "text": "Browser MMORPG"
+        },
+        {
+          "source": "X",
+          "project": "EmberQuest",
+          "account": "EmberQuestIO",
+          "alpha": "bearzverse",
+          "seenAt": "2026-06-30",
+          "messageId": "2026-06-30-x-partial-bearzverse.csv",
+          "text": "Browser MMORPG launching on Solana"
+        }
+      ],
+      "text": " EmberQuest EmberQuestIO Browser MMORPG launching on Solana with SEAR token utility EmberQuest EmberQuestIO Browser MMORPG EmberQuest EmberQuestIO Browser MMORPG launching on Solana",
+      "score": 10,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/EmberQuestIO"
+    },
+    {
       "project": "InfinityFDN",
       "account": "InfinityFDN",
       "sources": [
@@ -31832,6 +32885,51 @@
       "score": 9,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/zero1cash"
+    },
+    {
+      "project": "axol.io",
+      "account": "axol_io",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "NEO",
+        "NotVanGogh88"
+      ],
+      "tgAlphas": [
+        "NEO"
+      ],
+      "xAlphas": [
+        "NotVanGogh88"
+      ],
+      "mentions": 2,
+      "firstSeen": "2026-06-26",
+      "lastSeen": "2026-07-02",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "axol.io",
+          "account": "axol_io",
+          "alpha": "NEO",
+          "seenAt": "2026-07-02",
+          "messageId": "https://x.com/axol_io",
+          "text": "Agent runtime for on-chain commerce and privacy-oriented blockchain axolotls"
+        },
+        {
+          "source": "X",
+          "project": "axol.io",
+          "account": "axol_io",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-26",
+          "messageId": "2026-06-26-x-partial-NotVanGogh88.csv",
+          "text": "Agent runtime for onchain commerce"
+        }
+      ],
+      "text": " axol.io axol_io Agent runtime for on-chain commerce and privacy-oriented blockchain axolotls axol.io axol_io Agent runtime for onchain commerce",
+      "score": 9,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/axol_io"
     },
     {
       "project": "ChessArena",
@@ -32327,51 +33425,6 @@
       "score": 9,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/NexariaWorld"
-    },
-    {
-      "project": "NPC",
-      "account": "npcB20",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "Kingmaker",
-        "alphafries"
-      ],
-      "tgAlphas": [
-        "Kingmaker"
-      ],
-      "xAlphas": [
-        "alphafries"
-      ],
-      "mentions": 2,
-      "firstSeen": "2026-06-29",
-      "lastSeen": "2026-06-30",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "NPC",
-          "account": "npcB20",
-          "alpha": "Kingmaker",
-          "seenAt": "2026-06-29",
-          "messageId": "https://x.com/npcB20",
-          "text": "B20-powered AI NPC minting project on Base"
-        },
-        {
-          "source": "X",
-          "project": "NPC",
-          "account": "npcB20",
-          "alpha": "alphafries",
-          "seenAt": "2026-06-30",
-          "messageId": "2026-06-30-x-partial-alphafries.csv",
-          "text": "B20-powered AI NPC minting project on Base"
-        }
-      ],
-      "text": " NPC npcB20 B20-powered AI NPC minting project on Base NPC npcB20 B20-powered AI NPC minting project on Base",
-      "score": 9,
-      "displayTier": "focus",
-      "avatarUrl": "https://unavatar.io/twitter/npcB20"
     },
     {
       "project": "Olm Health",
@@ -34553,6 +35606,109 @@
       "score": 18,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/Robinhookv4"
+    },
+    {
+      "project": "Hyperworld",
+      "account": "PlayHyperWorld",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "NEO",
+        "alphafries",
+        "ibraxbt",
+        "xeogy92298766"
+      ],
+      "tgAlphas": [
+        "NEO"
+      ],
+      "xAlphas": [
+        "alphafries",
+        "ibraxbt",
+        "xeogy92298766"
+      ],
+      "mentions": 8,
+      "firstSeen": "2026-06-25",
+      "lastSeen": "2026-07-02",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Hyperworld",
+          "account": "PlayHyperWorld",
+          "alpha": "NEO",
+          "seenAt": "2026-07-02",
+          "messageId": "https://x.com/PlayHyperWorld",
+          "text": "Onchain pixel MMO on HyperEVM with contract address visible"
+        },
+        {
+          "source": "X",
+          "project": "Hyperworld",
+          "account": "PlayHyperWorld",
+          "alpha": "alphafries",
+          "seenAt": "2026-06-25",
+          "messageId": "2026-06-25-x-partial-alphafries.csv",
+          "text": "Pixel MMO on HyperEVM"
+        },
+        {
+          "source": "X",
+          "project": "Hyperworld",
+          "account": "PlayHyperWorld",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-25",
+          "messageId": "2026-06-25-x-partial-ibraxbt.csv",
+          "text": "Pixel MMO on HyperEVM"
+        },
+        {
+          "source": "X",
+          "project": "Hyperworld",
+          "account": "PlayHyperWorld",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-25",
+          "messageId": "2026-06-25-x-partial-xeogy92298766.csv",
+          "text": "Pixel MMO on HyperEVM"
+        },
+        {
+          "source": "X",
+          "project": "Hyperworld",
+          "account": "PlayHyperWorld",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-26",
+          "messageId": "2026-06-26-x-partial-xeogy92298766.csv",
+          "text": "Pixel MMO on HyperEVM"
+        },
+        {
+          "source": "X",
+          "project": "Hyperworld",
+          "account": "PlayHyperWorld",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-28",
+          "messageId": "2026-06-28-x-partial-xeogy92298766.csv",
+          "text": "Onchain pixel MMO on HyperEVM"
+        },
+        {
+          "source": "X",
+          "project": "Hyperworld",
+          "account": "PlayHyperWorld",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-29",
+          "messageId": "2026-06-29-x-partial-xeogy92298766.csv",
+          "text": "Onchain pixel MMO on HyperEVM"
+        },
+        {
+          "source": "X",
+          "project": "Hyperworld",
+          "account": "PlayHyperWorld",
+          "alpha": "xeogy92298766",
+          "seenAt": "2026-06-30",
+          "messageId": "2026-06-30-x-partial-xeogy92298766.csv",
+          "text": "Onchain pixel MMO on HyperEVM"
+        }
+      ],
+      "text": " Hyperworld PlayHyperWorld Onchain pixel MMO on HyperEVM with contract address visible Hyperworld PlayHyperWorld Pixel MMO on HyperEVM Hyperworld PlayHyperWorld Pixel MMO on HyperEVM Hyperworld PlayHyperWorld Pixel MMO on HyperEVM Hyperworld PlayHyperWorld Pixel MMO on HyperEVM Hyperworld PlayHyperWorld Onchain pixel MMO on HyperEVM Hyperworld PlayHyperWorld Onchain pixel MMO on HyperEVM Hyperworld PlayHyperWorld Onchain pixel MMO on HyperEVM",
+      "score": 17,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/PlayHyperWorld"
     },
     {
       "project": "Juniper Lane",
@@ -38035,6 +39191,62 @@
       "avatarUrl": "https://unavatar.io/twitter/Mootopiafun"
     },
     {
+      "project": "NPC",
+      "account": "npcB20",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "Kingmaker",
+        "Xiaoyu",
+        "alphafries"
+      ],
+      "tgAlphas": [
+        "Kingmaker",
+        "Xiaoyu"
+      ],
+      "xAlphas": [
+        "alphafries"
+      ],
+      "mentions": 3,
+      "firstSeen": "2026-06-29",
+      "lastSeen": "2026-07-02",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "NPC",
+          "account": "npcB20",
+          "alpha": "Kingmaker",
+          "seenAt": "2026-06-29",
+          "messageId": "https://x.com/npcB20",
+          "text": "B20-powered AI NPC minting project on Base"
+        },
+        {
+          "source": "TG",
+          "project": "NPC",
+          "account": "npcB20",
+          "alpha": "Xiaoyu",
+          "seenAt": "2026-07-02",
+          "messageId": "https://x.com/npcB20",
+          "text": "B20-powered NPCs on Base with memory and AI personality"
+        },
+        {
+          "source": "X",
+          "project": "NPC",
+          "account": "npcB20",
+          "alpha": "alphafries",
+          "seenAt": "2026-06-30",
+          "messageId": "2026-06-30-x-partial-alphafries.csv",
+          "text": "B20-powered AI NPC minting project on Base"
+        }
+      ],
+      "text": " NPC npcB20 B20-powered AI NPC minting project on Base NPC npcB20 B20-powered NPCs on Base with memory and AI personality NPC npcB20 B20-powered AI NPC minting project on Base",
+      "score": 11,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/npcB20"
+    },
+    {
       "project": "RIFT",
       "account": "rift_sys",
       "sources": [
@@ -38381,96 +39593,6 @@
       "score": 10,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/divdotfun"
-    },
-    {
-      "project": "Hyperworld",
-      "account": "PlayHyperWorld",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "alphafries",
-        "ibraxbt",
-        "xeogy92298766"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "alphafries",
-        "ibraxbt",
-        "xeogy92298766"
-      ],
-      "mentions": 7,
-      "firstSeen": "2026-06-25",
-      "lastSeen": "2026-06-30",
-      "rows": [
-        {
-          "source": "X",
-          "project": "Hyperworld",
-          "account": "PlayHyperWorld",
-          "alpha": "alphafries",
-          "seenAt": "2026-06-25",
-          "messageId": "2026-06-25-x-partial-alphafries.csv",
-          "text": "Pixel MMO on HyperEVM"
-        },
-        {
-          "source": "X",
-          "project": "Hyperworld",
-          "account": "PlayHyperWorld",
-          "alpha": "ibraxbt",
-          "seenAt": "2026-06-25",
-          "messageId": "2026-06-25-x-partial-ibraxbt.csv",
-          "text": "Pixel MMO on HyperEVM"
-        },
-        {
-          "source": "X",
-          "project": "Hyperworld",
-          "account": "PlayHyperWorld",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-25",
-          "messageId": "2026-06-25-x-partial-xeogy92298766.csv",
-          "text": "Pixel MMO on HyperEVM"
-        },
-        {
-          "source": "X",
-          "project": "Hyperworld",
-          "account": "PlayHyperWorld",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-26",
-          "messageId": "2026-06-26-x-partial-xeogy92298766.csv",
-          "text": "Pixel MMO on HyperEVM"
-        },
-        {
-          "source": "X",
-          "project": "Hyperworld",
-          "account": "PlayHyperWorld",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-28",
-          "messageId": "2026-06-28-x-partial-xeogy92298766.csv",
-          "text": "Onchain pixel MMO on HyperEVM"
-        },
-        {
-          "source": "X",
-          "project": "Hyperworld",
-          "account": "PlayHyperWorld",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-29",
-          "messageId": "2026-06-29-x-partial-xeogy92298766.csv",
-          "text": "Onchain pixel MMO on HyperEVM"
-        },
-        {
-          "source": "X",
-          "project": "Hyperworld",
-          "account": "PlayHyperWorld",
-          "alpha": "xeogy92298766",
-          "seenAt": "2026-06-30",
-          "messageId": "2026-06-30-x-partial-xeogy92298766.csv",
-          "text": "Onchain pixel MMO on HyperEVM"
-        }
-      ],
-      "text": " Hyperworld PlayHyperWorld Pixel MMO on HyperEVM Hyperworld PlayHyperWorld Pixel MMO on HyperEVM Hyperworld PlayHyperWorld Pixel MMO on HyperEVM Hyperworld PlayHyperWorld Pixel MMO on HyperEVM Hyperworld PlayHyperWorld Onchain pixel MMO on HyperEVM Hyperworld PlayHyperWorld Onchain pixel MMO on HyperEVM Hyperworld PlayHyperWorld Onchain pixel MMO on HyperEVM",
-      "score": 10,
-      "displayTier": "focus",
-      "avatarUrl": "https://unavatar.io/twitter/PlayHyperWorld"
     },
     {
       "project": "mmorpg_fun",
@@ -38878,6 +40000,60 @@
       "score": 10,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/elisymlabs"
+    },
+    {
+      "project": "EmberQuest",
+      "account": "EmberQuestIO",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "bearzverse",
+        "speest"
+      ],
+      "tgAlphas": [
+        "speest"
+      ],
+      "xAlphas": [
+        "bearzverse"
+      ],
+      "mentions": 3,
+      "firstSeen": "2026-06-29",
+      "lastSeen": "2026-07-02",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "EmberQuest",
+          "account": "EmberQuestIO",
+          "alpha": "speest",
+          "seenAt": "2026-07-02",
+          "messageId": "https://x.com/EmberQuestIO",
+          "text": "Browser MMORPG launching on Solana with SEAR token utility"
+        },
+        {
+          "source": "X",
+          "project": "EmberQuest",
+          "account": "EmberQuestIO",
+          "alpha": "bearzverse",
+          "seenAt": "2026-06-29",
+          "messageId": "2026-06-29-x-partial-bearzverse.csv",
+          "text": "Browser MMORPG"
+        },
+        {
+          "source": "X",
+          "project": "EmberQuest",
+          "account": "EmberQuestIO",
+          "alpha": "bearzverse",
+          "seenAt": "2026-06-30",
+          "messageId": "2026-06-30-x-partial-bearzverse.csv",
+          "text": "Browser MMORPG launching on Solana"
+        }
+      ],
+      "text": " EmberQuest EmberQuestIO Browser MMORPG launching on Solana with SEAR token utility EmberQuest EmberQuestIO Browser MMORPG EmberQuest EmberQuestIO Browser MMORPG launching on Solana",
+      "score": 10,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/EmberQuestIO"
     },
     {
       "project": "InfinityFDN",
@@ -39573,6 +40749,51 @@
       "avatarUrl": "https://unavatar.io/twitter/zero1cash"
     },
     {
+      "project": "axol.io",
+      "account": "axol_io",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "NEO",
+        "NotVanGogh88"
+      ],
+      "tgAlphas": [
+        "NEO"
+      ],
+      "xAlphas": [
+        "NotVanGogh88"
+      ],
+      "mentions": 2,
+      "firstSeen": "2026-06-26",
+      "lastSeen": "2026-07-02",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "axol.io",
+          "account": "axol_io",
+          "alpha": "NEO",
+          "seenAt": "2026-07-02",
+          "messageId": "https://x.com/axol_io",
+          "text": "Agent runtime for on-chain commerce and privacy-oriented blockchain axolotls"
+        },
+        {
+          "source": "X",
+          "project": "axol.io",
+          "account": "axol_io",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-26",
+          "messageId": "2026-06-26-x-partial-NotVanGogh88.csv",
+          "text": "Agent runtime for onchain commerce"
+        }
+      ],
+      "text": " axol.io axol_io Agent runtime for on-chain commerce and privacy-oriented blockchain axolotls axol.io axol_io Agent runtime for onchain commerce",
+      "score": 9,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/axol_io"
+    },
+    {
       "project": "ChessArena",
       "account": "ChessArenaSol",
       "sources": [
@@ -40066,51 +41287,6 @@
       "score": 9,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/NexariaWorld"
-    },
-    {
-      "project": "NPC",
-      "account": "npcB20",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "Kingmaker",
-        "alphafries"
-      ],
-      "tgAlphas": [
-        "Kingmaker"
-      ],
-      "xAlphas": [
-        "alphafries"
-      ],
-      "mentions": 2,
-      "firstSeen": "2026-06-29",
-      "lastSeen": "2026-06-30",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "NPC",
-          "account": "npcB20",
-          "alpha": "Kingmaker",
-          "seenAt": "2026-06-29",
-          "messageId": "https://x.com/npcB20",
-          "text": "B20-powered AI NPC minting project on Base"
-        },
-        {
-          "source": "X",
-          "project": "NPC",
-          "account": "npcB20",
-          "alpha": "alphafries",
-          "seenAt": "2026-06-30",
-          "messageId": "2026-06-30-x-partial-alphafries.csv",
-          "text": "B20-powered AI NPC minting project on Base"
-        }
-      ],
-      "text": " NPC npcB20 B20-powered AI NPC minting project on Base NPC npcB20 B20-powered AI NPC minting project on Base",
-      "score": 9,
-      "displayTier": "focus",
-      "avatarUrl": "https://unavatar.io/twitter/npcB20"
     },
     {
       "project": "Olm Health",
@@ -45899,6 +47075,975 @@
     }
   ],
   "daily": [
+    {
+      "date": "2026-07-02",
+      "totalRows": 40,
+      "projectCount": 29,
+      "focusCount": 0,
+      "candidateCount": 29,
+      "crossSource": 0,
+      "newCount": 24,
+      "repeatCount": 5,
+      "projects": [
+        {
+          "project": "Anvil",
+          "account": "anvilpay",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Kingmaker"
+          ],
+          "tgAlphas": [
+            "Kingmaker"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-02",
+          "lastSeen": "2026-07-02",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Anvil",
+              "account": "anvilpay",
+              "alpha": "Kingmaker",
+              "seenAt": "2026-07-02",
+              "messageId": "https://x.com/anvilpay",
+              "text": "Autonomous agent framework on Base"
+            }
+          ],
+          "text": " Anvil anvilpay Autonomous agent framework on Base",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/anvilpay",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Arcus",
+          "account": "arcus_xyz",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "poet"
+          ],
+          "tgAlphas": [
+            "poet"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-02",
+          "lastSeen": "2026-07-02",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Arcus",
+              "account": "arcus_xyz",
+              "alpha": "poet",
+              "seenAt": "2026-07-02",
+              "messageId": "https://x.com/arcus_xyz",
+              "text": "Stock and perps trading product built by the dYdX team in partnership with Robinhood Crypto"
+            }
+          ],
+          "text": " Arcus arcus_xyz Stock and perps trading product built by the dYdX team in partnership with Robinhood Crypto",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/arcus_xyz",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Assetra",
+          "account": "assetrafun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Kingmaker"
+          ],
+          "tgAlphas": [
+            "Kingmaker"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-02",
+          "lastSeen": "2026-07-02",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Assetra",
+              "account": "assetrafun",
+              "alpha": "Kingmaker",
+              "seenAt": "2026-07-02",
+              "messageId": "https://x.com/assetrafun",
+              "text": "NFT-Fi protocol on Robinhood App or Robinhood Chain"
+            }
+          ],
+          "text": " Assetra assetrafun NFT-Fi protocol on Robinhood App or Robinhood Chain",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/assetrafun",
+          "dayStatus": "new"
+        },
+        {
+          "project": "axol.io",
+          "account": "axol_io",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "NEO"
+          ],
+          "tgAlphas": [
+            "NEO"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-02",
+          "lastSeen": "2026-07-02",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "axol.io",
+              "account": "axol_io",
+              "alpha": "NEO",
+              "seenAt": "2026-07-02",
+              "messageId": "https://x.com/axol_io",
+              "text": "Agent runtime for on-chain commerce and privacy-oriented blockchain axolotls"
+            }
+          ],
+          "text": " axol.io axol_io Agent runtime for on-chain commerce and privacy-oriented blockchain axolotls",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/axol_io",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Baseflywheel",
+          "account": "Baseflywheel",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "AlphaFries"
+          ],
+          "tgAlphas": [
+            "AlphaFries"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-02",
+          "lastSeen": "2026-07-02",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Baseflywheel",
+              "account": "Baseflywheel",
+              "alpha": "AlphaFries",
+              "seenAt": "2026-07-02",
+              "messageId": "https://x.com/Baseflywheel",
+              "text": "Token launchpad on Base with locked liquidity and BWHEEL buybacks"
+            }
+          ],
+          "text": " Baseflywheel Baseflywheel Token launchpad on Base with locked liquidity and BWHEEL buybacks",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/Baseflywheel",
+          "dayStatus": "new"
+        },
+        {
+          "project": "BONO",
+          "account": "BONOoneth",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Newbie"
+          ],
+          "tgAlphas": [
+            "Newbie"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-02",
+          "lastSeen": "2026-07-02",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "BONO",
+              "account": "BONOoneth",
+              "alpha": "Newbie",
+              "seenAt": "2026-07-02",
+              "messageId": "https://x.com/BONOoneth",
+              "text": "Coming-soon Ethereum culture or NFT project"
+            }
+          ],
+          "text": " BONO BONOoneth Coming-soon Ethereum culture or NFT project",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/BONOoneth",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Collectra",
+          "account": "CollectraShop",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Kingmaker"
+          ],
+          "tgAlphas": [
+            "Kingmaker"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-02",
+          "lastSeen": "2026-07-02",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Collectra",
+              "account": "CollectraShop",
+              "alpha": "Kingmaker",
+              "seenAt": "2026-07-02",
+              "messageId": "https://x.com/CollectraShop",
+              "text": "Collector marketplace for TCG and sports cards on Base"
+            }
+          ],
+          "text": " Collectra CollectraShop Collector marketplace for TCG and sports cards on Base",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/CollectraShop",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Degen Bean Head",
+          "account": "BeanHead_eth",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Kingmaker"
+          ],
+          "tgAlphas": [
+            "Kingmaker"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-02",
+          "lastSeen": "2026-07-02",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Degen Bean Head",
+              "account": "BeanHead_eth",
+              "alpha": "Kingmaker",
+              "seenAt": "2026-07-02",
+              "messageId": "https://x.com/BeanHead_eth",
+              "text": "Coming-soon Ethereum NFT or culture collection"
+            }
+          ],
+          "text": " Degen Bean Head BeanHead_eth Coming-soon Ethereum NFT or culture collection",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/BeanHead_eth",
+          "dayStatus": "new"
+        },
+        {
+          "project": "dung",
+          "account": "PlayDUNG_",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "CSR"
+          ],
+          "tgAlphas": [
+            "CSR"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-02",
+          "lastSeen": "2026-07-02",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "dung",
+              "account": "PlayDUNG_",
+              "alpha": "CSR",
+              "seenAt": "2026-07-02",
+              "messageId": "https://x.com/PlayDUNG_",
+              "text": "On-chain games for impulse-control style gameplay"
+            }
+          ],
+          "text": " dung PlayDUNG_ On-chain games for impulse-control style gameplay",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/PlayDUNG_",
+          "dayStatus": "new"
+        },
+        {
+          "project": "EmberQuest",
+          "account": "EmberQuestIO",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "speest"
+          ],
+          "tgAlphas": [
+            "speest"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-02",
+          "lastSeen": "2026-07-02",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "EmberQuest",
+              "account": "EmberQuestIO",
+              "alpha": "speest",
+              "seenAt": "2026-07-02",
+              "messageId": "https://x.com/EmberQuestIO",
+              "text": "Browser MMORPG launching on Solana with SEAR token utility"
+            }
+          ],
+          "text": " EmberQuest EmberQuestIO Browser MMORPG launching on Solana with SEAR token utility",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/EmberQuestIO",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Etheria",
+          "account": "Etheriatown",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Newbie"
+          ],
+          "tgAlphas": [
+            "Newbie"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-02",
+          "lastSeen": "2026-07-02",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Etheria",
+              "account": "Etheriatown",
+              "alpha": "Newbie",
+              "seenAt": "2026-07-02",
+              "messageId": "https://x.com/Etheriatown",
+              "text": "3D voxel isometric MMO playable in browser"
+            }
+          ],
+          "text": " Etheria Etheriatown 3D voxel isometric MMO playable in browser",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/Etheriatown",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Fledge",
+          "account": "Fledgetrade",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "NEO"
+          ],
+          "tgAlphas": [
+            "NEO"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-02",
+          "lastSeen": "2026-07-02",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Fledge",
+              "account": "Fledgetrade",
+              "alpha": "NEO",
+              "seenAt": "2026-07-02",
+              "messageId": "https://x.com/Fledgetrade",
+              "text": "Turns stock prices into tradeable on-chain markets on Robinhood L2"
+            }
+          ],
+          "text": " Fledge Fledgetrade Turns stock prices into tradeable on-chain markets on Robinhood L2",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/Fledgetrade",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Hyperworld",
+          "account": "PlayHyperWorld",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "NEO"
+          ],
+          "tgAlphas": [
+            "NEO"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-02",
+          "lastSeen": "2026-07-02",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Hyperworld",
+              "account": "PlayHyperWorld",
+              "alpha": "NEO",
+              "seenAt": "2026-07-02",
+              "messageId": "https://x.com/PlayHyperWorld",
+              "text": "Onchain pixel MMO on HyperEVM with contract address visible"
+            }
+          ],
+          "text": " Hyperworld PlayHyperWorld Onchain pixel MMO on HyperEVM with contract address visible",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/PlayHyperWorld",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Incorporate",
+          "account": "IncorporateB20",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Xiaoyu"
+          ],
+          "tgAlphas": [
+            "Xiaoyu"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-02",
+          "lastSeen": "2026-07-02",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Incorporate",
+              "account": "IncorporateB20",
+              "alpha": "Xiaoyu",
+              "seenAt": "2026-07-02",
+              "messageId": "https://x.com/IncorporateB20",
+              "text": "Turns NFTs into fully on-chain businesses on Base B20"
+            }
+          ],
+          "text": " Incorporate IncorporateB20 Turns NFTs into fully on-chain businesses on Base B20",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/IncorporateB20",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Mireye",
+          "account": "MireyeHQ",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            ".purple"
+          ],
+          "tgAlphas": [
+            ".purple"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-02",
+          "lastSeen": "2026-07-02",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Mireye",
+              "account": "MireyeHQ",
+              "alpha": ".purple",
+              "seenAt": "2026-07-02",
+              "messageId": "https://x.com/MireyeHQ",
+              "text": "Infrastructure for physical-world AI agents"
+            }
+          ],
+          "text": " Mireye MireyeHQ Infrastructure for physical-world AI agents",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/MireyeHQ",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Pyramid",
+          "account": "PyramidDeFi",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "AlphaFries"
+          ],
+          "tgAlphas": [
+            "AlphaFries"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-02",
+          "lastSeen": "2026-07-02",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Pyramid",
+              "account": "PyramidDeFi",
+              "alpha": "AlphaFries",
+              "seenAt": "2026-07-02",
+              "messageId": "https://x.com/PyramidDeFi",
+              "text": "Onchain finance layer built on Robinhood Chain"
+            }
+          ],
+          "text": " Pyramid PyramidDeFi Onchain finance layer built on Robinhood Chain",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/PyramidDeFi",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Remnants",
+          "account": "remnantsart",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BearzVerse"
+          ],
+          "tgAlphas": [
+            "BearzVerse"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-02",
+          "lastSeen": "2026-07-02",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Remnants",
+              "account": "remnantsart",
+              "alpha": "BearzVerse",
+              "seenAt": "2026-07-02",
+              "messageId": "https://x.com/remnantsart",
+              "text": "Onchain art or NFT collection with 666 remaining"
+            }
+          ],
+          "text": " Remnants remnantsart Onchain art or NFT collection with 666 remaining",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/remnantsart",
+          "dayStatus": "new"
+        },
+        {
+          "project": "RobinFarm",
+          "account": "RobinFarms",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Newbie"
+          ],
+          "tgAlphas": [
+            "Newbie"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-02",
+          "lastSeen": "2026-07-02",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "RobinFarm",
+              "account": "RobinFarms",
+              "alpha": "Newbie",
+              "seenAt": "2026-07-02",
+              "messageId": "https://x.com/RobinFarms",
+              "text": "On-chain farming game on Robin Chain with NFT farmers"
+            }
+          ],
+          "text": " RobinFarm RobinFarms On-chain farming game on Robin Chain with NFT farmers",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/RobinFarms",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Robinhook",
+          "account": "Robin_HookV4",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "AlphaFries"
+          ],
+          "tgAlphas": [
+            "AlphaFries"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-02",
+          "lastSeen": "2026-07-02",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Robinhook",
+              "account": "Robin_HookV4",
+              "alpha": "AlphaFries",
+              "seenAt": "2026-07-02",
+              "messageId": "https://x.com/Robin_HookV4",
+              "text": "Programmable DeFi on Robinhood Chain with customizable hooks"
+            }
+          ],
+          "text": " Robinhook Robin_HookV4 Programmable DeFi on Robinhood Chain with customizable hooks",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/Robin_HookV4",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Rush",
+          "account": "rushtradingx",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "speest"
+          ],
+          "tgAlphas": [
+            "speest"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-02",
+          "lastSeen": "2026-07-02",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Rush",
+              "account": "rushtradingx",
+              "alpha": "speest",
+              "seenAt": "2026-07-02",
+              "messageId": "https://x.com/rushtradingx",
+              "text": "Prediction-market infrastructure layer built on Solana"
+            }
+          ],
+          "text": " Rush rushtradingx Prediction-market infrastructure layer built on Solana",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/rushtradingx",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Slonana Labs",
+          "account": "slonana_network",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BearzVerse"
+          ],
+          "tgAlphas": [
+            "BearzVerse"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-02",
+          "lastSeen": "2026-07-02",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Slonana Labs",
+              "account": "slonana_network",
+              "alpha": "BearzVerse",
+              "seenAt": "2026-07-02",
+              "messageId": "https://x.com/slonana_network",
+              "text": "SVM-based L1 for the agent economy and machine-speed DeFi"
+            }
+          ],
+          "text": " Slonana Labs slonana_network SVM-based L1 for the agent economy and machine-speed DeFi",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/slonana_network",
+          "dayStatus": "new"
+        },
+        {
+          "project": "SOLTEL",
+          "account": "soltelworld",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Kingmaker"
+          ],
+          "tgAlphas": [
+            "Kingmaker"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-02",
+          "lastSeen": "2026-07-02",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "SOLTEL",
+              "account": "soltelworld",
+              "alpha": "Kingmaker",
+              "seenAt": "2026-07-02",
+              "messageId": "https://x.com/soltelworld",
+              "text": "Playable hotel-building MMO on Solana"
+            }
+          ],
+          "text": " SOLTEL soltelworld Playable hotel-building MMO on Solana",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/soltelworld",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Stark",
+          "account": "UseStarkCpu",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Kingmaker"
+          ],
+          "tgAlphas": [
+            "Kingmaker"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-02",
+          "lastSeen": "2026-07-02",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Stark",
+              "account": "UseStarkCpu",
+              "alpha": "Kingmaker",
+              "seenAt": "2026-07-02",
+              "messageId": "https://x.com/UseStarkCpu",
+              "text": "Decentralized compute infrastructure for crypto-native rewards"
+            }
+          ],
+          "text": " Stark UseStarkCpu Decentralized compute infrastructure for crypto-native rewards",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/UseStarkCpu",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Swing",
+          "account": "swing_io",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BearzVerse"
+          ],
+          "tgAlphas": [
+            "BearzVerse"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-02",
+          "lastSeen": "2026-07-02",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Swing",
+              "account": "swing_io",
+              "alpha": "BearzVerse",
+              "seenAt": "2026-07-02",
+              "messageId": "https://x.com/swing_io",
+              "text": "Continuous trading competition on Solana with private beta in July"
+            }
+          ],
+          "text": " Swing swing_io Continuous trading competition on Solana with private beta in July",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/swing_io",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Talos",
+          "account": "Talosdotfun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Mutu"
+          ],
+          "tgAlphas": [
+            "Mutu"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-02",
+          "lastSeen": "2026-07-02",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Talos",
+              "account": "Talosdotfun",
+              "alpha": "Mutu",
+              "seenAt": "2026-07-02",
+              "messageId": "https://x.com/Talosdotfun",
+              "text": "Turns AI agents into onchain businesses with identities wallets services and x402 payments"
+            }
+          ],
+          "text": " Talos Talosdotfun Turns AI agents into onchain businesses with identities wallets services and x402 payments",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/Talosdotfun",
+          "dayStatus": "new"
+        },
+        {
+          "project": "TENKE",
+          "account": "TENKENFT",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "AlphaFries"
+          ],
+          "tgAlphas": [
+            "AlphaFries"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-02",
+          "lastSeen": "2026-07-02",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "TENKE",
+              "account": "TENKENFT",
+              "alpha": "AlphaFries",
+              "seenAt": "2026-07-02",
+              "messageId": "https://x.com/TENKENFT",
+              "text": "Coming-soon Ethereum NFT collection from pencil-stroke artwork"
+            }
+          ],
+          "text": " TENKE TENKENFT Coming-soon Ethereum NFT collection from pencil-stroke artwork",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/TENKENFT",
+          "dayStatus": "new"
+        },
+        {
+          "project": "The Fable",
+          "account": "thefableart",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Kingmaker"
+          ],
+          "tgAlphas": [
+            "Kingmaker"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-02",
+          "lastSeen": "2026-07-02",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "The Fable",
+              "account": "thefableart",
+              "alpha": "Kingmaker",
+              "seenAt": "2026-07-02",
+              "messageId": "https://x.com/thefableart",
+              "text": "Procedurally generated onchain butterfly and moth art collection"
+            }
+          ],
+          "text": " The Fable thefableart Procedurally generated onchain butterfly and moth art collection",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/thefableart",
+          "dayStatus": "new"
+        },
+        {
+          "project": "TRIGGER",
+          "account": "uniswaptrigger",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "AlphaFries"
+          ],
+          "tgAlphas": [
+            "AlphaFries"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-02",
+          "lastSeen": "2026-07-02",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "TRIGGER",
+              "account": "uniswaptrigger",
+              "alpha": "AlphaFries",
+              "seenAt": "2026-07-02",
+              "messageId": "https://x.com/uniswaptrigger",
+              "text": "Uniswap-themed early project with swap trigger positioning"
+            }
+          ],
+          "text": " TRIGGER uniswaptrigger Uniswap-themed early project with swap trigger positioning",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/uniswaptrigger",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Vistadex",
+          "account": "Vistadex",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            ".purple"
+          ],
+          "tgAlphas": [
+            ".purple"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-02",
+          "lastSeen": "2026-07-02",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Vistadex",
+              "account": "Vistadex",
+              "alpha": ".purple",
+              "seenAt": "2026-07-02",
+              "messageId": "https://x.com/Vistadex",
+              "text": "Information frontier project"
+            }
+          ],
+          "text": " Vistadex Vistadex Information frontier project",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/Vistadex",
+          "dayStatus": "new"
+        }
+      ]
+    },
     {
       "date": "2026-07-01",
       "totalRows": 20,
