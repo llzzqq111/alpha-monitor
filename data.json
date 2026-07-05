@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-04T15:21:30.645Z",
+  "generatedAt": "2026-07-05T12:39:00.598Z",
   "totals": {
-    "telegramRows": 478,
+    "telegramRows": 528,
     "xRows": 1721,
-    "projects": 654,
-    "crossSource": 98
+    "projects": 673,
+    "crossSource": 100
   },
   "projects": [
     {
@@ -630,10 +630,12 @@
         "ibraxbt",
         "kugua",
         "nlgcf69515952",
-        "unsynned"
+        "unsynned",
+        "蛋总 关注了 Robi"
       ],
       "tgAlphas": [
-        "kugua"
+        "kugua",
+        "蛋总 关注了 Robi"
       ],
       "xAlphas": [
         "Yangxiao214",
@@ -643,9 +645,9 @@
         "nlgcf69515952",
         "unsynned"
       ],
-      "mentions": 10,
+      "mentions": 11,
       "firstSeen": "2026-06-16T16:39:53+00:00",
-      "lastSeen": "2026-06-21",
+      "lastSeen": "2026-07-05",
       "rows": [
         {
           "source": "TG",
@@ -655,6 +657,15 @@
           "seenAt": "2026-06-16T16:39:53+00:00",
           "messageId": "dodtwitterbot/8137",
           "text": ""
+        },
+        {
+          "source": "TG",
+          "project": "RobinFun",
+          "account": "robinfunxyz",
+          "alpha": "蛋总 关注了 Robi",
+          "seenAt": "2026-07-05",
+          "messageId": "https://x.com/robinfunxyz",
+          "text": "Launch ideas. Trade narratives. A launchpad for market-born tokens."
         },
         {
           "source": "X",
@@ -738,8 +749,8 @@
           "text": "Narrative/token launchpad"
         }
       ],
-      "text": " RobinFun robinfunxyz  robinfunxyz robinfunxyz  robinfunxyz robinfunxyz 启动想法。交易叙事。一个市场诞生的代币发射台。 robinfunxyz robinfunxyz 启动想法。交易叙事。一个市场诞生的代币发射台。 robinfunxyz robinfunxyz \"Token launchpad for launching ideas and trading narratives.\" robinfunxyz robinfunxyz \"Token launchpad for launching ideas and trading narratives.\" robinfunxyz robinfunxyz \"Token launchpad for launching ideas and trading narratives.\" RobinFun robinfunxyz Narrative/token launchpad RobinFun robinfunxyz Narrative/token launchpad RobinFun robinfunxyz Narrative/token launchpad",
-      "score": 22,
+      "text": " RobinFun robinfunxyz  RobinFun robinfunxyz Launch ideas. Trade narratives. A launchpad for market-born tokens. robinfunxyz robinfunxyz  robinfunxyz robinfunxyz 启动想法。交易叙事。一个市场诞生的代币发射台。 robinfunxyz robinfunxyz 启动想法。交易叙事。一个市场诞生的代币发射台。 robinfunxyz robinfunxyz \"Token launchpad for launching ideas and trading narratives.\" robinfunxyz robinfunxyz \"Token launchpad for launching ideas and trading narratives.\" robinfunxyz robinfunxyz \"Token launchpad for launching ideas and trading narratives.\" RobinFun robinfunxyz Narrative/token launchpad RobinFun robinfunxyz Narrative/token launchpad RobinFun robinfunxyz Narrative/token launchpad",
+      "score": 24,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/robinfunxyz"
     },
@@ -2644,6 +2655,89 @@
       "score": 15,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/metalntwx"
+    },
+    {
+      "project": "speculate.xyz",
+      "account": "speculatexyz",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "Kingmaker 关注了 spec",
+        "alphafries",
+        "ibraxbt"
+      ],
+      "tgAlphas": [
+        "Kingmaker 关注了 spec"
+      ],
+      "xAlphas": [
+        "alphafries",
+        "ibraxbt"
+      ],
+      "mentions": 6,
+      "firstSeen": "2026-06-28",
+      "lastSeen": "2026-07-05",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "speculate.xyz",
+          "account": "speculatexyz",
+          "alpha": "Kingmaker 关注了 spec",
+          "seenAt": "2026-07-05",
+          "messageId": "https://x.com/speculatexyz",
+          "text": "building a pretty good app on Hyperliquid"
+        },
+        {
+          "source": "X",
+          "project": "speculate.xyz",
+          "account": "speculatexyz",
+          "alpha": "alphafries",
+          "seenAt": "2026-06-28",
+          "messageId": "2026-06-28-x-partial-alphafries.csv",
+          "text": "Hyperliquid app project"
+        },
+        {
+          "source": "X",
+          "project": "speculate.xyz",
+          "account": "speculatexyz",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-28",
+          "messageId": "2026-06-28-x-partial-ibraxbt.csv",
+          "text": "Hyperliquid app for speculation markets"
+        },
+        {
+          "source": "X",
+          "project": "speculate.xyz",
+          "account": "speculatexyz",
+          "alpha": "alphafries",
+          "seenAt": "2026-06-29",
+          "messageId": "2026-06-29-x-partial-alphafries.csv",
+          "text": "Hyperliquid app for speculation markets"
+        },
+        {
+          "source": "X",
+          "project": "speculate.xyz",
+          "account": "speculatexyz",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-29",
+          "messageId": "2026-06-29-x-partial-ibraxbt.csv",
+          "text": "Hyperliquid app for speculation markets"
+        },
+        {
+          "source": "X",
+          "project": "speculate.xyz",
+          "account": "speculatexyz",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-30",
+          "messageId": "2026-06-30-x-partial-ibraxbt.csv",
+          "text": "Hyperliquid app for speculation markets"
+        }
+      ],
+      "text": " speculate.xyz speculatexyz building a pretty good app on Hyperliquid speculate.xyz speculatexyz Hyperliquid app project speculate.xyz speculatexyz Hyperliquid app for speculation markets speculate.xyz speculatexyz Hyperliquid app for speculation markets speculate.xyz speculatexyz Hyperliquid app for speculation markets speculate.xyz speculatexyz Hyperliquid app for speculation markets",
+      "score": 14,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/speculatexyz"
     },
     {
       "project": "TradeFish",
@@ -6967,6 +7061,60 @@
       "avatarUrl": "https://unavatar.io/twitter/shot2windotxyz"
     },
     {
+      "project": "Snout & Fowl",
+      "account": "SnoutandFowl",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "Kingmaker 关注了 Snou",
+        "ibraxbt"
+      ],
+      "tgAlphas": [
+        "Kingmaker 关注了 Snou"
+      ],
+      "xAlphas": [
+        "ibraxbt"
+      ],
+      "mentions": 3,
+      "firstSeen": "2026-06-28",
+      "lastSeen": "2026-07-05",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Snout & Fowl",
+          "account": "SnoutandFowl",
+          "alpha": "Kingmaker 关注了 Snou",
+          "seenAt": "2026-07-05",
+          "messageId": "https://x.com/SnoutandFowl",
+          "text": "Follow your Nose."
+        },
+        {
+          "source": "X",
+          "project": "Snout & Fowl",
+          "account": "SnoutandFowl",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-28",
+          "messageId": "2026-06-28-x-partial-ibraxbt.csv",
+          "text": "Early game or brand project"
+        },
+        {
+          "source": "X",
+          "project": "Snout & Fowl",
+          "account": "SnoutandFowl",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-29",
+          "messageId": "2026-06-29-x-partial-ibraxbt.csv",
+          "text": "Early game or brand project"
+        }
+      ],
+      "text": " Snout & Fowl SnoutandFowl Follow your Nose. Snout & Fowl SnoutandFowl Early game or brand project Snout & Fowl SnoutandFowl Early game or brand project",
+      "score": 10,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/SnoutandFowl"
+    },
+    {
       "project": "TinyHumans AI",
       "account": "tinyhumansai",
       "sources": [
@@ -9208,6 +9356,71 @@
       "avatarUrl": "https://unavatar.io/twitter/DegenhoodL2"
     },
     {
+      "project": "dNFT.fun",
+      "account": "dnftdotfun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        ".✦ ݁˖ 🟣 关注了 dNFT",
+        "AlphaFries 关注了 dNFT",
+        "Kingmaker 关注了 dNFT",
+        "小雨倾城 关注了 dNFT"
+      ],
+      "tgAlphas": [
+        ".✦ ݁˖ 🟣 关注了 dNFT",
+        "AlphaFries 关注了 dNFT",
+        "Kingmaker 关注了 dNFT",
+        "小雨倾城 关注了 dNFT"
+      ],
+      "xAlphas": [],
+      "mentions": 4,
+      "firstSeen": "2026-07-05",
+      "lastSeen": "2026-07-05",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "dNFT.fun",
+          "account": "dnftdotfun",
+          "alpha": ".✦ ݁˖ 🟣 关注了 dNFT",
+          "seenAt": "2026-07-05",
+          "messageId": "https://x.com/dnftdotfun",
+          "text": "NFTs Launchpad on Ethereum."
+        },
+        {
+          "source": "TG",
+          "project": "dNFT.fun",
+          "account": "dnftdotfun",
+          "alpha": "Kingmaker 关注了 dNFT",
+          "seenAt": "2026-07-05",
+          "messageId": "https://x.com/dnftdotfun",
+          "text": "NFTs Launchpad on Ethereum."
+        },
+        {
+          "source": "TG",
+          "project": "dNFT.fun",
+          "account": "dnftdotfun",
+          "alpha": "AlphaFries 关注了 dNFT",
+          "seenAt": "2026-07-05",
+          "messageId": "https://x.com/dnftdotfun",
+          "text": "NFTs Launchpad on Ethereum."
+        },
+        {
+          "source": "TG",
+          "project": "dNFT.fun",
+          "account": "dnftdotfun",
+          "alpha": "小雨倾城 关注了 dNFT",
+          "seenAt": "2026-07-05",
+          "messageId": "https://x.com/dnftdotfun",
+          "text": "NFTs Launchpad on Ethereum."
+        }
+      ],
+      "text": " dNFT.fun dnftdotfun NFTs Launchpad on Ethereum. dNFT.fun dnftdotfun NFTs Launchpad on Ethereum. dNFT.fun dnftdotfun NFTs Launchpad on Ethereum. dNFT.fun dnftdotfun NFTs Launchpad on Ethereum.",
+      "score": 8,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/dnftdotfun"
+    },
+    {
       "project": "Fadestate",
       "account": "Fadestate",
       "sources": [
@@ -10510,76 +10723,6 @@
       "score": 7,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/spacex_wdgame"
-    },
-    {
-      "project": "speculate.xyz",
-      "account": "speculatexyz",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "alphafries",
-        "ibraxbt"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "alphafries",
-        "ibraxbt"
-      ],
-      "mentions": 5,
-      "firstSeen": "2026-06-28",
-      "lastSeen": "2026-06-30",
-      "rows": [
-        {
-          "source": "X",
-          "project": "speculate.xyz",
-          "account": "speculatexyz",
-          "alpha": "alphafries",
-          "seenAt": "2026-06-28",
-          "messageId": "2026-06-28-x-partial-alphafries.csv",
-          "text": "Hyperliquid app project"
-        },
-        {
-          "source": "X",
-          "project": "speculate.xyz",
-          "account": "speculatexyz",
-          "alpha": "ibraxbt",
-          "seenAt": "2026-06-28",
-          "messageId": "2026-06-28-x-partial-ibraxbt.csv",
-          "text": "Hyperliquid app for speculation markets"
-        },
-        {
-          "source": "X",
-          "project": "speculate.xyz",
-          "account": "speculatexyz",
-          "alpha": "alphafries",
-          "seenAt": "2026-06-29",
-          "messageId": "2026-06-29-x-partial-alphafries.csv",
-          "text": "Hyperliquid app for speculation markets"
-        },
-        {
-          "source": "X",
-          "project": "speculate.xyz",
-          "account": "speculatexyz",
-          "alpha": "ibraxbt",
-          "seenAt": "2026-06-29",
-          "messageId": "2026-06-29-x-partial-ibraxbt.csv",
-          "text": "Hyperliquid app for speculation markets"
-        },
-        {
-          "source": "X",
-          "project": "speculate.xyz",
-          "account": "speculatexyz",
-          "alpha": "ibraxbt",
-          "seenAt": "2026-06-30",
-          "messageId": "2026-06-30-x-partial-ibraxbt.csv",
-          "text": "Hyperliquid app for speculation markets"
-        }
-      ],
-      "text": " speculate.xyz speculatexyz Hyperliquid app project speculate.xyz speculatexyz Hyperliquid app for speculation markets speculate.xyz speculatexyz Hyperliquid app for speculation markets speculate.xyz speculatexyz Hyperliquid app for speculation markets speculate.xyz speculatexyz Hyperliquid app for speculation markets",
-      "score": 7,
-      "displayTier": "focus",
-      "avatarUrl": "https://unavatar.io/twitter/speculatexyz"
     },
     {
       "project": "Storms.Md",
@@ -12194,6 +12337,60 @@
       "avatarUrl": "https://unavatar.io/twitter/eiDotterSystem"
     },
     {
+      "project": "Fletch",
+      "account": "FletchAI",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "AlphaFries 关注了 Flet",
+        "Kingmaker 关注了 Flet",
+        "小雨倾城 关注了 Flet"
+      ],
+      "tgAlphas": [
+        "AlphaFries 关注了 Flet",
+        "Kingmaker 关注了 Flet",
+        "小雨倾城 关注了 Flet"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-07-05",
+      "lastSeen": "2026-07-05",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Fletch",
+          "account": "FletchAI",
+          "alpha": "Kingmaker 关注了 Flet",
+          "seenAt": "2026-07-05",
+          "messageId": "https://x.com/FletchAI",
+          "text": "\"Fletch is the most powerful AI agent on Robinhood Chain Trade"
+        },
+        {
+          "source": "TG",
+          "project": "Fletch",
+          "account": "FletchAI",
+          "alpha": "AlphaFries 关注了 Flet",
+          "seenAt": "2026-07-05",
+          "messageId": "https://x.com/FletchAI",
+          "text": "\"Fletch is the most powerful AI agent on Robinhood Chain Trade"
+        },
+        {
+          "source": "TG",
+          "project": "Fletch",
+          "account": "FletchAI",
+          "alpha": "小雨倾城 关注了 Flet",
+          "seenAt": "2026-07-05",
+          "messageId": "https://x.com/FletchAI",
+          "text": "\"Fletch is the most powerful AI agent on Robinhood Chain Trade"
+        }
+      ],
+      "text": " Fletch FletchAI \"Fletch is the most powerful AI agent on Robinhood Chain Trade Fletch FletchAI \"Fletch is the most powerful AI agent on Robinhood Chain Trade Fletch FletchAI \"Fletch is the most powerful AI agent on Robinhood Chain Trade",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/FletchAI"
+    },
+    {
       "project": "Little Farmers",
       "account": "LittleFarmersGG",
       "sources": [
@@ -12462,6 +12659,60 @@
       "score": 6,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/railB20"
+    },
+    {
+      "project": "robin good 🏹",
+      "account": "0xrobingood",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "AlphaFries 关注了 robi",
+        "Kingmaker 关注了 robi",
+        "小雨倾城 关注了 robi"
+      ],
+      "tgAlphas": [
+        "AlphaFries 关注了 robi",
+        "Kingmaker 关注了 robi",
+        "小雨倾城 关注了 robi"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-07-04",
+      "lastSeen": "2026-07-05",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "robin good 🏹",
+          "account": "0xrobingood",
+          "alpha": "AlphaFries 关注了 robi",
+          "seenAt": "2026-07-04",
+          "messageId": "https://x.com/0xrobingood",
+          "text": "\"🏹🌲 7777 good robins free mint on robinhood chain no rich"
+        },
+        {
+          "source": "TG",
+          "project": "robin good 🏹",
+          "account": "0xrobingood",
+          "alpha": "Kingmaker 关注了 robi",
+          "seenAt": "2026-07-04",
+          "messageId": "https://x.com/0xrobingood",
+          "text": "\"🏹🌲 7777 good robins free mint on robinhood chain no rich"
+        },
+        {
+          "source": "TG",
+          "project": "robin good 🏹",
+          "account": "0xrobingood",
+          "alpha": "小雨倾城 关注了 robi",
+          "seenAt": "2026-07-05",
+          "messageId": "https://x.com/0xrobingood",
+          "text": "\"🏹🌲 7777 good robins free mint on robinhood chain no rich"
+        }
+      ],
+      "text": " robin good 🏹 0xrobingood \"🏹🌲 7777 good robins free mint on robinhood chain no rich robin good 🏹 0xrobingood \"🏹🌲 7777 good robins free mint on robinhood chain no rich robin good 🏹 0xrobingood \"🏹🌲 7777 good robins free mint on robinhood chain no rich",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/0xrobingood"
     },
     {
       "project": "Rpeg",
@@ -16964,6 +17215,49 @@
       "avatarUrl": "https://unavatar.io/twitter/zonelessdev"
     },
     {
+      "project": "币安重生",
+      "account": "bnchongsheng",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "小雨倾城 关注了 币安重生",
+        "苦瓜大王 关注了 币安重生"
+      ],
+      "tgAlphas": [
+        "小雨倾城 关注了 币安重生",
+        "苦瓜大王 关注了 币安重生"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-07-05",
+      "lastSeen": "2026-07-05",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "币安重生",
+          "account": "bnchongsheng",
+          "alpha": "苦瓜大王 关注了 币安重生",
+          "seenAt": "2026-07-05",
+          "messageId": "https://x.com/bnchongsheng",
+          "text": "涅槃（Nirvana）空投，40%全部空投给散户，共2000份，每人20万枚代币"
+        },
+        {
+          "source": "TG",
+          "project": "币安重生",
+          "account": "bnchongsheng",
+          "alpha": "小雨倾城 关注了 币安重生",
+          "seenAt": "2026-07-05",
+          "messageId": "https://x.com/bnchongsheng",
+          "text": "涅槃（Nirvana）空投，40%全部空投给散户，共2000份，每人20万枚代币"
+        }
+      ],
+      "text": " 币安重生 bnchongsheng 涅槃（Nirvana）空投，40%全部空投给散户，共2000份，每人20万枚代币 币安重生 bnchongsheng 涅槃（Nirvana）空投，40%全部空投给散户，共2000份，每人20万枚代币",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/bnchongsheng"
+    },
+    {
       "project": "Arcus",
       "account": "arcus_xyz",
       "sources": [
@@ -17134,6 +17428,49 @@
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/autoshard"
+    },
+    {
+      "project": "B20Farms",
+      "account": "B20Farms",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "AlphaFries 关注了 B20F",
+        "Kingmaker 关注了 B20F"
+      ],
+      "tgAlphas": [
+        "AlphaFries 关注了 B20F",
+        "Kingmaker 关注了 B20F"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-07-05",
+      "lastSeen": "2026-07-05",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "B20Farms",
+          "account": "B20Farms",
+          "alpha": "Kingmaker 关注了 B20F",
+          "seenAt": "2026-07-05",
+          "messageId": "https://x.com/B20Farms",
+          "text": "Touch grass? We put the grass on-chain. First B20-powered farm game on Base."
+        },
+        {
+          "source": "TG",
+          "project": "B20Farms",
+          "account": "B20Farms",
+          "alpha": "AlphaFries 关注了 B20F",
+          "seenAt": "2026-07-05",
+          "messageId": "https://x.com/B20Farms",
+          "text": "Touch grass? We put the grass on-chain. First B20-powered farm game on Base."
+        }
+      ],
+      "text": " B20Farms B20Farms Touch grass? We put the grass on-chain. First B20-powered farm game on Base. B20Farms B20Farms Touch grass? We put the grass on-chain. First B20-powered farm game on Base.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/B20Farms"
     },
     {
       "project": "Baseflywheel",
@@ -18082,6 +18419,49 @@
       "avatarUrl": "https://unavatar.io/twitter/HoodersX"
     },
     {
+      "project": "Hoodtrade",
+      "account": "usehoodtrade",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "speest 💎 关注了 Hood",
+        "发誓要做永赚大师💰 关注了 Hood"
+      ],
+      "tgAlphas": [
+        "speest 💎 关注了 Hood",
+        "发誓要做永赚大师💰 关注了 Hood"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-07-04",
+      "lastSeen": "2026-07-05",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Hoodtrade",
+          "account": "usehoodtrade",
+          "alpha": "发誓要做永赚大师💰 关注了 Hood",
+          "seenAt": "2026-07-04",
+          "messageId": "https://x.com/usehoodtrade",
+          "text": "Building an on-chain safety agent for Robinhood Chain."
+        },
+        {
+          "source": "TG",
+          "project": "Hoodtrade",
+          "account": "usehoodtrade",
+          "alpha": "speest 💎 关注了 Hood",
+          "seenAt": "2026-07-05",
+          "messageId": "https://x.com/usehoodtrade",
+          "text": "Building an on-chain safety agent for Robinhood Chain."
+        }
+      ],
+      "text": " Hoodtrade usehoodtrade Building an on-chain safety agent for Robinhood Chain. Hoodtrade usehoodtrade Building an on-chain safety agent for Robinhood Chain.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/usehoodtrade"
+    },
+    {
       "project": "Hooksensor",
       "account": "Hooksensor",
       "sources": [
@@ -18123,6 +18503,49 @@
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/Hooksensor"
+    },
+    {
+      "project": "incanta",
+      "account": "incanta_xyz",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse 关注了 inca",
+        "Kingmaker 关注了 inca"
+      ],
+      "tgAlphas": [
+        "BearzVerse 关注了 inca",
+        "Kingmaker 关注了 inca"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-07-05",
+      "lastSeen": "2026-07-05",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "incanta",
+          "account": "incanta_xyz",
+          "alpha": "Kingmaker 关注了 inca",
+          "seenAt": "2026-07-05",
+          "messageId": "https://x.com/incanta_xyz",
+          "text": "casting spells at the @solana blockchain 🪄"
+        },
+        {
+          "source": "TG",
+          "project": "incanta",
+          "account": "incanta_xyz",
+          "alpha": "BearzVerse 关注了 inca",
+          "seenAt": "2026-07-05",
+          "messageId": "https://x.com/incanta_xyz",
+          "text": "casting spells at the @solana blockchain 🪄"
+        }
+      ],
+      "text": " incanta incanta_xyz casting spells at the @solana blockchain 🪄 incanta incanta_xyz casting spells at the @solana blockchain 🪄",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/incanta_xyz"
     },
     {
       "project": "Info Fi Trade",
@@ -18209,6 +18632,49 @@
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/Kumori_nft"
+    },
+    {
+      "project": "Kyra-Agent",
+      "account": "Kyra_Agent",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "AlphaFries 关注了 Kyra",
+        "Kingmaker 关注了 Kyra"
+      ],
+      "tgAlphas": [
+        "AlphaFries 关注了 Kyra",
+        "Kingmaker 关注了 Kyra"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-07-03",
+      "lastSeen": "2026-07-05",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Kyra-Agent",
+          "account": "Kyra_Agent",
+          "alpha": "AlphaFries 关注了 Kyra",
+          "seenAt": "2026-07-03",
+          "messageId": "https://x.com/Kyra_Agent",
+          "text": "Deploy telegram native AI agents on Base agents plan you approve. Deploy intelligent. Own the action."
+        },
+        {
+          "source": "TG",
+          "project": "Kyra-Agent",
+          "account": "Kyra_Agent",
+          "alpha": "Kingmaker 关注了 Kyra",
+          "seenAt": "2026-07-05",
+          "messageId": "https://x.com/Kyra_Agent",
+          "text": "Deploy telegram native AI agents on Base agents plan you approve. Deploy intelligent. Own the action."
+        }
+      ],
+      "text": " Kyra-Agent Kyra_Agent Deploy telegram native AI agents on Base agents plan you approve. Deploy intelligent. Own the action. Kyra-Agent Kyra_Agent Deploy telegram native AI agents on Base agents plan you approve. Deploy intelligent. Own the action.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/Kyra_Agent"
     },
     {
       "project": "Midas",
@@ -18338,6 +18804,49 @@
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/ometsonmonad"
+    },
+    {
+      "project": "OnChainHoodies",
+      "account": "OnChainHoodies",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "AlphaFries 关注了 OnCh",
+        "小雨倾城 关注了 OnCh"
+      ],
+      "tgAlphas": [
+        "AlphaFries 关注了 OnCh",
+        "小雨倾城 关注了 OnCh"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-07-04",
+      "lastSeen": "2026-07-05",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "OnChainHoodies",
+          "account": "OnChainHoodies",
+          "alpha": "小雨倾城 关注了 OnCh",
+          "seenAt": "2026-07-04",
+          "messageId": "https://x.com/OnChainHoodies",
+          "text": "The fully on-chain neighborhood of Web3. 1-bit. Hand-drawn. Fully on-chain."
+        },
+        {
+          "source": "TG",
+          "project": "OnChainHoodies",
+          "account": "OnChainHoodies",
+          "alpha": "AlphaFries 关注了 OnCh",
+          "seenAt": "2026-07-05",
+          "messageId": "https://x.com/OnChainHoodies",
+          "text": "The fully on-chain neighborhood of Web3. 1-bit. Hand-drawn. Fully on-chain."
+        }
+      ],
+      "text": " OnChainHoodies OnChainHoodies The fully on-chain neighborhood of Web3. 1-bit. Hand-drawn. Fully on-chain. OnChainHoodies OnChainHoodies The fully on-chain neighborhood of Web3. 1-bit. Hand-drawn. Fully on-chain.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/OnChainHoodies"
     },
     {
       "project": "OPERATOR",
@@ -18942,49 +19451,6 @@
       "avatarUrl": "https://unavatar.io/twitter/robinflat"
     },
     {
-      "project": "robin good 🏹",
-      "account": "0xrobingood",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "AlphaFries 关注了 robi",
-        "Kingmaker 关注了 robi"
-      ],
-      "tgAlphas": [
-        "AlphaFries 关注了 robi",
-        "Kingmaker 关注了 robi"
-      ],
-      "xAlphas": [],
-      "mentions": 2,
-      "firstSeen": "2026-07-04",
-      "lastSeen": "2026-07-04",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "robin good 🏹",
-          "account": "0xrobingood",
-          "alpha": "AlphaFries 关注了 robi",
-          "seenAt": "2026-07-04",
-          "messageId": "https://x.com/0xrobingood",
-          "text": "\"🏹🌲 7777 good robins free mint on robinhood chain no rich"
-        },
-        {
-          "source": "TG",
-          "project": "robin good 🏹",
-          "account": "0xrobingood",
-          "alpha": "Kingmaker 关注了 robi",
-          "seenAt": "2026-07-04",
-          "messageId": "https://x.com/0xrobingood",
-          "text": "\"🏹🌲 7777 good robins free mint on robinhood chain no rich"
-        }
-      ],
-      "text": " robin good 🏹 0xrobingood \"🏹🌲 7777 good robins free mint on robinhood chain no rich robin good 🏹 0xrobingood \"🏹🌲 7777 good robins free mint on robinhood chain no rich",
-      "score": 4,
-      "displayTier": "focus",
-      "avatarUrl": "https://unavatar.io/twitter/0xrobingood"
-    },
-    {
       "project": "RobinFarm",
       "account": "RobinFarms",
       "sources": [
@@ -19284,6 +19750,49 @@
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/roodcoin"
+    },
+    {
+      "project": "Round",
+      "account": "Rounddotfamily",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse 关注了 Roun",
+        "Kingmaker 关注了 Roun"
+      ],
+      "tgAlphas": [
+        "BearzVerse 关注了 Roun",
+        "Kingmaker 关注了 Roun"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-07-05",
+      "lastSeen": "2026-07-05",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Round",
+          "account": "Rounddotfamily",
+          "alpha": "Kingmaker 关注了 Roun",
+          "seenAt": "2026-07-05",
+          "messageId": "https://x.com/Rounddotfamily",
+          "text": "Building the multiplayer layer for prediction markets."
+        },
+        {
+          "source": "TG",
+          "project": "Round",
+          "account": "Rounddotfamily",
+          "alpha": "BearzVerse 关注了 Roun",
+          "seenAt": "2026-07-05",
+          "messageId": "https://x.com/Rounddotfamily",
+          "text": "Building the multiplayer layer for prediction markets."
+        }
+      ],
+      "text": " Round Rounddotfamily Building the multiplayer layer for prediction markets. Round Rounddotfamily Building the multiplayer layer for prediction markets.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/Rounddotfamily"
     },
     {
       "project": "RYex_finance",
@@ -19630,6 +20139,49 @@
       "avatarUrl": "https://unavatar.io/twitter/TENKENFT"
     },
     {
+      "project": "The Art of Tokimeki",
+      "account": "artoftokimeki",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        ".✦ ݁˖ 🟣 关注了 The",
+        "well 关注了 The"
+      ],
+      "tgAlphas": [
+        ".✦ ݁˖ 🟣 关注了 The",
+        "well 关注了 The"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-07-05",
+      "lastSeen": "2026-07-05",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "The Art of Tokimeki",
+          "account": "artoftokimeki",
+          "alpha": ".✦ ݁˖ 🟣 关注了 The",
+          "seenAt": "2026-07-05",
+          "messageId": "https://x.com/artoftokimeki",
+          "text": "@mariekondo taught you how to tidy. She taught you to notice what sparks joy. ✨ This is what comes next…"
+        },
+        {
+          "source": "TG",
+          "project": "The Art of Tokimeki",
+          "account": "artoftokimeki",
+          "alpha": "well 关注了 The",
+          "seenAt": "2026-07-05",
+          "messageId": "https://x.com/artoftokimeki",
+          "text": "@mariekondo taught you how to tidy. She taught you to notice what sparks joy. ✨ This is what comes next…"
+        }
+      ],
+      "text": " The Art of Tokimeki artoftokimeki @mariekondo taught you how to tidy. She taught you to notice what sparks joy. ✨ This is what comes next… The Art of Tokimeki artoftokimeki @mariekondo taught you how to tidy. She taught you to notice what sparks joy. ✨ This is what comes next…",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/artoftokimeki"
+    },
+    {
       "project": "tilt",
       "account": "tiltdevice",
       "sources": [
@@ -19886,6 +20438,49 @@
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/WeWinFun"
+    },
+    {
+      "project": "YOINK",
+      "account": "yoinkfun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总 关注了 YOIN",
+        "阿宏 关注了 YOIN"
+      ],
+      "tgAlphas": [
+        "蛋总 关注了 YOIN",
+        "阿宏 关注了 YOIN"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-07-05",
+      "lastSeen": "2026-07-05",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "YOINK",
+          "account": "yoinkfun",
+          "alpha": "蛋总 关注了 YOIN",
+          "seenAt": "2026-07-05",
+          "messageId": "https://x.com/yoinkfun",
+          "text": "the first agentic launch terminal on robinhood chain"
+        },
+        {
+          "source": "TG",
+          "project": "YOINK",
+          "account": "yoinkfun",
+          "alpha": "阿宏 关注了 YOIN",
+          "seenAt": "2026-07-05",
+          "messageId": "https://x.com/yoinkfun",
+          "text": "the first agentic launch terminal on robinhood chain"
+        }
+      ],
+      "text": " YOINK yoinkfun the first agentic launch terminal on robinhood chain YOINK yoinkfun the first agentic launch terminal on robinhood chain",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/yoinkfun"
     },
     {
       "project": "ZebraPerps",
@@ -23750,47 +24345,6 @@
       "avatarUrl": "https://unavatar.io/twitter/Sindicatgame"
     },
     {
-      "project": "Snout & Fowl",
-      "account": "SnoutandFowl",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "ibraxbt"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "ibraxbt"
-      ],
-      "mentions": 2,
-      "firstSeen": "2026-06-28",
-      "lastSeen": "2026-06-29",
-      "rows": [
-        {
-          "source": "X",
-          "project": "Snout & Fowl",
-          "account": "SnoutandFowl",
-          "alpha": "ibraxbt",
-          "seenAt": "2026-06-28",
-          "messageId": "2026-06-28-x-partial-ibraxbt.csv",
-          "text": "Early game or brand project"
-        },
-        {
-          "source": "X",
-          "project": "Snout & Fowl",
-          "account": "SnoutandFowl",
-          "alpha": "ibraxbt",
-          "seenAt": "2026-06-29",
-          "messageId": "2026-06-29-x-partial-ibraxbt.csv",
-          "text": "Early game or brand project"
-        }
-      ],
-      "text": " Snout & Fowl SnoutandFowl Early game or brand project Snout & Fowl SnoutandFowl Early game or brand project",
-      "score": 3,
-      "displayTier": "focus",
-      "avatarUrl": "https://unavatar.io/twitter/SnoutandFowl"
-    },
-    {
       "project": "Sol City",
       "account": "SolCity2026",
       "sources": [
@@ -24698,6 +25252,38 @@
       "avatarUrl": "https://unavatar.io/twitter/PrivacyAegis"
     },
     {
+      "project": "Afriflux",
+      "account": "Afriflux_XYZ",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Kingmaker 关注了 Afri"
+      ],
+      "tgAlphas": [
+        "Kingmaker 关注了 Afri"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-05",
+      "lastSeen": "2026-07-05",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Afriflux",
+          "account": "Afriflux_XYZ",
+          "alpha": "Kingmaker 关注了 Afri",
+          "seenAt": "2026-07-05",
+          "messageId": "https://x.com/Afriflux_XYZ",
+          "text": "\"Onchain intelligence for Africa's stablecoin economy. Tracking native stablecoins"
+        }
+      ],
+      "text": " Afriflux Afriflux_XYZ \"Onchain intelligence for Africa's stablecoin economy. Tracking native stablecoins",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/Afriflux_XYZ"
+    },
+    {
       "project": "Agensi",
       "account": "AgensiHQ",
       "sources": [
@@ -24792,6 +25378,38 @@
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": "https://unavatar.io/twitter/_akkadia"
+    },
+    {
+      "project": "Alien Platform",
+      "account": "AlienCompute",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Kingmaker 关注了 Alie"
+      ],
+      "tgAlphas": [
+        "Kingmaker 关注了 Alie"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-05",
+      "lastSeen": "2026-07-05",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Alien Platform",
+          "account": "AlienCompute",
+          "alpha": "Kingmaker 关注了 Alie",
+          "seenAt": "2026-07-05",
+          "messageId": "https://x.com/AlienCompute",
+          "text": "\"The Anti-Cloud for Liquid Compute Futures. Privacy enabled Distributed AI Training"
+        }
+      ],
+      "text": " Alien Platform AlienCompute \"The Anti-Cloud for Liquid Compute Futures. Privacy enabled Distributed AI Training",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/AlienCompute"
     },
     {
       "project": "AlkanexApp",
@@ -25656,6 +26274,38 @@
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": "https://unavatar.io/twitter/BuildrSystems"
+    },
+    {
+      "project": "BurnKit",
+      "account": "burnkitsdk",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse 关注了 Burn"
+      ],
+      "tgAlphas": [
+        "BearzVerse 关注了 Burn"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-05",
+      "lastSeen": "2026-07-05",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "BurnKit",
+          "account": "burnkitsdk",
+          "alpha": "BearzVerse 关注了 Burn",
+          "seenAt": "2026-07-05",
+          "messageId": "https://x.com/burnkitsdk",
+          "text": "Pay with any Solana SPL token."
+        }
+      ],
+      "text": " BurnKit burnkitsdk Pay with any Solana SPL token.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/burnkitsdk"
     },
     {
       "project": "CactusHQxyz",
@@ -26810,6 +27460,38 @@
       "avatarUrl": "https://unavatar.io/twitter/EvaProtocolBase"
     },
     {
+      "project": "Fanex",
+      "account": "Fanexmarket",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse 关注了 Fane"
+      ],
+      "tgAlphas": [
+        "BearzVerse 关注了 Fane"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-05",
+      "lastSeen": "2026-07-05",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Fanex",
+          "account": "Fanexmarket",
+          "alpha": "BearzVerse 关注了 Fane",
+          "seenAt": "2026-07-05",
+          "messageId": "https://x.com/Fanexmarket",
+          "text": "\"Make the creator's success"
+        }
+      ],
+      "text": " Fanex Fanexmarket \"Make the creator's success",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/Fanexmarket"
+    },
+    {
       "project": "FanTokens",
       "account": "FanTokens",
       "sources": [
@@ -27482,6 +28164,38 @@
       "avatarUrl": "https://unavatar.io/twitter/hashrocklol"
     },
     {
+      "project": "Haylord",
+      "account": "playhaylord",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse 关注了 Hayl"
+      ],
+      "tgAlphas": [
+        "BearzVerse 关注了 Hayl"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-05",
+      "lastSeen": "2026-07-05",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Haylord",
+          "account": "playhaylord",
+          "alpha": "BearzVerse 关注了 Hayl",
+          "seenAt": "2026-07-05",
+          "messageId": "https://x.com/playhaylord",
+          "text": "Stop doomscrolling. Start hay farming. 🌾 Farming MMO for Web3. $HAYLORD CA Coming Soon."
+        }
+      ],
+      "text": " Haylord playhaylord Stop doomscrolling. Start hay farming. 🌾 Farming MMO for Web3. $HAYLORD CA Coming Soon.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/playhaylord"
+    },
+    {
       "project": "Hexflow",
       "account": "HexflowNFTs",
       "sources": [
@@ -27578,38 +28292,6 @@
       "avatarUrl": "https://unavatar.io/twitter/hoodrat_coin"
     },
     {
-      "project": "Hoodtrade",
-      "account": "usehoodtrade",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "发誓要做永赚大师💰 关注了 Hood"
-      ],
-      "tgAlphas": [
-        "发誓要做永赚大师💰 关注了 Hood"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-07-04",
-      "lastSeen": "2026-07-04",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Hoodtrade",
-          "account": "usehoodtrade",
-          "alpha": "发誓要做永赚大师💰 关注了 Hood",
-          "seenAt": "2026-07-04",
-          "messageId": "https://x.com/usehoodtrade",
-          "text": "Building an on-chain safety agent for Robinhood Chain."
-        }
-      ],
-      "text": " Hoodtrade usehoodtrade Building an on-chain safety agent for Robinhood Chain.",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": "https://unavatar.io/twitter/usehoodtrade"
-    },
-    {
       "project": "hookdotzip",
       "account": "hookdotzip",
       "sources": [
@@ -27672,6 +28354,38 @@
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": "https://unavatar.io/twitter/HookenNFT"
+    },
+    {
+      "project": "Humanoid",
+      "account": "TheHumanoidAI",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "发誓要做永赚大师💰 关注了 Huma"
+      ],
+      "tgAlphas": [
+        "发誓要做永赚大师💰 关注了 Huma"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-05",
+      "lastSeen": "2026-07-05",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Humanoid",
+          "account": "TheHumanoidAI",
+          "alpha": "发誓要做永赚大师💰 关注了 Huma",
+          "seenAt": "2026-07-05",
+          "messageId": "https://x.com/TheHumanoidAI",
+          "text": "\"First AI and robotics company in the UK"
+        }
+      ],
+      "text": " Humanoid TheHumanoidAI \"First AI and robotics company in the UK",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/TheHumanoidAI"
     },
     {
       "project": "Hunch",
@@ -28056,38 +28770,6 @@
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": "https://unavatar.io/twitter/trainrobotsfast"
-    },
-    {
-      "project": "Kyra-Agent",
-      "account": "Kyra_Agent",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "AlphaFries 关注了 Kyra"
-      ],
-      "tgAlphas": [
-        "AlphaFries 关注了 Kyra"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-07-03",
-      "lastSeen": "2026-07-03",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Kyra-Agent",
-          "account": "Kyra_Agent",
-          "alpha": "AlphaFries 关注了 Kyra",
-          "seenAt": "2026-07-03",
-          "messageId": "https://x.com/Kyra_Agent",
-          "text": "Deploy telegram native AI agents on Base agents plan you approve. Deploy intelligent. Own the action."
-        }
-      ],
-      "text": " Kyra-Agent Kyra_Agent Deploy telegram native AI agents on Base agents plan you approve. Deploy intelligent. Own the action.",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": "https://unavatar.io/twitter/Kyra_Agent"
     },
     {
       "project": "Ledgerless",
@@ -28538,6 +29220,38 @@
       "avatarUrl": "https://unavatar.io/twitter/neuralmotion"
     },
     {
+      "project": "NewScience",
+      "account": "newscience_x",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Kingmaker 关注了 NewS"
+      ],
+      "tgAlphas": [
+        "Kingmaker 关注了 NewS"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-05",
+      "lastSeen": "2026-07-05",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "NewScience",
+          "account": "newscience_x",
+          "alpha": "Kingmaker 关注了 NewS",
+          "seenAt": "2026-07-05",
+          "messageId": "https://x.com/newscience_x",
+          "text": "Building open agentic infrastructure to accelerate life science."
+        }
+      ],
+      "text": " NewScience newscience_x Building open agentic infrastructure to accelerate life science.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/newscience_x"
+    },
+    {
       "project": "Nusomi",
       "account": "nusomi_ai",
       "sources": [
@@ -28632,38 +29346,6 @@
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": "https://unavatar.io/twitter/onchain_goat"
-    },
-    {
-      "project": "OnChainHoodies",
-      "account": "OnChainHoodies",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "小雨倾城 关注了 OnCh"
-      ],
-      "tgAlphas": [
-        "小雨倾城 关注了 OnCh"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-07-04",
-      "lastSeen": "2026-07-04",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "OnChainHoodies",
-          "account": "OnChainHoodies",
-          "alpha": "小雨倾城 关注了 OnCh",
-          "seenAt": "2026-07-04",
-          "messageId": "https://x.com/OnChainHoodies",
-          "text": "The fully on-chain neighborhood of Web3. 1-bit. Hand-drawn. Fully on-chain."
-        }
-      ],
-      "text": " OnChainHoodies OnChainHoodies The fully on-chain neighborhood of Web3. 1-bit. Hand-drawn. Fully on-chain.",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": "https://unavatar.io/twitter/OnChainHoodies"
     },
     {
       "project": "OrbiesProtocol",
@@ -29272,6 +29954,38 @@
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": "https://unavatar.io/twitter/PrimalsNFTx"
+    },
+    {
+      "project": "PRXVT",
+      "account": "PRXVTai",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "发誓要做永赚大师💰 关注了 PRXV"
+      ],
+      "tgAlphas": [
+        "发誓要做永赚大师💰 关注了 PRXV"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-05",
+      "lastSeen": "2026-07-05",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "PRXVT",
+          "account": "PRXVTai",
+          "alpha": "发誓要做永赚大师💰 关注了 PRXV",
+          "seenAt": "2026-07-05",
+          "messageId": "https://x.com/PRXVTai",
+          "text": "Privacy-first infrastructure for AI agents. Creators of px402: enabling privacy preserving x402 payments. Building towards BLACKBOX ⬛"
+        }
+      ],
+      "text": " PRXVT PRXVTai Privacy-first infrastructure for AI agents. Creators of px402: enabling privacy preserving x402 payments. Building towards BLACKBOX ⬛",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/PRXVTai"
     },
     {
       "project": "PTSD",
@@ -30330,6 +31044,38 @@
       "avatarUrl": "https://unavatar.io/twitter/summocash"
     },
     {
+      "project": "Swyp Pass",
+      "account": "swyppass",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "黑客fa1r 关注了 Swyp"
+      ],
+      "tgAlphas": [
+        "黑客fa1r 关注了 Swyp"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-05",
+      "lastSeen": "2026-07-05",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Swyp Pass",
+          "account": "swyppass",
+          "alpha": "黑客fa1r 关注了 Swyp",
+          "seenAt": "2026-07-05",
+          "messageId": "https://x.com/swyppass",
+          "text": "SWYP is a wallet-native spend layer Built to bring onchain value into everyday payments"
+        }
+      ],
+      "text": " Swyp Pass swyppass SWYP is a wallet-native spend layer Built to bring onchain value into everyday payments",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/swyppass"
+    },
+    {
       "project": "Sydatic",
       "account": "Sydatic",
       "sources": [
@@ -30970,6 +31716,38 @@
       "avatarUrl": "https://unavatar.io/twitter/wafer_ai"
     },
     {
+      "project": "Willowmere 🌾",
+      "account": "willowmerexyz",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse 关注了 Will"
+      ],
+      "tgAlphas": [
+        "BearzVerse 关注了 Will"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-05",
+      "lastSeen": "2026-07-05",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Willowmere 🌾",
+          "account": "willowmerexyz",
+          "alpha": "BearzVerse 关注了 Will",
+          "seenAt": "2026-07-05",
+          "messageId": "https://x.com/willowmerexyz",
+          "text": "\"🌾 A cozy pixel farming game"
+        }
+      ],
+      "text": " Willowmere 🌾 willowmerexyz \"🌾 A cozy pixel farming game",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/willowmerexyz"
+    },
+    {
       "project": "WOOF",
       "account": "woofswap",
       "sources": [
@@ -31096,6 +31874,38 @@
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": "https://unavatar.io/twitter/xoggai"
+    },
+    {
+      "project": "Yapper Agent",
+      "account": "yapperagent",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BTC alpha 关注了 Yapp"
+      ],
+      "tgAlphas": [
+        "BTC alpha 关注了 Yapp"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-05",
+      "lastSeen": "2026-07-05",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Yapper Agent",
+          "account": "yapperagent",
+          "alpha": "BTC alpha 关注了 Yapp",
+          "seenAt": "2026-07-05",
+          "messageId": "https://x.com/yapperagent",
+          "text": "All In One Creator Economy Hub on @CantonNetwork"
+        }
+      ],
+      "text": " Yapper Agent yapperagent All In One Creator Economy Hub on @CantonNetwork",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/yapperagent"
     },
     {
       "project": "yappr",
@@ -31882,10 +32692,12 @@
         "ibraxbt",
         "kugua",
         "nlgcf69515952",
-        "unsynned"
+        "unsynned",
+        "蛋总 关注了 Robi"
       ],
       "tgAlphas": [
-        "kugua"
+        "kugua",
+        "蛋总 关注了 Robi"
       ],
       "xAlphas": [
         "Yangxiao214",
@@ -31895,9 +32707,9 @@
         "nlgcf69515952",
         "unsynned"
       ],
-      "mentions": 10,
+      "mentions": 11,
       "firstSeen": "2026-06-16T16:39:53+00:00",
-      "lastSeen": "2026-06-21",
+      "lastSeen": "2026-07-05",
       "rows": [
         {
           "source": "TG",
@@ -31907,6 +32719,15 @@
           "seenAt": "2026-06-16T16:39:53+00:00",
           "messageId": "dodtwitterbot/8137",
           "text": ""
+        },
+        {
+          "source": "TG",
+          "project": "RobinFun",
+          "account": "robinfunxyz",
+          "alpha": "蛋总 关注了 Robi",
+          "seenAt": "2026-07-05",
+          "messageId": "https://x.com/robinfunxyz",
+          "text": "Launch ideas. Trade narratives. A launchpad for market-born tokens."
         },
         {
           "source": "X",
@@ -31990,8 +32811,8 @@
           "text": "Narrative/token launchpad"
         }
       ],
-      "text": " RobinFun robinfunxyz  robinfunxyz robinfunxyz  robinfunxyz robinfunxyz 启动想法。交易叙事。一个市场诞生的代币发射台。 robinfunxyz robinfunxyz 启动想法。交易叙事。一个市场诞生的代币发射台。 robinfunxyz robinfunxyz \"Token launchpad for launching ideas and trading narratives.\" robinfunxyz robinfunxyz \"Token launchpad for launching ideas and trading narratives.\" robinfunxyz robinfunxyz \"Token launchpad for launching ideas and trading narratives.\" RobinFun robinfunxyz Narrative/token launchpad RobinFun robinfunxyz Narrative/token launchpad RobinFun robinfunxyz Narrative/token launchpad",
-      "score": 22,
+      "text": " RobinFun robinfunxyz  RobinFun robinfunxyz Launch ideas. Trade narratives. A launchpad for market-born tokens. robinfunxyz robinfunxyz  robinfunxyz robinfunxyz 启动想法。交易叙事。一个市场诞生的代币发射台。 robinfunxyz robinfunxyz 启动想法。交易叙事。一个市场诞生的代币发射台。 robinfunxyz robinfunxyz \"Token launchpad for launching ideas and trading narratives.\" robinfunxyz robinfunxyz \"Token launchpad for launching ideas and trading narratives.\" robinfunxyz robinfunxyz \"Token launchpad for launching ideas and trading narratives.\" RobinFun robinfunxyz Narrative/token launchpad RobinFun robinfunxyz Narrative/token launchpad RobinFun robinfunxyz Narrative/token launchpad",
+      "score": 24,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/robinfunxyz"
     },
@@ -33768,6 +34589,89 @@
       "score": 15,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/metalntwx"
+    },
+    {
+      "project": "speculate.xyz",
+      "account": "speculatexyz",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "Kingmaker 关注了 spec",
+        "alphafries",
+        "ibraxbt"
+      ],
+      "tgAlphas": [
+        "Kingmaker 关注了 spec"
+      ],
+      "xAlphas": [
+        "alphafries",
+        "ibraxbt"
+      ],
+      "mentions": 6,
+      "firstSeen": "2026-06-28",
+      "lastSeen": "2026-07-05",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "speculate.xyz",
+          "account": "speculatexyz",
+          "alpha": "Kingmaker 关注了 spec",
+          "seenAt": "2026-07-05",
+          "messageId": "https://x.com/speculatexyz",
+          "text": "building a pretty good app on Hyperliquid"
+        },
+        {
+          "source": "X",
+          "project": "speculate.xyz",
+          "account": "speculatexyz",
+          "alpha": "alphafries",
+          "seenAt": "2026-06-28",
+          "messageId": "2026-06-28-x-partial-alphafries.csv",
+          "text": "Hyperliquid app project"
+        },
+        {
+          "source": "X",
+          "project": "speculate.xyz",
+          "account": "speculatexyz",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-28",
+          "messageId": "2026-06-28-x-partial-ibraxbt.csv",
+          "text": "Hyperliquid app for speculation markets"
+        },
+        {
+          "source": "X",
+          "project": "speculate.xyz",
+          "account": "speculatexyz",
+          "alpha": "alphafries",
+          "seenAt": "2026-06-29",
+          "messageId": "2026-06-29-x-partial-alphafries.csv",
+          "text": "Hyperliquid app for speculation markets"
+        },
+        {
+          "source": "X",
+          "project": "speculate.xyz",
+          "account": "speculatexyz",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-29",
+          "messageId": "2026-06-29-x-partial-ibraxbt.csv",
+          "text": "Hyperliquid app for speculation markets"
+        },
+        {
+          "source": "X",
+          "project": "speculate.xyz",
+          "account": "speculatexyz",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-30",
+          "messageId": "2026-06-30-x-partial-ibraxbt.csv",
+          "text": "Hyperliquid app for speculation markets"
+        }
+      ],
+      "text": " speculate.xyz speculatexyz building a pretty good app on Hyperliquid speculate.xyz speculatexyz Hyperliquid app project speculate.xyz speculatexyz Hyperliquid app for speculation markets speculate.xyz speculatexyz Hyperliquid app for speculation markets speculate.xyz speculatexyz Hyperliquid app for speculation markets speculate.xyz speculatexyz Hyperliquid app for speculation markets",
+      "score": 14,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/speculatexyz"
     },
     {
       "project": "TradeFish",
@@ -37152,6 +38056,60 @@
       "avatarUrl": "https://unavatar.io/twitter/shot2windotxyz"
     },
     {
+      "project": "Snout & Fowl",
+      "account": "SnoutandFowl",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "Kingmaker 关注了 Snou",
+        "ibraxbt"
+      ],
+      "tgAlphas": [
+        "Kingmaker 关注了 Snou"
+      ],
+      "xAlphas": [
+        "ibraxbt"
+      ],
+      "mentions": 3,
+      "firstSeen": "2026-06-28",
+      "lastSeen": "2026-07-05",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Snout & Fowl",
+          "account": "SnoutandFowl",
+          "alpha": "Kingmaker 关注了 Snou",
+          "seenAt": "2026-07-05",
+          "messageId": "https://x.com/SnoutandFowl",
+          "text": "Follow your Nose."
+        },
+        {
+          "source": "X",
+          "project": "Snout & Fowl",
+          "account": "SnoutandFowl",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-28",
+          "messageId": "2026-06-28-x-partial-ibraxbt.csv",
+          "text": "Early game or brand project"
+        },
+        {
+          "source": "X",
+          "project": "Snout & Fowl",
+          "account": "SnoutandFowl",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-29",
+          "messageId": "2026-06-29-x-partial-ibraxbt.csv",
+          "text": "Early game or brand project"
+        }
+      ],
+      "text": " Snout & Fowl SnoutandFowl Follow your Nose. Snout & Fowl SnoutandFowl Early game or brand project Snout & Fowl SnoutandFowl Early game or brand project",
+      "score": 10,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/SnoutandFowl"
+    },
+    {
       "project": "TinyHumans AI",
       "account": "tinyhumansai",
       "sources": [
@@ -38817,10 +39775,12 @@
         "ibraxbt",
         "kugua",
         "nlgcf69515952",
-        "unsynned"
+        "unsynned",
+        "蛋总 关注了 Robi"
       ],
       "tgAlphas": [
-        "kugua"
+        "kugua",
+        "蛋总 关注了 Robi"
       ],
       "xAlphas": [
         "Yangxiao214",
@@ -38830,9 +39790,9 @@
         "nlgcf69515952",
         "unsynned"
       ],
-      "mentions": 10,
+      "mentions": 11,
       "firstSeen": "2026-06-16T16:39:53+00:00",
-      "lastSeen": "2026-06-21",
+      "lastSeen": "2026-07-05",
       "rows": [
         {
           "source": "TG",
@@ -38842,6 +39802,15 @@
           "seenAt": "2026-06-16T16:39:53+00:00",
           "messageId": "dodtwitterbot/8137",
           "text": ""
+        },
+        {
+          "source": "TG",
+          "project": "RobinFun",
+          "account": "robinfunxyz",
+          "alpha": "蛋总 关注了 Robi",
+          "seenAt": "2026-07-05",
+          "messageId": "https://x.com/robinfunxyz",
+          "text": "Launch ideas. Trade narratives. A launchpad for market-born tokens."
         },
         {
           "source": "X",
@@ -38925,8 +39894,8 @@
           "text": "Narrative/token launchpad"
         }
       ],
-      "text": " RobinFun robinfunxyz  robinfunxyz robinfunxyz  robinfunxyz robinfunxyz 启动想法。交易叙事。一个市场诞生的代币发射台。 robinfunxyz robinfunxyz 启动想法。交易叙事。一个市场诞生的代币发射台。 robinfunxyz robinfunxyz \"Token launchpad for launching ideas and trading narratives.\" robinfunxyz robinfunxyz \"Token launchpad for launching ideas and trading narratives.\" robinfunxyz robinfunxyz \"Token launchpad for launching ideas and trading narratives.\" RobinFun robinfunxyz Narrative/token launchpad RobinFun robinfunxyz Narrative/token launchpad RobinFun robinfunxyz Narrative/token launchpad",
-      "score": 22,
+      "text": " RobinFun robinfunxyz  RobinFun robinfunxyz Launch ideas. Trade narratives. A launchpad for market-born tokens. robinfunxyz robinfunxyz  robinfunxyz robinfunxyz 启动想法。交易叙事。一个市场诞生的代币发射台。 robinfunxyz robinfunxyz 启动想法。交易叙事。一个市场诞生的代币发射台。 robinfunxyz robinfunxyz \"Token launchpad for launching ideas and trading narratives.\" robinfunxyz robinfunxyz \"Token launchpad for launching ideas and trading narratives.\" robinfunxyz robinfunxyz \"Token launchpad for launching ideas and trading narratives.\" RobinFun robinfunxyz Narrative/token launchpad RobinFun robinfunxyz Narrative/token launchpad RobinFun robinfunxyz Narrative/token launchpad",
+      "score": 24,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/robinfunxyz"
     },
@@ -40831,6 +41800,89 @@
       "score": 15,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/metalntwx"
+    },
+    {
+      "project": "speculate.xyz",
+      "account": "speculatexyz",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "Kingmaker 关注了 spec",
+        "alphafries",
+        "ibraxbt"
+      ],
+      "tgAlphas": [
+        "Kingmaker 关注了 spec"
+      ],
+      "xAlphas": [
+        "alphafries",
+        "ibraxbt"
+      ],
+      "mentions": 6,
+      "firstSeen": "2026-06-28",
+      "lastSeen": "2026-07-05",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "speculate.xyz",
+          "account": "speculatexyz",
+          "alpha": "Kingmaker 关注了 spec",
+          "seenAt": "2026-07-05",
+          "messageId": "https://x.com/speculatexyz",
+          "text": "building a pretty good app on Hyperliquid"
+        },
+        {
+          "source": "X",
+          "project": "speculate.xyz",
+          "account": "speculatexyz",
+          "alpha": "alphafries",
+          "seenAt": "2026-06-28",
+          "messageId": "2026-06-28-x-partial-alphafries.csv",
+          "text": "Hyperliquid app project"
+        },
+        {
+          "source": "X",
+          "project": "speculate.xyz",
+          "account": "speculatexyz",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-28",
+          "messageId": "2026-06-28-x-partial-ibraxbt.csv",
+          "text": "Hyperliquid app for speculation markets"
+        },
+        {
+          "source": "X",
+          "project": "speculate.xyz",
+          "account": "speculatexyz",
+          "alpha": "alphafries",
+          "seenAt": "2026-06-29",
+          "messageId": "2026-06-29-x-partial-alphafries.csv",
+          "text": "Hyperliquid app for speculation markets"
+        },
+        {
+          "source": "X",
+          "project": "speculate.xyz",
+          "account": "speculatexyz",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-29",
+          "messageId": "2026-06-29-x-partial-ibraxbt.csv",
+          "text": "Hyperliquid app for speculation markets"
+        },
+        {
+          "source": "X",
+          "project": "speculate.xyz",
+          "account": "speculatexyz",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-30",
+          "messageId": "2026-06-30-x-partial-ibraxbt.csv",
+          "text": "Hyperliquid app for speculation markets"
+        }
+      ],
+      "text": " speculate.xyz speculatexyz building a pretty good app on Hyperliquid speculate.xyz speculatexyz Hyperliquid app project speculate.xyz speculatexyz Hyperliquid app for speculation markets speculate.xyz speculatexyz Hyperliquid app for speculation markets speculate.xyz speculatexyz Hyperliquid app for speculation markets speculate.xyz speculatexyz Hyperliquid app for speculation markets",
+      "score": 14,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/speculatexyz"
     },
     {
       "project": "TradeFish",
@@ -45078,6 +46130,60 @@
       "avatarUrl": "https://unavatar.io/twitter/shot2windotxyz"
     },
     {
+      "project": "Snout & Fowl",
+      "account": "SnoutandFowl",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "Kingmaker 关注了 Snou",
+        "ibraxbt"
+      ],
+      "tgAlphas": [
+        "Kingmaker 关注了 Snou"
+      ],
+      "xAlphas": [
+        "ibraxbt"
+      ],
+      "mentions": 3,
+      "firstSeen": "2026-06-28",
+      "lastSeen": "2026-07-05",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Snout & Fowl",
+          "account": "SnoutandFowl",
+          "alpha": "Kingmaker 关注了 Snou",
+          "seenAt": "2026-07-05",
+          "messageId": "https://x.com/SnoutandFowl",
+          "text": "Follow your Nose."
+        },
+        {
+          "source": "X",
+          "project": "Snout & Fowl",
+          "account": "SnoutandFowl",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-28",
+          "messageId": "2026-06-28-x-partial-ibraxbt.csv",
+          "text": "Early game or brand project"
+        },
+        {
+          "source": "X",
+          "project": "Snout & Fowl",
+          "account": "SnoutandFowl",
+          "alpha": "ibraxbt",
+          "seenAt": "2026-06-29",
+          "messageId": "2026-06-29-x-partial-ibraxbt.csv",
+          "text": "Early game or brand project"
+        }
+      ],
+      "text": " Snout & Fowl SnoutandFowl Follow your Nose. Snout & Fowl SnoutandFowl Early game or brand project Snout & Fowl SnoutandFowl Early game or brand project",
+      "score": 10,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/SnoutandFowl"
+    },
+    {
       "project": "TinyHumans AI",
       "account": "tinyhumansai",
       "sources": [
@@ -48022,76 +49128,6 @@
       "score": 7,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/spacex_wdgame"
-    },
-    {
-      "project": "speculate.xyz",
-      "account": "speculatexyz",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "alphafries",
-        "ibraxbt"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "alphafries",
-        "ibraxbt"
-      ],
-      "mentions": 5,
-      "firstSeen": "2026-06-28",
-      "lastSeen": "2026-06-30",
-      "rows": [
-        {
-          "source": "X",
-          "project": "speculate.xyz",
-          "account": "speculatexyz",
-          "alpha": "alphafries",
-          "seenAt": "2026-06-28",
-          "messageId": "2026-06-28-x-partial-alphafries.csv",
-          "text": "Hyperliquid app project"
-        },
-        {
-          "source": "X",
-          "project": "speculate.xyz",
-          "account": "speculatexyz",
-          "alpha": "ibraxbt",
-          "seenAt": "2026-06-28",
-          "messageId": "2026-06-28-x-partial-ibraxbt.csv",
-          "text": "Hyperliquid app for speculation markets"
-        },
-        {
-          "source": "X",
-          "project": "speculate.xyz",
-          "account": "speculatexyz",
-          "alpha": "alphafries",
-          "seenAt": "2026-06-29",
-          "messageId": "2026-06-29-x-partial-alphafries.csv",
-          "text": "Hyperliquid app for speculation markets"
-        },
-        {
-          "source": "X",
-          "project": "speculate.xyz",
-          "account": "speculatexyz",
-          "alpha": "ibraxbt",
-          "seenAt": "2026-06-29",
-          "messageId": "2026-06-29-x-partial-ibraxbt.csv",
-          "text": "Hyperliquid app for speculation markets"
-        },
-        {
-          "source": "X",
-          "project": "speculate.xyz",
-          "account": "speculatexyz",
-          "alpha": "ibraxbt",
-          "seenAt": "2026-06-30",
-          "messageId": "2026-06-30-x-partial-ibraxbt.csv",
-          "text": "Hyperliquid app for speculation markets"
-        }
-      ],
-      "text": " speculate.xyz speculatexyz Hyperliquid app project speculate.xyz speculatexyz Hyperliquid app for speculation markets speculate.xyz speculatexyz Hyperliquid app for speculation markets speculate.xyz speculatexyz Hyperliquid app for speculation markets speculate.xyz speculatexyz Hyperliquid app for speculation markets",
-      "score": 7,
-      "displayTier": "focus",
-      "avatarUrl": "https://unavatar.io/twitter/speculatexyz"
     },
     {
       "project": "Storms.Md",
@@ -51784,6 +52820,931 @@
     }
   ],
   "daily": [
+    {
+      "date": "2026-07-05",
+      "totalRows": 50,
+      "projectCount": 24,
+      "focusCount": 8,
+      "candidateCount": 16,
+      "crossSource": 0,
+      "newCount": 19,
+      "repeatCount": 5,
+      "projects": [
+        {
+          "project": "dNFT.fun",
+          "account": "dnftdotfun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            ".✦ ݁˖ 🟣 关注了 dNFT",
+            "AlphaFries 关注了 dNFT",
+            "Kingmaker 关注了 dNFT",
+            "小雨倾城 关注了 dNFT"
+          ],
+          "tgAlphas": [
+            ".✦ ݁˖ 🟣 关注了 dNFT",
+            "AlphaFries 关注了 dNFT",
+            "Kingmaker 关注了 dNFT",
+            "小雨倾城 关注了 dNFT"
+          ],
+          "xAlphas": [],
+          "mentions": 4,
+          "firstSeen": "2026-07-05",
+          "lastSeen": "2026-07-05",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "dNFT.fun",
+              "account": "dnftdotfun",
+              "alpha": ".✦ ݁˖ 🟣 关注了 dNFT",
+              "seenAt": "2026-07-05",
+              "messageId": "https://x.com/dnftdotfun",
+              "text": "NFTs Launchpad on Ethereum."
+            },
+            {
+              "source": "TG",
+              "project": "dNFT.fun",
+              "account": "dnftdotfun",
+              "alpha": "Kingmaker 关注了 dNFT",
+              "seenAt": "2026-07-05",
+              "messageId": "https://x.com/dnftdotfun",
+              "text": "NFTs Launchpad on Ethereum."
+            },
+            {
+              "source": "TG",
+              "project": "dNFT.fun",
+              "account": "dnftdotfun",
+              "alpha": "AlphaFries 关注了 dNFT",
+              "seenAt": "2026-07-05",
+              "messageId": "https://x.com/dnftdotfun",
+              "text": "NFTs Launchpad on Ethereum."
+            },
+            {
+              "source": "TG",
+              "project": "dNFT.fun",
+              "account": "dnftdotfun",
+              "alpha": "小雨倾城 关注了 dNFT",
+              "seenAt": "2026-07-05",
+              "messageId": "https://x.com/dnftdotfun",
+              "text": "NFTs Launchpad on Ethereum."
+            }
+          ],
+          "text": " dNFT.fun dnftdotfun NFTs Launchpad on Ethereum. dNFT.fun dnftdotfun NFTs Launchpad on Ethereum. dNFT.fun dnftdotfun NFTs Launchpad on Ethereum. dNFT.fun dnftdotfun NFTs Launchpad on Ethereum.",
+          "score": 8,
+          "displayTier": "focus",
+          "avatarUrl": "https://unavatar.io/twitter/dnftdotfun",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Fletch",
+          "account": "FletchAI",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "AlphaFries 关注了 Flet",
+            "Kingmaker 关注了 Flet",
+            "小雨倾城 关注了 Flet"
+          ],
+          "tgAlphas": [
+            "AlphaFries 关注了 Flet",
+            "Kingmaker 关注了 Flet",
+            "小雨倾城 关注了 Flet"
+          ],
+          "xAlphas": [],
+          "mentions": 3,
+          "firstSeen": "2026-07-05",
+          "lastSeen": "2026-07-05",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Fletch",
+              "account": "FletchAI",
+              "alpha": "Kingmaker 关注了 Flet",
+              "seenAt": "2026-07-05",
+              "messageId": "https://x.com/FletchAI",
+              "text": "\"Fletch is the most powerful AI agent on Robinhood Chain Trade"
+            },
+            {
+              "source": "TG",
+              "project": "Fletch",
+              "account": "FletchAI",
+              "alpha": "AlphaFries 关注了 Flet",
+              "seenAt": "2026-07-05",
+              "messageId": "https://x.com/FletchAI",
+              "text": "\"Fletch is the most powerful AI agent on Robinhood Chain Trade"
+            },
+            {
+              "source": "TG",
+              "project": "Fletch",
+              "account": "FletchAI",
+              "alpha": "小雨倾城 关注了 Flet",
+              "seenAt": "2026-07-05",
+              "messageId": "https://x.com/FletchAI",
+              "text": "\"Fletch is the most powerful AI agent on Robinhood Chain Trade"
+            }
+          ],
+          "text": " Fletch FletchAI \"Fletch is the most powerful AI agent on Robinhood Chain Trade Fletch FletchAI \"Fletch is the most powerful AI agent on Robinhood Chain Trade Fletch FletchAI \"Fletch is the most powerful AI agent on Robinhood Chain Trade",
+          "score": 6,
+          "displayTier": "focus",
+          "avatarUrl": "https://unavatar.io/twitter/FletchAI",
+          "dayStatus": "new"
+        },
+        {
+          "project": "币安重生",
+          "account": "bnchongsheng",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "小雨倾城 关注了 币安重生",
+            "苦瓜大王 关注了 币安重生"
+          ],
+          "tgAlphas": [
+            "小雨倾城 关注了 币安重生",
+            "苦瓜大王 关注了 币安重生"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-07-05",
+          "lastSeen": "2026-07-05",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "币安重生",
+              "account": "bnchongsheng",
+              "alpha": "苦瓜大王 关注了 币安重生",
+              "seenAt": "2026-07-05",
+              "messageId": "https://x.com/bnchongsheng",
+              "text": "涅槃（Nirvana）空投，40%全部空投给散户，共2000份，每人20万枚代币"
+            },
+            {
+              "source": "TG",
+              "project": "币安重生",
+              "account": "bnchongsheng",
+              "alpha": "小雨倾城 关注了 币安重生",
+              "seenAt": "2026-07-05",
+              "messageId": "https://x.com/bnchongsheng",
+              "text": "涅槃（Nirvana）空投，40%全部空投给散户，共2000份，每人20万枚代币"
+            }
+          ],
+          "text": " 币安重生 bnchongsheng 涅槃（Nirvana）空投，40%全部空投给散户，共2000份，每人20万枚代币 币安重生 bnchongsheng 涅槃（Nirvana）空投，40%全部空投给散户，共2000份，每人20万枚代币",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "https://unavatar.io/twitter/bnchongsheng",
+          "dayStatus": "new"
+        },
+        {
+          "project": "B20Farms",
+          "account": "B20Farms",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "AlphaFries 关注了 B20F",
+            "Kingmaker 关注了 B20F"
+          ],
+          "tgAlphas": [
+            "AlphaFries 关注了 B20F",
+            "Kingmaker 关注了 B20F"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-07-05",
+          "lastSeen": "2026-07-05",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "B20Farms",
+              "account": "B20Farms",
+              "alpha": "Kingmaker 关注了 B20F",
+              "seenAt": "2026-07-05",
+              "messageId": "https://x.com/B20Farms",
+              "text": "Touch grass? We put the grass on-chain. First B20-powered farm game on Base."
+            },
+            {
+              "source": "TG",
+              "project": "B20Farms",
+              "account": "B20Farms",
+              "alpha": "AlphaFries 关注了 B20F",
+              "seenAt": "2026-07-05",
+              "messageId": "https://x.com/B20Farms",
+              "text": "Touch grass? We put the grass on-chain. First B20-powered farm game on Base."
+            }
+          ],
+          "text": " B20Farms B20Farms Touch grass? We put the grass on-chain. First B20-powered farm game on Base. B20Farms B20Farms Touch grass? We put the grass on-chain. First B20-powered farm game on Base.",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "https://unavatar.io/twitter/B20Farms",
+          "dayStatus": "new"
+        },
+        {
+          "project": "incanta",
+          "account": "incanta_xyz",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BearzVerse 关注了 inca",
+            "Kingmaker 关注了 inca"
+          ],
+          "tgAlphas": [
+            "BearzVerse 关注了 inca",
+            "Kingmaker 关注了 inca"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-07-05",
+          "lastSeen": "2026-07-05",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "incanta",
+              "account": "incanta_xyz",
+              "alpha": "Kingmaker 关注了 inca",
+              "seenAt": "2026-07-05",
+              "messageId": "https://x.com/incanta_xyz",
+              "text": "casting spells at the @solana blockchain 🪄"
+            },
+            {
+              "source": "TG",
+              "project": "incanta",
+              "account": "incanta_xyz",
+              "alpha": "BearzVerse 关注了 inca",
+              "seenAt": "2026-07-05",
+              "messageId": "https://x.com/incanta_xyz",
+              "text": "casting spells at the @solana blockchain 🪄"
+            }
+          ],
+          "text": " incanta incanta_xyz casting spells at the @solana blockchain 🪄 incanta incanta_xyz casting spells at the @solana blockchain 🪄",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "https://unavatar.io/twitter/incanta_xyz",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Round",
+          "account": "Rounddotfamily",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BearzVerse 关注了 Roun",
+            "Kingmaker 关注了 Roun"
+          ],
+          "tgAlphas": [
+            "BearzVerse 关注了 Roun",
+            "Kingmaker 关注了 Roun"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-07-05",
+          "lastSeen": "2026-07-05",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Round",
+              "account": "Rounddotfamily",
+              "alpha": "Kingmaker 关注了 Roun",
+              "seenAt": "2026-07-05",
+              "messageId": "https://x.com/Rounddotfamily",
+              "text": "Building the multiplayer layer for prediction markets."
+            },
+            {
+              "source": "TG",
+              "project": "Round",
+              "account": "Rounddotfamily",
+              "alpha": "BearzVerse 关注了 Roun",
+              "seenAt": "2026-07-05",
+              "messageId": "https://x.com/Rounddotfamily",
+              "text": "Building the multiplayer layer for prediction markets."
+            }
+          ],
+          "text": " Round Rounddotfamily Building the multiplayer layer for prediction markets. Round Rounddotfamily Building the multiplayer layer for prediction markets.",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "https://unavatar.io/twitter/Rounddotfamily",
+          "dayStatus": "new"
+        },
+        {
+          "project": "The Art of Tokimeki",
+          "account": "artoftokimeki",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            ".✦ ݁˖ 🟣 关注了 The",
+            "well 关注了 The"
+          ],
+          "tgAlphas": [
+            ".✦ ݁˖ 🟣 关注了 The",
+            "well 关注了 The"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-07-05",
+          "lastSeen": "2026-07-05",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "The Art of Tokimeki",
+              "account": "artoftokimeki",
+              "alpha": ".✦ ݁˖ 🟣 关注了 The",
+              "seenAt": "2026-07-05",
+              "messageId": "https://x.com/artoftokimeki",
+              "text": "@mariekondo taught you how to tidy. She taught you to notice what sparks joy. ✨ This is what comes next…"
+            },
+            {
+              "source": "TG",
+              "project": "The Art of Tokimeki",
+              "account": "artoftokimeki",
+              "alpha": "well 关注了 The",
+              "seenAt": "2026-07-05",
+              "messageId": "https://x.com/artoftokimeki",
+              "text": "@mariekondo taught you how to tidy. She taught you to notice what sparks joy. ✨ This is what comes next…"
+            }
+          ],
+          "text": " The Art of Tokimeki artoftokimeki @mariekondo taught you how to tidy. She taught you to notice what sparks joy. ✨ This is what comes next… The Art of Tokimeki artoftokimeki @mariekondo taught you how to tidy. She taught you to notice what sparks joy. ✨ This is what comes next…",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "https://unavatar.io/twitter/artoftokimeki",
+          "dayStatus": "new"
+        },
+        {
+          "project": "YOINK",
+          "account": "yoinkfun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总 关注了 YOIN",
+            "阿宏 关注了 YOIN"
+          ],
+          "tgAlphas": [
+            "蛋总 关注了 YOIN",
+            "阿宏 关注了 YOIN"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-07-05",
+          "lastSeen": "2026-07-05",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "YOINK",
+              "account": "yoinkfun",
+              "alpha": "蛋总 关注了 YOIN",
+              "seenAt": "2026-07-05",
+              "messageId": "https://x.com/yoinkfun",
+              "text": "the first agentic launch terminal on robinhood chain"
+            },
+            {
+              "source": "TG",
+              "project": "YOINK",
+              "account": "yoinkfun",
+              "alpha": "阿宏 关注了 YOIN",
+              "seenAt": "2026-07-05",
+              "messageId": "https://x.com/yoinkfun",
+              "text": "the first agentic launch terminal on robinhood chain"
+            }
+          ],
+          "text": " YOINK yoinkfun the first agentic launch terminal on robinhood chain YOINK yoinkfun the first agentic launch terminal on robinhood chain",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "https://unavatar.io/twitter/yoinkfun",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Afriflux",
+          "account": "Afriflux_XYZ",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Kingmaker 关注了 Afri"
+          ],
+          "tgAlphas": [
+            "Kingmaker 关注了 Afri"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-05",
+          "lastSeen": "2026-07-05",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Afriflux",
+              "account": "Afriflux_XYZ",
+              "alpha": "Kingmaker 关注了 Afri",
+              "seenAt": "2026-07-05",
+              "messageId": "https://x.com/Afriflux_XYZ",
+              "text": "\"Onchain intelligence for Africa's stablecoin economy. Tracking native stablecoins"
+            }
+          ],
+          "text": " Afriflux Afriflux_XYZ \"Onchain intelligence for Africa's stablecoin economy. Tracking native stablecoins",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/Afriflux_XYZ",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Alien Platform",
+          "account": "AlienCompute",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Kingmaker 关注了 Alie"
+          ],
+          "tgAlphas": [
+            "Kingmaker 关注了 Alie"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-05",
+          "lastSeen": "2026-07-05",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Alien Platform",
+              "account": "AlienCompute",
+              "alpha": "Kingmaker 关注了 Alie",
+              "seenAt": "2026-07-05",
+              "messageId": "https://x.com/AlienCompute",
+              "text": "\"The Anti-Cloud for Liquid Compute Futures. Privacy enabled Distributed AI Training"
+            }
+          ],
+          "text": " Alien Platform AlienCompute \"The Anti-Cloud for Liquid Compute Futures. Privacy enabled Distributed AI Training",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/AlienCompute",
+          "dayStatus": "new"
+        },
+        {
+          "project": "BurnKit",
+          "account": "burnkitsdk",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BearzVerse 关注了 Burn"
+          ],
+          "tgAlphas": [
+            "BearzVerse 关注了 Burn"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-05",
+          "lastSeen": "2026-07-05",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "BurnKit",
+              "account": "burnkitsdk",
+              "alpha": "BearzVerse 关注了 Burn",
+              "seenAt": "2026-07-05",
+              "messageId": "https://x.com/burnkitsdk",
+              "text": "Pay with any Solana SPL token."
+            }
+          ],
+          "text": " BurnKit burnkitsdk Pay with any Solana SPL token.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/burnkitsdk",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Fanex",
+          "account": "Fanexmarket",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BearzVerse 关注了 Fane"
+          ],
+          "tgAlphas": [
+            "BearzVerse 关注了 Fane"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-05",
+          "lastSeen": "2026-07-05",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Fanex",
+              "account": "Fanexmarket",
+              "alpha": "BearzVerse 关注了 Fane",
+              "seenAt": "2026-07-05",
+              "messageId": "https://x.com/Fanexmarket",
+              "text": "\"Make the creator's success"
+            }
+          ],
+          "text": " Fanex Fanexmarket \"Make the creator's success",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/Fanexmarket",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Haylord",
+          "account": "playhaylord",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BearzVerse 关注了 Hayl"
+          ],
+          "tgAlphas": [
+            "BearzVerse 关注了 Hayl"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-05",
+          "lastSeen": "2026-07-05",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Haylord",
+              "account": "playhaylord",
+              "alpha": "BearzVerse 关注了 Hayl",
+              "seenAt": "2026-07-05",
+              "messageId": "https://x.com/playhaylord",
+              "text": "Stop doomscrolling. Start hay farming. 🌾 Farming MMO for Web3. $HAYLORD CA Coming Soon."
+            }
+          ],
+          "text": " Haylord playhaylord Stop doomscrolling. Start hay farming. 🌾 Farming MMO for Web3. $HAYLORD CA Coming Soon.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/playhaylord",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Hoodtrade",
+          "account": "usehoodtrade",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "speest 💎 关注了 Hood"
+          ],
+          "tgAlphas": [
+            "speest 💎 关注了 Hood"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-05",
+          "lastSeen": "2026-07-05",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Hoodtrade",
+              "account": "usehoodtrade",
+              "alpha": "speest 💎 关注了 Hood",
+              "seenAt": "2026-07-05",
+              "messageId": "https://x.com/usehoodtrade",
+              "text": "Building an on-chain safety agent for Robinhood Chain."
+            }
+          ],
+          "text": " Hoodtrade usehoodtrade Building an on-chain safety agent for Robinhood Chain.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/usehoodtrade",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Humanoid",
+          "account": "TheHumanoidAI",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "发誓要做永赚大师💰 关注了 Huma"
+          ],
+          "tgAlphas": [
+            "发誓要做永赚大师💰 关注了 Huma"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-05",
+          "lastSeen": "2026-07-05",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Humanoid",
+              "account": "TheHumanoidAI",
+              "alpha": "发誓要做永赚大师💰 关注了 Huma",
+              "seenAt": "2026-07-05",
+              "messageId": "https://x.com/TheHumanoidAI",
+              "text": "\"First AI and robotics company in the UK"
+            }
+          ],
+          "text": " Humanoid TheHumanoidAI \"First AI and robotics company in the UK",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/TheHumanoidAI",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Kyra-Agent",
+          "account": "Kyra_Agent",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Kingmaker 关注了 Kyra"
+          ],
+          "tgAlphas": [
+            "Kingmaker 关注了 Kyra"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-05",
+          "lastSeen": "2026-07-05",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Kyra-Agent",
+              "account": "Kyra_Agent",
+              "alpha": "Kingmaker 关注了 Kyra",
+              "seenAt": "2026-07-05",
+              "messageId": "https://x.com/Kyra_Agent",
+              "text": "Deploy telegram native AI agents on Base agents plan you approve. Deploy intelligent. Own the action."
+            }
+          ],
+          "text": " Kyra-Agent Kyra_Agent Deploy telegram native AI agents on Base agents plan you approve. Deploy intelligent. Own the action.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/Kyra_Agent",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "NewScience",
+          "account": "newscience_x",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Kingmaker 关注了 NewS"
+          ],
+          "tgAlphas": [
+            "Kingmaker 关注了 NewS"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-05",
+          "lastSeen": "2026-07-05",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "NewScience",
+              "account": "newscience_x",
+              "alpha": "Kingmaker 关注了 NewS",
+              "seenAt": "2026-07-05",
+              "messageId": "https://x.com/newscience_x",
+              "text": "Building open agentic infrastructure to accelerate life science."
+            }
+          ],
+          "text": " NewScience newscience_x Building open agentic infrastructure to accelerate life science.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/newscience_x",
+          "dayStatus": "new"
+        },
+        {
+          "project": "OnChainHoodies",
+          "account": "OnChainHoodies",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "AlphaFries 关注了 OnCh"
+          ],
+          "tgAlphas": [
+            "AlphaFries 关注了 OnCh"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-05",
+          "lastSeen": "2026-07-05",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "OnChainHoodies",
+              "account": "OnChainHoodies",
+              "alpha": "AlphaFries 关注了 OnCh",
+              "seenAt": "2026-07-05",
+              "messageId": "https://x.com/OnChainHoodies",
+              "text": "The fully on-chain neighborhood of Web3. 1-bit. Hand-drawn. Fully on-chain."
+            }
+          ],
+          "text": " OnChainHoodies OnChainHoodies The fully on-chain neighborhood of Web3. 1-bit. Hand-drawn. Fully on-chain.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/OnChainHoodies",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "PRXVT",
+          "account": "PRXVTai",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "发誓要做永赚大师💰 关注了 PRXV"
+          ],
+          "tgAlphas": [
+            "发誓要做永赚大师💰 关注了 PRXV"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-05",
+          "lastSeen": "2026-07-05",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "PRXVT",
+              "account": "PRXVTai",
+              "alpha": "发誓要做永赚大师💰 关注了 PRXV",
+              "seenAt": "2026-07-05",
+              "messageId": "https://x.com/PRXVTai",
+              "text": "Privacy-first infrastructure for AI agents. Creators of px402: enabling privacy preserving x402 payments. Building towards BLACKBOX ⬛"
+            }
+          ],
+          "text": " PRXVT PRXVTai Privacy-first infrastructure for AI agents. Creators of px402: enabling privacy preserving x402 payments. Building towards BLACKBOX ⬛",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/PRXVTai",
+          "dayStatus": "new"
+        },
+        {
+          "project": "robin good 🏹",
+          "account": "0xrobingood",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "小雨倾城 关注了 robi"
+          ],
+          "tgAlphas": [
+            "小雨倾城 关注了 robi"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-05",
+          "lastSeen": "2026-07-05",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "robin good 🏹",
+              "account": "0xrobingood",
+              "alpha": "小雨倾城 关注了 robi",
+              "seenAt": "2026-07-05",
+              "messageId": "https://x.com/0xrobingood",
+              "text": "\"🏹🌲 7777 good robins free mint on robinhood chain no rich"
+            }
+          ],
+          "text": " robin good 🏹 0xrobingood \"🏹🌲 7777 good robins free mint on robinhood chain no rich",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/0xrobingood",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "RobinFun",
+          "account": "robinfunxyz",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总 关注了 Robi"
+          ],
+          "tgAlphas": [
+            "蛋总 关注了 Robi"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-05",
+          "lastSeen": "2026-07-05",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "RobinFun",
+              "account": "robinfunxyz",
+              "alpha": "蛋总 关注了 Robi",
+              "seenAt": "2026-07-05",
+              "messageId": "https://x.com/robinfunxyz",
+              "text": "Launch ideas. Trade narratives. A launchpad for market-born tokens."
+            }
+          ],
+          "text": " RobinFun robinfunxyz Launch ideas. Trade narratives. A launchpad for market-born tokens.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/robinfunxyz",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Swyp Pass",
+          "account": "swyppass",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "黑客fa1r 关注了 Swyp"
+          ],
+          "tgAlphas": [
+            "黑客fa1r 关注了 Swyp"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-05",
+          "lastSeen": "2026-07-05",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Swyp Pass",
+              "account": "swyppass",
+              "alpha": "黑客fa1r 关注了 Swyp",
+              "seenAt": "2026-07-05",
+              "messageId": "https://x.com/swyppass",
+              "text": "SWYP is a wallet-native spend layer Built to bring onchain value into everyday payments"
+            }
+          ],
+          "text": " Swyp Pass swyppass SWYP is a wallet-native spend layer Built to bring onchain value into everyday payments",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/swyppass",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Willowmere 🌾",
+          "account": "willowmerexyz",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BearzVerse 关注了 Will"
+          ],
+          "tgAlphas": [
+            "BearzVerse 关注了 Will"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-05",
+          "lastSeen": "2026-07-05",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Willowmere 🌾",
+              "account": "willowmerexyz",
+              "alpha": "BearzVerse 关注了 Will",
+              "seenAt": "2026-07-05",
+              "messageId": "https://x.com/willowmerexyz",
+              "text": "\"🌾 A cozy pixel farming game"
+            }
+          ],
+          "text": " Willowmere 🌾 willowmerexyz \"🌾 A cozy pixel farming game",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/willowmerexyz",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Yapper Agent",
+          "account": "yapperagent",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BTC alpha 关注了 Yapp"
+          ],
+          "tgAlphas": [
+            "BTC alpha 关注了 Yapp"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-05",
+          "lastSeen": "2026-07-05",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Yapper Agent",
+              "account": "yapperagent",
+              "alpha": "BTC alpha 关注了 Yapp",
+              "seenAt": "2026-07-05",
+              "messageId": "https://x.com/yapperagent",
+              "text": "All In One Creator Economy Hub on @CantonNetwork"
+            }
+          ],
+          "text": " Yapper Agent yapperagent All In One Creator Economy Hub on @CantonNetwork",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/yapperagent",
+          "dayStatus": "new"
+        }
+      ]
+    },
     {
       "date": "2026-07-04",
       "totalRows": 90,
