@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-05T12:39:00.598Z",
+  "generatedAt": "2026-07-06T10:36:02.591Z",
   "totals": {
-    "telegramRows": 528,
+    "telegramRows": 542,
     "xRows": 1721,
-    "projects": 673,
+    "projects": 679,
     "crossSource": 100
   },
   "projects": [
@@ -9486,6 +9486,71 @@
       "avatarUrl": "https://unavatar.io/twitter/Fadestate"
     },
     {
+      "project": "Fletch",
+      "account": "FletchAI",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "AlphaFries 关注了 Flet",
+        "Kingmaker 关注了 Flet",
+        "发誓要做永赚大师",
+        "小雨倾城 关注了 Flet"
+      ],
+      "tgAlphas": [
+        "AlphaFries 关注了 Flet",
+        "Kingmaker 关注了 Flet",
+        "发誓要做永赚大师",
+        "小雨倾城 关注了 Flet"
+      ],
+      "xAlphas": [],
+      "mentions": 4,
+      "firstSeen": "2026-07-05",
+      "lastSeen": "2026-07-06T09:15:12+00:00",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Fletch",
+          "account": "FletchAI",
+          "alpha": "Kingmaker 关注了 Flet",
+          "seenAt": "2026-07-05",
+          "messageId": "https://x.com/FletchAI",
+          "text": "\"Fletch is the most powerful AI agent on Robinhood Chain Trade"
+        },
+        {
+          "source": "TG",
+          "project": "Fletch",
+          "account": "FletchAI",
+          "alpha": "AlphaFries 关注了 Flet",
+          "seenAt": "2026-07-05",
+          "messageId": "https://x.com/FletchAI",
+          "text": "\"Fletch is the most powerful AI agent on Robinhood Chain Trade"
+        },
+        {
+          "source": "TG",
+          "project": "Fletch",
+          "account": "FletchAI",
+          "alpha": "小雨倾城 关注了 Flet",
+          "seenAt": "2026-07-05",
+          "messageId": "https://x.com/FletchAI",
+          "text": "\"Fletch is the most powerful AI agent on Robinhood Chain Trade"
+        },
+        {
+          "source": "TG",
+          "project": "Fletch",
+          "account": "FletchAI",
+          "alpha": "发誓要做永赚大师",
+          "seenAt": "2026-07-06T09:15:12+00:00",
+          "messageId": "dodtwitterbot/11331",
+          "text": "AI agent on Robinhood Chain for trading exploration and launching"
+        }
+      ],
+      "text": " Fletch FletchAI \"Fletch is the most powerful AI agent on Robinhood Chain Trade Fletch FletchAI \"Fletch is the most powerful AI agent on Robinhood Chain Trade Fletch FletchAI \"Fletch is the most powerful AI agent on Robinhood Chain Trade Fletch FletchAI AI agent on Robinhood Chain for trading exploration and launching",
+      "score": 8,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/FletchAI"
+    },
+    {
       "project": "Green Room",
       "account": "robinroomhook",
       "sources": [
@@ -9614,6 +9679,71 @@
       "score": 8,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/MeterlineAI"
+    },
+    {
+      "project": "Nodera",
+      "account": "NoderaRobinHood",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "AlphaSpotter",
+        "Kingmaker",
+        "发誓要做永赚大师",
+        "小雨倾城"
+      ],
+      "tgAlphas": [
+        "AlphaSpotter",
+        "Kingmaker",
+        "发誓要做永赚大师",
+        "小雨倾城"
+      ],
+      "xAlphas": [],
+      "mentions": 4,
+      "firstSeen": "2026-07-03",
+      "lastSeen": "2026-07-06T09:13:45+00:00",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Nodera",
+          "account": "NoderaRobinHood",
+          "alpha": "AlphaSpotter",
+          "seenAt": "2026-07-03",
+          "messageId": "https://x.com/NoderaRobinHood",
+          "text": "ERC-404 node protocol on Robinhood App"
+        },
+        {
+          "source": "TG",
+          "project": "Nodera",
+          "account": "NoderaRobinHood",
+          "alpha": "小雨倾城",
+          "seenAt": "2026-07-03",
+          "messageId": "https://x.com/NoderaRobinHood",
+          "text": "ERC-404 node protocol on Robinhood App"
+        },
+        {
+          "source": "TG",
+          "project": "Nodera",
+          "account": "NoderaRobinHood",
+          "alpha": "Kingmaker",
+          "seenAt": "2026-07-03",
+          "messageId": "https://x.com/NoderaRobinHood",
+          "text": "ERC-404 node protocol on Robinhood App"
+        },
+        {
+          "source": "TG",
+          "project": "Nodera",
+          "account": "NoderaRobinHood",
+          "alpha": "发誓要做永赚大师",
+          "seenAt": "2026-07-06T09:13:45+00:00",
+          "messageId": "dodtwitterbot/11329",
+          "text": "ERC404 powered Node Protocol on Robinhood"
+        }
+      ],
+      "text": " Nodera NoderaRobinHood ERC-404 node protocol on Robinhood App Nodera NoderaRobinHood ERC-404 node protocol on Robinhood App Nodera NoderaRobinHood ERC-404 node protocol on Robinhood App Nodera NoderaRobinHood ERC404 powered Node Protocol on Robinhood",
+      "score": 8,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/NoderaRobinHood"
     },
     {
       "project": "perpspet",
@@ -12175,6 +12305,60 @@
       "avatarUrl": "https://unavatar.io/twitter/Blobitfun"
     },
     {
+      "project": "ClawHood",
+      "account": "clawhoodfun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Kingmaker 关注了 Claw",
+        "speest 💎 关注了 Claw",
+        "发誓要做永赚大师"
+      ],
+      "tgAlphas": [
+        "Kingmaker 关注了 Claw",
+        "speest 💎 关注了 Claw",
+        "发誓要做永赚大师"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-07-03",
+      "lastSeen": "2026-07-06T09:09:08+00:00",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "ClawHood",
+          "account": "clawhoodfun",
+          "alpha": "Kingmaker 关注了 Claw",
+          "seenAt": "2026-07-03",
+          "messageId": "https://x.com/clawhoodfun",
+          "text": "\"ClawHood is where AI agents deploy"
+        },
+        {
+          "source": "TG",
+          "project": "ClawHood",
+          "account": "clawhoodfun",
+          "alpha": "speest 💎 关注了 Claw",
+          "seenAt": "2026-07-04",
+          "messageId": "https://x.com/clawhoodfun",
+          "text": "ClawHood is an AI-native trading and deployment terminal for Robinhood Chain. built by @rimurucook"
+        },
+        {
+          "source": "TG",
+          "project": "ClawHood",
+          "account": "clawhoodfun",
+          "alpha": "发誓要做永赚大师",
+          "seenAt": "2026-07-06T09:09:08+00:00",
+          "messageId": "dodtwitterbot/11325",
+          "text": "AI native trading and deployment terminal for Robinhood Chain"
+        }
+      ],
+      "text": " ClawHood clawhoodfun \"ClawHood is where AI agents deploy ClawHood clawhoodfun ClawHood is an AI-native trading and deployment terminal for Robinhood Chain. built by @rimurucook ClawHood clawhoodfun AI native trading and deployment terminal for Robinhood Chain",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/clawhoodfun"
+    },
+    {
       "project": "Conduit",
       "account": "conduitdb",
       "sources": [
@@ -12335,60 +12519,6 @@
       "score": 6,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/eiDotterSystem"
-    },
-    {
-      "project": "Fletch",
-      "account": "FletchAI",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "AlphaFries 关注了 Flet",
-        "Kingmaker 关注了 Flet",
-        "小雨倾城 关注了 Flet"
-      ],
-      "tgAlphas": [
-        "AlphaFries 关注了 Flet",
-        "Kingmaker 关注了 Flet",
-        "小雨倾城 关注了 Flet"
-      ],
-      "xAlphas": [],
-      "mentions": 3,
-      "firstSeen": "2026-07-05",
-      "lastSeen": "2026-07-05",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Fletch",
-          "account": "FletchAI",
-          "alpha": "Kingmaker 关注了 Flet",
-          "seenAt": "2026-07-05",
-          "messageId": "https://x.com/FletchAI",
-          "text": "\"Fletch is the most powerful AI agent on Robinhood Chain Trade"
-        },
-        {
-          "source": "TG",
-          "project": "Fletch",
-          "account": "FletchAI",
-          "alpha": "AlphaFries 关注了 Flet",
-          "seenAt": "2026-07-05",
-          "messageId": "https://x.com/FletchAI",
-          "text": "\"Fletch is the most powerful AI agent on Robinhood Chain Trade"
-        },
-        {
-          "source": "TG",
-          "project": "Fletch",
-          "account": "FletchAI",
-          "alpha": "小雨倾城 关注了 Flet",
-          "seenAt": "2026-07-05",
-          "messageId": "https://x.com/FletchAI",
-          "text": "\"Fletch is the most powerful AI agent on Robinhood Chain Trade"
-        }
-      ],
-      "text": " Fletch FletchAI \"Fletch is the most powerful AI agent on Robinhood Chain Trade Fletch FletchAI \"Fletch is the most powerful AI agent on Robinhood Chain Trade Fletch FletchAI \"Fletch is the most powerful AI agent on Robinhood Chain Trade",
-      "score": 6,
-      "displayTier": "focus",
-      "avatarUrl": "https://unavatar.io/twitter/FletchAI"
     },
     {
       "project": "Little Farmers",
@@ -12553,60 +12683,6 @@
       "avatarUrl": "https://unavatar.io/twitter/MonkeyHoodNFT"
     },
     {
-      "project": "Nodera",
-      "account": "NoderaRobinHood",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "AlphaSpotter",
-        "Kingmaker",
-        "小雨倾城"
-      ],
-      "tgAlphas": [
-        "AlphaSpotter",
-        "Kingmaker",
-        "小雨倾城"
-      ],
-      "xAlphas": [],
-      "mentions": 3,
-      "firstSeen": "2026-07-03",
-      "lastSeen": "2026-07-03",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Nodera",
-          "account": "NoderaRobinHood",
-          "alpha": "AlphaSpotter",
-          "seenAt": "2026-07-03",
-          "messageId": "https://x.com/NoderaRobinHood",
-          "text": "ERC-404 node protocol on Robinhood App"
-        },
-        {
-          "source": "TG",
-          "project": "Nodera",
-          "account": "NoderaRobinHood",
-          "alpha": "小雨倾城",
-          "seenAt": "2026-07-03",
-          "messageId": "https://x.com/NoderaRobinHood",
-          "text": "ERC-404 node protocol on Robinhood App"
-        },
-        {
-          "source": "TG",
-          "project": "Nodera",
-          "account": "NoderaRobinHood",
-          "alpha": "Kingmaker",
-          "seenAt": "2026-07-03",
-          "messageId": "https://x.com/NoderaRobinHood",
-          "text": "ERC-404 node protocol on Robinhood App"
-        }
-      ],
-      "text": " Nodera NoderaRobinHood ERC-404 node protocol on Robinhood App Nodera NoderaRobinHood ERC-404 node protocol on Robinhood App Nodera NoderaRobinHood ERC-404 node protocol on Robinhood App",
-      "score": 6,
-      "displayTier": "focus",
-      "avatarUrl": "https://unavatar.io/twitter/NoderaRobinHood"
-    },
-    {
       "project": "railB20",
       "account": "railB20",
       "sources": [
@@ -12713,6 +12789,60 @@
       "score": 6,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/0xrobingood"
+    },
+    {
+      "project": "Robinhood Apes",
+      "account": "robinhood_apes",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Kingmaker 关注了 Robi",
+        "发誓要做永赚大师",
+        "小雨倾城 关注了 Robi"
+      ],
+      "tgAlphas": [
+        "Kingmaker 关注了 Robi",
+        "发誓要做永赚大师",
+        "小雨倾城 关注了 Robi"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-07-04",
+      "lastSeen": "2026-07-06T09:07:43+00:00",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Robinhood Apes",
+          "account": "robinhood_apes",
+          "alpha": "Kingmaker 关注了 Robi",
+          "seenAt": "2026-07-04",
+          "messageId": "https://x.com/robinhood_apes",
+          "text": "The first ever Apes collection on Robinhood🦍 Built on-chain. Owned by the community. Welcome to Robinhood."
+        },
+        {
+          "source": "TG",
+          "project": "Robinhood Apes",
+          "account": "robinhood_apes",
+          "alpha": "小雨倾城 关注了 Robi",
+          "seenAt": "2026-07-04",
+          "messageId": "https://x.com/robinhood_apes",
+          "text": "The first ever Apes collection on Robinhood🦍 Built on-chain. Owned by the community. Welcome to Robinhood."
+        },
+        {
+          "source": "TG",
+          "project": "Robinhood Apes",
+          "account": "robinhood_apes",
+          "alpha": "发誓要做永赚大师",
+          "seenAt": "2026-07-06T09:07:43+00:00",
+          "messageId": "dodtwitterbot/11324",
+          "text": "First Apes collection on Robinhood built onchain community owned"
+        }
+      ],
+      "text": " Robinhood Apes robinhood_apes The first ever Apes collection on Robinhood🦍 Built on-chain. Owned by the community. Welcome to Robinhood. Robinhood Apes robinhood_apes The first ever Apes collection on Robinhood🦍 Built on-chain. Owned by the community. Welcome to Robinhood. Robinhood Apes robinhood_apes First Apes collection on Robinhood built onchain community owned",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/robinhood_apes"
     },
     {
       "project": "Rpeg",
@@ -17817,49 +17947,6 @@
       "avatarUrl": "https://unavatar.io/twitter/playchainera"
     },
     {
-      "project": "ClawHood",
-      "account": "clawhoodfun",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "Kingmaker 关注了 Claw",
-        "speest 💎 关注了 Claw"
-      ],
-      "tgAlphas": [
-        "Kingmaker 关注了 Claw",
-        "speest 💎 关注了 Claw"
-      ],
-      "xAlphas": [],
-      "mentions": 2,
-      "firstSeen": "2026-07-03",
-      "lastSeen": "2026-07-04",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "ClawHood",
-          "account": "clawhoodfun",
-          "alpha": "Kingmaker 关注了 Claw",
-          "seenAt": "2026-07-03",
-          "messageId": "https://x.com/clawhoodfun",
-          "text": "\"ClawHood is where AI agents deploy"
-        },
-        {
-          "source": "TG",
-          "project": "ClawHood",
-          "account": "clawhoodfun",
-          "alpha": "speest 💎 关注了 Claw",
-          "seenAt": "2026-07-04",
-          "messageId": "https://x.com/clawhoodfun",
-          "text": "ClawHood is an AI-native trading and deployment terminal for Robinhood Chain. built by @rimurucook"
-        }
-      ],
-      "text": " ClawHood clawhoodfun \"ClawHood is where AI agents deploy ClawHood clawhoodfun ClawHood is an AI-native trading and deployment terminal for Robinhood Chain. built by @rimurucook",
-      "score": 4,
-      "displayTier": "focus",
-      "avatarUrl": "https://unavatar.io/twitter/clawhoodfun"
-    },
-    {
       "project": "codev",
       "account": "codotdev_",
       "sources": [
@@ -18591,6 +18678,49 @@
       "avatarUrl": "https://unavatar.io/twitter/InfoFiTrade"
     },
     {
+      "project": "Intent Protocol",
+      "account": "IntentB20",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Kingmaker 关注了 Inte",
+        "发誓要做永赚大师"
+      ],
+      "tgAlphas": [
+        "Kingmaker 关注了 Inte",
+        "发誓要做永赚大师"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-07-04",
+      "lastSeen": "2026-07-06T09:13:41+00:00",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Intent Protocol",
+          "account": "IntentB20",
+          "alpha": "Kingmaker 关注了 Inte",
+          "seenAt": "2026-07-04",
+          "messageId": "https://x.com/IntentB20",
+          "text": "Intent-settled cross-chain transfers on Base. Users declare intent. Solvers compete. Base || B20"
+        },
+        {
+          "source": "TG",
+          "project": "Intent Protocol",
+          "account": "IntentB20",
+          "alpha": "发誓要做永赚大师",
+          "seenAt": "2026-07-06T09:13:41+00:00",
+          "messageId": "dodtwitterbot/11328",
+          "text": "Intent settled cross chain transfers on Base with solver competition"
+        }
+      ],
+      "text": " Intent Protocol IntentB20 Intent-settled cross-chain transfers on Base. Users declare intent. Solvers compete. Base || B20 Intent Protocol IntentB20 Intent settled cross chain transfers on Base with solver competition",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/IntentB20"
+    },
+    {
       "project": "Kumori",
       "account": "Kumori_nft",
       "sources": [
@@ -19107,6 +19237,49 @@
       "avatarUrl": "https://unavatar.io/twitter/Pegana_xyz"
     },
     {
+      "project": "Playbooks.fun",
+      "account": "Playbooksfun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse 关注了 Play",
+        "发誓要做永赚大师"
+      ],
+      "tgAlphas": [
+        "BearzVerse 关注了 Play",
+        "发誓要做永赚大师"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-07-03",
+      "lastSeen": "2026-07-06T09:13:41+00:00",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Playbooks.fun",
+          "account": "Playbooksfun",
+          "alpha": "BearzVerse 关注了 Play",
+          "seenAt": "2026-07-03",
+          "messageId": "https://x.com/Playbooksfun",
+          "text": "New playbooks for meme launches 📖"
+        },
+        {
+          "source": "TG",
+          "project": "Playbooks.fun",
+          "account": "Playbooksfun",
+          "alpha": "发誓要做永赚大师",
+          "seenAt": "2026-07-06T09:13:41+00:00",
+          "messageId": "dodtwitterbot/11327",
+          "text": "Playbooks for meme launches"
+        }
+      ],
+      "text": " Playbooks.fun Playbooksfun New playbooks for meme launches 📖 Playbooks.fun Playbooksfun Playbooks for meme launches",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/Playbooksfun"
+    },
+    {
       "project": "playrootedacres",
       "account": "playrootedacres",
       "sources": [
@@ -19365,6 +19538,49 @@
       "avatarUrl": "https://unavatar.io/twitter/recfacesnft"
     },
     {
+      "project": "Relic",
+      "account": "playrelic_ai",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "AlphaFries",
+        "Mutu"
+      ],
+      "tgAlphas": [
+        "AlphaFries",
+        "Mutu"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-07-06T09:59:27+00:00",
+      "lastSeen": "2026-07-06T10:18:05+00:00",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Relic",
+          "account": "playrelic_ai",
+          "alpha": "AlphaFries",
+          "seenAt": "2026-07-06T09:59:27+00:00",
+          "messageId": "dodtwitterbot/11337",
+          "text": "Gaming relics collection and trading project"
+        },
+        {
+          "source": "TG",
+          "project": "Relic",
+          "account": "playrelic_ai",
+          "alpha": "Mutu",
+          "seenAt": "2026-07-06T10:18:05+00:00",
+          "messageId": "dodtwitterbot/11342",
+          "text": "Gaming relics collection and trading project"
+        }
+      ],
+      "text": " Relic playrelic_ai Gaming relics collection and trading project Relic playrelic_ai Gaming relics collection and trading project",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/playrelic_ai"
+    },
+    {
       "project": "resettleio",
       "account": "resettleio",
       "sources": [
@@ -19492,49 +19708,6 @@
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/RobinFarms"
-    },
-    {
-      "project": "Robinhood Apes",
-      "account": "robinhood_apes",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "Kingmaker 关注了 Robi",
-        "小雨倾城 关注了 Robi"
-      ],
-      "tgAlphas": [
-        "Kingmaker 关注了 Robi",
-        "小雨倾城 关注了 Robi"
-      ],
-      "xAlphas": [],
-      "mentions": 2,
-      "firstSeen": "2026-07-04",
-      "lastSeen": "2026-07-04",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Robinhood Apes",
-          "account": "robinhood_apes",
-          "alpha": "Kingmaker 关注了 Robi",
-          "seenAt": "2026-07-04",
-          "messageId": "https://x.com/robinhood_apes",
-          "text": "The first ever Apes collection on Robinhood🦍 Built on-chain. Owned by the community. Welcome to Robinhood."
-        },
-        {
-          "source": "TG",
-          "project": "Robinhood Apes",
-          "account": "robinhood_apes",
-          "alpha": "小雨倾城 关注了 Robi",
-          "seenAt": "2026-07-04",
-          "messageId": "https://x.com/robinhood_apes",
-          "text": "The first ever Apes collection on Robinhood🦍 Built on-chain. Owned by the community. Welcome to Robinhood."
-        }
-      ],
-      "text": " Robinhood Apes robinhood_apes The first ever Apes collection on Robinhood🦍 Built on-chain. Owned by the community. Welcome to Robinhood. Robinhood Apes robinhood_apes The first ever Apes collection on Robinhood🦍 Built on-chain. Owned by the community. Welcome to Robinhood.",
-      "score": 4,
-      "displayTier": "focus",
-      "avatarUrl": "https://unavatar.io/twitter/robinhood_apes"
     },
     {
       "project": "Robinhoodkitty",
@@ -28196,6 +28369,38 @@
       "avatarUrl": "https://unavatar.io/twitter/playhaylord"
     },
     {
+      "project": "Hedge",
+      "account": "hedgetradex",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse"
+      ],
+      "tgAlphas": [
+        "BearzVerse"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-06T10:04:08+00:00",
+      "lastSeen": "2026-07-06T10:04:08+00:00",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Hedge",
+          "account": "hedgetradex",
+          "alpha": "BearzVerse",
+          "seenAt": "2026-07-06T10:04:08+00:00",
+          "messageId": "dodtwitterbot/11339",
+          "text": "Upcoming prediction market on Solana"
+        }
+      ],
+      "text": " Hedge hedgetradex Upcoming prediction market on Solana",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/hedgetradex"
+    },
+    {
       "project": "Hexflow",
       "account": "HexflowNFTs",
       "sources": [
@@ -28258,6 +28463,38 @@
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": "https://unavatar.io/twitter/Holvia_Protocol"
+    },
+    {
+      "project": "Hood Catalyst",
+      "account": "hoodcatalyst",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "AlphaFries"
+      ],
+      "tgAlphas": [
+        "AlphaFries"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-06T10:18:05+00:00",
+      "lastSeen": "2026-07-06T10:18:05+00:00",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Hood Catalyst",
+          "account": "hoodcatalyst",
+          "alpha": "AlphaFries",
+          "seenAt": "2026-07-06T10:18:05+00:00",
+          "messageId": "dodtwitterbot/11343",
+          "text": "Intelligence layer for Base and Robinhood Chain ecosystems projects and market insights"
+        }
+      ],
+      "text": " Hood Catalyst hoodcatalyst Intelligence layer for Base and Robinhood Chain ecosystems projects and market insights",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/hoodcatalyst"
     },
     {
       "project": "Hoodrat",
@@ -28644,36 +28881,36 @@
       "avatarUrl": "https://unavatar.io/twitter/INSPAY_io"
     },
     {
-      "project": "Intent Protocol",
-      "account": "IntentB20",
+      "project": "ISOMETRIC BATTLE GROUNDS",
+      "account": "imbattlegrounds",
       "sources": [
         "TG"
       ],
       "alphas": [
-        "Kingmaker 关注了 Inte"
+        "BearzVerse"
       ],
       "tgAlphas": [
-        "Kingmaker 关注了 Inte"
+        "BearzVerse"
       ],
       "xAlphas": [],
       "mentions": 1,
-      "firstSeen": "2026-07-04",
-      "lastSeen": "2026-07-04",
+      "firstSeen": "2026-07-06T09:47:13+00:00",
+      "lastSeen": "2026-07-06T09:47:13+00:00",
       "rows": [
         {
           "source": "TG",
-          "project": "Intent Protocol",
-          "account": "IntentB20",
-          "alpha": "Kingmaker 关注了 Inte",
-          "seenAt": "2026-07-04",
-          "messageId": "https://x.com/IntentB20",
-          "text": "Intent-settled cross-chain transfers on Base. Users declare intent. Solvers compete. Base || B20"
+          "project": "ISOMETRIC BATTLE GROUNDS",
+          "account": "imbattlegrounds",
+          "alpha": "BearzVerse",
+          "seenAt": "2026-07-06T09:47:13+00:00",
+          "messageId": "dodtwitterbot/11334",
+          "text": "Browser battle royale game on Solana with upcoming drop"
         }
       ],
-      "text": " Intent Protocol IntentB20 Intent-settled cross-chain transfers on Base. Users declare intent. Solvers compete. Base || B20",
+      "text": " ISOMETRIC BATTLE GROUNDS imbattlegrounds Browser battle royale game on Solana with upcoming drop",
       "score": 2,
       "displayTier": "candidate",
-      "avatarUrl": "https://unavatar.io/twitter/IntentB20"
+      "avatarUrl": "https://unavatar.io/twitter/imbattlegrounds"
     },
     {
       "project": "joblesscomic",
@@ -31170,6 +31407,38 @@
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": "https://unavatar.io/twitter/Talosdotfun"
+    },
+    {
+      "project": "Tariant",
+      "account": "TariantFun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse"
+      ],
+      "tgAlphas": [
+        "BearzVerse"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-06T10:01:01+00:00",
+      "lastSeen": "2026-07-06T10:01:01+00:00",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Tariant",
+          "account": "TariantFun",
+          "alpha": "BearzVerse",
+          "seenAt": "2026-07-06T10:01:01+00:00",
+          "messageId": "dodtwitterbot/11338",
+          "text": "Onchain play to earn isometric RPG game on Solana"
+        }
+      ],
+      "text": " Tariant TariantFun Onchain play to earn isometric RPG game on Solana",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/TariantFun"
     },
     {
       "project": "Task OS",
@@ -52589,6 +52858,16 @@
       "avatarUrl": "https://unavatar.io/twitter/RobinhookApp"
     },
     {
+      "project": "B20Pepe",
+      "x_account": "B20Pepe",
+      "total_mentions": 3,
+      "unique_alphas": "3",
+      "first_seen_utc": "2026-06-21T06:46:00+00:00",
+      "last_seen_utc": "2026-06-21T06:46:00+00:00",
+      "status": "priority",
+      "avatarUrl": "https://unavatar.io/twitter/B20Pepe"
+    },
+    {
       "project": "eiDotter",
       "x_account": "eiDotterSystem",
       "total_mentions": 3,
@@ -52639,6 +52918,16 @@
       "avatarUrl": "https://unavatar.io/twitter/0xclawlens"
     },
     {
+      "project": "DOTT",
+      "x_account": "growdottv4",
+      "total_mentions": 2,
+      "unique_alphas": "2",
+      "first_seen_utc": "2026-06-21T06:41:00+00:00",
+      "last_seen_utc": "2026-06-21T11:24:00+00:00",
+      "status": "watch",
+      "avatarUrl": "https://unavatar.io/twitter/growdottv4"
+    },
+    {
       "project": "Heisted",
       "x_account": "Heistedxyz",
       "total_mentions": 2,
@@ -52659,6 +52948,26 @@
       "avatarUrl": "https://unavatar.io/twitter/LectogramHQ"
     },
     {
+      "project": "PolicyPool",
+      "x_account": "PolicyPoolHQ",
+      "total_mentions": 2,
+      "unique_alphas": "2",
+      "first_seen_utc": "2026-06-20T04:59:00+00:00",
+      "last_seen_utc": "2026-06-20T05:02:00+00:00",
+      "status": "watch",
+      "avatarUrl": "https://unavatar.io/twitter/PolicyPoolHQ"
+    },
+    {
+      "project": "Relic",
+      "x_account": "playrelic_ai",
+      "total_mentions": 2,
+      "unique_alphas": "2",
+      "first_seen_utc": "2026-07-06T09:59:27+00:00",
+      "last_seen_utc": "2026-07-06T10:18:05+00:00",
+      "status": "watch",
+      "avatarUrl": "https://unavatar.io/twitter/playrelic_ai"
+    },
+    {
       "project": "Robindogenft",
       "x_account": "Robindogenft",
       "total_mentions": 2,
@@ -52667,6 +52976,16 @@
       "last_seen_utc": "2026-06-17T16:22:47+00:00",
       "status": "watch",
       "avatarUrl": "https://unavatar.io/twitter/Robindogenft"
+    },
+    {
+      "project": "Shield Suite",
+      "x_account": "ShieldSuite_",
+      "total_mentions": 2,
+      "unique_alphas": "2",
+      "first_seen_utc": "2026-06-20T05:22:00+00:00",
+      "last_seen_utc": "2026-06-20T06:09:00+00:00",
+      "status": "watch",
+      "avatarUrl": "https://unavatar.io/twitter/ShieldSuite_"
     },
     {
       "project": "Takeover Bot",
@@ -52719,6 +53038,16 @@
       "avatarUrl": "https://unavatar.io/twitter/featherrobotics"
     },
     {
+      "project": "feelyourprotocol",
+      "x_account": "FeelEthereum",
+      "total_mentions": 1,
+      "unique_alphas": "1",
+      "first_seen_utc": "2026-06-21T09:41:00+00:00",
+      "last_seen_utc": "2026-06-21T09:41:00+00:00",
+      "status": "watch",
+      "avatarUrl": "https://unavatar.io/twitter/FeelEthereum"
+    },
+    {
       "project": "Go Fund Hook",
       "x_account": "GoFundHook",
       "total_mentions": 1,
@@ -52727,6 +53056,26 @@
       "last_seen_utc": "2026-06-16T17:51:01+00:00",
       "status": "watch",
       "avatarUrl": "https://unavatar.io/twitter/GoFundHook"
+    },
+    {
+      "project": "Hedge",
+      "x_account": "hedgetradex",
+      "total_mentions": 1,
+      "unique_alphas": "1",
+      "first_seen_utc": "2026-07-06T10:04:08+00:00",
+      "last_seen_utc": "2026-07-06T10:04:08+00:00",
+      "status": "watch",
+      "avatarUrl": "https://unavatar.io/twitter/hedgetradex"
+    },
+    {
+      "project": "Intent Protocol",
+      "x_account": "IntentB20",
+      "total_mentions": 1,
+      "unique_alphas": "1",
+      "first_seen_utc": "2026-07-06T09:13:41+00:00",
+      "last_seen_utc": "2026-07-06T09:13:41+00:00",
+      "status": "watch",
+      "avatarUrl": "https://unavatar.io/twitter/IntentB20"
     },
     {
       "project": "Kite ML",
@@ -52789,6 +53138,16 @@
       "avatarUrl": "https://unavatar.io/twitter/Robinhookv4"
     },
     {
+      "project": "Rock Bottom",
+      "x_account": "rockbottomnfts",
+      "total_mentions": 1,
+      "unique_alphas": "1",
+      "first_seen_utc": "2026-06-20T07:37:00+00:00",
+      "last_seen_utc": "2026-06-20T07:37:00+00:00",
+      "status": "watch",
+      "avatarUrl": "https://unavatar.io/twitter/rockbottomnfts"
+    },
+    {
       "project": "SHOW ROBOTICS",
       "x_account": "SHOW_ROBOTICS",
       "total_mentions": 1,
@@ -52820,6 +53179,326 @@
     }
   ],
   "daily": [
+    {
+      "date": "2026-07-06",
+      "totalRows": 14,
+      "projectCount": 9,
+      "focusCount": 1,
+      "candidateCount": 8,
+      "crossSource": 0,
+      "newCount": 5,
+      "repeatCount": 4,
+      "projects": [
+        {
+          "project": "Relic",
+          "account": "playrelic_ai",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "AlphaFries",
+            "Mutu"
+          ],
+          "tgAlphas": [
+            "AlphaFries",
+            "Mutu"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-07-06T09:59:27+00:00",
+          "lastSeen": "2026-07-06T10:18:05+00:00",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Relic",
+              "account": "playrelic_ai",
+              "alpha": "AlphaFries",
+              "seenAt": "2026-07-06T09:59:27+00:00",
+              "messageId": "dodtwitterbot/11337",
+              "text": "Gaming relics collection and trading project"
+            },
+            {
+              "source": "TG",
+              "project": "Relic",
+              "account": "playrelic_ai",
+              "alpha": "Mutu",
+              "seenAt": "2026-07-06T10:18:05+00:00",
+              "messageId": "dodtwitterbot/11342",
+              "text": "Gaming relics collection and trading project"
+            }
+          ],
+          "text": " Relic playrelic_ai Gaming relics collection and trading project Relic playrelic_ai Gaming relics collection and trading project",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "https://unavatar.io/twitter/playrelic_ai",
+          "dayStatus": "new"
+        },
+        {
+          "project": "ClawHood",
+          "account": "clawhoodfun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "发誓要做永赚大师"
+          ],
+          "tgAlphas": [
+            "发誓要做永赚大师"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-06T09:09:08+00:00",
+          "lastSeen": "2026-07-06T09:09:08+00:00",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "ClawHood",
+              "account": "clawhoodfun",
+              "alpha": "发誓要做永赚大师",
+              "seenAt": "2026-07-06T09:09:08+00:00",
+              "messageId": "dodtwitterbot/11325",
+              "text": "AI native trading and deployment terminal for Robinhood Chain"
+            }
+          ],
+          "text": " ClawHood clawhoodfun AI native trading and deployment terminal for Robinhood Chain",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/clawhoodfun",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Fletch",
+          "account": "FletchAI",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "发誓要做永赚大师"
+          ],
+          "tgAlphas": [
+            "发誓要做永赚大师"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-06T09:15:12+00:00",
+          "lastSeen": "2026-07-06T09:15:12+00:00",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Fletch",
+              "account": "FletchAI",
+              "alpha": "发誓要做永赚大师",
+              "seenAt": "2026-07-06T09:15:12+00:00",
+              "messageId": "dodtwitterbot/11331",
+              "text": "AI agent on Robinhood Chain for trading exploration and launching"
+            }
+          ],
+          "text": " Fletch FletchAI AI agent on Robinhood Chain for trading exploration and launching",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/FletchAI",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Hedge",
+          "account": "hedgetradex",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BearzVerse"
+          ],
+          "tgAlphas": [
+            "BearzVerse"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-06T10:04:08+00:00",
+          "lastSeen": "2026-07-06T10:04:08+00:00",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Hedge",
+              "account": "hedgetradex",
+              "alpha": "BearzVerse",
+              "seenAt": "2026-07-06T10:04:08+00:00",
+              "messageId": "dodtwitterbot/11339",
+              "text": "Upcoming prediction market on Solana"
+            }
+          ],
+          "text": " Hedge hedgetradex Upcoming prediction market on Solana",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/hedgetradex",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Hood Catalyst",
+          "account": "hoodcatalyst",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "AlphaFries"
+          ],
+          "tgAlphas": [
+            "AlphaFries"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-06T10:18:05+00:00",
+          "lastSeen": "2026-07-06T10:18:05+00:00",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Hood Catalyst",
+              "account": "hoodcatalyst",
+              "alpha": "AlphaFries",
+              "seenAt": "2026-07-06T10:18:05+00:00",
+              "messageId": "dodtwitterbot/11343",
+              "text": "Intelligence layer for Base and Robinhood Chain ecosystems projects and market insights"
+            }
+          ],
+          "text": " Hood Catalyst hoodcatalyst Intelligence layer for Base and Robinhood Chain ecosystems projects and market insights",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/hoodcatalyst",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Intent Protocol",
+          "account": "IntentB20",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "发誓要做永赚大师"
+          ],
+          "tgAlphas": [
+            "发誓要做永赚大师"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-06T09:13:41+00:00",
+          "lastSeen": "2026-07-06T09:13:41+00:00",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Intent Protocol",
+              "account": "IntentB20",
+              "alpha": "发誓要做永赚大师",
+              "seenAt": "2026-07-06T09:13:41+00:00",
+              "messageId": "dodtwitterbot/11328",
+              "text": "Intent settled cross chain transfers on Base with solver competition"
+            }
+          ],
+          "text": " Intent Protocol IntentB20 Intent settled cross chain transfers on Base with solver competition",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/IntentB20",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "ISOMETRIC BATTLE GROUNDS",
+          "account": "imbattlegrounds",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BearzVerse"
+          ],
+          "tgAlphas": [
+            "BearzVerse"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-06T09:47:13+00:00",
+          "lastSeen": "2026-07-06T09:47:13+00:00",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "ISOMETRIC BATTLE GROUNDS",
+              "account": "imbattlegrounds",
+              "alpha": "BearzVerse",
+              "seenAt": "2026-07-06T09:47:13+00:00",
+              "messageId": "dodtwitterbot/11334",
+              "text": "Browser battle royale game on Solana with upcoming drop"
+            }
+          ],
+          "text": " ISOMETRIC BATTLE GROUNDS imbattlegrounds Browser battle royale game on Solana with upcoming drop",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/imbattlegrounds",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Nodera",
+          "account": "NoderaRobinHood",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "发誓要做永赚大师"
+          ],
+          "tgAlphas": [
+            "发誓要做永赚大师"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-06T09:13:45+00:00",
+          "lastSeen": "2026-07-06T09:13:45+00:00",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Nodera",
+              "account": "NoderaRobinHood",
+              "alpha": "发誓要做永赚大师",
+              "seenAt": "2026-07-06T09:13:45+00:00",
+              "messageId": "dodtwitterbot/11329",
+              "text": "ERC404 powered Node Protocol on Robinhood"
+            }
+          ],
+          "text": " Nodera NoderaRobinHood ERC404 powered Node Protocol on Robinhood",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/NoderaRobinHood",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Tariant",
+          "account": "TariantFun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BearzVerse"
+          ],
+          "tgAlphas": [
+            "BearzVerse"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-06T10:01:01+00:00",
+          "lastSeen": "2026-07-06T10:01:01+00:00",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Tariant",
+              "account": "TariantFun",
+              "alpha": "BearzVerse",
+              "seenAt": "2026-07-06T10:01:01+00:00",
+              "messageId": "dodtwitterbot/11338",
+              "text": "Onchain play to earn isometric RPG game on Solana"
+            }
+          ],
+          "text": " Tariant TariantFun Onchain play to earn isometric RPG game on Solana",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/TariantFun",
+          "dayStatus": "new"
+        }
+      ]
+    },
     {
       "date": "2026-07-05",
       "totalRows": 50,
