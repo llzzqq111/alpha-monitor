@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-06T10:36:02.591Z",
+  "generatedAt": "2026-07-07T08:09:16.984Z",
   "totals": {
-    "telegramRows": 542,
+    "telegramRows": 616,
     "xRows": 1721,
-    "projects": 679,
-    "crossSource": 100
+    "projects": 711,
+    "crossSource": 102
   },
   "projects": [
     {
@@ -2657,6 +2657,84 @@
       "avatarUrl": "https://unavatar.io/twitter/metalntwx"
     },
     {
+      "project": "NOXA",
+      "account": "Noxa_Fi",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "Kingmaker",
+        "_0xzhang",
+        "juesaiquan",
+        "speest 💎",
+        "发誓要做永赚大师💰 关注了 NOXA"
+      ],
+      "tgAlphas": [
+        "Kingmaker",
+        "speest 💎",
+        "发誓要做永赚大师💰 关注了 NOXA"
+      ],
+      "xAlphas": [
+        "_0xzhang",
+        "juesaiquan"
+      ],
+      "mentions": 5,
+      "firstSeen": "2026-06-18",
+      "lastSeen": "2026-07-07",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "NOXA",
+          "account": "Noxa_Fi",
+          "alpha": "speest 💎",
+          "seenAt": "2026-07-03",
+          "messageId": "https://x.com/Noxa_Fi",
+          "text": "Degen DEX and launchpad for new blockchains"
+        },
+        {
+          "source": "TG",
+          "project": "NOXA",
+          "account": "Noxa_Fi",
+          "alpha": "发誓要做永赚大师💰 关注了 NOXA",
+          "seenAt": "2026-07-04",
+          "messageId": "https://x.com/Noxa_Fi",
+          "text": "Degen DEX & Launchpad first on new blockchains. Live even before new chains' official launch! First DegenFi protocol. TG: https://t.co/gLY5Kvry6h Built by @AmunPhantom"
+        },
+        {
+          "source": "TG",
+          "project": "NOXA",
+          "account": "Noxa_Fi",
+          "alpha": "Kingmaker",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/Noxa_Fi",
+          "text": "Degen DEX & Launchpad first on new blockchains. Live even before new chains' official launch! First DegenFi protocol. Built by @AmunPhantom"
+        },
+        {
+          "source": "X",
+          "project": "Noxa_Fi",
+          "account": "Noxa_Fi",
+          "alpha": "_0xzhang",
+          "seenAt": "2026-06-18",
+          "messageId": "2026-06-18-x-partial-_0xzhang.csv",
+          "text": "Degen DEX and Launchpad first on new blockchains"
+        },
+        {
+          "source": "X",
+          "project": "Noxa_Fi",
+          "account": "Noxa_Fi",
+          "alpha": "juesaiquan",
+          "seenAt": "2026-06-18",
+          "messageId": "2026-06-18-x-partial-juesaiquan.csv",
+          "text": "Degen DEX and Launchpad first on new blockchains"
+        }
+      ],
+      "text": " NOXA Noxa_Fi Degen DEX and launchpad for new blockchains NOXA Noxa_Fi Degen DEX & Launchpad first on new blockchains. Live even before new chains' official launch! First DegenFi protocol. TG: https://t.co/gLY5Kvry6h Built by @AmunPhantom NOXA Noxa_Fi Degen DEX & Launchpad first on new blockchains. Live even before new chains' official launch! First DegenFi protocol. Built by @AmunPhantom Noxa_Fi Noxa_Fi Degen DEX and Launchpad first on new blockchains Noxa_Fi Noxa_Fi Degen DEX and Launchpad first on new blockchains",
+      "score": 15,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/Noxa_Fi"
+    },
+    {
       "project": "speculate.xyz",
       "account": "speculatexyz",
       "sources": [
@@ -3657,73 +3735,6 @@
       "score": 13,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/eggzbase"
-    },
-    {
-      "project": "NOXA",
-      "account": "Noxa_Fi",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "_0xzhang",
-        "juesaiquan",
-        "speest 💎",
-        "发誓要做永赚大师💰 关注了 NOXA"
-      ],
-      "tgAlphas": [
-        "speest 💎",
-        "发誓要做永赚大师💰 关注了 NOXA"
-      ],
-      "xAlphas": [
-        "_0xzhang",
-        "juesaiquan"
-      ],
-      "mentions": 4,
-      "firstSeen": "2026-06-18",
-      "lastSeen": "2026-07-04",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "NOXA",
-          "account": "Noxa_Fi",
-          "alpha": "speest 💎",
-          "seenAt": "2026-07-03",
-          "messageId": "https://x.com/Noxa_Fi",
-          "text": "Degen DEX and launchpad for new blockchains"
-        },
-        {
-          "source": "TG",
-          "project": "NOXA",
-          "account": "Noxa_Fi",
-          "alpha": "发誓要做永赚大师💰 关注了 NOXA",
-          "seenAt": "2026-07-04",
-          "messageId": "https://x.com/Noxa_Fi",
-          "text": "Degen DEX & Launchpad first on new blockchains. Live even before new chains' official launch! First DegenFi protocol. TG: https://t.co/gLY5Kvry6h Built by @AmunPhantom"
-        },
-        {
-          "source": "X",
-          "project": "Noxa_Fi",
-          "account": "Noxa_Fi",
-          "alpha": "_0xzhang",
-          "seenAt": "2026-06-18",
-          "messageId": "2026-06-18-x-partial-_0xzhang.csv",
-          "text": "Degen DEX and Launchpad first on new blockchains"
-        },
-        {
-          "source": "X",
-          "project": "Noxa_Fi",
-          "account": "Noxa_Fi",
-          "alpha": "juesaiquan",
-          "seenAt": "2026-06-18",
-          "messageId": "2026-06-18-x-partial-juesaiquan.csv",
-          "text": "Degen DEX and Launchpad first on new blockchains"
-        }
-      ],
-      "text": " NOXA Noxa_Fi Degen DEX and launchpad for new blockchains NOXA Noxa_Fi Degen DEX & Launchpad first on new blockchains. Live even before new chains' official launch! First DegenFi protocol. TG: https://t.co/gLY5Kvry6h Built by @AmunPhantom Noxa_Fi Noxa_Fi Degen DEX and Launchpad first on new blockchains Noxa_Fi Noxa_Fi Degen DEX and Launchpad first on new blockchains",
-      "score": 13,
-      "displayTier": "focus",
-      "avatarUrl": "https://unavatar.io/twitter/Noxa_Fi"
     },
     {
       "project": "Pylona",
@@ -6020,6 +6031,62 @@
       "avatarUrl": "https://unavatar.io/twitter/termdotworks"
     },
     {
+      "project": "Tiny Validators",
+      "account": "tinyvalidators",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "AlphaFries",
+        "alphafries",
+        "铔嬫€?"
+      ],
+      "tgAlphas": [
+        "AlphaFries",
+        "铔嬫€?"
+      ],
+      "xAlphas": [
+        "alphafries"
+      ],
+      "mentions": 3,
+      "firstSeen": "2026-06-27",
+      "lastSeen": "2026-07-07",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Tiny Validators",
+          "account": "tinyvalidators",
+          "alpha": "AlphaFries",
+          "seenAt": "2026-06-27",
+          "messageId": "https://x.com/tinyvalidators",
+          "text": "B20 Base citizen/project collection"
+        },
+        {
+          "source": "TG",
+          "project": "Tiny Validators",
+          "account": "tinyvalidators",
+          "alpha": "铔嬫€?",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/tinyvalidators",
+          "text": "The first citizens of B20 @base"
+        },
+        {
+          "source": "X",
+          "project": "Tiny Validators",
+          "account": "tinyvalidators",
+          "alpha": "alphafries",
+          "seenAt": "2026-06-28",
+          "messageId": "2026-06-28-x-partial-alphafries.csv",
+          "text": "B20 Base citizen/project collection"
+        }
+      ],
+      "text": " Tiny Validators tinyvalidators B20 Base citizen/project collection Tiny Validators tinyvalidators The first citizens of B20 @base Tiny Validators tinyvalidators B20 Base citizen/project collection",
+      "score": 11,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/tinyvalidators"
+    },
+    {
       "project": "Bark on B20 Base",
       "account": "bark2zero",
       "sources": [
@@ -6357,6 +6424,60 @@
       "score": 10,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/PyramidDeFi"
+    },
+    {
+      "project": "璧锋簮 Origin",
+      "account": "OriginARPG",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "NotVanGogh88",
+        "鑷湪"
+      ],
+      "tgAlphas": [
+        "鑷湪"
+      ],
+      "xAlphas": [
+        "NotVanGogh88"
+      ],
+      "mentions": 3,
+      "firstSeen": "2026-06-28",
+      "lastSeen": "2026-07-07",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "璧锋簮 Origin",
+          "account": "OriginARPG",
+          "alpha": "鑷湪",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/OriginARPG",
+          "text": "A multiplayer online 16-bit pixel art ARPG playable on both browsers and mobile devices. 馃毇 No official token issued. 馃洜锔?Dev: @DFarm_club"
+        },
+        {
+          "source": "X",
+          "project": "Origin ARPG",
+          "account": "OriginARPG",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-28",
+          "messageId": "2026-06-28-x-partial-NotVanGogh88.csv",
+          "text": "Multiplayer 16-bit pixel ARPG for browser and mobile"
+        },
+        {
+          "source": "X",
+          "project": "Origin ARPG",
+          "account": "OriginARPG",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-29",
+          "messageId": "2026-06-29-x-partial-NotVanGogh88.csv",
+          "text": "Multiplayer 16-bit pixel ARPG for browser and mobile"
+        }
+      ],
+      "text": " 璧锋簮 Origin OriginARPG A multiplayer online 16-bit pixel art ARPG playable on both browsers and mobile devices. 馃毇 No official token issued. 馃洜锔?Dev: @DFarm_club Origin ARPG OriginARPG Multiplayer 16-bit pixel ARPG for browser and mobile Origin ARPG OriginARPG Multiplayer 16-bit pixel ARPG for browser and mobile",
+      "score": 10,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/OriginARPG"
     },
     {
       "project": "agenomy",
@@ -7673,6 +7794,51 @@
       "avatarUrl": "https://unavatar.io/twitter/croakcity"
     },
     {
+      "project": "EvaProtocol",
+      "account": "EvaProtocolBase",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "alphafries",
+        "铔嬫€?"
+      ],
+      "tgAlphas": [
+        "铔嬫€?"
+      ],
+      "xAlphas": [
+        "alphafries"
+      ],
+      "mentions": 2,
+      "firstSeen": "2026-06-25",
+      "lastSeen": "2026-07-07",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "EvaProtocol",
+          "account": "EvaProtocolBase",
+          "alpha": "铔嬫€?",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/EvaProtocolBase",
+          "text": "Open-source AI trading platform. Deploy autonomous agents across 8+ exchanges 24/7."
+        },
+        {
+          "source": "X",
+          "project": "EvaProtocol",
+          "account": "EvaProtocolBase",
+          "alpha": "alphafries",
+          "seenAt": "2026-06-25",
+          "messageId": "2026-06-25-x-partial-alphafries.csv",
+          "text": "Open-source AI trading platform for autonomous agents"
+        }
+      ],
+      "text": " EvaProtocol EvaProtocolBase Open-source AI trading platform. Deploy autonomous agents across 8+ exchanges 24/7. EvaProtocol EvaProtocolBase Open-source AI trading platform for autonomous agents",
+      "score": 9,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/EvaProtocolBase"
+    },
+    {
       "project": "FIFARO 2026",
       "account": "FiFARO26",
       "sources": [
@@ -8256,51 +8422,6 @@
       "score": 9,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/Senthosxyz"
-    },
-    {
-      "project": "Tiny Validators",
-      "account": "tinyvalidators",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "AlphaFries",
-        "alphafries"
-      ],
-      "tgAlphas": [
-        "AlphaFries"
-      ],
-      "xAlphas": [
-        "alphafries"
-      ],
-      "mentions": 2,
-      "firstSeen": "2026-06-27",
-      "lastSeen": "2026-06-28",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Tiny Validators",
-          "account": "tinyvalidators",
-          "alpha": "AlphaFries",
-          "seenAt": "2026-06-27",
-          "messageId": "https://x.com/tinyvalidators",
-          "text": "B20 Base citizen/project collection"
-        },
-        {
-          "source": "X",
-          "project": "Tiny Validators",
-          "account": "tinyvalidators",
-          "alpha": "alphafries",
-          "seenAt": "2026-06-28",
-          "messageId": "2026-06-28-x-partial-alphafries.csv",
-          "text": "B20 Base citizen/project collection"
-        }
-      ],
-      "text": " Tiny Validators tinyvalidators B20 Base citizen/project collection Tiny Validators tinyvalidators B20 Base citizen/project collection",
-      "score": 9,
-      "displayTier": "focus",
-      "avatarUrl": "https://unavatar.io/twitter/tinyvalidators"
     },
     {
       "project": "Vision Wallet",
@@ -9289,6 +9410,71 @@
       "score": 8,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/chogfun"
+    },
+    {
+      "project": "ClawHood",
+      "account": "clawhoodfun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Kingmaker 关注了 Claw",
+        "speest 💎 关注了 Claw",
+        "发誓要做永赚大师",
+        "铔嬫€?"
+      ],
+      "tgAlphas": [
+        "Kingmaker 关注了 Claw",
+        "speest 💎 关注了 Claw",
+        "发誓要做永赚大师",
+        "铔嬫€?"
+      ],
+      "xAlphas": [],
+      "mentions": 4,
+      "firstSeen": "2026-07-03",
+      "lastSeen": "2026-07-07",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "ClawHood",
+          "account": "clawhoodfun",
+          "alpha": "Kingmaker 关注了 Claw",
+          "seenAt": "2026-07-03",
+          "messageId": "https://x.com/clawhoodfun",
+          "text": "\"ClawHood is where AI agents deploy"
+        },
+        {
+          "source": "TG",
+          "project": "ClawHood",
+          "account": "clawhoodfun",
+          "alpha": "speest 💎 关注了 Claw",
+          "seenAt": "2026-07-04",
+          "messageId": "https://x.com/clawhoodfun",
+          "text": "ClawHood is an AI-native trading and deployment terminal for Robinhood Chain. built by @rimurucook"
+        },
+        {
+          "source": "TG",
+          "project": "ClawHood",
+          "account": "clawhoodfun",
+          "alpha": "发誓要做永赚大师",
+          "seenAt": "2026-07-06T09:09:08+00:00",
+          "messageId": "dodtwitterbot/11325",
+          "text": "AI native trading and deployment terminal for Robinhood Chain"
+        },
+        {
+          "source": "TG",
+          "project": "ClawHood",
+          "account": "clawhoodfun",
+          "alpha": "铔嬫€?",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/clawhoodfun",
+          "text": "ClawHood is an AI-native trading and deployment terminal for Robinhood Chain. 0x328bdea737b8647e983eb61e60efc63ea9adfba3 dev @rimurucook"
+        }
+      ],
+      "text": " ClawHood clawhoodfun \"ClawHood is where AI agents deploy ClawHood clawhoodfun ClawHood is an AI-native trading and deployment terminal for Robinhood Chain. built by @rimurucook ClawHood clawhoodfun AI native trading and deployment terminal for Robinhood Chain ClawHood clawhoodfun ClawHood is an AI-native trading and deployment terminal for Robinhood Chain. 0x328bdea737b8647e983eb61e60efc63ea9adfba3 dev @rimurucook",
+      "score": 8,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/clawhoodfun"
     },
     {
       "project": "DegenhoodL2",
@@ -12305,58 +12491,58 @@
       "avatarUrl": "https://unavatar.io/twitter/Blobitfun"
     },
     {
-      "project": "ClawHood",
-      "account": "clawhoodfun",
+      "project": "chompz",
+      "account": "chompzeth",
       "sources": [
         "TG"
       ],
       "alphas": [
-        "Kingmaker 关注了 Claw",
-        "speest 💎 关注了 Claw",
-        "发誓要做永赚大师"
+        "AlphaFries",
+        "Kingmaker",
+        "灏忛洦鍊惧煄"
       ],
       "tgAlphas": [
-        "Kingmaker 关注了 Claw",
-        "speest 💎 关注了 Claw",
-        "发誓要做永赚大师"
+        "AlphaFries",
+        "Kingmaker",
+        "灏忛洦鍊惧煄"
       ],
       "xAlphas": [],
       "mentions": 3,
-      "firstSeen": "2026-07-03",
-      "lastSeen": "2026-07-06T09:09:08+00:00",
+      "firstSeen": "2026-07-07",
+      "lastSeen": "2026-07-07",
       "rows": [
         {
           "source": "TG",
-          "project": "ClawHood",
-          "account": "clawhoodfun",
-          "alpha": "Kingmaker 关注了 Claw",
-          "seenAt": "2026-07-03",
-          "messageId": "https://x.com/clawhoodfun",
-          "text": "\"ClawHood is where AI agents deploy"
+          "project": "chompz",
+          "account": "chompzeth",
+          "alpha": "灏忛洦鍊惧煄",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/chompzeth",
+          "text": "Every Ethereum block leaves behind corrupted nodes. We brought them back."
         },
         {
           "source": "TG",
-          "project": "ClawHood",
-          "account": "clawhoodfun",
-          "alpha": "speest 💎 关注了 Claw",
-          "seenAt": "2026-07-04",
-          "messageId": "https://x.com/clawhoodfun",
-          "text": "ClawHood is an AI-native trading and deployment terminal for Robinhood Chain. built by @rimurucook"
+          "project": "chompz",
+          "account": "chompzeth",
+          "alpha": "AlphaFries",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/chompzeth",
+          "text": "Every Ethereum block leaves behind corrupted nodes. We brought them back."
         },
         {
           "source": "TG",
-          "project": "ClawHood",
-          "account": "clawhoodfun",
-          "alpha": "发誓要做永赚大师",
-          "seenAt": "2026-07-06T09:09:08+00:00",
-          "messageId": "dodtwitterbot/11325",
-          "text": "AI native trading and deployment terminal for Robinhood Chain"
+          "project": "chompz",
+          "account": "chompzeth",
+          "alpha": "Kingmaker",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/chompzeth",
+          "text": "Every Ethereum block leaves behind corrupted nodes. We brought them back."
         }
       ],
-      "text": " ClawHood clawhoodfun \"ClawHood is where AI agents deploy ClawHood clawhoodfun ClawHood is an AI-native trading and deployment terminal for Robinhood Chain. built by @rimurucook ClawHood clawhoodfun AI native trading and deployment terminal for Robinhood Chain",
+      "text": " chompz chompzeth Every Ethereum block leaves behind corrupted nodes. We brought them back. chompz chompzeth Every Ethereum block leaves behind corrupted nodes. We brought them back. chompz chompzeth Every Ethereum block leaves behind corrupted nodes. We brought them back.",
       "score": 6,
       "displayTier": "focus",
-      "avatarUrl": "https://unavatar.io/twitter/clawhoodfun"
+      "avatarUrl": "https://unavatar.io/twitter/chompzeth"
     },
     {
       "project": "Conduit",
@@ -12519,6 +12705,60 @@
       "score": 6,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/eiDotterSystem"
+    },
+    {
+      "project": "Hoodtrade",
+      "account": "usehoodtrade",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "speest 💎 关注了 Hood",
+        "发誓要做永赚大师💰 关注了 Hood",
+        "鑷湪"
+      ],
+      "tgAlphas": [
+        "speest 💎 关注了 Hood",
+        "发誓要做永赚大师💰 关注了 Hood",
+        "鑷湪"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-07-04",
+      "lastSeen": "2026-07-07",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Hoodtrade",
+          "account": "usehoodtrade",
+          "alpha": "发誓要做永赚大师💰 关注了 Hood",
+          "seenAt": "2026-07-04",
+          "messageId": "https://x.com/usehoodtrade",
+          "text": "Building an on-chain safety agent for Robinhood Chain."
+        },
+        {
+          "source": "TG",
+          "project": "Hoodtrade",
+          "account": "usehoodtrade",
+          "alpha": "speest 💎 关注了 Hood",
+          "seenAt": "2026-07-05",
+          "messageId": "https://x.com/usehoodtrade",
+          "text": "Building an on-chain safety agent for Robinhood Chain."
+        },
+        {
+          "source": "TG",
+          "project": "Hoodtrade",
+          "account": "usehoodtrade",
+          "alpha": "鑷湪",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/usehoodtrade",
+          "text": "Building an on-chain safety agent for Robinhood Chain."
+        }
+      ],
+      "text": " Hoodtrade usehoodtrade Building an on-chain safety agent for Robinhood Chain. Hoodtrade usehoodtrade Building an on-chain safety agent for Robinhood Chain. Hoodtrade usehoodtrade Building an on-chain safety agent for Robinhood Chain.",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/usehoodtrade"
     },
     {
       "project": "Little Farmers",
@@ -12843,6 +13083,60 @@
       "score": 6,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/robinhood_apes"
+    },
+    {
+      "project": "Robinhook",
+      "account": "rhook_v4",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        ".鉁?輥藮 馃煟",
+        "AlphaFries",
+        "灏忛洦鍊惧煄"
+      ],
+      "tgAlphas": [
+        ".鉁?輥藮 馃煟",
+        "AlphaFries",
+        "灏忛洦鍊惧煄"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-07-07",
+      "lastSeen": "2026-07-07",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Robinhook",
+          "account": "rhook_v4",
+          "alpha": "灏忛洦鍊惧煄",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/rhook_v4",
+          "text": "Early project from TG follow feed"
+        },
+        {
+          "source": "TG",
+          "project": "Robinhook",
+          "account": "rhook_v4",
+          "alpha": "AlphaFries",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/rhook_v4",
+          "text": "Early project from TG follow feed"
+        },
+        {
+          "source": "TG",
+          "project": "Robinhook",
+          "account": "rhook_v4",
+          "alpha": ".鉁?輥藮 馃煟",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/rhook_v4",
+          "text": "Early project from TG follow feed"
+        }
+      ],
+      "text": " Robinhook rhook_v4 Early project from TG follow feed Robinhook rhook_v4 Early project from TG follow feed Robinhook rhook_v4 Early project from TG follow feed",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/rhook_v4"
     },
     {
       "project": "Rpeg",
@@ -17388,6 +17682,49 @@
       "avatarUrl": "https://unavatar.io/twitter/bnchongsheng"
     },
     {
+      "project": "ArcCitizens",
+      "account": "ArcCitizens",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "AlphaFries",
+        "Kingmaker"
+      ],
+      "tgAlphas": [
+        "AlphaFries",
+        "Kingmaker"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-07-07",
+      "lastSeen": "2026-07-07",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "ArcCitizens",
+          "account": "ArcCitizens",
+          "alpha": "AlphaFries",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/ArcCitizens",
+          "text": "The first community-owned fully on-chain 10 000 NFT identity collection on Arc."
+        },
+        {
+          "source": "TG",
+          "project": "ArcCitizens",
+          "account": "ArcCitizens",
+          "alpha": "Kingmaker",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/ArcCitizens",
+          "text": "The first community-owned fully on-chain 10 000 NFT identity collection on Arc."
+        }
+      ],
+      "text": " ArcCitizens ArcCitizens The first community-owned fully on-chain 10 000 NFT identity collection on Arc. ArcCitizens ArcCitizens The first community-owned fully on-chain 10 000 NFT identity collection on Arc.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/ArcCitizens"
+    },
+    {
       "project": "Arcus",
       "account": "arcus_xyz",
       "sources": [
@@ -17687,6 +18024,49 @@
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/BlockFallX"
+    },
+    {
+      "project": "Bracket Bot",
+      "account": "bracketbot",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Kingmaker",
+        "鏂版墜"
+      ],
+      "tgAlphas": [
+        "Kingmaker",
+        "鏂版墜"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-07-07",
+      "lastSeen": "2026-07-07",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Bracket Bot",
+          "account": "bracketbot",
+          "alpha": "Kingmaker",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/bracketbot",
+          "text": "a million robots"
+        },
+        {
+          "source": "TG",
+          "project": "Bracket Bot",
+          "account": "bracketbot",
+          "alpha": "鏂版墜",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/bracketbot",
+          "text": "a million robots"
+        }
+      ],
+      "text": " Bracket Bot bracketbot a million robots Bracket Bot bracketbot a million robots",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/bracketbot"
     },
     {
       "project": "bullyvhook",
@@ -18119,6 +18499,49 @@
       "avatarUrl": "https://unavatar.io/twitter/CorvoEdge"
     },
     {
+      "project": "CREDENCE",
+      "account": "CREDENCE_intel",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "AlphaFries",
+        "Kingmaker"
+      ],
+      "tgAlphas": [
+        "AlphaFries",
+        "Kingmaker"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-07-07",
+      "lastSeen": "2026-07-07",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "CREDENCE",
+          "account": "CREDENCE_intel",
+          "alpha": "Kingmaker",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/CREDENCE_intel",
+          "text": "Trust intelligence layer for @arc ecosystem"
+        },
+        {
+          "source": "TG",
+          "project": "CREDENCE",
+          "account": "CREDENCE_intel",
+          "alpha": "AlphaFries",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/CREDENCE_intel",
+          "text": "Trust intelligence layer for @arc ecosystem"
+        }
+      ],
+      "text": " CREDENCE CREDENCE_intel Trust intelligence layer for @arc ecosystem CREDENCE CREDENCE_intel Trust intelligence layer for @arc ecosystem",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/CREDENCE_intel"
+    },
+    {
       "project": "DetachedNFT",
       "account": "DetachedNFT",
       "sources": [
@@ -18506,49 +18929,6 @@
       "avatarUrl": "https://unavatar.io/twitter/HoodersX"
     },
     {
-      "project": "Hoodtrade",
-      "account": "usehoodtrade",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "speest 💎 关注了 Hood",
-        "发誓要做永赚大师💰 关注了 Hood"
-      ],
-      "tgAlphas": [
-        "speest 💎 关注了 Hood",
-        "发誓要做永赚大师💰 关注了 Hood"
-      ],
-      "xAlphas": [],
-      "mentions": 2,
-      "firstSeen": "2026-07-04",
-      "lastSeen": "2026-07-05",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Hoodtrade",
-          "account": "usehoodtrade",
-          "alpha": "发誓要做永赚大师💰 关注了 Hood",
-          "seenAt": "2026-07-04",
-          "messageId": "https://x.com/usehoodtrade",
-          "text": "Building an on-chain safety agent for Robinhood Chain."
-        },
-        {
-          "source": "TG",
-          "project": "Hoodtrade",
-          "account": "usehoodtrade",
-          "alpha": "speest 💎 关注了 Hood",
-          "seenAt": "2026-07-05",
-          "messageId": "https://x.com/usehoodtrade",
-          "text": "Building an on-chain safety agent for Robinhood Chain."
-        }
-      ],
-      "text": " Hoodtrade usehoodtrade Building an on-chain safety agent for Robinhood Chain. Hoodtrade usehoodtrade Building an on-chain safety agent for Robinhood Chain.",
-      "score": 4,
-      "displayTier": "focus",
-      "avatarUrl": "https://unavatar.io/twitter/usehoodtrade"
-    },
-    {
       "project": "Hooksensor",
       "account": "Hooksensor",
       "sources": [
@@ -18807,6 +19187,92 @@
       "avatarUrl": "https://unavatar.io/twitter/Kyra_Agent"
     },
     {
+      "project": "Lox the Fox ($LOX)",
+      "account": "loxonhood",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Kingmaker",
+        "N螢O"
+      ],
+      "tgAlphas": [
+        "Kingmaker",
+        "N螢O"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-07-07",
+      "lastSeen": "2026-07-07",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Lox the Fox ($LOX)",
+          "account": "loxonhood",
+          "alpha": "N螢O",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/loxonhood",
+          "text": "The masked fox of Robinhood Chain 馃 Robin of Loxley kept the legend. We kept the stealing. $LOX"
+        },
+        {
+          "source": "TG",
+          "project": "Lox the Fox ($LOX)",
+          "account": "loxonhood",
+          "alpha": "Kingmaker",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/loxonhood",
+          "text": "The masked fox of Robinhood Chain 馃 Robin of Loxley kept the legend. We kept the stealing. $LOX"
+        }
+      ],
+      "text": " Lox the Fox ($LOX) loxonhood The masked fox of Robinhood Chain 馃 Robin of Loxley kept the legend. We kept the stealing. $LOX Lox the Fox ($LOX) loxonhood The masked fox of Robinhood Chain 馃 Robin of Loxley kept the legend. We kept the stealing. $LOX",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/loxonhood"
+    },
+    {
+      "project": "Loxley",
+      "account": "loxleyfun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Kingmaker",
+        "N螢O"
+      ],
+      "tgAlphas": [
+        "Kingmaker",
+        "N螢O"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-07-07",
+      "lastSeen": "2026-07-07",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Loxley",
+          "account": "loxleyfun",
+          "alpha": "N螢O",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/loxleyfun",
+          "text": "Early project from TG follow feed"
+        },
+        {
+          "source": "TG",
+          "project": "Loxley",
+          "account": "loxleyfun",
+          "alpha": "Kingmaker",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/loxleyfun",
+          "text": "Early project from TG follow feed"
+        }
+      ],
+      "text": " Loxley loxleyfun Early project from TG follow feed Loxley loxleyfun Early project from TG follow feed",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/loxleyfun"
+    },
+    {
       "project": "Midas",
       "account": "midashood",
       "sources": [
@@ -18848,6 +19314,49 @@
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/midashood"
+    },
+    {
+      "project": "Naksha",
+      "account": "Nakshasocial",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "AlphaFries",
+        "Kingmaker"
+      ],
+      "tgAlphas": [
+        "AlphaFries",
+        "Kingmaker"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-07-07",
+      "lastSeen": "2026-07-07",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Naksha",
+          "account": "Nakshasocial",
+          "alpha": "AlphaFries",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/Nakshasocial",
+          "text": "Early project from TG follow feed"
+        },
+        {
+          "source": "TG",
+          "project": "Naksha",
+          "account": "Nakshasocial",
+          "alpha": "Kingmaker",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/Nakshasocial",
+          "text": "Early project from TG follow feed"
+        }
+      ],
+      "text": " Naksha Nakshasocial Early project from TG follow feed Naksha Nakshasocial Early project from TG follow feed",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/Nakshasocial"
     },
     {
       "project": "NOW",
@@ -19409,6 +19918,49 @@
       "avatarUrl": "https://unavatar.io/twitter/PolicyPoolHQ"
     },
     {
+      "project": "Pool Party Exchange",
+      "account": "PoolPartyDEX",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Kingmaker",
+        "鏂版墜"
+      ],
+      "tgAlphas": [
+        "Kingmaker",
+        "鏂版墜"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-07-07",
+      "lastSeen": "2026-07-07",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Pool Party Exchange",
+          "account": "PoolPartyDEX",
+          "alpha": "Kingmaker",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/PoolPartyDEX",
+          "text": "Early project from TG follow feed"
+        },
+        {
+          "source": "TG",
+          "project": "Pool Party Exchange",
+          "account": "PoolPartyDEX",
+          "alpha": "鏂版墜",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/PoolPartyDEX",
+          "text": "Early project from TG follow feed"
+        }
+      ],
+      "text": " Pool Party Exchange PoolPartyDEX Early project from TG follow feed Pool Party Exchange PoolPartyDEX Early project from TG follow feed",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/PoolPartyDEX"
+    },
+    {
       "project": "pulseitfun",
       "account": "pulseitfun",
       "sources": [
@@ -19579,6 +20131,49 @@
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/playrelic_ai"
+    },
+    {
+      "project": "Reroll.gg",
+      "account": "rerollcasino",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "AlphaFries",
+        "Kingmaker"
+      ],
+      "tgAlphas": [
+        "AlphaFries",
+        "Kingmaker"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-07-07",
+      "lastSeen": "2026-07-07",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Reroll.gg",
+          "account": "rerollcasino",
+          "alpha": "AlphaFries",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/rerollcasino",
+          "text": "Crypto Casino Coming Soon"
+        },
+        {
+          "source": "TG",
+          "project": "Reroll.gg",
+          "account": "rerollcasino",
+          "alpha": "Kingmaker",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/rerollcasino",
+          "text": "Crypto Casino Coming Soon"
+        }
+      ],
+      "text": " Reroll.gg rerollcasino Crypto Casino Coming Soon Reroll.gg rerollcasino Crypto Casino Coming Soon",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/rerollcasino"
     },
     {
       "project": "resettleio",
@@ -20009,6 +20604,49 @@
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/RYex_finance"
+    },
+    {
+      "project": "Seedbound",
+      "account": "seedboundgame",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "AlphaFries",
+        "rez"
+      ],
+      "tgAlphas": [
+        "AlphaFries",
+        "rez"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-07-07",
+      "lastSeen": "2026-07-07",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Seedbound",
+          "account": "seedboundgame",
+          "alpha": "AlphaFries",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/seedboundgame",
+          "text": "Grow harvest and build your little farm on Robinhood Chain 馃尡"
+        },
+        {
+          "source": "TG",
+          "project": "Seedbound",
+          "account": "seedboundgame",
+          "alpha": "rez",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/seedboundgame",
+          "text": "Grow harvest and build your little farm on Robinhood Chain 馃尡"
+        }
+      ],
+      "text": " Seedbound seedboundgame Grow harvest and build your little farm on Robinhood Chain 馃尡 Seedbound seedboundgame Grow harvest and build your little farm on Robinhood Chain 馃尡",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/seedboundgame"
     },
     {
       "project": "SHOW ROBOTICS",
@@ -20570,6 +21208,49 @@
       "avatarUrl": "https://unavatar.io/twitter/Warchestfun"
     },
     {
+      "project": "Warp",
+      "account": "warponarc",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Kingmaker",
+        "灏忛洦鍊惧煄"
+      ],
+      "tgAlphas": [
+        "Kingmaker",
+        "灏忛洦鍊惧煄"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-07-07",
+      "lastSeen": "2026-07-07",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Warp",
+          "account": "warponarc",
+          "alpha": "灏忛洦鍊惧煄",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/warponarc",
+          "text": "The premiere token launchpad and trading terminal on Arc Network. Experience zero-fee bridging with the CCTP intent engine."
+        },
+        {
+          "source": "TG",
+          "project": "Warp",
+          "account": "warponarc",
+          "alpha": "Kingmaker",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/warponarc",
+          "text": "The premiere token launchpad and trading terminal on Arc Network. Experience zero-fee bridging with the CCTP intent engine."
+        }
+      ],
+      "text": " Warp warponarc The premiere token launchpad and trading terminal on Arc Network. Experience zero-fee bridging with the CCTP intent engine. Warp warponarc The premiere token launchpad and trading terminal on Arc Network. Experience zero-fee bridging with the CCTP intent engine.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/warponarc"
+    },
+    {
       "project": "win.fun",
       "account": "WeWinFun",
       "sources": [
@@ -20654,6 +21335,49 @@
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/yoinkfun"
+    },
+    {
+      "project": "Zalary | ZCash Payroll",
+      "account": "UseZalary",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        ".鉁?輥藮 馃煟",
+        "Kingmaker"
+      ],
+      "tgAlphas": [
+        ".鉁?輥藮 馃煟",
+        "Kingmaker"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-07-07",
+      "lastSeen": "2026-07-07",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Zalary | ZCash Payroll",
+          "account": "UseZalary",
+          "alpha": ".鉁?輥藮 馃煟",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/UseZalary",
+          "text": "Privacy-first payroll for businesses. Built by @utopiancontrib @adedamolajoke"
+        },
+        {
+          "source": "TG",
+          "project": "Zalary | ZCash Payroll",
+          "account": "UseZalary",
+          "alpha": "Kingmaker",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/UseZalary",
+          "text": "Privacy-first payroll for businesses. Built by @utopiancontrib @adedamolajoke"
+        }
+      ],
+      "text": " Zalary | ZCash Payroll UseZalary Privacy-first payroll for businesses. Built by @utopiancontrib @adedamolajoke Zalary | ZCash Payroll UseZalary Privacy-first payroll for businesses. Built by @utopiancontrib @adedamolajoke",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/UseZalary"
     },
     {
       "project": "ZebraPerps",
@@ -23657,47 +24381,6 @@
       "avatarUrl": "https://unavatar.io/twitter/ordinetwork"
     },
     {
-      "project": "Origin ARPG",
-      "account": "OriginARPG",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "NotVanGogh88"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "NotVanGogh88"
-      ],
-      "mentions": 2,
-      "firstSeen": "2026-06-28",
-      "lastSeen": "2026-06-29",
-      "rows": [
-        {
-          "source": "X",
-          "project": "Origin ARPG",
-          "account": "OriginARPG",
-          "alpha": "NotVanGogh88",
-          "seenAt": "2026-06-28",
-          "messageId": "2026-06-28-x-partial-NotVanGogh88.csv",
-          "text": "Multiplayer 16-bit pixel ARPG for browser and mobile"
-        },
-        {
-          "source": "X",
-          "project": "Origin ARPG",
-          "account": "OriginARPG",
-          "alpha": "NotVanGogh88",
-          "seenAt": "2026-06-29",
-          "messageId": "2026-06-29-x-partial-NotVanGogh88.csv",
-          "text": "Multiplayer 16-bit pixel ARPG for browser and mobile"
-        }
-      ],
-      "text": " Origin ARPG OriginARPG Multiplayer 16-bit pixel ARPG for browser and mobile Origin ARPG OriginARPG Multiplayer 16-bit pixel ARPG for browser and mobile",
-      "score": 3,
-      "displayTier": "focus",
-      "avatarUrl": "https://unavatar.io/twitter/OriginARPG"
-    },
-    {
       "project": "Orynth",
       "account": "orynth",
       "sources": [
@@ -25713,6 +26396,38 @@
       "avatarUrl": "https://unavatar.io/twitter/ArAIstotle"
     },
     {
+      "project": "ArcFi",
+      "account": "ArcFiApp",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Kingmaker"
+      ],
+      "tgAlphas": [
+        "Kingmaker"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-07",
+      "lastSeen": "2026-07-07",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "ArcFi",
+          "account": "ArcFiApp",
+          "alpha": "Kingmaker",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/ArcFiApp",
+          "text": "The liquidity layer for Arc."
+        }
+      ],
+      "text": " ArcFi ArcFiApp The liquidity layer for Arc.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/ArcFiApp"
+    },
+    {
       "project": "Arcora",
       "account": "ArcoraApp",
       "sources": [
@@ -25935,6 +26650,38 @@
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": "https://unavatar.io/twitter/AxiosFi"
+    },
+    {
+      "project": "B20 Horizon",
+      "account": "B20Horizon",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "铔嬫€?"
+      ],
+      "tgAlphas": [
+        "铔嬫€?"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-07",
+      "lastSeen": "2026-07-07",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "B20 Horizon",
+          "account": "B20Horizon",
+          "alpha": "铔嬫€?",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/B20Horizon",
+          "text": "The Gateway for B20 Tokens on Base Coming soon 鈥?Tokenize tomorrow"
+        }
+      ],
+      "text": " B20 Horizon B20Horizon The Gateway for B20 Tokens on Base Coming soon 鈥?Tokenize tomorrow",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/B20Horizon"
     },
     {
       "project": "B20 PUNKS",
@@ -26351,6 +27098,38 @@
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": "https://unavatar.io/twitter/playbouncers"
+    },
+    {
+      "project": "Brainbo",
+      "account": "BrainboNFT",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "AlphaFries"
+      ],
+      "tgAlphas": [
+        "AlphaFries"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-07",
+      "lastSeen": "2026-07-07",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Brainbo",
+          "account": "BrainboNFT",
+          "alpha": "AlphaFries",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/BrainboNFT",
+          "text": "Built by idiots. Powered by delusion. Floor is already 100E."
+        }
+      ],
+      "text": " Brainbo BrainboNFT Built by idiots. Powered by delusion. Floor is already 100E.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/BrainboNFT"
     },
     {
       "project": "Bridle Layer",
@@ -27473,6 +28252,70 @@
       "avatarUrl": "https://unavatar.io/twitter/PlayDUNG_"
     },
     {
+      "project": "Dwell Protocol",
+      "account": "DwellProtocolSo",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse"
+      ],
+      "tgAlphas": [
+        "BearzVerse"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-07",
+      "lastSeen": "2026-07-07",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Dwell Protocol",
+          "account": "DwellProtocolSo",
+          "alpha": "BearzVerse",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/DwellProtocolSo",
+          "text": "Earn tokens while you use AI. Buy ads with fiat."
+        }
+      ],
+      "text": " Dwell Protocol DwellProtocolSo Earn tokens while you use AI. Buy ads with fiat.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/DwellProtocolSo"
+    },
+    {
+      "project": "DYORSWAP",
+      "account": "DYORSWAPDEX",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Kingmaker"
+      ],
+      "tgAlphas": [
+        "Kingmaker"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-07",
+      "lastSeen": "2026-07-07",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "DYORSWAP",
+          "account": "DYORSWAPDEX",
+          "alpha": "Kingmaker",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/DYORSWAPDEX",
+          "text": "Early project from TG follow feed"
+        }
+      ],
+      "text": " DYORSWAP DYORSWAPDEX Early project from TG follow feed",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/DYORSWAPDEX"
+    },
+    {
       "project": "ELFERIUM",
       "account": "ElferiumNFT",
       "sources": [
@@ -27599,38 +28442,6 @@
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": "https://unavatar.io/twitter/Etheriatown"
-    },
-    {
-      "project": "EvaProtocol",
-      "account": "EvaProtocolBase",
-      "sources": [
-        "X"
-      ],
-      "alphas": [
-        "alphafries"
-      ],
-      "tgAlphas": [],
-      "xAlphas": [
-        "alphafries"
-      ],
-      "mentions": 1,
-      "firstSeen": "2026-06-25",
-      "lastSeen": "2026-06-25",
-      "rows": [
-        {
-          "source": "X",
-          "project": "EvaProtocol",
-          "account": "EvaProtocolBase",
-          "alpha": "alphafries",
-          "seenAt": "2026-06-25",
-          "messageId": "2026-06-25-x-partial-alphafries.csv",
-          "text": "Open-source AI trading platform for autonomous agents"
-        }
-      ],
-      "text": " EvaProtocol EvaProtocolBase Open-source AI trading platform for autonomous agents",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": "https://unavatar.io/twitter/EvaProtocolBase"
     },
     {
       "project": "Fanex",
@@ -27825,6 +28636,38 @@
       "avatarUrl": "https://unavatar.io/twitter/foldcomputer"
     },
     {
+      "project": "Foursight Protocol",
+      "account": "FoursProtocol",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Kingmaker"
+      ],
+      "tgAlphas": [
+        "Kingmaker"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-07",
+      "lastSeen": "2026-07-07",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Foursight Protocol",
+          "account": "FoursProtocol",
+          "alpha": "Kingmaker",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/FoursProtocol",
+          "text": "Best price for GPU compute routed across DePIN."
+        }
+      ],
+      "text": " Foursight Protocol FoursProtocol Best price for GPU compute routed across DePIN.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/FoursProtocol"
+    },
+    {
       "project": "Frag_Growth",
       "account": "Frag_Growth",
       "sources": [
@@ -27887,6 +28730,38 @@
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": "https://unavatar.io/twitter/FrontDotFun"
+    },
+    {
+      "project": "Gambid",
+      "account": "GambidGG",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "AlphaFries"
+      ],
+      "tgAlphas": [
+        "AlphaFries"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-07",
+      "lastSeen": "2026-07-07",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Gambid",
+          "account": "GambidGG",
+          "alpha": "AlphaFries",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/GambidGG",
+          "text": "Provably fair. 100% onchain. Instant payouts.聽 No KYC. Built for players."
+        }
+      ],
+      "text": " Gambid GambidGG Provably fair. 100% onchain. Instant payouts.聽 No KYC. Built for players.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/GambidGG"
     },
     {
       "project": "geysir",
@@ -28497,6 +29372,38 @@
       "avatarUrl": "https://unavatar.io/twitter/hoodcatalyst"
     },
     {
+      "project": "Hood Markets",
+      "account": "Hooddotmarkets",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Kingmaker"
+      ],
+      "tgAlphas": [
+        "Kingmaker"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-07",
+      "lastSeen": "2026-07-07",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Hood Markets",
+          "account": "Hooddotmarkets",
+          "alpha": "Kingmaker",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/Hooddotmarkets",
+          "text": "Early project from TG follow feed"
+        }
+      ],
+      "text": " Hood Markets Hooddotmarkets Early project from TG follow feed",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/Hooddotmarkets"
+    },
+    {
       "project": "Hoodrat",
       "account": "hoodrat_coin",
       "sources": [
@@ -28817,6 +29724,38 @@
       "avatarUrl": "https://unavatar.io/twitter/IncorporateB20"
     },
     {
+      "project": "Index",
+      "account": "TheIndexFi",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Kingmaker"
+      ],
+      "tgAlphas": [
+        "Kingmaker"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-07",
+      "lastSeen": "2026-07-07",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Index",
+          "account": "TheIndexFi",
+          "alpha": "Kingmaker",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/TheIndexFi",
+          "text": "Stock dividend protocol for robinhood L2鈥檚 tokenized stocks 0x56910D4409F3a0C78C64DD8D0545FF0705389870"
+        }
+      ],
+      "text": " Index TheIndexFi Stock dividend protocol for robinhood L2鈥檚 tokenized stocks 0x56910D4409F3a0C78C64DD8D0545FF0705389870",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/TheIndexFi"
+    },
+    {
       "project": "Infinite HOOD Glitch",
       "account": "InfiniteHoodG",
       "sources": [
@@ -28847,6 +29786,38 @@
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": "https://unavatar.io/twitter/InfiniteHoodG"
+    },
+    {
+      "project": "init",
+      "account": "initB20",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "灏忛洦鍊惧煄"
+      ],
+      "tgAlphas": [
+        "灏忛洦鍊惧煄"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-07",
+      "lastSeen": "2026-07-07",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "init",
+          "account": "initB20",
+          "alpha": "灏忛洦鍊惧煄",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/initB20",
+          "text": "$ ./init_b20"
+        }
+      ],
+      "text": " init initB20 $ ./init_b20",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/initB20"
     },
     {
       "project": "INSPAY",
@@ -29041,6 +30012,38 @@
       "avatarUrl": "https://unavatar.io/twitter/beledgerless"
     },
     {
+      "project": "Litebeam",
+      "account": "Litebeam_xyz",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "speest 馃拵"
+      ],
+      "tgAlphas": [
+        "speest 馃拵"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-07",
+      "lastSeen": "2026-07-07",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Litebeam",
+          "account": "Litebeam_xyz",
+          "alpha": "speest 馃拵",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/Litebeam_xyz",
+          "text": "thousands of microservices. Zero API keys. Real-time vendor auctions + on-chain settlement."
+        }
+      ],
+      "text": " Litebeam Litebeam_xyz thousands of microservices. Zero API keys. Real-time vendor auctions + on-chain settlement.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/Litebeam_xyz"
+    },
+    {
       "project": "Loli",
       "account": "lolionchain",
       "sources": [
@@ -29103,6 +30106,38 @@
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": "https://unavatar.io/twitter/looplaygg_"
+    },
+    {
+      "project": "Looters",
+      "account": "Looters_NFT",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "AlphaFries"
+      ],
+      "tgAlphas": [
+        "AlphaFries"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-07",
+      "lastSeen": "2026-07-07",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Looters",
+          "account": "Looters_NFT",
+          "alpha": "AlphaFries",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/Looters_NFT",
+          "text": "Every city has its legends. Ours wear masks..."
+        }
+      ],
+      "text": " Looters Looters_NFT Every city has its legends. Ours wear masks...",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/Looters_NFT"
     },
     {
       "project": "Loqua",
@@ -29169,6 +30204,38 @@
       "avatarUrl": "https://unavatar.io/twitter/Markets_xyz"
     },
     {
+      "project": "Memo20",
+      "account": "Memo20_B20",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "铔嬫€?"
+      ],
+      "tgAlphas": [
+        "铔嬫€?"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-07",
+      "lastSeen": "2026-07-07",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Memo20",
+          "account": "Memo20_B20",
+          "alpha": "铔嬫€?",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/Memo20_B20",
+          "text": "Built with the B20 Standard on Base. Mint. Message. Burn. Remember. Every transfer carries a story."
+        }
+      ],
+      "text": " Memo20 Memo20_B20 Built with the B20 Standard on Base. Mint. Message. Burn. Remember. Every transfer carries a story.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/Memo20_B20"
+    },
+    {
       "project": "Mercury",
       "account": "Mercury_Agents",
       "sources": [
@@ -29199,6 +30266,38 @@
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": "https://unavatar.io/twitter/Mercury_Agents"
+    },
+    {
+      "project": "MEWY",
+      "account": "Mewwy_nft",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "AlphaFries"
+      ],
+      "tgAlphas": [
+        "AlphaFries"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-07",
+      "lastSeen": "2026-07-07",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "MEWY",
+          "account": "Mewwy_nft",
+          "alpha": "AlphaFries",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/Mewwy_nft",
+          "text": "馃惥 4 444 tiny chaotic cats with big meows Cute. Collectible. Coming soon on Ethereum Draw a Mewy Earn your Mewylist"
+        }
+      ],
+      "text": " MEWY Mewwy_nft 馃惥 4 444 tiny chaotic cats with big meows Cute. Collectible. Coming soon on Ethereum Draw a Mewy Earn your Mewylist",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/Mewwy_nft"
     },
     {
       "project": "Mini soccer",
@@ -29553,6 +30652,38 @@
       "avatarUrl": "https://unavatar.io/twitter/OnchainColor"
     },
     {
+      "project": "Onchain Lens",
+      "account": "OnchainLens",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Kingmaker"
+      ],
+      "tgAlphas": [
+        "Kingmaker"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-07",
+      "lastSeen": "2026-07-07",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Onchain Lens",
+          "account": "OnchainLens",
+          "alpha": "Kingmaker",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/OnchainLens",
+          "text": "Simplifying onchain data for the masses."
+        }
+      ],
+      "text": " Onchain Lens OnchainLens Simplifying onchain data for the masses.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/OnchainLens"
+    },
+    {
       "project": "onchain_goat",
       "account": "onchain_goat",
       "sources": [
@@ -29583,6 +30714,38 @@
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": "https://unavatar.io/twitter/onchain_goat"
+    },
+    {
+      "project": "OneToken",
+      "account": "Onetokendotfun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "灏忛洦鍊惧煄"
+      ],
+      "tgAlphas": [
+        "灏忛洦鍊惧煄"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-07",
+      "lastSeen": "2026-07-07",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "OneToken",
+          "account": "Onetokendotfun",
+          "alpha": "灏忛洦鍊惧煄",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/Onetokendotfun",
+          "text": "Permissionless token launchpad on Uniswap V4. Zero upfront capital one-sided AMM curve tradeable the moment it lists."
+        }
+      ],
+      "text": " OneToken Onetokendotfun Permissionless token launchpad on Uniswap V4. Zero upfront capital one-sided AMM curve tradeable the moment it lists.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/Onetokendotfun"
     },
     {
       "project": "OrbiesProtocol",
@@ -30193,6 +31356,38 @@
       "avatarUrl": "https://unavatar.io/twitter/PrimalsNFTx"
     },
     {
+      "project": "PrimeHod",
+      "account": "Primehod",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "铔嬫€?"
+      ],
+      "tgAlphas": [
+        "铔嬫€?"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-07",
+      "lastSeen": "2026-07-07",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "PrimeHod",
+          "account": "Primehod",
+          "alpha": "铔嬫€?",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/Primehod",
+          "text": "Token launchpad on Robinhood Chain. Fair bonding curve no presale no team allocation. Your liquidity your rules."
+        }
+      ],
+      "text": " PrimeHod Primehod Token launchpad on Robinhood Chain. Fair bonding curve no presale no team allocation. Your liquidity your rules.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/Primehod"
+    },
+    {
       "project": "PRXVT",
       "account": "PRXVTai",
       "sources": [
@@ -30287,6 +31482,38 @@
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": "https://unavatar.io/twitter/PuffiesArt"
+    },
+    {
+      "project": "Pumpville",
+      "account": "PumpvilleWorld",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "鑷湪"
+      ],
+      "tgAlphas": [
+        "鑷湪"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-07",
+      "lastSeen": "2026-07-07",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Pumpville",
+          "account": "PumpvilleWorld",
+          "alpha": "鑷湪",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/PumpvilleWorld",
+          "text": "Social MMO on @solana. Explore gather craft trade and compete in the Arena. @solanamobile Hackathon winner CA: 72FkeF1cpBMtbordhTVNVbBGdaN5DfHcchstHwPWpump"
+        }
+      ],
+      "text": " Pumpville PumpvilleWorld Social MMO on @solana. Explore gather craft trade and compete in the Arena. @solanamobile Hackathon winner CA: 72FkeF1cpBMtbordhTVNVbBGdaN5DfHcchstHwPWpump",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/PumpvilleWorld"
     },
     {
       "project": "Pygmalion",
@@ -31247,6 +32474,38 @@
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": "https://unavatar.io/twitter/sTokensfun"
+    },
+    {
+      "project": "Strat",
+      "account": "strat_erc20",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "N螢O"
+      ],
+      "tgAlphas": [
+        "N螢O"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-07-07",
+      "lastSeen": "2026-07-07",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Strat",
+          "account": "strat_erc20",
+          "alpha": "N螢O",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/strat_erc20",
+          "text": "A memetic on-chain abstraction of MicroStrategy's BTC-per-share dynamics encoded as a Uniswap V4 hook. Not affiliated with Strategy Inc."
+        }
+      ],
+      "text": " Strat strat_erc20 A memetic on-chain abstraction of MicroStrategy's BTC-per-share dynamics encoded as a Uniswap V4 hook. Not affiliated with Strategy Inc.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": "https://unavatar.io/twitter/strat_erc20"
     },
     {
       "project": "Summo",
@@ -34860,6 +36119,84 @@
       "avatarUrl": "https://unavatar.io/twitter/metalntwx"
     },
     {
+      "project": "NOXA",
+      "account": "Noxa_Fi",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "Kingmaker",
+        "_0xzhang",
+        "juesaiquan",
+        "speest 💎",
+        "发誓要做永赚大师💰 关注了 NOXA"
+      ],
+      "tgAlphas": [
+        "Kingmaker",
+        "speest 💎",
+        "发誓要做永赚大师💰 关注了 NOXA"
+      ],
+      "xAlphas": [
+        "_0xzhang",
+        "juesaiquan"
+      ],
+      "mentions": 5,
+      "firstSeen": "2026-06-18",
+      "lastSeen": "2026-07-07",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "NOXA",
+          "account": "Noxa_Fi",
+          "alpha": "speest 💎",
+          "seenAt": "2026-07-03",
+          "messageId": "https://x.com/Noxa_Fi",
+          "text": "Degen DEX and launchpad for new blockchains"
+        },
+        {
+          "source": "TG",
+          "project": "NOXA",
+          "account": "Noxa_Fi",
+          "alpha": "发誓要做永赚大师💰 关注了 NOXA",
+          "seenAt": "2026-07-04",
+          "messageId": "https://x.com/Noxa_Fi",
+          "text": "Degen DEX & Launchpad first on new blockchains. Live even before new chains' official launch! First DegenFi protocol. TG: https://t.co/gLY5Kvry6h Built by @AmunPhantom"
+        },
+        {
+          "source": "TG",
+          "project": "NOXA",
+          "account": "Noxa_Fi",
+          "alpha": "Kingmaker",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/Noxa_Fi",
+          "text": "Degen DEX & Launchpad first on new blockchains. Live even before new chains' official launch! First DegenFi protocol. Built by @AmunPhantom"
+        },
+        {
+          "source": "X",
+          "project": "Noxa_Fi",
+          "account": "Noxa_Fi",
+          "alpha": "_0xzhang",
+          "seenAt": "2026-06-18",
+          "messageId": "2026-06-18-x-partial-_0xzhang.csv",
+          "text": "Degen DEX and Launchpad first on new blockchains"
+        },
+        {
+          "source": "X",
+          "project": "Noxa_Fi",
+          "account": "Noxa_Fi",
+          "alpha": "juesaiquan",
+          "seenAt": "2026-06-18",
+          "messageId": "2026-06-18-x-partial-juesaiquan.csv",
+          "text": "Degen DEX and Launchpad first on new blockchains"
+        }
+      ],
+      "text": " NOXA Noxa_Fi Degen DEX and launchpad for new blockchains NOXA Noxa_Fi Degen DEX & Launchpad first on new blockchains. Live even before new chains' official launch! First DegenFi protocol. TG: https://t.co/gLY5Kvry6h Built by @AmunPhantom NOXA Noxa_Fi Degen DEX & Launchpad first on new blockchains. Live even before new chains' official launch! First DegenFi protocol. Built by @AmunPhantom Noxa_Fi Noxa_Fi Degen DEX and Launchpad first on new blockchains Noxa_Fi Noxa_Fi Degen DEX and Launchpad first on new blockchains",
+      "score": 15,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/Noxa_Fi"
+    },
+    {
       "project": "speculate.xyz",
       "account": "speculatexyz",
       "sources": [
@@ -35743,73 +37080,6 @@
       "score": 13,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/eggzbase"
-    },
-    {
-      "project": "NOXA",
-      "account": "Noxa_Fi",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "_0xzhang",
-        "juesaiquan",
-        "speest 💎",
-        "发誓要做永赚大师💰 关注了 NOXA"
-      ],
-      "tgAlphas": [
-        "speest 💎",
-        "发誓要做永赚大师💰 关注了 NOXA"
-      ],
-      "xAlphas": [
-        "_0xzhang",
-        "juesaiquan"
-      ],
-      "mentions": 4,
-      "firstSeen": "2026-06-18",
-      "lastSeen": "2026-07-04",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "NOXA",
-          "account": "Noxa_Fi",
-          "alpha": "speest 💎",
-          "seenAt": "2026-07-03",
-          "messageId": "https://x.com/Noxa_Fi",
-          "text": "Degen DEX and launchpad for new blockchains"
-        },
-        {
-          "source": "TG",
-          "project": "NOXA",
-          "account": "Noxa_Fi",
-          "alpha": "发誓要做永赚大师💰 关注了 NOXA",
-          "seenAt": "2026-07-04",
-          "messageId": "https://x.com/Noxa_Fi",
-          "text": "Degen DEX & Launchpad first on new blockchains. Live even before new chains' official launch! First DegenFi protocol. TG: https://t.co/gLY5Kvry6h Built by @AmunPhantom"
-        },
-        {
-          "source": "X",
-          "project": "Noxa_Fi",
-          "account": "Noxa_Fi",
-          "alpha": "_0xzhang",
-          "seenAt": "2026-06-18",
-          "messageId": "2026-06-18-x-partial-_0xzhang.csv",
-          "text": "Degen DEX and Launchpad first on new blockchains"
-        },
-        {
-          "source": "X",
-          "project": "Noxa_Fi",
-          "account": "Noxa_Fi",
-          "alpha": "juesaiquan",
-          "seenAt": "2026-06-18",
-          "messageId": "2026-06-18-x-partial-juesaiquan.csv",
-          "text": "Degen DEX and Launchpad first on new blockchains"
-        }
-      ],
-      "text": " NOXA Noxa_Fi Degen DEX and launchpad for new blockchains NOXA Noxa_Fi Degen DEX & Launchpad first on new blockchains. Live even before new chains' official launch! First DegenFi protocol. TG: https://t.co/gLY5Kvry6h Built by @AmunPhantom Noxa_Fi Noxa_Fi Degen DEX and Launchpad first on new blockchains Noxa_Fi Noxa_Fi Degen DEX and Launchpad first on new blockchains",
-      "score": 13,
-      "displayTier": "focus",
-      "avatarUrl": "https://unavatar.io/twitter/Noxa_Fi"
     },
     {
       "project": "Pylona",
@@ -37623,6 +38893,116 @@
       "avatarUrl": "https://unavatar.io/twitter/termdotworks"
     },
     {
+      "project": "Tiny Validators",
+      "account": "tinyvalidators",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "AlphaFries",
+        "alphafries",
+        "铔嬫€?"
+      ],
+      "tgAlphas": [
+        "AlphaFries",
+        "铔嬫€?"
+      ],
+      "xAlphas": [
+        "alphafries"
+      ],
+      "mentions": 3,
+      "firstSeen": "2026-06-27",
+      "lastSeen": "2026-07-07",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Tiny Validators",
+          "account": "tinyvalidators",
+          "alpha": "AlphaFries",
+          "seenAt": "2026-06-27",
+          "messageId": "https://x.com/tinyvalidators",
+          "text": "B20 Base citizen/project collection"
+        },
+        {
+          "source": "TG",
+          "project": "Tiny Validators",
+          "account": "tinyvalidators",
+          "alpha": "铔嬫€?",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/tinyvalidators",
+          "text": "The first citizens of B20 @base"
+        },
+        {
+          "source": "X",
+          "project": "Tiny Validators",
+          "account": "tinyvalidators",
+          "alpha": "alphafries",
+          "seenAt": "2026-06-28",
+          "messageId": "2026-06-28-x-partial-alphafries.csv",
+          "text": "B20 Base citizen/project collection"
+        }
+      ],
+      "text": " Tiny Validators tinyvalidators B20 Base citizen/project collection Tiny Validators tinyvalidators The first citizens of B20 @base Tiny Validators tinyvalidators B20 Base citizen/project collection",
+      "score": 11,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/tinyvalidators"
+    },
+    {
+      "project": "璧锋簮 Origin",
+      "account": "OriginARPG",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "NotVanGogh88",
+        "鑷湪"
+      ],
+      "tgAlphas": [
+        "鑷湪"
+      ],
+      "xAlphas": [
+        "NotVanGogh88"
+      ],
+      "mentions": 3,
+      "firstSeen": "2026-06-28",
+      "lastSeen": "2026-07-07",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "璧锋簮 Origin",
+          "account": "OriginARPG",
+          "alpha": "鑷湪",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/OriginARPG",
+          "text": "A multiplayer online 16-bit pixel art ARPG playable on both browsers and mobile devices. 馃毇 No official token issued. 馃洜锔?Dev: @DFarm_club"
+        },
+        {
+          "source": "X",
+          "project": "Origin ARPG",
+          "account": "OriginARPG",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-28",
+          "messageId": "2026-06-28-x-partial-NotVanGogh88.csv",
+          "text": "Multiplayer 16-bit pixel ARPG for browser and mobile"
+        },
+        {
+          "source": "X",
+          "project": "Origin ARPG",
+          "account": "OriginARPG",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-29",
+          "messageId": "2026-06-29-x-partial-NotVanGogh88.csv",
+          "text": "Multiplayer 16-bit pixel ARPG for browser and mobile"
+        }
+      ],
+      "text": " 璧锋簮 Origin OriginARPG A multiplayer online 16-bit pixel art ARPG playable on both browsers and mobile devices. 馃毇 No official token issued. 馃洜锔?Dev: @DFarm_club Origin ARPG OriginARPG Multiplayer 16-bit pixel ARPG for browser and mobile Origin ARPG OriginARPG Multiplayer 16-bit pixel ARPG for browser and mobile",
+      "score": 10,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/OriginARPG"
+    },
+    {
       "project": "agenomy",
       "account": "agenomylayer",
       "sources": [
@@ -38613,6 +39993,51 @@
       "avatarUrl": "https://unavatar.io/twitter/croakcity"
     },
     {
+      "project": "EvaProtocol",
+      "account": "EvaProtocolBase",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "alphafries",
+        "铔嬫€?"
+      ],
+      "tgAlphas": [
+        "铔嬫€?"
+      ],
+      "xAlphas": [
+        "alphafries"
+      ],
+      "mentions": 2,
+      "firstSeen": "2026-06-25",
+      "lastSeen": "2026-07-07",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "EvaProtocol",
+          "account": "EvaProtocolBase",
+          "alpha": "铔嬫€?",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/EvaProtocolBase",
+          "text": "Open-source AI trading platform. Deploy autonomous agents across 8+ exchanges 24/7."
+        },
+        {
+          "source": "X",
+          "project": "EvaProtocol",
+          "account": "EvaProtocolBase",
+          "alpha": "alphafries",
+          "seenAt": "2026-06-25",
+          "messageId": "2026-06-25-x-partial-alphafries.csv",
+          "text": "Open-source AI trading platform for autonomous agents"
+        }
+      ],
+      "text": " EvaProtocol EvaProtocolBase Open-source AI trading platform. Deploy autonomous agents across 8+ exchanges 24/7. EvaProtocol EvaProtocolBase Open-source AI trading platform for autonomous agents",
+      "score": 9,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/EvaProtocolBase"
+    },
+    {
       "project": "FIFARO 2026",
       "account": "FiFARO26",
       "sources": [
@@ -39196,51 +40621,6 @@
       "score": 9,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/Senthosxyz"
-    },
-    {
-      "project": "Tiny Validators",
-      "account": "tinyvalidators",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "AlphaFries",
-        "alphafries"
-      ],
-      "tgAlphas": [
-        "AlphaFries"
-      ],
-      "xAlphas": [
-        "alphafries"
-      ],
-      "mentions": 2,
-      "firstSeen": "2026-06-27",
-      "lastSeen": "2026-06-28",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Tiny Validators",
-          "account": "tinyvalidators",
-          "alpha": "AlphaFries",
-          "seenAt": "2026-06-27",
-          "messageId": "https://x.com/tinyvalidators",
-          "text": "B20 Base citizen/project collection"
-        },
-        {
-          "source": "X",
-          "project": "Tiny Validators",
-          "account": "tinyvalidators",
-          "alpha": "alphafries",
-          "seenAt": "2026-06-28",
-          "messageId": "2026-06-28-x-partial-alphafries.csv",
-          "text": "B20 Base citizen/project collection"
-        }
-      ],
-      "text": " Tiny Validators tinyvalidators B20 Base citizen/project collection Tiny Validators tinyvalidators B20 Base citizen/project collection",
-      "score": 9,
-      "displayTier": "focus",
-      "avatarUrl": "https://unavatar.io/twitter/tinyvalidators"
     },
     {
       "project": "Vision Wallet",
@@ -42071,6 +43451,84 @@
       "avatarUrl": "https://unavatar.io/twitter/metalntwx"
     },
     {
+      "project": "NOXA",
+      "account": "Noxa_Fi",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "Kingmaker",
+        "_0xzhang",
+        "juesaiquan",
+        "speest 💎",
+        "发誓要做永赚大师💰 关注了 NOXA"
+      ],
+      "tgAlphas": [
+        "Kingmaker",
+        "speest 💎",
+        "发誓要做永赚大师💰 关注了 NOXA"
+      ],
+      "xAlphas": [
+        "_0xzhang",
+        "juesaiquan"
+      ],
+      "mentions": 5,
+      "firstSeen": "2026-06-18",
+      "lastSeen": "2026-07-07",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "NOXA",
+          "account": "Noxa_Fi",
+          "alpha": "speest 💎",
+          "seenAt": "2026-07-03",
+          "messageId": "https://x.com/Noxa_Fi",
+          "text": "Degen DEX and launchpad for new blockchains"
+        },
+        {
+          "source": "TG",
+          "project": "NOXA",
+          "account": "Noxa_Fi",
+          "alpha": "发誓要做永赚大师💰 关注了 NOXA",
+          "seenAt": "2026-07-04",
+          "messageId": "https://x.com/Noxa_Fi",
+          "text": "Degen DEX & Launchpad first on new blockchains. Live even before new chains' official launch! First DegenFi protocol. TG: https://t.co/gLY5Kvry6h Built by @AmunPhantom"
+        },
+        {
+          "source": "TG",
+          "project": "NOXA",
+          "account": "Noxa_Fi",
+          "alpha": "Kingmaker",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/Noxa_Fi",
+          "text": "Degen DEX & Launchpad first on new blockchains. Live even before new chains' official launch! First DegenFi protocol. Built by @AmunPhantom"
+        },
+        {
+          "source": "X",
+          "project": "Noxa_Fi",
+          "account": "Noxa_Fi",
+          "alpha": "_0xzhang",
+          "seenAt": "2026-06-18",
+          "messageId": "2026-06-18-x-partial-_0xzhang.csv",
+          "text": "Degen DEX and Launchpad first on new blockchains"
+        },
+        {
+          "source": "X",
+          "project": "Noxa_Fi",
+          "account": "Noxa_Fi",
+          "alpha": "juesaiquan",
+          "seenAt": "2026-06-18",
+          "messageId": "2026-06-18-x-partial-juesaiquan.csv",
+          "text": "Degen DEX and Launchpad first on new blockchains"
+        }
+      ],
+      "text": " NOXA Noxa_Fi Degen DEX and launchpad for new blockchains NOXA Noxa_Fi Degen DEX & Launchpad first on new blockchains. Live even before new chains' official launch! First DegenFi protocol. TG: https://t.co/gLY5Kvry6h Built by @AmunPhantom NOXA Noxa_Fi Degen DEX & Launchpad first on new blockchains. Live even before new chains' official launch! First DegenFi protocol. Built by @AmunPhantom Noxa_Fi Noxa_Fi Degen DEX and Launchpad first on new blockchains Noxa_Fi Noxa_Fi Degen DEX and Launchpad first on new blockchains",
+      "score": 15,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/Noxa_Fi"
+    },
+    {
       "project": "speculate.xyz",
       "account": "speculatexyz",
       "sources": [
@@ -43071,73 +44529,6 @@
       "score": 13,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/eggzbase"
-    },
-    {
-      "project": "NOXA",
-      "account": "Noxa_Fi",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "_0xzhang",
-        "juesaiquan",
-        "speest 💎",
-        "发誓要做永赚大师💰 关注了 NOXA"
-      ],
-      "tgAlphas": [
-        "speest 💎",
-        "发誓要做永赚大师💰 关注了 NOXA"
-      ],
-      "xAlphas": [
-        "_0xzhang",
-        "juesaiquan"
-      ],
-      "mentions": 4,
-      "firstSeen": "2026-06-18",
-      "lastSeen": "2026-07-04",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "NOXA",
-          "account": "Noxa_Fi",
-          "alpha": "speest 💎",
-          "seenAt": "2026-07-03",
-          "messageId": "https://x.com/Noxa_Fi",
-          "text": "Degen DEX and launchpad for new blockchains"
-        },
-        {
-          "source": "TG",
-          "project": "NOXA",
-          "account": "Noxa_Fi",
-          "alpha": "发誓要做永赚大师💰 关注了 NOXA",
-          "seenAt": "2026-07-04",
-          "messageId": "https://x.com/Noxa_Fi",
-          "text": "Degen DEX & Launchpad first on new blockchains. Live even before new chains' official launch! First DegenFi protocol. TG: https://t.co/gLY5Kvry6h Built by @AmunPhantom"
-        },
-        {
-          "source": "X",
-          "project": "Noxa_Fi",
-          "account": "Noxa_Fi",
-          "alpha": "_0xzhang",
-          "seenAt": "2026-06-18",
-          "messageId": "2026-06-18-x-partial-_0xzhang.csv",
-          "text": "Degen DEX and Launchpad first on new blockchains"
-        },
-        {
-          "source": "X",
-          "project": "Noxa_Fi",
-          "account": "Noxa_Fi",
-          "alpha": "juesaiquan",
-          "seenAt": "2026-06-18",
-          "messageId": "2026-06-18-x-partial-juesaiquan.csv",
-          "text": "Degen DEX and Launchpad first on new blockchains"
-        }
-      ],
-      "text": " NOXA Noxa_Fi Degen DEX and launchpad for new blockchains NOXA Noxa_Fi Degen DEX & Launchpad first on new blockchains. Live even before new chains' official launch! First DegenFi protocol. TG: https://t.co/gLY5Kvry6h Built by @AmunPhantom Noxa_Fi Noxa_Fi Degen DEX and Launchpad first on new blockchains Noxa_Fi Noxa_Fi Degen DEX and Launchpad first on new blockchains",
-      "score": 13,
-      "displayTier": "focus",
-      "avatarUrl": "https://unavatar.io/twitter/Noxa_Fi"
     },
     {
       "project": "Pylona",
@@ -45434,6 +46825,62 @@
       "avatarUrl": "https://unavatar.io/twitter/termdotworks"
     },
     {
+      "project": "Tiny Validators",
+      "account": "tinyvalidators",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "AlphaFries",
+        "alphafries",
+        "铔嬫€?"
+      ],
+      "tgAlphas": [
+        "AlphaFries",
+        "铔嬫€?"
+      ],
+      "xAlphas": [
+        "alphafries"
+      ],
+      "mentions": 3,
+      "firstSeen": "2026-06-27",
+      "lastSeen": "2026-07-07",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Tiny Validators",
+          "account": "tinyvalidators",
+          "alpha": "AlphaFries",
+          "seenAt": "2026-06-27",
+          "messageId": "https://x.com/tinyvalidators",
+          "text": "B20 Base citizen/project collection"
+        },
+        {
+          "source": "TG",
+          "project": "Tiny Validators",
+          "account": "tinyvalidators",
+          "alpha": "铔嬫€?",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/tinyvalidators",
+          "text": "The first citizens of B20 @base"
+        },
+        {
+          "source": "X",
+          "project": "Tiny Validators",
+          "account": "tinyvalidators",
+          "alpha": "alphafries",
+          "seenAt": "2026-06-28",
+          "messageId": "2026-06-28-x-partial-alphafries.csv",
+          "text": "B20 Base citizen/project collection"
+        }
+      ],
+      "text": " Tiny Validators tinyvalidators B20 Base citizen/project collection Tiny Validators tinyvalidators The first citizens of B20 @base Tiny Validators tinyvalidators B20 Base citizen/project collection",
+      "score": 11,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/tinyvalidators"
+    },
+    {
       "project": "Bark on B20 Base",
       "account": "bark2zero",
       "sources": [
@@ -45695,6 +47142,60 @@
       "score": 10,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/mmorpg_fun"
+    },
+    {
+      "project": "璧锋簮 Origin",
+      "account": "OriginARPG",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "NotVanGogh88",
+        "鑷湪"
+      ],
+      "tgAlphas": [
+        "鑷湪"
+      ],
+      "xAlphas": [
+        "NotVanGogh88"
+      ],
+      "mentions": 3,
+      "firstSeen": "2026-06-28",
+      "lastSeen": "2026-07-07",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "璧锋簮 Origin",
+          "account": "OriginARPG",
+          "alpha": "鑷湪",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/OriginARPG",
+          "text": "A multiplayer online 16-bit pixel art ARPG playable on both browsers and mobile devices. 馃毇 No official token issued. 馃洜锔?Dev: @DFarm_club"
+        },
+        {
+          "source": "X",
+          "project": "Origin ARPG",
+          "account": "OriginARPG",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-28",
+          "messageId": "2026-06-28-x-partial-NotVanGogh88.csv",
+          "text": "Multiplayer 16-bit pixel ARPG for browser and mobile"
+        },
+        {
+          "source": "X",
+          "project": "Origin ARPG",
+          "account": "OriginARPG",
+          "alpha": "NotVanGogh88",
+          "seenAt": "2026-06-29",
+          "messageId": "2026-06-29-x-partial-NotVanGogh88.csv",
+          "text": "Multiplayer 16-bit pixel ARPG for browser and mobile"
+        }
+      ],
+      "text": " 璧锋簮 Origin OriginARPG A multiplayer online 16-bit pixel art ARPG playable on both browsers and mobile devices. 馃毇 No official token issued. 馃洜锔?Dev: @DFarm_club Origin ARPG OriginARPG Multiplayer 16-bit pixel ARPG for browser and mobile Origin ARPG OriginARPG Multiplayer 16-bit pixel ARPG for browser and mobile",
+      "score": 10,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/OriginARPG"
     },
     {
       "project": "agenomy",
@@ -47011,6 +48512,51 @@
       "avatarUrl": "https://unavatar.io/twitter/croakcity"
     },
     {
+      "project": "EvaProtocol",
+      "account": "EvaProtocolBase",
+      "sources": [
+        "TG",
+        "X"
+      ],
+      "alphas": [
+        "alphafries",
+        "铔嬫€?"
+      ],
+      "tgAlphas": [
+        "铔嬫€?"
+      ],
+      "xAlphas": [
+        "alphafries"
+      ],
+      "mentions": 2,
+      "firstSeen": "2026-06-25",
+      "lastSeen": "2026-07-07",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "EvaProtocol",
+          "account": "EvaProtocolBase",
+          "alpha": "铔嬫€?",
+          "seenAt": "2026-07-07",
+          "messageId": "https://x.com/EvaProtocolBase",
+          "text": "Open-source AI trading platform. Deploy autonomous agents across 8+ exchanges 24/7."
+        },
+        {
+          "source": "X",
+          "project": "EvaProtocol",
+          "account": "EvaProtocolBase",
+          "alpha": "alphafries",
+          "seenAt": "2026-06-25",
+          "messageId": "2026-06-25-x-partial-alphafries.csv",
+          "text": "Open-source AI trading platform for autonomous agents"
+        }
+      ],
+      "text": " EvaProtocol EvaProtocolBase Open-source AI trading platform. Deploy autonomous agents across 8+ exchanges 24/7. EvaProtocol EvaProtocolBase Open-source AI trading platform for autonomous agents",
+      "score": 9,
+      "displayTier": "focus",
+      "avatarUrl": "https://unavatar.io/twitter/EvaProtocolBase"
+    },
+    {
       "project": "FIFARO 2026",
       "account": "FiFARO26",
       "sources": [
@@ -47594,51 +49140,6 @@
       "score": 9,
       "displayTier": "focus",
       "avatarUrl": "https://unavatar.io/twitter/Senthosxyz"
-    },
-    {
-      "project": "Tiny Validators",
-      "account": "tinyvalidators",
-      "sources": [
-        "TG",
-        "X"
-      ],
-      "alphas": [
-        "AlphaFries",
-        "alphafries"
-      ],
-      "tgAlphas": [
-        "AlphaFries"
-      ],
-      "xAlphas": [
-        "alphafries"
-      ],
-      "mentions": 2,
-      "firstSeen": "2026-06-27",
-      "lastSeen": "2026-06-28",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Tiny Validators",
-          "account": "tinyvalidators",
-          "alpha": "AlphaFries",
-          "seenAt": "2026-06-27",
-          "messageId": "https://x.com/tinyvalidators",
-          "text": "B20 Base citizen/project collection"
-        },
-        {
-          "source": "X",
-          "project": "Tiny Validators",
-          "account": "tinyvalidators",
-          "alpha": "alphafries",
-          "seenAt": "2026-06-28",
-          "messageId": "2026-06-28-x-partial-alphafries.csv",
-          "text": "B20 Base citizen/project collection"
-        }
-      ],
-      "text": " Tiny Validators tinyvalidators B20 Base citizen/project collection Tiny Validators tinyvalidators B20 Base citizen/project collection",
-      "score": 9,
-      "displayTier": "focus",
-      "avatarUrl": "https://unavatar.io/twitter/tinyvalidators"
     },
     {
       "project": "Vision Wallet",
@@ -53179,6 +54680,1338 @@
     }
   ],
   "daily": [
+    {
+      "date": "2026-07-07",
+      "totalRows": 74,
+      "projectCount": 35,
+      "focusCount": 13,
+      "candidateCount": 22,
+      "crossSource": 0,
+      "newCount": 32,
+      "repeatCount": 3,
+      "projects": [
+        {
+          "project": "chompz",
+          "account": "chompzeth",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "AlphaFries",
+            "Kingmaker",
+            "灏忛洦鍊惧煄"
+          ],
+          "tgAlphas": [
+            "AlphaFries",
+            "Kingmaker",
+            "灏忛洦鍊惧煄"
+          ],
+          "xAlphas": [],
+          "mentions": 3,
+          "firstSeen": "2026-07-07",
+          "lastSeen": "2026-07-07",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "chompz",
+              "account": "chompzeth",
+              "alpha": "灏忛洦鍊惧煄",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/chompzeth",
+              "text": "Every Ethereum block leaves behind corrupted nodes. We brought them back."
+            },
+            {
+              "source": "TG",
+              "project": "chompz",
+              "account": "chompzeth",
+              "alpha": "AlphaFries",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/chompzeth",
+              "text": "Every Ethereum block leaves behind corrupted nodes. We brought them back."
+            },
+            {
+              "source": "TG",
+              "project": "chompz",
+              "account": "chompzeth",
+              "alpha": "Kingmaker",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/chompzeth",
+              "text": "Every Ethereum block leaves behind corrupted nodes. We brought them back."
+            }
+          ],
+          "text": " chompz chompzeth Every Ethereum block leaves behind corrupted nodes. We brought them back. chompz chompzeth Every Ethereum block leaves behind corrupted nodes. We brought them back. chompz chompzeth Every Ethereum block leaves behind corrupted nodes. We brought them back.",
+          "score": 6,
+          "displayTier": "focus",
+          "avatarUrl": "https://unavatar.io/twitter/chompzeth",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Robinhook",
+          "account": "rhook_v4",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            ".鉁?輥藮 馃煟",
+            "AlphaFries",
+            "灏忛洦鍊惧煄"
+          ],
+          "tgAlphas": [
+            ".鉁?輥藮 馃煟",
+            "AlphaFries",
+            "灏忛洦鍊惧煄"
+          ],
+          "xAlphas": [],
+          "mentions": 3,
+          "firstSeen": "2026-07-07",
+          "lastSeen": "2026-07-07",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Robinhook",
+              "account": "rhook_v4",
+              "alpha": "灏忛洦鍊惧煄",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/rhook_v4",
+              "text": "Early project from TG follow feed"
+            },
+            {
+              "source": "TG",
+              "project": "Robinhook",
+              "account": "rhook_v4",
+              "alpha": "AlphaFries",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/rhook_v4",
+              "text": "Early project from TG follow feed"
+            },
+            {
+              "source": "TG",
+              "project": "Robinhook",
+              "account": "rhook_v4",
+              "alpha": ".鉁?輥藮 馃煟",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/rhook_v4",
+              "text": "Early project from TG follow feed"
+            }
+          ],
+          "text": " Robinhook rhook_v4 Early project from TG follow feed Robinhook rhook_v4 Early project from TG follow feed Robinhook rhook_v4 Early project from TG follow feed",
+          "score": 6,
+          "displayTier": "focus",
+          "avatarUrl": "https://unavatar.io/twitter/rhook_v4",
+          "dayStatus": "new"
+        },
+        {
+          "project": "ArcCitizens",
+          "account": "ArcCitizens",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "AlphaFries",
+            "Kingmaker"
+          ],
+          "tgAlphas": [
+            "AlphaFries",
+            "Kingmaker"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-07-07",
+          "lastSeen": "2026-07-07",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "ArcCitizens",
+              "account": "ArcCitizens",
+              "alpha": "AlphaFries",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/ArcCitizens",
+              "text": "The first community-owned fully on-chain 10 000 NFT identity collection on Arc."
+            },
+            {
+              "source": "TG",
+              "project": "ArcCitizens",
+              "account": "ArcCitizens",
+              "alpha": "Kingmaker",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/ArcCitizens",
+              "text": "The first community-owned fully on-chain 10 000 NFT identity collection on Arc."
+            }
+          ],
+          "text": " ArcCitizens ArcCitizens The first community-owned fully on-chain 10 000 NFT identity collection on Arc. ArcCitizens ArcCitizens The first community-owned fully on-chain 10 000 NFT identity collection on Arc.",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "https://unavatar.io/twitter/ArcCitizens",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Bracket Bot",
+          "account": "bracketbot",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Kingmaker",
+            "鏂版墜"
+          ],
+          "tgAlphas": [
+            "Kingmaker",
+            "鏂版墜"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-07-07",
+          "lastSeen": "2026-07-07",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Bracket Bot",
+              "account": "bracketbot",
+              "alpha": "Kingmaker",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/bracketbot",
+              "text": "a million robots"
+            },
+            {
+              "source": "TG",
+              "project": "Bracket Bot",
+              "account": "bracketbot",
+              "alpha": "鏂版墜",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/bracketbot",
+              "text": "a million robots"
+            }
+          ],
+          "text": " Bracket Bot bracketbot a million robots Bracket Bot bracketbot a million robots",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "https://unavatar.io/twitter/bracketbot",
+          "dayStatus": "new"
+        },
+        {
+          "project": "CREDENCE",
+          "account": "CREDENCE_intel",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "AlphaFries",
+            "Kingmaker"
+          ],
+          "tgAlphas": [
+            "AlphaFries",
+            "Kingmaker"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-07-07",
+          "lastSeen": "2026-07-07",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "CREDENCE",
+              "account": "CREDENCE_intel",
+              "alpha": "Kingmaker",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/CREDENCE_intel",
+              "text": "Trust intelligence layer for @arc ecosystem"
+            },
+            {
+              "source": "TG",
+              "project": "CREDENCE",
+              "account": "CREDENCE_intel",
+              "alpha": "AlphaFries",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/CREDENCE_intel",
+              "text": "Trust intelligence layer for @arc ecosystem"
+            }
+          ],
+          "text": " CREDENCE CREDENCE_intel Trust intelligence layer for @arc ecosystem CREDENCE CREDENCE_intel Trust intelligence layer for @arc ecosystem",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "https://unavatar.io/twitter/CREDENCE_intel",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Lox the Fox ($LOX)",
+          "account": "loxonhood",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Kingmaker",
+            "N螢O"
+          ],
+          "tgAlphas": [
+            "Kingmaker",
+            "N螢O"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-07-07",
+          "lastSeen": "2026-07-07",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Lox the Fox ($LOX)",
+              "account": "loxonhood",
+              "alpha": "N螢O",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/loxonhood",
+              "text": "The masked fox of Robinhood Chain 馃 Robin of Loxley kept the legend. We kept the stealing. $LOX"
+            },
+            {
+              "source": "TG",
+              "project": "Lox the Fox ($LOX)",
+              "account": "loxonhood",
+              "alpha": "Kingmaker",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/loxonhood",
+              "text": "The masked fox of Robinhood Chain 馃 Robin of Loxley kept the legend. We kept the stealing. $LOX"
+            }
+          ],
+          "text": " Lox the Fox ($LOX) loxonhood The masked fox of Robinhood Chain 馃 Robin of Loxley kept the legend. We kept the stealing. $LOX Lox the Fox ($LOX) loxonhood The masked fox of Robinhood Chain 馃 Robin of Loxley kept the legend. We kept the stealing. $LOX",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "https://unavatar.io/twitter/loxonhood",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Loxley",
+          "account": "loxleyfun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Kingmaker",
+            "N螢O"
+          ],
+          "tgAlphas": [
+            "Kingmaker",
+            "N螢O"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-07-07",
+          "lastSeen": "2026-07-07",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Loxley",
+              "account": "loxleyfun",
+              "alpha": "N螢O",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/loxleyfun",
+              "text": "Early project from TG follow feed"
+            },
+            {
+              "source": "TG",
+              "project": "Loxley",
+              "account": "loxleyfun",
+              "alpha": "Kingmaker",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/loxleyfun",
+              "text": "Early project from TG follow feed"
+            }
+          ],
+          "text": " Loxley loxleyfun Early project from TG follow feed Loxley loxleyfun Early project from TG follow feed",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "https://unavatar.io/twitter/loxleyfun",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Naksha",
+          "account": "Nakshasocial",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "AlphaFries",
+            "Kingmaker"
+          ],
+          "tgAlphas": [
+            "AlphaFries",
+            "Kingmaker"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-07-07",
+          "lastSeen": "2026-07-07",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Naksha",
+              "account": "Nakshasocial",
+              "alpha": "AlphaFries",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/Nakshasocial",
+              "text": "Early project from TG follow feed"
+            },
+            {
+              "source": "TG",
+              "project": "Naksha",
+              "account": "Nakshasocial",
+              "alpha": "Kingmaker",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/Nakshasocial",
+              "text": "Early project from TG follow feed"
+            }
+          ],
+          "text": " Naksha Nakshasocial Early project from TG follow feed Naksha Nakshasocial Early project from TG follow feed",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "https://unavatar.io/twitter/Nakshasocial",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Pool Party Exchange",
+          "account": "PoolPartyDEX",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Kingmaker",
+            "鏂版墜"
+          ],
+          "tgAlphas": [
+            "Kingmaker",
+            "鏂版墜"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-07-07",
+          "lastSeen": "2026-07-07",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Pool Party Exchange",
+              "account": "PoolPartyDEX",
+              "alpha": "Kingmaker",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/PoolPartyDEX",
+              "text": "Early project from TG follow feed"
+            },
+            {
+              "source": "TG",
+              "project": "Pool Party Exchange",
+              "account": "PoolPartyDEX",
+              "alpha": "鏂版墜",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/PoolPartyDEX",
+              "text": "Early project from TG follow feed"
+            }
+          ],
+          "text": " Pool Party Exchange PoolPartyDEX Early project from TG follow feed Pool Party Exchange PoolPartyDEX Early project from TG follow feed",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "https://unavatar.io/twitter/PoolPartyDEX",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Reroll.gg",
+          "account": "rerollcasino",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "AlphaFries",
+            "Kingmaker"
+          ],
+          "tgAlphas": [
+            "AlphaFries",
+            "Kingmaker"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-07-07",
+          "lastSeen": "2026-07-07",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Reroll.gg",
+              "account": "rerollcasino",
+              "alpha": "AlphaFries",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/rerollcasino",
+              "text": "Crypto Casino Coming Soon"
+            },
+            {
+              "source": "TG",
+              "project": "Reroll.gg",
+              "account": "rerollcasino",
+              "alpha": "Kingmaker",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/rerollcasino",
+              "text": "Crypto Casino Coming Soon"
+            }
+          ],
+          "text": " Reroll.gg rerollcasino Crypto Casino Coming Soon Reroll.gg rerollcasino Crypto Casino Coming Soon",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "https://unavatar.io/twitter/rerollcasino",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Seedbound",
+          "account": "seedboundgame",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "AlphaFries",
+            "rez"
+          ],
+          "tgAlphas": [
+            "AlphaFries",
+            "rez"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-07-07",
+          "lastSeen": "2026-07-07",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Seedbound",
+              "account": "seedboundgame",
+              "alpha": "AlphaFries",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/seedboundgame",
+              "text": "Grow harvest and build your little farm on Robinhood Chain 馃尡"
+            },
+            {
+              "source": "TG",
+              "project": "Seedbound",
+              "account": "seedboundgame",
+              "alpha": "rez",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/seedboundgame",
+              "text": "Grow harvest and build your little farm on Robinhood Chain 馃尡"
+            }
+          ],
+          "text": " Seedbound seedboundgame Grow harvest and build your little farm on Robinhood Chain 馃尡 Seedbound seedboundgame Grow harvest and build your little farm on Robinhood Chain 馃尡",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "https://unavatar.io/twitter/seedboundgame",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Warp",
+          "account": "warponarc",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Kingmaker",
+            "灏忛洦鍊惧煄"
+          ],
+          "tgAlphas": [
+            "Kingmaker",
+            "灏忛洦鍊惧煄"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-07-07",
+          "lastSeen": "2026-07-07",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Warp",
+              "account": "warponarc",
+              "alpha": "灏忛洦鍊惧煄",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/warponarc",
+              "text": "The premiere token launchpad and trading terminal on Arc Network. Experience zero-fee bridging with the CCTP intent engine."
+            },
+            {
+              "source": "TG",
+              "project": "Warp",
+              "account": "warponarc",
+              "alpha": "Kingmaker",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/warponarc",
+              "text": "The premiere token launchpad and trading terminal on Arc Network. Experience zero-fee bridging with the CCTP intent engine."
+            }
+          ],
+          "text": " Warp warponarc The premiere token launchpad and trading terminal on Arc Network. Experience zero-fee bridging with the CCTP intent engine. Warp warponarc The premiere token launchpad and trading terminal on Arc Network. Experience zero-fee bridging with the CCTP intent engine.",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "https://unavatar.io/twitter/warponarc",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Zalary | ZCash Payroll",
+          "account": "UseZalary",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            ".鉁?輥藮 馃煟",
+            "Kingmaker"
+          ],
+          "tgAlphas": [
+            ".鉁?輥藮 馃煟",
+            "Kingmaker"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-07-07",
+          "lastSeen": "2026-07-07",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Zalary | ZCash Payroll",
+              "account": "UseZalary",
+              "alpha": ".鉁?輥藮 馃煟",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/UseZalary",
+              "text": "Privacy-first payroll for businesses. Built by @utopiancontrib @adedamolajoke"
+            },
+            {
+              "source": "TG",
+              "project": "Zalary | ZCash Payroll",
+              "account": "UseZalary",
+              "alpha": "Kingmaker",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/UseZalary",
+              "text": "Privacy-first payroll for businesses. Built by @utopiancontrib @adedamolajoke"
+            }
+          ],
+          "text": " Zalary | ZCash Payroll UseZalary Privacy-first payroll for businesses. Built by @utopiancontrib @adedamolajoke Zalary | ZCash Payroll UseZalary Privacy-first payroll for businesses. Built by @utopiancontrib @adedamolajoke",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "https://unavatar.io/twitter/UseZalary",
+          "dayStatus": "new"
+        },
+        {
+          "project": "ArcFi",
+          "account": "ArcFiApp",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Kingmaker"
+          ],
+          "tgAlphas": [
+            "Kingmaker"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-07",
+          "lastSeen": "2026-07-07",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "ArcFi",
+              "account": "ArcFiApp",
+              "alpha": "Kingmaker",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/ArcFiApp",
+              "text": "The liquidity layer for Arc."
+            }
+          ],
+          "text": " ArcFi ArcFiApp The liquidity layer for Arc.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/ArcFiApp",
+          "dayStatus": "new"
+        },
+        {
+          "project": "B20 Horizon",
+          "account": "B20Horizon",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "铔嬫€?"
+          ],
+          "tgAlphas": [
+            "铔嬫€?"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-07",
+          "lastSeen": "2026-07-07",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "B20 Horizon",
+              "account": "B20Horizon",
+              "alpha": "铔嬫€?",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/B20Horizon",
+              "text": "The Gateway for B20 Tokens on Base Coming soon 鈥?Tokenize tomorrow"
+            }
+          ],
+          "text": " B20 Horizon B20Horizon The Gateway for B20 Tokens on Base Coming soon 鈥?Tokenize tomorrow",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/B20Horizon",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Brainbo",
+          "account": "BrainboNFT",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "AlphaFries"
+          ],
+          "tgAlphas": [
+            "AlphaFries"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-07",
+          "lastSeen": "2026-07-07",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Brainbo",
+              "account": "BrainboNFT",
+              "alpha": "AlphaFries",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/BrainboNFT",
+              "text": "Built by idiots. Powered by delusion. Floor is already 100E."
+            }
+          ],
+          "text": " Brainbo BrainboNFT Built by idiots. Powered by delusion. Floor is already 100E.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/BrainboNFT",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Dwell Protocol",
+          "account": "DwellProtocolSo",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BearzVerse"
+          ],
+          "tgAlphas": [
+            "BearzVerse"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-07",
+          "lastSeen": "2026-07-07",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Dwell Protocol",
+              "account": "DwellProtocolSo",
+              "alpha": "BearzVerse",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/DwellProtocolSo",
+              "text": "Earn tokens while you use AI. Buy ads with fiat."
+            }
+          ],
+          "text": " Dwell Protocol DwellProtocolSo Earn tokens while you use AI. Buy ads with fiat.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/DwellProtocolSo",
+          "dayStatus": "new"
+        },
+        {
+          "project": "DYORSWAP",
+          "account": "DYORSWAPDEX",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Kingmaker"
+          ],
+          "tgAlphas": [
+            "Kingmaker"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-07",
+          "lastSeen": "2026-07-07",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "DYORSWAP",
+              "account": "DYORSWAPDEX",
+              "alpha": "Kingmaker",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/DYORSWAPDEX",
+              "text": "Early project from TG follow feed"
+            }
+          ],
+          "text": " DYORSWAP DYORSWAPDEX Early project from TG follow feed",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/DYORSWAPDEX",
+          "dayStatus": "new"
+        },
+        {
+          "project": "EvaProtocol",
+          "account": "EvaProtocolBase",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "铔嬫€?"
+          ],
+          "tgAlphas": [
+            "铔嬫€?"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-07",
+          "lastSeen": "2026-07-07",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "EvaProtocol",
+              "account": "EvaProtocolBase",
+              "alpha": "铔嬫€?",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/EvaProtocolBase",
+              "text": "Open-source AI trading platform. Deploy autonomous agents across 8+ exchanges 24/7."
+            }
+          ],
+          "text": " EvaProtocol EvaProtocolBase Open-source AI trading platform. Deploy autonomous agents across 8+ exchanges 24/7.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/EvaProtocolBase",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Foursight Protocol",
+          "account": "FoursProtocol",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Kingmaker"
+          ],
+          "tgAlphas": [
+            "Kingmaker"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-07",
+          "lastSeen": "2026-07-07",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Foursight Protocol",
+              "account": "FoursProtocol",
+              "alpha": "Kingmaker",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/FoursProtocol",
+              "text": "Best price for GPU compute routed across DePIN."
+            }
+          ],
+          "text": " Foursight Protocol FoursProtocol Best price for GPU compute routed across DePIN.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/FoursProtocol",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Gambid",
+          "account": "GambidGG",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "AlphaFries"
+          ],
+          "tgAlphas": [
+            "AlphaFries"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-07",
+          "lastSeen": "2026-07-07",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Gambid",
+              "account": "GambidGG",
+              "alpha": "AlphaFries",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/GambidGG",
+              "text": "Provably fair. 100% onchain. Instant payouts.聽 No KYC. Built for players."
+            }
+          ],
+          "text": " Gambid GambidGG Provably fair. 100% onchain. Instant payouts.聽 No KYC. Built for players.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/GambidGG",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Hood Markets",
+          "account": "Hooddotmarkets",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Kingmaker"
+          ],
+          "tgAlphas": [
+            "Kingmaker"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-07",
+          "lastSeen": "2026-07-07",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Hood Markets",
+              "account": "Hooddotmarkets",
+              "alpha": "Kingmaker",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/Hooddotmarkets",
+              "text": "Early project from TG follow feed"
+            }
+          ],
+          "text": " Hood Markets Hooddotmarkets Early project from TG follow feed",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/Hooddotmarkets",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Hoodtrade",
+          "account": "usehoodtrade",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "鑷湪"
+          ],
+          "tgAlphas": [
+            "鑷湪"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-07",
+          "lastSeen": "2026-07-07",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Hoodtrade",
+              "account": "usehoodtrade",
+              "alpha": "鑷湪",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/usehoodtrade",
+              "text": "Building an on-chain safety agent for Robinhood Chain."
+            }
+          ],
+          "text": " Hoodtrade usehoodtrade Building an on-chain safety agent for Robinhood Chain.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/usehoodtrade",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Index",
+          "account": "TheIndexFi",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Kingmaker"
+          ],
+          "tgAlphas": [
+            "Kingmaker"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-07",
+          "lastSeen": "2026-07-07",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Index",
+              "account": "TheIndexFi",
+              "alpha": "Kingmaker",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/TheIndexFi",
+              "text": "Stock dividend protocol for robinhood L2鈥檚 tokenized stocks 0x56910D4409F3a0C78C64DD8D0545FF0705389870"
+            }
+          ],
+          "text": " Index TheIndexFi Stock dividend protocol for robinhood L2鈥檚 tokenized stocks 0x56910D4409F3a0C78C64DD8D0545FF0705389870",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/TheIndexFi",
+          "dayStatus": "new"
+        },
+        {
+          "project": "init",
+          "account": "initB20",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "灏忛洦鍊惧煄"
+          ],
+          "tgAlphas": [
+            "灏忛洦鍊惧煄"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-07",
+          "lastSeen": "2026-07-07",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "init",
+              "account": "initB20",
+              "alpha": "灏忛洦鍊惧煄",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/initB20",
+              "text": "$ ./init_b20"
+            }
+          ],
+          "text": " init initB20 $ ./init_b20",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/initB20",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Litebeam",
+          "account": "Litebeam_xyz",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "speest 馃拵"
+          ],
+          "tgAlphas": [
+            "speest 馃拵"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-07",
+          "lastSeen": "2026-07-07",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Litebeam",
+              "account": "Litebeam_xyz",
+              "alpha": "speest 馃拵",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/Litebeam_xyz",
+              "text": "thousands of microservices. Zero API keys. Real-time vendor auctions + on-chain settlement."
+            }
+          ],
+          "text": " Litebeam Litebeam_xyz thousands of microservices. Zero API keys. Real-time vendor auctions + on-chain settlement.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/Litebeam_xyz",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Looters",
+          "account": "Looters_NFT",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "AlphaFries"
+          ],
+          "tgAlphas": [
+            "AlphaFries"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-07",
+          "lastSeen": "2026-07-07",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Looters",
+              "account": "Looters_NFT",
+              "alpha": "AlphaFries",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/Looters_NFT",
+              "text": "Every city has its legends. Ours wear masks..."
+            }
+          ],
+          "text": " Looters Looters_NFT Every city has its legends. Ours wear masks...",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/Looters_NFT",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Memo20",
+          "account": "Memo20_B20",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "铔嬫€?"
+          ],
+          "tgAlphas": [
+            "铔嬫€?"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-07",
+          "lastSeen": "2026-07-07",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Memo20",
+              "account": "Memo20_B20",
+              "alpha": "铔嬫€?",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/Memo20_B20",
+              "text": "Built with the B20 Standard on Base. Mint. Message. Burn. Remember. Every transfer carries a story."
+            }
+          ],
+          "text": " Memo20 Memo20_B20 Built with the B20 Standard on Base. Mint. Message. Burn. Remember. Every transfer carries a story.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/Memo20_B20",
+          "dayStatus": "new"
+        },
+        {
+          "project": "MEWY",
+          "account": "Mewwy_nft",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "AlphaFries"
+          ],
+          "tgAlphas": [
+            "AlphaFries"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-07",
+          "lastSeen": "2026-07-07",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "MEWY",
+              "account": "Mewwy_nft",
+              "alpha": "AlphaFries",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/Mewwy_nft",
+              "text": "馃惥 4 444 tiny chaotic cats with big meows Cute. Collectible. Coming soon on Ethereum Draw a Mewy Earn your Mewylist"
+            }
+          ],
+          "text": " MEWY Mewwy_nft 馃惥 4 444 tiny chaotic cats with big meows Cute. Collectible. Coming soon on Ethereum Draw a Mewy Earn your Mewylist",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/Mewwy_nft",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Onchain Lens",
+          "account": "OnchainLens",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Kingmaker"
+          ],
+          "tgAlphas": [
+            "Kingmaker"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-07",
+          "lastSeen": "2026-07-07",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Onchain Lens",
+              "account": "OnchainLens",
+              "alpha": "Kingmaker",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/OnchainLens",
+              "text": "Simplifying onchain data for the masses."
+            }
+          ],
+          "text": " Onchain Lens OnchainLens Simplifying onchain data for the masses.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/OnchainLens",
+          "dayStatus": "new"
+        },
+        {
+          "project": "OneToken",
+          "account": "Onetokendotfun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "灏忛洦鍊惧煄"
+          ],
+          "tgAlphas": [
+            "灏忛洦鍊惧煄"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-07",
+          "lastSeen": "2026-07-07",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "OneToken",
+              "account": "Onetokendotfun",
+              "alpha": "灏忛洦鍊惧煄",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/Onetokendotfun",
+              "text": "Permissionless token launchpad on Uniswap V4. Zero upfront capital one-sided AMM curve tradeable the moment it lists."
+            }
+          ],
+          "text": " OneToken Onetokendotfun Permissionless token launchpad on Uniswap V4. Zero upfront capital one-sided AMM curve tradeable the moment it lists.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/Onetokendotfun",
+          "dayStatus": "new"
+        },
+        {
+          "project": "PrimeHod",
+          "account": "Primehod",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "铔嬫€?"
+          ],
+          "tgAlphas": [
+            "铔嬫€?"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-07",
+          "lastSeen": "2026-07-07",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "PrimeHod",
+              "account": "Primehod",
+              "alpha": "铔嬫€?",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/Primehod",
+              "text": "Token launchpad on Robinhood Chain. Fair bonding curve no presale no team allocation. Your liquidity your rules."
+            }
+          ],
+          "text": " PrimeHod Primehod Token launchpad on Robinhood Chain. Fair bonding curve no presale no team allocation. Your liquidity your rules.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/Primehod",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Pumpville",
+          "account": "PumpvilleWorld",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "鑷湪"
+          ],
+          "tgAlphas": [
+            "鑷湪"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-07",
+          "lastSeen": "2026-07-07",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Pumpville",
+              "account": "PumpvilleWorld",
+              "alpha": "鑷湪",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/PumpvilleWorld",
+              "text": "Social MMO on @solana. Explore gather craft trade and compete in the Arena. @solanamobile Hackathon winner CA: 72FkeF1cpBMtbordhTVNVbBGdaN5DfHcchstHwPWpump"
+            }
+          ],
+          "text": " Pumpville PumpvilleWorld Social MMO on @solana. Explore gather craft trade and compete in the Arena. @solanamobile Hackathon winner CA: 72FkeF1cpBMtbordhTVNVbBGdaN5DfHcchstHwPWpump",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/PumpvilleWorld",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Strat",
+          "account": "strat_erc20",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "N螢O"
+          ],
+          "tgAlphas": [
+            "N螢O"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-07",
+          "lastSeen": "2026-07-07",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Strat",
+              "account": "strat_erc20",
+              "alpha": "N螢O",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/strat_erc20",
+              "text": "A memetic on-chain abstraction of MicroStrategy's BTC-per-share dynamics encoded as a Uniswap V4 hook. Not affiliated with Strategy Inc."
+            }
+          ],
+          "text": " Strat strat_erc20 A memetic on-chain abstraction of MicroStrategy's BTC-per-share dynamics encoded as a Uniswap V4 hook. Not affiliated with Strategy Inc.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/strat_erc20",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Tiny Validators",
+          "account": "tinyvalidators",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "铔嬫€?"
+          ],
+          "tgAlphas": [
+            "铔嬫€?"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-07-07",
+          "lastSeen": "2026-07-07",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Tiny Validators",
+              "account": "tinyvalidators",
+              "alpha": "铔嬫€?",
+              "seenAt": "2026-07-07",
+              "messageId": "https://x.com/tinyvalidators",
+              "text": "The first citizens of B20 @base"
+            }
+          ],
+          "text": " Tiny Validators tinyvalidators The first citizens of B20 @base",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "https://unavatar.io/twitter/tinyvalidators",
+          "dayStatus": "repeat"
+        }
+      ]
+    },
     {
       "date": "2026-07-06",
       "totalRows": 14,
