@@ -1,8 +1,12 @@
 {
   "channel": "dodtwitterbot",
-  "lastMessageId": 38272,
-  "lastMessageAt": "2026-10-28T23:13:00+08:00",
-  "lastCheckedAt": null,
-  "mode": "browser-baseline",
-  "coverageComplete": true
+  "lastMessageId": 38287,
+  "lastMessageAt": "2026-10-28T16:44:10+00:00",
+  "lastCheckedAt": "2026-10-28T16:51:40.089Z",
+  "previousMessageId": 38272,
+  "pagesRead": 1,
+  "messagesRead": 15,
+  "newProjectRecords": 4,
+  "coverageComplete": true,
+  "mode": "github-actions"
 }

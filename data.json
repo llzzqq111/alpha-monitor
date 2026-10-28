@@ -1,17 +1,21 @@
 {
-  "generatedAt": "2026-10-28T16:17:38.599Z",
+  "generatedAt": "2026-10-28T16:51:40.143Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 38272,
-    "lastMessageAt": "2026-10-28T23:13:00+08:00",
-    "lastCheckedAt": null,
-    "mode": "browser-baseline",
-    "coverageComplete": true
+    "lastMessageId": 38287,
+    "lastMessageAt": "2026-10-28T16:44:10+00:00",
+    "lastCheckedAt": "2026-10-28T16:51:40.089Z",
+    "previousMessageId": 38272,
+    "pagesRead": 1,
+    "messagesRead": 15,
+    "newProjectRecords": 4,
+    "coverageComplete": true,
+    "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 61,
+    "telegramRows": 65,
     "xRows": 0,
-    "projects": 43,
+    "projects": 47,
     "crossSource": 0
   },
   "projects": [
@@ -708,6 +712,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Boxa",
+      "account": "Boxa_Elysium",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "CSR"
+      ],
+      "tgAlphas": [
+        "CSR"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-28T16:39:42+00:00",
+      "lastSeen": "2026-10-28T16:39:42+00:00",
+      "description": "First DEX and launchpad live on Elysium",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Boxa",
+          "account": "Boxa_Elysium",
+          "alpha": "CSR",
+          "seenAt": "2026-10-28T16:39:42+00:00",
+          "messageId": "dodtwitterbot/38286",
+          "description": "First DEX and launchpad live on Elysium",
+          "text": "First DEX and launchpad live on Elysium"
+        }
+      ],
+      "text": " Boxa Boxa_Elysium First DEX and launchpad live on Elysium",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "BTown",
       "account": "btowndotai",
       "sources": [
@@ -946,6 +984,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Elysium Pump",
+      "account": "ElysiumPump",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "CSR"
+      ],
+      "tgAlphas": [
+        "CSR"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-28T16:33:30+00:00",
+      "lastSeen": "2026-10-28T16:33:30+00:00",
+      "description": "First Token Launchpad on Kinetiqs HYPEREVM L2\n\nElysium Pump Protocol Token: https://t.co/WphgscBK6g",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Elysium Pump",
+          "account": "ElysiumPump",
+          "alpha": "CSR",
+          "seenAt": "2026-10-28T16:33:30+00:00",
+          "messageId": "dodtwitterbot/38284",
+          "description": "First Token Launchpad on Kinetiqs HYPEREVM L2\n\nElysium Pump Protocol Token: https://t.co/WphgscBK6g",
+          "text": "First Token Launchpad on Kinetiqs HYPEREVM L2\n\nElysium Pump Protocol Token: https://t.co/WphgscBK6g"
+        }
+      ],
+      "text": " Elysium Pump ElysiumPump First Token Launchpad on Kinetiqs HYPEREVM L2\n\nElysium Pump Protocol Token: https://t.co/WphgscBK6g",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Fishesrh",
       "account": "Fishesrh",
       "sources": [
@@ -1077,6 +1149,74 @@
         }
       ],
       "text": " intelligent dance markets theidmfun underground music made by the market · every swap is a note · $IDM on RH, launched with IMD · cooked by @badfriend",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "JAGER AGENT",
+      "account": "jagerbnb_",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "speest 💎"
+      ],
+      "tgAlphas": [
+        "speest 💎"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-28T16:25:27+00:00",
+      "lastSeen": "2026-10-28T16:25:27+00:00",
+      "description": "Claim your Agent ID → Mint &#036;JAGENT\nAiming to be the most held token on Binance.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "JAGER AGENT",
+          "account": "jagerbnb_",
+          "alpha": "speest 💎",
+          "seenAt": "2026-10-28T16:25:27+00:00",
+          "messageId": "dodtwitterbot/38281",
+          "description": "Claim your Agent ID → Mint &#036;JAGENT\nAiming to be the most held token on Binance.",
+          "text": "Claim your Agent ID → Mint &#036;JAGENT\nAiming to be the most held token on Binance."
+        }
+      ],
+      "text": " JAGER AGENT jagerbnb_ Claim your Agent ID → Mint &#036;JAGENT\nAiming to be the most held token on Binance.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Kinetiq",
+      "account": "Kinetiq_xyz",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "CSR"
+      ],
+      "tgAlphas": [
+        "CSR"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-28T16:32:37+00:00",
+      "lastSeen": "2026-10-28T16:32:37+00:00",
+      "description": "Creators of @Enter_Elysium | @Markets_xyz\n\nX by @KinetiqFND",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Kinetiq",
+          "account": "Kinetiq_xyz",
+          "alpha": "CSR",
+          "seenAt": "2026-10-28T16:32:37+00:00",
+          "messageId": "dodtwitterbot/38283",
+          "description": "Creators of @Enter_Elysium | @Markets_xyz\n\nX by @KinetiqFND",
+          "text": "Creators of @Enter_Elysium | @Markets_xyz\n\nX by @KinetiqFND"
+        }
+      ],
+      "text": " Kinetiq Kinetiq_xyz Creators of @Enter_Elysium | @Markets_xyz\n\nX by @KinetiqFND",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -1912,6 +2052,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Boxa",
+      "x_account": "Boxa_Elysium",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "CSR"
+      ],
+      "description": "First DEX and launchpad live on Elysium",
+      "first_seen_utc": "2026-10-28T16:39:42+00:00",
+      "last_seen_utc": "2026-10-28T16:39:42+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "BTown",
       "x_account": "btowndotai",
       "total_mentions": 1,
@@ -2010,6 +2164,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Elysium Pump",
+      "x_account": "ElysiumPump",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "CSR"
+      ],
+      "description": "First Token Launchpad on Kinetiqs HYPEREVM L2\n\nElysium Pump Protocol Token: https://t.co/WphgscBK6g",
+      "first_seen_utc": "2026-10-28T16:33:30+00:00",
+      "last_seen_utc": "2026-10-28T16:33:30+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Fishesrh",
       "x_account": "Fishesrh",
       "total_mentions": 1,
@@ -2062,6 +2230,34 @@
       "description": "underground music made by the market · every swap is a note · $IDM on RH, launched with IMD · cooked by @badfriend",
       "first_seen_utc": "2026-10-28T21:46:00+08:00",
       "last_seen_utc": "2026-10-28T21:46:00+08:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "JAGER AGENT",
+      "x_account": "jagerbnb_",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "speest 💎"
+      ],
+      "description": "Claim your Agent ID → Mint &#036;JAGENT\nAiming to be the most held token on Binance.",
+      "first_seen_utc": "2026-10-28T16:25:27+00:00",
+      "last_seen_utc": "2026-10-28T16:25:27+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Kinetiq",
+      "x_account": "Kinetiq_xyz",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "CSR"
+      ],
+      "description": "Creators of @Enter_Elysium | @Markets_xyz\n\nX by @KinetiqFND",
+      "first_seen_utc": "2026-10-28T16:32:37+00:00",
+      "last_seen_utc": "2026-10-28T16:32:37+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -2321,14 +2517,155 @@
   "daily": [
     {
       "date": "2026-10-29",
-      "totalRows": 0,
-      "projectCount": 0,
+      "totalRows": 4,
+      "projectCount": 4,
       "focusCount": 0,
-      "candidateCount": 0,
+      "candidateCount": 4,
       "crossSource": 0,
-      "newCount": 0,
+      "newCount": 4,
       "repeatCount": 0,
-      "projects": []
+      "projects": [
+        {
+          "project": "Boxa",
+          "account": "Boxa_Elysium",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "CSR"
+          ],
+          "tgAlphas": [
+            "CSR"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-28T16:39:42+00:00",
+          "lastSeen": "2026-10-28T16:39:42+00:00",
+          "description": "First DEX and launchpad live on Elysium",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Boxa",
+              "account": "Boxa_Elysium",
+              "alpha": "CSR",
+              "seenAt": "2026-10-28T16:39:42+00:00",
+              "messageId": "dodtwitterbot/38286",
+              "description": "First DEX and launchpad live on Elysium",
+              "text": "First DEX and launchpad live on Elysium"
+            }
+          ],
+          "text": " Boxa Boxa_Elysium First DEX and launchpad live on Elysium",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Elysium Pump",
+          "account": "ElysiumPump",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "CSR"
+          ],
+          "tgAlphas": [
+            "CSR"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-28T16:33:30+00:00",
+          "lastSeen": "2026-10-28T16:33:30+00:00",
+          "description": "First Token Launchpad on Kinetiqs HYPEREVM L2\n\nElysium Pump Protocol Token: https://t.co/WphgscBK6g",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Elysium Pump",
+              "account": "ElysiumPump",
+              "alpha": "CSR",
+              "seenAt": "2026-10-28T16:33:30+00:00",
+              "messageId": "dodtwitterbot/38284",
+              "description": "First Token Launchpad on Kinetiqs HYPEREVM L2\n\nElysium Pump Protocol Token: https://t.co/WphgscBK6g",
+              "text": "First Token Launchpad on Kinetiqs HYPEREVM L2\n\nElysium Pump Protocol Token: https://t.co/WphgscBK6g"
+            }
+          ],
+          "text": " Elysium Pump ElysiumPump First Token Launchpad on Kinetiqs HYPEREVM L2\n\nElysium Pump Protocol Token: https://t.co/WphgscBK6g",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "JAGER AGENT",
+          "account": "jagerbnb_",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "speest 💎"
+          ],
+          "tgAlphas": [
+            "speest 💎"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-28T16:25:27+00:00",
+          "lastSeen": "2026-10-28T16:25:27+00:00",
+          "description": "Claim your Agent ID → Mint &#036;JAGENT\nAiming to be the most held token on Binance.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "JAGER AGENT",
+              "account": "jagerbnb_",
+              "alpha": "speest 💎",
+              "seenAt": "2026-10-28T16:25:27+00:00",
+              "messageId": "dodtwitterbot/38281",
+              "description": "Claim your Agent ID → Mint &#036;JAGENT\nAiming to be the most held token on Binance.",
+              "text": "Claim your Agent ID → Mint &#036;JAGENT\nAiming to be the most held token on Binance."
+            }
+          ],
+          "text": " JAGER AGENT jagerbnb_ Claim your Agent ID → Mint &#036;JAGENT\nAiming to be the most held token on Binance.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Kinetiq",
+          "account": "Kinetiq_xyz",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "CSR"
+          ],
+          "tgAlphas": [
+            "CSR"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-28T16:32:37+00:00",
+          "lastSeen": "2026-10-28T16:32:37+00:00",
+          "description": "Creators of @Enter_Elysium | @Markets_xyz\n\nX by @KinetiqFND",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Kinetiq",
+              "account": "Kinetiq_xyz",
+              "alpha": "CSR",
+              "seenAt": "2026-10-28T16:32:37+00:00",
+              "messageId": "dodtwitterbot/38283",
+              "description": "Creators of @Enter_Elysium | @Markets_xyz\n\nX by @KinetiqFND",
+              "text": "Creators of @Enter_Elysium | @Markets_xyz\n\nX by @KinetiqFND"
+            }
+          ],
+          "text": " Kinetiq Kinetiq_xyz Creators of @Enter_Elysium | @Markets_xyz\n\nX by @KinetiqFND",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        }
+      ]
     },
     {
       "date": "2026-10-28",
@@ -4066,9 +4403,14 @@
   ],
   "reports": [
     {
+      "file": "2026-10-28-1651-telegram-update.md",
+      "title": "2026-10-28-1651-telegram-update",
+      "updatedAt": "2026-10-28T16:51:40.089Z"
+    },
+    {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-10-28T15:31:36.559Z"
+      "updatedAt": "2026-10-28T16:51:38.526Z"
     }
   ]
 }
