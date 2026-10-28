@@ -189,7 +189,7 @@ function render() {
   const priority = priorityItems(data);
   const tg = filterItems(data.tgPriority || []);
 
-  $("meta").textContent = `最后生成：${new Date(data.generatedAt).toLocaleString()}，页面每 10 分钟自动刷新`;
+  $("meta").textContent = `最后生成：${new Date(data.generatedAt).toLocaleString()}，页面每 10 分钟检查已发布数据（不代表重新采集 TG）`;
   $("totals").innerHTML = [
     ["总项目", data.totals.projects],
     ["当前重点", priority.length],
