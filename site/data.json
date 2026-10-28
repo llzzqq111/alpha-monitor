@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-10-28T17:33:33.868Z",
+  "generatedAt": "2026-10-28T21:55:15.092Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 38300,
-    "lastMessageAt": "2026-10-28T17:30:18+00:00",
-    "lastCheckedAt": "2026-10-28T17:33:33.801Z",
-    "previousMessageId": 38293,
-    "pagesRead": 1,
-    "messagesRead": 7,
-    "newProjectRecords": 2,
+    "lastMessageId": 38352,
+    "lastMessageAt": "2026-10-28T21:27:17+00:00",
+    "lastCheckedAt": "2026-10-28T21:55:15.003Z",
+    "previousMessageId": 38300,
+    "pagesRead": 3,
+    "messagesRead": 52,
+    "newProjectRecords": 20,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 68,
+    "telegramRows": 88,
     "xRows": 0,
-    "projects": 50,
+    "projects": 61,
     "crossSource": 0
   },
   "projects": [
@@ -120,21 +120,45 @@
         "TG"
       ],
       "alphas": [
+        "BearzVerse",
         "hit.ink",
+        "unsynned",
         "发誓要做永赚大师",
         "阿宏"
       ],
       "tgAlphas": [
+        "BearzVerse",
         "hit.ink",
+        "unsynned",
         "发誓要做永赚大师",
         "阿宏"
       ],
       "xAlphas": [],
-      "mentions": 3,
+      "mentions": 5,
       "firstSeen": "2026-10-28T03:24:00+08:00",
-      "lastSeen": "2026-10-28T14:01:00+08:00",
+      "lastSeen": "2026-10-28T19:14:00+00:00",
       "description": "meme token on uniswap v4 built by the swarm: 30 IMD oracle judges score every plea to sell.\nmainnet soon.",
       "rows": [
+        {
+          "source": "TG",
+          "project": "Plea IMD",
+          "account": "Pleaimd",
+          "alpha": "unsynned",
+          "seenAt": "2026-10-28T18:37:13+00:00",
+          "messageId": "dodtwitterbot/38328",
+          "description": "meme token on uniswap v4 built by the swarm: 30 IMD oracle judges score every plea to sell.\nmainnet soon.",
+          "text": "meme token on uniswap v4 built by the swarm: 30 IMD oracle judges score every plea to sell.\nmainnet soon."
+        },
+        {
+          "source": "TG",
+          "project": "Plea IMD",
+          "account": "Pleaimd",
+          "alpha": "BearzVerse",
+          "seenAt": "2026-10-28T19:14:00+00:00",
+          "messageId": "dodtwitterbot/38339",
+          "description": "meme token on uniswap v4 built by the swarm: 30 IMD oracle judges score every plea to sell.\nmainnet soon.",
+          "text": "meme token on uniswap v4 built by the swarm: 30 IMD oracle judges score every plea to sell.\nmainnet soon."
+        },
         {
           "source": "TG",
           "project": "Plea IMD",
@@ -166,7 +190,135 @@
           "text": "meme token on uniswap v4 built by the swarm: 30 IMD oracle judges score every plea to sell.\nmainnet soon."
         }
       ],
-      "text": " Plea IMD Pleaimd meme token on uniswap v4 built by the swarm: 30 IMD oracle judges score every plea to sell.\nmainnet soon. Plea IMD Pleaimd meme token on uniswap v4 built by the swarm: 30 IMD oracle judges score every plea to sell.\nmainnet soon. Plea IMD Pleaimd meme token on uniswap v4 built by the swarm: 30 IMD oracle judges score every plea to sell.\nmainnet soon.",
+      "text": " Plea IMD Pleaimd meme token on uniswap v4 built by the swarm: 30 IMD oracle judges score every plea to sell.\nmainnet soon. Plea IMD Pleaimd meme token on uniswap v4 built by the swarm: 30 IMD oracle judges score every plea to sell.\nmainnet soon. Plea IMD Pleaimd meme token on uniswap v4 built by the swarm: 30 IMD oracle judges score every plea to sell.\nmainnet soon. Plea IMD Pleaimd meme token on uniswap v4 built by the swarm: 30 IMD oracle judges score every plea to sell.\nmainnet soon. Plea IMD Pleaimd meme token on uniswap v4 built by the swarm: 30 IMD oracle judges score every plea to sell.\nmainnet soon.",
+      "score": 10,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "CABAL",
+      "account": "cabaldotfun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Skrchen666(钻石手伤心版 绝对纸手之人）",
+        "flaxsed",
+        "发誓要做永赚大师",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "Skrchen666(钻石手伤心版 绝对纸手之人）",
+        "flaxsed",
+        "发誓要做永赚大师",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 4,
+      "firstSeen": "2026-10-28T17:40:02+00:00",
+      "lastSeen": "2026-10-28T17:44:31+00:00",
+      "description": "Agent-only launchpad on Ethereum. ERC-8004 agents launch and trade; every call they make is judged on chain a day later.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "CABAL",
+          "account": "cabaldotfun",
+          "alpha": "Skrchen666(钻石手伤心版 绝对纸手之人）",
+          "seenAt": "2026-10-28T17:40:02+00:00",
+          "messageId": "dodtwitterbot/38305",
+          "description": "Agent-only launchpad on Ethereum. ERC-8004 agents launch and trade; every call they make is judged on chain a day later.",
+          "text": "Agent-only launchpad on Ethereum. ERC-8004 agents launch and trade; every call they make is judged on chain a day later."
+        },
+        {
+          "source": "TG",
+          "project": "CABAL",
+          "account": "cabaldotfun",
+          "alpha": "发誓要做永赚大师",
+          "seenAt": "2026-10-28T17:41:50+00:00",
+          "messageId": "dodtwitterbot/38306",
+          "description": "Agent-only launchpad on Ethereum. ERC-8004 agents launch and trade; every call they make is judged on chain a day later.",
+          "text": "Agent-only launchpad on Ethereum. ERC-8004 agents launch and trade; every call they make is judged on chain a day later."
+        },
+        {
+          "source": "TG",
+          "project": "CABAL",
+          "account": "cabaldotfun",
+          "alpha": "阿宏",
+          "seenAt": "2026-10-28T17:42:44+00:00",
+          "messageId": "dodtwitterbot/38307",
+          "description": "Agent-only launchpad on Ethereum. ERC-8004 agents launch and trade; every call they make is judged on chain a day later.",
+          "text": "Agent-only launchpad on Ethereum. ERC-8004 agents launch and trade; every call they make is judged on chain a day later."
+        },
+        {
+          "source": "TG",
+          "project": "CABAL",
+          "account": "cabaldotfun",
+          "alpha": "flaxsed",
+          "seenAt": "2026-10-28T17:44:31+00:00",
+          "messageId": "dodtwitterbot/38308",
+          "description": "Agent-only launchpad on Ethereum. ERC-8004 agents launch and trade; every call they make is judged on chain a day later.",
+          "text": "Agent-only launchpad on Ethereum. ERC-8004 agents launch and trade; every call they make is judged on chain a day later."
+        }
+      ],
+      "text": " CABAL cabaldotfun Agent-only launchpad on Ethereum. ERC-8004 agents launch and trade; every call they make is judged on chain a day later. CABAL cabaldotfun Agent-only launchpad on Ethereum. ERC-8004 agents launch and trade; every call they make is judged on chain a day later. CABAL cabaldotfun Agent-only launchpad on Ethereum. ERC-8004 agents launch and trade; every call they make is judged on chain a day later. CABAL cabaldotfun Agent-only launchpad on Ethereum. ERC-8004 agents launch and trade; every call they make is judged on chain a day later.",
+      "score": 8,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Orbital",
+      "account": "orbitaldotinc",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "hit.ink",
+        "unsynned",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "hit.ink",
+        "unsynned",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-10-28T18:36:20+00:00",
+      "lastSeen": "2026-10-28T23:07:00+08:00",
+      "description": "AI data centers in space",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Orbital",
+          "account": "orbitaldotinc",
+          "alpha": "unsynned",
+          "seenAt": "2026-10-28T18:36:20+00:00",
+          "messageId": "dodtwitterbot/38324",
+          "description": "AI data centers in space",
+          "text": "AI data centers in space"
+        },
+        {
+          "source": "TG",
+          "project": "Orbital",
+          "account": "orbitaldotinc",
+          "alpha": "阿宏",
+          "seenAt": "2026-10-28T18:52:00+08:00",
+          "messageId": "dodtwitterbot/38204",
+          "description": "AI data centers in space",
+          "text": "AI data centers in space"
+        },
+        {
+          "source": "TG",
+          "project": "Orbital",
+          "account": "orbitaldotinc",
+          "alpha": "hit.ink",
+          "seenAt": "2026-10-28T23:07:00+08:00",
+          "messageId": "dodtwitterbot/38270",
+          "description": "AI data centers in space",
+          "text": "AI data centers in space"
+        }
+      ],
+      "text": " Orbital orbitaldotinc AI data centers in space Orbital orbitaldotinc AI data centers in space Orbital orbitaldotinc AI data centers in space",
       "score": 6,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -284,6 +436,52 @@
       ],
       "text": " Torus TorusFi Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium. Torus TorusFi Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium. Torus TorusFi Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium.",
       "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Agentic Pad",
+      "account": "agenticsolfun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Skrchen666(钻石手伤心版 绝对纸手之人）",
+        "flaxsed"
+      ],
+      "tgAlphas": [
+        "Skrchen666(钻石手伤心版 绝对纸手之人）",
+        "flaxsed"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-10-28T17:19:30+00:00",
+      "lastSeen": "2026-10-28T18:05:50+00:00",
+      "description": "The first Binance Agentic Launchpad on Solana",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Agentic Pad",
+          "account": "agenticsolfun",
+          "alpha": "flaxsed",
+          "seenAt": "2026-10-28T17:19:30+00:00",
+          "messageId": "dodtwitterbot/38297",
+          "description": "The first Binance Agentic Launchpad on Solana",
+          "text": "The first Binance Agentic Launchpad on Solana"
+        },
+        {
+          "source": "TG",
+          "project": "Agentic Pad",
+          "account": "agenticsolfun",
+          "alpha": "Skrchen666(钻石手伤心版 绝对纸手之人）",
+          "seenAt": "2026-10-28T18:05:50+00:00",
+          "messageId": "dodtwitterbot/38311",
+          "description": "The first Binance Agentic Launchpad on Solana",
+          "text": "The first Binance Agentic Launchpad on Solana"
+        }
+      ],
+      "text": " Agentic Pad agenticsolfun The first Binance Agentic Launchpad on Solana Agentic Pad agenticsolfun The first Binance Agentic Launchpad on Solana",
+      "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
     },
@@ -421,6 +619,52 @@
         }
       ],
       "text": " ComputeRoll ComputeRollLabs Building Agent ID-gated PoW on BNB Chain. Your agent. Your proof. Coming soon. ComputeRoll ComputeRollLabs Building Agent ID-gated PoW on BNB Chain. Your agent. Your proof. Coming soon.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Elysian Fields",
+      "account": "ElysianFieldNFT",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "发誓要做永赚大师",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "发誓要做永赚大师",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-10-28T05:59:00+08:00",
+      "lastSeen": "2026-10-28T18:47:17+00:00",
+      "description": "The first NFT collection on Elysium mainnet.\nIn myth, only the worthy reached the Elysian Fields. Here, 6,666 plots wait to be planted, grown and turned to gold",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Elysian Fields",
+          "account": "ElysianFieldNFT",
+          "alpha": "发誓要做永赚大师",
+          "seenAt": "2026-10-28T18:47:17+00:00",
+          "messageId": "dodtwitterbot/38334",
+          "description": "The first NFT collection on Elysium mainnet.\nIn myth, only the worthy reached the Elysian Fields. Here, 6,666 plots wait to be planted, grown and turned to gold",
+          "text": "The first NFT collection on Elysium mainnet.\nIn myth, only the worthy reached the Elysian Fields. Here, 6,666 plots wait to be planted, grown and turned to gold"
+        },
+        {
+          "source": "TG",
+          "project": "Elysian Fields",
+          "account": "ElysianFieldNFT",
+          "alpha": "阿宏",
+          "seenAt": "2026-10-28T05:59:00+08:00",
+          "messageId": "dodtwitterbot/38165",
+          "description": "The first NFT collection on Elysium mainnet.\nIn myth, only the worthy reached the Elysian Fields. Here, 6,666 plots wait to be planted, grown and turned to gold",
+          "text": "The first NFT collection on Elysium mainnet.\nIn myth, only the worthy reached the Elysian Fields. Here, 6,666 plots wait to be planted, grown and turned to gold"
+        }
+      ],
+      "text": " Elysian Fields ElysianFieldNFT The first NFT collection on Elysium mainnet.\nIn myth, only the worthy reached the Elysian Fields. Here, 6,666 plots wait to be planted, grown and turned to gold Elysian Fields ElysianFieldNFT The first NFT collection on Elysium mainnet.\nIn myth, only the worthy reached the Elysian Fields. Here, 6,666 plots wait to be planted, grown and turned to gold",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -564,47 +808,47 @@
       "avatarUrl": ""
     },
     {
-      "project": "Orbital",
-      "account": "orbitaldotinc",
+      "project": "Kuip",
+      "account": "KuipFun",
       "sources": [
         "TG"
       ],
       "alphas": [
-        "hit.ink",
-        "阿宏"
+        "flaxsed",
+        "发誓要做永赚大师"
       ],
       "tgAlphas": [
-        "hit.ink",
-        "阿宏"
+        "flaxsed",
+        "发誓要做永赚大师"
       ],
       "xAlphas": [],
       "mentions": 2,
-      "firstSeen": "2026-10-28T18:52:00+08:00",
-      "lastSeen": "2026-10-28T23:07:00+08:00",
-      "description": "AI data centers in space",
+      "firstSeen": "2026-10-28T02:25:00+08:00",
+      "lastSeen": "2026-10-28T18:45:28+00:00",
+      "description": "Multichain fair launches | Anti-snipe | Anti-bundle",
       "rows": [
         {
           "source": "TG",
-          "project": "Orbital",
-          "account": "orbitaldotinc",
-          "alpha": "阿宏",
-          "seenAt": "2026-10-28T18:52:00+08:00",
-          "messageId": "dodtwitterbot/38204",
-          "description": "AI data centers in space",
-          "text": "AI data centers in space"
+          "project": "Kuip",
+          "account": "KuipFun",
+          "alpha": "发誓要做永赚大师",
+          "seenAt": "2026-10-28T18:45:28+00:00",
+          "messageId": "dodtwitterbot/38332",
+          "description": "Multichain fair launches | Anti-snipe | Anti-bundle",
+          "text": "Multichain fair launches | Anti-snipe | Anti-bundle"
         },
         {
           "source": "TG",
-          "project": "Orbital",
-          "account": "orbitaldotinc",
-          "alpha": "hit.ink",
-          "seenAt": "2026-10-28T23:07:00+08:00",
-          "messageId": "dodtwitterbot/38270",
-          "description": "AI data centers in space",
-          "text": "AI data centers in space"
+          "project": "Kuip",
+          "account": "KuipFun",
+          "alpha": "flaxsed",
+          "seenAt": "2026-10-28T02:25:00+08:00",
+          "messageId": "dodtwitterbot/38145",
+          "description": "Multichain fair launches | Anti-snipe | Anti-bundle",
+          "text": "Multichain fair launches | Anti-snipe | Anti-bundle"
         }
       ],
-      "text": " Orbital orbitaldotinc AI data centers in space Orbital orbitaldotinc AI data centers in space",
+      "text": " Kuip KuipFun Multichain fair launches | Anti-snipe | Anti-bundle Kuip KuipFun Multichain fair launches | Anti-snipe | Anti-bundle",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -678,35 +922,69 @@
       "avatarUrl": ""
     },
     {
-      "project": "Agentic Pad",
-      "account": "agenticsolfun",
+      "project": "agentsea",
+      "account": "agentsea_fun",
       "sources": [
         "TG"
       ],
       "alphas": [
-        "flaxsed"
+        "Skrchen666(钻石手伤心版 绝对纸手之人）"
       ],
       "tgAlphas": [
-        "flaxsed"
+        "Skrchen666(钻石手伤心版 绝对纸手之人）"
       ],
       "xAlphas": [],
       "mentions": 1,
-      "firstSeen": "2026-10-28T17:19:30+00:00",
-      "lastSeen": "2026-10-28T17:19:30+00:00",
-      "description": "The first Binance Agentic Launchpad on Solana",
+      "firstSeen": "2026-10-28T18:33:38+00:00",
+      "lastSeen": "2026-10-28T18:33:38+00:00",
+      "description": "Launch a vision. Agents create it. The NFT launchpad.",
       "rows": [
         {
           "source": "TG",
-          "project": "Agentic Pad",
-          "account": "agenticsolfun",
-          "alpha": "flaxsed",
-          "seenAt": "2026-10-28T17:19:30+00:00",
-          "messageId": "dodtwitterbot/38297",
-          "description": "The first Binance Agentic Launchpad on Solana",
-          "text": "The first Binance Agentic Launchpad on Solana"
+          "project": "agentsea",
+          "account": "agentsea_fun",
+          "alpha": "Skrchen666(钻石手伤心版 绝对纸手之人）",
+          "seenAt": "2026-10-28T18:33:38+00:00",
+          "messageId": "dodtwitterbot/38320",
+          "description": "Launch a vision. Agents create it. The NFT launchpad.",
+          "text": "Launch a vision. Agents create it. The NFT launchpad."
         }
       ],
-      "text": " Agentic Pad agenticsolfun The first Binance Agentic Launchpad on Solana",
+      "text": " agentsea agentsea_fun Launch a vision. Agents create it. The NFT launchpad.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Bobby Thakkar",
+      "account": "BobbyThakkar",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka"
+      ],
+      "tgAlphas": [
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-28T19:51:26+00:00",
+      "lastSeen": "2026-10-28T19:51:26+00:00",
+      "description": "☀️ employed @propagandabuild |\n🌙 investing @strobefund |\nprev. coinbase, solana, nfl & redbull",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Bobby Thakkar",
+          "account": "BobbyThakkar",
+          "alpha": "lakka",
+          "seenAt": "2026-10-28T19:51:26+00:00",
+          "messageId": "dodtwitterbot/38342",
+          "description": "☀️ employed @propagandabuild |\n🌙 investing @strobefund |\nprev. coinbase, solana, nfl & redbull",
+          "text": "☀️ employed @propagandabuild |\n🌙 investing @strobefund |\nprev. coinbase, solana, nfl & redbull"
+        }
+      ],
+      "text": " Bobby Thakkar BobbyThakkar ☀️ employed @propagandabuild |\n🌙 investing @strobefund |\nprev. coinbase, solana, nfl & redbull",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -882,6 +1160,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "chief keith",
+      "account": "chiefkeith1000",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "CSR"
+      ],
+      "tgAlphas": [
+        "CSR"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-28T18:32:45+00:00",
+      "lastSeen": "2026-10-28T18:32:45+00:00",
+      "description": "@Kinetiq_xyz | @Enter_Elysium | @Markets_xyz",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "chief keith",
+          "account": "chiefkeith1000",
+          "alpha": "CSR",
+          "seenAt": "2026-10-28T18:32:45+00:00",
+          "messageId": "dodtwitterbot/38318",
+          "description": "@Kinetiq_xyz | @Enter_Elysium | @Markets_xyz",
+          "text": "@Kinetiq_xyz | @Enter_Elysium | @Markets_xyz"
+        }
+      ],
+      "text": " chief keith chiefkeith1000 @Kinetiq_xyz | @Enter_Elysium | @Markets_xyz",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Citadel",
       "account": "citadeldotxyz",
       "sources": [
@@ -1018,35 +1330,35 @@
       "avatarUrl": ""
     },
     {
-      "project": "Elysian Fields",
-      "account": "ElysianFieldNFT",
+      "project": "ELY",
+      "account": "ely__hl",
       "sources": [
         "TG"
       ],
       "alphas": [
-        "阿宏"
+        "flaxsed"
       ],
       "tgAlphas": [
-        "阿宏"
+        "flaxsed"
       ],
       "xAlphas": [],
       "mentions": 1,
-      "firstSeen": "2026-10-28T05:59:00+08:00",
-      "lastSeen": "2026-10-28T05:59:00+08:00",
-      "description": "The first NFT collection on Elysium mainnet.\nIn myth, only the worthy reached the Elysian Fields. Here, 6,666 plots wait to be planted, grown and turned to gold",
+      "firstSeen": "2026-10-28T17:33:53+00:00",
+      "lastSeen": "2026-10-28T17:33:53+00:00",
+      "description": "The first token launched on @Enter_Elysium",
       "rows": [
         {
           "source": "TG",
-          "project": "Elysian Fields",
-          "account": "ElysianFieldNFT",
-          "alpha": "阿宏",
-          "seenAt": "2026-10-28T05:59:00+08:00",
-          "messageId": "dodtwitterbot/38165",
-          "description": "The first NFT collection on Elysium mainnet.\nIn myth, only the worthy reached the Elysian Fields. Here, 6,666 plots wait to be planted, grown and turned to gold",
-          "text": "The first NFT collection on Elysium mainnet.\nIn myth, only the worthy reached the Elysian Fields. Here, 6,666 plots wait to be planted, grown and turned to gold"
+          "project": "ELY",
+          "account": "ely__hl",
+          "alpha": "flaxsed",
+          "seenAt": "2026-10-28T17:33:53+00:00",
+          "messageId": "dodtwitterbot/38301",
+          "description": "The first token launched on @Enter_Elysium",
+          "text": "The first token launched on @Enter_Elysium"
         }
       ],
-      "text": " Elysian Fields ElysianFieldNFT The first NFT collection on Elysium mainnet.\nIn myth, only the worthy reached the Elysian Fields. Here, 6,666 plots wait to be planted, grown and turned to gold",
+      "text": " ELY ely__hl The first token launched on @Enter_Elysium",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -1324,40 +1636,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Kuip",
-      "account": "KuipFun",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "flaxsed"
-      ],
-      "tgAlphas": [
-        "flaxsed"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-10-28T02:25:00+08:00",
-      "lastSeen": "2026-10-28T02:25:00+08:00",
-      "description": "Multichain fair launches | Anti-snipe | Anti-bundle",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Kuip",
-          "account": "KuipFun",
-          "alpha": "flaxsed",
-          "seenAt": "2026-10-28T02:25:00+08:00",
-          "messageId": "dodtwitterbot/38145",
-          "description": "Multichain fair launches | Anti-snipe | Anti-bundle",
-          "text": "Multichain fair launches | Anti-snipe | Anti-bundle"
-        }
-      ],
-      "text": " Kuip KuipFun Multichain fair launches | Anti-snipe | Anti-bundle",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
       "project": "L7",
       "account": "TradeOnL7",
       "sources": [
@@ -1460,6 +1738,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Mehmski",
+      "account": "Mehmski",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "CSR"
+      ],
+      "tgAlphas": [
+        "CSR"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-28T20:38:57+00:00",
+      "lastSeen": "2026-10-28T20:38:57+00:00",
+      "description": "Corporate Tax Lawyer tuned into crypto / Game is game",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Mehmski",
+          "account": "Mehmski",
+          "alpha": "CSR",
+          "seenAt": "2026-10-28T20:38:57+00:00",
+          "messageId": "dodtwitterbot/38346",
+          "description": "Corporate Tax Lawyer tuned into crypto / Game is game",
+          "text": "Corporate Tax Lawyer tuned into crypto / Game is game"
+        }
+      ],
+      "text": " Mehmski Mehmski Corporate Tax Lawyer tuned into crypto / Game is game",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Mining Machine",
       "account": "RigGrid",
       "sources": [
@@ -1523,6 +1835,74 @@
         }
       ],
       "text": " NULORA nuloraio Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "NutshellMarkets",
+      "account": "NutshellMarkets",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka"
+      ],
+      "tgAlphas": [
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-28T20:12:15+00:00",
+      "lastSeen": "2026-10-28T20:12:15+00:00",
+      "description": "Building a treasury designed to grow @squeekchain",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "NutshellMarkets",
+          "account": "NutshellMarkets",
+          "alpha": "lakka",
+          "seenAt": "2026-10-28T20:12:15+00:00",
+          "messageId": "dodtwitterbot/38344",
+          "description": "Building a treasury designed to grow @squeekchain",
+          "text": "Building a treasury designed to grow @squeekchain"
+        }
+      ],
+      "text": " NutshellMarkets NutshellMarkets Building a treasury designed to grow @squeekchain",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Omnia π",
+      "account": "0xOmnia",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "CSR"
+      ],
+      "tgAlphas": [
+        "CSR"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-28T18:47:16+00:00",
+      "lastSeen": "2026-10-28T18:47:16+00:00",
+      "description": "@Kinetiq_xyz | @Markets_xyz | @Enter_Elysium",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Omnia π",
+          "account": "0xOmnia",
+          "alpha": "CSR",
+          "seenAt": "2026-10-28T18:47:16+00:00",
+          "messageId": "dodtwitterbot/38333",
+          "description": "@Kinetiq_xyz | @Markets_xyz | @Enter_Elysium",
+          "text": "@Kinetiq_xyz | @Markets_xyz | @Enter_Elysium"
+        }
+      ],
+      "text": " Omnia π 0xOmnia @Kinetiq_xyz | @Markets_xyz | @Enter_Elysium",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -1732,6 +2112,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Squadz Protocol",
+      "account": "Squadzdotfun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Mutu 🕸️"
+      ],
+      "tgAlphas": [
+        "Mutu 🕸️"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-28T21:22:01+00:00",
+      "lastSeen": "2026-10-28T21:22:01+00:00",
+      "description": "Decentralized fair launch protocol on Solana",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Squadz Protocol",
+          "account": "Squadzdotfun",
+          "alpha": "Mutu 🕸️",
+          "seenAt": "2026-10-28T21:22:01+00:00",
+          "messageId": "dodtwitterbot/38350",
+          "description": "Decentralized fair launch protocol on Solana",
+          "text": "Decentralized fair launch protocol on Solana"
+        }
+      ],
+      "text": " Squadz Protocol Squadzdotfun Decentralized fair launch protocol on Solana",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "SuperToken",
       "account": "supertokenspl",
       "sources": [
@@ -1800,6 +2214,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Twoprint",
+      "account": "twoprintlabs",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "flaxsed"
+      ],
+      "tgAlphas": [
+        "flaxsed"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-28T17:34:46+00:00",
+      "lastSeen": "2026-10-28T17:34:46+00:00",
+      "description": "Synthetic perps on Elysium",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Twoprint",
+          "account": "twoprintlabs",
+          "alpha": "flaxsed",
+          "seenAt": "2026-10-28T17:34:46+00:00",
+          "messageId": "dodtwitterbot/38303",
+          "description": "Synthetic perps on Elysium",
+          "text": "Synthetic perps on Elysium"
+        }
+      ],
+      "text": " Twoprint twoprintlabs Synthetic perps on Elysium",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "UBI.fun on Arc",
       "account": "UBIdotFUN",
       "sources": [
@@ -1829,6 +2277,40 @@
         }
       ],
       "text": " UBI.fun on Arc UBIdotFUN Community-first token launchpad on @Arc. Universal basic income, onchain. https://t.co/yRhVeAj1iF",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "xiaosu",
+      "account": "xiaosu998",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "发誓要做永赚大师"
+      ],
+      "tgAlphas": [
+        "发誓要做永赚大师"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-28T20:10:27+00:00",
+      "lastSeen": "2026-10-28T20:10:27+00:00",
+      "description": "捕捉分享早期信息，一级选手。\n人只需要赢一次\n碎碎念： https://t.co/hCvPW9fTVH\nBitcoin Ordinals Eth",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "xiaosu",
+          "account": "xiaosu998",
+          "alpha": "发誓要做永赚大师",
+          "seenAt": "2026-10-28T20:10:27+00:00",
+          "messageId": "dodtwitterbot/38343",
+          "description": "捕捉分享早期信息，一级选手。\n人只需要赢一次\n碎碎念： https://t.co/hCvPW9fTVH\nBitcoin Ordinals Eth",
+          "text": "捕捉分享早期信息，一级选手。\n人只需要赢一次\n碎碎念： https://t.co/hCvPW9fTVH\nBitcoin Ordinals Eth"
+        }
+      ],
+      "text": " xiaosu xiaosu998 捕捉分享早期信息，一级选手。\n人只需要赢一次\n碎碎念： https://t.co/hCvPW9fTVH\nBitcoin Ordinals Eth",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -1961,16 +2443,51 @@
     {
       "project": "Plea IMD",
       "x_account": "Pleaimd",
-      "total_mentions": 3,
-      "unique_alphas": 3,
+      "total_mentions": 5,
+      "unique_alphas": 5,
       "alphas": [
+        "BearzVerse",
         "hit.ink",
+        "unsynned",
         "发誓要做永赚大师",
         "阿宏"
       ],
       "description": "meme token on uniswap v4 built by the swarm: 30 IMD oracle judges score every plea to sell.\nmainnet soon.",
       "first_seen_utc": "2026-10-28T03:24:00+08:00",
-      "last_seen_utc": "2026-10-28T14:01:00+08:00",
+      "last_seen_utc": "2026-10-28T19:14:00+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
+      "project": "CABAL",
+      "x_account": "cabaldotfun",
+      "total_mentions": 4,
+      "unique_alphas": 4,
+      "alphas": [
+        "Skrchen666(钻石手伤心版 绝对纸手之人）",
+        "flaxsed",
+        "发誓要做永赚大师",
+        "阿宏"
+      ],
+      "description": "Agent-only launchpad on Ethereum. ERC-8004 agents launch and trade; every call they make is judged on chain a day later.",
+      "first_seen_utc": "2026-10-28T17:40:02+00:00",
+      "last_seen_utc": "2026-10-28T17:44:31+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Orbital",
+      "x_account": "orbitaldotinc",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "hit.ink",
+        "unsynned",
+        "阿宏"
+      ],
+      "description": "AI data centers in space",
+      "first_seen_utc": "2026-10-28T18:36:20+00:00",
+      "last_seen_utc": "2026-10-28T23:07:00+08:00",
       "status": "priority",
       "avatarUrl": ""
     },
@@ -2004,6 +2521,21 @@
       "first_seen_utc": "2026-10-28T21:42:00+08:00",
       "last_seen_utc": "2026-10-28T22:01:00+08:00",
       "status": "priority",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Agentic Pad",
+      "x_account": "agenticsolfun",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "Skrchen666(钻石手伤心版 绝对纸手之人）",
+        "flaxsed"
+      ],
+      "description": "The first Binance Agentic Launchpad on Solana",
+      "first_seen_utc": "2026-10-28T17:19:30+00:00",
+      "last_seen_utc": "2026-10-28T18:05:50+00:00",
+      "status": "watch",
       "avatarUrl": ""
     },
     {
@@ -2048,6 +2580,21 @@
       "description": "Building Agent ID-gated PoW on BNB Chain. Your agent. Your proof. Coming soon.",
       "first_seen_utc": "2026-10-28T11:12:00+08:00",
       "last_seen_utc": "2026-10-28T19:04:00+08:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Elysian Fields",
+      "x_account": "ElysianFieldNFT",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "发誓要做永赚大师",
+        "阿宏"
+      ],
+      "description": "The first NFT collection on Elysium mainnet.\nIn myth, only the worthy reached the Elysian Fields. Here, 6,666 plots wait to be planted, grown and turned to gold",
+      "first_seen_utc": "2026-10-28T05:59:00+08:00",
+      "last_seen_utc": "2026-10-28T18:47:17+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -2097,17 +2644,17 @@
       "avatarUrl": ""
     },
     {
-      "project": "Orbital",
-      "x_account": "orbitaldotinc",
+      "project": "Kuip",
+      "x_account": "KuipFun",
       "total_mentions": 2,
       "unique_alphas": 2,
       "alphas": [
-        "hit.ink",
-        "阿宏"
+        "flaxsed",
+        "发誓要做永赚大师"
       ],
-      "description": "AI data centers in space",
-      "first_seen_utc": "2026-10-28T18:52:00+08:00",
-      "last_seen_utc": "2026-10-28T23:07:00+08:00",
+      "description": "Multichain fair launches | Anti-snipe | Anti-bundle",
+      "first_seen_utc": "2026-10-28T02:25:00+08:00",
+      "last_seen_utc": "2026-10-28T18:45:28+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -2140,16 +2687,30 @@
       "avatarUrl": ""
     },
     {
-      "project": "Agentic Pad",
-      "x_account": "agenticsolfun",
+      "project": "agentsea",
+      "x_account": "agentsea_fun",
       "total_mentions": 1,
       "unique_alphas": 1,
       "alphas": [
-        "flaxsed"
+        "Skrchen666(钻石手伤心版 绝对纸手之人）"
       ],
-      "description": "The first Binance Agentic Launchpad on Solana",
-      "first_seen_utc": "2026-10-28T17:19:30+00:00",
-      "last_seen_utc": "2026-10-28T17:19:30+00:00",
+      "description": "Launch a vision. Agents create it. The NFT launchpad.",
+      "first_seen_utc": "2026-10-28T18:33:38+00:00",
+      "last_seen_utc": "2026-10-28T18:33:38+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Bobby Thakkar",
+      "x_account": "BobbyThakkar",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "lakka"
+      ],
+      "description": "☀️ employed @propagandabuild |\n🌙 investing @strobefund |\nprev. coinbase, solana, nfl & redbull",
+      "first_seen_utc": "2026-10-28T19:51:26+00:00",
+      "last_seen_utc": "2026-10-28T19:51:26+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -2224,6 +2785,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "chief keith",
+      "x_account": "chiefkeith1000",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "CSR"
+      ],
+      "description": "@Kinetiq_xyz | @Enter_Elysium | @Markets_xyz",
+      "first_seen_utc": "2026-10-28T18:32:45+00:00",
+      "last_seen_utc": "2026-10-28T18:32:45+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Citadel",
       "x_account": "citadeldotxyz",
       "total_mentions": 1,
@@ -2280,16 +2855,16 @@
       "avatarUrl": ""
     },
     {
-      "project": "Elysian Fields",
-      "x_account": "ElysianFieldNFT",
+      "project": "ELY",
+      "x_account": "ely__hl",
       "total_mentions": 1,
       "unique_alphas": 1,
       "alphas": [
-        "阿宏"
+        "flaxsed"
       ],
-      "description": "The first NFT collection on Elysium mainnet.\nIn myth, only the worthy reached the Elysian Fields. Here, 6,666 plots wait to be planted, grown and turned to gold",
-      "first_seen_utc": "2026-10-28T05:59:00+08:00",
-      "last_seen_utc": "2026-10-28T05:59:00+08:00",
+      "description": "The first token launched on @Enter_Elysium",
+      "first_seen_utc": "2026-10-28T17:33:53+00:00",
+      "last_seen_utc": "2026-10-28T17:33:53+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -2406,20 +2981,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Kuip",
-      "x_account": "KuipFun",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "flaxsed"
-      ],
-      "description": "Multichain fair launches | Anti-snipe | Anti-bundle",
-      "first_seen_utc": "2026-10-28T02:25:00+08:00",
-      "last_seen_utc": "2026-10-28T02:25:00+08:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "L7",
       "x_account": "TradeOnL7",
       "total_mentions": 1,
@@ -2462,6 +3023,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Mehmski",
+      "x_account": "Mehmski",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "CSR"
+      ],
+      "description": "Corporate Tax Lawyer tuned into crypto / Game is game",
+      "first_seen_utc": "2026-10-28T20:38:57+00:00",
+      "last_seen_utc": "2026-10-28T20:38:57+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Mining Machine",
       "x_account": "RigGrid",
       "total_mentions": 1,
@@ -2486,6 +3061,34 @@
       "description": "Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture",
       "first_seen_utc": "2026-10-28T22:26:00+08:00",
       "last_seen_utc": "2026-10-28T22:26:00+08:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "NutshellMarkets",
+      "x_account": "NutshellMarkets",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "lakka"
+      ],
+      "description": "Building a treasury designed to grow @squeekchain",
+      "first_seen_utc": "2026-10-28T20:12:15+00:00",
+      "last_seen_utc": "2026-10-28T20:12:15+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Omnia π",
+      "x_account": "0xOmnia",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "CSR"
+      ],
+      "description": "@Kinetiq_xyz | @Markets_xyz | @Enter_Elysium",
+      "first_seen_utc": "2026-10-28T18:47:16+00:00",
+      "last_seen_utc": "2026-10-28T18:47:16+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -2574,6 +3177,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Squadz Protocol",
+      "x_account": "Squadzdotfun",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "Mutu 🕸️"
+      ],
+      "description": "Decentralized fair launch protocol on Solana",
+      "first_seen_utc": "2026-10-28T21:22:01+00:00",
+      "last_seen_utc": "2026-10-28T21:22:01+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "SuperToken",
       "x_account": "supertokenspl",
       "total_mentions": 1,
@@ -2602,6 +3219,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Twoprint",
+      "x_account": "twoprintlabs",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "flaxsed"
+      ],
+      "description": "Synthetic perps on Elysium",
+      "first_seen_utc": "2026-10-28T17:34:46+00:00",
+      "last_seen_utc": "2026-10-28T17:34:46+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "UBI.fun on Arc",
       "x_account": "UBIdotFUN",
       "total_mentions": 1,
@@ -2612,6 +3243,20 @@
       "description": "Community-first token launchpad on @Arc. Universal basic income, onchain. https://t.co/yRhVeAj1iF",
       "first_seen_utc": "2026-10-28T15:28:00+08:00",
       "last_seen_utc": "2026-10-28T15:28:00+08:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "xiaosu",
+      "x_account": "xiaosu998",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "发誓要做永赚大师"
+      ],
+      "description": "捕捉分享早期信息，一级选手。\n人只需要赢一次\n碎碎念： https://t.co/hCvPW9fTVH\nBitcoin Ordinals Eth",
+      "first_seen_utc": "2026-10-28T20:10:27+00:00",
+      "last_seen_utc": "2026-10-28T20:10:27+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -2661,14 +3306,85 @@
   "daily": [
     {
       "date": "2026-10-29",
-      "totalRows": 7,
-      "projectCount": 7,
-      "focusCount": 0,
-      "candidateCount": 7,
+      "totalRows": 27,
+      "projectCount": 22,
+      "focusCount": 3,
+      "candidateCount": 19,
       "crossSource": 0,
-      "newCount": 7,
-      "repeatCount": 0,
+      "newCount": 18,
+      "repeatCount": 4,
       "projects": [
+        {
+          "project": "CABAL",
+          "account": "cabaldotfun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Skrchen666(钻石手伤心版 绝对纸手之人）",
+            "flaxsed",
+            "发誓要做永赚大师",
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "Skrchen666(钻石手伤心版 绝对纸手之人）",
+            "flaxsed",
+            "发誓要做永赚大师",
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 4,
+          "firstSeen": "2026-10-28T17:40:02+00:00",
+          "lastSeen": "2026-10-28T17:44:31+00:00",
+          "description": "Agent-only launchpad on Ethereum. ERC-8004 agents launch and trade; every call they make is judged on chain a day later.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "CABAL",
+              "account": "cabaldotfun",
+              "alpha": "Skrchen666(钻石手伤心版 绝对纸手之人）",
+              "seenAt": "2026-10-28T17:40:02+00:00",
+              "messageId": "dodtwitterbot/38305",
+              "description": "Agent-only launchpad on Ethereum. ERC-8004 agents launch and trade; every call they make is judged on chain a day later.",
+              "text": "Agent-only launchpad on Ethereum. ERC-8004 agents launch and trade; every call they make is judged on chain a day later."
+            },
+            {
+              "source": "TG",
+              "project": "CABAL",
+              "account": "cabaldotfun",
+              "alpha": "发誓要做永赚大师",
+              "seenAt": "2026-10-28T17:41:50+00:00",
+              "messageId": "dodtwitterbot/38306",
+              "description": "Agent-only launchpad on Ethereum. ERC-8004 agents launch and trade; every call they make is judged on chain a day later.",
+              "text": "Agent-only launchpad on Ethereum. ERC-8004 agents launch and trade; every call they make is judged on chain a day later."
+            },
+            {
+              "source": "TG",
+              "project": "CABAL",
+              "account": "cabaldotfun",
+              "alpha": "阿宏",
+              "seenAt": "2026-10-28T17:42:44+00:00",
+              "messageId": "dodtwitterbot/38307",
+              "description": "Agent-only launchpad on Ethereum. ERC-8004 agents launch and trade; every call they make is judged on chain a day later.",
+              "text": "Agent-only launchpad on Ethereum. ERC-8004 agents launch and trade; every call they make is judged on chain a day later."
+            },
+            {
+              "source": "TG",
+              "project": "CABAL",
+              "account": "cabaldotfun",
+              "alpha": "flaxsed",
+              "seenAt": "2026-10-28T17:44:31+00:00",
+              "messageId": "dodtwitterbot/38308",
+              "description": "Agent-only launchpad on Ethereum. ERC-8004 agents launch and trade; every call they make is judged on chain a day later.",
+              "text": "Agent-only launchpad on Ethereum. ERC-8004 agents launch and trade; every call they make is judged on chain a day later."
+            }
+          ],
+          "text": " CABAL cabaldotfun Agent-only launchpad on Ethereum. ERC-8004 agents launch and trade; every call they make is judged on chain a day later. CABAL cabaldotfun Agent-only launchpad on Ethereum. ERC-8004 agents launch and trade; every call they make is judged on chain a day later. CABAL cabaldotfun Agent-only launchpad on Ethereum. ERC-8004 agents launch and trade; every call they make is judged on chain a day later. CABAL cabaldotfun Agent-only launchpad on Ethereum. ERC-8004 agents launch and trade; every call they make is judged on chain a day later.",
+          "score": 8,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
         {
           "project": "Agentic Pad",
           "account": "agenticsolfun",
@@ -2676,15 +3392,17 @@
             "TG"
           ],
           "alphas": [
+            "Skrchen666(钻石手伤心版 绝对纸手之人）",
             "flaxsed"
           ],
           "tgAlphas": [
+            "Skrchen666(钻石手伤心版 绝对纸手之人）",
             "flaxsed"
           ],
           "xAlphas": [],
-          "mentions": 1,
+          "mentions": 2,
           "firstSeen": "2026-10-28T17:19:30+00:00",
-          "lastSeen": "2026-10-28T17:19:30+00:00",
+          "lastSeen": "2026-10-28T18:05:50+00:00",
           "description": "The first Binance Agentic Launchpad on Solana",
           "rows": [
             {
@@ -2696,9 +3414,136 @@
               "messageId": "dodtwitterbot/38297",
               "description": "The first Binance Agentic Launchpad on Solana",
               "text": "The first Binance Agentic Launchpad on Solana"
+            },
+            {
+              "source": "TG",
+              "project": "Agentic Pad",
+              "account": "agenticsolfun",
+              "alpha": "Skrchen666(钻石手伤心版 绝对纸手之人）",
+              "seenAt": "2026-10-28T18:05:50+00:00",
+              "messageId": "dodtwitterbot/38311",
+              "description": "The first Binance Agentic Launchpad on Solana",
+              "text": "The first Binance Agentic Launchpad on Solana"
             }
           ],
-          "text": " Agentic Pad agenticsolfun The first Binance Agentic Launchpad on Solana",
+          "text": " Agentic Pad agenticsolfun The first Binance Agentic Launchpad on Solana Agentic Pad agenticsolfun The first Binance Agentic Launchpad on Solana",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Plea IMD",
+          "account": "Pleaimd",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BearzVerse",
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "BearzVerse",
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-10-28T18:37:13+00:00",
+          "lastSeen": "2026-10-28T19:14:00+00:00",
+          "description": "meme token on uniswap v4 built by the swarm: 30 IMD oracle judges score every plea to sell.\nmainnet soon.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Plea IMD",
+              "account": "Pleaimd",
+              "alpha": "unsynned",
+              "seenAt": "2026-10-28T18:37:13+00:00",
+              "messageId": "dodtwitterbot/38328",
+              "description": "meme token on uniswap v4 built by the swarm: 30 IMD oracle judges score every plea to sell.\nmainnet soon.",
+              "text": "meme token on uniswap v4 built by the swarm: 30 IMD oracle judges score every plea to sell.\nmainnet soon."
+            },
+            {
+              "source": "TG",
+              "project": "Plea IMD",
+              "account": "Pleaimd",
+              "alpha": "BearzVerse",
+              "seenAt": "2026-10-28T19:14:00+00:00",
+              "messageId": "dodtwitterbot/38339",
+              "description": "meme token on uniswap v4 built by the swarm: 30 IMD oracle judges score every plea to sell.\nmainnet soon.",
+              "text": "meme token on uniswap v4 built by the swarm: 30 IMD oracle judges score every plea to sell.\nmainnet soon."
+            }
+          ],
+          "text": " Plea IMD Pleaimd meme token on uniswap v4 built by the swarm: 30 IMD oracle judges score every plea to sell.\nmainnet soon. Plea IMD Pleaimd meme token on uniswap v4 built by the swarm: 30 IMD oracle judges score every plea to sell.\nmainnet soon.",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "agentsea",
+          "account": "agentsea_fun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Skrchen666(钻石手伤心版 绝对纸手之人）"
+          ],
+          "tgAlphas": [
+            "Skrchen666(钻石手伤心版 绝对纸手之人）"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-28T18:33:38+00:00",
+          "lastSeen": "2026-10-28T18:33:38+00:00",
+          "description": "Launch a vision. Agents create it. The NFT launchpad.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "agentsea",
+              "account": "agentsea_fun",
+              "alpha": "Skrchen666(钻石手伤心版 绝对纸手之人）",
+              "seenAt": "2026-10-28T18:33:38+00:00",
+              "messageId": "dodtwitterbot/38320",
+              "description": "Launch a vision. Agents create it. The NFT launchpad.",
+              "text": "Launch a vision. Agents create it. The NFT launchpad."
+            }
+          ],
+          "text": " agentsea agentsea_fun Launch a vision. Agents create it. The NFT launchpad.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Bobby Thakkar",
+          "account": "BobbyThakkar",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-28T19:51:26+00:00",
+          "lastSeen": "2026-10-28T19:51:26+00:00",
+          "description": "☀️ employed @propagandabuild |\n🌙 investing @strobefund |\nprev. coinbase, solana, nfl & redbull",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Bobby Thakkar",
+              "account": "BobbyThakkar",
+              "alpha": "lakka",
+              "seenAt": "2026-10-28T19:51:26+00:00",
+              "messageId": "dodtwitterbot/38342",
+              "description": "☀️ employed @propagandabuild |\n🌙 investing @strobefund |\nprev. coinbase, solana, nfl & redbull",
+              "text": "☀️ employed @propagandabuild |\n🌙 investing @strobefund |\nprev. coinbase, solana, nfl & redbull"
+            }
+          ],
+          "text": " Bobby Thakkar BobbyThakkar ☀️ employed @propagandabuild |\n🌙 investing @strobefund |\nprev. coinbase, solana, nfl & redbull",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -2740,6 +3585,41 @@
           "dayStatus": "new"
         },
         {
+          "project": "chief keith",
+          "account": "chiefkeith1000",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "CSR"
+          ],
+          "tgAlphas": [
+            "CSR"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-28T18:32:45+00:00",
+          "lastSeen": "2026-10-28T18:32:45+00:00",
+          "description": "@Kinetiq_xyz | @Enter_Elysium | @Markets_xyz",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "chief keith",
+              "account": "chiefkeith1000",
+              "alpha": "CSR",
+              "seenAt": "2026-10-28T18:32:45+00:00",
+              "messageId": "dodtwitterbot/38318",
+              "description": "@Kinetiq_xyz | @Enter_Elysium | @Markets_xyz",
+              "text": "@Kinetiq_xyz | @Enter_Elysium | @Markets_xyz"
+            }
+          ],
+          "text": " chief keith chiefkeith1000 @Kinetiq_xyz | @Enter_Elysium | @Markets_xyz",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
           "project": "ELA.fun",
           "account": "Elaa_fun",
           "sources": [
@@ -2773,6 +3653,76 @@
           "displayTier": "candidate",
           "avatarUrl": "",
           "dayStatus": "new"
+        },
+        {
+          "project": "ELY",
+          "account": "ely__hl",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "flaxsed"
+          ],
+          "tgAlphas": [
+            "flaxsed"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-28T17:33:53+00:00",
+          "lastSeen": "2026-10-28T17:33:53+00:00",
+          "description": "The first token launched on @Enter_Elysium",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "ELY",
+              "account": "ely__hl",
+              "alpha": "flaxsed",
+              "seenAt": "2026-10-28T17:33:53+00:00",
+              "messageId": "dodtwitterbot/38301",
+              "description": "The first token launched on @Enter_Elysium",
+              "text": "The first token launched on @Enter_Elysium"
+            }
+          ],
+          "text": " ELY ely__hl The first token launched on @Enter_Elysium",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Elysian Fields",
+          "account": "ElysianFieldNFT",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "发誓要做永赚大师"
+          ],
+          "tgAlphas": [
+            "发誓要做永赚大师"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-28T18:47:17+00:00",
+          "lastSeen": "2026-10-28T18:47:17+00:00",
+          "description": "The first NFT collection on Elysium mainnet.\nIn myth, only the worthy reached the Elysian Fields. Here, 6,666 plots wait to be planted, grown and turned to gold",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Elysian Fields",
+              "account": "ElysianFieldNFT",
+              "alpha": "发誓要做永赚大师",
+              "seenAt": "2026-10-28T18:47:17+00:00",
+              "messageId": "dodtwitterbot/38334",
+              "description": "The first NFT collection on Elysium mainnet.\nIn myth, only the worthy reached the Elysian Fields. Here, 6,666 plots wait to be planted, grown and turned to gold",
+              "text": "The first NFT collection on Elysium mainnet.\nIn myth, only the worthy reached the Elysian Fields. Here, 6,666 plots wait to be planted, grown and turned to gold"
+            }
+          ],
+          "text": " Elysian Fields ElysianFieldNFT The first NFT collection on Elysium mainnet.\nIn myth, only the worthy reached the Elysian Fields. Here, 6,666 plots wait to be planted, grown and turned to gold",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
         },
         {
           "project": "Elysium Pump",
@@ -2909,6 +3859,286 @@
             }
           ],
           "text": " Kinetiq Kinetiq_xyz Creators of @Enter_Elysium | @Markets_xyz\n\nX by @KinetiqFND",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Kuip",
+          "account": "KuipFun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "发誓要做永赚大师"
+          ],
+          "tgAlphas": [
+            "发誓要做永赚大师"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-28T18:45:28+00:00",
+          "lastSeen": "2026-10-28T18:45:28+00:00",
+          "description": "Multichain fair launches | Anti-snipe | Anti-bundle",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Kuip",
+              "account": "KuipFun",
+              "alpha": "发誓要做永赚大师",
+              "seenAt": "2026-10-28T18:45:28+00:00",
+              "messageId": "dodtwitterbot/38332",
+              "description": "Multichain fair launches | Anti-snipe | Anti-bundle",
+              "text": "Multichain fair launches | Anti-snipe | Anti-bundle"
+            }
+          ],
+          "text": " Kuip KuipFun Multichain fair launches | Anti-snipe | Anti-bundle",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Mehmski",
+          "account": "Mehmski",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "CSR"
+          ],
+          "tgAlphas": [
+            "CSR"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-28T20:38:57+00:00",
+          "lastSeen": "2026-10-28T20:38:57+00:00",
+          "description": "Corporate Tax Lawyer tuned into crypto / Game is game",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Mehmski",
+              "account": "Mehmski",
+              "alpha": "CSR",
+              "seenAt": "2026-10-28T20:38:57+00:00",
+              "messageId": "dodtwitterbot/38346",
+              "description": "Corporate Tax Lawyer tuned into crypto / Game is game",
+              "text": "Corporate Tax Lawyer tuned into crypto / Game is game"
+            }
+          ],
+          "text": " Mehmski Mehmski Corporate Tax Lawyer tuned into crypto / Game is game",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "NutshellMarkets",
+          "account": "NutshellMarkets",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-28T20:12:15+00:00",
+          "lastSeen": "2026-10-28T20:12:15+00:00",
+          "description": "Building a treasury designed to grow @squeekchain",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "NutshellMarkets",
+              "account": "NutshellMarkets",
+              "alpha": "lakka",
+              "seenAt": "2026-10-28T20:12:15+00:00",
+              "messageId": "dodtwitterbot/38344",
+              "description": "Building a treasury designed to grow @squeekchain",
+              "text": "Building a treasury designed to grow @squeekchain"
+            }
+          ],
+          "text": " NutshellMarkets NutshellMarkets Building a treasury designed to grow @squeekchain",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Omnia π",
+          "account": "0xOmnia",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "CSR"
+          ],
+          "tgAlphas": [
+            "CSR"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-28T18:47:16+00:00",
+          "lastSeen": "2026-10-28T18:47:16+00:00",
+          "description": "@Kinetiq_xyz | @Markets_xyz | @Enter_Elysium",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Omnia π",
+              "account": "0xOmnia",
+              "alpha": "CSR",
+              "seenAt": "2026-10-28T18:47:16+00:00",
+              "messageId": "dodtwitterbot/38333",
+              "description": "@Kinetiq_xyz | @Markets_xyz | @Enter_Elysium",
+              "text": "@Kinetiq_xyz | @Markets_xyz | @Enter_Elysium"
+            }
+          ],
+          "text": " Omnia π 0xOmnia @Kinetiq_xyz | @Markets_xyz | @Enter_Elysium",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Orbital",
+          "account": "orbitaldotinc",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-28T18:36:20+00:00",
+          "lastSeen": "2026-10-28T18:36:20+00:00",
+          "description": "AI data centers in space",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Orbital",
+              "account": "orbitaldotinc",
+              "alpha": "unsynned",
+              "seenAt": "2026-10-28T18:36:20+00:00",
+              "messageId": "dodtwitterbot/38324",
+              "description": "AI data centers in space",
+              "text": "AI data centers in space"
+            }
+          ],
+          "text": " Orbital orbitaldotinc AI data centers in space",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Squadz Protocol",
+          "account": "Squadzdotfun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Mutu 🕸️"
+          ],
+          "tgAlphas": [
+            "Mutu 🕸️"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-28T21:22:01+00:00",
+          "lastSeen": "2026-10-28T21:22:01+00:00",
+          "description": "Decentralized fair launch protocol on Solana",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Squadz Protocol",
+              "account": "Squadzdotfun",
+              "alpha": "Mutu 🕸️",
+              "seenAt": "2026-10-28T21:22:01+00:00",
+              "messageId": "dodtwitterbot/38350",
+              "description": "Decentralized fair launch protocol on Solana",
+              "text": "Decentralized fair launch protocol on Solana"
+            }
+          ],
+          "text": " Squadz Protocol Squadzdotfun Decentralized fair launch protocol on Solana",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Twoprint",
+          "account": "twoprintlabs",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "flaxsed"
+          ],
+          "tgAlphas": [
+            "flaxsed"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-28T17:34:46+00:00",
+          "lastSeen": "2026-10-28T17:34:46+00:00",
+          "description": "Synthetic perps on Elysium",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Twoprint",
+              "account": "twoprintlabs",
+              "alpha": "flaxsed",
+              "seenAt": "2026-10-28T17:34:46+00:00",
+              "messageId": "dodtwitterbot/38303",
+              "description": "Synthetic perps on Elysium",
+              "text": "Synthetic perps on Elysium"
+            }
+          ],
+          "text": " Twoprint twoprintlabs Synthetic perps on Elysium",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "xiaosu",
+          "account": "xiaosu998",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "发誓要做永赚大师"
+          ],
+          "tgAlphas": [
+            "发誓要做永赚大师"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-28T20:10:27+00:00",
+          "lastSeen": "2026-10-28T20:10:27+00:00",
+          "description": "捕捉分享早期信息，一级选手。\n人只需要赢一次\n碎碎念： https://t.co/hCvPW9fTVH\nBitcoin Ordinals Eth",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "xiaosu",
+              "account": "xiaosu998",
+              "alpha": "发誓要做永赚大师",
+              "seenAt": "2026-10-28T20:10:27+00:00",
+              "messageId": "dodtwitterbot/38343",
+              "description": "捕捉分享早期信息，一级选手。\n人只需要赢一次\n碎碎念： https://t.co/hCvPW9fTVH\nBitcoin Ordinals Eth",
+              "text": "捕捉分享早期信息，一级选手。\n人只需要赢一次\n碎碎念： https://t.co/hCvPW9fTVH\nBitcoin Ordinals Eth"
+            }
+          ],
+          "text": " xiaosu xiaosu998 捕捉分享早期信息，一级选手。\n人只需要赢一次\n碎碎念： https://t.co/hCvPW9fTVH\nBitcoin Ordinals Eth",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -4652,24 +5882,29 @@
   ],
   "reports": [
     {
+      "file": "2026-10-28-2155-telegram-update.md",
+      "title": "2026-10-28-2155-telegram-update",
+      "updatedAt": "2026-10-28T21:55:15.003Z"
+    },
+    {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-10-28T17:33:33.800Z"
+      "updatedAt": "2026-10-28T21:55:11.826Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-10-28T17:33:31.656Z"
+      "updatedAt": "2026-10-28T21:55:11.826Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-10-28T17:33:31.656Z"
+      "updatedAt": "2026-10-28T21:55:11.826Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-10-28T17:33:31.655Z"
+      "updatedAt": "2026-10-28T21:55:11.826Z"
     }
   ]
 }
