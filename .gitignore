@@ -1,0 +1,7 @@
+node_modules/
+logs/
+_site/
+.deploy/
+github_token.txt
+cloud-monitor.json
+*.log

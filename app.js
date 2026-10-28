@@ -189,7 +189,9 @@ function render() {
   const priority = priorityItems(data);
   const tg = filterItems(data.tgPriority || []);
 
-  $("meta").textContent = `最后生成：${new Date(data.generatedAt).toLocaleString()}，页面每 10 分钟检查已发布数据（不代表重新采集 TG）`;
+  const chinaTime = (value) => new Date(value).toLocaleString("zh-CN", { timeZone: "Asia/Shanghai", hour12: false });
+  const checked = data.collection?.lastCheckedAt ? chinaTime(data.collection.lastCheckedAt) : "尚未自动核验";
+  $("meta").textContent = `TG 最近检查：${checked}；页面生成：${chinaTime(data.generatedAt)}。页面每 10 分钟检查已发布数据，不代表重新采集 TG。`;
   $("totals").innerHTML = [
     ["总项目", data.totals.projects],
     ["当前重点", priority.length],

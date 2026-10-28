@@ -1,6 +1,6 @@
 # Alpha Monitor
 
-TG + X early-project monitoring dashboard.
+Telegram-only early-project monitoring dashboard. See `CLOUD_MONITOR.md` for the four-hour GitHub Actions migration and deployment checks.
 
 Public dashboard files are in the repository root:
 

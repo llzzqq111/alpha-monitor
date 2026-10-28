@@ -1,5 +1,13 @@
 {
-  "generatedAt": "2026-10-28T15:56:55.707Z",
+  "generatedAt": "2026-10-28T16:17:38.599Z",
+  "collection": {
+    "channel": "dodtwitterbot",
+    "lastMessageId": 38272,
+    "lastMessageAt": "2026-10-28T23:13:00+08:00",
+    "lastCheckedAt": null,
+    "mode": "browser-baseline",
+    "coverageComplete": true
+  },
   "totals": {
     "telegramRows": 61,
     "xRows": 0,
@@ -2311,6 +2319,17 @@
     }
   ],
   "daily": [
+    {
+      "date": "2026-10-29",
+      "totalRows": 0,
+      "projectCount": 0,
+      "focusCount": 0,
+      "candidateCount": 0,
+      "crossSource": 0,
+      "newCount": 0,
+      "repeatCount": 0,
+      "projects": []
+    },
     {
       "date": "2026-10-28",
       "totalRows": 61,
