@@ -1,5 +1,39 @@
 const $ = (id) => document.getElementById(id);
-const state = { data: null, query: "", range: "all", day: "" };
+const state = { data: null, query: "", range: "all", day: "", loadError: "" };
+
+function chinaTime(value) {
+  if (!value || !Number.isFinite(Date.parse(value))) return "尚未核验";
+  return new Date(value).toLocaleString("zh-CN", { timeZone: "Asia/Shanghai", hourCycle: "h23" });
+}
+
+function collectionStatus(data, now = Date.now()) {
+  const checked = Date.parse(data.collection?.lastCheckedAt || "");
+  if (!Number.isFinite(checked)) return ["尚无成功检测记录", "status-pending"];
+  if (checked > now + 300_000) return ["检测时间异常，请查看后台", "status-error"];
+  if (data.collection.coverageComplete !== true) return ["最近检测未完整完成", "status-error"];
+  const age = now - checked;
+  if (age > 8 * 3600_000) return ["超过 8 小时未成功检测，请查看后台", "status-error"];
+  if (age > 6 * 3600_000) return ["检测可能延迟，请留意更新时间", "status-delayed"];
+  return ["最近检测成功 · 每 4 小时自动检测", "status-ok"];
+}
+
+function renderFreshness(data) {
+  const [label, className] = state.loadError
+    ? ["网站数据读取失败，当前显示可能不是最新", "status-error"]
+    : collectionStatus(data);
+  $("collection-status").textContent = label;
+  $("collection-status").className = `collection-status ${className}`;
+  const times = [
+    ["最近成功检测 TG", data.collection?.lastCheckedAt, "即使没有新项目，成功检测后此时间也会更新"],
+    ["已读取的最新 TG 消息", data.collection?.lastMessageAt, "实际消息时间，不是页面刷新时间"],
+    ["网站数据更新时间", data.generatedAt, "本次已发布数据的生成时间"],
+  ];
+  $("update-times").innerHTML = times.map(([title, value, detail]) => `<div class="update-time">
+    <span>${escapeHtml(title)}</span>
+    <strong>${escapeHtml(chinaTime(value))}</strong>
+    <small>${escapeHtml(detail)}</small>
+  </div>`).join("");
+}
 
 function escapeHtml(value) {
   return String(value ?? "")
@@ -189,9 +223,10 @@ function render() {
   const priority = priorityItems(data);
   const tg = filterItems(data.tgPriority || []);
 
-  const chinaTime = (value) => new Date(value).toLocaleString("zh-CN", { timeZone: "Asia/Shanghai", hour12: false });
-  const checked = data.collection?.lastCheckedAt ? chinaTime(data.collection.lastCheckedAt) : "尚未自动核验";
-  $("meta").textContent = `TG 最近检查：${checked}；页面生成：${chinaTime(data.generatedAt)}。页面每 10 分钟检查已发布数据，不代表重新采集 TG。`;
+  renderFreshness(data);
+  $("meta").textContent = state.loadError
+    ? `加载失败：${state.loadError}。已保留上次显示的数据，请稍后重试。`
+    : "来源：dodtwitterbot 公开频道。页面每 10 分钟获取已发布数据；刷新网站数据不会立即触发 TG 采集。";
   $("totals").innerHTML = [
     ["总项目", data.totals.projects],
     ["当前重点", priority.length],
@@ -231,11 +266,22 @@ function render() {
 
 async function load() {
   const res = await fetch(`./data.json?t=${Date.now()}`);
+  if (!res.ok) throw new Error(`网站数据请求失败（HTTP ${res.status}）`);
   state.data = await res.json();
+  state.loadError = "";
   render();
 }
 
-$("refresh").addEventListener("click", load);
+function reload() {
+  return load().catch((error) => {
+    state.loadError = error.message;
+    $("meta").textContent = `加载失败：${error.message}。已保留上次显示的数据，请稍后重试。`;
+    $("collection-status").textContent = "网站数据读取失败，当前显示可能不是最新";
+    $("collection-status").className = "collection-status status-error";
+  });
+}
+
+$("refresh").addEventListener("click", reload);
 $("search").addEventListener("input", (event) => {
   state.query = event.target.value;
   render();
@@ -249,7 +295,5 @@ $("day").addEventListener("change", (event) => {
   render();
 });
 
-load().catch((error) => {
-  $("meta").textContent = `加载失败：${error.message}`;
-});
-setInterval(load, 600_000);
+reload();
+setInterval(reload, 600_000);

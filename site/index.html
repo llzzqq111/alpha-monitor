@@ -14,10 +14,19 @@
       <p>仅统计频道中带 [Alpha] 标签的项目关注消息；次数为去重后的 TG 通知数，不是共同关注人数。简介来自项目自述，未经独立核实。</p>
       <p id="meta">加载中...</p>
     </div>
-    <button id="refresh">刷新</button>
+    <button id="refresh">刷新网站数据</button>
   </header>
 
   <main>
+    <section class="freshness" aria-label="数据更新时间">
+      <div class="freshness-heading">
+        <h2>数据更新时间 <span>北京时间</span></h2>
+        <span id="collection-status" class="collection-status status-pending" role="status">正在读取检测状态</span>
+      </div>
+      <div id="update-times" class="update-times"></div>
+      <p class="freshness-note">云端每 4 小时自动读取 TG 并更新网站。没有新的有效记录时，项目列表不变，最近检测时间仍会更新。GitHub 定时运行可能略有延迟。</p>
+    </section>
+
     <section class="filters">
       <input id="search" type="search" placeholder="搜索项目、账号或 Alpha">
       <select id="range">
