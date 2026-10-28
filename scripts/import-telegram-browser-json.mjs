@@ -153,6 +153,8 @@ async function writeReport(newRows, payload) {
 }
 
 async function main() {
+  const { requireLocalPublisher } = await import("./cloud-mode.mjs");
+  requireLocalPublisher(root);
   await fs.mkdir(snapshotsDir, { recursive: true });
   await fs.mkdir(reportsDir, { recursive: true });
   const payload = JSON.parse(await fs.readFile(inputFile, "utf8"));
