@@ -127,6 +127,17 @@ a { color: var(--accent); text-decoration: none; }
   color: var(--muted);
   font-size: 12px;
 }
+.project-description {
+  max-width: 480px;
+  margin-top: 5px;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.4;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+}
 .tag {
   display: inline-block;
   margin: 0 4px 4px 0;

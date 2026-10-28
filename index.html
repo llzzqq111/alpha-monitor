@@ -10,7 +10,7 @@
   <header>
     <div>
       <p class="eyebrow">Alpha Monitor</p>
-      <h1>TG + X 早期项目看板</h1>
+      <h1>Telegram Alpha 项目看板</h1>
       <p id="meta">加载中...</p>
     </div>
     <button id="refresh">刷新</button>
@@ -18,18 +18,12 @@
 
   <main>
     <section class="filters">
-      <input id="search" type="search" placeholder="搜索项目、X 账号或 Alpha">
+      <input id="search" type="search" placeholder="搜索项目、账号或 Alpha">
       <select id="range">
         <option value="all">全部时间</option>
         <option value="6h">最近 6 小时</option>
         <option value="24h">今天 / 24 小时</option>
         <option value="3d">最近 3 天</option>
-      </select>
-      <select id="source">
-        <option value="all">全部来源</option>
-        <option value="cross">TG + X 双来源</option>
-        <option value="tg">只看 TG</option>
-        <option value="x">只看 X</option>
       </select>
       <select id="day">
         <option value="all">全部日期</option>
@@ -49,18 +43,8 @@
     </section>
 
     <section>
-      <h2>TG 和 X 都有提及</h2>
-      <div id="cross"></div>
-    </section>
-
-    <section>
       <h2>TG 出现次数排行</h2>
       <div id="tg"></div>
-    </section>
-
-    <section>
-      <h2>X 多 Alpha 共同关注</h2>
-      <div id="xmulti"></div>
     </section>
 
     <section>
