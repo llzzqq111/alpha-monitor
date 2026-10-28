@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-10-28T17:06:14.737Z",
+  "generatedAt": "2026-10-28T17:33:33.868Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 38293,
-    "lastMessageAt": "2026-10-28T17:02:50+00:00",
-    "lastCheckedAt": "2026-10-28T17:06:14.647Z",
-    "previousMessageId": 38288,
+    "lastMessageId": 38300,
+    "lastMessageAt": "2026-10-28T17:30:18+00:00",
+    "lastCheckedAt": "2026-10-28T17:33:33.801Z",
+    "previousMessageId": 38293,
     "pagesRead": 1,
-    "messagesRead": 5,
-    "newProjectRecords": 1,
+    "messagesRead": 7,
+    "newProjectRecords": 2,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 66,
+    "telegramRows": 68,
     "xRows": 0,
-    "projects": 48,
+    "projects": 50,
     "crossSource": 0
   },
   "projects": [
@@ -678,6 +678,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Agentic Pad",
+      "account": "agenticsolfun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "flaxsed"
+      ],
+      "tgAlphas": [
+        "flaxsed"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-28T17:19:30+00:00",
+      "lastSeen": "2026-10-28T17:19:30+00:00",
+      "description": "The first Binance Agentic Launchpad on Solana",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Agentic Pad",
+          "account": "agenticsolfun",
+          "alpha": "flaxsed",
+          "seenAt": "2026-10-28T17:19:30+00:00",
+          "messageId": "dodtwitterbot/38297",
+          "description": "The first Binance Agentic Launchpad on Solana",
+          "text": "The first Binance Agentic Launchpad on Solana"
+        }
+      ],
+      "text": " Agentic Pad agenticsolfun The first Binance Agentic Launchpad on Solana",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Boiler.games",
       "account": "boilergame",
       "sources": [
@@ -945,6 +979,40 @@
         }
       ],
       "text": " Creora creora_ai Private and uncensored AI meets limitless creation. Chat with powerful models.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "ELA.fun",
+      "account": "Elaa_fun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "地推雷氏"
+      ],
+      "tgAlphas": [
+        "地推雷氏"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-28T17:27:37+00:00",
+      "lastSeen": "2026-10-28T17:27:37+00:00",
+      "description": "The Next Generation Multi-Chain Launchpad & Traffic Growth Network",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "ELA.fun",
+          "account": "Elaa_fun",
+          "alpha": "地推雷氏",
+          "seenAt": "2026-10-28T17:27:37+00:00",
+          "messageId": "dodtwitterbot/38298",
+          "description": "The Next Generation Multi-Chain Launchpad & Traffic Growth Network",
+          "text": "The Next Generation Multi-Chain Launchpad & Traffic Growth Network"
+        }
+      ],
+      "text": " ELA.fun Elaa_fun The Next Generation Multi-Chain Launchpad & Traffic Growth Network",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -2072,6 +2140,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Agentic Pad",
+      "x_account": "agenticsolfun",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "flaxsed"
+      ],
+      "description": "The first Binance Agentic Launchpad on Solana",
+      "first_seen_utc": "2026-10-28T17:19:30+00:00",
+      "last_seen_utc": "2026-10-28T17:19:30+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Boiler.games",
       "x_account": "boilergame",
       "total_mentions": 1,
@@ -2180,6 +2262,20 @@
       "description": "Private and uncensored AI meets limitless creation. Chat with powerful models.",
       "first_seen_utc": "2026-10-28T21:17:00+08:00",
       "last_seen_utc": "2026-10-28T21:17:00+08:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "ELA.fun",
+      "x_account": "Elaa_fun",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "地推雷氏"
+      ],
+      "description": "The Next Generation Multi-Chain Launchpad & Traffic Growth Network",
+      "first_seen_utc": "2026-10-28T17:27:37+00:00",
+      "last_seen_utc": "2026-10-28T17:27:37+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -2565,14 +2661,49 @@
   "daily": [
     {
       "date": "2026-10-29",
-      "totalRows": 5,
-      "projectCount": 5,
+      "totalRows": 7,
+      "projectCount": 7,
       "focusCount": 0,
-      "candidateCount": 5,
+      "candidateCount": 7,
       "crossSource": 0,
-      "newCount": 5,
+      "newCount": 7,
       "repeatCount": 0,
       "projects": [
+        {
+          "project": "Agentic Pad",
+          "account": "agenticsolfun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "flaxsed"
+          ],
+          "tgAlphas": [
+            "flaxsed"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-28T17:19:30+00:00",
+          "lastSeen": "2026-10-28T17:19:30+00:00",
+          "description": "The first Binance Agentic Launchpad on Solana",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Agentic Pad",
+              "account": "agenticsolfun",
+              "alpha": "flaxsed",
+              "seenAt": "2026-10-28T17:19:30+00:00",
+              "messageId": "dodtwitterbot/38297",
+              "description": "The first Binance Agentic Launchpad on Solana",
+              "text": "The first Binance Agentic Launchpad on Solana"
+            }
+          ],
+          "text": " Agentic Pad agenticsolfun The first Binance Agentic Launchpad on Solana",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
         {
           "project": "Boxa",
           "account": "Boxa_Elysium",
@@ -2603,6 +2734,41 @@
             }
           ],
           "text": " Boxa Boxa_Elysium First DEX and launchpad live on Elysium",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "ELA.fun",
+          "account": "Elaa_fun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "地推雷氏"
+          ],
+          "tgAlphas": [
+            "地推雷氏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-28T17:27:37+00:00",
+          "lastSeen": "2026-10-28T17:27:37+00:00",
+          "description": "The Next Generation Multi-Chain Launchpad & Traffic Growth Network",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "ELA.fun",
+              "account": "Elaa_fun",
+              "alpha": "地推雷氏",
+              "seenAt": "2026-10-28T17:27:37+00:00",
+              "messageId": "dodtwitterbot/38298",
+              "description": "The Next Generation Multi-Chain Launchpad & Traffic Growth Network",
+              "text": "The Next Generation Multi-Chain Launchpad & Traffic Growth Network"
+            }
+          ],
+          "text": " ELA.fun Elaa_fun The Next Generation Multi-Chain Launchpad & Traffic Growth Network",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -4486,19 +4652,24 @@
   ],
   "reports": [
     {
+      "file": "2026-10-28-1733-telegram-update.md",
+      "title": "2026-10-28-1733-telegram-update",
+      "updatedAt": "2026-10-28T17:33:33.800Z"
+    },
+    {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-10-28T17:06:14.646Z"
+      "updatedAt": "2026-10-28T17:33:31.656Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-10-28T17:06:10.554Z"
+      "updatedAt": "2026-10-28T17:33:31.656Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-10-28T17:06:10.553Z"
+      "updatedAt": "2026-10-28T17:33:31.655Z"
     }
   ]
 }
