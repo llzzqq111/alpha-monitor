@@ -167,15 +167,15 @@ function renderDaily(data) {
       if (query && !itemText(item).includes(query)) return false;
       return true;
     });
-    const newItems = projects.filter((item) => item.dayStatus === "new");
-    const repeatItems = projects.filter((item) => item.dayStatus === "repeat");
+    const repeatItems = projects.filter((item) => Number(item.mentions || 0) >= 2);
+    const singleItems = projects.filter((item) => Number(item.mentions || 0) < 2);
     return `<div class="day-block">
       <div class="day-title">
         <h3>${escapeHtml(group.date)}</h3>
-        <span>${escapeHtml(group.projectCount)} 个项目 · 新增 ${escapeHtml(group.newCount || 0)} · 再次出现 ${escapeHtml(group.repeatCount || 0)}</span>
+        <span>${escapeHtml(group.projectCount)} 个项目 · 本日多次出现 ${escapeHtml(repeatItems.length)} · 跨日再现 ${escapeHtml(group.repeatCount || 0)}</span>
       </div>
-      ${daySection("今日新增项目", newItems, "这一天暂无新增项目")}
-      ${daySection("今日重复出现 / 多 Alpha 关注", repeatItems, "这一天暂无重复出现项目")}
+      ${daySection("本日多次出现 / 多 Alpha 关注", repeatItems, "这一天暂无多次出现项目")}
+      ${daySection("本日单次出现项目", singleItems, "这一天暂无单次出现项目")}
     </div>`;
   }).join("") || `<div class="table-wrap"><p class="empty">暂无日期数据</p></div>`;
 }
