@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-10-28T17:01:58.488Z",
+  "generatedAt": "2026-10-28T17:06:14.737Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 38288,
-    "lastMessageAt": "2026-10-28T16:56:36+00:00",
-    "lastCheckedAt": "2026-10-28T17:01:58.417Z",
-    "previousMessageId": 38287,
+    "lastMessageId": 38293,
+    "lastMessageAt": "2026-10-28T17:02:50+00:00",
+    "lastCheckedAt": "2026-10-28T17:06:14.647Z",
+    "previousMessageId": 38288,
     "pagesRead": 1,
-    "messagesRead": 1,
-    "newProjectRecords": 0,
+    "messagesRead": 5,
+    "newProjectRecords": 1,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 65,
+    "telegramRows": 66,
     "xRows": 0,
-    "projects": 47,
+    "projects": 48,
     "crossSource": 0
   },
   "projects": [
@@ -1047,6 +1047,40 @@
         }
       ],
       "text": " Fishesrh Fishesrh Hire fishermen in your town, accumulate tokens, and claim $FISHESRH.\n3.333 FREE NFTs on @opensea\nBy @VapeciETH",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Grablab.fun",
+      "account": "Grablabfun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka"
+      ],
+      "tgAlphas": [
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-28T17:02:50+00:00",
+      "lastSeen": "2026-10-28T17:02:50+00:00",
+      "description": "The claw that can't cheat you.\nOn-chain prizes, played live.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Grablab.fun",
+          "account": "Grablabfun",
+          "alpha": "lakka",
+          "seenAt": "2026-10-28T17:02:50+00:00",
+          "messageId": "dodtwitterbot/38293",
+          "description": "The claw that can't cheat you.\nOn-chain prizes, played live.",
+          "text": "The claw that can't cheat you.\nOn-chain prizes, played live."
+        }
+      ],
+      "text": " Grablab.fun Grablabfun The claw that can't cheat you.\nOn-chain prizes, played live.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -2192,6 +2226,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Grablab.fun",
+      "x_account": "Grablabfun",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "lakka"
+      ],
+      "description": "The claw that can't cheat you.\nOn-chain prizes, played live.",
+      "first_seen_utc": "2026-10-28T17:02:50+00:00",
+      "last_seen_utc": "2026-10-28T17:02:50+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Hashstone",
       "x_account": "Hashstone_BSV",
       "total_mentions": 1,
@@ -2517,12 +2565,12 @@
   "daily": [
     {
       "date": "2026-10-29",
-      "totalRows": 4,
-      "projectCount": 4,
+      "totalRows": 5,
+      "projectCount": 5,
       "focusCount": 0,
-      "candidateCount": 4,
+      "candidateCount": 5,
       "crossSource": 0,
-      "newCount": 4,
+      "newCount": 5,
       "repeatCount": 0,
       "projects": [
         {
@@ -2590,6 +2638,41 @@
             }
           ],
           "text": " Elysium Pump ElysiumPump First Token Launchpad on Kinetiqs HYPEREVM L2\n\nElysium Pump Protocol Token: https://t.co/WphgscBK6g",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Grablab.fun",
+          "account": "Grablabfun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-28T17:02:50+00:00",
+          "lastSeen": "2026-10-28T17:02:50+00:00",
+          "description": "The claw that can't cheat you.\nOn-chain prizes, played live.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Grablab.fun",
+              "account": "Grablabfun",
+              "alpha": "lakka",
+              "seenAt": "2026-10-28T17:02:50+00:00",
+              "messageId": "dodtwitterbot/38293",
+              "description": "The claw that can't cheat you.\nOn-chain prizes, played live.",
+              "text": "The claw that can't cheat you.\nOn-chain prizes, played live."
+            }
+          ],
+          "text": " Grablab.fun Grablabfun The claw that can't cheat you.\nOn-chain prizes, played live.",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -4403,14 +4486,19 @@
   ],
   "reports": [
     {
+      "file": "2026-10-28-1706-telegram-update.md",
+      "title": "2026-10-28-1706-telegram-update",
+      "updatedAt": "2026-10-28T17:06:14.646Z"
+    },
+    {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-10-28T17:01:56.846Z"
+      "updatedAt": "2026-10-28T17:06:10.554Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-10-28T17:01:56.845Z"
+      "updatedAt": "2026-10-28T17:06:10.553Z"
     }
   ]
 }
