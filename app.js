@@ -152,7 +152,7 @@ function projectRow(p) {
 function daySection(title, items, empty) {
   return `<div class="subsection">
     <h4>${escapeHtml(title)}</h4>
-    ${table(["项目", "状态", "关注的 Alpha", "出现次数"], items.slice(0, 20).map(projectRow), empty)}
+    ${table(["项目", "状态", "关注的 Alpha", "出现次数"], items.map(projectRow), empty)}
   </div>`;
 }
 
@@ -193,7 +193,7 @@ function render() {
   $("totals").innerHTML = [
     ["总项目", data.totals.projects],
     ["当前重点", priority.length],
-    ["TG 记录", data.totals.telegramRows],
+    ["TG 有效记录", data.totals.telegramRows],
   ].map(([label, value]) => `<div class="card"><span>${label}</span><strong>${escapeHtml(value)}</strong></div>`).join("");
 
   $("priority").innerHTML = table(
@@ -210,7 +210,7 @@ function render() {
 
   $("tg").innerHTML = table(
     ["项目简介", "关注的 Alpha", "TG 出现次数", "热度"],
-    tg.slice(0, 20).map((p) => `<tr>
+    tg.map((p) => `<tr>
       <td>${projectCell(p.project, p.x_account, p.avatarUrl, p.description)}</td>
       <td>${tags(p.alphas || [])}</td>
       <td class="score">${escapeHtml(p.total_mentions)}</td>
