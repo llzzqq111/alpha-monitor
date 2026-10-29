@@ -1,24 +1,130 @@
 {
-  "generatedAt": "2026-10-29T16:27:47.120Z",
+  "generatedAt": "2026-10-29T22:03:34.709Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 38535,
-    "lastMessageAt": "2026-10-29T16:16:06+00:00",
-    "lastCheckedAt": "2026-10-29T16:27:47.058Z",
-    "previousMessageId": 38422,
-    "pagesRead": 6,
-    "messagesRead": 113,
-    "newProjectRecords": 34,
+    "lastMessageId": 38577,
+    "lastMessageAt": "2026-10-29T21:03:12+00:00",
+    "lastCheckedAt": "2026-10-29T22:03:34.608Z",
+    "previousMessageId": 38535,
+    "pagesRead": 3,
+    "messagesRead": 42,
+    "newProjectRecords": 20,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 141,
+    "telegramRows": 161,
     "xRows": 0,
-    "projects": 93,
+    "projects": 103,
     "crossSource": 0
   },
   "projects": [
+    {
+      "project": "Torus",
+      "account": "TorusFi",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Mutu",
+        "flaxsed",
+        "hit.ink",
+        "lakka",
+        "发誓要做永赚大师",
+        "蛋总",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "Mutu",
+        "flaxsed",
+        "hit.ink",
+        "lakka",
+        "发誓要做永赚大师",
+        "蛋总",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 7,
+      "firstSeen": "2026-10-28T21:42:00+08:00",
+      "lastSeen": "2026-10-29T18:02:31+00:00",
+      "description": "Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium .",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Torus",
+          "account": "TorusFi",
+          "alpha": "阿宏",
+          "seenAt": "2026-10-29T11:56:30+00:00",
+          "messageId": "dodtwitterbot/38453",
+          "description": "Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium .",
+          "text": "Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium ."
+        },
+        {
+          "source": "TG",
+          "project": "Torus",
+          "account": "TorusFi",
+          "alpha": "发誓要做永赚大师",
+          "seenAt": "2026-10-29T11:59:02+00:00",
+          "messageId": "dodtwitterbot/38458",
+          "description": "Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium .",
+          "text": "Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium ."
+        },
+        {
+          "source": "TG",
+          "project": "Torus",
+          "account": "TorusFi",
+          "alpha": "蛋总",
+          "seenAt": "2026-10-29T12:40:38+00:00",
+          "messageId": "dodtwitterbot/38495",
+          "description": "Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium .",
+          "text": "Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium ."
+        },
+        {
+          "source": "TG",
+          "project": "Torus",
+          "account": "TorusFi",
+          "alpha": "flaxsed",
+          "seenAt": "2026-10-29T18:02:31+00:00",
+          "messageId": "dodtwitterbot/38563",
+          "description": "Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium .",
+          "text": "Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium ."
+        },
+        {
+          "source": "TG",
+          "project": "Torus",
+          "account": "TorusFi",
+          "alpha": "Mutu",
+          "seenAt": "2026-10-28T21:42:00+08:00",
+          "messageId": "dodtwitterbot/38246",
+          "description": "Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium.",
+          "text": "Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium."
+        },
+        {
+          "source": "TG",
+          "project": "Torus",
+          "account": "TorusFi",
+          "alpha": "hit.ink",
+          "seenAt": "2026-10-28T21:57:00+08:00",
+          "messageId": "dodtwitterbot/38252",
+          "description": "Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium.",
+          "text": "Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium."
+        },
+        {
+          "source": "TG",
+          "project": "Torus",
+          "account": "TorusFi",
+          "alpha": "lakka",
+          "seenAt": "2026-10-28T22:01:00+08:00",
+          "messageId": "dodtwitterbot/38253",
+          "description": "Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium.",
+          "text": "Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium."
+        }
+      ],
+      "text": " Torus TorusFi Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium . Torus TorusFi Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium . Torus TorusFi Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium . Torus TorusFi Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium . Torus TorusFi Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium. Torus TorusFi Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium. Torus TorusFi Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium.",
+      "score": 14,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
     {
       "project": "Mobster",
       "account": "mobster_meme",
@@ -208,96 +314,154 @@
       "avatarUrl": ""
     },
     {
-      "project": "Torus",
-      "account": "TorusFi",
+      "project": "Tokenized Stonks",
+      "account": "tokenizedstonk",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse",
+        "Mutu 🕸️",
+        "hit.ink",
+        "lakka",
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "BearzVerse",
+        "Mutu 🕸️",
+        "hit.ink",
+        "lakka",
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 5,
+      "firstSeen": "2026-10-29T17:39:28+00:00",
+      "lastSeen": "2026-10-29T19:42:43+00:00",
+      "description": "Every stock.\nEvery chain.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Tokenized Stonks",
+          "account": "tokenizedstonk",
+          "alpha": "unsynned",
+          "seenAt": "2026-10-29T17:39:28+00:00",
+          "messageId": "dodtwitterbot/38553",
+          "description": "Every stock.\nEvery chain.",
+          "text": "Every stock.\nEvery chain."
+        },
+        {
+          "source": "TG",
+          "project": "Tokenized Stonks",
+          "account": "tokenizedstonk",
+          "alpha": "Mutu 🕸️",
+          "seenAt": "2026-10-29T17:44:42+00:00",
+          "messageId": "dodtwitterbot/38556",
+          "description": "Every stock.\nEvery chain.",
+          "text": "Every stock.\nEvery chain."
+        },
+        {
+          "source": "TG",
+          "project": "Tokenized Stonks",
+          "account": "tokenizedstonk",
+          "alpha": "hit.ink",
+          "seenAt": "2026-10-29T17:53:52+00:00",
+          "messageId": "dodtwitterbot/38559",
+          "description": "Every stock.\nEvery chain.",
+          "text": "Every stock.\nEvery chain."
+        },
+        {
+          "source": "TG",
+          "project": "Tokenized Stonks",
+          "account": "tokenizedstonk",
+          "alpha": "lakka",
+          "seenAt": "2026-10-29T17:59:54+00:00",
+          "messageId": "dodtwitterbot/38562",
+          "description": "Every stock.\nEvery chain.",
+          "text": "Every stock.\nEvery chain."
+        },
+        {
+          "source": "TG",
+          "project": "Tokenized Stonks",
+          "account": "tokenizedstonk",
+          "alpha": "BearzVerse",
+          "seenAt": "2026-10-29T19:42:43+00:00",
+          "messageId": "dodtwitterbot/38570",
+          "description": "Every stock.\nEvery chain.",
+          "text": "Every stock.\nEvery chain."
+        }
+      ],
+      "text": " Tokenized Stonks tokenizedstonk Every stock.\nEvery chain. Tokenized Stonks tokenizedstonk Every stock.\nEvery chain. Tokenized Stonks tokenizedstonk Every stock.\nEvery chain. Tokenized Stonks tokenizedstonk Every stock.\nEvery chain. Tokenized Stonks tokenizedstonk Every stock.\nEvery chain.",
+      "score": 10,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Ascend",
+      "account": "AscendLaunch",
       "sources": [
         "TG"
       ],
       "alphas": [
         "Mutu",
-        "hit.ink",
-        "lakka",
-        "发誓要做永赚大师",
-        "蛋总",
-        "阿宏"
+        "flaxsed",
+        "speest",
+        "叶子君Foliage ◎ 🔶"
       ],
       "tgAlphas": [
         "Mutu",
-        "hit.ink",
-        "lakka",
-        "发誓要做永赚大师",
-        "蛋总",
-        "阿宏"
+        "flaxsed",
+        "speest",
+        "叶子君Foliage ◎ 🔶"
       ],
       "xAlphas": [],
-      "mentions": 6,
-      "firstSeen": "2026-10-28T21:42:00+08:00",
-      "lastSeen": "2026-10-29T12:40:38+00:00",
-      "description": "Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium .",
+      "mentions": 4,
+      "firstSeen": "2026-10-28T21:55:00+08:00",
+      "lastSeen": "2026-10-29T18:02:31+00:00",
+      "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
       "rows": [
         {
           "source": "TG",
-          "project": "Torus",
-          "account": "TorusFi",
-          "alpha": "阿宏",
-          "seenAt": "2026-10-29T11:56:30+00:00",
-          "messageId": "dodtwitterbot/38453",
-          "description": "Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium .",
-          "text": "Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium ."
+          "project": "Ascend",
+          "account": "AscendLaunch",
+          "alpha": "叶子君Foliage ◎ 🔶",
+          "seenAt": "2026-10-29T05:15:48+00:00",
+          "messageId": "dodtwitterbot/38389",
+          "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
+          "text": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects"
         },
         {
           "source": "TG",
-          "project": "Torus",
-          "account": "TorusFi",
-          "alpha": "发誓要做永赚大师",
-          "seenAt": "2026-10-29T11:59:02+00:00",
-          "messageId": "dodtwitterbot/38458",
-          "description": "Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium .",
-          "text": "Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium ."
+          "project": "Ascend",
+          "account": "AscendLaunch",
+          "alpha": "flaxsed",
+          "seenAt": "2026-10-29T18:02:31+00:00",
+          "messageId": "dodtwitterbot/38564",
+          "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
+          "text": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects"
         },
         {
           "source": "TG",
-          "project": "Torus",
-          "account": "TorusFi",
-          "alpha": "蛋总",
-          "seenAt": "2026-10-29T12:40:38+00:00",
-          "messageId": "dodtwitterbot/38495",
-          "description": "Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium .",
-          "text": "Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium ."
-        },
-        {
-          "source": "TG",
-          "project": "Torus",
-          "account": "TorusFi",
+          "project": "Ascend",
+          "account": "AscendLaunch",
           "alpha": "Mutu",
-          "seenAt": "2026-10-28T21:42:00+08:00",
-          "messageId": "dodtwitterbot/38246",
-          "description": "Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium.",
-          "text": "Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium."
+          "seenAt": "2026-10-28T21:55:00+08:00",
+          "messageId": "dodtwitterbot/38251",
+          "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
+          "text": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects"
         },
         {
           "source": "TG",
-          "project": "Torus",
-          "account": "TorusFi",
-          "alpha": "hit.ink",
-          "seenAt": "2026-10-28T21:57:00+08:00",
-          "messageId": "dodtwitterbot/38252",
-          "description": "Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium.",
-          "text": "Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium."
-        },
-        {
-          "source": "TG",
-          "project": "Torus",
-          "account": "TorusFi",
-          "alpha": "lakka",
-          "seenAt": "2026-10-28T22:01:00+08:00",
-          "messageId": "dodtwitterbot/38253",
-          "description": "Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium.",
-          "text": "Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium."
+          "project": "Ascend",
+          "account": "AscendLaunch",
+          "alpha": "speest",
+          "seenAt": "2026-10-28T22:19:00+08:00",
+          "messageId": "dodtwitterbot/38257",
+          "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
+          "text": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects"
         }
       ],
-      "text": " Torus TorusFi Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium . Torus TorusFi Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium . Torus TorusFi Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium . Torus TorusFi Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium. Torus TorusFi Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium. Torus TorusFi Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium.",
-      "score": 12,
+      "text": " Ascend AscendLaunch Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects Ascend AscendLaunch Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects Ascend AscendLaunch Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects Ascend AscendLaunch Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
+      "score": 8,
       "displayTier": "focus",
       "avatarUrl": ""
     },
@@ -430,64 +594,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Ascend",
-      "account": "AscendLaunch",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "Mutu",
-        "speest",
-        "叶子君Foliage ◎ 🔶"
-      ],
-      "tgAlphas": [
-        "Mutu",
-        "speest",
-        "叶子君Foliage ◎ 🔶"
-      ],
-      "xAlphas": [],
-      "mentions": 3,
-      "firstSeen": "2026-10-28T21:55:00+08:00",
-      "lastSeen": "2026-10-29T05:15:48+00:00",
-      "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Ascend",
-          "account": "AscendLaunch",
-          "alpha": "叶子君Foliage ◎ 🔶",
-          "seenAt": "2026-10-29T05:15:48+00:00",
-          "messageId": "dodtwitterbot/38389",
-          "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
-          "text": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects"
-        },
-        {
-          "source": "TG",
-          "project": "Ascend",
-          "account": "AscendLaunch",
-          "alpha": "Mutu",
-          "seenAt": "2026-10-28T21:55:00+08:00",
-          "messageId": "dodtwitterbot/38251",
-          "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
-          "text": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects"
-        },
-        {
-          "source": "TG",
-          "project": "Ascend",
-          "account": "AscendLaunch",
-          "alpha": "speest",
-          "seenAt": "2026-10-28T22:19:00+08:00",
-          "messageId": "dodtwitterbot/38257",
-          "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
-          "text": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects"
-        }
-      ],
-      "text": " Ascend AscendLaunch Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects Ascend AscendLaunch Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects Ascend AscendLaunch Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
-      "score": 6,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
       "project": "ComputeRoll",
       "account": "ComputeRollLabs",
       "sources": [
@@ -599,6 +705,64 @@
         }
       ],
       "text": " ELY ely__hl The first token launched on @Enter_Elysium ELY ely__hl The first token launched on @Enter_Elysium ELY ely__hl The first token launched on @Enter_Elysium",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "FiatDesk",
+      "account": "fiatdesk",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse",
+        "ibrax",
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "BearzVerse",
+        "ibrax",
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-10-29T14:52:03+00:00",
+      "lastSeen": "2026-10-29T19:42:43+00:00",
+      "description": "We make high-risk stablecoin flows bankable.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "FiatDesk",
+          "account": "fiatdesk",
+          "alpha": "ibrax",
+          "seenAt": "2026-10-29T14:52:03+00:00",
+          "messageId": "dodtwitterbot/38529",
+          "description": "We make high-risk stablecoin flows bankable.",
+          "text": "We make high-risk stablecoin flows bankable."
+        },
+        {
+          "source": "TG",
+          "project": "FiatDesk",
+          "account": "fiatdesk",
+          "alpha": "unsynned",
+          "seenAt": "2026-10-29T17:49:10+00:00",
+          "messageId": "dodtwitterbot/38558",
+          "description": "We make high-risk stablecoin flows bankable.",
+          "text": "We make high-risk stablecoin flows bankable."
+        },
+        {
+          "source": "TG",
+          "project": "FiatDesk",
+          "account": "fiatdesk",
+          "alpha": "BearzVerse",
+          "seenAt": "2026-10-29T19:42:43+00:00",
+          "messageId": "dodtwitterbot/38572",
+          "description": "We make high-risk stablecoin flows bankable.",
+          "text": "We make high-risk stablecoin flows bankable."
+        }
+      ],
+      "text": " FiatDesk fiatdesk We make high-risk stablecoin flows bankable. FiatDesk fiatdesk We make high-risk stablecoin flows bankable. FiatDesk fiatdesk We make high-risk stablecoin flows bankable.",
       "score": 6,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -1204,6 +1368,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "Nomad Finance",
+      "account": "nomadfinanceio",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse",
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "BearzVerse",
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-10-29T17:42:57+00:00",
+      "lastSeen": "2026-10-29T19:42:43+00:00",
+      "description": "Better Market Making for Public LPs",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Nomad Finance",
+          "account": "nomadfinanceio",
+          "alpha": "unsynned",
+          "seenAt": "2026-10-29T17:42:57+00:00",
+          "messageId": "dodtwitterbot/38555",
+          "description": "Better Market Making for Public LPs",
+          "text": "Better Market Making for Public LPs"
+        },
+        {
+          "source": "TG",
+          "project": "Nomad Finance",
+          "account": "nomadfinanceio",
+          "alpha": "BearzVerse",
+          "seenAt": "2026-10-29T19:42:43+00:00",
+          "messageId": "dodtwitterbot/38571",
+          "description": "Better Market Making for Public LPs",
+          "text": "Better Market Making for Public LPs"
+        }
+      ],
+      "text": " Nomad Finance nomadfinanceio Better Market Making for Public LPs Nomad Finance nomadfinanceio Better Market Making for Public LPs",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "NutshellMarkets",
       "account": "NutshellMarkets",
       "sources": [
@@ -1337,6 +1547,52 @@
         }
       ],
       "text": " Realbond realbondai Real agents ，Real bonding curve.\nBind your agent address to X /Launchpad On BNB Chain Realbond realbondai Real agents ，Real bonding curve.\nBind your agent address to X /Launchpad On BNB Chain",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Script",
+      "account": "Script_Agent",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse",
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "BearzVerse",
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-10-29T19:04:40+00:00",
+      "lastSeen": "2026-10-29T19:43:35+00:00",
+      "description": "AI agents, inscribed forever on @Solana .",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Script",
+          "account": "Script_Agent",
+          "alpha": "unsynned",
+          "seenAt": "2026-10-29T19:04:40+00:00",
+          "messageId": "dodtwitterbot/38569",
+          "description": "AI agents, inscribed forever on @Solana .",
+          "text": "AI agents, inscribed forever on @Solana ."
+        },
+        {
+          "source": "TG",
+          "project": "Script",
+          "account": "Script_Agent",
+          "alpha": "BearzVerse",
+          "seenAt": "2026-10-29T19:43:35+00:00",
+          "messageId": "dodtwitterbot/38573",
+          "description": "AI agents, inscribed forever on @Solana .",
+          "text": "AI agents, inscribed forever on @Solana ."
+        }
+      ],
+      "text": " Script Script_Agent AI agents, inscribed forever on @Solana . Script Script_Agent AI agents, inscribed forever on @Solana .",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -1713,6 +1969,40 @@
         }
       ],
       "text": " Atlas Atlas_Elysium The hedged liquidity layer of @Enter_Elysium . Earn the fees, skip the impermanent loss.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Atlas",
+      "account": "AtlasHL",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-29T16:42:35+00:00",
+      "lastSeen": "2026-10-29T16:42:35+00:00",
+      "description": "Building NFT Marketplace on HyperEVM and Elysium\n\nAtlassians : https://t.co/Db5xLP3eS6\nMint : https://t.co/BBlJ9K6TCg",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Atlas",
+          "account": "AtlasHL",
+          "alpha": "阿宏",
+          "seenAt": "2026-10-29T16:42:35+00:00",
+          "messageId": "dodtwitterbot/38538",
+          "description": "Building NFT Marketplace on HyperEVM and Elysium\n\nAtlassians : https://t.co/Db5xLP3eS6\nMint : https://t.co/BBlJ9K6TCg",
+          "text": "Building NFT Marketplace on HyperEVM and Elysium\n\nAtlassians : https://t.co/Db5xLP3eS6\nMint : https://t.co/BBlJ9K6TCg"
+        }
+      ],
+      "text": " Atlas AtlasHL Building NFT Marketplace on HyperEVM and Elysium\n\nAtlassians : https://t.co/Db5xLP3eS6\nMint : https://t.co/BBlJ9K6TCg",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -2160,6 +2450,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "dogepunk",
+      "account": "dogepunkk",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Skrchen666(钻石手伤心版 绝对纸手之人）"
+      ],
+      "tgAlphas": [
+        "Skrchen666(钻石手伤心版 绝对纸手之人）"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-29T18:26:23+00:00",
+      "lastSeen": "2026-10-29T18:26:23+00:00",
+      "description": "doge agentic wallet",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "dogepunk",
+          "account": "dogepunkk",
+          "alpha": "Skrchen666(钻石手伤心版 绝对纸手之人）",
+          "seenAt": "2026-10-29T18:26:23+00:00",
+          "messageId": "dodtwitterbot/38566",
+          "description": "doge agentic wallet",
+          "text": "doge agentic wallet"
+        }
+      ],
+      "text": " dogepunk dogepunkk doge agentic wallet",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "ELA.fun",
       "account": "Elaa_fun",
       "sources": [
@@ -2330,35 +2654,35 @@
       "avatarUrl": ""
     },
     {
-      "project": "FiatDesk",
-      "account": "fiatdesk",
+      "project": "Elyziuma",
+      "account": "Elyziumaa",
       "sources": [
         "TG"
       ],
       "alphas": [
-        "ibrax"
+        "阿宏"
       ],
       "tgAlphas": [
-        "ibrax"
+        "阿宏"
       ],
       "xAlphas": [],
       "mentions": 1,
-      "firstSeen": "2026-10-29T14:52:03+00:00",
-      "lastSeen": "2026-10-29T14:52:03+00:00",
-      "description": "We make high-risk stablecoin flows bankable.",
+      "firstSeen": "2026-10-29T16:44:21+00:00",
+      "lastSeen": "2026-10-29T16:44:21+00:00",
+      "description": "Elyziuma is an NFT collection coming to @Enter_Elysium",
       "rows": [
         {
           "source": "TG",
-          "project": "FiatDesk",
-          "account": "fiatdesk",
-          "alpha": "ibrax",
-          "seenAt": "2026-10-29T14:52:03+00:00",
-          "messageId": "dodtwitterbot/38529",
-          "description": "We make high-risk stablecoin flows bankable.",
-          "text": "We make high-risk stablecoin flows bankable."
+          "project": "Elyziuma",
+          "account": "Elyziumaa",
+          "alpha": "阿宏",
+          "seenAt": "2026-10-29T16:44:21+00:00",
+          "messageId": "dodtwitterbot/38541",
+          "description": "Elyziuma is an NFT collection coming to @Enter_Elysium",
+          "text": "Elyziuma is an NFT collection coming to @Enter_Elysium"
         }
       ],
-      "text": " FiatDesk fiatdesk We make high-risk stablecoin flows bankable.",
+      "text": " Elyziuma Elyziumaa Elyziuma is an NFT collection coming to @Enter_Elysium",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -2563,6 +2887,40 @@
         }
       ],
       "text": " Hooja hoojafun The outlaw of the Robinhood Chain.\nMint: coming soon on @unvault\nCA: soon&#33; see pinned post\nTelegram: https://t.co/rb0SkPgcnx\nCreated by @prollynuthin x @voraxyz",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Hyperion",
+      "account": "Hyperion_RPG",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-29T16:42:35+00:00",
+      "lastSeen": "2026-10-29T16:42:35+00:00",
+      "description": "Extracting the gods of Hyperion…\n⬢⬢⬢⬢⬢⬢⬢⬡⬡⬡ 70%\n\nRisk more. Extract more. Or lose everything.\n\nOnchain RPG built on Elysium @Enter_Elysium by @cryptojuve",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Hyperion",
+          "account": "Hyperion_RPG",
+          "alpha": "阿宏",
+          "seenAt": "2026-10-29T16:42:35+00:00",
+          "messageId": "dodtwitterbot/38537",
+          "description": "Extracting the gods of Hyperion…\n⬢⬢⬢⬢⬢⬢⬢⬡⬡⬡ 70%\n\nRisk more. Extract more. Or lose everything.\n\nOnchain RPG built on Elysium @Enter_Elysium by @cryptojuve",
+          "text": "Extracting the gods of Hyperion…\n⬢⬢⬢⬢⬢⬢⬢⬡⬡⬡ 70%\n\nRisk more. Extract more. Or lose everything.\n\nOnchain RPG built on Elysium @Enter_Elysium by @cryptojuve"
+        }
+      ],
+      "text": " Hyperion Hyperion_RPG Extracting the gods of Hyperion…\n⬢⬢⬢⬢⬢⬢⬢⬡⬡⬡ 70%\n\nRisk more. Extract more. Or lose everything.\n\nOnchain RPG built on Elysium @Enter_Elysium by @cryptojuve",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -3180,6 +3538,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "shadow",
+      "account": "0xmev",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "老大哥"
+      ],
+      "tgAlphas": [
+        "老大哥"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-29T16:53:19+00:00",
+      "lastSeen": "2026-10-29T16:53:19+00:00",
+      "description": "perpetual renaissance @tradexyz † first principles @unitxyz",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "shadow",
+          "account": "0xmev",
+          "alpha": "老大哥",
+          "seenAt": "2026-10-29T16:53:19+00:00",
+          "messageId": "dodtwitterbot/38546",
+          "description": "perpetual renaissance @tradexyz † first principles @unitxyz",
+          "text": "perpetual renaissance @tradexyz † first principles @unitxyz"
+        }
+      ],
+      "text": " shadow 0xmev perpetual renaissance @tradexyz † first principles @unitxyz",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Silicon Dreamers Protocol",
       "account": "Silicon_Dreamer",
       "sources": [
@@ -3282,6 +3674,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Slabs Online Studios",
+      "account": "SlabsOnline",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-29T17:42:04+00:00",
+      "lastSeen": "2026-10-29T17:42:04+00:00",
+      "description": "Developing PSA 10 level quality online experiences for users on the Solana blockchain.\n\nReal cards deserve real functionality.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Slabs Online Studios",
+          "account": "SlabsOnline",
+          "alpha": "unsynned",
+          "seenAt": "2026-10-29T17:42:04+00:00",
+          "messageId": "dodtwitterbot/38554",
+          "description": "Developing PSA 10 level quality online experiences for users on the Solana blockchain.\n\nReal cards deserve real functionality.",
+          "text": "Developing PSA 10 level quality online experiences for users on the Solana blockchain.\n\nReal cards deserve real functionality."
+        }
+      ],
+      "text": " Slabs Online Studios SlabsOnline Developing PSA 10 level quality online experiences for users on the Solana blockchain.\n\nReal cards deserve real functionality.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "spawn",
       "account": "spawn",
       "sources": [
@@ -3379,6 +3805,40 @@
         }
       ],
       "text": " squeekchain squeekchain 🐹 🟦\nhamster-powered toychain on Ethereum\n\ncurrently in testing on sepolia\n\n⚠️ token has NOT launched yet ⚠️",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Stockium",
+      "account": "Stockium",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "CSR"
+      ],
+      "tgAlphas": [
+        "CSR"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-29T20:31:32+00:00",
+      "lastSeen": "2026-10-29T20:31:32+00:00",
+      "description": "Launch tokens on HyperEVM. Graduate to Elysium paired with tokenized stocks. Memes meet Wall Street.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Stockium",
+          "account": "Stockium",
+          "alpha": "CSR",
+          "seenAt": "2026-10-29T20:31:32+00:00",
+          "messageId": "dodtwitterbot/38575",
+          "description": "Launch tokens on HyperEVM. Graduate to Elysium paired with tokenized stocks. Memes meet Wall Street.",
+          "text": "Launch tokens on HyperEVM. Graduate to Elysium paired with tokenized stocks. Memes meet Wall Street."
+        }
+      ],
+      "text": " Stockium Stockium Launch tokens on HyperEVM. Graduate to Elysium paired with tokenized stocks. Memes meet Wall Street.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -3762,6 +4222,26 @@
   "xMultiAlpha": [],
   "tgPriority": [
     {
+      "project": "Torus",
+      "x_account": "TorusFi",
+      "total_mentions": 7,
+      "unique_alphas": 7,
+      "alphas": [
+        "Mutu",
+        "flaxsed",
+        "hit.ink",
+        "lakka",
+        "发誓要做永赚大师",
+        "蛋总",
+        "阿宏"
+      ],
+      "description": "Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium .",
+      "first_seen_utc": "2026-10-28T21:42:00+08:00",
+      "last_seen_utc": "2026-10-29T18:02:31+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
       "project": "Mobster",
       "x_account": "mobster_meme",
       "total_mentions": 6,
@@ -3800,21 +4280,37 @@
       "avatarUrl": ""
     },
     {
-      "project": "Torus",
-      "x_account": "TorusFi",
-      "total_mentions": 6,
-      "unique_alphas": 6,
+      "project": "Tokenized Stonks",
+      "x_account": "tokenizedstonk",
+      "total_mentions": 5,
+      "unique_alphas": 5,
       "alphas": [
-        "Mutu",
+        "BearzVerse",
+        "Mutu 🕸️",
         "hit.ink",
         "lakka",
-        "发誓要做永赚大师",
-        "蛋总",
-        "阿宏"
+        "unsynned"
       ],
-      "description": "Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium .",
-      "first_seen_utc": "2026-10-28T21:42:00+08:00",
-      "last_seen_utc": "2026-10-29T12:40:38+00:00",
+      "description": "Every stock.\nEvery chain.",
+      "first_seen_utc": "2026-10-29T17:39:28+00:00",
+      "last_seen_utc": "2026-10-29T19:42:43+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Ascend",
+      "x_account": "AscendLaunch",
+      "total_mentions": 4,
+      "unique_alphas": 4,
+      "alphas": [
+        "Mutu",
+        "flaxsed",
+        "speest",
+        "叶子君Foliage ◎ 🔶"
+      ],
+      "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
+      "first_seen_utc": "2026-10-28T21:55:00+08:00",
+      "last_seen_utc": "2026-10-29T18:02:31+00:00",
       "status": "priority",
       "avatarUrl": ""
     },
@@ -3852,22 +4348,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Ascend",
-      "x_account": "AscendLaunch",
-      "total_mentions": 3,
-      "unique_alphas": 3,
-      "alphas": [
-        "Mutu",
-        "speest",
-        "叶子君Foliage ◎ 🔶"
-      ],
-      "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
-      "first_seen_utc": "2026-10-28T21:55:00+08:00",
-      "last_seen_utc": "2026-10-29T05:15:48+00:00",
-      "status": "priority",
-      "avatarUrl": ""
-    },
-    {
       "project": "ComputeRoll",
       "x_account": "ComputeRollLabs",
       "total_mentions": 3,
@@ -3896,6 +4376,22 @@
       "description": "The first token launched on @Enter_Elysium",
       "first_seen_utc": "2026-10-28T17:33:53+00:00",
       "last_seen_utc": "2026-10-29T05:40:06+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
+      "project": "FiatDesk",
+      "x_account": "fiatdesk",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "BearzVerse",
+        "ibrax",
+        "unsynned"
+      ],
+      "description": "We make high-risk stablecoin flows bankable.",
+      "first_seen_utc": "2026-10-29T14:52:03+00:00",
+      "last_seen_utc": "2026-10-29T19:42:43+00:00",
       "status": "priority",
       "avatarUrl": ""
     },
@@ -4084,6 +4580,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "Nomad Finance",
+      "x_account": "nomadfinanceio",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "BearzVerse",
+        "unsynned"
+      ],
+      "description": "Better Market Making for Public LPs",
+      "first_seen_utc": "2026-10-29T17:42:57+00:00",
+      "last_seen_utc": "2026-10-29T19:42:43+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "NutshellMarkets",
       "x_account": "NutshellMarkets",
       "total_mentions": 2,
@@ -4125,6 +4636,21 @@
       "description": "Real agents ，Real bonding curve.\nBind your agent address to X /Launchpad On BNB Chain",
       "first_seen_utc": "2026-10-29T07:28:41+00:00",
       "last_seen_utc": "2026-10-29T13:15:58+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Script",
+      "x_account": "Script_Agent",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "BearzVerse",
+        "unsynned"
+      ],
+      "description": "AI agents, inscribed forever on @Solana .",
+      "first_seen_utc": "2026-10-29T19:04:40+00:00",
+      "last_seen_utc": "2026-10-29T19:43:35+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -4268,6 +4794,20 @@
       "description": "The hedged liquidity layer of @Enter_Elysium . Earn the fees, skip the impermanent loss.",
       "first_seen_utc": "2026-10-29T12:00:51+00:00",
       "last_seen_utc": "2026-10-29T12:00:51+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Atlas",
+      "x_account": "AtlasHL",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "阿宏"
+      ],
+      "description": "Building NFT Marketplace on HyperEVM and Elysium\n\nAtlassians : https://t.co/Db5xLP3eS6\nMint : https://t.co/BBlJ9K6TCg",
+      "first_seen_utc": "2026-10-29T16:42:35+00:00",
+      "last_seen_utc": "2026-10-29T16:42:35+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -4454,6 +4994,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "dogepunk",
+      "x_account": "dogepunkk",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "Skrchen666(钻石手伤心版 绝对纸手之人）"
+      ],
+      "description": "doge agentic wallet",
+      "first_seen_utc": "2026-10-29T18:26:23+00:00",
+      "last_seen_utc": "2026-10-29T18:26:23+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "ELA.fun",
       "x_account": "Elaa_fun",
       "total_mentions": 1,
@@ -4524,16 +5078,16 @@
       "avatarUrl": ""
     },
     {
-      "project": "FiatDesk",
-      "x_account": "fiatdesk",
+      "project": "Elyziuma",
+      "x_account": "Elyziumaa",
       "total_mentions": 1,
       "unique_alphas": 1,
       "alphas": [
-        "ibrax"
+        "阿宏"
       ],
-      "description": "We make high-risk stablecoin flows bankable.",
-      "first_seen_utc": "2026-10-29T14:52:03+00:00",
-      "last_seen_utc": "2026-10-29T14:52:03+00:00",
+      "description": "Elyziuma is an NFT collection coming to @Enter_Elysium",
+      "first_seen_utc": "2026-10-29T16:44:21+00:00",
+      "last_seen_utc": "2026-10-29T16:44:21+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -4618,6 +5172,20 @@
       "description": "The outlaw of the Robinhood Chain.\nMint: coming soon on @unvault\nCA: soon&#33; see pinned post\nTelegram: https://t.co/rb0SkPgcnx\nCreated by @prollynuthin x @voraxyz",
       "first_seen_utc": "2026-10-29T12:47:53+00:00",
       "last_seen_utc": "2026-10-29T12:47:53+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Hyperion",
+      "x_account": "Hyperion_RPG",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "阿宏"
+      ],
+      "description": "Extracting the gods of Hyperion…\n⬢⬢⬢⬢⬢⬢⬢⬡⬡⬡ 70%\n\nRisk more. Extract more. Or lose everything.\n\nOnchain RPG built on Elysium @Enter_Elysium by @cryptojuve",
+      "first_seen_utc": "2026-10-29T16:42:35+00:00",
+      "last_seen_utc": "2026-10-29T16:42:35+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -4874,6 +5442,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "shadow",
+      "x_account": "0xmev",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "老大哥"
+      ],
+      "description": "perpetual renaissance @tradexyz † first principles @unitxyz",
+      "first_seen_utc": "2026-10-29T16:53:19+00:00",
+      "last_seen_utc": "2026-10-29T16:53:19+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Silicon Dreamers Protocol",
       "x_account": "Silicon_Dreamer",
       "total_mentions": 1,
@@ -4916,6 +5498,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Slabs Online Studios",
+      "x_account": "SlabsOnline",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "unsynned"
+      ],
+      "description": "Developing PSA 10 level quality online experiences for users on the Solana blockchain.\n\nReal cards deserve real functionality.",
+      "first_seen_utc": "2026-10-29T17:42:04+00:00",
+      "last_seen_utc": "2026-10-29T17:42:04+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "spawn",
       "x_account": "spawn",
       "total_mentions": 1,
@@ -4954,6 +5550,20 @@
       "description": "🐹 🟦\nhamster-powered toychain on Ethereum\n\ncurrently in testing on sepolia\n\n⚠️ token has NOT launched yet ⚠️",
       "first_seen_utc": "2026-10-29T12:29:11+00:00",
       "last_seen_utc": "2026-10-29T12:29:11+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Stockium",
+      "x_account": "Stockium",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "CSR"
+      ],
+      "description": "Launch tokens on HyperEVM. Graduate to Elysium paired with tokenized stocks. Memes meet Wall Street.",
+      "first_seen_utc": "2026-10-29T20:31:32+00:00",
+      "last_seen_utc": "2026-10-29T20:31:32+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -5115,14 +5725,554 @@
   "daily": [
     {
       "date": "2026-10-30",
-      "totalRows": 0,
-      "projectCount": 0,
-      "focusCount": 0,
-      "candidateCount": 0,
+      "totalRows": 20,
+      "projectCount": 13,
+      "focusCount": 4,
+      "candidateCount": 9,
       "crossSource": 0,
-      "newCount": 0,
-      "repeatCount": 0,
-      "projects": []
+      "newCount": 10,
+      "repeatCount": 3,
+      "projects": [
+        {
+          "project": "Tokenized Stonks",
+          "account": "tokenizedstonk",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BearzVerse",
+            "Mutu 🕸️",
+            "hit.ink",
+            "lakka",
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "BearzVerse",
+            "Mutu 🕸️",
+            "hit.ink",
+            "lakka",
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 5,
+          "firstSeen": "2026-10-29T17:39:28+00:00",
+          "lastSeen": "2026-10-29T19:42:43+00:00",
+          "description": "Every stock.\nEvery chain.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Tokenized Stonks",
+              "account": "tokenizedstonk",
+              "alpha": "unsynned",
+              "seenAt": "2026-10-29T17:39:28+00:00",
+              "messageId": "dodtwitterbot/38553",
+              "description": "Every stock.\nEvery chain.",
+              "text": "Every stock.\nEvery chain."
+            },
+            {
+              "source": "TG",
+              "project": "Tokenized Stonks",
+              "account": "tokenizedstonk",
+              "alpha": "Mutu 🕸️",
+              "seenAt": "2026-10-29T17:44:42+00:00",
+              "messageId": "dodtwitterbot/38556",
+              "description": "Every stock.\nEvery chain.",
+              "text": "Every stock.\nEvery chain."
+            },
+            {
+              "source": "TG",
+              "project": "Tokenized Stonks",
+              "account": "tokenizedstonk",
+              "alpha": "hit.ink",
+              "seenAt": "2026-10-29T17:53:52+00:00",
+              "messageId": "dodtwitterbot/38559",
+              "description": "Every stock.\nEvery chain.",
+              "text": "Every stock.\nEvery chain."
+            },
+            {
+              "source": "TG",
+              "project": "Tokenized Stonks",
+              "account": "tokenizedstonk",
+              "alpha": "lakka",
+              "seenAt": "2026-10-29T17:59:54+00:00",
+              "messageId": "dodtwitterbot/38562",
+              "description": "Every stock.\nEvery chain.",
+              "text": "Every stock.\nEvery chain."
+            },
+            {
+              "source": "TG",
+              "project": "Tokenized Stonks",
+              "account": "tokenizedstonk",
+              "alpha": "BearzVerse",
+              "seenAt": "2026-10-29T19:42:43+00:00",
+              "messageId": "dodtwitterbot/38570",
+              "description": "Every stock.\nEvery chain.",
+              "text": "Every stock.\nEvery chain."
+            }
+          ],
+          "text": " Tokenized Stonks tokenizedstonk Every stock.\nEvery chain. Tokenized Stonks tokenizedstonk Every stock.\nEvery chain. Tokenized Stonks tokenizedstonk Every stock.\nEvery chain. Tokenized Stonks tokenizedstonk Every stock.\nEvery chain. Tokenized Stonks tokenizedstonk Every stock.\nEvery chain.",
+          "score": 10,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "FiatDesk",
+          "account": "fiatdesk",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BearzVerse",
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "BearzVerse",
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-10-29T17:49:10+00:00",
+          "lastSeen": "2026-10-29T19:42:43+00:00",
+          "description": "We make high-risk stablecoin flows bankable.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "FiatDesk",
+              "account": "fiatdesk",
+              "alpha": "unsynned",
+              "seenAt": "2026-10-29T17:49:10+00:00",
+              "messageId": "dodtwitterbot/38558",
+              "description": "We make high-risk stablecoin flows bankable.",
+              "text": "We make high-risk stablecoin flows bankable."
+            },
+            {
+              "source": "TG",
+              "project": "FiatDesk",
+              "account": "fiatdesk",
+              "alpha": "BearzVerse",
+              "seenAt": "2026-10-29T19:42:43+00:00",
+              "messageId": "dodtwitterbot/38572",
+              "description": "We make high-risk stablecoin flows bankable.",
+              "text": "We make high-risk stablecoin flows bankable."
+            }
+          ],
+          "text": " FiatDesk fiatdesk We make high-risk stablecoin flows bankable. FiatDesk fiatdesk We make high-risk stablecoin flows bankable.",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Nomad Finance",
+          "account": "nomadfinanceio",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BearzVerse",
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "BearzVerse",
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-10-29T17:42:57+00:00",
+          "lastSeen": "2026-10-29T19:42:43+00:00",
+          "description": "Better Market Making for Public LPs",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Nomad Finance",
+              "account": "nomadfinanceio",
+              "alpha": "unsynned",
+              "seenAt": "2026-10-29T17:42:57+00:00",
+              "messageId": "dodtwitterbot/38555",
+              "description": "Better Market Making for Public LPs",
+              "text": "Better Market Making for Public LPs"
+            },
+            {
+              "source": "TG",
+              "project": "Nomad Finance",
+              "account": "nomadfinanceio",
+              "alpha": "BearzVerse",
+              "seenAt": "2026-10-29T19:42:43+00:00",
+              "messageId": "dodtwitterbot/38571",
+              "description": "Better Market Making for Public LPs",
+              "text": "Better Market Making for Public LPs"
+            }
+          ],
+          "text": " Nomad Finance nomadfinanceio Better Market Making for Public LPs Nomad Finance nomadfinanceio Better Market Making for Public LPs",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Script",
+          "account": "Script_Agent",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BearzVerse",
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "BearzVerse",
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-10-29T19:04:40+00:00",
+          "lastSeen": "2026-10-29T19:43:35+00:00",
+          "description": "AI agents, inscribed forever on @Solana .",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Script",
+              "account": "Script_Agent",
+              "alpha": "unsynned",
+              "seenAt": "2026-10-29T19:04:40+00:00",
+              "messageId": "dodtwitterbot/38569",
+              "description": "AI agents, inscribed forever on @Solana .",
+              "text": "AI agents, inscribed forever on @Solana ."
+            },
+            {
+              "source": "TG",
+              "project": "Script",
+              "account": "Script_Agent",
+              "alpha": "BearzVerse",
+              "seenAt": "2026-10-29T19:43:35+00:00",
+              "messageId": "dodtwitterbot/38573",
+              "description": "AI agents, inscribed forever on @Solana .",
+              "text": "AI agents, inscribed forever on @Solana ."
+            }
+          ],
+          "text": " Script Script_Agent AI agents, inscribed forever on @Solana . Script Script_Agent AI agents, inscribed forever on @Solana .",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Ascend",
+          "account": "AscendLaunch",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "flaxsed"
+          ],
+          "tgAlphas": [
+            "flaxsed"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-29T18:02:31+00:00",
+          "lastSeen": "2026-10-29T18:02:31+00:00",
+          "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Ascend",
+              "account": "AscendLaunch",
+              "alpha": "flaxsed",
+              "seenAt": "2026-10-29T18:02:31+00:00",
+              "messageId": "dodtwitterbot/38564",
+              "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
+              "text": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects"
+            }
+          ],
+          "text": " Ascend AscendLaunch Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Atlas",
+          "account": "AtlasHL",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-29T16:42:35+00:00",
+          "lastSeen": "2026-10-29T16:42:35+00:00",
+          "description": "Building NFT Marketplace on HyperEVM and Elysium\n\nAtlassians : https://t.co/Db5xLP3eS6\nMint : https://t.co/BBlJ9K6TCg",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Atlas",
+              "account": "AtlasHL",
+              "alpha": "阿宏",
+              "seenAt": "2026-10-29T16:42:35+00:00",
+              "messageId": "dodtwitterbot/38538",
+              "description": "Building NFT Marketplace on HyperEVM and Elysium\n\nAtlassians : https://t.co/Db5xLP3eS6\nMint : https://t.co/BBlJ9K6TCg",
+              "text": "Building NFT Marketplace on HyperEVM and Elysium\n\nAtlassians : https://t.co/Db5xLP3eS6\nMint : https://t.co/BBlJ9K6TCg"
+            }
+          ],
+          "text": " Atlas AtlasHL Building NFT Marketplace on HyperEVM and Elysium\n\nAtlassians : https://t.co/Db5xLP3eS6\nMint : https://t.co/BBlJ9K6TCg",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "dogepunk",
+          "account": "dogepunkk",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Skrchen666(钻石手伤心版 绝对纸手之人）"
+          ],
+          "tgAlphas": [
+            "Skrchen666(钻石手伤心版 绝对纸手之人）"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-29T18:26:23+00:00",
+          "lastSeen": "2026-10-29T18:26:23+00:00",
+          "description": "doge agentic wallet",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "dogepunk",
+              "account": "dogepunkk",
+              "alpha": "Skrchen666(钻石手伤心版 绝对纸手之人）",
+              "seenAt": "2026-10-29T18:26:23+00:00",
+              "messageId": "dodtwitterbot/38566",
+              "description": "doge agentic wallet",
+              "text": "doge agentic wallet"
+            }
+          ],
+          "text": " dogepunk dogepunkk doge agentic wallet",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Elyziuma",
+          "account": "Elyziumaa",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-29T16:44:21+00:00",
+          "lastSeen": "2026-10-29T16:44:21+00:00",
+          "description": "Elyziuma is an NFT collection coming to @Enter_Elysium",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Elyziuma",
+              "account": "Elyziumaa",
+              "alpha": "阿宏",
+              "seenAt": "2026-10-29T16:44:21+00:00",
+              "messageId": "dodtwitterbot/38541",
+              "description": "Elyziuma is an NFT collection coming to @Enter_Elysium",
+              "text": "Elyziuma is an NFT collection coming to @Enter_Elysium"
+            }
+          ],
+          "text": " Elyziuma Elyziumaa Elyziuma is an NFT collection coming to @Enter_Elysium",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Hyperion",
+          "account": "Hyperion_RPG",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-29T16:42:35+00:00",
+          "lastSeen": "2026-10-29T16:42:35+00:00",
+          "description": "Extracting the gods of Hyperion…\n⬢⬢⬢⬢⬢⬢⬢⬡⬡⬡ 70%\n\nRisk more. Extract more. Or lose everything.\n\nOnchain RPG built on Elysium @Enter_Elysium by @cryptojuve",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Hyperion",
+              "account": "Hyperion_RPG",
+              "alpha": "阿宏",
+              "seenAt": "2026-10-29T16:42:35+00:00",
+              "messageId": "dodtwitterbot/38537",
+              "description": "Extracting the gods of Hyperion…\n⬢⬢⬢⬢⬢⬢⬢⬡⬡⬡ 70%\n\nRisk more. Extract more. Or lose everything.\n\nOnchain RPG built on Elysium @Enter_Elysium by @cryptojuve",
+              "text": "Extracting the gods of Hyperion…\n⬢⬢⬢⬢⬢⬢⬢⬡⬡⬡ 70%\n\nRisk more. Extract more. Or lose everything.\n\nOnchain RPG built on Elysium @Enter_Elysium by @cryptojuve"
+            }
+          ],
+          "text": " Hyperion Hyperion_RPG Extracting the gods of Hyperion…\n⬢⬢⬢⬢⬢⬢⬢⬡⬡⬡ 70%\n\nRisk more. Extract more. Or lose everything.\n\nOnchain RPG built on Elysium @Enter_Elysium by @cryptojuve",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "shadow",
+          "account": "0xmev",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "老大哥"
+          ],
+          "tgAlphas": [
+            "老大哥"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-29T16:53:19+00:00",
+          "lastSeen": "2026-10-29T16:53:19+00:00",
+          "description": "perpetual renaissance @tradexyz † first principles @unitxyz",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "shadow",
+              "account": "0xmev",
+              "alpha": "老大哥",
+              "seenAt": "2026-10-29T16:53:19+00:00",
+              "messageId": "dodtwitterbot/38546",
+              "description": "perpetual renaissance @tradexyz † first principles @unitxyz",
+              "text": "perpetual renaissance @tradexyz † first principles @unitxyz"
+            }
+          ],
+          "text": " shadow 0xmev perpetual renaissance @tradexyz † first principles @unitxyz",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Slabs Online Studios",
+          "account": "SlabsOnline",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-29T17:42:04+00:00",
+          "lastSeen": "2026-10-29T17:42:04+00:00",
+          "description": "Developing PSA 10 level quality online experiences for users on the Solana blockchain.\n\nReal cards deserve real functionality.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Slabs Online Studios",
+              "account": "SlabsOnline",
+              "alpha": "unsynned",
+              "seenAt": "2026-10-29T17:42:04+00:00",
+              "messageId": "dodtwitterbot/38554",
+              "description": "Developing PSA 10 level quality online experiences for users on the Solana blockchain.\n\nReal cards deserve real functionality.",
+              "text": "Developing PSA 10 level quality online experiences for users on the Solana blockchain.\n\nReal cards deserve real functionality."
+            }
+          ],
+          "text": " Slabs Online Studios SlabsOnline Developing PSA 10 level quality online experiences for users on the Solana blockchain.\n\nReal cards deserve real functionality.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Stockium",
+          "account": "Stockium",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "CSR"
+          ],
+          "tgAlphas": [
+            "CSR"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-29T20:31:32+00:00",
+          "lastSeen": "2026-10-29T20:31:32+00:00",
+          "description": "Launch tokens on HyperEVM. Graduate to Elysium paired with tokenized stocks. Memes meet Wall Street.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Stockium",
+              "account": "Stockium",
+              "alpha": "CSR",
+              "seenAt": "2026-10-29T20:31:32+00:00",
+              "messageId": "dodtwitterbot/38575",
+              "description": "Launch tokens on HyperEVM. Graduate to Elysium paired with tokenized stocks. Memes meet Wall Street.",
+              "text": "Launch tokens on HyperEVM. Graduate to Elysium paired with tokenized stocks. Memes meet Wall Street."
+            }
+          ],
+          "text": " Stockium Stockium Launch tokens on HyperEVM. Graduate to Elysium paired with tokenized stocks. Memes meet Wall Street.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Torus",
+          "account": "TorusFi",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "flaxsed"
+          ],
+          "tgAlphas": [
+            "flaxsed"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-29T18:02:31+00:00",
+          "lastSeen": "2026-10-29T18:02:31+00:00",
+          "description": "Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium .",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Torus",
+              "account": "TorusFi",
+              "alpha": "flaxsed",
+              "seenAt": "2026-10-29T18:02:31+00:00",
+              "messageId": "dodtwitterbot/38563",
+              "description": "Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium .",
+              "text": "Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium ."
+            }
+          ],
+          "text": " Torus TorusFi Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium .",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        }
+      ]
     },
     {
       "date": "2026-10-29",
@@ -9166,44 +10316,49 @@
   ],
   "reports": [
     {
+      "file": "2026-10-29-2203-telegram-update.md",
+      "title": "2026-10-29-2203-telegram-update",
+      "updatedAt": "2026-10-29T22:03:34.607Z"
+    },
+    {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-10-29T16:27:47.057Z"
+      "updatedAt": "2026-10-29T22:03:31.779Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-10-29T16:27:43.653Z"
+      "updatedAt": "2026-10-29T22:03:31.779Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-10-29T16:27:43.653Z"
+      "updatedAt": "2026-10-29T22:03:31.779Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-10-29T16:27:43.653Z"
+      "updatedAt": "2026-10-29T22:03:31.779Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-10-29T16:27:43.653Z"
+      "updatedAt": "2026-10-29T22:03:31.779Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-10-29T16:27:43.653Z"
+      "updatedAt": "2026-10-29T22:03:31.779Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-10-29T16:27:43.653Z"
+      "updatedAt": "2026-10-29T22:03:31.779Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-10-29T16:27:43.652Z"
+      "updatedAt": "2026-10-29T22:03:31.778Z"
     }
   ]
 }
