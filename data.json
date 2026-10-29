@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-10-29T01:24:54.506Z",
+  "generatedAt": "2026-10-29T07:41:53.956Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 38355,
-    "lastMessageAt": "2026-10-29T00:49:06+00:00",
-    "lastCheckedAt": "2026-10-29T01:24:54.430Z",
-    "previousMessageId": 38352,
-    "pagesRead": 1,
-    "messagesRead": 3,
-    "newProjectRecords": 2,
+    "lastMessageId": 38422,
+    "lastMessageAt": "2026-10-29T07:39:51+00:00",
+    "lastCheckedAt": "2026-10-29T07:41:53.896Z",
+    "previousMessageId": 38355,
+    "pagesRead": 4,
+    "messagesRead": 67,
+    "newProjectRecords": 17,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 90,
+    "telegramRows": 107,
     "xRows": 0,
-    "projects": 63,
+    "projects": 73,
     "crossSource": 0
   },
   "projects": [
@@ -266,6 +266,238 @@
       "avatarUrl": ""
     },
     {
+      "project": "Agentic Pad",
+      "account": "agenticsolfun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Skrchen666(钻石手伤心版 绝对纸手之人）",
+        "flaxsed",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "Skrchen666(钻石手伤心版 绝对纸手之人）",
+        "flaxsed",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-10-28T17:19:30+00:00",
+      "lastSeen": "2026-10-29T05:40:06+00:00",
+      "description": "The first Binance Agentic Launchpad on Solana",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Agentic Pad",
+          "account": "agenticsolfun",
+          "alpha": "flaxsed",
+          "seenAt": "2026-10-28T17:19:30+00:00",
+          "messageId": "dodtwitterbot/38297",
+          "description": "The first Binance Agentic Launchpad on Solana",
+          "text": "The first Binance Agentic Launchpad on Solana"
+        },
+        {
+          "source": "TG",
+          "project": "Agentic Pad",
+          "account": "agenticsolfun",
+          "alpha": "Skrchen666(钻石手伤心版 绝对纸手之人）",
+          "seenAt": "2026-10-28T18:05:50+00:00",
+          "messageId": "dodtwitterbot/38311",
+          "description": "The first Binance Agentic Launchpad on Solana",
+          "text": "The first Binance Agentic Launchpad on Solana"
+        },
+        {
+          "source": "TG",
+          "project": "Agentic Pad",
+          "account": "agenticsolfun",
+          "alpha": "阿宏",
+          "seenAt": "2026-10-29T05:40:06+00:00",
+          "messageId": "dodtwitterbot/38405",
+          "description": "The first Binance Agentic Launchpad on Solana",
+          "text": "The first Binance Agentic Launchpad on Solana"
+        }
+      ],
+      "text": " Agentic Pad agenticsolfun The first Binance Agentic Launchpad on Solana Agentic Pad agenticsolfun The first Binance Agentic Launchpad on Solana Agentic Pad agenticsolfun The first Binance Agentic Launchpad on Solana",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Ascend",
+      "account": "AscendLaunch",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Mutu",
+        "speest",
+        "叶子君Foliage ◎ 🔶"
+      ],
+      "tgAlphas": [
+        "Mutu",
+        "speest",
+        "叶子君Foliage ◎ 🔶"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-10-28T21:55:00+08:00",
+      "lastSeen": "2026-10-29T05:15:48+00:00",
+      "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Ascend",
+          "account": "AscendLaunch",
+          "alpha": "叶子君Foliage ◎ 🔶",
+          "seenAt": "2026-10-29T05:15:48+00:00",
+          "messageId": "dodtwitterbot/38389",
+          "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
+          "text": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects"
+        },
+        {
+          "source": "TG",
+          "project": "Ascend",
+          "account": "AscendLaunch",
+          "alpha": "Mutu",
+          "seenAt": "2026-10-28T21:55:00+08:00",
+          "messageId": "dodtwitterbot/38251",
+          "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
+          "text": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects"
+        },
+        {
+          "source": "TG",
+          "project": "Ascend",
+          "account": "AscendLaunch",
+          "alpha": "speest",
+          "seenAt": "2026-10-28T22:19:00+08:00",
+          "messageId": "dodtwitterbot/38257",
+          "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
+          "text": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects"
+        }
+      ],
+      "text": " Ascend AscendLaunch Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects Ascend AscendLaunch Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects Ascend AscendLaunch Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "ComputeRoll",
+      "account": "ComputeRollLabs",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "八九",
+        "发誓要做永赚大师",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "八九",
+        "发誓要做永赚大师",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-10-28T11:12:00+08:00",
+      "lastSeen": "2026-10-29T05:39:13+00:00",
+      "description": "Building Agent ID-gated PoW on BNB Chain. Your agent. Your proof. Coming soon.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "ComputeRoll",
+          "account": "ComputeRollLabs",
+          "alpha": "阿宏",
+          "seenAt": "2026-10-29T05:39:13+00:00",
+          "messageId": "dodtwitterbot/38397",
+          "description": "Building Agent ID-gated PoW on BNB Chain. Your agent. Your proof. Coming soon.",
+          "text": "Building Agent ID-gated PoW on BNB Chain. Your agent. Your proof. Coming soon."
+        },
+        {
+          "source": "TG",
+          "project": "ComputeRoll",
+          "account": "ComputeRollLabs",
+          "alpha": "八九",
+          "seenAt": "2026-10-28T11:12:00+08:00",
+          "messageId": "dodtwitterbot/38169",
+          "description": "Building Agent ID-gated PoW on BNB Chain. Your agent. Your proof. Coming soon.",
+          "text": "Building Agent ID-gated PoW on BNB Chain. Your agent. Your proof. Coming soon."
+        },
+        {
+          "source": "TG",
+          "project": "ComputeRoll",
+          "account": "ComputeRollLabs",
+          "alpha": "发誓要做永赚大师",
+          "seenAt": "2026-10-28T19:04:00+08:00",
+          "messageId": "dodtwitterbot/38213",
+          "description": "Building Agent ID-gated PoW on BNB Chain. Your agent. Your proof. Coming soon.",
+          "text": "Building Agent ID-gated PoW on BNB Chain. Your agent. Your proof. Coming soon."
+        }
+      ],
+      "text": " ComputeRoll ComputeRollLabs Building Agent ID-gated PoW on BNB Chain. Your agent. Your proof. Coming soon. ComputeRoll ComputeRollLabs Building Agent ID-gated PoW on BNB Chain. Your agent. Your proof. Coming soon. ComputeRoll ComputeRollLabs Building Agent ID-gated PoW on BNB Chain. Your agent. Your proof. Coming soon.",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "ELY",
+      "account": "ely__hl",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "flaxsed",
+        "发誓要做永赚大师",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "flaxsed",
+        "发誓要做永赚大师",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-10-28T17:33:53+00:00",
+      "lastSeen": "2026-10-29T05:40:06+00:00",
+      "description": "The first token launched on @Enter_Elysium",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "ELY",
+          "account": "ely__hl",
+          "alpha": "flaxsed",
+          "seenAt": "2026-10-28T17:33:53+00:00",
+          "messageId": "dodtwitterbot/38301",
+          "description": "The first token launched on @Enter_Elysium",
+          "text": "The first token launched on @Enter_Elysium"
+        },
+        {
+          "source": "TG",
+          "project": "ELY",
+          "account": "ely__hl",
+          "alpha": "发誓要做永赚大师",
+          "seenAt": "2026-10-29T04:55:11+00:00",
+          "messageId": "dodtwitterbot/38384",
+          "description": "The first token launched on @Enter_Elysium",
+          "text": "The first token launched on @Enter_Elysium"
+        },
+        {
+          "source": "TG",
+          "project": "ELY",
+          "account": "ely__hl",
+          "alpha": "阿宏",
+          "seenAt": "2026-10-29T05:40:06+00:00",
+          "messageId": "dodtwitterbot/38404",
+          "description": "The first token launched on @Enter_Elysium",
+          "text": "The first token launched on @Enter_Elysium"
+        }
+      ],
+      "text": " ELY ely__hl The first token launched on @Enter_Elysium ELY ely__hl The first token launched on @Enter_Elysium ELY ely__hl The first token launched on @Enter_Elysium",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Orbital",
       "account": "orbitaldotinc",
       "sources": [
@@ -440,98 +672,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Agentic Pad",
-      "account": "agenticsolfun",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "Skrchen666(钻石手伤心版 绝对纸手之人）",
-        "flaxsed"
-      ],
-      "tgAlphas": [
-        "Skrchen666(钻石手伤心版 绝对纸手之人）",
-        "flaxsed"
-      ],
-      "xAlphas": [],
-      "mentions": 2,
-      "firstSeen": "2026-10-28T17:19:30+00:00",
-      "lastSeen": "2026-10-28T18:05:50+00:00",
-      "description": "The first Binance Agentic Launchpad on Solana",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Agentic Pad",
-          "account": "agenticsolfun",
-          "alpha": "flaxsed",
-          "seenAt": "2026-10-28T17:19:30+00:00",
-          "messageId": "dodtwitterbot/38297",
-          "description": "The first Binance Agentic Launchpad on Solana",
-          "text": "The first Binance Agentic Launchpad on Solana"
-        },
-        {
-          "source": "TG",
-          "project": "Agentic Pad",
-          "account": "agenticsolfun",
-          "alpha": "Skrchen666(钻石手伤心版 绝对纸手之人）",
-          "seenAt": "2026-10-28T18:05:50+00:00",
-          "messageId": "dodtwitterbot/38311",
-          "description": "The first Binance Agentic Launchpad on Solana",
-          "text": "The first Binance Agentic Launchpad on Solana"
-        }
-      ],
-      "text": " Agentic Pad agenticsolfun The first Binance Agentic Launchpad on Solana Agentic Pad agenticsolfun The first Binance Agentic Launchpad on Solana",
-      "score": 4,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Ascend",
-      "account": "AscendLaunch",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "Mutu",
-        "speest"
-      ],
-      "tgAlphas": [
-        "Mutu",
-        "speest"
-      ],
-      "xAlphas": [],
-      "mentions": 2,
-      "firstSeen": "2026-10-28T21:55:00+08:00",
-      "lastSeen": "2026-10-28T22:19:00+08:00",
-      "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Ascend",
-          "account": "AscendLaunch",
-          "alpha": "Mutu",
-          "seenAt": "2026-10-28T21:55:00+08:00",
-          "messageId": "dodtwitterbot/38251",
-          "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
-          "text": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects"
-        },
-        {
-          "source": "TG",
-          "project": "Ascend",
-          "account": "AscendLaunch",
-          "alpha": "speest",
-          "seenAt": "2026-10-28T22:19:00+08:00",
-          "messageId": "dodtwitterbot/38257",
-          "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
-          "text": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects"
-        }
-      ],
-      "text": " Ascend AscendLaunch Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects Ascend AscendLaunch Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
-      "score": 4,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
       "project": "blobs.meme",
       "account": "blobsdotmeme",
       "sources": [
@@ -573,52 +713,6 @@
         }
       ],
       "text": " blobs.meme blobsdotmeme The @Ethereum launchpad where every coin gets an AI Agent: built around your logo, it runs the treasury, grows when it trades and sleeps when it's quiet. blobs.meme blobsdotmeme The @Ethereum launchpad where every coin gets an AI Agent: built around your logo, it runs the treasury, grows when it trades and sleeps when it's quiet.",
-      "score": 4,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
-      "project": "ComputeRoll",
-      "account": "ComputeRollLabs",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "八九",
-        "发誓要做永赚大师"
-      ],
-      "tgAlphas": [
-        "八九",
-        "发誓要做永赚大师"
-      ],
-      "xAlphas": [],
-      "mentions": 2,
-      "firstSeen": "2026-10-28T11:12:00+08:00",
-      "lastSeen": "2026-10-28T19:04:00+08:00",
-      "description": "Building Agent ID-gated PoW on BNB Chain. Your agent. Your proof. Coming soon.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "ComputeRoll",
-          "account": "ComputeRollLabs",
-          "alpha": "八九",
-          "seenAt": "2026-10-28T11:12:00+08:00",
-          "messageId": "dodtwitterbot/38169",
-          "description": "Building Agent ID-gated PoW on BNB Chain. Your agent. Your proof. Coming soon.",
-          "text": "Building Agent ID-gated PoW on BNB Chain. Your agent. Your proof. Coming soon."
-        },
-        {
-          "source": "TG",
-          "project": "ComputeRoll",
-          "account": "ComputeRollLabs",
-          "alpha": "发誓要做永赚大师",
-          "seenAt": "2026-10-28T19:04:00+08:00",
-          "messageId": "dodtwitterbot/38213",
-          "description": "Building Agent ID-gated PoW on BNB Chain. Your agent. Your proof. Coming soon.",
-          "text": "Building Agent ID-gated PoW on BNB Chain. Your agent. Your proof. Coming soon."
-        }
-      ],
-      "text": " ComputeRoll ComputeRollLabs Building Agent ID-gated PoW on BNB Chain. Your agent. Your proof. Coming soon. ComputeRoll ComputeRollLabs Building Agent ID-gated PoW on BNB Chain. Your agent. Your proof. Coming soon.",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -854,6 +948,98 @@
       "avatarUrl": ""
     },
     {
+      "project": "Todd",
+      "account": "ToshXguys",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "发誓要做永赚大师",
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "发誓要做永赚大师",
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-10-29T06:12:54+00:00",
+      "lastSeen": "2026-10-29T07:19:07+00:00",
+      "description": "TapeOut 生态发射台｜以 &#036;BEM为计价基准 @ToshProtocol\n\nTG: https://t.co/FHbm4oX520",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Todd",
+          "account": "ToshXguys",
+          "alpha": "发誓要做永赚大师",
+          "seenAt": "2026-10-29T06:12:54+00:00",
+          "messageId": "dodtwitterbot/38408",
+          "description": "TapeOut 生态发射台｜以 &#036;BEM为计价基准 @ToshProtocol\n\nTG: https://t.co/FHbm4oX520",
+          "text": "TapeOut 生态发射台｜以 &#036;BEM为计价基准 @ToshProtocol\n\nTG: https://t.co/FHbm4oX520"
+        },
+        {
+          "source": "TG",
+          "project": "Todd",
+          "account": "ToshXguys",
+          "alpha": "蛋总",
+          "seenAt": "2026-10-29T07:19:07+00:00",
+          "messageId": "dodtwitterbot/38419",
+          "description": "TapeOut 生态发射台｜以 &#036;BEM为计价基准 @ToshProtocol\n\nTG: https://t.co/FHbm4oX520",
+          "text": "TapeOut 生态发射台｜以 &#036;BEM为计价基准 @ToshProtocol\n\nTG: https://t.co/FHbm4oX520"
+        }
+      ],
+      "text": " Todd ToshXguys TapeOut 生态发射台｜以 &#036;BEM为计价基准 @ToshProtocol\n\nTG: https://t.co/FHbm4oX520 Todd ToshXguys TapeOut 生态发射台｜以 &#036;BEM为计价基准 @ToshProtocol\n\nTG: https://t.co/FHbm4oX520",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "xiaosu",
+      "account": "xiaosu998",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "发誓要做永赚大师",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "发誓要做永赚大师",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-10-28T20:10:27+00:00",
+      "lastSeen": "2026-10-29T05:40:06+00:00",
+      "description": "捕捉分享早期信息，一级选手。\n人只需要赢一次\n碎碎念： https://t.co/hCvPW9fTVH\nBitcoin Ordinals Eth",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "xiaosu",
+          "account": "xiaosu998",
+          "alpha": "发誓要做永赚大师",
+          "seenAt": "2026-10-28T20:10:27+00:00",
+          "messageId": "dodtwitterbot/38343",
+          "description": "捕捉分享早期信息，一级选手。\n人只需要赢一次\n碎碎念： https://t.co/hCvPW9fTVH\nBitcoin Ordinals Eth",
+          "text": "捕捉分享早期信息，一级选手。\n人只需要赢一次\n碎碎念： https://t.co/hCvPW9fTVH\nBitcoin Ordinals Eth"
+        },
+        {
+          "source": "TG",
+          "project": "xiaosu",
+          "account": "xiaosu998",
+          "alpha": "阿宏",
+          "seenAt": "2026-10-29T05:40:06+00:00",
+          "messageId": "dodtwitterbot/38403",
+          "description": "捕捉分享早期信息，一级选手。\n人只需要赢一次\n碎碎念： https://t.co/hCvPW9fTVH\nBitcoin Ordinals Eth",
+          "text": "捕捉分享早期信息，一级选手。\n人只需要赢一次\n碎碎念： https://t.co/hCvPW9fTVH\nBitcoin Ordinals Eth"
+        }
+      ],
+      "text": " xiaosu xiaosu998 捕捉分享早期信息，一级选手。\n人只需要赢一次\n碎碎念： https://t.co/hCvPW9fTVH\nBitcoin Ordinals Eth xiaosu xiaosu998 捕捉分享早期信息，一级选手。\n人只需要赢一次\n碎碎念： https://t.co/hCvPW9fTVH\nBitcoin Ordinals Eth",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "0xWills | Crypto Inheritance",
       "account": "0xWillsHQ",
       "sources": [
@@ -951,6 +1137,40 @@
         }
       ],
       "text": " agentsea agentsea_fun Launch a vision. Agents create it. The NFT launchpad.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "AI",
+      "account": "bnbai_bsc",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "八九"
+      ],
+      "tgAlphas": [
+        "八九"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-29T03:24:52+00:00",
+      "lastSeen": "2026-10-29T03:24:52+00:00",
+      "description": "AIBNB — an AI launchpad on BNB Chain.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "AI",
+          "account": "bnbai_bsc",
+          "alpha": "八九",
+          "seenAt": "2026-10-29T03:24:52+00:00",
+          "messageId": "dodtwitterbot/38363",
+          "description": "AIBNB — an AI launchpad on BNB Chain.",
+          "text": "AIBNB — an AI launchpad on BNB Chain."
+        }
+      ],
+      "text": " AI bnbai_bsc AIBNB — an AI launchpad on BNB Chain.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -1364,40 +1584,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "ELY",
-      "account": "ely__hl",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "flaxsed"
-      ],
-      "tgAlphas": [
-        "flaxsed"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-10-28T17:33:53+00:00",
-      "lastSeen": "2026-10-28T17:33:53+00:00",
-      "description": "The first token launched on @Enter_Elysium",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "ELY",
-          "account": "ely__hl",
-          "alpha": "flaxsed",
-          "seenAt": "2026-10-28T17:33:53+00:00",
-          "messageId": "dodtwitterbot/38301",
-          "description": "The first token launched on @Enter_Elysium",
-          "text": "The first token launched on @Enter_Elysium"
-        }
-      ],
-      "text": " ELY ely__hl The first token launched on @Enter_Elysium",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
       "project": "Elysium Pump",
       "account": "ElysiumPump",
       "sources": [
@@ -1461,6 +1647,40 @@
         }
       ],
       "text": " Fishesrh Fishesrh Hire fishermen in your town, accumulate tokens, and claim $FISHESRH.\n3.333 FREE NFTs on @opensea\nBy @VapeciETH",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "GIWATRON",
+      "account": "Giwatron",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-29T07:00:49+00:00",
+      "lastSeen": "2026-10-29T07:00:49+00:00",
+      "description": "// giwatron protocol: the machines are waking up.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "GIWATRON",
+          "account": "Giwatron",
+          "alpha": "蛋总",
+          "seenAt": "2026-10-29T07:00:49+00:00",
+          "messageId": "dodtwitterbot/38413",
+          "description": "// giwatron protocol: the machines are waking up.",
+          "text": "// giwatron protocol: the machines are waking up."
+        }
+      ],
+      "text": " GIWATRON Giwatron // giwatron protocol: the machines are waking up.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -1738,6 +1958,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Machine.fun",
+      "account": "machinedotfun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "speest 💎"
+      ],
+      "tgAlphas": [
+        "speest 💎"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-29T02:42:18+00:00",
+      "lastSeen": "2026-10-29T02:42:18+00:00",
+      "description": "Making Robotics accessible for everyone.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Machine.fun",
+          "account": "machinedotfun",
+          "alpha": "speest 💎",
+          "seenAt": "2026-10-29T02:42:18+00:00",
+          "messageId": "dodtwitterbot/38359",
+          "description": "Making Robotics accessible for everyone.",
+          "text": "Making Robotics accessible for everyone."
+        }
+      ],
+      "text": " Machine.fun machinedotfun Making Robotics accessible for everyone.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Makina.fun",
       "account": "makinafun",
       "sources": [
@@ -1835,6 +2089,40 @@
         }
       ],
       "text": " Mining Machine RigGrid Turn on your farm. Mine $ORE. Build more Mining Power.\n\n21M $ORE. 4 epochs. Rigs, blocks, boosts and referrals.\n\nThe machines are running.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "MOJO",
+      "account": "MojoAI_HQ",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-29T04:17:40+00:00",
+      "lastSeen": "2026-10-29T04:17:40+00:00",
+      "description": "The all-in-one agentic trading OS.\n\nInvest with taste mode.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "MOJO",
+          "account": "MojoAI_HQ",
+          "alpha": "蛋总",
+          "seenAt": "2026-10-29T04:17:40+00:00",
+          "messageId": "dodtwitterbot/38374",
+          "description": "The all-in-one agentic trading OS.\n\nInvest with taste mode.",
+          "text": "The all-in-one agentic trading OS.\n\nInvest with taste mode."
+        }
+      ],
+      "text": " MOJO MojoAI_HQ The all-in-one agentic trading OS.\n\nInvest with taste mode.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -2112,6 +2400,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Realbond",
+      "account": "realbondai",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-29T07:28:41+00:00",
+      "lastSeen": "2026-10-29T07:28:41+00:00",
+      "description": "Real agents ，Real bonding curve.\nBind your agent address to X /Launchpad On BNB Chain",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Realbond",
+          "account": "realbondai",
+          "alpha": "蛋总",
+          "seenAt": "2026-10-29T07:28:41+00:00",
+          "messageId": "dodtwitterbot/38420",
+          "description": "Real agents ，Real bonding curve.\nBind your agent address to X /Launchpad On BNB Chain",
+          "text": "Real agents ，Real bonding curve.\nBind your agent address to X /Launchpad On BNB Chain"
+        }
+      ],
+      "text": " Realbond realbondai Real agents ，Real bonding curve.\nBind your agent address to X /Launchpad On BNB Chain",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Satsfun",
       "account": "Satsfun",
       "sources": [
@@ -2180,6 +2502,74 @@
       "avatarUrl": ""
     },
     {
+      "project": "Skyline 🇺🇸 /acc",
+      "account": "SolanaSkyline",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-29T03:58:12+00:00",
+      "lastSeen": "2026-10-29T03:58:12+00:00",
+      "description": "Solana's NYC ecosystem",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Skyline 🇺🇸 /acc",
+          "account": "SolanaSkyline",
+          "alpha": "蛋总",
+          "seenAt": "2026-10-29T03:58:12+00:00",
+          "messageId": "dodtwitterbot/38369",
+          "description": "Solana's NYC ecosystem",
+          "text": "Solana's NYC ecosystem"
+        }
+      ],
+      "text": " Skyline 🇺🇸 /acc SolanaSkyline Solana's NYC ecosystem",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "spawn",
+      "account": "spawn",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-29T04:10:38+00:00",
+      "lastSeen": "2026-10-29T04:10:38+00:00",
+      "description": "your place to make games with friends",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "spawn",
+          "account": "spawn",
+          "alpha": "蛋总",
+          "seenAt": "2026-10-29T04:10:38+00:00",
+          "messageId": "dodtwitterbot/38371",
+          "description": "your place to make games with friends",
+          "text": "your place to make games with friends"
+        }
+      ],
+      "text": " spawn spawn your place to make games with friends",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Squadz Protocol",
       "account": "Squadzdotfun",
       "sources": [
@@ -2243,6 +2633,40 @@
         }
       ],
       "text": " SuperToken supertokenspl Where the token is the system.\n\nNot just SPL. Super.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "t1",
+      "account": "t1protocol",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-29T05:39:14+00:00",
+      "lastSeen": "2026-10-29T05:39:14+00:00",
+      "description": "Undercollateralized credit for DeFi. Powering @useamplifi . Backed by @a16z CSX.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "t1",
+          "account": "t1protocol",
+          "alpha": "阿宏",
+          "seenAt": "2026-10-29T05:39:14+00:00",
+          "messageId": "dodtwitterbot/38399",
+          "description": "Undercollateralized credit for DeFi. Powering @useamplifi . Backed by @a16z CSX.",
+          "text": "Undercollateralized credit for DeFi. Powering @useamplifi . Backed by @a16z CSX."
+        }
+      ],
+      "text": " t1 t1protocol Undercollateralized credit for DeFi. Powering @useamplifi . Backed by @a16z CSX.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -2350,35 +2774,35 @@
       "avatarUrl": ""
     },
     {
-      "project": "xiaosu",
-      "account": "xiaosu998",
+      "project": "UNSEEN",
+      "account": "UnseenOrdo",
       "sources": [
         "TG"
       ],
       "alphas": [
-        "发誓要做永赚大师"
+        "八九"
       ],
       "tgAlphas": [
-        "发誓要做永赚大师"
+        "八九"
       ],
       "xAlphas": [],
       "mentions": 1,
-      "firstSeen": "2026-10-28T20:10:27+00:00",
-      "lastSeen": "2026-10-28T20:10:27+00:00",
-      "description": "捕捉分享早期信息，一级选手。\n人只需要赢一次\n碎碎念： https://t.co/hCvPW9fTVH\nBitcoin Ordinals Eth",
+      "firstSeen": "2026-10-29T07:10:35+00:00",
+      "lastSeen": "2026-10-29T07:10:35+00:00",
+      "description": "The first Private UDA(NFT) collection on Bitcoin RGB.\nHere's to the unseen ones.\nTG → https://t.co/zzUxatm7kr",
       "rows": [
         {
           "source": "TG",
-          "project": "xiaosu",
-          "account": "xiaosu998",
-          "alpha": "发誓要做永赚大师",
-          "seenAt": "2026-10-28T20:10:27+00:00",
-          "messageId": "dodtwitterbot/38343",
-          "description": "捕捉分享早期信息，一级选手。\n人只需要赢一次\n碎碎念： https://t.co/hCvPW9fTVH\nBitcoin Ordinals Eth",
-          "text": "捕捉分享早期信息，一级选手。\n人只需要赢一次\n碎碎念： https://t.co/hCvPW9fTVH\nBitcoin Ordinals Eth"
+          "project": "UNSEEN",
+          "account": "UnseenOrdo",
+          "alpha": "八九",
+          "seenAt": "2026-10-29T07:10:35+00:00",
+          "messageId": "dodtwitterbot/38417",
+          "description": "The first Private UDA(NFT) collection on Bitcoin RGB.\nHere's to the unseen ones.\nTG → https://t.co/zzUxatm7kr",
+          "text": "The first Private UDA(NFT) collection on Bitcoin RGB.\nHere's to the unseen ones.\nTG → https://t.co/zzUxatm7kr"
         }
       ],
-      "text": " xiaosu xiaosu998 捕捉分享早期信息，一级选手。\n人只需要赢一次\n碎碎念： https://t.co/hCvPW9fTVH\nBitcoin Ordinals Eth",
+      "text": " UNSEEN UnseenOrdo The first Private UDA(NFT) collection on Bitcoin RGB.\nHere's to the unseen ones.\nTG → https://t.co/zzUxatm7kr",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -2544,6 +2968,70 @@
       "avatarUrl": ""
     },
     {
+      "project": "Agentic Pad",
+      "x_account": "agenticsolfun",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "Skrchen666(钻石手伤心版 绝对纸手之人）",
+        "flaxsed",
+        "阿宏"
+      ],
+      "description": "The first Binance Agentic Launchpad on Solana",
+      "first_seen_utc": "2026-10-28T17:19:30+00:00",
+      "last_seen_utc": "2026-10-29T05:40:06+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Ascend",
+      "x_account": "AscendLaunch",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "Mutu",
+        "speest",
+        "叶子君Foliage ◎ 🔶"
+      ],
+      "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
+      "first_seen_utc": "2026-10-28T21:55:00+08:00",
+      "last_seen_utc": "2026-10-29T05:15:48+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
+      "project": "ComputeRoll",
+      "x_account": "ComputeRollLabs",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "八九",
+        "发誓要做永赚大师",
+        "阿宏"
+      ],
+      "description": "Building Agent ID-gated PoW on BNB Chain. Your agent. Your proof. Coming soon.",
+      "first_seen_utc": "2026-10-28T11:12:00+08:00",
+      "last_seen_utc": "2026-10-29T05:39:13+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
+      "project": "ELY",
+      "x_account": "ely__hl",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "flaxsed",
+        "发誓要做永赚大师",
+        "阿宏"
+      ],
+      "description": "The first token launched on @Enter_Elysium",
+      "first_seen_utc": "2026-10-28T17:33:53+00:00",
+      "last_seen_utc": "2026-10-29T05:40:06+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
       "project": "Orbital",
       "x_account": "orbitaldotinc",
       "total_mentions": 3,
@@ -2592,36 +3080,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Agentic Pad",
-      "x_account": "agenticsolfun",
-      "total_mentions": 2,
-      "unique_alphas": 2,
-      "alphas": [
-        "Skrchen666(钻石手伤心版 绝对纸手之人）",
-        "flaxsed"
-      ],
-      "description": "The first Binance Agentic Launchpad on Solana",
-      "first_seen_utc": "2026-10-28T17:19:30+00:00",
-      "last_seen_utc": "2026-10-28T18:05:50+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Ascend",
-      "x_account": "AscendLaunch",
-      "total_mentions": 2,
-      "unique_alphas": 2,
-      "alphas": [
-        "Mutu",
-        "speest"
-      ],
-      "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
-      "first_seen_utc": "2026-10-28T21:55:00+08:00",
-      "last_seen_utc": "2026-10-28T22:19:00+08:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "blobs.meme",
       "x_account": "blobsdotmeme",
       "total_mentions": 2,
@@ -2633,21 +3091,6 @@
       "description": "The @Ethereum launchpad where every coin gets an AI Agent: built around your logo, it runs the treasury, grows when it trades and sleeps when it's quiet.",
       "first_seen_utc": "2026-10-28T01:09:00+08:00",
       "last_seen_utc": "2026-10-28T19:01:00+08:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "ComputeRoll",
-      "x_account": "ComputeRollLabs",
-      "total_mentions": 2,
-      "unique_alphas": 2,
-      "alphas": [
-        "八九",
-        "发誓要做永赚大师"
-      ],
-      "description": "Building Agent ID-gated PoW on BNB Chain. Your agent. Your proof. Coming soon.",
-      "first_seen_utc": "2026-10-28T11:12:00+08:00",
-      "last_seen_utc": "2026-10-28T19:04:00+08:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -2727,6 +3170,36 @@
       "avatarUrl": ""
     },
     {
+      "project": "Todd",
+      "x_account": "ToshXguys",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "发誓要做永赚大师",
+        "蛋总"
+      ],
+      "description": "TapeOut 生态发射台｜以 &#036;BEM为计价基准 @ToshProtocol\n\nTG: https://t.co/FHbm4oX520",
+      "first_seen_utc": "2026-10-29T06:12:54+00:00",
+      "last_seen_utc": "2026-10-29T07:19:07+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "xiaosu",
+      "x_account": "xiaosu998",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "发誓要做永赚大师",
+        "阿宏"
+      ],
+      "description": "捕捉分享早期信息，一级选手。\n人只需要赢一次\n碎碎念： https://t.co/hCvPW9fTVH\nBitcoin Ordinals Eth",
+      "first_seen_utc": "2026-10-28T20:10:27+00:00",
+      "last_seen_utc": "2026-10-29T05:40:06+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "0xWills | Crypto Inheritance",
       "x_account": "0xWillsHQ",
       "total_mentions": 1,
@@ -2765,6 +3238,20 @@
       "description": "Launch a vision. Agents create it. The NFT launchpad.",
       "first_seen_utc": "2026-10-28T18:33:38+00:00",
       "last_seen_utc": "2026-10-28T18:33:38+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "AI",
+      "x_account": "bnbai_bsc",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "八九"
+      ],
+      "description": "AIBNB — an AI launchpad on BNB Chain.",
+      "first_seen_utc": "2026-10-29T03:24:52+00:00",
+      "last_seen_utc": "2026-10-29T03:24:52+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -2937,20 +3424,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "ELY",
-      "x_account": "ely__hl",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "flaxsed"
-      ],
-      "description": "The first token launched on @Enter_Elysium",
-      "first_seen_utc": "2026-10-28T17:33:53+00:00",
-      "last_seen_utc": "2026-10-28T17:33:53+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "Elysium Pump",
       "x_account": "ElysiumPump",
       "total_mentions": 1,
@@ -2975,6 +3448,20 @@
       "description": "Hire fishermen in your town, accumulate tokens, and claim $FISHESRH.\n3.333 FREE NFTs on @opensea\nBy @VapeciETH",
       "first_seen_utc": "2026-10-28T17:36:00+08:00",
       "last_seen_utc": "2026-10-28T17:36:00+08:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "GIWATRON",
+      "x_account": "Giwatron",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "// giwatron protocol: the machines are waking up.",
+      "first_seen_utc": "2026-10-29T07:00:49+00:00",
+      "last_seen_utc": "2026-10-29T07:00:49+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -3091,6 +3578,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Machine.fun",
+      "x_account": "machinedotfun",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "speest 💎"
+      ],
+      "description": "Making Robotics accessible for everyone.",
+      "first_seen_utc": "2026-10-29T02:42:18+00:00",
+      "last_seen_utc": "2026-10-29T02:42:18+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Makina.fun",
       "x_account": "makinafun",
       "total_mentions": 1,
@@ -3129,6 +3630,20 @@
       "description": "Turn on your farm. Mine $ORE. Build more Mining Power.\n\n21M $ORE. 4 epochs. Rigs, blocks, boosts and referrals.\n\nThe machines are running.",
       "first_seen_utc": "2026-10-28T16:47:00+08:00",
       "last_seen_utc": "2026-10-28T16:47:00+08:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "MOJO",
+      "x_account": "MojoAI_HQ",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "The all-in-one agentic trading OS.\n\nInvest with taste mode.",
+      "first_seen_utc": "2026-10-29T04:17:40+00:00",
+      "last_seen_utc": "2026-10-29T04:17:40+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -3245,6 +3760,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Realbond",
+      "x_account": "realbondai",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "Real agents ，Real bonding curve.\nBind your agent address to X /Launchpad On BNB Chain",
+      "first_seen_utc": "2026-10-29T07:28:41+00:00",
+      "last_seen_utc": "2026-10-29T07:28:41+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Satsfun",
       "x_account": "Satsfun",
       "total_mentions": 1,
@@ -3273,6 +3802,34 @@
       "avatarUrl": ""
     },
     {
+      "project": "Skyline 🇺🇸 /acc",
+      "x_account": "SolanaSkyline",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "Solana's NYC ecosystem",
+      "first_seen_utc": "2026-10-29T03:58:12+00:00",
+      "last_seen_utc": "2026-10-29T03:58:12+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "spawn",
+      "x_account": "spawn",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "your place to make games with friends",
+      "first_seen_utc": "2026-10-29T04:10:38+00:00",
+      "last_seen_utc": "2026-10-29T04:10:38+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Squadz Protocol",
       "x_account": "Squadzdotfun",
       "total_mentions": 1,
@@ -3297,6 +3854,20 @@
       "description": "Where the token is the system.\n\nNot just SPL. Super.",
       "first_seen_utc": "2026-10-28T03:01:00+08:00",
       "last_seen_utc": "2026-10-28T03:01:00+08:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "t1",
+      "x_account": "t1protocol",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "阿宏"
+      ],
+      "description": "Undercollateralized credit for DeFi. Powering @useamplifi . Backed by @a16z CSX.",
+      "first_seen_utc": "2026-10-29T05:39:14+00:00",
+      "last_seen_utc": "2026-10-29T05:39:14+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -3343,16 +3914,16 @@
       "avatarUrl": ""
     },
     {
-      "project": "xiaosu",
-      "x_account": "xiaosu998",
+      "project": "UNSEEN",
+      "x_account": "UnseenOrdo",
       "total_mentions": 1,
       "unique_alphas": 1,
       "alphas": [
-        "发誓要做永赚大师"
+        "八九"
       ],
-      "description": "捕捉分享早期信息，一级选手。\n人只需要赢一次\n碎碎念： https://t.co/hCvPW9fTVH\nBitcoin Ordinals Eth",
-      "first_seen_utc": "2026-10-28T20:10:27+00:00",
-      "last_seen_utc": "2026-10-28T20:10:27+00:00",
+      "description": "The first Private UDA(NFT) collection on Bitcoin RGB.\nHere's to the unseen ones.\nTG → https://t.co/zzUxatm7kr",
+      "first_seen_utc": "2026-10-29T07:10:35+00:00",
+      "last_seen_utc": "2026-10-29T07:10:35+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -3402,13 +3973,13 @@
   "daily": [
     {
       "date": "2026-10-29",
-      "totalRows": 29,
-      "projectCount": 24,
-      "focusCount": 3,
-      "candidateCount": 21,
+      "totalRows": 46,
+      "projectCount": 36,
+      "focusCount": 6,
+      "candidateCount": 30,
       "crossSource": 0,
-      "newCount": 20,
-      "repeatCount": 4,
+      "newCount": 30,
+      "repeatCount": 6,
       "projects": [
         {
           "project": "CABAL",
@@ -3489,16 +4060,18 @@
           ],
           "alphas": [
             "Skrchen666(钻石手伤心版 绝对纸手之人）",
-            "flaxsed"
+            "flaxsed",
+            "阿宏"
           ],
           "tgAlphas": [
             "Skrchen666(钻石手伤心版 绝对纸手之人）",
-            "flaxsed"
+            "flaxsed",
+            "阿宏"
           ],
           "xAlphas": [],
-          "mentions": 2,
+          "mentions": 3,
           "firstSeen": "2026-10-28T17:19:30+00:00",
-          "lastSeen": "2026-10-28T18:05:50+00:00",
+          "lastSeen": "2026-10-29T05:40:06+00:00",
           "description": "The first Binance Agentic Launchpad on Solana",
           "rows": [
             {
@@ -3520,10 +4093,79 @@
               "messageId": "dodtwitterbot/38311",
               "description": "The first Binance Agentic Launchpad on Solana",
               "text": "The first Binance Agentic Launchpad on Solana"
+            },
+            {
+              "source": "TG",
+              "project": "Agentic Pad",
+              "account": "agenticsolfun",
+              "alpha": "阿宏",
+              "seenAt": "2026-10-29T05:40:06+00:00",
+              "messageId": "dodtwitterbot/38405",
+              "description": "The first Binance Agentic Launchpad on Solana",
+              "text": "The first Binance Agentic Launchpad on Solana"
             }
           ],
-          "text": " Agentic Pad agenticsolfun The first Binance Agentic Launchpad on Solana Agentic Pad agenticsolfun The first Binance Agentic Launchpad on Solana",
-          "score": 4,
+          "text": " Agentic Pad agenticsolfun The first Binance Agentic Launchpad on Solana Agentic Pad agenticsolfun The first Binance Agentic Launchpad on Solana Agentic Pad agenticsolfun The first Binance Agentic Launchpad on Solana",
+          "score": 6,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "ELY",
+          "account": "ely__hl",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "flaxsed",
+            "发誓要做永赚大师",
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "flaxsed",
+            "发誓要做永赚大师",
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 3,
+          "firstSeen": "2026-10-28T17:33:53+00:00",
+          "lastSeen": "2026-10-29T05:40:06+00:00",
+          "description": "The first token launched on @Enter_Elysium",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "ELY",
+              "account": "ely__hl",
+              "alpha": "flaxsed",
+              "seenAt": "2026-10-28T17:33:53+00:00",
+              "messageId": "dodtwitterbot/38301",
+              "description": "The first token launched on @Enter_Elysium",
+              "text": "The first token launched on @Enter_Elysium"
+            },
+            {
+              "source": "TG",
+              "project": "ELY",
+              "account": "ely__hl",
+              "alpha": "发誓要做永赚大师",
+              "seenAt": "2026-10-29T04:55:11+00:00",
+              "messageId": "dodtwitterbot/38384",
+              "description": "The first token launched on @Enter_Elysium",
+              "text": "The first token launched on @Enter_Elysium"
+            },
+            {
+              "source": "TG",
+              "project": "ELY",
+              "account": "ely__hl",
+              "alpha": "阿宏",
+              "seenAt": "2026-10-29T05:40:06+00:00",
+              "messageId": "dodtwitterbot/38404",
+              "description": "The first token launched on @Enter_Elysium",
+              "text": "The first token launched on @Enter_Elysium"
+            }
+          ],
+          "text": " ELY ely__hl The first token launched on @Enter_Elysium ELY ely__hl The first token launched on @Enter_Elysium ELY ely__hl The first token launched on @Enter_Elysium",
+          "score": 6,
           "displayTier": "focus",
           "avatarUrl": "",
           "dayStatus": "new"
@@ -3576,6 +4218,100 @@
           "dayStatus": "repeat"
         },
         {
+          "project": "Todd",
+          "account": "ToshXguys",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "发誓要做永赚大师",
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "发誓要做永赚大师",
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-10-29T06:12:54+00:00",
+          "lastSeen": "2026-10-29T07:19:07+00:00",
+          "description": "TapeOut 生态发射台｜以 &#036;BEM为计价基准 @ToshProtocol\n\nTG: https://t.co/FHbm4oX520",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Todd",
+              "account": "ToshXguys",
+              "alpha": "发誓要做永赚大师",
+              "seenAt": "2026-10-29T06:12:54+00:00",
+              "messageId": "dodtwitterbot/38408",
+              "description": "TapeOut 生态发射台｜以 &#036;BEM为计价基准 @ToshProtocol\n\nTG: https://t.co/FHbm4oX520",
+              "text": "TapeOut 生态发射台｜以 &#036;BEM为计价基准 @ToshProtocol\n\nTG: https://t.co/FHbm4oX520"
+            },
+            {
+              "source": "TG",
+              "project": "Todd",
+              "account": "ToshXguys",
+              "alpha": "蛋总",
+              "seenAt": "2026-10-29T07:19:07+00:00",
+              "messageId": "dodtwitterbot/38419",
+              "description": "TapeOut 生态发射台｜以 &#036;BEM为计价基准 @ToshProtocol\n\nTG: https://t.co/FHbm4oX520",
+              "text": "TapeOut 生态发射台｜以 &#036;BEM为计价基准 @ToshProtocol\n\nTG: https://t.co/FHbm4oX520"
+            }
+          ],
+          "text": " Todd ToshXguys TapeOut 生态发射台｜以 &#036;BEM为计价基准 @ToshProtocol\n\nTG: https://t.co/FHbm4oX520 Todd ToshXguys TapeOut 生态发射台｜以 &#036;BEM为计价基准 @ToshProtocol\n\nTG: https://t.co/FHbm4oX520",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "xiaosu",
+          "account": "xiaosu998",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "发誓要做永赚大师",
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "发誓要做永赚大师",
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-10-28T20:10:27+00:00",
+          "lastSeen": "2026-10-29T05:40:06+00:00",
+          "description": "捕捉分享早期信息，一级选手。\n人只需要赢一次\n碎碎念： https://t.co/hCvPW9fTVH\nBitcoin Ordinals Eth",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "xiaosu",
+              "account": "xiaosu998",
+              "alpha": "发誓要做永赚大师",
+              "seenAt": "2026-10-28T20:10:27+00:00",
+              "messageId": "dodtwitterbot/38343",
+              "description": "捕捉分享早期信息，一级选手。\n人只需要赢一次\n碎碎念： https://t.co/hCvPW9fTVH\nBitcoin Ordinals Eth",
+              "text": "捕捉分享早期信息，一级选手。\n人只需要赢一次\n碎碎念： https://t.co/hCvPW9fTVH\nBitcoin Ordinals Eth"
+            },
+            {
+              "source": "TG",
+              "project": "xiaosu",
+              "account": "xiaosu998",
+              "alpha": "阿宏",
+              "seenAt": "2026-10-29T05:40:06+00:00",
+              "messageId": "dodtwitterbot/38403",
+              "description": "捕捉分享早期信息，一级选手。\n人只需要赢一次\n碎碎念： https://t.co/hCvPW9fTVH\nBitcoin Ordinals Eth",
+              "text": "捕捉分享早期信息，一级选手。\n人只需要赢一次\n碎碎念： https://t.co/hCvPW9fTVH\nBitcoin Ordinals Eth"
+            }
+          ],
+          "text": " xiaosu xiaosu998 捕捉分享早期信息，一级选手。\n人只需要赢一次\n碎碎念： https://t.co/hCvPW9fTVH\nBitcoin Ordinals Eth xiaosu xiaosu998 捕捉分享早期信息，一级选手。\n人只需要赢一次\n碎碎念： https://t.co/hCvPW9fTVH\nBitcoin Ordinals Eth",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
           "project": "agentsea",
           "account": "agentsea_fun",
           "sources": [
@@ -3605,6 +4341,41 @@
             }
           ],
           "text": " agentsea agentsea_fun Launch a vision. Agents create it. The NFT launchpad.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "AI",
+          "account": "bnbai_bsc",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "八九"
+          ],
+          "tgAlphas": [
+            "八九"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-29T03:24:52+00:00",
+          "lastSeen": "2026-10-29T03:24:52+00:00",
+          "description": "AIBNB — an AI launchpad on BNB Chain.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "AI",
+              "account": "bnbai_bsc",
+              "alpha": "八九",
+              "seenAt": "2026-10-29T03:24:52+00:00",
+              "messageId": "dodtwitterbot/38363",
+              "description": "AIBNB — an AI launchpad on BNB Chain.",
+              "text": "AIBNB — an AI launchpad on BNB Chain."
+            }
+          ],
+          "text": " AI bnbai_bsc AIBNB — an AI launchpad on BNB Chain.",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -3644,6 +4415,41 @@
           "displayTier": "candidate",
           "avatarUrl": "",
           "dayStatus": "new"
+        },
+        {
+          "project": "Ascend",
+          "account": "AscendLaunch",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "叶子君Foliage ◎ 🔶"
+          ],
+          "tgAlphas": [
+            "叶子君Foliage ◎ 🔶"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-29T05:15:48+00:00",
+          "lastSeen": "2026-10-29T05:15:48+00:00",
+          "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Ascend",
+              "account": "AscendLaunch",
+              "alpha": "叶子君Foliage ◎ 🔶",
+              "seenAt": "2026-10-29T05:15:48+00:00",
+              "messageId": "dodtwitterbot/38389",
+              "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
+              "text": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects"
+            }
+          ],
+          "text": " Ascend AscendLaunch Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
         },
         {
           "project": "Bobby Thakkar",
@@ -3751,6 +4557,41 @@
           "dayStatus": "new"
         },
         {
+          "project": "ComputeRoll",
+          "account": "ComputeRollLabs",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-29T05:39:13+00:00",
+          "lastSeen": "2026-10-29T05:39:13+00:00",
+          "description": "Building Agent ID-gated PoW on BNB Chain. Your agent. Your proof. Coming soon.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "ComputeRoll",
+              "account": "ComputeRollLabs",
+              "alpha": "阿宏",
+              "seenAt": "2026-10-29T05:39:13+00:00",
+              "messageId": "dodtwitterbot/38397",
+              "description": "Building Agent ID-gated PoW on BNB Chain. Your agent. Your proof. Coming soon.",
+              "text": "Building Agent ID-gated PoW on BNB Chain. Your agent. Your proof. Coming soon."
+            }
+          ],
+          "text": " ComputeRoll ComputeRollLabs Building Agent ID-gated PoW on BNB Chain. Your agent. Your proof. Coming soon.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
           "project": "ELA.fun",
           "account": "Elaa_fun",
           "sources": [
@@ -3780,41 +4621,6 @@
             }
           ],
           "text": " ELA.fun Elaa_fun The Next Generation Multi-Chain Launchpad & Traffic Growth Network",
-          "score": 2,
-          "displayTier": "candidate",
-          "avatarUrl": "",
-          "dayStatus": "new"
-        },
-        {
-          "project": "ELY",
-          "account": "ely__hl",
-          "sources": [
-            "TG"
-          ],
-          "alphas": [
-            "flaxsed"
-          ],
-          "tgAlphas": [
-            "flaxsed"
-          ],
-          "xAlphas": [],
-          "mentions": 1,
-          "firstSeen": "2026-10-28T17:33:53+00:00",
-          "lastSeen": "2026-10-28T17:33:53+00:00",
-          "description": "The first token launched on @Enter_Elysium",
-          "rows": [
-            {
-              "source": "TG",
-              "project": "ELY",
-              "account": "ely__hl",
-              "alpha": "flaxsed",
-              "seenAt": "2026-10-28T17:33:53+00:00",
-              "messageId": "dodtwitterbot/38301",
-              "description": "The first token launched on @Enter_Elysium",
-              "text": "The first token launched on @Enter_Elysium"
-            }
-          ],
-          "text": " ELY ely__hl The first token launched on @Enter_Elysium",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -3885,6 +4691,41 @@
             }
           ],
           "text": " Elysium Pump ElysiumPump First Token Launchpad on Kinetiqs HYPEREVM L2\n\nElysium Pump Protocol Token: https://t.co/WphgscBK6g",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "GIWATRON",
+          "account": "Giwatron",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-29T07:00:49+00:00",
+          "lastSeen": "2026-10-29T07:00:49+00:00",
+          "description": "// giwatron protocol: the machines are waking up.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "GIWATRON",
+              "account": "Giwatron",
+              "alpha": "蛋总",
+              "seenAt": "2026-10-29T07:00:49+00:00",
+              "messageId": "dodtwitterbot/38413",
+              "description": "// giwatron protocol: the machines are waking up.",
+              "text": "// giwatron protocol: the machines are waking up."
+            }
+          ],
+          "text": " GIWATRON Giwatron // giwatron protocol: the machines are waking up.",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -4031,6 +4872,41 @@
           "dayStatus": "repeat"
         },
         {
+          "project": "Machine.fun",
+          "account": "machinedotfun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "speest 💎"
+          ],
+          "tgAlphas": [
+            "speest 💎"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-29T02:42:18+00:00",
+          "lastSeen": "2026-10-29T02:42:18+00:00",
+          "description": "Making Robotics accessible for everyone.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Machine.fun",
+              "account": "machinedotfun",
+              "alpha": "speest 💎",
+              "seenAt": "2026-10-29T02:42:18+00:00",
+              "messageId": "dodtwitterbot/38359",
+              "description": "Making Robotics accessible for everyone.",
+              "text": "Making Robotics accessible for everyone."
+            }
+          ],
+          "text": " Machine.fun machinedotfun Making Robotics accessible for everyone.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
           "project": "Mehmski",
           "account": "Mehmski",
           "sources": [
@@ -4060,6 +4936,41 @@
             }
           ],
           "text": " Mehmski Mehmski Corporate Tax Lawyer tuned into crypto / Game is game",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "MOJO",
+          "account": "MojoAI_HQ",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-29T04:17:40+00:00",
+          "lastSeen": "2026-10-29T04:17:40+00:00",
+          "description": "The all-in-one agentic trading OS.\n\nInvest with taste mode.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "MOJO",
+              "account": "MojoAI_HQ",
+              "alpha": "蛋总",
+              "seenAt": "2026-10-29T04:17:40+00:00",
+              "messageId": "dodtwitterbot/38374",
+              "description": "The all-in-one agentic trading OS.\n\nInvest with taste mode.",
+              "text": "The all-in-one agentic trading OS.\n\nInvest with taste mode."
+            }
+          ],
+          "text": " MOJO MojoAI_HQ The all-in-one agentic trading OS.\n\nInvest with taste mode.",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -4206,6 +5117,111 @@
           "dayStatus": "repeat"
         },
         {
+          "project": "Realbond",
+          "account": "realbondai",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-29T07:28:41+00:00",
+          "lastSeen": "2026-10-29T07:28:41+00:00",
+          "description": "Real agents ，Real bonding curve.\nBind your agent address to X /Launchpad On BNB Chain",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Realbond",
+              "account": "realbondai",
+              "alpha": "蛋总",
+              "seenAt": "2026-10-29T07:28:41+00:00",
+              "messageId": "dodtwitterbot/38420",
+              "description": "Real agents ，Real bonding curve.\nBind your agent address to X /Launchpad On BNB Chain",
+              "text": "Real agents ，Real bonding curve.\nBind your agent address to X /Launchpad On BNB Chain"
+            }
+          ],
+          "text": " Realbond realbondai Real agents ，Real bonding curve.\nBind your agent address to X /Launchpad On BNB Chain",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Skyline 🇺🇸 /acc",
+          "account": "SolanaSkyline",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-29T03:58:12+00:00",
+          "lastSeen": "2026-10-29T03:58:12+00:00",
+          "description": "Solana's NYC ecosystem",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Skyline 🇺🇸 /acc",
+              "account": "SolanaSkyline",
+              "alpha": "蛋总",
+              "seenAt": "2026-10-29T03:58:12+00:00",
+              "messageId": "dodtwitterbot/38369",
+              "description": "Solana's NYC ecosystem",
+              "text": "Solana's NYC ecosystem"
+            }
+          ],
+          "text": " Skyline 🇺🇸 /acc SolanaSkyline Solana's NYC ecosystem",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "spawn",
+          "account": "spawn",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-29T04:10:38+00:00",
+          "lastSeen": "2026-10-29T04:10:38+00:00",
+          "description": "your place to make games with friends",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "spawn",
+              "account": "spawn",
+              "alpha": "蛋总",
+              "seenAt": "2026-10-29T04:10:38+00:00",
+              "messageId": "dodtwitterbot/38371",
+              "description": "your place to make games with friends",
+              "text": "your place to make games with friends"
+            }
+          ],
+          "text": " spawn spawn your place to make games with friends",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
           "project": "Squadz Protocol",
           "account": "Squadzdotfun",
           "sources": [
@@ -4235,6 +5251,41 @@
             }
           ],
           "text": " Squadz Protocol Squadzdotfun Decentralized fair launch protocol on Solana",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "t1",
+          "account": "t1protocol",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-29T05:39:14+00:00",
+          "lastSeen": "2026-10-29T05:39:14+00:00",
+          "description": "Undercollateralized credit for DeFi. Powering @useamplifi . Backed by @a16z CSX.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "t1",
+              "account": "t1protocol",
+              "alpha": "阿宏",
+              "seenAt": "2026-10-29T05:39:14+00:00",
+              "messageId": "dodtwitterbot/38399",
+              "description": "Undercollateralized credit for DeFi. Powering @useamplifi . Backed by @a16z CSX.",
+              "text": "Undercollateralized credit for DeFi. Powering @useamplifi . Backed by @a16z CSX."
+            }
+          ],
+          "text": " t1 t1protocol Undercollateralized credit for DeFi. Powering @useamplifi . Backed by @a16z CSX.",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -4276,35 +5327,35 @@
           "dayStatus": "new"
         },
         {
-          "project": "xiaosu",
-          "account": "xiaosu998",
+          "project": "UNSEEN",
+          "account": "UnseenOrdo",
           "sources": [
             "TG"
           ],
           "alphas": [
-            "发誓要做永赚大师"
+            "八九"
           ],
           "tgAlphas": [
-            "发誓要做永赚大师"
+            "八九"
           ],
           "xAlphas": [],
           "mentions": 1,
-          "firstSeen": "2026-10-28T20:10:27+00:00",
-          "lastSeen": "2026-10-28T20:10:27+00:00",
-          "description": "捕捉分享早期信息，一级选手。\n人只需要赢一次\n碎碎念： https://t.co/hCvPW9fTVH\nBitcoin Ordinals Eth",
+          "firstSeen": "2026-10-29T07:10:35+00:00",
+          "lastSeen": "2026-10-29T07:10:35+00:00",
+          "description": "The first Private UDA(NFT) collection on Bitcoin RGB.\nHere's to the unseen ones.\nTG → https://t.co/zzUxatm7kr",
           "rows": [
             {
               "source": "TG",
-              "project": "xiaosu",
-              "account": "xiaosu998",
-              "alpha": "发誓要做永赚大师",
-              "seenAt": "2026-10-28T20:10:27+00:00",
-              "messageId": "dodtwitterbot/38343",
-              "description": "捕捉分享早期信息，一级选手。\n人只需要赢一次\n碎碎念： https://t.co/hCvPW9fTVH\nBitcoin Ordinals Eth",
-              "text": "捕捉分享早期信息，一级选手。\n人只需要赢一次\n碎碎念： https://t.co/hCvPW9fTVH\nBitcoin Ordinals Eth"
+              "project": "UNSEEN",
+              "account": "UnseenOrdo",
+              "alpha": "八九",
+              "seenAt": "2026-10-29T07:10:35+00:00",
+              "messageId": "dodtwitterbot/38417",
+              "description": "The first Private UDA(NFT) collection on Bitcoin RGB.\nHere's to the unseen ones.\nTG → https://t.co/zzUxatm7kr",
+              "text": "The first Private UDA(NFT) collection on Bitcoin RGB.\nHere's to the unseen ones.\nTG → https://t.co/zzUxatm7kr"
             }
           ],
-          "text": " xiaosu xiaosu998 捕捉分享早期信息，一级选手。\n人只需要赢一次\n碎碎念： https://t.co/hCvPW9fTVH\nBitcoin Ordinals Eth",
+          "text": " UNSEEN UnseenOrdo The first Private UDA(NFT) collection on Bitcoin RGB.\nHere's to the unseen ones.\nTG → https://t.co/zzUxatm7kr",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -6048,34 +7099,39 @@
   ],
   "reports": [
     {
+      "file": "2026-10-29-0741-telegram-update.md",
+      "title": "2026-10-29-0741-telegram-update",
+      "updatedAt": "2026-10-29T07:41:53.895Z"
+    },
+    {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-10-29T01:24:54.429Z"
+      "updatedAt": "2026-10-29T07:41:50.824Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-10-29T01:24:52.229Z"
+      "updatedAt": "2026-10-29T07:41:50.824Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-10-29T01:24:52.229Z"
+      "updatedAt": "2026-10-29T07:41:50.824Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-10-29T01:24:52.229Z"
+      "updatedAt": "2026-10-29T07:41:50.824Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-10-29T01:24:52.229Z"
+      "updatedAt": "2026-10-29T07:41:50.824Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-10-29T01:24:52.227Z"
+      "updatedAt": "2026-10-29T07:41:50.823Z"
     }
   ]
 }
