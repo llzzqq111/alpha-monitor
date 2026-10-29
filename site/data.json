@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-10-28T21:55:15.092Z",
+  "generatedAt": "2026-10-29T01:24:54.506Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 38352,
-    "lastMessageAt": "2026-10-28T21:27:17+00:00",
-    "lastCheckedAt": "2026-10-28T21:55:15.003Z",
-    "previousMessageId": 38300,
-    "pagesRead": 3,
-    "messagesRead": 52,
-    "newProjectRecords": 20,
+    "lastMessageId": 38355,
+    "lastMessageAt": "2026-10-29T00:49:06+00:00",
+    "lastCheckedAt": "2026-10-29T01:24:54.430Z",
+    "previousMessageId": 38352,
+    "pagesRead": 1,
+    "messagesRead": 3,
+    "newProjectRecords": 2,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 88,
+    "telegramRows": 90,
     "xRows": 0,
-    "projects": 61,
+    "projects": 63,
     "crossSource": 0
   },
   "projects": [
@@ -956,6 +956,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Anemos",
+      "account": "AnemosPad",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "CSR"
+      ],
+      "tgAlphas": [
+        "CSR"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-28T22:17:26+00:00",
+      "lastSeen": "2026-10-28T22:17:26+00:00",
+      "description": "Launchpad on @Enter_Elysium . Trade here and your gas comes back in HYPE. Every token graduates with a 72h floor. Mainnet November 9.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Anemos",
+          "account": "AnemosPad",
+          "alpha": "CSR",
+          "seenAt": "2026-10-28T22:17:26+00:00",
+          "messageId": "dodtwitterbot/38353",
+          "description": "Launchpad on @Enter_Elysium . Trade here and your gas comes back in HYPE. Every token graduates with a 72h floor. Mainnet November 9.",
+          "text": "Launchpad on @Enter_Elysium . Trade here and your gas comes back in HYPE. Every token graduates with a 72h floor. Mainnet November 9."
+        }
+      ],
+      "text": " Anemos AnemosPad Launchpad on @Enter_Elysium . Trade here and your gas comes back in HYPE. Every token graduates with a 72h floor. Mainnet November 9.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Bobby Thakkar",
       "account": "BobbyThakkar",
       "sources": [
@@ -1874,6 +1908,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Offbook",
+      "account": "Offbook_sol",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "老大哥"
+      ],
+      "tgAlphas": [
+        "老大哥"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-28T23:07:21+00:00",
+      "lastSeen": "2026-10-28T23:07:21+00:00",
+      "description": "Buy & sell Solana memecoins person to person. Big size, one fixed price, no slippage. 1% fee - half buys back & burns &#036;OFB\nNO CA YET but Product is live",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Offbook",
+          "account": "Offbook_sol",
+          "alpha": "老大哥",
+          "seenAt": "2026-10-28T23:07:21+00:00",
+          "messageId": "dodtwitterbot/38354",
+          "description": "Buy & sell Solana memecoins person to person. Big size, one fixed price, no slippage. 1% fee - half buys back & burns &#036;OFB\nNO CA YET but Product is live",
+          "text": "Buy & sell Solana memecoins person to person. Big size, one fixed price, no slippage. 1% fee - half buys back & burns &#036;OFB\nNO CA YET but Product is live"
+        }
+      ],
+      "text": " Offbook Offbook_sol Buy & sell Solana memecoins person to person. Big size, one fixed price, no slippage. 1% fee - half buys back & burns &#036;OFB\nNO CA YET but Product is live",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Omnia π",
       "account": "0xOmnia",
       "sources": [
@@ -2701,6 +2769,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Anemos",
+      "x_account": "AnemosPad",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "CSR"
+      ],
+      "description": "Launchpad on @Enter_Elysium . Trade here and your gas comes back in HYPE. Every token graduates with a 72h floor. Mainnet November 9.",
+      "first_seen_utc": "2026-10-28T22:17:26+00:00",
+      "last_seen_utc": "2026-10-28T22:17:26+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Bobby Thakkar",
       "x_account": "BobbyThakkar",
       "total_mentions": 1,
@@ -3079,6 +3161,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Offbook",
+      "x_account": "Offbook_sol",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "老大哥"
+      ],
+      "description": "Buy & sell Solana memecoins person to person. Big size, one fixed price, no slippage. 1% fee - half buys back & burns &#036;OFB\nNO CA YET but Product is live",
+      "first_seen_utc": "2026-10-28T23:07:21+00:00",
+      "last_seen_utc": "2026-10-28T23:07:21+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Omnia π",
       "x_account": "0xOmnia",
       "total_mentions": 1,
@@ -3306,12 +3402,12 @@
   "daily": [
     {
       "date": "2026-10-29",
-      "totalRows": 27,
-      "projectCount": 22,
+      "totalRows": 29,
+      "projectCount": 24,
       "focusCount": 3,
-      "candidateCount": 19,
+      "candidateCount": 21,
       "crossSource": 0,
-      "newCount": 18,
+      "newCount": 20,
       "repeatCount": 4,
       "projects": [
         {
@@ -3509,6 +3605,41 @@
             }
           ],
           "text": " agentsea agentsea_fun Launch a vision. Agents create it. The NFT launchpad.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Anemos",
+          "account": "AnemosPad",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "CSR"
+          ],
+          "tgAlphas": [
+            "CSR"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-28T22:17:26+00:00",
+          "lastSeen": "2026-10-28T22:17:26+00:00",
+          "description": "Launchpad on @Enter_Elysium . Trade here and your gas comes back in HYPE. Every token graduates with a 72h floor. Mainnet November 9.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Anemos",
+              "account": "AnemosPad",
+              "alpha": "CSR",
+              "seenAt": "2026-10-28T22:17:26+00:00",
+              "messageId": "dodtwitterbot/38353",
+              "description": "Launchpad on @Enter_Elysium . Trade here and your gas comes back in HYPE. Every token graduates with a 72h floor. Mainnet November 9.",
+              "text": "Launchpad on @Enter_Elysium . Trade here and your gas comes back in HYPE. Every token graduates with a 72h floor. Mainnet November 9."
+            }
+          ],
+          "text": " Anemos AnemosPad Launchpad on @Enter_Elysium . Trade here and your gas comes back in HYPE. Every token graduates with a 72h floor. Mainnet November 9.",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -3964,6 +4095,41 @@
             }
           ],
           "text": " NutshellMarkets NutshellMarkets Building a treasury designed to grow @squeekchain",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Offbook",
+          "account": "Offbook_sol",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "老大哥"
+          ],
+          "tgAlphas": [
+            "老大哥"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-28T23:07:21+00:00",
+          "lastSeen": "2026-10-28T23:07:21+00:00",
+          "description": "Buy & sell Solana memecoins person to person. Big size, one fixed price, no slippage. 1% fee - half buys back & burns &#036;OFB\nNO CA YET but Product is live",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Offbook",
+              "account": "Offbook_sol",
+              "alpha": "老大哥",
+              "seenAt": "2026-10-28T23:07:21+00:00",
+              "messageId": "dodtwitterbot/38354",
+              "description": "Buy & sell Solana memecoins person to person. Big size, one fixed price, no slippage. 1% fee - half buys back & burns &#036;OFB\nNO CA YET but Product is live",
+              "text": "Buy & sell Solana memecoins person to person. Big size, one fixed price, no slippage. 1% fee - half buys back & burns &#036;OFB\nNO CA YET but Product is live"
+            }
+          ],
+          "text": " Offbook Offbook_sol Buy & sell Solana memecoins person to person. Big size, one fixed price, no slippage. 1% fee - half buys back & burns &#036;OFB\nNO CA YET but Product is live",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -5882,29 +6048,34 @@
   ],
   "reports": [
     {
+      "file": "2026-10-29-0124-telegram-update.md",
+      "title": "2026-10-29-0124-telegram-update",
+      "updatedAt": "2026-10-29T01:24:54.429Z"
+    },
+    {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-10-28T21:55:15.003Z"
+      "updatedAt": "2026-10-29T01:24:52.229Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-10-28T21:55:11.826Z"
+      "updatedAt": "2026-10-29T01:24:52.229Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-10-28T21:55:11.826Z"
+      "updatedAt": "2026-10-29T01:24:52.229Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-10-28T21:55:11.826Z"
+      "updatedAt": "2026-10-29T01:24:52.229Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-10-28T21:55:11.826Z"
+      "updatedAt": "2026-10-29T01:24:52.227Z"
     }
   ]
 }
