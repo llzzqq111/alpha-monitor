@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-10-30T16:17:49.059Z",
+  "generatedAt": "2026-10-30T21:42:53.600Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 38668,
-    "lastMessageAt": "2026-10-30T16:14:50+00:00",
-    "lastCheckedAt": "2026-10-30T16:17:48.861Z",
-    "previousMessageId": 38613,
+    "lastMessageId": 38709,
+    "lastMessageAt": "2026-10-30T20:58:19+00:00",
+    "lastCheckedAt": "2026-10-30T21:42:53.494Z",
+    "previousMessageId": 38668,
     "pagesRead": 3,
-    "messagesRead": 55,
-    "newProjectRecords": 22,
+    "messagesRead": 41,
+    "newProjectRecords": 10,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 187,
+    "telegramRows": 197,
     "xRows": 0,
-    "projects": 127,
+    "projects": 133,
     "crossSource": 0
   },
   "projects": [
@@ -1058,6 +1058,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "ALT L2",
+      "account": "AltL2fun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "lakka",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-10-30T14:03:48+00:00",
+      "lastSeen": "2026-10-30T17:29:12+00:00",
+      "description": "The first meme launchpad for Hyperliquid L2. Elysium on the way @Enter_Elysium",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "ALT L2",
+          "account": "AltL2fun",
+          "alpha": "阿宏",
+          "seenAt": "2026-10-30T14:03:48+00:00",
+          "messageId": "dodtwitterbot/38641",
+          "description": "The first meme launchpad for Hyperliquid L2. Elysium on the way @Enter_Elysium",
+          "text": "The first meme launchpad for Hyperliquid L2. Elysium on the way @Enter_Elysium"
+        },
+        {
+          "source": "TG",
+          "project": "ALT L2",
+          "account": "AltL2fun",
+          "alpha": "lakka",
+          "seenAt": "2026-10-30T17:29:12+00:00",
+          "messageId": "dodtwitterbot/38690",
+          "description": "The first meme launchpad for Hyperliquid L2. Elysium on the way @Enter_Elysium",
+          "text": "The first meme launchpad for Hyperliquid L2. Elysium on the way @Enter_Elysium"
+        }
+      ],
+      "text": " ALT L2 AltL2fun The first meme launchpad for Hyperliquid L2. Elysium on the way @Enter_Elysium ALT L2 AltL2fun The first meme launchpad for Hyperliquid L2. Elysium on the way @Enter_Elysium",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "APOGEE",
       "account": "apogeeID",
       "sources": [
@@ -1099,6 +1145,52 @@
         }
       ],
       "text": " APOGEE apogeeID Launch a coin. Trade it at block speed. Reach apogee.\nThe launchpad on @Enter_Elysium , built on @HyperliquidX and HyperCore.\nGas in HYPE. APOGEE apogeeID Launch a coin. Trade it at block speed. Reach apogee.\nThe launchpad on @Enter_Elysium , built on @HyperliquidX and HyperCore.\nGas in HYPE.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Asphod.el",
+      "account": "asphodellaunch",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "lakka",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-10-30T14:03:48+00:00",
+      "lastSeen": "2026-10-30T16:59:03+00:00",
+      "description": "Elysium Launchpad\n\nLive on mainnet\n\ndev @myturnarc",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Asphod.el",
+          "account": "asphodellaunch",
+          "alpha": "阿宏",
+          "seenAt": "2026-10-30T14:03:48+00:00",
+          "messageId": "dodtwitterbot/38639",
+          "description": "Elysium Launchpad\n\nLive on mainnet\n\ndev @myturnarc",
+          "text": "Elysium Launchpad\n\nLive on mainnet\n\ndev @myturnarc"
+        },
+        {
+          "source": "TG",
+          "project": "Asphod.el",
+          "account": "asphodellaunch",
+          "alpha": "lakka",
+          "seenAt": "2026-10-30T16:59:03+00:00",
+          "messageId": "dodtwitterbot/38684",
+          "description": "Elysium Launchpad\n\nLive on mainnet\n\ndev @myturnarc",
+          "text": "Elysium Launchpad\n\nLive on mainnet\n\ndev @myturnarc"
+        }
+      ],
+      "text": " Asphod.el asphodellaunch Elysium Launchpad\n\nLive on mainnet\n\ndev @myturnarc Asphod.el asphodellaunch Elysium Launchpad\n\nLive on mainnet\n\ndev @myturnarc",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -1237,6 +1329,52 @@
         }
       ],
       "text": " BunnyPad Bunnypadfun The fair launchpad on @Enter_Elysium 🐰 One tx to launch. No seed liquidity, no graduation. Every pool is locked forever. BunnyPad Bunnypadfun The fair launchpad on @Enter_Elysium  One tx to launch. No seed liquidity, no graduation. Every pool is locked forever.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Citadel 🌿",
+      "account": "citadeldotxyz",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka",
+        "发誓要做永赚大师"
+      ],
+      "tgAlphas": [
+        "lakka",
+        "发誓要做永赚大师"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-10-28T22:48:00+08:00",
+      "lastSeen": "2026-10-30T17:29:12+00:00",
+      "description": "Build the walls before the siege 🏛️\nFair-launch launchpad on @Enter_Elysium",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Citadel 🌿",
+          "account": "citadeldotxyz",
+          "alpha": "lakka",
+          "seenAt": "2026-10-30T17:29:12+00:00",
+          "messageId": "dodtwitterbot/38689",
+          "description": "Build the walls before the siege 🏛️\nFair-launch launchpad on @Enter_Elysium",
+          "text": "Build the walls before the siege 🏛️\nFair-launch launchpad on @Enter_Elysium"
+        },
+        {
+          "source": "TG",
+          "project": "Citadel",
+          "account": "citadeldotxyz",
+          "alpha": "发誓要做永赚大师",
+          "seenAt": "2026-10-28T22:48:00+08:00",
+          "messageId": "dodtwitterbot/38264",
+          "description": "Build the walls before the siege  \nFair-launch launchpad on @Enter_Elysium",
+          "text": "Build the walls before the siege  \nFair-launch launchpad on @Enter_Elysium"
+        }
+      ],
+      "text": " Citadel 🌿 citadeldotxyz Build the walls before the siege 🏛️\nFair-launch launchpad on @Enter_Elysium Citadel citadeldotxyz Build the walls before the siege  \nFair-launch launchpad on @Enter_Elysium",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -1467,6 +1605,52 @@
         }
       ],
       "text": " HyFi hyfi_xyz Platform for propAMMs, bringing CEX liquidity to tokenized stocks. HyFi hyfi_xyz Platform for propAMMs, bringing CEX liquidity to tokenized stocks.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Lotlings",
+      "account": "lotlings",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "lakka",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-10-30T13:59:21+00:00",
+      "lastSeen": "2026-10-30T17:31:52+00:00",
+      "description": "Where meme culture meets NFT markets & token launches.\n\nPowered by @Enter_elysium",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Lotlings",
+          "account": "lotlings",
+          "alpha": "阿宏",
+          "seenAt": "2026-10-30T13:59:21+00:00",
+          "messageId": "dodtwitterbot/38632",
+          "description": "Where meme culture meets NFT markets & token launches.\n\nPowered by @Enter_elysium",
+          "text": "Where meme culture meets NFT markets & token launches.\n\nPowered by @Enter_elysium"
+        },
+        {
+          "source": "TG",
+          "project": "Lotlings",
+          "account": "lotlings",
+          "alpha": "lakka",
+          "seenAt": "2026-10-30T17:31:52+00:00",
+          "messageId": "dodtwitterbot/38691",
+          "description": "Where meme culture meets NFT markets & token launches.\n\nPowered by @Enter_elysium",
+          "text": "Where meme culture meets NFT markets & token launches.\n\nPowered by @Enter_elysium"
+        }
+      ],
+      "text": " Lotlings lotlings Where meme culture meets NFT markets & token launches.\n\nPowered by @Enter_elysium Lotlings lotlings Where meme culture meets NFT markets & token launches.\n\nPowered by @Enter_elysium",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -1998,40 +2182,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "ALT L2",
-      "account": "AltL2fun",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "阿宏"
-      ],
-      "tgAlphas": [
-        "阿宏"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-10-30T14:03:48+00:00",
-      "lastSeen": "2026-10-30T14:03:48+00:00",
-      "description": "The first meme launchpad for Hyperliquid L2. Elysium on the way @Enter_Elysium",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "ALT L2",
-          "account": "AltL2fun",
-          "alpha": "阿宏",
-          "seenAt": "2026-10-30T14:03:48+00:00",
-          "messageId": "dodtwitterbot/38641",
-          "description": "The first meme launchpad for Hyperliquid L2. Elysium on the way @Enter_Elysium",
-          "text": "The first meme launchpad for Hyperliquid L2. Elysium on the way @Enter_Elysium"
-        }
-      ],
-      "text": " ALT L2 AltL2fun The first meme launchpad for Hyperliquid L2. Elysium on the way @Enter_Elysium",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
       "project": "Anemos",
       "account": "AnemosPad",
       "sources": [
@@ -2129,40 +2279,6 @@
         }
       ],
       "text": " Asend. AsendNow Trade. Share. Asend. | Coming Soon. ↗️ | NO TOKEN.",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Asphod.el",
-      "account": "asphodellaunch",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "阿宏"
-      ],
-      "tgAlphas": [
-        "阿宏"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-10-30T14:03:48+00:00",
-      "lastSeen": "2026-10-30T14:03:48+00:00",
-      "description": "Elysium Launchpad\n\nLive on mainnet\n\ndev @myturnarc",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Asphod.el",
-          "account": "asphodellaunch",
-          "alpha": "阿宏",
-          "seenAt": "2026-10-30T14:03:48+00:00",
-          "messageId": "dodtwitterbot/38639",
-          "description": "Elysium Launchpad\n\nLive on mainnet\n\ndev @myturnarc",
-          "text": "Elysium Launchpad\n\nLive on mainnet\n\ndev @myturnarc"
-        }
-      ],
-      "text": " Asphod.el asphodellaunch Elysium Launchpad\n\nLive on mainnet\n\ndev @myturnarc",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -2333,6 +2449,40 @@
         }
       ],
       "text": " Below Markets belowmarkets Buy and sell any piece of a PSA 10, from &#036;10 up to the whole card. Find cards below market and set alerts for your price. Powered by @GrailCo",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Blocks ⬛",
+      "account": "blocksfm",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka"
+      ],
+      "tgAlphas": [
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-30T17:57:46+00:00",
+      "lastSeen": "2026-10-30T17:57:46+00:00",
+      "description": "The protocol for creator economies.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Blocks ⬛",
+          "account": "blocksfm",
+          "alpha": "lakka",
+          "seenAt": "2026-10-30T17:57:46+00:00",
+          "messageId": "dodtwitterbot/38693",
+          "description": "The protocol for creator economies.",
+          "text": "The protocol for creator economies."
+        }
+      ],
+      "text": " Blocks ⬛ blocksfm The protocol for creator economies.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -2537,40 +2687,6 @@
         }
       ],
       "text": " chief keith chiefkeith1000 @Kinetiq_xyz | @Enter_Elysium | @Markets_xyz",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Citadel",
-      "account": "citadeldotxyz",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "发誓要做永赚大师"
-      ],
-      "tgAlphas": [
-        "发誓要做永赚大师"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-10-28T22:48:00+08:00",
-      "lastSeen": "2026-10-28T22:48:00+08:00",
-      "description": "Build the walls before the siege  \nFair-launch launchpad on @Enter_Elysium",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Citadel",
-          "account": "citadeldotxyz",
-          "alpha": "发誓要做永赚大师",
-          "seenAt": "2026-10-28T22:48:00+08:00",
-          "messageId": "dodtwitterbot/38264",
-          "description": "Build the walls before the siege  \nFair-launch launchpad on @Enter_Elysium",
-          "text": "Build the walls before the siege  \nFair-launch launchpad on @Enter_Elysium"
-        }
-      ],
-      "text": " Citadel citadeldotxyz Build the walls before the siege  \nFair-launch launchpad on @Enter_Elysium",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -3324,6 +3440,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Homer",
+      "account": "homer_fi",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "CSR"
+      ],
+      "tgAlphas": [
+        "CSR"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-30T20:48:37+00:00",
+      "lastSeen": "2026-10-30T20:48:37+00:00",
+      "description": "The liquidity layer for Elysium.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Homer",
+          "account": "homer_fi",
+          "alpha": "CSR",
+          "seenAt": "2026-10-30T20:48:37+00:00",
+          "messageId": "dodtwitterbot/38708",
+          "description": "The liquidity layer for Elysium.",
+          "text": "The liquidity layer for Elysium."
+        }
+      ],
+      "text": " Homer homer_fi The liquidity layer for Elysium.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Hooja",
       "account": "hoojafun",
       "sources": [
@@ -3562,6 +3712,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "liquid",
+      "account": "liquidtransfer",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-30T18:12:47+00:00",
+      "lastSeen": "2026-10-30T18:12:47+00:00",
+      "description": "The any currency account for global operators. We connect bank, mobile money, stablecoin, bitcoin and gold payment networks from one platform.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "liquid",
+          "account": "liquidtransfer",
+          "alpha": "unsynned",
+          "seenAt": "2026-10-30T18:12:47+00:00",
+          "messageId": "dodtwitterbot/38695",
+          "description": "The any currency account for global operators. We connect bank, mobile money, stablecoin, bitcoin and gold payment networks from one platform.",
+          "text": "The any currency account for global operators. We connect bank, mobile money, stablecoin, bitcoin and gold payment networks from one platform."
+        }
+      ],
+      "text": " liquid liquidtransfer The any currency account for global operators. We connect bank, mobile money, stablecoin, bitcoin and gold payment networks from one platform.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Liquidium.WTF | Ordinal & NFT Loans",
       "account": "LiquidiumWTF",
       "sources": [
@@ -3625,40 +3809,6 @@
         }
       ],
       "text": " LitVM LitecoinVM Litecoin’s Virtual Machine \n\nHard Money Web3, powered by @litecoin.\n\nJoin the convo: https://t.co/o7ehGt5nQs",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Lotlings",
-      "account": "lotlings",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "阿宏"
-      ],
-      "tgAlphas": [
-        "阿宏"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-10-30T13:59:21+00:00",
-      "lastSeen": "2026-10-30T13:59:21+00:00",
-      "description": "Where meme culture meets NFT markets & token launches.\n\nPowered by @Enter_elysium",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Lotlings",
-          "account": "lotlings",
-          "alpha": "阿宏",
-          "seenAt": "2026-10-30T13:59:21+00:00",
-          "messageId": "dodtwitterbot/38632",
-          "description": "Where meme culture meets NFT markets & token launches.\n\nPowered by @Enter_elysium",
-          "text": "Where meme culture meets NFT markets & token launches.\n\nPowered by @Enter_elysium"
-        }
-      ],
-      "text": " Lotlings lotlings Where meme culture meets NFT markets & token launches.\n\nPowered by @Enter_elysium",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -3761,6 +3911,40 @@
         }
       ],
       "text": " Mining Machine RigGrid Turn on your farm. Mine $ORE. Build more Mining Power.\n\n21M $ORE. 4 epochs. Rigs, blocks, boosts and referrals.\n\nThe machines are running.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "mint girl",
+      "account": "theamintgirl",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka"
+      ],
+      "tgAlphas": [
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-30T20:03:33+00:00",
+      "lastSeen": "2026-10-30T20:03:33+00:00",
+      "description": "fake egirl",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "mint girl",
+          "account": "theamintgirl",
+          "alpha": "lakka",
+          "seenAt": "2026-10-30T20:03:33+00:00",
+          "messageId": "dodtwitterbot/38706",
+          "description": "fake egirl",
+          "text": "fake egirl"
+        }
+      ],
+      "text": " mint girl theamintgirl fake egirl",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -3965,6 +4149,40 @@
         }
       ],
       "text": " PANTHEON Pantheonindex The index of Ascend. Stake $PNTH, earn the best of Ascend. Stakers choose who enters. Launching on @AscendLaunch day one.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "PerpMe",
+      "account": "perpmefun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka"
+      ],
+      "tgAlphas": [
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-30T16:49:23+00:00",
+      "lastSeen": "2026-10-30T16:49:23+00:00",
+      "description": "Launch coins via https://t.co/LmDmNTQROs",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "PerpMe",
+          "account": "perpmefun",
+          "alpha": "lakka",
+          "seenAt": "2026-10-30T16:49:23+00:00",
+          "messageId": "dodtwitterbot/38682",
+          "description": "Launch coins via https://t.co/LmDmNTQROs",
+          "text": "Launch coins via https://t.co/LmDmNTQROs"
+        }
+      ],
+      "text": " PerpMe perpmefun Launch coins via https://t.co/LmDmNTQROs",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -4990,6 +5208,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Yeetr",
+      "account": "Yeetr_fun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-30T18:13:41+00:00",
+      "lastSeen": "2026-10-30T18:13:41+00:00",
+      "description": "Onchain options for the tokens you hold.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Yeetr",
+          "account": "Yeetr_fun",
+          "alpha": "unsynned",
+          "seenAt": "2026-10-30T18:13:41+00:00",
+          "messageId": "dodtwitterbot/38696",
+          "description": "Onchain options for the tokens you hold.",
+          "text": "Onchain options for the tokens you hold."
+        }
+      ],
+      "text": " Yeetr Yeetr_fun Onchain options for the tokens you hold.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Zillions",
       "account": "zillions_app",
       "sources": [
@@ -5316,6 +5568,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "ALT L2",
+      "x_account": "AltL2fun",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "lakka",
+        "阿宏"
+      ],
+      "description": "The first meme launchpad for Hyperliquid L2. Elysium on the way @Enter_Elysium",
+      "first_seen_utc": "2026-10-30T14:03:48+00:00",
+      "last_seen_utc": "2026-10-30T17:29:12+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "APOGEE",
       "x_account": "apogeeID",
       "total_mentions": 2,
@@ -5327,6 +5594,21 @@
       "description": "Launch a coin. Trade it at block speed. Reach apogee.\nThe launchpad on @Enter_Elysium , built on @HyperliquidX and HyperCore.\nGas in HYPE.",
       "first_seen_utc": "2026-10-30T08:13:46+00:00",
       "last_seen_utc": "2026-10-30T14:03:48+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Asphod.el",
+      "x_account": "asphodellaunch",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "lakka",
+        "阿宏"
+      ],
+      "description": "Elysium Launchpad\n\nLive on mainnet\n\ndev @myturnarc",
+      "first_seen_utc": "2026-10-30T14:03:48+00:00",
+      "last_seen_utc": "2026-10-30T16:59:03+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -5372,6 +5654,21 @@
       "description": "The fair launchpad on @Enter_Elysium 🐰 One tx to launch. No seed liquidity, no graduation. Every pool is locked forever.",
       "first_seen_utc": "2026-10-28T01:29:00+08:00",
       "last_seen_utc": "2026-10-29T11:56:30+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Citadel 🌿",
+      "x_account": "citadeldotxyz",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "lakka",
+        "发誓要做永赚大师"
+      ],
+      "description": "Build the walls before the siege 🏛️\nFair-launch launchpad on @Enter_Elysium",
+      "first_seen_utc": "2026-10-28T22:48:00+08:00",
+      "last_seen_utc": "2026-10-30T17:29:12+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -5447,6 +5744,21 @@
       "description": "Platform for propAMMs, bringing CEX liquidity to tokenized stocks.",
       "first_seen_utc": "2026-10-28T00:11:00+08:00",
       "last_seen_utc": "2026-10-28T00:43:00+08:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Lotlings",
+      "x_account": "lotlings",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "lakka",
+        "阿宏"
+      ],
+      "description": "Where meme culture meets NFT markets & token launches.\n\nPowered by @Enter_elysium",
+      "first_seen_utc": "2026-10-30T13:59:21+00:00",
+      "last_seen_utc": "2026-10-30T17:31:52+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -5640,20 +5952,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "ALT L2",
-      "x_account": "AltL2fun",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "阿宏"
-      ],
-      "description": "The first meme launchpad for Hyperliquid L2. Elysium on the way @Enter_Elysium",
-      "first_seen_utc": "2026-10-30T14:03:48+00:00",
-      "last_seen_utc": "2026-10-30T14:03:48+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "Anemos",
       "x_account": "AnemosPad",
       "total_mentions": 1,
@@ -5692,20 +5990,6 @@
       "description": "Trade. Share. Asend. | Coming Soon. ↗️ | NO TOKEN.",
       "first_seen_utc": "2026-10-29T12:01:16+00:00",
       "last_seen_utc": "2026-10-29T12:01:16+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Asphod.el",
-      "x_account": "asphodellaunch",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "阿宏"
-      ],
-      "description": "Elysium Launchpad\n\nLive on mainnet\n\ndev @myturnarc",
-      "first_seen_utc": "2026-10-30T14:03:48+00:00",
-      "last_seen_utc": "2026-10-30T14:03:48+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -5776,6 +6060,20 @@
       "description": "Buy and sell any piece of a PSA 10, from &#036;10 up to the whole card. Find cards below market and set alerts for your price. Powered by @GrailCo",
       "first_seen_utc": "2026-10-29T12:01:05+00:00",
       "last_seen_utc": "2026-10-29T12:01:05+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Blocks ⬛",
+      "x_account": "blocksfm",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "lakka"
+      ],
+      "description": "The protocol for creator economies.",
+      "first_seen_utc": "2026-10-30T17:57:46+00:00",
+      "last_seen_utc": "2026-10-30T17:57:46+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -5860,20 +6158,6 @@
       "description": "@Kinetiq_xyz | @Enter_Elysium | @Markets_xyz",
       "first_seen_utc": "2026-10-28T18:32:45+00:00",
       "last_seen_utc": "2026-10-28T18:32:45+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Citadel",
-      "x_account": "citadeldotxyz",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "发誓要做永赚大师"
-      ],
-      "description": "Build the walls before the siege  \nFair-launch launchpad on @Enter_Elysium",
-      "first_seen_utc": "2026-10-28T22:48:00+08:00",
-      "last_seen_utc": "2026-10-28T22:48:00+08:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -6186,6 +6470,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Homer",
+      "x_account": "homer_fi",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "CSR"
+      ],
+      "description": "The liquidity layer for Elysium.",
+      "first_seen_utc": "2026-10-30T20:48:37+00:00",
+      "last_seen_utc": "2026-10-30T20:48:37+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Hooja",
       "x_account": "hoojafun",
       "total_mentions": 1,
@@ -6284,6 +6582,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "liquid",
+      "x_account": "liquidtransfer",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "unsynned"
+      ],
+      "description": "The any currency account for global operators. We connect bank, mobile money, stablecoin, bitcoin and gold payment networks from one platform.",
+      "first_seen_utc": "2026-10-30T18:12:47+00:00",
+      "last_seen_utc": "2026-10-30T18:12:47+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Liquidium.WTF | Ordinal & NFT Loans",
       "x_account": "LiquidiumWTF",
       "total_mentions": 1,
@@ -6308,20 +6620,6 @@
       "description": "Litecoin’s Virtual Machine \n\nHard Money Web3, powered by @litecoin.\n\nJoin the convo: https://t.co/o7ehGt5nQs",
       "first_seen_utc": "2026-10-28T04:55:00+08:00",
       "last_seen_utc": "2026-10-28T04:55:00+08:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Lotlings",
-      "x_account": "lotlings",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "阿宏"
-      ],
-      "description": "Where meme culture meets NFT markets & token launches.\n\nPowered by @Enter_elysium",
-      "first_seen_utc": "2026-10-30T13:59:21+00:00",
-      "last_seen_utc": "2026-10-30T13:59:21+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -6364,6 +6662,20 @@
       "description": "Turn on your farm. Mine $ORE. Build more Mining Power.\n\n21M $ORE. 4 epochs. Rigs, blocks, boosts and referrals.\n\nThe machines are running.",
       "first_seen_utc": "2026-10-28T16:47:00+08:00",
       "last_seen_utc": "2026-10-28T16:47:00+08:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "mint girl",
+      "x_account": "theamintgirl",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "lakka"
+      ],
+      "description": "fake egirl",
+      "first_seen_utc": "2026-10-30T20:03:33+00:00",
+      "last_seen_utc": "2026-10-30T20:03:33+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -6448,6 +6760,20 @@
       "description": "The index of Ascend. Stake $PNTH, earn the best of Ascend. Stakers choose who enters. Launching on @AscendLaunch day one.",
       "first_seen_utc": "2026-10-28T22:15:00+08:00",
       "last_seen_utc": "2026-10-28T22:15:00+08:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "PerpMe",
+      "x_account": "perpmefun",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "lakka"
+      ],
+      "description": "Launch coins via https://t.co/LmDmNTQROs",
+      "first_seen_utc": "2026-10-30T16:49:23+00:00",
+      "last_seen_utc": "2026-10-30T16:49:23+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -6872,6 +7198,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Yeetr",
+      "x_account": "Yeetr_fun",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "unsynned"
+      ],
+      "description": "Onchain options for the tokens you hold.",
+      "first_seen_utc": "2026-10-30T18:13:41+00:00",
+      "last_seen_utc": "2026-10-30T18:13:41+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Zillions",
       "x_account": "zillions_app",
       "total_mentions": 1,
@@ -6903,14 +7243,154 @@
   "daily": [
     {
       "date": "2026-10-31",
-      "totalRows": 3,
-      "projectCount": 3,
+      "totalRows": 13,
+      "projectCount": 13,
       "focusCount": 0,
-      "candidateCount": 3,
+      "candidateCount": 13,
       "crossSource": 0,
-      "newCount": 3,
-      "repeatCount": 0,
+      "newCount": 9,
+      "repeatCount": 4,
       "projects": [
+        {
+          "project": "ALT L2",
+          "account": "AltL2fun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-30T17:29:12+00:00",
+          "lastSeen": "2026-10-30T17:29:12+00:00",
+          "description": "The first meme launchpad for Hyperliquid L2. Elysium on the way @Enter_Elysium",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "ALT L2",
+              "account": "AltL2fun",
+              "alpha": "lakka",
+              "seenAt": "2026-10-30T17:29:12+00:00",
+              "messageId": "dodtwitterbot/38690",
+              "description": "The first meme launchpad for Hyperliquid L2. Elysium on the way @Enter_Elysium",
+              "text": "The first meme launchpad for Hyperliquid L2. Elysium on the way @Enter_Elysium"
+            }
+          ],
+          "text": " ALT L2 AltL2fun The first meme launchpad for Hyperliquid L2. Elysium on the way @Enter_Elysium",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Asphod.el",
+          "account": "asphodellaunch",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-30T16:59:03+00:00",
+          "lastSeen": "2026-10-30T16:59:03+00:00",
+          "description": "Elysium Launchpad\n\nLive on mainnet\n\ndev @myturnarc",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Asphod.el",
+              "account": "asphodellaunch",
+              "alpha": "lakka",
+              "seenAt": "2026-10-30T16:59:03+00:00",
+              "messageId": "dodtwitterbot/38684",
+              "description": "Elysium Launchpad\n\nLive on mainnet\n\ndev @myturnarc",
+              "text": "Elysium Launchpad\n\nLive on mainnet\n\ndev @myturnarc"
+            }
+          ],
+          "text": " Asphod.el asphodellaunch Elysium Launchpad\n\nLive on mainnet\n\ndev @myturnarc",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Blocks ⬛",
+          "account": "blocksfm",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-30T17:57:46+00:00",
+          "lastSeen": "2026-10-30T17:57:46+00:00",
+          "description": "The protocol for creator economies.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Blocks ⬛",
+              "account": "blocksfm",
+              "alpha": "lakka",
+              "seenAt": "2026-10-30T17:57:46+00:00",
+              "messageId": "dodtwitterbot/38693",
+              "description": "The protocol for creator economies.",
+              "text": "The protocol for creator economies."
+            }
+          ],
+          "text": " Blocks ⬛ blocksfm The protocol for creator economies.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Citadel 🌿",
+          "account": "citadeldotxyz",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-30T17:29:12+00:00",
+          "lastSeen": "2026-10-30T17:29:12+00:00",
+          "description": "Build the walls before the siege 🏛️\nFair-launch launchpad on @Enter_Elysium",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Citadel 🌿",
+              "account": "citadeldotxyz",
+              "alpha": "lakka",
+              "seenAt": "2026-10-30T17:29:12+00:00",
+              "messageId": "dodtwitterbot/38689",
+              "description": "Build the walls before the siege 🏛️\nFair-launch launchpad on @Enter_Elysium",
+              "text": "Build the walls before the siege 🏛️\nFair-launch launchpad on @Enter_Elysium"
+            }
+          ],
+          "text": " Citadel 🌿 citadeldotxyz Build the walls before the siege 🏛️\nFair-launch launchpad on @Enter_Elysium",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
         {
           "project": "Flying Squirrel",
           "account": "BNC_StcokFi",
@@ -6941,6 +7421,146 @@
             }
           ],
           "text": " Flying Squirrel BNC_StcokFi Join Binance on the StockFi Journey\nThe market has just been validated, the key players haven’t entered the scene yet—secure your spot early",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Homer",
+          "account": "homer_fi",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "CSR"
+          ],
+          "tgAlphas": [
+            "CSR"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-30T20:48:37+00:00",
+          "lastSeen": "2026-10-30T20:48:37+00:00",
+          "description": "The liquidity layer for Elysium.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Homer",
+              "account": "homer_fi",
+              "alpha": "CSR",
+              "seenAt": "2026-10-30T20:48:37+00:00",
+              "messageId": "dodtwitterbot/38708",
+              "description": "The liquidity layer for Elysium.",
+              "text": "The liquidity layer for Elysium."
+            }
+          ],
+          "text": " Homer homer_fi The liquidity layer for Elysium.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "liquid",
+          "account": "liquidtransfer",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-30T18:12:47+00:00",
+          "lastSeen": "2026-10-30T18:12:47+00:00",
+          "description": "The any currency account for global operators. We connect bank, mobile money, stablecoin, bitcoin and gold payment networks from one platform.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "liquid",
+              "account": "liquidtransfer",
+              "alpha": "unsynned",
+              "seenAt": "2026-10-30T18:12:47+00:00",
+              "messageId": "dodtwitterbot/38695",
+              "description": "The any currency account for global operators. We connect bank, mobile money, stablecoin, bitcoin and gold payment networks from one platform.",
+              "text": "The any currency account for global operators. We connect bank, mobile money, stablecoin, bitcoin and gold payment networks from one platform."
+            }
+          ],
+          "text": " liquid liquidtransfer The any currency account for global operators. We connect bank, mobile money, stablecoin, bitcoin and gold payment networks from one platform.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Lotlings",
+          "account": "lotlings",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-30T17:31:52+00:00",
+          "lastSeen": "2026-10-30T17:31:52+00:00",
+          "description": "Where meme culture meets NFT markets & token launches.\n\nPowered by @Enter_elysium",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Lotlings",
+              "account": "lotlings",
+              "alpha": "lakka",
+              "seenAt": "2026-10-30T17:31:52+00:00",
+              "messageId": "dodtwitterbot/38691",
+              "description": "Where meme culture meets NFT markets & token launches.\n\nPowered by @Enter_elysium",
+              "text": "Where meme culture meets NFT markets & token launches.\n\nPowered by @Enter_elysium"
+            }
+          ],
+          "text": " Lotlings lotlings Where meme culture meets NFT markets & token launches.\n\nPowered by @Enter_elysium",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "mint girl",
+          "account": "theamintgirl",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-30T20:03:33+00:00",
+          "lastSeen": "2026-10-30T20:03:33+00:00",
+          "description": "fake egirl",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "mint girl",
+              "account": "theamintgirl",
+              "alpha": "lakka",
+              "seenAt": "2026-10-30T20:03:33+00:00",
+              "messageId": "dodtwitterbot/38706",
+              "description": "fake egirl",
+              "text": "fake egirl"
+            }
+          ],
+          "text": " mint girl theamintgirl fake egirl",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -6982,6 +7602,41 @@
           "dayStatus": "new"
         },
         {
+          "project": "PerpMe",
+          "account": "perpmefun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-30T16:49:23+00:00",
+          "lastSeen": "2026-10-30T16:49:23+00:00",
+          "description": "Launch coins via https://t.co/LmDmNTQROs",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "PerpMe",
+              "account": "perpmefun",
+              "alpha": "lakka",
+              "seenAt": "2026-10-30T16:49:23+00:00",
+              "messageId": "dodtwitterbot/38682",
+              "description": "Launch coins via https://t.co/LmDmNTQROs",
+              "text": "Launch coins via https://t.co/LmDmNTQROs"
+            }
+          ],
+          "text": " PerpMe perpmefun Launch coins via https://t.co/LmDmNTQROs",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
           "project": "SCRiM",
           "account": "scrimfinance",
           "sources": [
@@ -7011,6 +7666,41 @@
             }
           ],
           "text": " SCRiM scrimfinance Multichain payments (30+ chains) + x402 agentic commerce. Built on @NEARProtocol with privacy on demand",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Yeetr",
+          "account": "Yeetr_fun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-30T18:13:41+00:00",
+          "lastSeen": "2026-10-30T18:13:41+00:00",
+          "description": "Onchain options for the tokens you hold.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Yeetr",
+              "account": "Yeetr_fun",
+              "alpha": "unsynned",
+              "seenAt": "2026-10-30T18:13:41+00:00",
+              "messageId": "dodtwitterbot/38696",
+              "description": "Onchain options for the tokens you hold.",
+              "text": "Onchain options for the tokens you hold."
+            }
+          ],
+          "text": " Yeetr Yeetr_fun Onchain options for the tokens you hold.",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -12370,59 +13060,64 @@
   ],
   "reports": [
     {
+      "file": "2026-10-30-2142-telegram-update.md",
+      "title": "2026-10-30-2142-telegram-update",
+      "updatedAt": "2026-10-30T21:42:53.493Z"
+    },
+    {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-10-30T16:17:48.861Z"
+      "updatedAt": "2026-10-30T21:42:50.613Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-10-30T16:17:43.455Z"
+      "updatedAt": "2026-10-30T21:42:50.613Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-10-30T16:17:43.455Z"
+      "updatedAt": "2026-10-30T21:42:50.613Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-10-30T16:17:43.455Z"
+      "updatedAt": "2026-10-30T21:42:50.613Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-10-30T16:17:43.455Z"
+      "updatedAt": "2026-10-30T21:42:50.613Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-10-30T16:17:43.455Z"
+      "updatedAt": "2026-10-30T21:42:50.613Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-10-30T16:17:43.455Z"
+      "updatedAt": "2026-10-30T21:42:50.613Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-10-30T16:17:43.455Z"
+      "updatedAt": "2026-10-30T21:42:50.613Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-10-30T16:17:43.455Z"
+      "updatedAt": "2026-10-30T21:42:50.613Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-10-30T16:17:43.455Z"
+      "updatedAt": "2026-10-30T21:42:50.613Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-10-30T16:17:43.454Z"
+      "updatedAt": "2026-10-30T21:42:50.612Z"
     }
   ]
 }
