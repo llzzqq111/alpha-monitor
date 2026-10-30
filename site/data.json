@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-10-29T22:03:34.709Z",
+  "generatedAt": "2026-10-30T07:45:52.652Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 38577,
-    "lastMessageAt": "2026-10-29T21:03:12+00:00",
-    "lastCheckedAt": "2026-10-29T22:03:34.608Z",
-    "previousMessageId": 38535,
-    "pagesRead": 3,
-    "messagesRead": 42,
-    "newProjectRecords": 20,
+    "lastMessageId": 38613,
+    "lastMessageAt": "2026-10-30T07:45:31+00:00",
+    "lastCheckedAt": "2026-10-30T07:45:52.551Z",
+    "previousMessageId": 38577,
+    "pagesRead": 2,
+    "messagesRead": 36,
+    "newProjectRecords": 4,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 161,
+    "telegramRows": 165,
     "xRows": 0,
-    "projects": 103,
+    "projects": 106,
     "crossSource": 0
   },
   "projects": [
@@ -1000,6 +1000,64 @@
       "avatarUrl": ""
     },
     {
+      "project": "Script",
+      "account": "Script_Agent",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse",
+        "unsynned",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "BearzVerse",
+        "unsynned",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-10-29T19:04:40+00:00",
+      "lastSeen": "2026-10-30T03:35:05+00:00",
+      "description": "AI agents, inscribed forever on @Solana .",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Script",
+          "account": "Script_Agent",
+          "alpha": "unsynned",
+          "seenAt": "2026-10-29T19:04:40+00:00",
+          "messageId": "dodtwitterbot/38569",
+          "description": "AI agents, inscribed forever on @Solana .",
+          "text": "AI agents, inscribed forever on @Solana ."
+        },
+        {
+          "source": "TG",
+          "project": "Script",
+          "account": "Script_Agent",
+          "alpha": "BearzVerse",
+          "seenAt": "2026-10-29T19:43:35+00:00",
+          "messageId": "dodtwitterbot/38573",
+          "description": "AI agents, inscribed forever on @Solana .",
+          "text": "AI agents, inscribed forever on @Solana ."
+        },
+        {
+          "source": "TG",
+          "project": "Script",
+          "account": "Script_Agent",
+          "alpha": "阿宏",
+          "seenAt": "2026-10-30T03:35:05+00:00",
+          "messageId": "dodtwitterbot/38597",
+          "description": "AI agents, inscribed forever on @Solana .",
+          "text": "AI agents, inscribed forever on @Solana ."
+        }
+      ],
+      "text": " Script Script_Agent AI agents, inscribed forever on @Solana . Script Script_Agent AI agents, inscribed forever on @Solana . Script Script_Agent AI agents, inscribed forever on @Solana .",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "blobs.meme",
       "account": "blobsdotmeme",
       "sources": [
@@ -1547,52 +1605,6 @@
         }
       ],
       "text": " Realbond realbondai Real agents ，Real bonding curve.\nBind your agent address to X /Launchpad On BNB Chain Realbond realbondai Real agents ，Real bonding curve.\nBind your agent address to X /Launchpad On BNB Chain",
-      "score": 4,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Script",
-      "account": "Script_Agent",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "BearzVerse",
-        "unsynned"
-      ],
-      "tgAlphas": [
-        "BearzVerse",
-        "unsynned"
-      ],
-      "xAlphas": [],
-      "mentions": 2,
-      "firstSeen": "2026-10-29T19:04:40+00:00",
-      "lastSeen": "2026-10-29T19:43:35+00:00",
-      "description": "AI agents, inscribed forever on @Solana .",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Script",
-          "account": "Script_Agent",
-          "alpha": "unsynned",
-          "seenAt": "2026-10-29T19:04:40+00:00",
-          "messageId": "dodtwitterbot/38569",
-          "description": "AI agents, inscribed forever on @Solana .",
-          "text": "AI agents, inscribed forever on @Solana ."
-        },
-        {
-          "source": "TG",
-          "project": "Script",
-          "account": "Script_Agent",
-          "alpha": "BearzVerse",
-          "seenAt": "2026-10-29T19:43:35+00:00",
-          "messageId": "dodtwitterbot/38573",
-          "description": "AI agents, inscribed forever on @Solana .",
-          "text": "AI agents, inscribed forever on @Solana ."
-        }
-      ],
-      "text": " Script Script_Agent AI agents, inscribed forever on @Solana . Script Script_Agent AI agents, inscribed forever on @Solana .",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -2688,6 +2700,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "f.xyz",
+      "account": "fxyzai",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "叶子君Foliage ◎ 🔶"
+      ],
+      "tgAlphas": [
+        "叶子君Foliage ◎ 🔶"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-30T04:53:13+00:00",
+      "lastSeen": "2026-10-30T04:53:13+00:00",
+      "description": "Agent programming Interface for money.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "f.xyz",
+          "account": "fxyzai",
+          "alpha": "叶子君Foliage ◎ 🔶",
+          "seenAt": "2026-10-30T04:53:13+00:00",
+          "messageId": "dodtwitterbot/38602",
+          "description": "Agent programming Interface for money.",
+          "text": "Agent programming Interface for money."
+        }
+      ],
+      "text": " f.xyz fxyzai Agent programming Interface for money.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Fishesrh",
       "account": "Fishesrh",
       "sources": [
@@ -2717,6 +2763,40 @@
         }
       ],
       "text": " Fishesrh Fishesrh Hire fishermen in your town, accumulate tokens, and claim $FISHESRH.\n3.333 FREE NFTs on @opensea\nBy @VapeciETH",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Floatpad",
+      "account": "floatpad_",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "发誓要做永赚大师"
+      ],
+      "tgAlphas": [
+        "发誓要做永赚大师"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-30T04:43:42+00:00",
+      "lastSeen": "2026-10-30T04:43:42+00:00",
+      "description": "Launch coins with liquidity that grows over time.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Floatpad",
+          "account": "floatpad_",
+          "alpha": "发誓要做永赚大师",
+          "seenAt": "2026-10-30T04:43:42+00:00",
+          "messageId": "dodtwitterbot/38601",
+          "description": "Launch coins with liquidity that grows over time.",
+          "text": "Launch coins with liquidity that grows over time."
+        }
+      ],
+      "text": " Floatpad floatpad_ Launch coins with liquidity that grows over time.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -4014,6 +4094,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Tofi",
+      "account": "launchontofi",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-30T03:33:19+00:00",
+      "lastSeen": "2026-10-30T03:33:19+00:00",
+      "description": "A launchpad that dreams in three chains from the first minute. Write it down: nobody can erase it.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Tofi",
+          "account": "launchontofi",
+          "alpha": "阿宏",
+          "seenAt": "2026-10-30T03:33:19+00:00",
+          "messageId": "dodtwitterbot/38595",
+          "description": "A launchpad that dreams in three chains from the first minute. Write it down: nobody can erase it.",
+          "text": "A launchpad that dreams in three chains from the first minute. Write it down: nobody can erase it."
+        }
+      ],
+      "text": " Tofi launchontofi A launchpad that dreams in three chains from the first minute. Write it down: nobody can erase it.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "UBI.fun on Arc",
       "account": "UBIdotFUN",
       "sources": [
@@ -4460,6 +4574,22 @@
       "avatarUrl": ""
     },
     {
+      "project": "Script",
+      "x_account": "Script_Agent",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "BearzVerse",
+        "unsynned",
+        "阿宏"
+      ],
+      "description": "AI agents, inscribed forever on @Solana .",
+      "first_seen_utc": "2026-10-29T19:04:40+00:00",
+      "last_seen_utc": "2026-10-30T03:35:05+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
       "project": "blobs.meme",
       "x_account": "blobsdotmeme",
       "total_mentions": 2,
@@ -4636,21 +4766,6 @@
       "description": "Real agents ，Real bonding curve.\nBind your agent address to X /Launchpad On BNB Chain",
       "first_seen_utc": "2026-10-29T07:28:41+00:00",
       "last_seen_utc": "2026-10-29T13:15:58+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Script",
-      "x_account": "Script_Agent",
-      "total_mentions": 2,
-      "unique_alphas": 2,
-      "alphas": [
-        "BearzVerse",
-        "unsynned"
-      ],
-      "description": "AI agents, inscribed forever on @Solana .",
-      "first_seen_utc": "2026-10-29T19:04:40+00:00",
-      "last_seen_utc": "2026-10-29T19:43:35+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -5092,6 +5207,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "f.xyz",
+      "x_account": "fxyzai",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "叶子君Foliage ◎ 🔶"
+      ],
+      "description": "Agent programming Interface for money.",
+      "first_seen_utc": "2026-10-30T04:53:13+00:00",
+      "last_seen_utc": "2026-10-30T04:53:13+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Fishesrh",
       "x_account": "Fishesrh",
       "total_mentions": 1,
@@ -5102,6 +5231,20 @@
       "description": "Hire fishermen in your town, accumulate tokens, and claim $FISHESRH.\n3.333 FREE NFTs on @opensea\nBy @VapeciETH",
       "first_seen_utc": "2026-10-28T17:36:00+08:00",
       "last_seen_utc": "2026-10-28T17:36:00+08:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Floatpad",
+      "x_account": "floatpad_",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "发誓要做永赚大师"
+      ],
+      "description": "Launch coins with liquidity that grows over time.",
+      "first_seen_utc": "2026-10-30T04:43:42+00:00",
+      "last_seen_utc": "2026-10-30T04:43:42+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -5638,6 +5781,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Tofi",
+      "x_account": "launchontofi",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "阿宏"
+      ],
+      "description": "A launchpad that dreams in three chains from the first minute. Write it down: nobody can erase it.",
+      "first_seen_utc": "2026-10-30T03:33:19+00:00",
+      "last_seen_utc": "2026-10-30T03:33:19+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "UBI.fun on Arc",
       "x_account": "UBIdotFUN",
       "total_mentions": 1,
@@ -5725,12 +5882,12 @@
   "daily": [
     {
       "date": "2026-10-30",
-      "totalRows": 20,
-      "projectCount": 13,
+      "totalRows": 24,
+      "projectCount": 16,
       "focusCount": 4,
-      "candidateCount": 9,
+      "candidateCount": 12,
       "crossSource": 0,
-      "newCount": 10,
+      "newCount": 13,
       "repeatCount": 3,
       "projects": [
         {
@@ -5812,6 +5969,65 @@
           ],
           "text": " Tokenized Stonks tokenizedstonk Every stock.\nEvery chain. Tokenized Stonks tokenizedstonk Every stock.\nEvery chain. Tokenized Stonks tokenizedstonk Every stock.\nEvery chain. Tokenized Stonks tokenizedstonk Every stock.\nEvery chain. Tokenized Stonks tokenizedstonk Every stock.\nEvery chain.",
           "score": 10,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Script",
+          "account": "Script_Agent",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BearzVerse",
+            "unsynned",
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "BearzVerse",
+            "unsynned",
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 3,
+          "firstSeen": "2026-10-29T19:04:40+00:00",
+          "lastSeen": "2026-10-30T03:35:05+00:00",
+          "description": "AI agents, inscribed forever on @Solana .",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Script",
+              "account": "Script_Agent",
+              "alpha": "unsynned",
+              "seenAt": "2026-10-29T19:04:40+00:00",
+              "messageId": "dodtwitterbot/38569",
+              "description": "AI agents, inscribed forever on @Solana .",
+              "text": "AI agents, inscribed forever on @Solana ."
+            },
+            {
+              "source": "TG",
+              "project": "Script",
+              "account": "Script_Agent",
+              "alpha": "BearzVerse",
+              "seenAt": "2026-10-29T19:43:35+00:00",
+              "messageId": "dodtwitterbot/38573",
+              "description": "AI agents, inscribed forever on @Solana .",
+              "text": "AI agents, inscribed forever on @Solana ."
+            },
+            {
+              "source": "TG",
+              "project": "Script",
+              "account": "Script_Agent",
+              "alpha": "阿宏",
+              "seenAt": "2026-10-30T03:35:05+00:00",
+              "messageId": "dodtwitterbot/38597",
+              "description": "AI agents, inscribed forever on @Solana .",
+              "text": "AI agents, inscribed forever on @Solana ."
+            }
+          ],
+          "text": " Script Script_Agent AI agents, inscribed forever on @Solana . Script Script_Agent AI agents, inscribed forever on @Solana . Script Script_Agent AI agents, inscribed forever on @Solana .",
+          "score": 6,
           "displayTier": "focus",
           "avatarUrl": "",
           "dayStatus": "new"
@@ -5905,53 +6121,6 @@
             }
           ],
           "text": " Nomad Finance nomadfinanceio Better Market Making for Public LPs Nomad Finance nomadfinanceio Better Market Making for Public LPs",
-          "score": 4,
-          "displayTier": "focus",
-          "avatarUrl": "",
-          "dayStatus": "new"
-        },
-        {
-          "project": "Script",
-          "account": "Script_Agent",
-          "sources": [
-            "TG"
-          ],
-          "alphas": [
-            "BearzVerse",
-            "unsynned"
-          ],
-          "tgAlphas": [
-            "BearzVerse",
-            "unsynned"
-          ],
-          "xAlphas": [],
-          "mentions": 2,
-          "firstSeen": "2026-10-29T19:04:40+00:00",
-          "lastSeen": "2026-10-29T19:43:35+00:00",
-          "description": "AI agents, inscribed forever on @Solana .",
-          "rows": [
-            {
-              "source": "TG",
-              "project": "Script",
-              "account": "Script_Agent",
-              "alpha": "unsynned",
-              "seenAt": "2026-10-29T19:04:40+00:00",
-              "messageId": "dodtwitterbot/38569",
-              "description": "AI agents, inscribed forever on @Solana .",
-              "text": "AI agents, inscribed forever on @Solana ."
-            },
-            {
-              "source": "TG",
-              "project": "Script",
-              "account": "Script_Agent",
-              "alpha": "BearzVerse",
-              "seenAt": "2026-10-29T19:43:35+00:00",
-              "messageId": "dodtwitterbot/38573",
-              "description": "AI agents, inscribed forever on @Solana .",
-              "text": "AI agents, inscribed forever on @Solana ."
-            }
-          ],
-          "text": " Script Script_Agent AI agents, inscribed forever on @Solana . Script Script_Agent AI agents, inscribed forever on @Solana .",
           "score": 4,
           "displayTier": "focus",
           "avatarUrl": "",
@@ -6098,6 +6267,76 @@
           "dayStatus": "new"
         },
         {
+          "project": "f.xyz",
+          "account": "fxyzai",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "叶子君Foliage ◎ 🔶"
+          ],
+          "tgAlphas": [
+            "叶子君Foliage ◎ 🔶"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-30T04:53:13+00:00",
+          "lastSeen": "2026-10-30T04:53:13+00:00",
+          "description": "Agent programming Interface for money.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "f.xyz",
+              "account": "fxyzai",
+              "alpha": "叶子君Foliage ◎ 🔶",
+              "seenAt": "2026-10-30T04:53:13+00:00",
+              "messageId": "dodtwitterbot/38602",
+              "description": "Agent programming Interface for money.",
+              "text": "Agent programming Interface for money."
+            }
+          ],
+          "text": " f.xyz fxyzai Agent programming Interface for money.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Floatpad",
+          "account": "floatpad_",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "发誓要做永赚大师"
+          ],
+          "tgAlphas": [
+            "发誓要做永赚大师"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-30T04:43:42+00:00",
+          "lastSeen": "2026-10-30T04:43:42+00:00",
+          "description": "Launch coins with liquidity that grows over time.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Floatpad",
+              "account": "floatpad_",
+              "alpha": "发誓要做永赚大师",
+              "seenAt": "2026-10-30T04:43:42+00:00",
+              "messageId": "dodtwitterbot/38601",
+              "description": "Launch coins with liquidity that grows over time.",
+              "text": "Launch coins with liquidity that grows over time."
+            }
+          ],
+          "text": " Floatpad floatpad_ Launch coins with liquidity that grows over time.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
           "project": "Hyperion",
           "account": "Hyperion_RPG",
           "sources": [
@@ -6232,6 +6471,41 @@
             }
           ],
           "text": " Stockium Stockium Launch tokens on HyperEVM. Graduate to Elysium paired with tokenized stocks. Memes meet Wall Street.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Tofi",
+          "account": "launchontofi",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-30T03:33:19+00:00",
+          "lastSeen": "2026-10-30T03:33:19+00:00",
+          "description": "A launchpad that dreams in three chains from the first minute. Write it down: nobody can erase it.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Tofi",
+              "account": "launchontofi",
+              "alpha": "阿宏",
+              "seenAt": "2026-10-30T03:33:19+00:00",
+              "messageId": "dodtwitterbot/38595",
+              "description": "A launchpad that dreams in three chains from the first minute. Write it down: nobody can erase it.",
+              "text": "A launchpad that dreams in three chains from the first minute. Write it down: nobody can erase it."
+            }
+          ],
+          "text": " Tofi launchontofi A launchpad that dreams in three chains from the first minute. Write it down: nobody can erase it.",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -10316,49 +10590,54 @@
   ],
   "reports": [
     {
+      "file": "2026-10-30-0745-telegram-update.md",
+      "title": "2026-10-30-0745-telegram-update",
+      "updatedAt": "2026-10-30T07:45:52.550Z"
+    },
+    {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-10-29T22:03:34.607Z"
+      "updatedAt": "2026-10-30T07:45:50.348Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-10-29T22:03:31.779Z"
+      "updatedAt": "2026-10-30T07:45:50.348Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-10-29T22:03:31.779Z"
+      "updatedAt": "2026-10-30T07:45:50.348Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-10-29T22:03:31.779Z"
+      "updatedAt": "2026-10-30T07:45:50.348Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-10-29T22:03:31.779Z"
+      "updatedAt": "2026-10-30T07:45:50.348Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-10-29T22:03:31.779Z"
+      "updatedAt": "2026-10-30T07:45:50.348Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-10-29T22:03:31.779Z"
+      "updatedAt": "2026-10-30T07:45:50.348Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-10-29T22:03:31.779Z"
+      "updatedAt": "2026-10-30T07:45:50.348Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-10-29T22:03:31.778Z"
+      "updatedAt": "2026-10-30T07:45:50.347Z"
     }
   ]
 }
