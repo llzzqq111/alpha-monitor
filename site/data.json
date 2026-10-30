@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-10-30T07:45:52.652Z",
+  "generatedAt": "2026-10-30T16:17:49.059Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 38613,
-    "lastMessageAt": "2026-10-30T07:45:31+00:00",
-    "lastCheckedAt": "2026-10-30T07:45:52.551Z",
-    "previousMessageId": 38577,
-    "pagesRead": 2,
-    "messagesRead": 36,
-    "newProjectRecords": 4,
+    "lastMessageId": 38668,
+    "lastMessageAt": "2026-10-30T16:14:50+00:00",
+    "lastCheckedAt": "2026-10-30T16:17:48.861Z",
+    "previousMessageId": 38613,
+    "pagesRead": 3,
+    "messagesRead": 55,
+    "newProjectRecords": 22,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 165,
+    "telegramRows": 187,
     "xRows": 0,
-    "projects": 106,
+    "projects": 127,
     "crossSource": 0
   },
   "projects": [
@@ -1058,6 +1058,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "APOGEE",
+      "account": "apogeeID",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "CSR",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "CSR",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-10-30T08:13:46+00:00",
+      "lastSeen": "2026-10-30T14:03:48+00:00",
+      "description": "Launch a coin. Trade it at block speed. Reach apogee.\nThe launchpad on @Enter_Elysium , built on @HyperliquidX and HyperCore.\nGas in HYPE.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "APOGEE",
+          "account": "apogeeID",
+          "alpha": "CSR",
+          "seenAt": "2026-10-30T08:13:46+00:00",
+          "messageId": "dodtwitterbot/38617",
+          "description": "Launch a coin. Trade it at block speed. Reach apogee.\nThe launchpad on @Enter_Elysium , built on @HyperliquidX and HyperCore.\nGas in HYPE.",
+          "text": "Launch a coin. Trade it at block speed. Reach apogee.\nThe launchpad on @Enter_Elysium , built on @HyperliquidX and HyperCore.\nGas in HYPE."
+        },
+        {
+          "source": "TG",
+          "project": "APOGEE",
+          "account": "apogeeID",
+          "alpha": "阿宏",
+          "seenAt": "2026-10-30T14:03:48+00:00",
+          "messageId": "dodtwitterbot/38640",
+          "description": "Launch a coin. Trade it at block speed. Reach apogee.\nThe launchpad on @Enter_Elysium , built on @HyperliquidX and HyperCore.\nGas in HYPE.",
+          "text": "Launch a coin. Trade it at block speed. Reach apogee.\nThe launchpad on @Enter_Elysium , built on @HyperliquidX and HyperCore.\nGas in HYPE."
+        }
+      ],
+      "text": " APOGEE apogeeID Launch a coin. Trade it at block speed. Reach apogee.\nThe launchpad on @Enter_Elysium , built on @HyperliquidX and HyperCore.\nGas in HYPE. APOGEE apogeeID Launch a coin. Trade it at block speed. Reach apogee.\nThe launchpad on @Enter_Elysium , built on @HyperliquidX and HyperCore.\nGas in HYPE.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "blobs.meme",
       "account": "blobsdotmeme",
       "sources": [
@@ -1816,6 +1862,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Agent Dojo",
+      "account": "agentdojo",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-30T14:05:34+00:00",
+      "lastSeen": "2026-10-30T14:05:34+00:00",
+      "description": "Coming soon.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Agent Dojo",
+          "account": "agentdojo",
+          "alpha": "阿宏",
+          "seenAt": "2026-10-30T14:05:34+00:00",
+          "messageId": "dodtwitterbot/38642",
+          "description": "Coming soon.",
+          "text": "Coming soon."
+        }
+      ],
+      "text": " Agent Dojo agentdojo Coming soon.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "agentsea",
       "account": "agentsea_fun",
       "sources": [
@@ -1845,6 +1925,40 @@
         }
       ],
       "text": " agentsea agentsea_fun Launch a vision. Agents create it. The NFT launchpad.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Agora",
+      "account": "agora_elysium",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka"
+      ],
+      "tgAlphas": [
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-30T15:23:19+00:00",
+      "lastSeen": "2026-10-30T15:23:19+00:00",
+      "description": "First launchpad aggregator on Elysium",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Agora",
+          "account": "agora_elysium",
+          "alpha": "lakka",
+          "seenAt": "2026-10-30T15:23:19+00:00",
+          "messageId": "dodtwitterbot/38659",
+          "description": "First launchpad aggregator on Elysium",
+          "text": "First launchpad aggregator on Elysium"
+        }
+      ],
+      "text": " Agora agora_elysium First launchpad aggregator on Elysium",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -1884,6 +1998,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "ALT L2",
+      "account": "AltL2fun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-30T14:03:48+00:00",
+      "lastSeen": "2026-10-30T14:03:48+00:00",
+      "description": "The first meme launchpad for Hyperliquid L2. Elysium on the way @Enter_Elysium",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "ALT L2",
+          "account": "AltL2fun",
+          "alpha": "阿宏",
+          "seenAt": "2026-10-30T14:03:48+00:00",
+          "messageId": "dodtwitterbot/38641",
+          "description": "The first meme launchpad for Hyperliquid L2. Elysium on the way @Enter_Elysium",
+          "text": "The first meme launchpad for Hyperliquid L2. Elysium on the way @Enter_Elysium"
+        }
+      ],
+      "text": " ALT L2 AltL2fun The first meme launchpad for Hyperliquid L2. Elysium on the way @Enter_Elysium",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Anemos",
       "account": "AnemosPad",
       "sources": [
@@ -1918,6 +2066,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "arkhampad",
+      "account": "arkhampad",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-30T14:02:01+00:00",
+      "lastSeen": "2026-10-30T14:02:01+00:00",
+      "description": "Elysium launchpad. Launch, trade, repeat.. Log in with email, pay with HYPE or USDC.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "arkhampad",
+          "account": "arkhampad",
+          "alpha": "阿宏",
+          "seenAt": "2026-10-30T14:02:01+00:00",
+          "messageId": "dodtwitterbot/38637",
+          "description": "Elysium launchpad. Launch, trade, repeat.. Log in with email, pay with HYPE or USDC.",
+          "text": "Elysium launchpad. Launch, trade, repeat.. Log in with email, pay with HYPE or USDC."
+        }
+      ],
+      "text": " arkhampad arkhampad Elysium launchpad. Launch, trade, repeat.. Log in with email, pay with HYPE or USDC.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Asend.",
       "account": "AsendNow",
       "sources": [
@@ -1947,6 +2129,40 @@
         }
       ],
       "text": " Asend. AsendNow Trade. Share. Asend. | Coming Soon. ↗️ | NO TOKEN.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Asphod.el",
+      "account": "asphodellaunch",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-30T14:03:48+00:00",
+      "lastSeen": "2026-10-30T14:03:48+00:00",
+      "description": "Elysium Launchpad\n\nLive on mainnet\n\ndev @myturnarc",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Asphod.el",
+          "account": "asphodellaunch",
+          "alpha": "阿宏",
+          "seenAt": "2026-10-30T14:03:48+00:00",
+          "messageId": "dodtwitterbot/38639",
+          "description": "Elysium Launchpad\n\nLive on mainnet\n\ndev @myturnarc",
+          "text": "Elysium Launchpad\n\nLive on mainnet\n\ndev @myturnarc"
+        }
+      ],
+      "text": " Asphod.el asphodellaunch Elysium Launchpad\n\nLive on mainnet\n\ndev @myturnarc",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -2530,6 +2746,74 @@
       "avatarUrl": ""
     },
     {
+      "project": "eleos",
+      "account": "eleosfun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-30T14:03:48+00:00",
+      "lastSeen": "2026-10-30T14:03:48+00:00",
+      "description": "elysium's launchpad with teeth.\n\nlaunch and trade coins on Elysium.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "eleos",
+          "account": "eleosfun",
+          "alpha": "阿宏",
+          "seenAt": "2026-10-30T14:03:48+00:00",
+          "messageId": "dodtwitterbot/38638",
+          "description": "elysium's launchpad with teeth.\n\nlaunch and trade coins on Elysium.",
+          "text": "elysium's launchpad with teeth.\n\nlaunch and trade coins on Elysium."
+        }
+      ],
+      "text": " eleos eleosfun elysium's launchpad with teeth.\n\nlaunch and trade coins on Elysium.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "ElyChest",
+      "account": "ElyChestFun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-30T14:07:21+00:00",
+      "lastSeen": "2026-10-30T14:07:21+00:00",
+      "description": "Building a token launchpad for Elysium.\nOpen the chest. Discover what's next.\nIndependent project. In development.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "ElyChest",
+          "account": "ElyChestFun",
+          "alpha": "阿宏",
+          "seenAt": "2026-10-30T14:07:21+00:00",
+          "messageId": "dodtwitterbot/38643",
+          "description": "Building a token launchpad for Elysium.\nOpen the chest. Discover what's next.\nIndependent project. In development.",
+          "text": "Building a token launchpad for Elysium.\nOpen the chest. Discover what's next.\nIndependent project. In development."
+        }
+      ],
+      "text": " ElyChest ElyChestFun Building a token launchpad for Elysium.\nOpen the chest. Discover what's next.\nIndependent project. In development.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Elympus",
       "account": "ElympusHq",
       "sources": [
@@ -2700,6 +2984,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "EQX Labs",
+      "account": "eqxlabs",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "speest 💎"
+      ],
+      "tgAlphas": [
+        "speest 💎"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-30T15:10:48+00:00",
+      "lastSeen": "2026-10-30T15:10:48+00:00",
+      "description": "Tokenized spot U.S. equities built natively for @HyperliquidX .\n\n1:1 Backed. Institutional Custody. Permissionless trading. 24/7/365.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "EQX Labs",
+          "account": "eqxlabs",
+          "alpha": "speest 💎",
+          "seenAt": "2026-10-30T15:10:48+00:00",
+          "messageId": "dodtwitterbot/38653",
+          "description": "Tokenized spot U.S. equities built natively for @HyperliquidX .\n\n1:1 Backed. Institutional Custody. Permissionless trading. 24/7/365.",
+          "text": "Tokenized spot U.S. equities built natively for @HyperliquidX .\n\n1:1 Backed. Institutional Custody. Permissionless trading. 24/7/365."
+        }
+      ],
+      "text": " EQX Labs eqxlabs Tokenized spot U.S. equities built natively for @HyperliquidX .\n\n1:1 Backed. Institutional Custody. Permissionless trading. 24/7/365.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "f.xyz",
       "account": "fxyzai",
       "sources": [
@@ -2802,6 +3120,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Flying Squirrel",
+      "account": "BNC_StcokFi",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "地推雷氏"
+      ],
+      "tgAlphas": [
+        "地推雷氏"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-30T16:05:59+00:00",
+      "lastSeen": "2026-10-30T16:05:59+00:00",
+      "description": "Join Binance on the StockFi Journey\nThe market has just been validated, the key players haven’t entered the scene yet—secure your spot early",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Flying Squirrel",
+          "account": "BNC_StcokFi",
+          "alpha": "地推雷氏",
+          "seenAt": "2026-10-30T16:05:59+00:00",
+          "messageId": "dodtwitterbot/38663",
+          "description": "Join Binance on the StockFi Journey\nThe market has just been validated, the key players haven’t entered the scene yet—secure your spot early",
+          "text": "Join Binance on the StockFi Journey\nThe market has just been validated, the key players haven’t entered the scene yet—secure your spot early"
+        }
+      ],
+      "text": " Flying Squirrel BNC_StcokFi Join Binance on the StockFi Journey\nThe market has just been validated, the key players haven’t entered the scene yet—secure your spot early",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Gage",
       "account": "gagedotcash",
       "sources": [
@@ -2899,6 +3251,40 @@
         }
       ],
       "text": " Grablab.fun Grablabfun The claw that can't cheat you.\nOn-chain prizes, played live.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Grail",
+      "account": "Graildotfamily",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-30T14:01:08+00:00",
+      "lastSeen": "2026-10-30T14:01:08+00:00",
+      "description": "a private coin launchpad on ethereum\npowered by Railgun",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Grail",
+          "account": "Graildotfamily",
+          "alpha": "阿宏",
+          "seenAt": "2026-10-30T14:01:08+00:00",
+          "messageId": "dodtwitterbot/38634",
+          "description": "a private coin launchpad on ethereum\npowered by Railgun",
+          "text": "a private coin launchpad on ethereum\npowered by Railgun"
+        }
+      ],
+      "text": " Grail Graildotfamily a private coin launchpad on ethereum\npowered by Railgun",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -3176,6 +3562,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Liquidium.WTF | Ordinal & NFT Loans",
+      "account": "LiquidiumWTF",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-30T14:02:01+00:00",
+      "lastSeen": "2026-10-30T14:02:01+00:00",
+      "description": "Borrow & lend BTC against Ordinals.\n\nNFT lending on Robinhood Chain Live and Ethereum live NOW 🏹 🟦 .\n\nCross-chain: @LiquidiumFi | Join WTF ↓",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Liquidium.WTF | Ordinal & NFT Loans",
+          "account": "LiquidiumWTF",
+          "alpha": "阿宏",
+          "seenAt": "2026-10-30T14:02:01+00:00",
+          "messageId": "dodtwitterbot/38636",
+          "description": "Borrow & lend BTC against Ordinals.\n\nNFT lending on Robinhood Chain Live and Ethereum live NOW 🏹 🟦 .\n\nCross-chain: @LiquidiumFi | Join WTF ↓",
+          "text": "Borrow & lend BTC against Ordinals.\n\nNFT lending on Robinhood Chain Live and Ethereum live NOW 🏹 🟦 .\n\nCross-chain: @LiquidiumFi | Join WTF ↓"
+        }
+      ],
+      "text": " Liquidium.WTF | Ordinal & NFT Loans LiquidiumWTF Borrow & lend BTC against Ordinals.\n\nNFT lending on Robinhood Chain Live and Ethereum live NOW 🏹 🟦 .\n\nCross-chain: @LiquidiumFi | Join WTF ↓",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "LitVM",
       "account": "LitecoinVM",
       "sources": [
@@ -3205,6 +3625,40 @@
         }
       ],
       "text": " LitVM LitecoinVM Litecoin’s Virtual Machine \n\nHard Money Web3, powered by @litecoin.\n\nJoin the convo: https://t.co/o7ehGt5nQs",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Lotlings",
+      "account": "lotlings",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-30T13:59:21+00:00",
+      "lastSeen": "2026-10-30T13:59:21+00:00",
+      "description": "Where meme culture meets NFT markets & token launches.\n\nPowered by @Enter_elysium",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Lotlings",
+          "account": "lotlings",
+          "alpha": "阿宏",
+          "seenAt": "2026-10-30T13:59:21+00:00",
+          "messageId": "dodtwitterbot/38632",
+          "description": "Where meme culture meets NFT markets & token launches.\n\nPowered by @Enter_elysium",
+          "text": "Where meme culture meets NFT markets & token launches.\n\nPowered by @Enter_elysium"
+        }
+      ],
+      "text": " Lotlings lotlings Where meme culture meets NFT markets & token launches.\n\nPowered by @Enter_elysium",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -3346,6 +3800,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Moribundus",
+      "account": "moribundusBNB",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "八九"
+      ],
+      "tgAlphas": [
+        "八九"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-30T16:14:50+00:00",
+      "lastSeen": "2026-10-30T16:14:50+00:00",
+      "description": "Every soul is born to die. Its death pays you. 4,444 souls Agent ID only BNB Chain",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Moribundus",
+          "account": "moribundusBNB",
+          "alpha": "八九",
+          "seenAt": "2026-10-30T16:14:50+00:00",
+          "messageId": "dodtwitterbot/38668",
+          "description": "Every soul is born to die. Its death pays you. 4,444 souls Agent ID only BNB Chain",
+          "text": "Every soul is born to die. Its death pays you. 4,444 souls Agent ID only BNB Chain"
+        }
+      ],
+      "text": " Moribundus moribundusBNB Every soul is born to die. Its death pays you. 4,444 souls Agent ID only BNB Chain",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "NULORA",
       "account": "nuloraio",
       "sources": [
@@ -3482,6 +3970,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Phantom Alpha",
+      "account": "PhantomAlpha_",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-30T11:11:44+00:00",
+      "lastSeen": "2026-10-30T11:11:44+00:00",
+      "description": "Breaking news & crypto market insights.\n\npowered by @phantom\n\nNot for UK users. See @phantom__UK .",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Phantom Alpha",
+          "account": "PhantomAlpha_",
+          "alpha": "unsynned",
+          "seenAt": "2026-10-30T11:11:44+00:00",
+          "messageId": "dodtwitterbot/38621",
+          "description": "Breaking news & crypto market insights.\n\npowered by @phantom\n\nNot for UK users. See @phantom__UK .",
+          "text": "Breaking news & crypto market insights.\n\npowered by @phantom\n\nNot for UK users. See @phantom__UK ."
+        }
+      ],
+      "text": " Phantom Alpha PhantomAlpha_ Breaking news & crypto market insights.\n\npowered by @phantom\n\nNot for UK users. See @phantom__UK .",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "PickRush",
       "account": "PickRush",
       "sources": [
@@ -3550,6 +4072,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "PYRIVA",
+      "account": "Desire8492261",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "八九"
+      ],
+      "tgAlphas": [
+        "八九"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-30T15:23:19+00:00",
+      "lastSeen": "2026-10-30T15:23:19+00:00",
+      "description": "PYRIVA | An AI-Native NFT Launchpad on BSC\nConnecting NFTs, AI Agents, and token launches. Our 988 genesis Pass NFTs cost 0.02 BNB each and require Binance Agen",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "PYRIVA",
+          "account": "Desire8492261",
+          "alpha": "八九",
+          "seenAt": "2026-10-30T15:23:19+00:00",
+          "messageId": "dodtwitterbot/38658",
+          "description": "PYRIVA | An AI-Native NFT Launchpad on BSC\nConnecting NFTs, AI Agents, and token launches. Our 988 genesis Pass NFTs cost 0.02 BNB each and require Binance Agen",
+          "text": "PYRIVA | An AI-Native NFT Launchpad on BSC\nConnecting NFTs, AI Agents, and token launches. Our 988 genesis Pass NFTs cost 0.02 BNB each and require Binance Agen"
+        }
+      ],
+      "text": " PYRIVA Desire8492261 PYRIVA | An AI-Native NFT Launchpad on BSC\nConnecting NFTs, AI Agents, and token launches. Our 988 genesis Pass NFTs cost 0.02 BNB each and require Binance Agen",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "RINSED",
       "account": "rinseddotfun",
       "sources": [
@@ -3584,6 +4140,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Ropad",
+      "account": "RopadSolana",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-30T09:45:41+00:00",
+      "lastSeen": "2026-10-30T09:45:41+00:00",
+      "description": "Launch any coin paired with any Roblox map. Fees go directly to creator of map.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Ropad",
+          "account": "RopadSolana",
+          "alpha": "阿宏",
+          "seenAt": "2026-10-30T09:45:41+00:00",
+          "messageId": "dodtwitterbot/38620",
+          "description": "Launch any coin paired with any Roblox map. Fees go directly to creator of map.",
+          "text": "Launch any coin paired with any Roblox map. Fees go directly to creator of map."
+        }
+      ],
+      "text": " Ropad RopadSolana Launch any coin paired with any Roblox map. Fees go directly to creator of map.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Satsfun",
       "account": "Satsfun",
       "sources": [
@@ -3613,6 +4203,40 @@
         }
       ],
       "text": " Satsfun Satsfun The launchpad where every coin is paired with BTC. 7 chain : Ethereum, Base, Robinhood, Arbitrum, BNB, Monad and Solana.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "SCRiM",
+      "account": "scrimfinance",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "hit.ink"
+      ],
+      "tgAlphas": [
+        "hit.ink"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-30T16:05:59+00:00",
+      "lastSeen": "2026-10-30T16:05:59+00:00",
+      "description": "Multichain payments (30+ chains) + x402 agentic commerce. Built on @NEARProtocol with privacy on demand",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "SCRiM",
+          "account": "scrimfinance",
+          "alpha": "hit.ink",
+          "seenAt": "2026-10-30T16:05:59+00:00",
+          "messageId": "dodtwitterbot/38665",
+          "description": "Multichain payments (30+ chains) + x402 agentic commerce. Built on @NEARProtocol with privacy on demand",
+          "text": "Multichain payments (30+ chains) + x402 agentic commerce. Built on @NEARProtocol with privacy on demand"
+        }
+      ],
+      "text": " SCRiM scrimfinance Multichain payments (30+ chains) + x402 agentic commerce. Built on @NEARProtocol with privacy on demand",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -3890,6 +4514,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Stars agent",
+      "account": "Starsagent_BNB",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "地推雷氏"
+      ],
+      "tgAlphas": [
+        "地推雷氏"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-30T15:06:19+00:00",
+      "lastSeen": "2026-10-30T15:06:19+00:00",
+      "description": "Spells are written into the Ledger. A Solana card battler with Echo, Leylines and Pacts. Earn &#036;Ember by playing. 8B1ehC8qLoFYhqFTueBa1zq8s7uwV2qtsufDp4qapump",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Stars agent",
+          "account": "Starsagent_BNB",
+          "alpha": "地推雷氏",
+          "seenAt": "2026-10-30T15:06:19+00:00",
+          "messageId": "dodtwitterbot/38652",
+          "description": "Spells are written into the Ledger. A Solana card battler with Echo, Leylines and Pacts. Earn &#036;Ember by playing. 8B1ehC8qLoFYhqFTueBa1zq8s7uwV2qtsufDp4qapump",
+          "text": "Spells are written into the Ledger. A Solana card battler with Echo, Leylines and Pacts. Earn &#036;Ember by playing. 8B1ehC8qLoFYhqFTueBa1zq8s7uwV2qtsufDp4qapump"
+        }
+      ],
+      "text": " Stars agent Starsagent_BNB Spells are written into the Ledger. A Solana card battler with Echo, Leylines and Pacts. Earn &#036;Ember by playing. 8B1ehC8qLoFYhqFTueBa1zq8s7uwV2qtsufDp4qapump",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Stockium",
       "account": "Stockium",
       "sources": [
@@ -4060,6 +4718,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "The Crypt",
+      "account": "playthecrypt",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka"
+      ],
+      "tgAlphas": [
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-30T11:31:09+00:00",
+      "lastSeen": "2026-10-30T11:31:09+00:00",
+      "description": "A risk based game of souls and sacrifice\n\nComing to Robinhood Chain",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "The Crypt",
+          "account": "playthecrypt",
+          "alpha": "lakka",
+          "seenAt": "2026-10-30T11:31:09+00:00",
+          "messageId": "dodtwitterbot/38624",
+          "description": "A risk based game of souls and sacrifice\n\nComing to Robinhood Chain",
+          "text": "A risk based game of souls and sacrifice\n\nComing to Robinhood Chain"
+        }
+      ],
+      "text": " The Crypt playthecrypt A risk based game of souls and sacrifice\n\nComing to Robinhood Chain",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Tiny Farm",
       "account": "tiny_farming",
       "sources": [
@@ -4191,6 +4883,40 @@
         }
       ],
       "text": " UNSEEN UnseenOrdo The first Private UDA(NFT) collection on Bitcoin RGB.\nHere's to the unseen ones.\nTG → https://t.co/zzUxatm7kr",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Valhalla on Elysium",
+      "account": "Valhalla_Launch",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-30T14:07:21+00:00",
+      "lastSeen": "2026-10-30T14:07:21+00:00",
+      "description": "Alpha platform for launching NFTs and tokens on @Enter_Elysium",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Valhalla on Elysium",
+          "account": "Valhalla_Launch",
+          "alpha": "阿宏",
+          "seenAt": "2026-10-30T14:07:21+00:00",
+          "messageId": "dodtwitterbot/38644",
+          "description": "Alpha platform for launching NFTs and tokens on @Enter_Elysium",
+          "text": "Alpha platform for launching NFTs and tokens on @Enter_Elysium"
+        }
+      ],
+      "text": " Valhalla on Elysium Valhalla_Launch Alpha platform for launching NFTs and tokens on @Enter_Elysium",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -4590,6 +5316,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "APOGEE",
+      "x_account": "apogeeID",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "CSR",
+        "阿宏"
+      ],
+      "description": "Launch a coin. Trade it at block speed. Reach apogee.\nThe launchpad on @Enter_Elysium , built on @HyperliquidX and HyperCore.\nGas in HYPE.",
+      "first_seen_utc": "2026-10-30T08:13:46+00:00",
+      "last_seen_utc": "2026-10-30T14:03:48+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "blobs.meme",
       "x_account": "blobsdotmeme",
       "total_mentions": 2,
@@ -4843,6 +5584,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Agent Dojo",
+      "x_account": "agentdojo",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "阿宏"
+      ],
+      "description": "Coming soon.",
+      "first_seen_utc": "2026-10-30T14:05:34+00:00",
+      "last_seen_utc": "2026-10-30T14:05:34+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "agentsea",
       "x_account": "agentsea_fun",
       "total_mentions": 1,
@@ -4853,6 +5608,20 @@
       "description": "Launch a vision. Agents create it. The NFT launchpad.",
       "first_seen_utc": "2026-10-28T18:33:38+00:00",
       "last_seen_utc": "2026-10-28T18:33:38+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Agora",
+      "x_account": "agora_elysium",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "lakka"
+      ],
+      "description": "First launchpad aggregator on Elysium",
+      "first_seen_utc": "2026-10-30T15:23:19+00:00",
+      "last_seen_utc": "2026-10-30T15:23:19+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -4871,6 +5640,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "ALT L2",
+      "x_account": "AltL2fun",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "阿宏"
+      ],
+      "description": "The first meme launchpad for Hyperliquid L2. Elysium on the way @Enter_Elysium",
+      "first_seen_utc": "2026-10-30T14:03:48+00:00",
+      "last_seen_utc": "2026-10-30T14:03:48+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Anemos",
       "x_account": "AnemosPad",
       "total_mentions": 1,
@@ -4885,6 +5668,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "arkhampad",
+      "x_account": "arkhampad",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "阿宏"
+      ],
+      "description": "Elysium launchpad. Launch, trade, repeat.. Log in with email, pay with HYPE or USDC.",
+      "first_seen_utc": "2026-10-30T14:02:01+00:00",
+      "last_seen_utc": "2026-10-30T14:02:01+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Asend.",
       "x_account": "AsendNow",
       "total_mentions": 1,
@@ -4895,6 +5692,20 @@
       "description": "Trade. Share. Asend. | Coming Soon. ↗️ | NO TOKEN.",
       "first_seen_utc": "2026-10-29T12:01:16+00:00",
       "last_seen_utc": "2026-10-29T12:01:16+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Asphod.el",
+      "x_account": "asphodellaunch",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "阿宏"
+      ],
+      "description": "Elysium Launchpad\n\nLive on mainnet\n\ndev @myturnarc",
+      "first_seen_utc": "2026-10-30T14:03:48+00:00",
+      "last_seen_utc": "2026-10-30T14:03:48+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -5137,6 +5948,34 @@
       "avatarUrl": ""
     },
     {
+      "project": "eleos",
+      "x_account": "eleosfun",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "阿宏"
+      ],
+      "description": "elysium's launchpad with teeth.\n\nlaunch and trade coins on Elysium.",
+      "first_seen_utc": "2026-10-30T14:03:48+00:00",
+      "last_seen_utc": "2026-10-30T14:03:48+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "ElyChest",
+      "x_account": "ElyChestFun",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "阿宏"
+      ],
+      "description": "Building a token launchpad for Elysium.\nOpen the chest. Discover what's next.\nIndependent project. In development.",
+      "first_seen_utc": "2026-10-30T14:07:21+00:00",
+      "last_seen_utc": "2026-10-30T14:07:21+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Elympus",
       "x_account": "ElympusHq",
       "total_mentions": 1,
@@ -5207,6 +6046,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "EQX Labs",
+      "x_account": "eqxlabs",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "speest 💎"
+      ],
+      "description": "Tokenized spot U.S. equities built natively for @HyperliquidX .\n\n1:1 Backed. Institutional Custody. Permissionless trading. 24/7/365.",
+      "first_seen_utc": "2026-10-30T15:10:48+00:00",
+      "last_seen_utc": "2026-10-30T15:10:48+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "f.xyz",
       "x_account": "fxyzai",
       "total_mentions": 1,
@@ -5249,6 +6102,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Flying Squirrel",
+      "x_account": "BNC_StcokFi",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "地推雷氏"
+      ],
+      "description": "Join Binance on the StockFi Journey\nThe market has just been validated, the key players haven’t entered the scene yet—secure your spot early",
+      "first_seen_utc": "2026-10-30T16:05:59+00:00",
+      "last_seen_utc": "2026-10-30T16:05:59+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Gage",
       "x_account": "gagedotcash",
       "total_mentions": 1,
@@ -5287,6 +6154,20 @@
       "description": "The claw that can't cheat you.\nOn-chain prizes, played live.",
       "first_seen_utc": "2026-10-28T17:02:50+00:00",
       "last_seen_utc": "2026-10-28T17:02:50+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Grail",
+      "x_account": "Graildotfamily",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "阿宏"
+      ],
+      "description": "a private coin launchpad on ethereum\npowered by Railgun",
+      "first_seen_utc": "2026-10-30T14:01:08+00:00",
+      "last_seen_utc": "2026-10-30T14:01:08+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -5403,6 +6284,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Liquidium.WTF | Ordinal & NFT Loans",
+      "x_account": "LiquidiumWTF",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "阿宏"
+      ],
+      "description": "Borrow & lend BTC against Ordinals.\n\nNFT lending on Robinhood Chain Live and Ethereum live NOW 🏹 🟦 .\n\nCross-chain: @LiquidiumFi | Join WTF ↓",
+      "first_seen_utc": "2026-10-30T14:02:01+00:00",
+      "last_seen_utc": "2026-10-30T14:02:01+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "LitVM",
       "x_account": "LitecoinVM",
       "total_mentions": 1,
@@ -5413,6 +6308,20 @@
       "description": "Litecoin’s Virtual Machine \n\nHard Money Web3, powered by @litecoin.\n\nJoin the convo: https://t.co/o7ehGt5nQs",
       "first_seen_utc": "2026-10-28T04:55:00+08:00",
       "last_seen_utc": "2026-10-28T04:55:00+08:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Lotlings",
+      "x_account": "lotlings",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "阿宏"
+      ],
+      "description": "Where meme culture meets NFT markets & token launches.\n\nPowered by @Enter_elysium",
+      "first_seen_utc": "2026-10-30T13:59:21+00:00",
+      "last_seen_utc": "2026-10-30T13:59:21+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -5473,6 +6382,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Moribundus",
+      "x_account": "moribundusBNB",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "八九"
+      ],
+      "description": "Every soul is born to die. Its death pays you. 4,444 souls Agent ID only BNB Chain",
+      "first_seen_utc": "2026-10-30T16:14:50+00:00",
+      "last_seen_utc": "2026-10-30T16:14:50+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "NULORA",
       "x_account": "nuloraio",
       "total_mentions": 1,
@@ -5529,6 +6452,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Phantom Alpha",
+      "x_account": "PhantomAlpha_",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "unsynned"
+      ],
+      "description": "Breaking news & crypto market insights.\n\npowered by @phantom\n\nNot for UK users. See @phantom__UK .",
+      "first_seen_utc": "2026-10-30T11:11:44+00:00",
+      "last_seen_utc": "2026-10-30T11:11:44+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "PickRush",
       "x_account": "PickRush",
       "total_mentions": 1,
@@ -5557,6 +6494,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "PYRIVA",
+      "x_account": "Desire8492261",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "八九"
+      ],
+      "description": "PYRIVA | An AI-Native NFT Launchpad on BSC\nConnecting NFTs, AI Agents, and token launches. Our 988 genesis Pass NFTs cost 0.02 BNB each and require Binance Agen",
+      "first_seen_utc": "2026-10-30T15:23:19+00:00",
+      "last_seen_utc": "2026-10-30T15:23:19+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "RINSED",
       "x_account": "rinseddotfun",
       "total_mentions": 1,
@@ -5571,6 +6522,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Ropad",
+      "x_account": "RopadSolana",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "阿宏"
+      ],
+      "description": "Launch any coin paired with any Roblox map. Fees go directly to creator of map.",
+      "first_seen_utc": "2026-10-30T09:45:41+00:00",
+      "last_seen_utc": "2026-10-30T09:45:41+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Satsfun",
       "x_account": "Satsfun",
       "total_mentions": 1,
@@ -5581,6 +6546,20 @@
       "description": "The launchpad where every coin is paired with BTC. 7 chain : Ethereum, Base, Robinhood, Arbitrum, BNB, Monad and Solana.",
       "first_seen_utc": "2026-10-28T22:34:00+08:00",
       "last_seen_utc": "2026-10-28T22:34:00+08:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "SCRiM",
+      "x_account": "scrimfinance",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "hit.ink"
+      ],
+      "description": "Multichain payments (30+ chains) + x402 agentic commerce. Built on @NEARProtocol with privacy on demand",
+      "first_seen_utc": "2026-10-30T16:05:59+00:00",
+      "last_seen_utc": "2026-10-30T16:05:59+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -5697,6 +6676,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Stars agent",
+      "x_account": "Starsagent_BNB",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "地推雷氏"
+      ],
+      "description": "Spells are written into the Ledger. A Solana card battler with Echo, Leylines and Pacts. Earn &#036;Ember by playing. 8B1ehC8qLoFYhqFTueBa1zq8s7uwV2qtsufDp4qapump",
+      "first_seen_utc": "2026-10-30T15:06:19+00:00",
+      "last_seen_utc": "2026-10-30T15:06:19+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Stockium",
       "x_account": "Stockium",
       "total_mentions": 1,
@@ -5767,6 +6760,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "The Crypt",
+      "x_account": "playthecrypt",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "lakka"
+      ],
+      "description": "A risk based game of souls and sacrifice\n\nComing to Robinhood Chain",
+      "first_seen_utc": "2026-10-30T11:31:09+00:00",
+      "last_seen_utc": "2026-10-30T11:31:09+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Tiny Farm",
       "x_account": "tiny_farming",
       "total_mentions": 1,
@@ -5819,6 +6826,20 @@
       "description": "The first Private UDA(NFT) collection on Bitcoin RGB.\nHere's to the unseen ones.\nTG → https://t.co/zzUxatm7kr",
       "first_seen_utc": "2026-10-29T07:10:35+00:00",
       "last_seen_utc": "2026-10-29T07:10:35+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Valhalla on Elysium",
+      "x_account": "Valhalla_Launch",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "阿宏"
+      ],
+      "description": "Alpha platform for launching NFTs and tokens on @Enter_Elysium",
+      "first_seen_utc": "2026-10-30T14:07:21+00:00",
+      "last_seen_utc": "2026-10-30T14:07:21+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -5881,13 +6902,130 @@
   ],
   "daily": [
     {
-      "date": "2026-10-30",
-      "totalRows": 24,
-      "projectCount": 16,
-      "focusCount": 4,
-      "candidateCount": 12,
+      "date": "2026-10-31",
+      "totalRows": 3,
+      "projectCount": 3,
+      "focusCount": 0,
+      "candidateCount": 3,
       "crossSource": 0,
-      "newCount": 13,
+      "newCount": 3,
+      "repeatCount": 0,
+      "projects": [
+        {
+          "project": "Flying Squirrel",
+          "account": "BNC_StcokFi",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "地推雷氏"
+          ],
+          "tgAlphas": [
+            "地推雷氏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-30T16:05:59+00:00",
+          "lastSeen": "2026-10-30T16:05:59+00:00",
+          "description": "Join Binance on the StockFi Journey\nThe market has just been validated, the key players haven’t entered the scene yet—secure your spot early",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Flying Squirrel",
+              "account": "BNC_StcokFi",
+              "alpha": "地推雷氏",
+              "seenAt": "2026-10-30T16:05:59+00:00",
+              "messageId": "dodtwitterbot/38663",
+              "description": "Join Binance on the StockFi Journey\nThe market has just been validated, the key players haven’t entered the scene yet—secure your spot early",
+              "text": "Join Binance on the StockFi Journey\nThe market has just been validated, the key players haven’t entered the scene yet—secure your spot early"
+            }
+          ],
+          "text": " Flying Squirrel BNC_StcokFi Join Binance on the StockFi Journey\nThe market has just been validated, the key players haven’t entered the scene yet—secure your spot early",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Moribundus",
+          "account": "moribundusBNB",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "八九"
+          ],
+          "tgAlphas": [
+            "八九"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-30T16:14:50+00:00",
+          "lastSeen": "2026-10-30T16:14:50+00:00",
+          "description": "Every soul is born to die. Its death pays you. 4,444 souls Agent ID only BNB Chain",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Moribundus",
+              "account": "moribundusBNB",
+              "alpha": "八九",
+              "seenAt": "2026-10-30T16:14:50+00:00",
+              "messageId": "dodtwitterbot/38668",
+              "description": "Every soul is born to die. Its death pays you. 4,444 souls Agent ID only BNB Chain",
+              "text": "Every soul is born to die. Its death pays you. 4,444 souls Agent ID only BNB Chain"
+            }
+          ],
+          "text": " Moribundus moribundusBNB Every soul is born to die. Its death pays you. 4,444 souls Agent ID only BNB Chain",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "SCRiM",
+          "account": "scrimfinance",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "hit.ink"
+          ],
+          "tgAlphas": [
+            "hit.ink"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-30T16:05:59+00:00",
+          "lastSeen": "2026-10-30T16:05:59+00:00",
+          "description": "Multichain payments (30+ chains) + x402 agentic commerce. Built on @NEARProtocol with privacy on demand",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "SCRiM",
+              "account": "scrimfinance",
+              "alpha": "hit.ink",
+              "seenAt": "2026-10-30T16:05:59+00:00",
+              "messageId": "dodtwitterbot/38665",
+              "description": "Multichain payments (30+ chains) + x402 agentic commerce. Built on @NEARProtocol with privacy on demand",
+              "text": "Multichain payments (30+ chains) + x402 agentic commerce. Built on @NEARProtocol with privacy on demand"
+            }
+          ],
+          "text": " SCRiM scrimfinance Multichain payments (30+ chains) + x402 agentic commerce. Built on @NEARProtocol with privacy on demand",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "totalRows": 43,
+      "projectCount": 34,
+      "focusCount": 5,
+      "candidateCount": 29,
+      "crossSource": 0,
+      "newCount": 31,
       "repeatCount": 3,
       "projects": [
         {
@@ -6033,6 +7171,53 @@
           "dayStatus": "new"
         },
         {
+          "project": "APOGEE",
+          "account": "apogeeID",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "CSR",
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "CSR",
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-10-30T08:13:46+00:00",
+          "lastSeen": "2026-10-30T14:03:48+00:00",
+          "description": "Launch a coin. Trade it at block speed. Reach apogee.\nThe launchpad on @Enter_Elysium , built on @HyperliquidX and HyperCore.\nGas in HYPE.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "APOGEE",
+              "account": "apogeeID",
+              "alpha": "CSR",
+              "seenAt": "2026-10-30T08:13:46+00:00",
+              "messageId": "dodtwitterbot/38617",
+              "description": "Launch a coin. Trade it at block speed. Reach apogee.\nThe launchpad on @Enter_Elysium , built on @HyperliquidX and HyperCore.\nGas in HYPE.",
+              "text": "Launch a coin. Trade it at block speed. Reach apogee.\nThe launchpad on @Enter_Elysium , built on @HyperliquidX and HyperCore.\nGas in HYPE."
+            },
+            {
+              "source": "TG",
+              "project": "APOGEE",
+              "account": "apogeeID",
+              "alpha": "阿宏",
+              "seenAt": "2026-10-30T14:03:48+00:00",
+              "messageId": "dodtwitterbot/38640",
+              "description": "Launch a coin. Trade it at block speed. Reach apogee.\nThe launchpad on @Enter_Elysium , built on @HyperliquidX and HyperCore.\nGas in HYPE.",
+              "text": "Launch a coin. Trade it at block speed. Reach apogee.\nThe launchpad on @Enter_Elysium , built on @HyperliquidX and HyperCore.\nGas in HYPE."
+            }
+          ],
+          "text": " APOGEE apogeeID Launch a coin. Trade it at block speed. Reach apogee.\nThe launchpad on @Enter_Elysium , built on @HyperliquidX and HyperCore.\nGas in HYPE. APOGEE apogeeID Launch a coin. Trade it at block speed. Reach apogee.\nThe launchpad on @Enter_Elysium , built on @HyperliquidX and HyperCore.\nGas in HYPE.",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
           "project": "FiatDesk",
           "account": "fiatdesk",
           "sources": [
@@ -6127,6 +7312,146 @@
           "dayStatus": "new"
         },
         {
+          "project": "Agent Dojo",
+          "account": "agentdojo",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-30T14:05:34+00:00",
+          "lastSeen": "2026-10-30T14:05:34+00:00",
+          "description": "Coming soon.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Agent Dojo",
+              "account": "agentdojo",
+              "alpha": "阿宏",
+              "seenAt": "2026-10-30T14:05:34+00:00",
+              "messageId": "dodtwitterbot/38642",
+              "description": "Coming soon.",
+              "text": "Coming soon."
+            }
+          ],
+          "text": " Agent Dojo agentdojo Coming soon.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Agora",
+          "account": "agora_elysium",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-30T15:23:19+00:00",
+          "lastSeen": "2026-10-30T15:23:19+00:00",
+          "description": "First launchpad aggregator on Elysium",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Agora",
+              "account": "agora_elysium",
+              "alpha": "lakka",
+              "seenAt": "2026-10-30T15:23:19+00:00",
+              "messageId": "dodtwitterbot/38659",
+              "description": "First launchpad aggregator on Elysium",
+              "text": "First launchpad aggregator on Elysium"
+            }
+          ],
+          "text": " Agora agora_elysium First launchpad aggregator on Elysium",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "ALT L2",
+          "account": "AltL2fun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-30T14:03:48+00:00",
+          "lastSeen": "2026-10-30T14:03:48+00:00",
+          "description": "The first meme launchpad for Hyperliquid L2. Elysium on the way @Enter_Elysium",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "ALT L2",
+              "account": "AltL2fun",
+              "alpha": "阿宏",
+              "seenAt": "2026-10-30T14:03:48+00:00",
+              "messageId": "dodtwitterbot/38641",
+              "description": "The first meme launchpad for Hyperliquid L2. Elysium on the way @Enter_Elysium",
+              "text": "The first meme launchpad for Hyperliquid L2. Elysium on the way @Enter_Elysium"
+            }
+          ],
+          "text": " ALT L2 AltL2fun The first meme launchpad for Hyperliquid L2. Elysium on the way @Enter_Elysium",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "arkhampad",
+          "account": "arkhampad",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-30T14:02:01+00:00",
+          "lastSeen": "2026-10-30T14:02:01+00:00",
+          "description": "Elysium launchpad. Launch, trade, repeat.. Log in with email, pay with HYPE or USDC.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "arkhampad",
+              "account": "arkhampad",
+              "alpha": "阿宏",
+              "seenAt": "2026-10-30T14:02:01+00:00",
+              "messageId": "dodtwitterbot/38637",
+              "description": "Elysium launchpad. Launch, trade, repeat.. Log in with email, pay with HYPE or USDC.",
+              "text": "Elysium launchpad. Launch, trade, repeat.. Log in with email, pay with HYPE or USDC."
+            }
+          ],
+          "text": " arkhampad arkhampad Elysium launchpad. Launch, trade, repeat.. Log in with email, pay with HYPE or USDC.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
           "project": "Ascend",
           "account": "AscendLaunch",
           "sources": [
@@ -6160,6 +7485,41 @@
           "displayTier": "candidate",
           "avatarUrl": "",
           "dayStatus": "repeat"
+        },
+        {
+          "project": "Asphod.el",
+          "account": "asphodellaunch",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-30T14:03:48+00:00",
+          "lastSeen": "2026-10-30T14:03:48+00:00",
+          "description": "Elysium Launchpad\n\nLive on mainnet\n\ndev @myturnarc",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Asphod.el",
+              "account": "asphodellaunch",
+              "alpha": "阿宏",
+              "seenAt": "2026-10-30T14:03:48+00:00",
+              "messageId": "dodtwitterbot/38639",
+              "description": "Elysium Launchpad\n\nLive on mainnet\n\ndev @myturnarc",
+              "text": "Elysium Launchpad\n\nLive on mainnet\n\ndev @myturnarc"
+            }
+          ],
+          "text": " Asphod.el asphodellaunch Elysium Launchpad\n\nLive on mainnet\n\ndev @myturnarc",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
         },
         {
           "project": "Atlas",
@@ -6232,6 +7592,76 @@
           "dayStatus": "new"
         },
         {
+          "project": "eleos",
+          "account": "eleosfun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-30T14:03:48+00:00",
+          "lastSeen": "2026-10-30T14:03:48+00:00",
+          "description": "elysium's launchpad with teeth.\n\nlaunch and trade coins on Elysium.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "eleos",
+              "account": "eleosfun",
+              "alpha": "阿宏",
+              "seenAt": "2026-10-30T14:03:48+00:00",
+              "messageId": "dodtwitterbot/38638",
+              "description": "elysium's launchpad with teeth.\n\nlaunch and trade coins on Elysium.",
+              "text": "elysium's launchpad with teeth.\n\nlaunch and trade coins on Elysium."
+            }
+          ],
+          "text": " eleos eleosfun elysium's launchpad with teeth.\n\nlaunch and trade coins on Elysium.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "ElyChest",
+          "account": "ElyChestFun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-30T14:07:21+00:00",
+          "lastSeen": "2026-10-30T14:07:21+00:00",
+          "description": "Building a token launchpad for Elysium.\nOpen the chest. Discover what's next.\nIndependent project. In development.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "ElyChest",
+              "account": "ElyChestFun",
+              "alpha": "阿宏",
+              "seenAt": "2026-10-30T14:07:21+00:00",
+              "messageId": "dodtwitterbot/38643",
+              "description": "Building a token launchpad for Elysium.\nOpen the chest. Discover what's next.\nIndependent project. In development.",
+              "text": "Building a token launchpad for Elysium.\nOpen the chest. Discover what's next.\nIndependent project. In development."
+            }
+          ],
+          "text": " ElyChest ElyChestFun Building a token launchpad for Elysium.\nOpen the chest. Discover what's next.\nIndependent project. In development.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
           "project": "Elyziuma",
           "account": "Elyziumaa",
           "sources": [
@@ -6261,6 +7691,41 @@
             }
           ],
           "text": " Elyziuma Elyziumaa Elyziuma is an NFT collection coming to @Enter_Elysium",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "EQX Labs",
+          "account": "eqxlabs",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "speest 💎"
+          ],
+          "tgAlphas": [
+            "speest 💎"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-30T15:10:48+00:00",
+          "lastSeen": "2026-10-30T15:10:48+00:00",
+          "description": "Tokenized spot U.S. equities built natively for @HyperliquidX .\n\n1:1 Backed. Institutional Custody. Permissionless trading. 24/7/365.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "EQX Labs",
+              "account": "eqxlabs",
+              "alpha": "speest 💎",
+              "seenAt": "2026-10-30T15:10:48+00:00",
+              "messageId": "dodtwitterbot/38653",
+              "description": "Tokenized spot U.S. equities built natively for @HyperliquidX .\n\n1:1 Backed. Institutional Custody. Permissionless trading. 24/7/365.",
+              "text": "Tokenized spot U.S. equities built natively for @HyperliquidX .\n\n1:1 Backed. Institutional Custody. Permissionless trading. 24/7/365."
+            }
+          ],
+          "text": " EQX Labs eqxlabs Tokenized spot U.S. equities built natively for @HyperliquidX .\n\n1:1 Backed. Institutional Custody. Permissionless trading. 24/7/365.",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -6337,6 +7802,41 @@
           "dayStatus": "new"
         },
         {
+          "project": "Grail",
+          "account": "Graildotfamily",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-30T14:01:08+00:00",
+          "lastSeen": "2026-10-30T14:01:08+00:00",
+          "description": "a private coin launchpad on ethereum\npowered by Railgun",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Grail",
+              "account": "Graildotfamily",
+              "alpha": "阿宏",
+              "seenAt": "2026-10-30T14:01:08+00:00",
+              "messageId": "dodtwitterbot/38634",
+              "description": "a private coin launchpad on ethereum\npowered by Railgun",
+              "text": "a private coin launchpad on ethereum\npowered by Railgun"
+            }
+          ],
+          "text": " Grail Graildotfamily a private coin launchpad on ethereum\npowered by Railgun",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
           "project": "Hyperion",
           "account": "Hyperion_RPG",
           "sources": [
@@ -6366,6 +7866,181 @@
             }
           ],
           "text": " Hyperion Hyperion_RPG Extracting the gods of Hyperion…\n⬢⬢⬢⬢⬢⬢⬢⬡⬡⬡ 70%\n\nRisk more. Extract more. Or lose everything.\n\nOnchain RPG built on Elysium @Enter_Elysium by @cryptojuve",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Liquidium.WTF | Ordinal & NFT Loans",
+          "account": "LiquidiumWTF",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-30T14:02:01+00:00",
+          "lastSeen": "2026-10-30T14:02:01+00:00",
+          "description": "Borrow & lend BTC against Ordinals.\n\nNFT lending on Robinhood Chain Live and Ethereum live NOW 🏹 🟦 .\n\nCross-chain: @LiquidiumFi | Join WTF ↓",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Liquidium.WTF | Ordinal & NFT Loans",
+              "account": "LiquidiumWTF",
+              "alpha": "阿宏",
+              "seenAt": "2026-10-30T14:02:01+00:00",
+              "messageId": "dodtwitterbot/38636",
+              "description": "Borrow & lend BTC against Ordinals.\n\nNFT lending on Robinhood Chain Live and Ethereum live NOW 🏹 🟦 .\n\nCross-chain: @LiquidiumFi | Join WTF ↓",
+              "text": "Borrow & lend BTC against Ordinals.\n\nNFT lending on Robinhood Chain Live and Ethereum live NOW 🏹 🟦 .\n\nCross-chain: @LiquidiumFi | Join WTF ↓"
+            }
+          ],
+          "text": " Liquidium.WTF | Ordinal & NFT Loans LiquidiumWTF Borrow & lend BTC against Ordinals.\n\nNFT lending on Robinhood Chain Live and Ethereum live NOW 🏹 🟦 .\n\nCross-chain: @LiquidiumFi | Join WTF ↓",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Lotlings",
+          "account": "lotlings",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-30T13:59:21+00:00",
+          "lastSeen": "2026-10-30T13:59:21+00:00",
+          "description": "Where meme culture meets NFT markets & token launches.\n\nPowered by @Enter_elysium",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Lotlings",
+              "account": "lotlings",
+              "alpha": "阿宏",
+              "seenAt": "2026-10-30T13:59:21+00:00",
+              "messageId": "dodtwitterbot/38632",
+              "description": "Where meme culture meets NFT markets & token launches.\n\nPowered by @Enter_elysium",
+              "text": "Where meme culture meets NFT markets & token launches.\n\nPowered by @Enter_elysium"
+            }
+          ],
+          "text": " Lotlings lotlings Where meme culture meets NFT markets & token launches.\n\nPowered by @Enter_elysium",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Phantom Alpha",
+          "account": "PhantomAlpha_",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-30T11:11:44+00:00",
+          "lastSeen": "2026-10-30T11:11:44+00:00",
+          "description": "Breaking news & crypto market insights.\n\npowered by @phantom\n\nNot for UK users. See @phantom__UK .",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Phantom Alpha",
+              "account": "PhantomAlpha_",
+              "alpha": "unsynned",
+              "seenAt": "2026-10-30T11:11:44+00:00",
+              "messageId": "dodtwitterbot/38621",
+              "description": "Breaking news & crypto market insights.\n\npowered by @phantom\n\nNot for UK users. See @phantom__UK .",
+              "text": "Breaking news & crypto market insights.\n\npowered by @phantom\n\nNot for UK users. See @phantom__UK ."
+            }
+          ],
+          "text": " Phantom Alpha PhantomAlpha_ Breaking news & crypto market insights.\n\npowered by @phantom\n\nNot for UK users. See @phantom__UK .",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "PYRIVA",
+          "account": "Desire8492261",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "八九"
+          ],
+          "tgAlphas": [
+            "八九"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-30T15:23:19+00:00",
+          "lastSeen": "2026-10-30T15:23:19+00:00",
+          "description": "PYRIVA | An AI-Native NFT Launchpad on BSC\nConnecting NFTs, AI Agents, and token launches. Our 988 genesis Pass NFTs cost 0.02 BNB each and require Binance Agen",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "PYRIVA",
+              "account": "Desire8492261",
+              "alpha": "八九",
+              "seenAt": "2026-10-30T15:23:19+00:00",
+              "messageId": "dodtwitterbot/38658",
+              "description": "PYRIVA | An AI-Native NFT Launchpad on BSC\nConnecting NFTs, AI Agents, and token launches. Our 988 genesis Pass NFTs cost 0.02 BNB each and require Binance Agen",
+              "text": "PYRIVA | An AI-Native NFT Launchpad on BSC\nConnecting NFTs, AI Agents, and token launches. Our 988 genesis Pass NFTs cost 0.02 BNB each and require Binance Agen"
+            }
+          ],
+          "text": " PYRIVA Desire8492261 PYRIVA | An AI-Native NFT Launchpad on BSC\nConnecting NFTs, AI Agents, and token launches. Our 988 genesis Pass NFTs cost 0.02 BNB each and require Binance Agen",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Ropad",
+          "account": "RopadSolana",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-30T09:45:41+00:00",
+          "lastSeen": "2026-10-30T09:45:41+00:00",
+          "description": "Launch any coin paired with any Roblox map. Fees go directly to creator of map.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Ropad",
+              "account": "RopadSolana",
+              "alpha": "阿宏",
+              "seenAt": "2026-10-30T09:45:41+00:00",
+              "messageId": "dodtwitterbot/38620",
+              "description": "Launch any coin paired with any Roblox map. Fees go directly to creator of map.",
+              "text": "Launch any coin paired with any Roblox map. Fees go directly to creator of map."
+            }
+          ],
+          "text": " Ropad RopadSolana Launch any coin paired with any Roblox map. Fees go directly to creator of map.",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -6442,6 +8117,41 @@
           "dayStatus": "new"
         },
         {
+          "project": "Stars agent",
+          "account": "Starsagent_BNB",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "地推雷氏"
+          ],
+          "tgAlphas": [
+            "地推雷氏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-30T15:06:19+00:00",
+          "lastSeen": "2026-10-30T15:06:19+00:00",
+          "description": "Spells are written into the Ledger. A Solana card battler with Echo, Leylines and Pacts. Earn &#036;Ember by playing. 8B1ehC8qLoFYhqFTueBa1zq8s7uwV2qtsufDp4qapump",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Stars agent",
+              "account": "Starsagent_BNB",
+              "alpha": "地推雷氏",
+              "seenAt": "2026-10-30T15:06:19+00:00",
+              "messageId": "dodtwitterbot/38652",
+              "description": "Spells are written into the Ledger. A Solana card battler with Echo, Leylines and Pacts. Earn &#036;Ember by playing. 8B1ehC8qLoFYhqFTueBa1zq8s7uwV2qtsufDp4qapump",
+              "text": "Spells are written into the Ledger. A Solana card battler with Echo, Leylines and Pacts. Earn &#036;Ember by playing. 8B1ehC8qLoFYhqFTueBa1zq8s7uwV2qtsufDp4qapump"
+            }
+          ],
+          "text": " Stars agent Starsagent_BNB Spells are written into the Ledger. A Solana card battler with Echo, Leylines and Pacts. Earn &#036;Ember by playing. 8B1ehC8qLoFYhqFTueBa1zq8s7uwV2qtsufDp4qapump",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
           "project": "Stockium",
           "account": "Stockium",
           "sources": [
@@ -6471,6 +8181,41 @@
             }
           ],
           "text": " Stockium Stockium Launch tokens on HyperEVM. Graduate to Elysium paired with tokenized stocks. Memes meet Wall Street.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "The Crypt",
+          "account": "playthecrypt",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-30T11:31:09+00:00",
+          "lastSeen": "2026-10-30T11:31:09+00:00",
+          "description": "A risk based game of souls and sacrifice\n\nComing to Robinhood Chain",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "The Crypt",
+              "account": "playthecrypt",
+              "alpha": "lakka",
+              "seenAt": "2026-10-30T11:31:09+00:00",
+              "messageId": "dodtwitterbot/38624",
+              "description": "A risk based game of souls and sacrifice\n\nComing to Robinhood Chain",
+              "text": "A risk based game of souls and sacrifice\n\nComing to Robinhood Chain"
+            }
+          ],
+          "text": " The Crypt playthecrypt A risk based game of souls and sacrifice\n\nComing to Robinhood Chain",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -6545,6 +8290,41 @@
           "displayTier": "candidate",
           "avatarUrl": "",
           "dayStatus": "repeat"
+        },
+        {
+          "project": "Valhalla on Elysium",
+          "account": "Valhalla_Launch",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-30T14:07:21+00:00",
+          "lastSeen": "2026-10-30T14:07:21+00:00",
+          "description": "Alpha platform for launching NFTs and tokens on @Enter_Elysium",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Valhalla on Elysium",
+              "account": "Valhalla_Launch",
+              "alpha": "阿宏",
+              "seenAt": "2026-10-30T14:07:21+00:00",
+              "messageId": "dodtwitterbot/38644",
+              "description": "Alpha platform for launching NFTs and tokens on @Enter_Elysium",
+              "text": "Alpha platform for launching NFTs and tokens on @Enter_Elysium"
+            }
+          ],
+          "text": " Valhalla on Elysium Valhalla_Launch Alpha platform for launching NFTs and tokens on @Enter_Elysium",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
         }
       ]
     },
@@ -10590,54 +12370,59 @@
   ],
   "reports": [
     {
+      "file": "2026-10-30-1617-telegram-update.md",
+      "title": "2026-10-30-1617-telegram-update",
+      "updatedAt": "2026-10-30T16:17:48.861Z"
+    },
+    {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-10-30T07:45:52.550Z"
+      "updatedAt": "2026-10-30T16:17:43.455Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-10-30T07:45:50.348Z"
+      "updatedAt": "2026-10-30T16:17:43.455Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-10-30T07:45:50.348Z"
+      "updatedAt": "2026-10-30T16:17:43.455Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-10-30T07:45:50.348Z"
+      "updatedAt": "2026-10-30T16:17:43.455Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-10-30T07:45:50.348Z"
+      "updatedAt": "2026-10-30T16:17:43.455Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-10-30T07:45:50.348Z"
+      "updatedAt": "2026-10-30T16:17:43.455Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-10-30T07:45:50.348Z"
+      "updatedAt": "2026-10-30T16:17:43.455Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-10-30T07:45:50.348Z"
+      "updatedAt": "2026-10-30T16:17:43.455Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-10-30T07:45:50.348Z"
+      "updatedAt": "2026-10-30T16:17:43.455Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-10-30T07:45:50.347Z"
+      "updatedAt": "2026-10-30T16:17:43.454Z"
     }
   ]
 }
