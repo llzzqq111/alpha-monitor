@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-10-31T01:07:46.503Z",
+  "generatedAt": "2026-10-31T07:35:12.232Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 38710,
-    "lastMessageAt": "2026-10-31T00:54:21+00:00",
-    "lastCheckedAt": "2026-10-31T01:07:46.394Z",
-    "previousMessageId": 38709,
-    "pagesRead": 1,
-    "messagesRead": 1,
-    "newProjectRecords": 0,
+    "lastMessageId": 38734,
+    "lastMessageAt": "2026-10-31T06:57:56+00:00",
+    "lastCheckedAt": "2026-10-31T07:35:12.113Z",
+    "previousMessageId": 38710,
+    "pagesRead": 2,
+    "messagesRead": 24,
+    "newProjectRecords": 6,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 197,
+    "telegramRows": 203,
     "xRows": 0,
-    "projects": 133,
+    "projects": 136,
     "crossSource": 0
   },
   "projects": [
@@ -1610,6 +1610,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "liquid",
+      "account": "liquidtransfer",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse",
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "BearzVerse",
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-10-30T18:12:47+00:00",
+      "lastSeen": "2026-10-31T04:35:06+00:00",
+      "description": "The any currency account for global operators. We connect bank, mobile money, stablecoin, bitcoin and gold payment networks from one platform.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "liquid",
+          "account": "liquidtransfer",
+          "alpha": "unsynned",
+          "seenAt": "2026-10-30T18:12:47+00:00",
+          "messageId": "dodtwitterbot/38695",
+          "description": "The any currency account for global operators. We connect bank, mobile money, stablecoin, bitcoin and gold payment networks from one platform.",
+          "text": "The any currency account for global operators. We connect bank, mobile money, stablecoin, bitcoin and gold payment networks from one platform."
+        },
+        {
+          "source": "TG",
+          "project": "liquid",
+          "account": "liquidtransfer",
+          "alpha": "BearzVerse",
+          "seenAt": "2026-10-31T04:35:06+00:00",
+          "messageId": "dodtwitterbot/38726",
+          "description": "The any currency account for global operators. We connect bank, mobile money, stablecoin, bitcoin and gold payment networks from one platform.",
+          "text": "The any currency account for global operators. We connect bank, mobile money, stablecoin, bitcoin and gold payment networks from one platform."
+        }
+      ],
+      "text": " liquid liquidtransfer The any currency account for global operators. We connect bank, mobile money, stablecoin, bitcoin and gold payment networks from one platform. liquid liquidtransfer The any currency account for global operators. We connect bank, mobile money, stablecoin, bitcoin and gold payment networks from one platform.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Lotlings",
       "account": "lotlings",
       "sources": [
@@ -1789,6 +1835,52 @@
         }
       ],
       "text": " Offbook Offbook_sol Buy & sell Solana memecoins person to person. Big size, one fixed price, no slippage. 1% fee - half buys back & burns &#036;OFB\nNO CA YET but Product is live Offbook Offbook_sol Buy & sell Solana memecoins person to person. Big size, one fixed price, no slippage. 1% fee - half buys back & burns &#036;OFB\nNO CA YET but Product is live",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Phantom Alpha",
+      "account": "PhantomAlpha_",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse",
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "BearzVerse",
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-10-30T11:11:44+00:00",
+      "lastSeen": "2026-10-31T04:35:59+00:00",
+      "description": "Breaking news & crypto market insights.\n\npowered by @phantom\n\nNot for UK users. See @phantom__UK .",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Phantom Alpha",
+          "account": "PhantomAlpha_",
+          "alpha": "unsynned",
+          "seenAt": "2026-10-30T11:11:44+00:00",
+          "messageId": "dodtwitterbot/38621",
+          "description": "Breaking news & crypto market insights.\n\npowered by @phantom\n\nNot for UK users. See @phantom__UK .",
+          "text": "Breaking news & crypto market insights.\n\npowered by @phantom\n\nNot for UK users. See @phantom__UK ."
+        },
+        {
+          "source": "TG",
+          "project": "Phantom Alpha",
+          "account": "PhantomAlpha_",
+          "alpha": "BearzVerse",
+          "seenAt": "2026-10-31T04:35:59+00:00",
+          "messageId": "dodtwitterbot/38729",
+          "description": "Breaking news & crypto market insights.\n\npowered by @phantom\n\nNot for UK users. See @phantom__UK .",
+          "text": "Breaking news & crypto market insights.\n\npowered by @phantom\n\nNot for UK users. See @phantom__UK ."
+        }
+      ],
+      "text": " Phantom Alpha PhantomAlpha_ Breaking news & crypto market insights.\n\npowered by @phantom\n\nNot for UK users. See @phantom__UK . Phantom Alpha PhantomAlpha_ Breaking news & crypto market insights.\n\npowered by @phantom\n\nNot for UK users. See @phantom__UK .",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -1978,6 +2070,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "Yeetr",
+      "account": "Yeetr_fun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse",
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "BearzVerse",
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-10-30T18:13:41+00:00",
+      "lastSeen": "2026-10-31T04:35:06+00:00",
+      "description": "Onchain options for the tokens you hold.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Yeetr",
+          "account": "Yeetr_fun",
+          "alpha": "unsynned",
+          "seenAt": "2026-10-30T18:13:41+00:00",
+          "messageId": "dodtwitterbot/38696",
+          "description": "Onchain options for the tokens you hold.",
+          "text": "Onchain options for the tokens you hold."
+        },
+        {
+          "source": "TG",
+          "project": "Yeetr",
+          "account": "Yeetr_fun",
+          "alpha": "BearzVerse",
+          "seenAt": "2026-10-31T04:35:06+00:00",
+          "messageId": "dodtwitterbot/38727",
+          "description": "Onchain options for the tokens you hold.",
+          "text": "Onchain options for the tokens you hold."
+        }
+      ],
+      "text": " Yeetr Yeetr_fun Onchain options for the tokens you hold. Yeetr Yeetr_fun Onchain options for the tokens you hold.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "0xWills | Crypto Inheritance",
       "account": "0xWillsHQ",
       "sources": [
@@ -2080,6 +2218,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Agent Mao",
+      "account": "agentmao_",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "八九"
+      ],
+      "tgAlphas": [
+        "八九"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-31T05:59:56+00:00",
+      "lastSeen": "2026-10-31T05:59:56+00:00",
+      "description": "my agent is a cat. the cat pressed enter.\nFair mint for Binance Agentic Wallets → &#036;MAOAI\n我的agent是只猫，它按了回车\n\nCA: 0xBB357ecA84A438Caaa3a8783d78eDAA57B5d665d",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Agent Mao",
+          "account": "agentmao_",
+          "alpha": "八九",
+          "seenAt": "2026-10-31T05:59:56+00:00",
+          "messageId": "dodtwitterbot/38731",
+          "description": "my agent is a cat. the cat pressed enter.\nFair mint for Binance Agentic Wallets → &#036;MAOAI\n我的agent是只猫，它按了回车\n\nCA: 0xBB357ecA84A438Caaa3a8783d78eDAA57B5d665d",
+          "text": "my agent is a cat. the cat pressed enter.\nFair mint for Binance Agentic Wallets → &#036;MAOAI\n我的agent是只猫，它按了回车\n\nCA: 0xBB357ecA84A438Caaa3a8783d78eDAA57B5d665d"
+        }
+      ],
+      "text": " Agent Mao agentmao_ my agent is a cat. the cat pressed enter.\nFair mint for Binance Agentic Wallets → &#036;MAOAI\n我的agent是只猫，它按了回车\n\nCA: 0xBB357ecA84A438Caaa3a8783d78eDAA57B5d665d",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "agentsea",
       "account": "agentsea_fun",
       "sources": [
@@ -2177,6 +2349,40 @@
         }
       ],
       "text": " AI bnbai_bsc AIBNB — an AI launchpad on BNB Chain.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "AIDOG",
+      "account": "AIDOGagentai",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "八九"
+      ],
+      "tgAlphas": [
+        "八九"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-31T06:15:27+00:00",
+      "lastSeen": "2026-10-31T06:15:27+00:00",
+      "description": "第一个币安 Agent ID 的 Mint 的纯动物meme项目",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "AIDOG",
+          "account": "AIDOGagentai",
+          "alpha": "八九",
+          "seenAt": "2026-10-31T06:15:27+00:00",
+          "messageId": "dodtwitterbot/38732",
+          "description": "第一个币安 Agent ID 的 Mint 的纯动物meme项目",
+          "text": "第一个币安 Agent ID 的 Mint 的纯动物meme项目"
+        }
+      ],
+      "text": " AIDOG AIDOGagentai 第一个币安 Agent ID 的 Mint 的纯动物meme项目",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -3712,40 +3918,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "liquid",
-      "account": "liquidtransfer",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "unsynned"
-      ],
-      "tgAlphas": [
-        "unsynned"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-10-30T18:12:47+00:00",
-      "lastSeen": "2026-10-30T18:12:47+00:00",
-      "description": "The any currency account for global operators. We connect bank, mobile money, stablecoin, bitcoin and gold payment networks from one platform.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "liquid",
-          "account": "liquidtransfer",
-          "alpha": "unsynned",
-          "seenAt": "2026-10-30T18:12:47+00:00",
-          "messageId": "dodtwitterbot/38695",
-          "description": "The any currency account for global operators. We connect bank, mobile money, stablecoin, bitcoin and gold payment networks from one platform.",
-          "text": "The any currency account for global operators. We connect bank, mobile money, stablecoin, bitcoin and gold payment networks from one platform."
-        }
-      ],
-      "text": " liquid liquidtransfer The any currency account for global operators. We connect bank, mobile money, stablecoin, bitcoin and gold payment networks from one platform.",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
       "project": "Liquidium.WTF | Ordinal & NFT Loans",
       "account": "LiquidiumWTF",
       "sources": [
@@ -4183,40 +4355,6 @@
         }
       ],
       "text": " PerpMe perpmefun Launch coins via https://t.co/LmDmNTQROs",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Phantom Alpha",
-      "account": "PhantomAlpha_",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "unsynned"
-      ],
-      "tgAlphas": [
-        "unsynned"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-10-30T11:11:44+00:00",
-      "lastSeen": "2026-10-30T11:11:44+00:00",
-      "description": "Breaking news & crypto market insights.\n\npowered by @phantom\n\nNot for UK users. See @phantom__UK .",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Phantom Alpha",
-          "account": "PhantomAlpha_",
-          "alpha": "unsynned",
-          "seenAt": "2026-10-30T11:11:44+00:00",
-          "messageId": "dodtwitterbot/38621",
-          "description": "Breaking news & crypto market insights.\n\npowered by @phantom\n\nNot for UK users. See @phantom__UK .",
-          "text": "Breaking news & crypto market insights.\n\npowered by @phantom\n\nNot for UK users. See @phantom__UK ."
-        }
-      ],
-      "text": " Phantom Alpha PhantomAlpha_ Breaking news & crypto market insights.\n\npowered by @phantom\n\nNot for UK users. See @phantom__UK .",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -5140,6 +5278,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "w0rld",
+      "account": "w0rld_fun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "speest 💎"
+      ],
+      "tgAlphas": [
+        "speest 💎"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-31T03:42:02+00:00",
+      "lastSeen": "2026-10-31T03:42:02+00:00",
+      "description": "Collect the world.\n\nSoon on Solana.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "w0rld",
+          "account": "w0rld_fun",
+          "alpha": "speest 💎",
+          "seenAt": "2026-10-31T03:42:02+00:00",
+          "messageId": "dodtwitterbot/38718",
+          "description": "Collect the world.\n\nSoon on Solana.",
+          "text": "Collect the world.\n\nSoon on Solana."
+        }
+      ],
+      "text": " w0rld w0rld_fun Collect the world.\n\nSoon on Solana.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Xposure",
       "account": "xposuremarkets",
       "sources": [
@@ -5203,40 +5375,6 @@
         }
       ],
       "text": " yeet.bond yeetdotbond yeet provides devtools that make launching as easy as one-two-yeet",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Yeetr",
-      "account": "Yeetr_fun",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "unsynned"
-      ],
-      "tgAlphas": [
-        "unsynned"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-10-30T18:13:41+00:00",
-      "lastSeen": "2026-10-30T18:13:41+00:00",
-      "description": "Onchain options for the tokens you hold.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Yeetr",
-          "account": "Yeetr_fun",
-          "alpha": "unsynned",
-          "seenAt": "2026-10-30T18:13:41+00:00",
-          "messageId": "dodtwitterbot/38696",
-          "description": "Onchain options for the tokens you hold.",
-          "text": "Onchain options for the tokens you hold."
-        }
-      ],
-      "text": " Yeetr Yeetr_fun Onchain options for the tokens you hold.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -5748,6 +5886,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "liquid",
+      "x_account": "liquidtransfer",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "BearzVerse",
+        "unsynned"
+      ],
+      "description": "The any currency account for global operators. We connect bank, mobile money, stablecoin, bitcoin and gold payment networks from one platform.",
+      "first_seen_utc": "2026-10-30T18:12:47+00:00",
+      "last_seen_utc": "2026-10-31T04:35:06+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Lotlings",
       "x_account": "lotlings",
       "total_mentions": 2,
@@ -5804,6 +5957,21 @@
       "description": "Buy & sell Solana memecoins person to person. Big size, one fixed price, no slippage. 1% fee - half buys back & burns &#036;OFB\nNO CA YET but Product is live",
       "first_seen_utc": "2026-10-28T23:07:21+00:00",
       "last_seen_utc": "2026-10-29T08:08:04+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Phantom Alpha",
+      "x_account": "PhantomAlpha_",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "BearzVerse",
+        "unsynned"
+      ],
+      "description": "Breaking news & crypto market insights.\n\npowered by @phantom\n\nNot for UK users. See @phantom__UK .",
+      "first_seen_utc": "2026-10-30T11:11:44+00:00",
+      "last_seen_utc": "2026-10-31T04:35:59+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -5868,6 +6036,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "Yeetr",
+      "x_account": "Yeetr_fun",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "BearzVerse",
+        "unsynned"
+      ],
+      "description": "Onchain options for the tokens you hold.",
+      "first_seen_utc": "2026-10-30T18:13:41+00:00",
+      "last_seen_utc": "2026-10-31T04:35:06+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "0xWills | Crypto Inheritance",
       "x_account": "0xWillsHQ",
       "total_mentions": 1,
@@ -5910,6 +6093,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Agent Mao",
+      "x_account": "agentmao_",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "八九"
+      ],
+      "description": "my agent is a cat. the cat pressed enter.\nFair mint for Binance Agentic Wallets → &#036;MAOAI\n我的agent是只猫，它按了回车\n\nCA: 0xBB357ecA84A438Caaa3a8783d78eDAA57B5d665d",
+      "first_seen_utc": "2026-10-31T05:59:56+00:00",
+      "last_seen_utc": "2026-10-31T05:59:56+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "agentsea",
       "x_account": "agentsea_fun",
       "total_mentions": 1,
@@ -5948,6 +6145,20 @@
       "description": "AIBNB — an AI launchpad on BNB Chain.",
       "first_seen_utc": "2026-10-29T03:24:52+00:00",
       "last_seen_utc": "2026-10-29T03:24:52+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "AIDOG",
+      "x_account": "AIDOGagentai",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "八九"
+      ],
+      "description": "第一个币安 Agent ID 的 Mint 的纯动物meme项目",
+      "first_seen_utc": "2026-10-31T06:15:27+00:00",
+      "last_seen_utc": "2026-10-31T06:15:27+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -6582,20 +6793,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "liquid",
-      "x_account": "liquidtransfer",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "unsynned"
-      ],
-      "description": "The any currency account for global operators. We connect bank, mobile money, stablecoin, bitcoin and gold payment networks from one platform.",
-      "first_seen_utc": "2026-10-30T18:12:47+00:00",
-      "last_seen_utc": "2026-10-30T18:12:47+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "Liquidium.WTF | Ordinal & NFT Loans",
       "x_account": "LiquidiumWTF",
       "total_mentions": 1,
@@ -6774,20 +6971,6 @@
       "description": "Launch coins via https://t.co/LmDmNTQROs",
       "first_seen_utc": "2026-10-30T16:49:23+00:00",
       "last_seen_utc": "2026-10-30T16:49:23+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Phantom Alpha",
-      "x_account": "PhantomAlpha_",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "unsynned"
-      ],
-      "description": "Breaking news & crypto market insights.\n\npowered by @phantom\n\nNot for UK users. See @phantom__UK .",
-      "first_seen_utc": "2026-10-30T11:11:44+00:00",
-      "last_seen_utc": "2026-10-30T11:11:44+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -7170,6 +7353,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "w0rld",
+      "x_account": "w0rld_fun",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "speest 💎"
+      ],
+      "description": "Collect the world.\n\nSoon on Solana.",
+      "first_seen_utc": "2026-10-31T03:42:02+00:00",
+      "last_seen_utc": "2026-10-31T03:42:02+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Xposure",
       "x_account": "xposuremarkets",
       "total_mentions": 1,
@@ -7194,20 +7391,6 @@
       "description": "yeet provides devtools that make launching as easy as one-two-yeet",
       "first_seen_utc": "2026-10-28T05:08:00+08:00",
       "last_seen_utc": "2026-10-28T05:08:00+08:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Yeetr",
-      "x_account": "Yeetr_fun",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "unsynned"
-      ],
-      "description": "Onchain options for the tokens you hold.",
-      "first_seen_utc": "2026-10-30T18:13:41+00:00",
-      "last_seen_utc": "2026-10-30T18:13:41+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -7243,14 +7426,178 @@
   "daily": [
     {
       "date": "2026-10-31",
-      "totalRows": 13,
-      "projectCount": 13,
-      "focusCount": 0,
-      "candidateCount": 13,
+      "totalRows": 19,
+      "projectCount": 17,
+      "focusCount": 2,
+      "candidateCount": 15,
       "crossSource": 0,
-      "newCount": 9,
-      "repeatCount": 4,
+      "newCount": 12,
+      "repeatCount": 5,
       "projects": [
+        {
+          "project": "liquid",
+          "account": "liquidtransfer",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BearzVerse",
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "BearzVerse",
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-10-30T18:12:47+00:00",
+          "lastSeen": "2026-10-31T04:35:06+00:00",
+          "description": "The any currency account for global operators. We connect bank, mobile money, stablecoin, bitcoin and gold payment networks from one platform.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "liquid",
+              "account": "liquidtransfer",
+              "alpha": "unsynned",
+              "seenAt": "2026-10-30T18:12:47+00:00",
+              "messageId": "dodtwitterbot/38695",
+              "description": "The any currency account for global operators. We connect bank, mobile money, stablecoin, bitcoin and gold payment networks from one platform.",
+              "text": "The any currency account for global operators. We connect bank, mobile money, stablecoin, bitcoin and gold payment networks from one platform."
+            },
+            {
+              "source": "TG",
+              "project": "liquid",
+              "account": "liquidtransfer",
+              "alpha": "BearzVerse",
+              "seenAt": "2026-10-31T04:35:06+00:00",
+              "messageId": "dodtwitterbot/38726",
+              "description": "The any currency account for global operators. We connect bank, mobile money, stablecoin, bitcoin and gold payment networks from one platform.",
+              "text": "The any currency account for global operators. We connect bank, mobile money, stablecoin, bitcoin and gold payment networks from one platform."
+            }
+          ],
+          "text": " liquid liquidtransfer The any currency account for global operators. We connect bank, mobile money, stablecoin, bitcoin and gold payment networks from one platform. liquid liquidtransfer The any currency account for global operators. We connect bank, mobile money, stablecoin, bitcoin and gold payment networks from one platform.",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Yeetr",
+          "account": "Yeetr_fun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BearzVerse",
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "BearzVerse",
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-10-30T18:13:41+00:00",
+          "lastSeen": "2026-10-31T04:35:06+00:00",
+          "description": "Onchain options for the tokens you hold.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Yeetr",
+              "account": "Yeetr_fun",
+              "alpha": "unsynned",
+              "seenAt": "2026-10-30T18:13:41+00:00",
+              "messageId": "dodtwitterbot/38696",
+              "description": "Onchain options for the tokens you hold.",
+              "text": "Onchain options for the tokens you hold."
+            },
+            {
+              "source": "TG",
+              "project": "Yeetr",
+              "account": "Yeetr_fun",
+              "alpha": "BearzVerse",
+              "seenAt": "2026-10-31T04:35:06+00:00",
+              "messageId": "dodtwitterbot/38727",
+              "description": "Onchain options for the tokens you hold.",
+              "text": "Onchain options for the tokens you hold."
+            }
+          ],
+          "text": " Yeetr Yeetr_fun Onchain options for the tokens you hold. Yeetr Yeetr_fun Onchain options for the tokens you hold.",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Agent Mao",
+          "account": "agentmao_",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "八九"
+          ],
+          "tgAlphas": [
+            "八九"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-31T05:59:56+00:00",
+          "lastSeen": "2026-10-31T05:59:56+00:00",
+          "description": "my agent is a cat. the cat pressed enter.\nFair mint for Binance Agentic Wallets → &#036;MAOAI\n我的agent是只猫，它按了回车\n\nCA: 0xBB357ecA84A438Caaa3a8783d78eDAA57B5d665d",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Agent Mao",
+              "account": "agentmao_",
+              "alpha": "八九",
+              "seenAt": "2026-10-31T05:59:56+00:00",
+              "messageId": "dodtwitterbot/38731",
+              "description": "my agent is a cat. the cat pressed enter.\nFair mint for Binance Agentic Wallets → &#036;MAOAI\n我的agent是只猫，它按了回车\n\nCA: 0xBB357ecA84A438Caaa3a8783d78eDAA57B5d665d",
+              "text": "my agent is a cat. the cat pressed enter.\nFair mint for Binance Agentic Wallets → &#036;MAOAI\n我的agent是只猫，它按了回车\n\nCA: 0xBB357ecA84A438Caaa3a8783d78eDAA57B5d665d"
+            }
+          ],
+          "text": " Agent Mao agentmao_ my agent is a cat. the cat pressed enter.\nFair mint for Binance Agentic Wallets → &#036;MAOAI\n我的agent是只猫，它按了回车\n\nCA: 0xBB357ecA84A438Caaa3a8783d78eDAA57B5d665d",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "AIDOG",
+          "account": "AIDOGagentai",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "八九"
+          ],
+          "tgAlphas": [
+            "八九"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-31T06:15:27+00:00",
+          "lastSeen": "2026-10-31T06:15:27+00:00",
+          "description": "第一个币安 Agent ID 的 Mint 的纯动物meme项目",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "AIDOG",
+              "account": "AIDOGagentai",
+              "alpha": "八九",
+              "seenAt": "2026-10-31T06:15:27+00:00",
+              "messageId": "dodtwitterbot/38732",
+              "description": "第一个币安 Agent ID 的 Mint 的纯动物meme项目",
+              "text": "第一个币安 Agent ID 的 Mint 的纯动物meme项目"
+            }
+          ],
+          "text": " AIDOG AIDOGagentai 第一个币安 Agent ID 的 Mint 的纯动物meme项目",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
         {
           "project": "ALT L2",
           "account": "AltL2fun",
@@ -7462,41 +7809,6 @@
           "dayStatus": "new"
         },
         {
-          "project": "liquid",
-          "account": "liquidtransfer",
-          "sources": [
-            "TG"
-          ],
-          "alphas": [
-            "unsynned"
-          ],
-          "tgAlphas": [
-            "unsynned"
-          ],
-          "xAlphas": [],
-          "mentions": 1,
-          "firstSeen": "2026-10-30T18:12:47+00:00",
-          "lastSeen": "2026-10-30T18:12:47+00:00",
-          "description": "The any currency account for global operators. We connect bank, mobile money, stablecoin, bitcoin and gold payment networks from one platform.",
-          "rows": [
-            {
-              "source": "TG",
-              "project": "liquid",
-              "account": "liquidtransfer",
-              "alpha": "unsynned",
-              "seenAt": "2026-10-30T18:12:47+00:00",
-              "messageId": "dodtwitterbot/38695",
-              "description": "The any currency account for global operators. We connect bank, mobile money, stablecoin, bitcoin and gold payment networks from one platform.",
-              "text": "The any currency account for global operators. We connect bank, mobile money, stablecoin, bitcoin and gold payment networks from one platform."
-            }
-          ],
-          "text": " liquid liquidtransfer The any currency account for global operators. We connect bank, mobile money, stablecoin, bitcoin and gold payment networks from one platform.",
-          "score": 2,
-          "displayTier": "candidate",
-          "avatarUrl": "",
-          "dayStatus": "new"
-        },
-        {
           "project": "Lotlings",
           "account": "lotlings",
           "sources": [
@@ -7637,6 +7949,41 @@
           "dayStatus": "new"
         },
         {
+          "project": "Phantom Alpha",
+          "account": "PhantomAlpha_",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BearzVerse"
+          ],
+          "tgAlphas": [
+            "BearzVerse"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-31T04:35:59+00:00",
+          "lastSeen": "2026-10-31T04:35:59+00:00",
+          "description": "Breaking news & crypto market insights.\n\npowered by @phantom\n\nNot for UK users. See @phantom__UK .",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Phantom Alpha",
+              "account": "PhantomAlpha_",
+              "alpha": "BearzVerse",
+              "seenAt": "2026-10-31T04:35:59+00:00",
+              "messageId": "dodtwitterbot/38729",
+              "description": "Breaking news & crypto market insights.\n\npowered by @phantom\n\nNot for UK users. See @phantom__UK .",
+              "text": "Breaking news & crypto market insights.\n\npowered by @phantom\n\nNot for UK users. See @phantom__UK ."
+            }
+          ],
+          "text": " Phantom Alpha PhantomAlpha_ Breaking news & crypto market insights.\n\npowered by @phantom\n\nNot for UK users. See @phantom__UK .",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
           "project": "SCRiM",
           "account": "scrimfinance",
           "sources": [
@@ -7672,35 +8019,35 @@
           "dayStatus": "new"
         },
         {
-          "project": "Yeetr",
-          "account": "Yeetr_fun",
+          "project": "w0rld",
+          "account": "w0rld_fun",
           "sources": [
             "TG"
           ],
           "alphas": [
-            "unsynned"
+            "speest 💎"
           ],
           "tgAlphas": [
-            "unsynned"
+            "speest 💎"
           ],
           "xAlphas": [],
           "mentions": 1,
-          "firstSeen": "2026-10-30T18:13:41+00:00",
-          "lastSeen": "2026-10-30T18:13:41+00:00",
-          "description": "Onchain options for the tokens you hold.",
+          "firstSeen": "2026-10-31T03:42:02+00:00",
+          "lastSeen": "2026-10-31T03:42:02+00:00",
+          "description": "Collect the world.\n\nSoon on Solana.",
           "rows": [
             {
               "source": "TG",
-              "project": "Yeetr",
-              "account": "Yeetr_fun",
-              "alpha": "unsynned",
-              "seenAt": "2026-10-30T18:13:41+00:00",
-              "messageId": "dodtwitterbot/38696",
-              "description": "Onchain options for the tokens you hold.",
-              "text": "Onchain options for the tokens you hold."
+              "project": "w0rld",
+              "account": "w0rld_fun",
+              "alpha": "speest 💎",
+              "seenAt": "2026-10-31T03:42:02+00:00",
+              "messageId": "dodtwitterbot/38718",
+              "description": "Collect the world.\n\nSoon on Solana.",
+              "text": "Collect the world.\n\nSoon on Solana."
             }
           ],
-          "text": " Yeetr Yeetr_fun Onchain options for the tokens you hold.",
+          "text": " w0rld w0rld_fun Collect the world.\n\nSoon on Solana.",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -13060,64 +13407,69 @@
   ],
   "reports": [
     {
+      "file": "2026-10-31-0735-telegram-update.md",
+      "title": "2026-10-31-0735-telegram-update",
+      "updatedAt": "2026-10-31T07:35:12.111Z"
+    },
+    {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-10-31T01:07:44.491Z"
+      "updatedAt": "2026-10-31T07:35:09.605Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-10-31T01:07:44.491Z"
+      "updatedAt": "2026-10-31T07:35:09.605Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-10-31T01:07:44.491Z"
+      "updatedAt": "2026-10-31T07:35:09.605Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-10-31T01:07:44.491Z"
+      "updatedAt": "2026-10-31T07:35:09.605Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-10-31T01:07:44.491Z"
+      "updatedAt": "2026-10-31T07:35:09.605Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-10-31T01:07:44.491Z"
+      "updatedAt": "2026-10-31T07:35:09.605Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-10-31T01:07:44.491Z"
+      "updatedAt": "2026-10-31T07:35:09.605Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-10-31T01:07:44.491Z"
+      "updatedAt": "2026-10-31T07:35:09.605Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-10-31T01:07:44.491Z"
+      "updatedAt": "2026-10-31T07:35:09.605Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-10-31T01:07:44.491Z"
+      "updatedAt": "2026-10-31T07:35:09.605Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-10-31T01:07:44.491Z"
+      "updatedAt": "2026-10-31T07:35:09.605Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-10-31T01:07:44.490Z"
+      "updatedAt": "2026-10-31T07:35:09.604Z"
     }
   ]
 }
