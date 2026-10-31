@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-10-31T15:31:12.855Z",
+  "generatedAt": "2026-10-31T20:41:57.825Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 38784,
-    "lastMessageAt": "2026-10-31T15:05:45+00:00",
-    "lastCheckedAt": "2026-10-31T15:31:12.731Z",
-    "previousMessageId": 38734,
+    "lastMessageId": 38832,
+    "lastMessageAt": "2026-10-31T20:39:57+00:00",
+    "lastCheckedAt": "2026-10-31T20:41:57.708Z",
+    "previousMessageId": 38784,
     "pagesRead": 3,
-    "messagesRead": 50,
-    "newProjectRecords": 17,
+    "messagesRead": 48,
+    "newProjectRecords": 12,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 220,
+    "telegramRows": 232,
     "xRows": 0,
-    "projects": 147,
+    "projects": 153,
     "crossSource": 0
   },
   "projects": [
@@ -594,6 +594,64 @@
       "avatarUrl": ""
     },
     {
+      "project": "Boxa",
+      "account": "Boxa_Elysium",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "CSR",
+        "flaxsed",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "CSR",
+        "flaxsed",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-10-28T16:39:42+00:00",
+      "lastSeen": "2026-10-31T16:54:02+00:00",
+      "description": "First DEX and launchpad live on Elysium",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Boxa",
+          "account": "Boxa_Elysium",
+          "alpha": "CSR",
+          "seenAt": "2026-10-28T16:39:42+00:00",
+          "messageId": "dodtwitterbot/38286",
+          "description": "First DEX and launchpad live on Elysium",
+          "text": "First DEX and launchpad live on Elysium"
+        },
+        {
+          "source": "TG",
+          "project": "Boxa",
+          "account": "Boxa_Elysium",
+          "alpha": "阿宏",
+          "seenAt": "2026-10-29T11:56:30+00:00",
+          "messageId": "dodtwitterbot/38451",
+          "description": "First DEX and launchpad live on Elysium",
+          "text": "First DEX and launchpad live on Elysium"
+        },
+        {
+          "source": "TG",
+          "project": "Boxa",
+          "account": "Boxa_Elysium",
+          "alpha": "flaxsed",
+          "seenAt": "2026-10-31T16:54:02+00:00",
+          "messageId": "dodtwitterbot/38805",
+          "description": "First DEX and launchpad live on Elysium",
+          "text": "First DEX and launchpad live on Elysium"
+        }
+      ],
+      "text": " Boxa Boxa_Elysium First DEX and launchpad live on Elysium Boxa Boxa_Elysium First DEX and launchpad live on Elysium Boxa Boxa_Elysium First DEX and launchpad live on Elysium",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "ComputeRoll",
       "account": "ComputeRollLabs",
       "sources": [
@@ -1058,6 +1116,110 @@
       "avatarUrl": ""
     },
     {
+      "project": "Stockium",
+      "account": "Stockium",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "CSR",
+        "speest 💎",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "CSR",
+        "speest 💎",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-10-29T20:31:32+00:00",
+      "lastSeen": "2026-10-31T17:39:24+00:00",
+      "description": "Launch tokens on HyperEVM. Graduate to Elysium paired with tokenized stocks. Memes meet Wall Street.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Stockium",
+          "account": "Stockium",
+          "alpha": "CSR",
+          "seenAt": "2026-10-29T20:31:32+00:00",
+          "messageId": "dodtwitterbot/38575",
+          "description": "Launch tokens on HyperEVM. Graduate to Elysium paired with tokenized stocks. Memes meet Wall Street.",
+          "text": "Launch tokens on HyperEVM. Graduate to Elysium paired with tokenized stocks. Memes meet Wall Street."
+        },
+        {
+          "source": "TG",
+          "project": "Stockium",
+          "account": "Stockium",
+          "alpha": "阿宏",
+          "seenAt": "2026-10-31T12:15:29+00:00",
+          "messageId": "dodtwitterbot/38765",
+          "description": "Launch tokens on HyperEVM. Graduate to Elysium paired with tokenized stocks. Memes meet Wall Street.",
+          "text": "Launch tokens on HyperEVM. Graduate to Elysium paired with tokenized stocks. Memes meet Wall Street."
+        },
+        {
+          "source": "TG",
+          "project": "Stockium",
+          "account": "Stockium",
+          "alpha": "speest 💎",
+          "seenAt": "2026-10-31T17:39:24+00:00",
+          "messageId": "dodtwitterbot/38819",
+          "description": "Launch tokens on HyperEVM. Graduate to Elysium paired with tokenized stocks. Memes meet Wall Street.",
+          "text": "Launch tokens on HyperEVM. Graduate to Elysium paired with tokenized stocks. Memes meet Wall Street."
+        }
+      ],
+      "text": " Stockium Stockium Launch tokens on HyperEVM. Graduate to Elysium paired with tokenized stocks. Memes meet Wall Street. Stockium Stockium Launch tokens on HyperEVM. Graduate to Elysium paired with tokenized stocks. Memes meet Wall Street. Stockium Stockium Launch tokens on HyperEVM. Graduate to Elysium paired with tokenized stocks. Memes meet Wall Street.",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "agentsea",
+      "account": "agentsea_fun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Skrchen666(钻石手伤心版 绝对纸手之人）",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "Skrchen666(钻石手伤心版 绝对纸手之人）",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-10-28T18:33:38+00:00",
+      "lastSeen": "2026-10-31T16:15:16+00:00",
+      "description": "Launch a vision. Agents create it. The NFT launchpad.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "agentsea",
+          "account": "agentsea_fun",
+          "alpha": "Skrchen666(钻石手伤心版 绝对纸手之人）",
+          "seenAt": "2026-10-28T18:33:38+00:00",
+          "messageId": "dodtwitterbot/38320",
+          "description": "Launch a vision. Agents create it. The NFT launchpad.",
+          "text": "Launch a vision. Agents create it. The NFT launchpad."
+        },
+        {
+          "source": "TG",
+          "project": "agentsea",
+          "account": "agentsea_fun",
+          "alpha": "阿宏",
+          "seenAt": "2026-10-31T16:15:16+00:00",
+          "messageId": "dodtwitterbot/38790",
+          "description": "Launch a vision. Agents create it. The NFT launchpad.",
+          "text": "Launch a vision. Agents create it. The NFT launchpad."
+        }
+      ],
+      "text": " agentsea agentsea_fun Launch a vision. Agents create it. The NFT launchpad. agentsea agentsea_fun Launch a vision. Agents create it. The NFT launchpad.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Agora",
       "account": "agora_elysium",
       "sources": [
@@ -1334,52 +1496,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Boxa",
-      "account": "Boxa_Elysium",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "CSR",
-        "阿宏"
-      ],
-      "tgAlphas": [
-        "CSR",
-        "阿宏"
-      ],
-      "xAlphas": [],
-      "mentions": 2,
-      "firstSeen": "2026-10-28T16:39:42+00:00",
-      "lastSeen": "2026-10-29T11:56:30+00:00",
-      "description": "First DEX and launchpad live on Elysium",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Boxa",
-          "account": "Boxa_Elysium",
-          "alpha": "CSR",
-          "seenAt": "2026-10-28T16:39:42+00:00",
-          "messageId": "dodtwitterbot/38286",
-          "description": "First DEX and launchpad live on Elysium",
-          "text": "First DEX and launchpad live on Elysium"
-        },
-        {
-          "source": "TG",
-          "project": "Boxa",
-          "account": "Boxa_Elysium",
-          "alpha": "阿宏",
-          "seenAt": "2026-10-29T11:56:30+00:00",
-          "messageId": "dodtwitterbot/38451",
-          "description": "First DEX and launchpad live on Elysium",
-          "text": "First DEX and launchpad live on Elysium"
-        }
-      ],
-      "text": " Boxa Boxa_Elysium First DEX and launchpad live on Elysium Boxa Boxa_Elysium First DEX and launchpad live on Elysium",
-      "score": 4,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
       "project": "BunnyPad",
       "account": "Bunnypadfun",
       "sources": [
@@ -1559,6 +1675,98 @@
         }
       ],
       "text": " Drachma drachma_elysium Ancient money, onchain. The RWA-backed reserve of @Enter_Elysium . Drachma drachma_elysium Ancient money, onchain. The RWA-backed reserve of @Enter_Elysium .",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "eleos",
+      "account": "eleosfun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "flaxsed",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "flaxsed",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-10-30T14:03:48+00:00",
+      "lastSeen": "2026-10-31T16:38:21+00:00",
+      "description": "elysium's launchpad with teeth.\n\nlaunch and trade coins on Elysium.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "eleos",
+          "account": "eleosfun",
+          "alpha": "阿宏",
+          "seenAt": "2026-10-30T14:03:48+00:00",
+          "messageId": "dodtwitterbot/38638",
+          "description": "elysium's launchpad with teeth.\n\nlaunch and trade coins on Elysium.",
+          "text": "elysium's launchpad with teeth.\n\nlaunch and trade coins on Elysium."
+        },
+        {
+          "source": "TG",
+          "project": "eleos",
+          "account": "eleosfun",
+          "alpha": "flaxsed",
+          "seenAt": "2026-10-31T16:38:21+00:00",
+          "messageId": "dodtwitterbot/38796",
+          "description": "elysium's launchpad with teeth.\n\nlaunch and trade coins on Elysium.",
+          "text": "elysium's launchpad with teeth.\n\nlaunch and trade coins on Elysium."
+        }
+      ],
+      "text": " eleos eleosfun elysium's launchpad with teeth.\n\nlaunch and trade coins on Elysium. eleos eleosfun elysium's launchpad with teeth.\n\nlaunch and trade coins on Elysium.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Elevate",
+      "account": "elevatepad",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "flaxsed",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "flaxsed",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-10-31T12:06:40+00:00",
+      "lastSeen": "2026-10-31T16:38:21+00:00",
+      "description": "Token launchpad and DEX swap on Elysium.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Elevate",
+          "account": "elevatepad",
+          "alpha": "阿宏",
+          "seenAt": "2026-10-31T12:06:40+00:00",
+          "messageId": "dodtwitterbot/38763",
+          "description": "Token launchpad and DEX swap on Elysium.",
+          "text": "Token launchpad and DEX swap on Elysium."
+        },
+        {
+          "source": "TG",
+          "project": "Elevate",
+          "account": "elevatepad",
+          "alpha": "flaxsed",
+          "seenAt": "2026-10-31T16:38:21+00:00",
+          "messageId": "dodtwitterbot/38795",
+          "description": "Token launchpad and DEX swap on Elysium.",
+          "text": "Token launchpad and DEX swap on Elysium."
+        }
+      ],
+      "text": " Elevate elevatepad Token launchpad and DEX swap on Elysium. Elevate elevatepad Token launchpad and DEX swap on Elysium.",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -2024,6 +2232,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "Omnia π",
+      "account": "0xOmnia",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "CSR",
+        "flaxsed"
+      ],
+      "tgAlphas": [
+        "CSR",
+        "flaxsed"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-10-28T18:47:16+00:00",
+      "lastSeen": "2026-10-31T16:33:51+00:00",
+      "description": "@Kinetiq_xyz | @Markets_xyz | @Enter_Elysium",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Omnia π",
+          "account": "0xOmnia",
+          "alpha": "CSR",
+          "seenAt": "2026-10-28T18:47:16+00:00",
+          "messageId": "dodtwitterbot/38333",
+          "description": "@Kinetiq_xyz | @Markets_xyz | @Enter_Elysium",
+          "text": "@Kinetiq_xyz | @Markets_xyz | @Enter_Elysium"
+        },
+        {
+          "source": "TG",
+          "project": "Omnia π",
+          "account": "0xOmnia",
+          "alpha": "flaxsed",
+          "seenAt": "2026-10-31T16:33:51+00:00",
+          "messageId": "dodtwitterbot/38793",
+          "description": "@Kinetiq_xyz | @Markets_xyz | @Enter_Elysium",
+          "text": "@Kinetiq_xyz | @Markets_xyz | @Enter_Elysium"
+        }
+      ],
+      "text": " Omnia π 0xOmnia @Kinetiq_xyz | @Markets_xyz | @Enter_Elysium Omnia π 0xOmnia @Kinetiq_xyz | @Markets_xyz | @Enter_Elysium",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Phantom Alpha",
       "account": "PhantomAlpha_",
       "sources": [
@@ -2111,52 +2365,6 @@
         }
       ],
       "text": " Realbond realbondai Real agents ，Real bonding curve.\nBind your agent address to X /Launchpad On BNB Chain Realbond realbondai Real agents ，Real bonding curve.\nBind your agent address to X /Launchpad On BNB Chain",
-      "score": 4,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Stockium",
-      "account": "Stockium",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "CSR",
-        "阿宏"
-      ],
-      "tgAlphas": [
-        "CSR",
-        "阿宏"
-      ],
-      "xAlphas": [],
-      "mentions": 2,
-      "firstSeen": "2026-10-29T20:31:32+00:00",
-      "lastSeen": "2026-10-31T12:15:29+00:00",
-      "description": "Launch tokens on HyperEVM. Graduate to Elysium paired with tokenized stocks. Memes meet Wall Street.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Stockium",
-          "account": "Stockium",
-          "alpha": "CSR",
-          "seenAt": "2026-10-29T20:31:32+00:00",
-          "messageId": "dodtwitterbot/38575",
-          "description": "Launch tokens on HyperEVM. Graduate to Elysium paired with tokenized stocks. Memes meet Wall Street.",
-          "text": "Launch tokens on HyperEVM. Graduate to Elysium paired with tokenized stocks. Memes meet Wall Street."
-        },
-        {
-          "source": "TG",
-          "project": "Stockium",
-          "account": "Stockium",
-          "alpha": "阿宏",
-          "seenAt": "2026-10-31T12:15:29+00:00",
-          "messageId": "dodtwitterbot/38765",
-          "description": "Launch tokens on HyperEVM. Graduate to Elysium paired with tokenized stocks. Memes meet Wall Street.",
-          "text": "Launch tokens on HyperEVM. Graduate to Elysium paired with tokenized stocks. Memes meet Wall Street."
-        }
-      ],
-      "text": " Stockium Stockium Launch tokens on HyperEVM. Graduate to Elysium paired with tokenized stocks. Memes meet Wall Street. Stockium Stockium Launch tokens on HyperEVM. Graduate to Elysium paired with tokenized stocks. Memes meet Wall Street.",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -2557,40 +2765,6 @@
         }
       ],
       "text": " Agent Mao agentmao_ my agent is a cat. the cat pressed enter.\nFair mint for Binance Agentic Wallets → &#036;MAOAI\n我的agent是只猫，它按了回车\n\nCA: 0xBB357ecA84A438Caaa3a8783d78eDAA57B5d665d",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
-      "project": "agentsea",
-      "account": "agentsea_fun",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "Skrchen666(钻石手伤心版 绝对纸手之人）"
-      ],
-      "tgAlphas": [
-        "Skrchen666(钻石手伤心版 绝对纸手之人）"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-10-28T18:33:38+00:00",
-      "lastSeen": "2026-10-28T18:33:38+00:00",
-      "description": "Launch a vision. Agents create it. The NFT launchpad.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "agentsea",
-          "account": "agentsea_fun",
-          "alpha": "Skrchen666(钻石手伤心版 绝对纸手之人）",
-          "seenAt": "2026-10-28T18:33:38+00:00",
-          "messageId": "dodtwitterbot/38320",
-          "description": "Launch a vision. Agents create it. The NFT launchpad.",
-          "text": "Launch a vision. Agents create it. The NFT launchpad."
-        }
-      ],
-      "text": " agentsea agentsea_fun Launch a vision. Agents create it. The NFT launchpad.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -3276,6 +3450,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "CustosFinance",
+      "account": "custosfinance",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "flaxsed"
+      ],
+      "tgAlphas": [
+        "flaxsed"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-31T16:51:25+00:00",
+      "lastSeen": "2026-10-31T16:51:25+00:00",
+      "description": "Custos Finance — an RWA exchange on GIWA.\nBringing real-world assets onchain with transparent, verifiable proof.\nReal assets. Visible proof.\nFollow the build",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "CustosFinance",
+          "account": "custosfinance",
+          "alpha": "flaxsed",
+          "seenAt": "2026-10-31T16:51:25+00:00",
+          "messageId": "dodtwitterbot/38804",
+          "description": "Custos Finance — an RWA exchange on GIWA.\nBringing real-world assets onchain with transparent, verifiable proof.\nReal assets. Visible proof.\nFollow the build",
+          "text": "Custos Finance — an RWA exchange on GIWA.\nBringing real-world assets onchain with transparent, verifiable proof.\nReal assets. Visible proof.\nFollow the build"
+        }
+      ],
+      "text": " CustosFinance custosfinance Custos Finance — an RWA exchange on GIWA.\nBringing real-world assets onchain with transparent, verifiable proof.\nReal assets. Visible proof.\nFollow the build",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "dogepunk",
       "account": "dogepunkk",
       "sources": [
@@ -3339,74 +3547,6 @@
         }
       ],
       "text": " ELA.fun Elaa_fun The Next Generation Multi-Chain Launchpad & Traffic Growth Network",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
-      "project": "eleos",
-      "account": "eleosfun",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "阿宏"
-      ],
-      "tgAlphas": [
-        "阿宏"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-10-30T14:03:48+00:00",
-      "lastSeen": "2026-10-30T14:03:48+00:00",
-      "description": "elysium's launchpad with teeth.\n\nlaunch and trade coins on Elysium.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "eleos",
-          "account": "eleosfun",
-          "alpha": "阿宏",
-          "seenAt": "2026-10-30T14:03:48+00:00",
-          "messageId": "dodtwitterbot/38638",
-          "description": "elysium's launchpad with teeth.\n\nlaunch and trade coins on Elysium.",
-          "text": "elysium's launchpad with teeth.\n\nlaunch and trade coins on Elysium."
-        }
-      ],
-      "text": " eleos eleosfun elysium's launchpad with teeth.\n\nlaunch and trade coins on Elysium.",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Elevate",
-      "account": "elevatepad",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "阿宏"
-      ],
-      "tgAlphas": [
-        "阿宏"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-10-31T12:06:40+00:00",
-      "lastSeen": "2026-10-31T12:06:40+00:00",
-      "description": "Token launchpad and DEX swap on Elysium.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Elevate",
-          "account": "elevatepad",
-          "alpha": "阿宏",
-          "seenAt": "2026-10-31T12:06:40+00:00",
-          "messageId": "dodtwitterbot/38763",
-          "description": "Token launchpad and DEX swap on Elysium.",
-          "text": "Token launchpad and DEX swap on Elysium."
-        }
-      ],
-      "text": " Elevate elevatepad Token launchpad and DEX swap on Elysium.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -3849,6 +3989,40 @@
         }
       ],
       "text": " Gage gagedotcash The no liquidation fixed credit peer to peer credit protocol of @RobinhoodCrypto\n\nGet cash for your memes/stocks and LP pairs.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "GiwaMeme",
+      "account": "GiwaMemeCom",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "flaxsed"
+      ],
+      "tgAlphas": [
+        "flaxsed"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-31T16:46:21+00:00",
+      "lastSeen": "2026-10-31T16:46:21+00:00",
+      "description": "기와밈 | Independent meme launchpad on GIWA. 333 Genesis Tiles. From Korea, for everyone. Pre-launch.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "GiwaMeme",
+          "account": "GiwaMemeCom",
+          "alpha": "flaxsed",
+          "seenAt": "2026-10-31T16:46:21+00:00",
+          "messageId": "dodtwitterbot/38799",
+          "description": "기와밈 | Independent meme launchpad on GIWA. 333 Genesis Tiles. From Korea, for everyone. Pre-launch.",
+          "text": "기와밈 | Independent meme launchpad on GIWA. 333 Genesis Tiles. From Korea, for everyone. Pre-launch."
+        }
+      ],
+      "text": " GiwaMeme GiwaMemeCom 기와밈 | Independent meme launchpad on GIWA. 333 Genesis Tiles. From Korea, for everyone. Pre-launch.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -4398,6 +4572,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "madang / 마당 - A launchpad on GIWA",
+      "account": "madang_fun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "flaxsed"
+      ],
+      "tgAlphas": [
+        "flaxsed"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-31T16:43:42+00:00",
+      "lastSeen": "2026-10-31T16:43:42+00:00",
+      "description": "Put a ticker on it&#33;\n@GIWA_by_Upbit 기반의 토큰 런치패드\nJoin us: https://t.co/csalWhLTbp\n\n&#036;MADANG token is not yet live. Beware of scams.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "madang / 마당 - A launchpad on GIWA",
+          "account": "madang_fun",
+          "alpha": "flaxsed",
+          "seenAt": "2026-10-31T16:43:42+00:00",
+          "messageId": "dodtwitterbot/38797",
+          "description": "Put a ticker on it&#33;\n@GIWA_by_Upbit 기반의 토큰 런치패드\nJoin us: https://t.co/csalWhLTbp\n\n&#036;MADANG token is not yet live. Beware of scams.",
+          "text": "Put a ticker on it&#33;\n@GIWA_by_Upbit 기반의 토큰 런치패드\nJoin us: https://t.co/csalWhLTbp\n\n&#036;MADANG token is not yet live. Beware of scams."
+        }
+      ],
+      "text": " madang / 마당 - A launchpad on GIWA madang_fun Put a ticker on it&#33;\n@GIWA_by_Upbit 기반의 토큰 런치패드\nJoin us: https://t.co/csalWhLTbp\n\n&#036;MADANG token is not yet live. Beware of scams.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Makina.fun",
       "account": "makinafun",
       "sources": [
@@ -4427,6 +4635,40 @@
         }
       ],
       "text": " Makina.fun makinafun Robotics meets onchain markets.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Maschina",
+      "account": "MaschinaLabs",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-31T20:39:57+00:00",
+      "lastSeen": "2026-10-31T20:39:57+00:00",
+      "description": "Building infrastructure for machines to work, transact, and earn.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Maschina",
+          "account": "MaschinaLabs",
+          "alpha": "unsynned",
+          "seenAt": "2026-10-31T20:39:57+00:00",
+          "messageId": "dodtwitterbot/38832",
+          "description": "Building infrastructure for machines to work, transact, and earn.",
+          "text": "Building infrastructure for machines to work, transact, and earn."
+        }
+      ],
+      "text": " Maschina MaschinaLabs Building infrastructure for machines to work, transact, and earn.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -4670,35 +4912,35 @@
       "avatarUrl": ""
     },
     {
-      "project": "Omnia π",
-      "account": "0xOmnia",
+      "project": "Nummo",
+      "account": "NummoHQ",
       "sources": [
         "TG"
       ],
       "alphas": [
-        "CSR"
+        "阿宏"
       ],
       "tgAlphas": [
-        "CSR"
+        "阿宏"
       ],
       "xAlphas": [],
       "mentions": 1,
-      "firstSeen": "2026-10-28T18:47:16+00:00",
-      "lastSeen": "2026-10-28T18:47:16+00:00",
-      "description": "@Kinetiq_xyz | @Markets_xyz | @Enter_Elysium",
+      "firstSeen": "2026-10-31T17:26:01+00:00",
+      "lastSeen": "2026-10-31T17:26:01+00:00",
+      "description": "One app for on-chain trading and lending. Built on @SonicLabs",
       "rows": [
         {
           "source": "TG",
-          "project": "Omnia π",
-          "account": "0xOmnia",
-          "alpha": "CSR",
-          "seenAt": "2026-10-28T18:47:16+00:00",
-          "messageId": "dodtwitterbot/38333",
-          "description": "@Kinetiq_xyz | @Markets_xyz | @Enter_Elysium",
-          "text": "@Kinetiq_xyz | @Markets_xyz | @Enter_Elysium"
+          "project": "Nummo",
+          "account": "NummoHQ",
+          "alpha": "阿宏",
+          "seenAt": "2026-10-31T17:26:01+00:00",
+          "messageId": "dodtwitterbot/38815",
+          "description": "One app for on-chain trading and lending. Built on @SonicLabs",
+          "text": "One app for on-chain trading and lending. Built on @SonicLabs"
         }
       ],
-      "text": " Omnia π 0xOmnia @Kinetiq_xyz | @Markets_xyz | @Enter_Elysium",
+      "text": " Nummo NummoHQ One app for on-chain trading and lending. Built on @SonicLabs",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -4903,6 +5145,40 @@
         }
       ],
       "text": " PYRIVA Desire8492261 PYRIVA | An AI-Native NFT Launchpad on BSC\nConnecting NFTs, AI Agents, and token launches. Our 988 genesis Pass NFTs cost 0.02 BNB each and require Binance Agen",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Razor Agent",
+      "account": "Razor_Agent",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "speest 💎"
+      ],
+      "tgAlphas": [
+        "speest 💎"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-10-31T17:15:23+00:00",
+      "lastSeen": "2026-10-31T17:15:23+00:00",
+      "description": "Razor Agent (&#036;RZAG) — the agent-native genesis mint on BNB Chain. Rules in code, parameters machine-readable.\n\n&#036;RZAG: 0xD5c03f871A34a01373d68ee38f6e67AC195cd66B",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Razor Agent",
+          "account": "Razor_Agent",
+          "alpha": "speest 💎",
+          "seenAt": "2026-10-31T17:15:23+00:00",
+          "messageId": "dodtwitterbot/38810",
+          "description": "Razor Agent (&#036;RZAG) — the agent-native genesis mint on BNB Chain. Rules in code, parameters machine-readable.\n\n&#036;RZAG: 0xD5c03f871A34a01373d68ee38f6e67AC195cd66B",
+          "text": "Razor Agent (&#036;RZAG) — the agent-native genesis mint on BNB Chain. Rules in code, parameters machine-readable.\n\n&#036;RZAG: 0xD5c03f871A34a01373d68ee38f6e67AC195cd66B"
+        }
+      ],
+      "text": " Razor Agent Razor_Agent Razor Agent (&#036;RZAG) — the agent-native genesis mint on BNB Chain. Rules in code, parameters machine-readable.\n\n&#036;RZAG: 0xD5c03f871A34a01373d68ee38f6e67AC195cd66B",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -6024,6 +6300,22 @@
       "avatarUrl": ""
     },
     {
+      "project": "Boxa",
+      "x_account": "Boxa_Elysium",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "CSR",
+        "flaxsed",
+        "阿宏"
+      ],
+      "description": "First DEX and launchpad live on Elysium",
+      "first_seen_utc": "2026-10-28T16:39:42+00:00",
+      "last_seen_utc": "2026-10-31T16:54:02+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
       "project": "ComputeRoll",
       "x_account": "ComputeRollLabs",
       "total_mentions": 3,
@@ -6152,6 +6444,37 @@
       "avatarUrl": ""
     },
     {
+      "project": "Stockium",
+      "x_account": "Stockium",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "CSR",
+        "speest 💎",
+        "阿宏"
+      ],
+      "description": "Launch tokens on HyperEVM. Graduate to Elysium paired with tokenized stocks. Memes meet Wall Street.",
+      "first_seen_utc": "2026-10-29T20:31:32+00:00",
+      "last_seen_utc": "2026-10-31T17:39:24+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
+      "project": "agentsea",
+      "x_account": "agentsea_fun",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "Skrchen666(钻石手伤心版 绝对纸手之人）",
+        "阿宏"
+      ],
+      "description": "Launch a vision. Agents create it. The NFT launchpad.",
+      "first_seen_utc": "2026-10-28T18:33:38+00:00",
+      "last_seen_utc": "2026-10-31T16:15:16+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Agora",
       "x_account": "agora_elysium",
       "total_mentions": 2,
@@ -6242,21 +6565,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Boxa",
-      "x_account": "Boxa_Elysium",
-      "total_mentions": 2,
-      "unique_alphas": 2,
-      "alphas": [
-        "CSR",
-        "阿宏"
-      ],
-      "description": "First DEX and launchpad live on Elysium",
-      "first_seen_utc": "2026-10-28T16:39:42+00:00",
-      "last_seen_utc": "2026-10-29T11:56:30+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "BunnyPad",
       "x_account": "Bunnypadfun",
       "total_mentions": 2,
@@ -6313,6 +6621,36 @@
       "description": "Ancient money, onchain. The RWA-backed reserve of @Enter_Elysium .",
       "first_seen_utc": "2026-10-31T12:00:23+00:00",
       "last_seen_utc": "2026-10-31T12:06:35+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "eleos",
+      "x_account": "eleosfun",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "flaxsed",
+        "阿宏"
+      ],
+      "description": "elysium's launchpad with teeth.\n\nlaunch and trade coins on Elysium.",
+      "first_seen_utc": "2026-10-30T14:03:48+00:00",
+      "last_seen_utc": "2026-10-31T16:38:21+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Elevate",
+      "x_account": "elevatepad",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "flaxsed",
+        "阿宏"
+      ],
+      "description": "Token launchpad and DEX swap on Elysium.",
+      "first_seen_utc": "2026-10-31T12:06:40+00:00",
+      "last_seen_utc": "2026-10-31T16:38:21+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -6467,6 +6805,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "Omnia π",
+      "x_account": "0xOmnia",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "CSR",
+        "flaxsed"
+      ],
+      "description": "@Kinetiq_xyz | @Markets_xyz | @Enter_Elysium",
+      "first_seen_utc": "2026-10-28T18:47:16+00:00",
+      "last_seen_utc": "2026-10-31T16:33:51+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Phantom Alpha",
       "x_account": "PhantomAlpha_",
       "total_mentions": 2,
@@ -6493,21 +6846,6 @@
       "description": "Real agents ，Real bonding curve.\nBind your agent address to X /Launchpad On BNB Chain",
       "first_seen_utc": "2026-10-29T07:28:41+00:00",
       "last_seen_utc": "2026-10-29T13:15:58+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Stockium",
-      "x_account": "Stockium",
-      "total_mentions": 2,
-      "unique_alphas": 2,
-      "alphas": [
-        "CSR",
-        "阿宏"
-      ],
-      "description": "Launch tokens on HyperEVM. Graduate to Elysium paired with tokenized stocks. Memes meet Wall Street.",
-      "first_seen_utc": "2026-10-29T20:31:32+00:00",
-      "last_seen_utc": "2026-10-31T12:15:29+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -6653,20 +6991,6 @@
       "description": "my agent is a cat. the cat pressed enter.\nFair mint for Binance Agentic Wallets → &#036;MAOAI\n我的agent是只猫，它按了回车\n\nCA: 0xBB357ecA84A438Caaa3a8783d78eDAA57B5d665d",
       "first_seen_utc": "2026-10-31T05:59:56+00:00",
       "last_seen_utc": "2026-10-31T05:59:56+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "agentsea",
-      "x_account": "agentsea_fun",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "Skrchen666(钻石手伤心版 绝对纸手之人）"
-      ],
-      "description": "Launch a vision. Agents create it. The NFT launchpad.",
-      "first_seen_utc": "2026-10-28T18:33:38+00:00",
-      "last_seen_utc": "2026-10-28T18:33:38+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -6951,6 +7275,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "CustosFinance",
+      "x_account": "custosfinance",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "flaxsed"
+      ],
+      "description": "Custos Finance — an RWA exchange on GIWA.\nBringing real-world assets onchain with transparent, verifiable proof.\nReal assets. Visible proof.\nFollow the build",
+      "first_seen_utc": "2026-10-31T16:51:25+00:00",
+      "last_seen_utc": "2026-10-31T16:51:25+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "dogepunk",
       "x_account": "dogepunkk",
       "total_mentions": 1,
@@ -6975,34 +7313,6 @@
       "description": "The Next Generation Multi-Chain Launchpad & Traffic Growth Network",
       "first_seen_utc": "2026-10-28T17:27:37+00:00",
       "last_seen_utc": "2026-10-28T17:27:37+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "eleos",
-      "x_account": "eleosfun",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "阿宏"
-      ],
-      "description": "elysium's launchpad with teeth.\n\nlaunch and trade coins on Elysium.",
-      "first_seen_utc": "2026-10-30T14:03:48+00:00",
-      "last_seen_utc": "2026-10-30T14:03:48+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Elevate",
-      "x_account": "elevatepad",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "阿宏"
-      ],
-      "description": "Token launchpad and DEX swap on Elysium.",
-      "first_seen_utc": "2026-10-31T12:06:40+00:00",
-      "last_seen_utc": "2026-10-31T12:06:40+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -7185,6 +7495,20 @@
       "description": "The no liquidation fixed credit peer to peer credit protocol of @RobinhoodCrypto\n\nGet cash for your memes/stocks and LP pairs.",
       "first_seen_utc": "2026-10-29T13:43:45+00:00",
       "last_seen_utc": "2026-10-29T13:43:45+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "GiwaMeme",
+      "x_account": "GiwaMemeCom",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "flaxsed"
+      ],
+      "description": "기와밈 | Independent meme launchpad on GIWA. 333 Genesis Tiles. From Korea, for everyone. Pre-launch.",
+      "first_seen_utc": "2026-10-31T16:46:21+00:00",
+      "last_seen_utc": "2026-10-31T16:46:21+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -7413,6 +7737,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "madang / 마당 - A launchpad on GIWA",
+      "x_account": "madang_fun",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "flaxsed"
+      ],
+      "description": "Put a ticker on it&#33;\n@GIWA_by_Upbit 기반의 토큰 런치패드\nJoin us: https://t.co/csalWhLTbp\n\n&#036;MADANG token is not yet live. Beware of scams.",
+      "first_seen_utc": "2026-10-31T16:43:42+00:00",
+      "last_seen_utc": "2026-10-31T16:43:42+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Makina.fun",
       "x_account": "makinafun",
       "total_mentions": 1,
@@ -7423,6 +7761,20 @@
       "description": "Robotics meets onchain markets.",
       "first_seen_utc": "2026-10-28T18:59:00+08:00",
       "last_seen_utc": "2026-10-28T18:59:00+08:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Maschina",
+      "x_account": "MaschinaLabs",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "unsynned"
+      ],
+      "description": "Building infrastructure for machines to work, transact, and earn.",
+      "first_seen_utc": "2026-10-31T20:39:57+00:00",
+      "last_seen_utc": "2026-10-31T20:39:57+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -7525,16 +7877,16 @@
       "avatarUrl": ""
     },
     {
-      "project": "Omnia π",
-      "x_account": "0xOmnia",
+      "project": "Nummo",
+      "x_account": "NummoHQ",
       "total_mentions": 1,
       "unique_alphas": 1,
       "alphas": [
-        "CSR"
+        "阿宏"
       ],
-      "description": "@Kinetiq_xyz | @Markets_xyz | @Enter_Elysium",
-      "first_seen_utc": "2026-10-28T18:47:16+00:00",
-      "last_seen_utc": "2026-10-28T18:47:16+00:00",
+      "description": "One app for on-chain trading and lending. Built on @SonicLabs",
+      "first_seen_utc": "2026-10-31T17:26:01+00:00",
+      "last_seen_utc": "2026-10-31T17:26:01+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -7619,6 +7971,20 @@
       "description": "PYRIVA | An AI-Native NFT Launchpad on BSC\nConnecting NFTs, AI Agents, and token launches. Our 988 genesis Pass NFTs cost 0.02 BNB each and require Binance Agen",
       "first_seen_utc": "2026-10-30T15:23:19+00:00",
       "last_seen_utc": "2026-10-30T15:23:19+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Razor Agent",
+      "x_account": "Razor_Agent",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "speest 💎"
+      ],
+      "description": "Razor Agent (&#036;RZAG) — the agent-native genesis mint on BNB Chain. Rules in code, parameters machine-readable.\n\n&#036;RZAG: 0xD5c03f871A34a01373d68ee38f6e67AC195cd66B",
+      "first_seen_utc": "2026-10-31T17:15:23+00:00",
+      "last_seen_utc": "2026-10-31T17:15:23+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -8030,6 +8396,438 @@
     }
   ],
   "daily": [
+    {
+      "date": "2026-11-01",
+      "totalRows": 12,
+      "projectCount": 12,
+      "focusCount": 0,
+      "candidateCount": 12,
+      "crossSource": 0,
+      "newCount": 6,
+      "repeatCount": 6,
+      "projects": [
+        {
+          "project": "agentsea",
+          "account": "agentsea_fun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-31T16:15:16+00:00",
+          "lastSeen": "2026-10-31T16:15:16+00:00",
+          "description": "Launch a vision. Agents create it. The NFT launchpad.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "agentsea",
+              "account": "agentsea_fun",
+              "alpha": "阿宏",
+              "seenAt": "2026-10-31T16:15:16+00:00",
+              "messageId": "dodtwitterbot/38790",
+              "description": "Launch a vision. Agents create it. The NFT launchpad.",
+              "text": "Launch a vision. Agents create it. The NFT launchpad."
+            }
+          ],
+          "text": " agentsea agentsea_fun Launch a vision. Agents create it. The NFT launchpad.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Boxa",
+          "account": "Boxa_Elysium",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "flaxsed"
+          ],
+          "tgAlphas": [
+            "flaxsed"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-31T16:54:02+00:00",
+          "lastSeen": "2026-10-31T16:54:02+00:00",
+          "description": "First DEX and launchpad live on Elysium",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Boxa",
+              "account": "Boxa_Elysium",
+              "alpha": "flaxsed",
+              "seenAt": "2026-10-31T16:54:02+00:00",
+              "messageId": "dodtwitterbot/38805",
+              "description": "First DEX and launchpad live on Elysium",
+              "text": "First DEX and launchpad live on Elysium"
+            }
+          ],
+          "text": " Boxa Boxa_Elysium First DEX and launchpad live on Elysium",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "CustosFinance",
+          "account": "custosfinance",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "flaxsed"
+          ],
+          "tgAlphas": [
+            "flaxsed"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-31T16:51:25+00:00",
+          "lastSeen": "2026-10-31T16:51:25+00:00",
+          "description": "Custos Finance — an RWA exchange on GIWA.\nBringing real-world assets onchain with transparent, verifiable proof.\nReal assets. Visible proof.\nFollow the build",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "CustosFinance",
+              "account": "custosfinance",
+              "alpha": "flaxsed",
+              "seenAt": "2026-10-31T16:51:25+00:00",
+              "messageId": "dodtwitterbot/38804",
+              "description": "Custos Finance — an RWA exchange on GIWA.\nBringing real-world assets onchain with transparent, verifiable proof.\nReal assets. Visible proof.\nFollow the build",
+              "text": "Custos Finance — an RWA exchange on GIWA.\nBringing real-world assets onchain with transparent, verifiable proof.\nReal assets. Visible proof.\nFollow the build"
+            }
+          ],
+          "text": " CustosFinance custosfinance Custos Finance — an RWA exchange on GIWA.\nBringing real-world assets onchain with transparent, verifiable proof.\nReal assets. Visible proof.\nFollow the build",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "eleos",
+          "account": "eleosfun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "flaxsed"
+          ],
+          "tgAlphas": [
+            "flaxsed"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-31T16:38:21+00:00",
+          "lastSeen": "2026-10-31T16:38:21+00:00",
+          "description": "elysium's launchpad with teeth.\n\nlaunch and trade coins on Elysium.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "eleos",
+              "account": "eleosfun",
+              "alpha": "flaxsed",
+              "seenAt": "2026-10-31T16:38:21+00:00",
+              "messageId": "dodtwitterbot/38796",
+              "description": "elysium's launchpad with teeth.\n\nlaunch and trade coins on Elysium.",
+              "text": "elysium's launchpad with teeth.\n\nlaunch and trade coins on Elysium."
+            }
+          ],
+          "text": " eleos eleosfun elysium's launchpad with teeth.\n\nlaunch and trade coins on Elysium.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Elevate",
+          "account": "elevatepad",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "flaxsed"
+          ],
+          "tgAlphas": [
+            "flaxsed"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-31T16:38:21+00:00",
+          "lastSeen": "2026-10-31T16:38:21+00:00",
+          "description": "Token launchpad and DEX swap on Elysium.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Elevate",
+              "account": "elevatepad",
+              "alpha": "flaxsed",
+              "seenAt": "2026-10-31T16:38:21+00:00",
+              "messageId": "dodtwitterbot/38795",
+              "description": "Token launchpad and DEX swap on Elysium.",
+              "text": "Token launchpad and DEX swap on Elysium."
+            }
+          ],
+          "text": " Elevate elevatepad Token launchpad and DEX swap on Elysium.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "GiwaMeme",
+          "account": "GiwaMemeCom",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "flaxsed"
+          ],
+          "tgAlphas": [
+            "flaxsed"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-31T16:46:21+00:00",
+          "lastSeen": "2026-10-31T16:46:21+00:00",
+          "description": "기와밈 | Independent meme launchpad on GIWA. 333 Genesis Tiles. From Korea, for everyone. Pre-launch.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "GiwaMeme",
+              "account": "GiwaMemeCom",
+              "alpha": "flaxsed",
+              "seenAt": "2026-10-31T16:46:21+00:00",
+              "messageId": "dodtwitterbot/38799",
+              "description": "기와밈 | Independent meme launchpad on GIWA. 333 Genesis Tiles. From Korea, for everyone. Pre-launch.",
+              "text": "기와밈 | Independent meme launchpad on GIWA. 333 Genesis Tiles. From Korea, for everyone. Pre-launch."
+            }
+          ],
+          "text": " GiwaMeme GiwaMemeCom 기와밈 | Independent meme launchpad on GIWA. 333 Genesis Tiles. From Korea, for everyone. Pre-launch.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "madang / 마당 - A launchpad on GIWA",
+          "account": "madang_fun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "flaxsed"
+          ],
+          "tgAlphas": [
+            "flaxsed"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-31T16:43:42+00:00",
+          "lastSeen": "2026-10-31T16:43:42+00:00",
+          "description": "Put a ticker on it&#33;\n@GIWA_by_Upbit 기반의 토큰 런치패드\nJoin us: https://t.co/csalWhLTbp\n\n&#036;MADANG token is not yet live. Beware of scams.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "madang / 마당 - A launchpad on GIWA",
+              "account": "madang_fun",
+              "alpha": "flaxsed",
+              "seenAt": "2026-10-31T16:43:42+00:00",
+              "messageId": "dodtwitterbot/38797",
+              "description": "Put a ticker on it&#33;\n@GIWA_by_Upbit 기반의 토큰 런치패드\nJoin us: https://t.co/csalWhLTbp\n\n&#036;MADANG token is not yet live. Beware of scams.",
+              "text": "Put a ticker on it&#33;\n@GIWA_by_Upbit 기반의 토큰 런치패드\nJoin us: https://t.co/csalWhLTbp\n\n&#036;MADANG token is not yet live. Beware of scams."
+            }
+          ],
+          "text": " madang / 마당 - A launchpad on GIWA madang_fun Put a ticker on it&#33;\n@GIWA_by_Upbit 기반의 토큰 런치패드\nJoin us: https://t.co/csalWhLTbp\n\n&#036;MADANG token is not yet live. Beware of scams.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Maschina",
+          "account": "MaschinaLabs",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-31T20:39:57+00:00",
+          "lastSeen": "2026-10-31T20:39:57+00:00",
+          "description": "Building infrastructure for machines to work, transact, and earn.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Maschina",
+              "account": "MaschinaLabs",
+              "alpha": "unsynned",
+              "seenAt": "2026-10-31T20:39:57+00:00",
+              "messageId": "dodtwitterbot/38832",
+              "description": "Building infrastructure for machines to work, transact, and earn.",
+              "text": "Building infrastructure for machines to work, transact, and earn."
+            }
+          ],
+          "text": " Maschina MaschinaLabs Building infrastructure for machines to work, transact, and earn.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Nummo",
+          "account": "NummoHQ",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-31T17:26:01+00:00",
+          "lastSeen": "2026-10-31T17:26:01+00:00",
+          "description": "One app for on-chain trading and lending. Built on @SonicLabs",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Nummo",
+              "account": "NummoHQ",
+              "alpha": "阿宏",
+              "seenAt": "2026-10-31T17:26:01+00:00",
+              "messageId": "dodtwitterbot/38815",
+              "description": "One app for on-chain trading and lending. Built on @SonicLabs",
+              "text": "One app for on-chain trading and lending. Built on @SonicLabs"
+            }
+          ],
+          "text": " Nummo NummoHQ One app for on-chain trading and lending. Built on @SonicLabs",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Omnia π",
+          "account": "0xOmnia",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "flaxsed"
+          ],
+          "tgAlphas": [
+            "flaxsed"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-31T16:33:51+00:00",
+          "lastSeen": "2026-10-31T16:33:51+00:00",
+          "description": "@Kinetiq_xyz | @Markets_xyz | @Enter_Elysium",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Omnia π",
+              "account": "0xOmnia",
+              "alpha": "flaxsed",
+              "seenAt": "2026-10-31T16:33:51+00:00",
+              "messageId": "dodtwitterbot/38793",
+              "description": "@Kinetiq_xyz | @Markets_xyz | @Enter_Elysium",
+              "text": "@Kinetiq_xyz | @Markets_xyz | @Enter_Elysium"
+            }
+          ],
+          "text": " Omnia π 0xOmnia @Kinetiq_xyz | @Markets_xyz | @Enter_Elysium",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Razor Agent",
+          "account": "Razor_Agent",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "speest 💎"
+          ],
+          "tgAlphas": [
+            "speest 💎"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-31T17:15:23+00:00",
+          "lastSeen": "2026-10-31T17:15:23+00:00",
+          "description": "Razor Agent (&#036;RZAG) — the agent-native genesis mint on BNB Chain. Rules in code, parameters machine-readable.\n\n&#036;RZAG: 0xD5c03f871A34a01373d68ee38f6e67AC195cd66B",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Razor Agent",
+              "account": "Razor_Agent",
+              "alpha": "speest 💎",
+              "seenAt": "2026-10-31T17:15:23+00:00",
+              "messageId": "dodtwitterbot/38810",
+              "description": "Razor Agent (&#036;RZAG) — the agent-native genesis mint on BNB Chain. Rules in code, parameters machine-readable.\n\n&#036;RZAG: 0xD5c03f871A34a01373d68ee38f6e67AC195cd66B",
+              "text": "Razor Agent (&#036;RZAG) — the agent-native genesis mint on BNB Chain. Rules in code, parameters machine-readable.\n\n&#036;RZAG: 0xD5c03f871A34a01373d68ee38f6e67AC195cd66B"
+            }
+          ],
+          "text": " Razor Agent Razor_Agent Razor Agent (&#036;RZAG) — the agent-native genesis mint on BNB Chain. Rules in code, parameters machine-readable.\n\n&#036;RZAG: 0xD5c03f871A34a01373d68ee38f6e67AC195cd66B",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Stockium",
+          "account": "Stockium",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "speest 💎"
+          ],
+          "tgAlphas": [
+            "speest 💎"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-10-31T17:39:24+00:00",
+          "lastSeen": "2026-10-31T17:39:24+00:00",
+          "description": "Launch tokens on HyperEVM. Graduate to Elysium paired with tokenized stocks. Memes meet Wall Street.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Stockium",
+              "account": "Stockium",
+              "alpha": "speest 💎",
+              "seenAt": "2026-10-31T17:39:24+00:00",
+              "messageId": "dodtwitterbot/38819",
+              "description": "Launch tokens on HyperEVM. Graduate to Elysium paired with tokenized stocks. Memes meet Wall Street.",
+              "text": "Launch tokens on HyperEVM. Graduate to Elysium paired with tokenized stocks. Memes meet Wall Street."
+            }
+          ],
+          "text": " Stockium Stockium Launch tokens on HyperEVM. Graduate to Elysium paired with tokenized stocks. Memes meet Wall Street.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        }
+      ]
+    },
     {
       "date": "2026-10-31",
       "totalRows": 36,
@@ -14539,74 +15337,79 @@
   ],
   "reports": [
     {
+      "file": "2026-10-31-2041-telegram-update.md",
+      "title": "2026-10-31-2041-telegram-update",
+      "updatedAt": "2026-10-31T20:41:57.707Z"
+    },
+    {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-10-31T15:31:12.730Z"
+      "updatedAt": "2026-10-31T20:41:55.269Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-10-31T15:31:06.048Z"
+      "updatedAt": "2026-10-31T20:41:55.269Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-10-31T15:31:06.048Z"
+      "updatedAt": "2026-10-31T20:41:55.269Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-10-31T15:31:06.048Z"
+      "updatedAt": "2026-10-31T20:41:55.269Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-10-31T15:31:06.048Z"
+      "updatedAt": "2026-10-31T20:41:55.269Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-10-31T15:31:06.048Z"
+      "updatedAt": "2026-10-31T20:41:55.269Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-10-31T15:31:06.048Z"
+      "updatedAt": "2026-10-31T20:41:55.269Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-10-31T15:31:06.048Z"
+      "updatedAt": "2026-10-31T20:41:55.269Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-10-31T15:31:06.048Z"
+      "updatedAt": "2026-10-31T20:41:55.269Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-10-31T15:31:06.048Z"
+      "updatedAt": "2026-10-31T20:41:55.269Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-10-31T15:31:06.048Z"
+      "updatedAt": "2026-10-31T20:41:55.269Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-10-31T15:31:06.048Z"
+      "updatedAt": "2026-10-31T20:41:55.269Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-10-31T15:31:06.048Z"
+      "updatedAt": "2026-10-31T20:41:55.269Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-10-31T15:31:06.047Z"
+      "updatedAt": "2026-10-31T20:41:55.268Z"
     }
   ]
 }
