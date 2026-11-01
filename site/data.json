@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-31T20:41:57.825Z",
+  "generatedAt": "2026-11-01T00:29:19.588Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 38832,
-    "lastMessageAt": "2026-10-31T20:39:57+00:00",
-    "lastCheckedAt": "2026-10-31T20:41:57.708Z",
-    "previousMessageId": 38784,
-    "pagesRead": 3,
-    "messagesRead": 48,
-    "newProjectRecords": 12,
+    "lastMessageId": 38839,
+    "lastMessageAt": "2026-10-31T21:22:21+00:00",
+    "lastCheckedAt": "2026-11-01T00:29:19.461Z",
+    "previousMessageId": 38832,
+    "pagesRead": 1,
+    "messagesRead": 7,
+    "newProjectRecords": 4,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 232,
+    "telegramRows": 236,
     "xRows": 0,
     "projects": 153,
     "crossSource": 0
@@ -536,6 +536,76 @@
       "avatarUrl": ""
     },
     {
+      "project": "ELY",
+      "account": "ely__hl",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "CSR",
+        "flaxsed",
+        "发誓要做永赚大师",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "CSR",
+        "flaxsed",
+        "发誓要做永赚大师",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 4,
+      "firstSeen": "2026-10-28T17:33:53+00:00",
+      "lastSeen": "2026-10-31T20:47:00+00:00",
+      "description": "The first token launched on @Enter_Elysium",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "ELY",
+          "account": "ely__hl",
+          "alpha": "flaxsed",
+          "seenAt": "2026-10-28T17:33:53+00:00",
+          "messageId": "dodtwitterbot/38301",
+          "description": "The first token launched on @Enter_Elysium",
+          "text": "The first token launched on @Enter_Elysium"
+        },
+        {
+          "source": "TG",
+          "project": "ELY",
+          "account": "ely__hl",
+          "alpha": "发誓要做永赚大师",
+          "seenAt": "2026-10-29T04:55:11+00:00",
+          "messageId": "dodtwitterbot/38384",
+          "description": "The first token launched on @Enter_Elysium",
+          "text": "The first token launched on @Enter_Elysium"
+        },
+        {
+          "source": "TG",
+          "project": "ELY",
+          "account": "ely__hl",
+          "alpha": "阿宏",
+          "seenAt": "2026-10-29T05:40:06+00:00",
+          "messageId": "dodtwitterbot/38404",
+          "description": "The first token launched on @Enter_Elysium",
+          "text": "The first token launched on @Enter_Elysium"
+        },
+        {
+          "source": "TG",
+          "project": "ELY",
+          "account": "ely__hl",
+          "alpha": "CSR",
+          "seenAt": "2026-10-31T20:47:00+00:00",
+          "messageId": "dodtwitterbot/38835",
+          "description": "The first token launched on @Enter_Elysium",
+          "text": "The first token launched on @Enter_Elysium"
+        }
+      ],
+      "text": " ELY ely__hl The first token launched on @Enter_Elysium ELY ely__hl The first token launched on @Enter_Elysium ELY ely__hl The first token launched on @Enter_Elysium ELY ely__hl The first token launched on @Enter_Elysium",
+      "score": 8,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Agentic Pad",
       "account": "agenticsolfun",
       "sources": [
@@ -710,64 +780,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "ELY",
-      "account": "ely__hl",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "flaxsed",
-        "发誓要做永赚大师",
-        "阿宏"
-      ],
-      "tgAlphas": [
-        "flaxsed",
-        "发誓要做永赚大师",
-        "阿宏"
-      ],
-      "xAlphas": [],
-      "mentions": 3,
-      "firstSeen": "2026-10-28T17:33:53+00:00",
-      "lastSeen": "2026-10-29T05:40:06+00:00",
-      "description": "The first token launched on @Enter_Elysium",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "ELY",
-          "account": "ely__hl",
-          "alpha": "flaxsed",
-          "seenAt": "2026-10-28T17:33:53+00:00",
-          "messageId": "dodtwitterbot/38301",
-          "description": "The first token launched on @Enter_Elysium",
-          "text": "The first token launched on @Enter_Elysium"
-        },
-        {
-          "source": "TG",
-          "project": "ELY",
-          "account": "ely__hl",
-          "alpha": "发誓要做永赚大师",
-          "seenAt": "2026-10-29T04:55:11+00:00",
-          "messageId": "dodtwitterbot/38384",
-          "description": "The first token launched on @Enter_Elysium",
-          "text": "The first token launched on @Enter_Elysium"
-        },
-        {
-          "source": "TG",
-          "project": "ELY",
-          "account": "ely__hl",
-          "alpha": "阿宏",
-          "seenAt": "2026-10-29T05:40:06+00:00",
-          "messageId": "dodtwitterbot/38404",
-          "description": "The first token launched on @Enter_Elysium",
-          "text": "The first token launched on @Enter_Elysium"
-        }
-      ],
-      "text": " ELY ely__hl The first token launched on @Enter_Elysium ELY ely__hl The first token launched on @Enter_Elysium ELY ely__hl The first token launched on @Enter_Elysium",
-      "score": 6,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
       "project": "FiatDesk",
       "account": "fiatdesk",
       "sources": [
@@ -821,6 +833,64 @@
         }
       ],
       "text": " FiatDesk fiatdesk We make high-risk stablecoin flows bankable. FiatDesk fiatdesk We make high-risk stablecoin flows bankable. FiatDesk fiatdesk We make high-risk stablecoin flows bankable.",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "GiwaMeme",
+      "account": "GiwaMemeCom",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse",
+        "flaxsed",
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "BearzVerse",
+        "flaxsed",
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-10-31T16:46:21+00:00",
+      "lastSeen": "2026-10-31T21:22:21+00:00",
+      "description": "기와밈 | Independent meme launchpad on GIWA. 333 Genesis Tiles. From Korea, for everyone. Pre-launch.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "GiwaMeme",
+          "account": "GiwaMemeCom",
+          "alpha": "flaxsed",
+          "seenAt": "2026-10-31T16:46:21+00:00",
+          "messageId": "dodtwitterbot/38799",
+          "description": "기와밈 | Independent meme launchpad on GIWA. 333 Genesis Tiles. From Korea, for everyone. Pre-launch.",
+          "text": "기와밈 | Independent meme launchpad on GIWA. 333 Genesis Tiles. From Korea, for everyone. Pre-launch."
+        },
+        {
+          "source": "TG",
+          "project": "GiwaMeme",
+          "account": "GiwaMemeCom",
+          "alpha": "unsynned",
+          "seenAt": "2026-10-31T20:45:15+00:00",
+          "messageId": "dodtwitterbot/38834",
+          "description": "기와밈 | Independent meme launchpad on GIWA. 333 Genesis Tiles. From Korea, for everyone. Pre-launch.",
+          "text": "기와밈 | Independent meme launchpad on GIWA. 333 Genesis Tiles. From Korea, for everyone. Pre-launch."
+        },
+        {
+          "source": "TG",
+          "project": "GiwaMeme",
+          "account": "GiwaMemeCom",
+          "alpha": "BearzVerse",
+          "seenAt": "2026-10-31T21:22:21+00:00",
+          "messageId": "dodtwitterbot/38839",
+          "description": "기와밈 | Independent meme launchpad on GIWA. 333 Genesis Tiles. From Korea, for everyone. Pre-launch.",
+          "text": "기와밈 | Independent meme launchpad on GIWA. 333 Genesis Tiles. From Korea, for everyone. Pre-launch."
+        }
+      ],
+      "text": " GiwaMeme GiwaMemeCom 기와밈 | Independent meme launchpad on GIWA. 333 Genesis Tiles. From Korea, for everyone. Pre-launch. GiwaMeme GiwaMemeCom 기와밈 | Independent meme launchpad on GIWA. 333 Genesis Tiles. From Korea, for everyone. Pre-launch. GiwaMeme GiwaMemeCom 기와밈 | Independent meme launchpad on GIWA. 333 Genesis Tiles. From Korea, for everyone. Pre-launch.",
       "score": 6,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -2043,6 +2113,52 @@
         }
       ],
       "text": " Lotlings lotlings Where meme culture meets NFT markets & token launches.\n\nPowered by @Enter_elysium Lotlings lotlings Where meme culture meets NFT markets & token launches.\n\nPowered by @Enter_elysium",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Maschina",
+      "account": "MaschinaLabs",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse",
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "BearzVerse",
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-10-31T20:39:57+00:00",
+      "lastSeen": "2026-10-31T21:21:27+00:00",
+      "description": "Building infrastructure for machines to work, transact, and earn.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Maschina",
+          "account": "MaschinaLabs",
+          "alpha": "unsynned",
+          "seenAt": "2026-10-31T20:39:57+00:00",
+          "messageId": "dodtwitterbot/38832",
+          "description": "Building infrastructure for machines to work, transact, and earn.",
+          "text": "Building infrastructure for machines to work, transact, and earn."
+        },
+        {
+          "source": "TG",
+          "project": "Maschina",
+          "account": "MaschinaLabs",
+          "alpha": "BearzVerse",
+          "seenAt": "2026-10-31T21:21:27+00:00",
+          "messageId": "dodtwitterbot/38838",
+          "description": "Building infrastructure for machines to work, transact, and earn.",
+          "text": "Building infrastructure for machines to work, transact, and earn."
+        }
+      ],
+      "text": " Maschina MaschinaLabs Building infrastructure for machines to work, transact, and earn. Maschina MaschinaLabs Building infrastructure for machines to work, transact, and earn.",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -3994,40 +4110,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "GiwaMeme",
-      "account": "GiwaMemeCom",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "flaxsed"
-      ],
-      "tgAlphas": [
-        "flaxsed"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-10-31T16:46:21+00:00",
-      "lastSeen": "2026-10-31T16:46:21+00:00",
-      "description": "기와밈 | Independent meme launchpad on GIWA. 333 Genesis Tiles. From Korea, for everyone. Pre-launch.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "GiwaMeme",
-          "account": "GiwaMemeCom",
-          "alpha": "flaxsed",
-          "seenAt": "2026-10-31T16:46:21+00:00",
-          "messageId": "dodtwitterbot/38799",
-          "description": "기와밈 | Independent meme launchpad on GIWA. 333 Genesis Tiles. From Korea, for everyone. Pre-launch.",
-          "text": "기와밈 | Independent meme launchpad on GIWA. 333 Genesis Tiles. From Korea, for everyone. Pre-launch."
-        }
-      ],
-      "text": " GiwaMeme GiwaMemeCom 기와밈 | Independent meme launchpad on GIWA. 333 Genesis Tiles. From Korea, for everyone. Pre-launch.",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
       "project": "GIWATRON",
       "account": "Giwatron",
       "sources": [
@@ -4635,40 +4717,6 @@
         }
       ],
       "text": " Makina.fun makinafun Robotics meets onchain markets.",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Maschina",
-      "account": "MaschinaLabs",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "unsynned"
-      ],
-      "tgAlphas": [
-        "unsynned"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-10-31T20:39:57+00:00",
-      "lastSeen": "2026-10-31T20:39:57+00:00",
-      "description": "Building infrastructure for machines to work, transact, and earn.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Maschina",
-          "account": "MaschinaLabs",
-          "alpha": "unsynned",
-          "seenAt": "2026-10-31T20:39:57+00:00",
-          "messageId": "dodtwitterbot/38832",
-          "description": "Building infrastructure for machines to work, transact, and earn.",
-          "text": "Building infrastructure for machines to work, transact, and earn."
-        }
-      ],
-      "text": " Maschina MaschinaLabs Building infrastructure for machines to work, transact, and earn.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -6284,6 +6332,23 @@
       "avatarUrl": ""
     },
     {
+      "project": "ELY",
+      "x_account": "ely__hl",
+      "total_mentions": 4,
+      "unique_alphas": 4,
+      "alphas": [
+        "CSR",
+        "flaxsed",
+        "发誓要做永赚大师",
+        "阿宏"
+      ],
+      "description": "The first token launched on @Enter_Elysium",
+      "first_seen_utc": "2026-10-28T17:33:53+00:00",
+      "last_seen_utc": "2026-10-31T20:47:00+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
       "project": "Agentic Pad",
       "x_account": "agenticsolfun",
       "total_mentions": 3,
@@ -6332,22 +6397,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "ELY",
-      "x_account": "ely__hl",
-      "total_mentions": 3,
-      "unique_alphas": 3,
-      "alphas": [
-        "flaxsed",
-        "发誓要做永赚大师",
-        "阿宏"
-      ],
-      "description": "The first token launched on @Enter_Elysium",
-      "first_seen_utc": "2026-10-28T17:33:53+00:00",
-      "last_seen_utc": "2026-10-29T05:40:06+00:00",
-      "status": "priority",
-      "avatarUrl": ""
-    },
-    {
       "project": "FiatDesk",
       "x_account": "fiatdesk",
       "total_mentions": 3,
@@ -6360,6 +6409,22 @@
       "description": "We make high-risk stablecoin flows bankable.",
       "first_seen_utc": "2026-10-29T14:52:03+00:00",
       "last_seen_utc": "2026-10-29T19:42:43+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
+      "project": "GiwaMeme",
+      "x_account": "GiwaMemeCom",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "BearzVerse",
+        "flaxsed",
+        "unsynned"
+      ],
+      "description": "기와밈 | Independent meme launchpad on GIWA. 333 Genesis Tiles. From Korea, for everyone. Pre-launch.",
+      "first_seen_utc": "2026-10-31T16:46:21+00:00",
+      "last_seen_utc": "2026-10-31T21:22:21+00:00",
       "status": "priority",
       "avatarUrl": ""
     },
@@ -6741,6 +6806,21 @@
       "description": "Where meme culture meets NFT markets & token launches.\n\nPowered by @Enter_elysium",
       "first_seen_utc": "2026-10-30T13:59:21+00:00",
       "last_seen_utc": "2026-10-30T17:31:52+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Maschina",
+      "x_account": "MaschinaLabs",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "BearzVerse",
+        "unsynned"
+      ],
+      "description": "Building infrastructure for machines to work, transact, and earn.",
+      "first_seen_utc": "2026-10-31T20:39:57+00:00",
+      "last_seen_utc": "2026-10-31T21:21:27+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -7499,20 +7579,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "GiwaMeme",
-      "x_account": "GiwaMemeCom",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "flaxsed"
-      ],
-      "description": "기와밈 | Independent meme launchpad on GIWA. 333 Genesis Tiles. From Korea, for everyone. Pre-launch.",
-      "first_seen_utc": "2026-10-31T16:46:21+00:00",
-      "last_seen_utc": "2026-10-31T16:46:21+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "GIWATRON",
       "x_account": "Giwatron",
       "total_mentions": 1,
@@ -7761,20 +7827,6 @@
       "description": "Robotics meets onchain markets.",
       "first_seen_utc": "2026-10-28T18:59:00+08:00",
       "last_seen_utc": "2026-10-28T18:59:00+08:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Maschina",
-      "x_account": "MaschinaLabs",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "unsynned"
-      ],
-      "description": "Building infrastructure for machines to work, transact, and earn.",
-      "first_seen_utc": "2026-10-31T20:39:57+00:00",
-      "last_seen_utc": "2026-10-31T20:39:57+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -8398,14 +8450,120 @@
   "daily": [
     {
       "date": "2026-11-01",
-      "totalRows": 12,
-      "projectCount": 12,
-      "focusCount": 0,
-      "candidateCount": 12,
+      "totalRows": 16,
+      "projectCount": 13,
+      "focusCount": 2,
+      "candidateCount": 11,
       "crossSource": 0,
       "newCount": 6,
-      "repeatCount": 6,
+      "repeatCount": 7,
       "projects": [
+        {
+          "project": "GiwaMeme",
+          "account": "GiwaMemeCom",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BearzVerse",
+            "flaxsed",
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "BearzVerse",
+            "flaxsed",
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 3,
+          "firstSeen": "2026-10-31T16:46:21+00:00",
+          "lastSeen": "2026-10-31T21:22:21+00:00",
+          "description": "기와밈 | Independent meme launchpad on GIWA. 333 Genesis Tiles. From Korea, for everyone. Pre-launch.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "GiwaMeme",
+              "account": "GiwaMemeCom",
+              "alpha": "flaxsed",
+              "seenAt": "2026-10-31T16:46:21+00:00",
+              "messageId": "dodtwitterbot/38799",
+              "description": "기와밈 | Independent meme launchpad on GIWA. 333 Genesis Tiles. From Korea, for everyone. Pre-launch.",
+              "text": "기와밈 | Independent meme launchpad on GIWA. 333 Genesis Tiles. From Korea, for everyone. Pre-launch."
+            },
+            {
+              "source": "TG",
+              "project": "GiwaMeme",
+              "account": "GiwaMemeCom",
+              "alpha": "unsynned",
+              "seenAt": "2026-10-31T20:45:15+00:00",
+              "messageId": "dodtwitterbot/38834",
+              "description": "기와밈 | Independent meme launchpad on GIWA. 333 Genesis Tiles. From Korea, for everyone. Pre-launch.",
+              "text": "기와밈 | Independent meme launchpad on GIWA. 333 Genesis Tiles. From Korea, for everyone. Pre-launch."
+            },
+            {
+              "source": "TG",
+              "project": "GiwaMeme",
+              "account": "GiwaMemeCom",
+              "alpha": "BearzVerse",
+              "seenAt": "2026-10-31T21:22:21+00:00",
+              "messageId": "dodtwitterbot/38839",
+              "description": "기와밈 | Independent meme launchpad on GIWA. 333 Genesis Tiles. From Korea, for everyone. Pre-launch.",
+              "text": "기와밈 | Independent meme launchpad on GIWA. 333 Genesis Tiles. From Korea, for everyone. Pre-launch."
+            }
+          ],
+          "text": " GiwaMeme GiwaMemeCom 기와밈 | Independent meme launchpad on GIWA. 333 Genesis Tiles. From Korea, for everyone. Pre-launch. GiwaMeme GiwaMemeCom 기와밈 | Independent meme launchpad on GIWA. 333 Genesis Tiles. From Korea, for everyone. Pre-launch. GiwaMeme GiwaMemeCom 기와밈 | Independent meme launchpad on GIWA. 333 Genesis Tiles. From Korea, for everyone. Pre-launch.",
+          "score": 6,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Maschina",
+          "account": "MaschinaLabs",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BearzVerse",
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "BearzVerse",
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-10-31T20:39:57+00:00",
+          "lastSeen": "2026-10-31T21:21:27+00:00",
+          "description": "Building infrastructure for machines to work, transact, and earn.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Maschina",
+              "account": "MaschinaLabs",
+              "alpha": "unsynned",
+              "seenAt": "2026-10-31T20:39:57+00:00",
+              "messageId": "dodtwitterbot/38832",
+              "description": "Building infrastructure for machines to work, transact, and earn.",
+              "text": "Building infrastructure for machines to work, transact, and earn."
+            },
+            {
+              "source": "TG",
+              "project": "Maschina",
+              "account": "MaschinaLabs",
+              "alpha": "BearzVerse",
+              "seenAt": "2026-10-31T21:21:27+00:00",
+              "messageId": "dodtwitterbot/38838",
+              "description": "Building infrastructure for machines to work, transact, and earn.",
+              "text": "Building infrastructure for machines to work, transact, and earn."
+            }
+          ],
+          "text": " Maschina MaschinaLabs Building infrastructure for machines to work, transact, and earn. Maschina MaschinaLabs Building infrastructure for machines to work, transact, and earn.",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
         {
           "project": "agentsea",
           "account": "agentsea_fun",
@@ -8582,39 +8740,39 @@
           "dayStatus": "repeat"
         },
         {
-          "project": "GiwaMeme",
-          "account": "GiwaMemeCom",
+          "project": "ELY",
+          "account": "ely__hl",
           "sources": [
             "TG"
           ],
           "alphas": [
-            "flaxsed"
+            "CSR"
           ],
           "tgAlphas": [
-            "flaxsed"
+            "CSR"
           ],
           "xAlphas": [],
           "mentions": 1,
-          "firstSeen": "2026-10-31T16:46:21+00:00",
-          "lastSeen": "2026-10-31T16:46:21+00:00",
-          "description": "기와밈 | Independent meme launchpad on GIWA. 333 Genesis Tiles. From Korea, for everyone. Pre-launch.",
+          "firstSeen": "2026-10-31T20:47:00+00:00",
+          "lastSeen": "2026-10-31T20:47:00+00:00",
+          "description": "The first token launched on @Enter_Elysium",
           "rows": [
             {
               "source": "TG",
-              "project": "GiwaMeme",
-              "account": "GiwaMemeCom",
-              "alpha": "flaxsed",
-              "seenAt": "2026-10-31T16:46:21+00:00",
-              "messageId": "dodtwitterbot/38799",
-              "description": "기와밈 | Independent meme launchpad on GIWA. 333 Genesis Tiles. From Korea, for everyone. Pre-launch.",
-              "text": "기와밈 | Independent meme launchpad on GIWA. 333 Genesis Tiles. From Korea, for everyone. Pre-launch."
+              "project": "ELY",
+              "account": "ely__hl",
+              "alpha": "CSR",
+              "seenAt": "2026-10-31T20:47:00+00:00",
+              "messageId": "dodtwitterbot/38835",
+              "description": "The first token launched on @Enter_Elysium",
+              "text": "The first token launched on @Enter_Elysium"
             }
           ],
-          "text": " GiwaMeme GiwaMemeCom 기와밈 | Independent meme launchpad on GIWA. 333 Genesis Tiles. From Korea, for everyone. Pre-launch.",
+          "text": " ELY ely__hl The first token launched on @Enter_Elysium",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
-          "dayStatus": "new"
+          "dayStatus": "repeat"
         },
         {
           "project": "madang / 마당 - A launchpad on GIWA",
@@ -8646,41 +8804,6 @@
             }
           ],
           "text": " madang / 마당 - A launchpad on GIWA madang_fun Put a ticker on it&#33;\n@GIWA_by_Upbit 기반의 토큰 런치패드\nJoin us: https://t.co/csalWhLTbp\n\n&#036;MADANG token is not yet live. Beware of scams.",
-          "score": 2,
-          "displayTier": "candidate",
-          "avatarUrl": "",
-          "dayStatus": "new"
-        },
-        {
-          "project": "Maschina",
-          "account": "MaschinaLabs",
-          "sources": [
-            "TG"
-          ],
-          "alphas": [
-            "unsynned"
-          ],
-          "tgAlphas": [
-            "unsynned"
-          ],
-          "xAlphas": [],
-          "mentions": 1,
-          "firstSeen": "2026-10-31T20:39:57+00:00",
-          "lastSeen": "2026-10-31T20:39:57+00:00",
-          "description": "Building infrastructure for machines to work, transact, and earn.",
-          "rows": [
-            {
-              "source": "TG",
-              "project": "Maschina",
-              "account": "MaschinaLabs",
-              "alpha": "unsynned",
-              "seenAt": "2026-10-31T20:39:57+00:00",
-              "messageId": "dodtwitterbot/38832",
-              "description": "Building infrastructure for machines to work, transact, and earn.",
-              "text": "Building infrastructure for machines to work, transact, and earn."
-            }
-          ],
-          "text": " Maschina MaschinaLabs Building infrastructure for machines to work, transact, and earn.",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -15337,79 +15460,84 @@
   ],
   "reports": [
     {
+      "file": "2026-11-01-0029-telegram-update.md",
+      "title": "2026-11-01-0029-telegram-update",
+      "updatedAt": "2026-11-01T00:29:19.460Z"
+    },
+    {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-10-31T20:41:57.707Z"
+      "updatedAt": "2026-11-01T00:29:17.455Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-10-31T20:41:55.269Z"
+      "updatedAt": "2026-11-01T00:29:17.455Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-10-31T20:41:55.269Z"
+      "updatedAt": "2026-11-01T00:29:17.455Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-10-31T20:41:55.269Z"
+      "updatedAt": "2026-11-01T00:29:17.455Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-10-31T20:41:55.269Z"
+      "updatedAt": "2026-11-01T00:29:17.455Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-10-31T20:41:55.269Z"
+      "updatedAt": "2026-11-01T00:29:17.455Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-10-31T20:41:55.269Z"
+      "updatedAt": "2026-11-01T00:29:17.455Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-10-31T20:41:55.269Z"
+      "updatedAt": "2026-11-01T00:29:17.455Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-10-31T20:41:55.269Z"
+      "updatedAt": "2026-11-01T00:29:17.455Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-10-31T20:41:55.269Z"
+      "updatedAt": "2026-11-01T00:29:17.455Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-10-31T20:41:55.269Z"
+      "updatedAt": "2026-11-01T00:29:17.455Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-10-31T20:41:55.269Z"
+      "updatedAt": "2026-11-01T00:29:17.455Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-10-31T20:41:55.269Z"
+      "updatedAt": "2026-11-01T00:29:17.455Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-10-31T20:41:55.269Z"
+      "updatedAt": "2026-11-01T00:29:17.455Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-10-31T20:41:55.268Z"
+      "updatedAt": "2026-11-01T00:29:17.454Z"
     }
   ]
 }
