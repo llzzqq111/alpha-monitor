@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-02T01:04:21.527Z",
+  "generatedAt": "2026-11-02T08:26:17.561Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 39104,
-    "lastMessageAt": "2026-11-01T23:20:58+00:00",
-    "lastCheckedAt": "2026-11-02T01:04:21.392Z",
-    "previousMessageId": 39102,
-    "pagesRead": 1,
-    "messagesRead": 2,
-    "newProjectRecords": 1,
+    "lastMessageId": 39157,
+    "lastMessageAt": "2026-11-02T08:13:17+00:00",
+    "lastCheckedAt": "2026-11-02T08:26:17.414Z",
+    "previousMessageId": 39104,
+    "pagesRead": 3,
+    "messagesRead": 53,
+    "newProjectRecords": 10,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 325,
+    "telegramRows": 335,
     "xRows": 0,
-    "projects": 191,
+    "projects": 197,
     "crossSource": 0
   },
   "projects": [
@@ -1458,6 +1458,64 @@
       "avatarUrl": ""
     },
     {
+      "project": "BB84",
+      "account": "bb84sh",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "speest 💎",
+        "发誓要做永赚大师",
+        "叶子君Foliage ◎ 🔶"
+      ],
+      "tgAlphas": [
+        "speest 💎",
+        "发誓要做永赚大师",
+        "叶子君Foliage ◎ 🔶"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-11-01T08:31:46+00:00",
+      "lastSeen": "2026-11-02T07:28:22+00:00",
+      "description": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "BB84",
+          "account": "bb84sh",
+          "alpha": "speest 💎",
+          "seenAt": "2026-11-01T08:31:46+00:00",
+          "messageId": "dodtwitterbot/38933",
+          "description": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
+          "text": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1."
+        },
+        {
+          "source": "TG",
+          "project": "BB84",
+          "account": "bb84sh",
+          "alpha": "叶子君Foliage ◎ 🔶",
+          "seenAt": "2026-11-02T02:34:32+00:00",
+          "messageId": "dodtwitterbot/39114",
+          "description": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
+          "text": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1."
+        },
+        {
+          "source": "TG",
+          "project": "BB84",
+          "account": "bb84sh",
+          "alpha": "发誓要做永赚大师",
+          "seenAt": "2026-11-02T07:28:22+00:00",
+          "messageId": "dodtwitterbot/39153",
+          "description": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
+          "text": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1."
+        }
+      ],
+      "text": " BB84 bb84sh Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1. BB84 bb84sh Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1. BB84 bb84sh Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Citadel 🌿",
       "account": "citadeldotxyz",
       "sources": [
@@ -2149,6 +2207,64 @@
         }
       ],
       "text": " Orbital orbitaldotinc AI data centers in space Orbital orbitaldotinc AI data centers in space Orbital orbitaldotinc AI data centers in space",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Origo",
+      "account": "origopad",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "发誓要做永赚大师",
+        "蛋总",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "发誓要做永赚大师",
+        "蛋总",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-11-01T16:52:34+00:00",
+      "lastSeen": "2026-11-02T03:04:21+00:00",
+      "description": "Launch tokens with post quantum proof of origin anchored to Bitcoin, Monero, Zcash, and Hyperliquid.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Origo",
+          "account": "origopad",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-01T16:52:34+00:00",
+          "messageId": "dodtwitterbot/39081",
+          "description": "Launch tokens with post quantum proof of origin anchored to Bitcoin, Monero, Zcash, and Hyperliquid.",
+          "text": "Launch tokens with post quantum proof of origin anchored to Bitcoin, Monero, Zcash, and Hyperliquid."
+        },
+        {
+          "source": "TG",
+          "project": "Origo",
+          "account": "origopad",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-02T02:18:40+00:00",
+          "messageId": "dodtwitterbot/39108",
+          "description": "Launch tokens with post quantum proof of origin anchored to Bitcoin, Monero, Zcash, and Hyperliquid.",
+          "text": "Launch tokens with post quantum proof of origin anchored to Bitcoin, Monero, Zcash, and Hyperliquid."
+        },
+        {
+          "source": "TG",
+          "project": "Origo",
+          "account": "origopad",
+          "alpha": "发誓要做永赚大师",
+          "seenAt": "2026-11-02T03:04:21+00:00",
+          "messageId": "dodtwitterbot/39121",
+          "description": "Launch tokens with post quantum proof of origin anchored to Bitcoin, Monero, Zcash, and Hyperliquid.",
+          "text": "Launch tokens with post quantum proof of origin anchored to Bitcoin, Monero, Zcash, and Hyperliquid."
+        }
+      ],
+      "text": " Origo origopad Launch tokens with post quantum proof of origin anchored to Bitcoin, Monero, Zcash, and Hyperliquid. Origo origopad Launch tokens with post quantum proof of origin anchored to Bitcoin, Monero, Zcash, and Hyperliquid. Origo origopad Launch tokens with post quantum proof of origin anchored to Bitcoin, Monero, Zcash, and Hyperliquid.",
       "score": 6,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -4212,6 +4328,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "agenticpad",
+      "account": "agentic_pad",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-02T02:18:40+00:00",
+      "lastSeen": "2026-11-02T02:18:40+00:00",
+      "description": "Launch a token, get an AI agent. It trades, burns & airdrops on its own.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "agenticpad",
+          "account": "agentic_pad",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-02T02:18:40+00:00",
+          "messageId": "dodtwitterbot/39109",
+          "description": "Launch a token, get an AI agent. It trades, burns & airdrops on its own.",
+          "text": "Launch a token, get an AI agent. It trades, burns & airdrops on its own."
+        }
+      ],
+      "text": " agenticpad agentic_pad Launch a token, get an AI agent. It trades, burns & airdrops on its own.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Agora",
       "account": "AgoraElysium",
       "sources": [
@@ -4445,40 +4595,6 @@
         }
       ],
       "text": " Avia Avia_Finance Real aviation cash flows. Onchain yield.",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
-      "project": "BB84",
-      "account": "bb84sh",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "speest 💎"
-      ],
-      "tgAlphas": [
-        "speest 💎"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-01T08:31:46+00:00",
-      "lastSeen": "2026-11-01T08:31:46+00:00",
-      "description": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "BB84",
-          "account": "bb84sh",
-          "alpha": "speest 💎",
-          "seenAt": "2026-11-01T08:31:46+00:00",
-          "messageId": "dodtwitterbot/38933",
-          "description": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
-          "text": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1."
-        }
-      ],
-      "text": " BB84 bb84sh Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -6116,6 +6232,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "LiGuRR",
+      "account": "LigurrNFT",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "speest 💎"
+      ],
+      "tgAlphas": [
+        "speest 💎"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-02T01:18:39+00:00",
+      "lastSeen": "2026-11-02T01:18:39+00:00",
+      "description": "5,000 unique collectible characters ...",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "LiGuRR",
+          "account": "LigurrNFT",
+          "alpha": "speest 💎",
+          "seenAt": "2026-11-02T01:18:39+00:00",
+          "messageId": "dodtwitterbot/39105",
+          "description": "5,000 unique collectible characters ...",
+          "text": "5,000 unique collectible characters ..."
+        }
+      ],
+      "text": " LiGuRR LigurrNFT 5,000 unique collectible characters ...",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Liquidium.WTF | Ordinal & NFT Loans",
       "account": "LiquidiumWTF",
       "sources": [
@@ -6626,40 +6776,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Origo",
-      "account": "origopad",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "蛋总"
-      ],
-      "tgAlphas": [
-        "蛋总"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-01T16:52:34+00:00",
-      "lastSeen": "2026-11-01T16:52:34+00:00",
-      "description": "Launch tokens with post quantum proof of origin anchored to Bitcoin, Monero, Zcash, and Hyperliquid.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Origo",
-          "account": "origopad",
-          "alpha": "蛋总",
-          "seenAt": "2026-11-01T16:52:34+00:00",
-          "messageId": "dodtwitterbot/39081",
-          "description": "Launch tokens with post quantum proof of origin anchored to Bitcoin, Monero, Zcash, and Hyperliquid.",
-          "text": "Launch tokens with post quantum proof of origin anchored to Bitcoin, Monero, Zcash, and Hyperliquid."
-        }
-      ],
-      "text": " Origo origopad Launch tokens with post quantum proof of origin anchored to Bitcoin, Monero, Zcash, and Hyperliquid.",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
       "project": "Pangea",
       "account": "LaunchOnPangea",
       "sources": [
@@ -7063,6 +7179,40 @@
         }
       ],
       "text": " Satsfun Satsfun The launchpad where every coin is paired with BTC. 7 chain : Ethereum, Base, Robinhood, Arbitrum, BNB, Monad and Solana.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Savitha Sameerdas",
+      "account": "SavithaSameer",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "叶子君Foliage ◎ 🔶"
+      ],
+      "tgAlphas": [
+        "叶子君Foliage ◎ 🔶"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-02T02:52:58+00:00",
+      "lastSeen": "2026-11-02T02:52:58+00:00",
+      "description": "AI @coinbase . I tweet about tech. Views my own.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Savitha Sameerdas",
+          "account": "SavithaSameer",
+          "alpha": "叶子君Foliage ◎ 🔶",
+          "seenAt": "2026-11-02T02:52:58+00:00",
+          "messageId": "dodtwitterbot/39116",
+          "description": "AI @coinbase . I tweet about tech. Views my own.",
+          "text": "AI @coinbase . I tweet about tech. Views my own."
+        }
+      ],
+      "text": " Savitha Sameerdas SavithaSameer AI @coinbase . I tweet about tech. Views my own.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -7578,6 +7728,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Synapse",
+      "account": "synapse_launch",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-02T02:18:40+00:00",
+      "lastSeen": "2026-11-02T02:18:40+00:00",
+      "description": "Launch a token on Elysium from a tweet:\n@synapse_launch launch TICKER Name fees to @you + an image\n\nPowered by @elyxa_trade",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Synapse",
+          "account": "synapse_launch",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-02T02:18:40+00:00",
+          "messageId": "dodtwitterbot/39110",
+          "description": "Launch a token on Elysium from a tweet:\n@synapse_launch launch TICKER Name fees to @you + an image\n\nPowered by @elyxa_trade",
+          "text": "Launch a token on Elysium from a tweet:\n@synapse_launch launch TICKER Name fees to @you + an image\n\nPowered by @elyxa_trade"
+        }
+      ],
+      "text": " Synapse synapse_launch Launch a token on Elysium from a tweet:\n@synapse_launch launch TICKER Name fees to @you + an image\n\nPowered by @elyxa_trade",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "t1",
       "account": "t1protocol",
       "sources": [
@@ -7884,6 +8068,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Volition",
+      "account": "Volitionxyz",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "叶子君Foliage ◎ 🔶"
+      ],
+      "tgAlphas": [
+        "叶子君Foliage ◎ 🔶"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-02T05:04:40+00:00",
+      "lastSeen": "2026-11-02T05:04:40+00:00",
+      "description": "An AI-powered launchpad. Where autonomous agents launch, trade, and compete",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Volition",
+          "account": "Volitionxyz",
+          "alpha": "叶子君Foliage ◎ 🔶",
+          "seenAt": "2026-11-02T05:04:40+00:00",
+          "messageId": "dodtwitterbot/39133",
+          "description": "An AI-powered launchpad. Where autonomous agents launch, trade, and compete",
+          "text": "An AI-powered launchpad. Where autonomous agents launch, trade, and compete"
+        }
+      ],
+      "text": " Volition Volitionxyz An AI-powered launchpad. Where autonomous agents launch, trade, and compete",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "w0rld",
       "account": "w0rld_fun",
       "sources": [
@@ -8083,6 +8301,40 @@
         }
       ],
       "text": " 币安人 BiAnRen_AI 第一个支持中文币mint的meme项目",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "火星人Ryan",
+      "account": "bitcoin2themars",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "发誓要做永赚大师"
+      ],
+      "tgAlphas": [
+        "发誓要做永赚大师"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-02T06:39:27+00:00",
+      "lastSeen": "2026-11-02T06:39:27+00:00",
+      "description": "2011 BTC 2015 ETH 2017 BNB 2026 BEM",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "火星人Ryan",
+          "account": "bitcoin2themars",
+          "alpha": "发誓要做永赚大师",
+          "seenAt": "2026-11-02T06:39:27+00:00",
+          "messageId": "dodtwitterbot/39140",
+          "description": "2011 BTC 2015 ETH 2017 BNB 2026 BEM",
+          "text": "2011 BTC 2015 ETH 2017 BNB 2026 BEM"
+        }
+      ],
+      "text": " 火星人Ryan bitcoin2themars 2011 BTC 2015 ETH 2017 BNB 2026 BEM",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -8458,6 +8710,22 @@
       "avatarUrl": ""
     },
     {
+      "project": "BB84",
+      "x_account": "bb84sh",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "speest 💎",
+        "发誓要做永赚大师",
+        "叶子君Foliage ◎ 🔶"
+      ],
+      "description": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
+      "first_seen_utc": "2026-11-01T08:31:46+00:00",
+      "last_seen_utc": "2026-11-02T07:28:22+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
       "project": "Citadel 🌿",
       "x_account": "citadeldotxyz",
       "total_mentions": 3,
@@ -8646,6 +8914,22 @@
       "description": "AI data centers in space",
       "first_seen_utc": "2026-10-28T18:36:20+00:00",
       "last_seen_utc": "2026-10-28T23:07:00+08:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Origo",
+      "x_account": "origopad",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "发誓要做永赚大师",
+        "蛋总",
+        "阿宏"
+      ],
+      "description": "Launch tokens with post quantum proof of origin anchored to Bitcoin, Monero, Zcash, and Hyperliquid.",
+      "first_seen_utc": "2026-11-01T16:52:34+00:00",
+      "last_seen_utc": "2026-11-02T03:04:21+00:00",
       "status": "priority",
       "avatarUrl": ""
     },
@@ -9324,6 +9608,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "agenticpad",
+      "x_account": "agentic_pad",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "阿宏"
+      ],
+      "description": "Launch a token, get an AI agent. It trades, burns & airdrops on its own.",
+      "first_seen_utc": "2026-11-02T02:18:40+00:00",
+      "last_seen_utc": "2026-11-02T02:18:40+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Agora",
       "x_account": "AgoraElysium",
       "total_mentions": 1,
@@ -9418,20 +9716,6 @@
       "description": "Real aviation cash flows. Onchain yield.",
       "first_seen_utc": "2026-10-29T12:01:05+00:00",
       "last_seen_utc": "2026-10-29T12:01:05+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "BB84",
-      "x_account": "bb84sh",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "speest 💎"
-      ],
-      "description": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
-      "first_seen_utc": "2026-11-01T08:31:46+00:00",
-      "last_seen_utc": "2026-11-01T08:31:46+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -10108,6 +10392,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "LiGuRR",
+      "x_account": "LigurrNFT",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "speest 💎"
+      ],
+      "description": "5,000 unique collectible characters ...",
+      "first_seen_utc": "2026-11-02T01:18:39+00:00",
+      "last_seen_utc": "2026-11-02T01:18:39+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Liquidium.WTF | Ordinal & NFT Loans",
       "x_account": "LiquidiumWTF",
       "total_mentions": 1,
@@ -10318,20 +10616,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Origo",
-      "x_account": "origopad",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "蛋总"
-      ],
-      "description": "Launch tokens with post quantum proof of origin anchored to Bitcoin, Monero, Zcash, and Hyperliquid.",
-      "first_seen_utc": "2026-11-01T16:52:34+00:00",
-      "last_seen_utc": "2026-11-01T16:52:34+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "Pangea",
       "x_account": "LaunchOnPangea",
       "total_mentions": 1,
@@ -10496,6 +10780,20 @@
       "description": "The launchpad where every coin is paired with BTC. 7 chain : Ethereum, Base, Robinhood, Arbitrum, BNB, Monad and Solana.",
       "first_seen_utc": "2026-10-28T22:34:00+08:00",
       "last_seen_utc": "2026-10-28T22:34:00+08:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Savitha Sameerdas",
+      "x_account": "SavithaSameer",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "叶子君Foliage ◎ 🔶"
+      ],
+      "description": "AI @coinbase . I tweet about tech. Views my own.",
+      "first_seen_utc": "2026-11-02T02:52:58+00:00",
+      "last_seen_utc": "2026-11-02T02:52:58+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -10710,6 +11008,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Synapse",
+      "x_account": "synapse_launch",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "阿宏"
+      ],
+      "description": "Launch a token on Elysium from a tweet:\n@synapse_launch launch TICKER Name fees to @you + an image\n\nPowered by @elyxa_trade",
+      "first_seen_utc": "2026-11-02T02:18:40+00:00",
+      "last_seen_utc": "2026-11-02T02:18:40+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "t1",
       "x_account": "t1protocol",
       "total_mentions": 1,
@@ -10836,6 +11148,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Volition",
+      "x_account": "Volitionxyz",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "叶子君Foliage ◎ 🔶"
+      ],
+      "description": "An AI-powered launchpad. Where autonomous agents launch, trade, and compete",
+      "first_seen_utc": "2026-11-02T05:04:40+00:00",
+      "last_seen_utc": "2026-11-02T05:04:40+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "w0rld",
       "x_account": "w0rld_fun",
       "total_mentions": 1,
@@ -10920,6 +11246,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "火星人Ryan",
+      "x_account": "bitcoin2themars",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "发誓要做永赚大师"
+      ],
+      "description": "2011 BTC 2015 ETH 2017 BNB 2026 BEM",
+      "first_seen_utc": "2026-11-02T06:39:27+00:00",
+      "last_seen_utc": "2026-11-02T06:39:27+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "羊羊羊",
       "x_account": "encryptjustice",
       "total_mentions": 1,
@@ -10937,13 +11277,13 @@
   "daily": [
     {
       "date": "2026-11-02",
-      "totalRows": 20,
-      "projectCount": 16,
-      "focusCount": 2,
-      "candidateCount": 14,
+      "totalRows": 30,
+      "projectCount": 23,
+      "focusCount": 4,
+      "candidateCount": 19,
       "crossSource": 0,
-      "newCount": 10,
-      "repeatCount": 6,
+      "newCount": 16,
+      "repeatCount": 7,
       "projects": [
         {
           "project": "eleos",
@@ -11017,6 +11357,112 @@
           "dayStatus": "repeat"
         },
         {
+          "project": "Origo",
+          "account": "origopad",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "发誓要做永赚大师",
+            "蛋总",
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "发誓要做永赚大师",
+            "蛋总",
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 3,
+          "firstSeen": "2026-11-01T16:52:34+00:00",
+          "lastSeen": "2026-11-02T03:04:21+00:00",
+          "description": "Launch tokens with post quantum proof of origin anchored to Bitcoin, Monero, Zcash, and Hyperliquid.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Origo",
+              "account": "origopad",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-01T16:52:34+00:00",
+              "messageId": "dodtwitterbot/39081",
+              "description": "Launch tokens with post quantum proof of origin anchored to Bitcoin, Monero, Zcash, and Hyperliquid.",
+              "text": "Launch tokens with post quantum proof of origin anchored to Bitcoin, Monero, Zcash, and Hyperliquid."
+            },
+            {
+              "source": "TG",
+              "project": "Origo",
+              "account": "origopad",
+              "alpha": "阿宏",
+              "seenAt": "2026-11-02T02:18:40+00:00",
+              "messageId": "dodtwitterbot/39108",
+              "description": "Launch tokens with post quantum proof of origin anchored to Bitcoin, Monero, Zcash, and Hyperliquid.",
+              "text": "Launch tokens with post quantum proof of origin anchored to Bitcoin, Monero, Zcash, and Hyperliquid."
+            },
+            {
+              "source": "TG",
+              "project": "Origo",
+              "account": "origopad",
+              "alpha": "发誓要做永赚大师",
+              "seenAt": "2026-11-02T03:04:21+00:00",
+              "messageId": "dodtwitterbot/39121",
+              "description": "Launch tokens with post quantum proof of origin anchored to Bitcoin, Monero, Zcash, and Hyperliquid.",
+              "text": "Launch tokens with post quantum proof of origin anchored to Bitcoin, Monero, Zcash, and Hyperliquid."
+            }
+          ],
+          "text": " Origo origopad Launch tokens with post quantum proof of origin anchored to Bitcoin, Monero, Zcash, and Hyperliquid. Origo origopad Launch tokens with post quantum proof of origin anchored to Bitcoin, Monero, Zcash, and Hyperliquid. Origo origopad Launch tokens with post quantum proof of origin anchored to Bitcoin, Monero, Zcash, and Hyperliquid.",
+          "score": 6,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "BB84",
+          "account": "bb84sh",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "发誓要做永赚大师",
+            "叶子君Foliage ◎ 🔶"
+          ],
+          "tgAlphas": [
+            "发誓要做永赚大师",
+            "叶子君Foliage ◎ 🔶"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-11-02T02:34:32+00:00",
+          "lastSeen": "2026-11-02T07:28:22+00:00",
+          "description": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "BB84",
+              "account": "bb84sh",
+              "alpha": "叶子君Foliage ◎ 🔶",
+              "seenAt": "2026-11-02T02:34:32+00:00",
+              "messageId": "dodtwitterbot/39114",
+              "description": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
+              "text": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1."
+            },
+            {
+              "source": "TG",
+              "project": "BB84",
+              "account": "bb84sh",
+              "alpha": "发誓要做永赚大师",
+              "seenAt": "2026-11-02T07:28:22+00:00",
+              "messageId": "dodtwitterbot/39153",
+              "description": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
+              "text": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1."
+            }
+          ],
+          "text": " BB84 bb84sh Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1. BB84 bb84sh Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
           "project": "hypecurve",
           "account": "thehypecurve",
           "sources": [
@@ -11060,6 +11506,41 @@
           "text": " hypecurve thehypecurve a reflexive economic architecture built on HYPE mechanics, bending market activity into autonomous execution and supply decay. hypecurve thehypecurve a reflexive economic architecture built on HYPE mechanics, bending market activity into autonomous execution and supply decay.",
           "score": 4,
           "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "agenticpad",
+          "account": "agentic_pad",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-02T02:18:40+00:00",
+          "lastSeen": "2026-11-02T02:18:40+00:00",
+          "description": "Launch a token, get an AI agent. It trades, burns & airdrops on its own.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "agenticpad",
+              "account": "agentic_pad",
+              "alpha": "阿宏",
+              "seenAt": "2026-11-02T02:18:40+00:00",
+              "messageId": "dodtwitterbot/39109",
+              "description": "Launch a token, get an AI agent. It trades, burns & airdrops on its own.",
+              "text": "Launch a token, get an AI agent. It trades, burns & airdrops on its own."
+            }
+          ],
+          "text": " agenticpad agentic_pad Launch a token, get an AI agent. It trades, burns & airdrops on its own.",
+          "score": 2,
+          "displayTier": "candidate",
           "avatarUrl": "",
           "dayStatus": "new"
         },
@@ -11414,6 +11895,41 @@
           "dayStatus": "new"
         },
         {
+          "project": "LiGuRR",
+          "account": "LigurrNFT",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "speest 💎"
+          ],
+          "tgAlphas": [
+            "speest 💎"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-02T01:18:39+00:00",
+          "lastSeen": "2026-11-02T01:18:39+00:00",
+          "description": "5,000 unique collectible characters ...",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "LiGuRR",
+              "account": "LigurrNFT",
+              "alpha": "speest 💎",
+              "seenAt": "2026-11-02T01:18:39+00:00",
+              "messageId": "dodtwitterbot/39105",
+              "description": "5,000 unique collectible characters ...",
+              "text": "5,000 unique collectible characters ..."
+            }
+          ],
+          "text": " LiGuRR LigurrNFT 5,000 unique collectible characters ...",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
           "project": "Magnus",
           "account": "0xmagnus",
           "sources": [
@@ -11484,35 +12000,35 @@
           "dayStatus": "new"
         },
         {
-          "project": "Origo",
-          "account": "origopad",
+          "project": "Savitha Sameerdas",
+          "account": "SavithaSameer",
           "sources": [
             "TG"
           ],
           "alphas": [
-            "蛋总"
+            "叶子君Foliage ◎ 🔶"
           ],
           "tgAlphas": [
-            "蛋总"
+            "叶子君Foliage ◎ 🔶"
           ],
           "xAlphas": [],
           "mentions": 1,
-          "firstSeen": "2026-11-01T16:52:34+00:00",
-          "lastSeen": "2026-11-01T16:52:34+00:00",
-          "description": "Launch tokens with post quantum proof of origin anchored to Bitcoin, Monero, Zcash, and Hyperliquid.",
+          "firstSeen": "2026-11-02T02:52:58+00:00",
+          "lastSeen": "2026-11-02T02:52:58+00:00",
+          "description": "AI @coinbase . I tweet about tech. Views my own.",
           "rows": [
             {
               "source": "TG",
-              "project": "Origo",
-              "account": "origopad",
-              "alpha": "蛋总",
-              "seenAt": "2026-11-01T16:52:34+00:00",
-              "messageId": "dodtwitterbot/39081",
-              "description": "Launch tokens with post quantum proof of origin anchored to Bitcoin, Monero, Zcash, and Hyperliquid.",
-              "text": "Launch tokens with post quantum proof of origin anchored to Bitcoin, Monero, Zcash, and Hyperliquid."
+              "project": "Savitha Sameerdas",
+              "account": "SavithaSameer",
+              "alpha": "叶子君Foliage ◎ 🔶",
+              "seenAt": "2026-11-02T02:52:58+00:00",
+              "messageId": "dodtwitterbot/39116",
+              "description": "AI @coinbase . I tweet about tech. Views my own.",
+              "text": "AI @coinbase . I tweet about tech. Views my own."
             }
           ],
-          "text": " Origo origopad Launch tokens with post quantum proof of origin anchored to Bitcoin, Monero, Zcash, and Hyperliquid.",
+          "text": " Savitha Sameerdas SavithaSameer AI @coinbase . I tweet about tech. Views my own.",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -11548,6 +12064,111 @@
             }
           ],
           "text": " Styxn Terminal StyxnTerminal the home of memecoins on Elysium.\n\nlaunch tokens. trade faster. rule the trenches.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Synapse",
+          "account": "synapse_launch",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-02T02:18:40+00:00",
+          "lastSeen": "2026-11-02T02:18:40+00:00",
+          "description": "Launch a token on Elysium from a tweet:\n@synapse_launch launch TICKER Name fees to @you + an image\n\nPowered by @elyxa_trade",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Synapse",
+              "account": "synapse_launch",
+              "alpha": "阿宏",
+              "seenAt": "2026-11-02T02:18:40+00:00",
+              "messageId": "dodtwitterbot/39110",
+              "description": "Launch a token on Elysium from a tweet:\n@synapse_launch launch TICKER Name fees to @you + an image\n\nPowered by @elyxa_trade",
+              "text": "Launch a token on Elysium from a tweet:\n@synapse_launch launch TICKER Name fees to @you + an image\n\nPowered by @elyxa_trade"
+            }
+          ],
+          "text": " Synapse synapse_launch Launch a token on Elysium from a tweet:\n@synapse_launch launch TICKER Name fees to @you + an image\n\nPowered by @elyxa_trade",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Volition",
+          "account": "Volitionxyz",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "叶子君Foliage ◎ 🔶"
+          ],
+          "tgAlphas": [
+            "叶子君Foliage ◎ 🔶"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-02T05:04:40+00:00",
+          "lastSeen": "2026-11-02T05:04:40+00:00",
+          "description": "An AI-powered launchpad. Where autonomous agents launch, trade, and compete",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Volition",
+              "account": "Volitionxyz",
+              "alpha": "叶子君Foliage ◎ 🔶",
+              "seenAt": "2026-11-02T05:04:40+00:00",
+              "messageId": "dodtwitterbot/39133",
+              "description": "An AI-powered launchpad. Where autonomous agents launch, trade, and compete",
+              "text": "An AI-powered launchpad. Where autonomous agents launch, trade, and compete"
+            }
+          ],
+          "text": " Volition Volitionxyz An AI-powered launchpad. Where autonomous agents launch, trade, and compete",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "火星人Ryan",
+          "account": "bitcoin2themars",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "发誓要做永赚大师"
+          ],
+          "tgAlphas": [
+            "发誓要做永赚大师"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-02T06:39:27+00:00",
+          "lastSeen": "2026-11-02T06:39:27+00:00",
+          "description": "2011 BTC 2015 ETH 2017 BNB 2026 BEM",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "火星人Ryan",
+              "account": "bitcoin2themars",
+              "alpha": "发誓要做永赚大师",
+              "seenAt": "2026-11-02T06:39:27+00:00",
+              "messageId": "dodtwitterbot/39140",
+              "description": "2011 BTC 2015 ETH 2017 BNB 2026 BEM",
+              "text": "2011 BTC 2015 ETH 2017 BNB 2026 BEM"
+            }
+          ],
+          "text": " 火星人Ryan bitcoin2themars 2011 BTC 2015 ETH 2017 BNB 2026 BEM",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -20568,104 +21189,109 @@
   ],
   "reports": [
     {
+      "file": "2026-11-02-0826-telegram-update.md",
+      "title": "2026-11-02-0826-telegram-update",
+      "updatedAt": "2026-11-02T08:26:17.413Z"
+    },
+    {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-02T01:04:21.392Z"
+      "updatedAt": "2026-11-02T08:26:14.344Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-02T01:04:19.257Z"
+      "updatedAt": "2026-11-02T08:26:14.344Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-02T01:04:19.257Z"
+      "updatedAt": "2026-11-02T08:26:14.344Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-02T01:04:19.257Z"
+      "updatedAt": "2026-11-02T08:26:14.344Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-02T01:04:19.256Z"
+      "updatedAt": "2026-11-02T08:26:14.344Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-02T01:04:19.256Z"
+      "updatedAt": "2026-11-02T08:26:14.344Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-02T01:04:19.256Z"
+      "updatedAt": "2026-11-02T08:26:14.344Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-02T01:04:19.256Z"
+      "updatedAt": "2026-11-02T08:26:14.344Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-02T01:04:19.256Z"
+      "updatedAt": "2026-11-02T08:26:14.344Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-02T01:04:19.256Z"
+      "updatedAt": "2026-11-02T08:26:14.344Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-02T01:04:19.256Z"
+      "updatedAt": "2026-11-02T08:26:14.344Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-02T01:04:19.256Z"
+      "updatedAt": "2026-11-02T08:26:14.344Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-02T01:04:19.256Z"
+      "updatedAt": "2026-11-02T08:26:14.344Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-02T01:04:19.256Z"
+      "updatedAt": "2026-11-02T08:26:14.344Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-02T01:04:19.256Z"
+      "updatedAt": "2026-11-02T08:26:14.344Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-02T01:04:19.256Z"
+      "updatedAt": "2026-11-02T08:26:14.344Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-02T01:04:19.256Z"
+      "updatedAt": "2026-11-02T08:26:14.344Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-02T01:04:19.256Z"
+      "updatedAt": "2026-11-02T08:26:14.344Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-02T01:04:19.256Z"
+      "updatedAt": "2026-11-02T08:26:14.344Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-02T01:04:19.256Z"
+      "updatedAt": "2026-11-02T08:26:14.343Z"
     }
   ]
 }
