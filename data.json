@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-01T21:23:32.339Z",
+  "generatedAt": "2026-11-02T01:04:21.527Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 39102,
-    "lastMessageAt": "2026-11-01T21:11:26+00:00",
-    "lastCheckedAt": "2026-11-01T21:23:32.192Z",
-    "previousMessageId": 39068,
-    "pagesRead": 2,
-    "messagesRead": 34,
-    "newProjectRecords": 19,
+    "lastMessageId": 39104,
+    "lastMessageAt": "2026-11-01T23:20:58+00:00",
+    "lastCheckedAt": "2026-11-02T01:04:21.392Z",
+    "previousMessageId": 39102,
+    "pagesRead": 1,
+    "messagesRead": 2,
+    "newProjectRecords": 1,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 324,
+    "telegramRows": 325,
     "xRows": 0,
-    "projects": 190,
+    "projects": 191,
     "crossSource": 0
   },
   "projects": [
@@ -5708,6 +5708,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Helios",
+      "account": "heliosliq",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "CSR"
+      ],
+      "tgAlphas": [
+        "CSR"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-01T21:49:30+00:00",
+      "lastSeen": "2026-11-01T21:49:30+00:00",
+      "description": "Liquidity Management made easy on Elysium.\n\nCreate and manage concentrated liquidity positions all in one spot.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Helios",
+          "account": "heliosliq",
+          "alpha": "CSR",
+          "seenAt": "2026-11-01T21:49:30+00:00",
+          "messageId": "dodtwitterbot/39103",
+          "description": "Liquidity Management made easy on Elysium.\n\nCreate and manage concentrated liquidity positions all in one spot.",
+          "text": "Liquidity Management made easy on Elysium.\n\nCreate and manage concentrated liquidity positions all in one spot."
+        }
+      ],
+      "text": " Helios heliosliq Liquidity Management made easy on Elysium.\n\nCreate and manage concentrated liquidity positions all in one spot.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Homer",
       "account": "homer_fi",
       "sources": [
@@ -9906,6 +9940,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Helios",
+      "x_account": "heliosliq",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "CSR"
+      ],
+      "description": "Liquidity Management made easy on Elysium.\n\nCreate and manage concentrated liquidity positions all in one spot.",
+      "first_seen_utc": "2026-11-01T21:49:30+00:00",
+      "last_seen_utc": "2026-11-01T21:49:30+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Homer",
       "x_account": "homer_fi",
       "total_mentions": 1,
@@ -10889,12 +10937,12 @@
   "daily": [
     {
       "date": "2026-11-02",
-      "totalRows": 19,
-      "projectCount": 15,
+      "totalRows": 20,
+      "projectCount": 16,
       "focusCount": 2,
-      "candidateCount": 13,
+      "candidateCount": 14,
       "crossSource": 0,
-      "newCount": 9,
+      "newCount": 10,
       "repeatCount": 6,
       "projects": [
         {
@@ -11255,6 +11303,41 @@
             }
           ],
           "text": " Goldsky ☀️ goldskyio The fastest, most scalable blockchain indexing – secretly powering the products you use. Processing 100M+ events/min, from weekend projects to enterprise ⛓️",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Helios",
+          "account": "heliosliq",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "CSR"
+          ],
+          "tgAlphas": [
+            "CSR"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-01T21:49:30+00:00",
+          "lastSeen": "2026-11-01T21:49:30+00:00",
+          "description": "Liquidity Management made easy on Elysium.\n\nCreate and manage concentrated liquidity positions all in one spot.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Helios",
+              "account": "heliosliq",
+              "alpha": "CSR",
+              "seenAt": "2026-11-01T21:49:30+00:00",
+              "messageId": "dodtwitterbot/39103",
+              "description": "Liquidity Management made easy on Elysium.\n\nCreate and manage concentrated liquidity positions all in one spot.",
+              "text": "Liquidity Management made easy on Elysium.\n\nCreate and manage concentrated liquidity positions all in one spot."
+            }
+          ],
+          "text": " Helios heliosliq Liquidity Management made easy on Elysium.\n\nCreate and manage concentrated liquidity positions all in one spot.",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -20485,99 +20568,104 @@
   ],
   "reports": [
     {
+      "file": "2026-11-02-0104-telegram-update.md",
+      "title": "2026-11-02-0104-telegram-update",
+      "updatedAt": "2026-11-02T01:04:21.392Z"
+    },
+    {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-01T21:23:32.190Z"
+      "updatedAt": "2026-11-02T01:04:19.257Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-01T21:23:29.941Z"
+      "updatedAt": "2026-11-02T01:04:19.257Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-01T21:23:29.941Z"
+      "updatedAt": "2026-11-02T01:04:19.257Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-01T21:23:29.941Z"
+      "updatedAt": "2026-11-02T01:04:19.256Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-01T21:23:29.941Z"
+      "updatedAt": "2026-11-02T01:04:19.256Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-01T21:23:29.941Z"
+      "updatedAt": "2026-11-02T01:04:19.256Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-01T21:23:29.941Z"
+      "updatedAt": "2026-11-02T01:04:19.256Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-01T21:23:29.941Z"
+      "updatedAt": "2026-11-02T01:04:19.256Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-01T21:23:29.941Z"
+      "updatedAt": "2026-11-02T01:04:19.256Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-01T21:23:29.941Z"
+      "updatedAt": "2026-11-02T01:04:19.256Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-01T21:23:29.941Z"
+      "updatedAt": "2026-11-02T01:04:19.256Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-01T21:23:29.941Z"
+      "updatedAt": "2026-11-02T01:04:19.256Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-01T21:23:29.941Z"
+      "updatedAt": "2026-11-02T01:04:19.256Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-01T21:23:29.941Z"
+      "updatedAt": "2026-11-02T01:04:19.256Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-01T21:23:29.941Z"
+      "updatedAt": "2026-11-02T01:04:19.256Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-01T21:23:29.941Z"
+      "updatedAt": "2026-11-02T01:04:19.256Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-01T21:23:29.941Z"
+      "updatedAt": "2026-11-02T01:04:19.256Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-01T21:23:29.941Z"
+      "updatedAt": "2026-11-02T01:04:19.256Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-01T21:23:29.940Z"
+      "updatedAt": "2026-11-02T01:04:19.256Z"
     }
   ]
 }
