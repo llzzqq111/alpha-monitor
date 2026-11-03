@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-03T03:06:35.618Z",
+  "generatedAt": "2026-11-03T13:02:32.304Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 39359,
-    "lastMessageAt": "2026-11-03T03:01:42+00:00",
-    "lastCheckedAt": "2026-11-03T03:06:35.457Z",
-    "previousMessageId": 39327,
-    "pagesRead": 2,
-    "messagesRead": 32,
-    "newProjectRecords": 6,
+    "lastMessageId": 39425,
+    "lastMessageAt": "2026-11-03T12:54:22+00:00",
+    "lastCheckedAt": "2026-11-03T13:02:32.150Z",
+    "previousMessageId": 39359,
+    "pagesRead": 4,
+    "messagesRead": 66,
+    "newProjectRecords": 13,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 403,
+    "telegramRows": 416,
     "xRows": 0,
-    "projects": 240,
+    "projects": 247,
     "crossSource": 0
   },
   "projects": [
@@ -228,6 +228,100 @@
       ],
       "text": " Torus TorusFi Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium . Torus TorusFi Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium . Torus TorusFi Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium . Torus TorusFi Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium . Torus TorusFi Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium. Torus TorusFi Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium. Torus TorusFi Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium.",
       "score": 14,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Ascend",
+      "account": "AscendLaunch",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "CSR",
+        "Mutu",
+        "flaxsed",
+        "speest",
+        "叶子君Foliage ◎ 🔶",
+        "黑客fa1r"
+      ],
+      "tgAlphas": [
+        "CSR",
+        "Mutu",
+        "flaxsed",
+        "speest",
+        "叶子君Foliage ◎ 🔶",
+        "黑客fa1r"
+      ],
+      "xAlphas": [],
+      "mentions": 6,
+      "firstSeen": "2026-10-28T21:55:00+08:00",
+      "lastSeen": "2026-11-03T05:37:19+00:00",
+      "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Ascend",
+          "account": "AscendLaunch",
+          "alpha": "叶子君Foliage ◎ 🔶",
+          "seenAt": "2026-10-29T05:15:48+00:00",
+          "messageId": "dodtwitterbot/38389",
+          "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
+          "text": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects"
+        },
+        {
+          "source": "TG",
+          "project": "Ascend",
+          "account": "AscendLaunch",
+          "alpha": "flaxsed",
+          "seenAt": "2026-10-29T18:02:31+00:00",
+          "messageId": "dodtwitterbot/38564",
+          "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
+          "text": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects"
+        },
+        {
+          "source": "TG",
+          "project": "Ascend",
+          "account": "AscendLaunch",
+          "alpha": "黑客fa1r",
+          "seenAt": "2026-11-01T12:09:05+00:00",
+          "messageId": "dodtwitterbot/39004",
+          "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
+          "text": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects"
+        },
+        {
+          "source": "TG",
+          "project": "Ascend",
+          "account": "AscendLaunch",
+          "alpha": "CSR",
+          "seenAt": "2026-11-03T05:37:19+00:00",
+          "messageId": "dodtwitterbot/39373",
+          "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
+          "text": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects"
+        },
+        {
+          "source": "TG",
+          "project": "Ascend",
+          "account": "AscendLaunch",
+          "alpha": "Mutu",
+          "seenAt": "2026-10-28T21:55:00+08:00",
+          "messageId": "dodtwitterbot/38251",
+          "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
+          "text": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects"
+        },
+        {
+          "source": "TG",
+          "project": "Ascend",
+          "account": "AscendLaunch",
+          "alpha": "speest",
+          "seenAt": "2026-10-28T22:19:00+08:00",
+          "messageId": "dodtwitterbot/38257",
+          "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
+          "text": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects"
+        }
+      ],
+      "text": " Ascend AscendLaunch Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects Ascend AscendLaunch Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects Ascend AscendLaunch Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects Ascend AscendLaunch Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects Ascend AscendLaunch Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects Ascend AscendLaunch Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
+      "score": 12,
       "displayTier": "focus",
       "avatarUrl": ""
     },
@@ -608,83 +702,83 @@
       "avatarUrl": ""
     },
     {
-      "project": "Ascend",
-      "account": "AscendLaunch",
+      "project": "BB84",
+      "account": "bb84sh",
       "sources": [
         "TG"
       ],
       "alphas": [
-        "Mutu",
-        "flaxsed",
-        "speest",
+        "A佬",
+        "speest 💎",
+        "发誓要做永赚大师",
         "叶子君Foliage ◎ 🔶",
-        "黑客fa1r"
+        "阿宏"
       ],
       "tgAlphas": [
-        "Mutu",
-        "flaxsed",
-        "speest",
+        "A佬",
+        "speest 💎",
+        "发誓要做永赚大师",
         "叶子君Foliage ◎ 🔶",
-        "黑客fa1r"
+        "阿宏"
       ],
       "xAlphas": [],
       "mentions": 5,
-      "firstSeen": "2026-10-28T21:55:00+08:00",
-      "lastSeen": "2026-11-01T12:09:05+00:00",
-      "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
+      "firstSeen": "2026-11-01T08:31:46+00:00",
+      "lastSeen": "2026-11-03T09:46:47+00:00",
+      "description": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
       "rows": [
         {
           "source": "TG",
-          "project": "Ascend",
-          "account": "AscendLaunch",
+          "project": "BB84",
+          "account": "bb84sh",
+          "alpha": "speest 💎",
+          "seenAt": "2026-11-01T08:31:46+00:00",
+          "messageId": "dodtwitterbot/38933",
+          "description": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
+          "text": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1."
+        },
+        {
+          "source": "TG",
+          "project": "BB84",
+          "account": "bb84sh",
           "alpha": "叶子君Foliage ◎ 🔶",
-          "seenAt": "2026-10-29T05:15:48+00:00",
-          "messageId": "dodtwitterbot/38389",
-          "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
-          "text": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects"
+          "seenAt": "2026-11-02T02:34:32+00:00",
+          "messageId": "dodtwitterbot/39114",
+          "description": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
+          "text": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1."
         },
         {
           "source": "TG",
-          "project": "Ascend",
-          "account": "AscendLaunch",
-          "alpha": "flaxsed",
-          "seenAt": "2026-10-29T18:02:31+00:00",
-          "messageId": "dodtwitterbot/38564",
-          "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
-          "text": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects"
+          "project": "BB84",
+          "account": "bb84sh",
+          "alpha": "发誓要做永赚大师",
+          "seenAt": "2026-11-02T07:28:22+00:00",
+          "messageId": "dodtwitterbot/39153",
+          "description": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
+          "text": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1."
         },
         {
           "source": "TG",
-          "project": "Ascend",
-          "account": "AscendLaunch",
-          "alpha": "黑客fa1r",
-          "seenAt": "2026-11-01T12:09:05+00:00",
-          "messageId": "dodtwitterbot/39004",
-          "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
-          "text": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects"
+          "project": "BB84",
+          "account": "bb84sh",
+          "alpha": "A佬",
+          "seenAt": "2026-11-02T10:48:11+00:00",
+          "messageId": "dodtwitterbot/39189",
+          "description": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
+          "text": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1."
         },
         {
           "source": "TG",
-          "project": "Ascend",
-          "account": "AscendLaunch",
-          "alpha": "Mutu",
-          "seenAt": "2026-10-28T21:55:00+08:00",
-          "messageId": "dodtwitterbot/38251",
-          "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
-          "text": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects"
-        },
-        {
-          "source": "TG",
-          "project": "Ascend",
-          "account": "AscendLaunch",
-          "alpha": "speest",
-          "seenAt": "2026-10-28T22:19:00+08:00",
-          "messageId": "dodtwitterbot/38257",
-          "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
-          "text": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects"
+          "project": "BB84",
+          "account": "bb84sh",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-03T09:46:47+00:00",
+          "messageId": "dodtwitterbot/39401",
+          "description": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
+          "text": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1."
         }
       ],
-      "text": " Ascend AscendLaunch Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects Ascend AscendLaunch Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects Ascend AscendLaunch Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects Ascend AscendLaunch Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects Ascend AscendLaunch Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
+      "text": " BB84 bb84sh Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1. BB84 bb84sh Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1. BB84 bb84sh Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1. BB84 bb84sh Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1. BB84 bb84sh Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
       "score": 10,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -919,76 +1013,6 @@
         }
       ],
       "text": " ALT L2 AltL2fun The first meme launchpad for Hyperliquid L2. Elysium on the way @Enter_Elysium ALT L2 AltL2fun The first meme launchpad for Hyperliquid L2. Elysium on the way @Enter_Elysium ALT L2 AltL2fun The first meme launchpad for Hyperliquid L2. Elysium on the way @Enter_Elysium ALT L2 AltL2fun The first meme launchpad for Hyperliquid L2. Elysium on the way @Enter_Elysium",
-      "score": 8,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
-      "project": "BB84",
-      "account": "bb84sh",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "A佬",
-        "speest 💎",
-        "发誓要做永赚大师",
-        "叶子君Foliage ◎ 🔶"
-      ],
-      "tgAlphas": [
-        "A佬",
-        "speest 💎",
-        "发誓要做永赚大师",
-        "叶子君Foliage ◎ 🔶"
-      ],
-      "xAlphas": [],
-      "mentions": 4,
-      "firstSeen": "2026-11-01T08:31:46+00:00",
-      "lastSeen": "2026-11-02T10:48:11+00:00",
-      "description": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "BB84",
-          "account": "bb84sh",
-          "alpha": "speest 💎",
-          "seenAt": "2026-11-01T08:31:46+00:00",
-          "messageId": "dodtwitterbot/38933",
-          "description": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
-          "text": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1."
-        },
-        {
-          "source": "TG",
-          "project": "BB84",
-          "account": "bb84sh",
-          "alpha": "叶子君Foliage ◎ 🔶",
-          "seenAt": "2026-11-02T02:34:32+00:00",
-          "messageId": "dodtwitterbot/39114",
-          "description": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
-          "text": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1."
-        },
-        {
-          "source": "TG",
-          "project": "BB84",
-          "account": "bb84sh",
-          "alpha": "发誓要做永赚大师",
-          "seenAt": "2026-11-02T07:28:22+00:00",
-          "messageId": "dodtwitterbot/39153",
-          "description": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
-          "text": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1."
-        },
-        {
-          "source": "TG",
-          "project": "BB84",
-          "account": "bb84sh",
-          "alpha": "A佬",
-          "seenAt": "2026-11-02T10:48:11+00:00",
-          "messageId": "dodtwitterbot/39189",
-          "description": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
-          "text": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1."
-        }
-      ],
-      "text": " BB84 bb84sh Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1. BB84 bb84sh Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1. BB84 bb84sh Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1. BB84 bb84sh Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
       "score": 8,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -2968,6 +2992,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "AGI",
+      "account": "AgentIdETH",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "发誓要做永赚大师",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "发誓要做永赚大师",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-03T08:27:25+00:00",
+      "lastSeen": "2026-11-03T08:38:38+00:00",
+      "description": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "AGI",
+          "account": "AgentIdETH",
+          "alpha": "发誓要做永赚大师",
+          "seenAt": "2026-11-03T08:27:25+00:00",
+          "messageId": "dodtwitterbot/39392",
+          "description": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy.",
+          "text": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy."
+        },
+        {
+          "source": "TG",
+          "project": "AGI",
+          "account": "AgentIdETH",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-03T08:38:38+00:00",
+          "messageId": "dodtwitterbot/39396",
+          "description": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy.",
+          "text": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy."
+        }
+      ],
+      "text": " AGI AgentIdETH Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy. AGI AgentIdETH Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "arkhampad",
       "account": "arkhampad",
       "sources": [
@@ -3653,6 +3723,52 @@
         }
       ],
       "text": " Ericonomic ericonomic hl bulltard // cooking @ @kinetiq_xyz @markets_xyz // @0xbloquegenesis Ericonomic ericonomic hl bulltard // cooking @ @kinetiq_xyz @markets_xyz // @0xbloquegenesis",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "FishingAI",
+      "account": "FishingAiBSC",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "zyy",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "zyy",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-02T13:15:47+00:00",
+      "lastSeen": "2026-11-03T11:30:09+00:00",
+      "description": "你睡觉，你的 agent 在钓鱼 🎣 BSC 链上钓鱼游戏，持 .ai Agent ID 就能玩。\nYou sleep, your agent fishes. An on-chain fishing game on BSC for .ai Agent ID holders.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "FishingAI",
+          "account": "FishingAiBSC",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-02T13:15:47+00:00",
+          "messageId": "dodtwitterbot/39267",
+          "description": "你睡觉，你的 agent 在钓鱼 🎣 BSC 链上钓鱼游戏，持 .ai Agent ID 就能玩。\nYou sleep, your agent fishes. An on-chain fishing game on BSC for .ai Agent ID holders.",
+          "text": "你睡觉，你的 agent 在钓鱼 🎣 BSC 链上钓鱼游戏，持 .ai Agent ID 就能玩。\nYou sleep, your agent fishes. An on-chain fishing game on BSC for .ai Agent ID holders."
+        },
+        {
+          "source": "TG",
+          "project": "FishingAI",
+          "account": "FishingAiBSC",
+          "alpha": "zyy",
+          "seenAt": "2026-11-03T11:30:09+00:00",
+          "messageId": "dodtwitterbot/39414",
+          "description": "你睡觉，你的 agent 在钓鱼 🎣 BSC 链上钓鱼游戏，持 .ai Agent ID 就能玩。\nYou sleep, your agent fishes. An on-chain fishing game on BSC for .ai Agent ID holders.",
+          "text": "你睡觉，你的 agent 在钓鱼 🎣 BSC 链上钓鱼游戏，持 .ai Agent ID 就能玩。\nYou sleep, your agent fishes. An on-chain fishing game on BSC for .ai Agent ID holders."
+        }
+      ],
+      "text": " FishingAI FishingAiBSC 你睡觉，你的 agent 在钓鱼 🎣 BSC 链上钓鱼游戏，持 .ai Agent ID 就能玩。\nYou sleep, your agent fishes. An on-chain fishing game on BSC for .ai Agent ID holders. FishingAI FishingAiBSC 你睡觉，你的 agent 在钓鱼 🎣 BSC 链上钓鱼游戏，持 .ai Agent ID 就能玩。\nYou sleep, your agent fishes. An on-chain fishing game on BSC for .ai Agent ID holders.",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -4532,6 +4648,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "SCRiM",
+      "account": "scrimfinance",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "hit.ink",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "hit.ink",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-10-30T16:05:59+00:00",
+      "lastSeen": "2026-11-03T07:58:55+00:00",
+      "description": "Multichain payments (30+ chains) + x402 agentic commerce. Built on @NEARProtocol with privacy on demand",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "SCRiM",
+          "account": "scrimfinance",
+          "alpha": "hit.ink",
+          "seenAt": "2026-10-30T16:05:59+00:00",
+          "messageId": "dodtwitterbot/38665",
+          "description": "Multichain payments (30+ chains) + x402 agentic commerce. Built on @NEARProtocol with privacy on demand",
+          "text": "Multichain payments (30+ chains) + x402 agentic commerce. Built on @NEARProtocol with privacy on demand"
+        },
+        {
+          "source": "TG",
+          "project": "SCRiM",
+          "account": "scrimfinance",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-03T07:58:55+00:00",
+          "messageId": "dodtwitterbot/39389",
+          "description": "Multichain payments (30+ chains) + x402 agentic commerce. Built on @NEARProtocol with privacy on demand",
+          "text": "Multichain payments (30+ chains) + x402 agentic commerce. Built on @NEARProtocol with privacy on demand"
+        }
+      ],
+      "text": " SCRiM scrimfinance Multichain payments (30+ chains) + x402 agentic commerce. Built on @NEARProtocol with privacy on demand SCRiM scrimfinance Multichain payments (30+ chains) + x402 agentic commerce. Built on @NEARProtocol with privacy on demand",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "SolRocket",
       "account": "SolRocketPad",
       "sources": [
@@ -4573,6 +4735,52 @@
         }
       ],
       "text": " SolRocket SolRocketPad Solana’s all-in-one launchpad. Only 3 projects launched: Solchat (&#036;200M ATH) & OctonetAI (&#036;30M). Full-stack tools, real results, built for serious builders. SolRocket SolRocketPad Solana’s all-in-one launchpad. Only 3 projects launched: Solchat (&#036;200M ATH) & OctonetAI (&#036;30M). Full-stack tools, real results, built for serious builders.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "squeekchain",
+      "account": "squeekchain",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "speest 💎",
+        "叶子君Foliage ◎ 🔶"
+      ],
+      "tgAlphas": [
+        "speest 💎",
+        "叶子君Foliage ◎ 🔶"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-10-29T12:29:11+00:00",
+      "lastSeen": "2026-11-03T04:32:57+00:00",
+      "description": "🐹 🟦\nhamster-powered toychain on Ethereum\n\ncurrently in testing on sepolia\n\n⚠️ token has NOT launched yet ⚠️",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "squeekchain",
+          "account": "squeekchain",
+          "alpha": "叶子君Foliage ◎ 🔶",
+          "seenAt": "2026-10-29T12:29:11+00:00",
+          "messageId": "dodtwitterbot/38490",
+          "description": "🐹 🟦\nhamster-powered toychain on Ethereum\n\ncurrently in testing on sepolia\n\n⚠️ token has NOT launched yet ⚠️",
+          "text": "🐹 🟦\nhamster-powered toychain on Ethereum\n\ncurrently in testing on sepolia\n\n⚠️ token has NOT launched yet ⚠️"
+        },
+        {
+          "source": "TG",
+          "project": "squeekchain",
+          "account": "squeekchain",
+          "alpha": "speest 💎",
+          "seenAt": "2026-11-03T04:32:57+00:00",
+          "messageId": "dodtwitterbot/39368",
+          "description": "🐹 🟦\nhamster-powered toychain on Ethereum\n\ncurrently in testing on sepolia\n\n⚠️ token has NOT launched yet ⚠️",
+          "text": "🐹 🟦\nhamster-powered toychain on Ethereum\n\ncurrently in testing on sepolia\n\n⚠️ token has NOT launched yet ⚠️"
+        }
+      ],
+      "text": " squeekchain squeekchain 🐹 🟦\nhamster-powered toychain on Ethereum\n\ncurrently in testing on sepolia\n\n⚠️ token has NOT launched yet ⚠️ squeekchain squeekchain 🐹 🟦\nhamster-powered toychain on Ethereum\n\ncurrently in testing on sepolia\n\n⚠️ token has NOT launched yet ⚠️",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -6668,40 +6876,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "FishingAI",
-      "account": "FishingAiBSC",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "阿宏"
-      ],
-      "tgAlphas": [
-        "阿宏"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-02T13:15:47+00:00",
-      "lastSeen": "2026-11-02T13:15:47+00:00",
-      "description": "你睡觉，你的 agent 在钓鱼 🎣 BSC 链上钓鱼游戏，持 .ai Agent ID 就能玩。\nYou sleep, your agent fishes. An on-chain fishing game on BSC for .ai Agent ID holders.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "FishingAI",
-          "account": "FishingAiBSC",
-          "alpha": "阿宏",
-          "seenAt": "2026-11-02T13:15:47+00:00",
-          "messageId": "dodtwitterbot/39267",
-          "description": "你睡觉，你的 agent 在钓鱼 🎣 BSC 链上钓鱼游戏，持 .ai Agent ID 就能玩。\nYou sleep, your agent fishes. An on-chain fishing game on BSC for .ai Agent ID holders.",
-          "text": "你睡觉，你的 agent 在钓鱼 🎣 BSC 链上钓鱼游戏，持 .ai Agent ID 就能玩。\nYou sleep, your agent fishes. An on-chain fishing game on BSC for .ai Agent ID holders."
-        }
-      ],
-      "text": " FishingAI FishingAiBSC 你睡觉，你的 agent 在钓鱼 🎣 BSC 链上钓鱼游戏，持 .ai Agent ID 就能玩。\nYou sleep, your agent fishes. An on-chain fishing game on BSC for .ai Agent ID holders.",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
       "project": "Floatpad",
       "account": "floatpad_",
       "sources": [
@@ -7518,6 +7692,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Launch Craft",
+      "account": "LaunchCraft_xyz",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "CSR"
+      ],
+      "tgAlphas": [
+        "CSR"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-03T11:33:03+00:00",
+      "lastSeen": "2026-11-03T11:33:03+00:00",
+      "description": "The next-generation token launchpad on Elysium. ⚒️\n\nYour token. Your rules. Your creation.\n\nCraft it. Launch it. Own it.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Launch Craft",
+          "account": "LaunchCraft_xyz",
+          "alpha": "CSR",
+          "seenAt": "2026-11-03T11:33:03+00:00",
+          "messageId": "dodtwitterbot/39417",
+          "description": "The next-generation token launchpad on Elysium. ⚒️\n\nYour token. Your rules. Your creation.\n\nCraft it. Launch it. Own it.",
+          "text": "The next-generation token launchpad on Elysium. ⚒️\n\nYour token. Your rules. Your creation.\n\nCraft it. Launch it. Own it."
+        }
+      ],
+      "text": " Launch Craft LaunchCraft_xyz The next-generation token launchpad on Elysium. ⚒️\n\nYour token. Your rules. Your creation.\n\nCraft it. Launch it. Own it.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "LayerZero",
       "account": "LayerZero_Core",
       "sources": [
@@ -8062,6 +8270,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Ninefold",
+      "account": "NinefoldArt",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-03T03:15:36+00:00",
+      "lastSeen": "2026-11-03T03:15:36+00:00",
+      "description": "Your wallet creates the art. 999 on-chain artworks that redraw themselves for whoever holds them.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Ninefold",
+          "account": "NinefoldArt",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-03T03:15:36+00:00",
+          "messageId": "dodtwitterbot/39360",
+          "description": "Your wallet creates the art. 999 on-chain artworks that redraw themselves for whoever holds them.",
+          "text": "Your wallet creates the art. 999 on-chain artworks that redraw themselves for whoever holds them."
+        }
+      ],
+      "text": " Ninefold NinefoldArt Your wallet creates the art. 999 on-chain artworks that redraw themselves for whoever holds them.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "NovaPier",
       "account": "NovaPierxyz",
       "sources": [
@@ -8300,6 +8542,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Primus Labs",
+      "account": "primus_labs",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-03T08:02:38+00:00",
+      "lastSeen": "2026-11-03T08:02:38+00:00",
+      "description": "The Confidential Infra for Institutional Onchain Finance",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Primus Labs",
+          "account": "primus_labs",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-03T08:02:38+00:00",
+          "messageId": "dodtwitterbot/39391",
+          "description": "The Confidential Infra for Institutional Onchain Finance",
+          "text": "The Confidential Infra for Institutional Onchain Finance"
+        }
+      ],
+      "text": " Primus Labs primus_labs The Confidential Infra for Institutional Onchain Finance",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Priors",
       "account": "priors_trade",
       "sources": [
@@ -8402,6 +8678,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "quadConnect",
+      "account": "quadConnects",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-03T07:52:31+00:00",
+      "lastSeen": "2026-11-03T07:52:31+00:00",
+      "description": "quadConnect on @squeekchain 🐹 @squeektoshi ran vault",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "quadConnect",
+          "account": "quadConnects",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-03T07:52:31+00:00",
+          "messageId": "dodtwitterbot/39387",
+          "description": "quadConnect on @squeekchain 🐹 @squeektoshi ran vault",
+          "text": "quadConnect on @squeekchain 🐹 @squeektoshi ran vault"
+        }
+      ],
+      "text": " quadConnect quadConnects quadConnect on @squeekchain 🐹 @squeektoshi ran vault",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Razor Agent",
       "account": "Razor_Agent",
       "sources": [
@@ -8470,6 +8780,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "ripe",
+      "account": "ripe0x",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "A佬"
+      ],
+      "tgAlphas": [
+        "A佬"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-03T12:30:17+00:00",
+      "lastSeen": "2026-11-03T12:30:17+00:00",
+      "description": "onchain optimist",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "ripe",
+          "account": "ripe0x",
+          "alpha": "A佬",
+          "seenAt": "2026-11-03T12:30:17+00:00",
+          "messageId": "dodtwitterbot/39424",
+          "description": "onchain optimist",
+          "text": "onchain optimist"
+        }
+      ],
+      "text": " ripe ripe0x onchain optimist",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Ropad",
       "account": "RopadSolana",
       "sources": [
@@ -8533,6 +8877,40 @@
         }
       ],
       "text": " Ropes PlayRopes One-minute HYPE markets on @Enter_Elysium 🧗",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Rush_Agent",
+      "account": "Rush_agentb",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "八九"
+      ],
+      "tgAlphas": [
+        "八九"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-03T06:30:40+00:00",
+      "lastSeen": "2026-11-03T06:30:40+00:00",
+      "description": "https://t.co/py2q2jUIL5",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Rush_Agent",
+          "account": "Rush_agentb",
+          "alpha": "八九",
+          "seenAt": "2026-11-03T06:30:40+00:00",
+          "messageId": "dodtwitterbot/39378",
+          "description": "https://t.co/py2q2jUIL5",
+          "text": "https://t.co/py2q2jUIL5"
+        }
+      ],
+      "text": " Rush_Agent Rush_agentb https://t.co/py2q2jUIL5",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -8635,40 +9013,6 @@
         }
       ],
       "text": " Savitha Sameerdas SavithaSameer AI @coinbase . I tweet about tech. Views my own.",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
-      "project": "SCRiM",
-      "account": "scrimfinance",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "hit.ink"
-      ],
-      "tgAlphas": [
-        "hit.ink"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-10-30T16:05:59+00:00",
-      "lastSeen": "2026-10-30T16:05:59+00:00",
-      "description": "Multichain payments (30+ chains) + x402 agentic commerce. Built on @NEARProtocol with privacy on demand",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "SCRiM",
-          "account": "scrimfinance",
-          "alpha": "hit.ink",
-          "seenAt": "2026-10-30T16:05:59+00:00",
-          "messageId": "dodtwitterbot/38665",
-          "description": "Multichain payments (30+ chains) + x402 agentic commerce. Built on @NEARProtocol with privacy on demand",
-          "text": "Multichain payments (30+ chains) + x402 agentic commerce. Built on @NEARProtocol with privacy on demand"
-        }
-      ],
-      "text": " SCRiM scrimfinance Multichain payments (30+ chains) + x402 agentic commerce. Built on @NEARProtocol with privacy on demand",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -9009,40 +9353,6 @@
         }
       ],
       "text": " Squadz Protocol Squadzdotfun Decentralized fair launch protocol on Solana",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
-      "project": "squeekchain",
-      "account": "squeekchain",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "叶子君Foliage ◎ 🔶"
-      ],
-      "tgAlphas": [
-        "叶子君Foliage ◎ 🔶"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-10-29T12:29:11+00:00",
-      "lastSeen": "2026-10-29T12:29:11+00:00",
-      "description": "🐹 🟦\nhamster-powered toychain on Ethereum\n\ncurrently in testing on sepolia\n\n⚠️ token has NOT launched yet ⚠️",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "squeekchain",
-          "account": "squeekchain",
-          "alpha": "叶子君Foliage ◎ 🔶",
-          "seenAt": "2026-10-29T12:29:11+00:00",
-          "messageId": "dodtwitterbot/38490",
-          "description": "🐹 🟦\nhamster-powered toychain on Ethereum\n\ncurrently in testing on sepolia\n\n⚠️ token has NOT launched yet ⚠️",
-          "text": "🐹 🟦\nhamster-powered toychain on Ethereum\n\ncurrently in testing on sepolia\n\n⚠️ token has NOT launched yet ⚠️"
-        }
-      ],
-      "text": " squeekchain squeekchain 🐹 🟦\nhamster-powered toychain on Ethereum\n\ncurrently in testing on sepolia\n\n⚠️ token has NOT launched yet ⚠️",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -10180,6 +10490,25 @@
       "avatarUrl": ""
     },
     {
+      "project": "Ascend",
+      "x_account": "AscendLaunch",
+      "total_mentions": 6,
+      "unique_alphas": 6,
+      "alphas": [
+        "CSR",
+        "Mutu",
+        "flaxsed",
+        "speest",
+        "叶子君Foliage ◎ 🔶",
+        "黑客fa1r"
+      ],
+      "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
+      "first_seen_utc": "2026-10-28T21:55:00+08:00",
+      "last_seen_utc": "2026-11-03T05:37:19+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
       "project": "Boxa",
       "x_account": "Boxa_Elysium",
       "total_mentions": 6,
@@ -10256,20 +10585,20 @@
       "avatarUrl": ""
     },
     {
-      "project": "Ascend",
-      "x_account": "AscendLaunch",
+      "project": "BB84",
+      "x_account": "bb84sh",
       "total_mentions": 5,
       "unique_alphas": 5,
       "alphas": [
-        "Mutu",
-        "flaxsed",
-        "speest",
+        "A佬",
+        "speest 💎",
+        "发誓要做永赚大师",
         "叶子君Foliage ◎ 🔶",
-        "黑客fa1r"
+        "阿宏"
       ],
-      "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
-      "first_seen_utc": "2026-10-28T21:55:00+08:00",
-      "last_seen_utc": "2026-11-01T12:09:05+00:00",
+      "description": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
+      "first_seen_utc": "2026-11-01T08:31:46+00:00",
+      "last_seen_utc": "2026-11-03T09:46:47+00:00",
       "status": "priority",
       "avatarUrl": ""
     },
@@ -10323,23 +10652,6 @@
       "description": "The first meme launchpad for Hyperliquid L2. Elysium on the way @Enter_Elysium",
       "first_seen_utc": "2026-10-30T14:03:48+00:00",
       "last_seen_utc": "2026-11-01T10:08:07+00:00",
-      "status": "priority",
-      "avatarUrl": ""
-    },
-    {
-      "project": "BB84",
-      "x_account": "bb84sh",
-      "total_mentions": 4,
-      "unique_alphas": 4,
-      "alphas": [
-        "A佬",
-        "speest 💎",
-        "发誓要做永赚大师",
-        "叶子君Foliage ◎ 🔶"
-      ],
-      "description": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
-      "first_seen_utc": "2026-11-01T08:31:46+00:00",
-      "last_seen_utc": "2026-11-02T10:48:11+00:00",
       "status": "priority",
       "avatarUrl": ""
     },
@@ -10877,6 +11189,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "AGI",
+      "x_account": "AgentIdETH",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "发誓要做永赚大师",
+        "阿宏"
+      ],
+      "description": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy.",
+      "first_seen_utc": "2026-11-03T08:27:25+00:00",
+      "last_seen_utc": "2026-11-03T08:38:38+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "arkhampad",
       "x_account": "arkhampad",
       "total_mentions": 2,
@@ -11098,6 +11425,21 @@
       "description": "hl bulltard // cooking @ @kinetiq_xyz @markets_xyz // @0xbloquegenesis",
       "first_seen_utc": "2026-11-01T03:54:07+00:00",
       "last_seen_utc": "2026-11-01T16:41:47+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "FishingAI",
+      "x_account": "FishingAiBSC",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "zyy",
+        "阿宏"
+      ],
+      "description": "你睡觉，你的 agent 在钓鱼 🎣 BSC 链上钓鱼游戏，持 .ai Agent ID 就能玩。\nYou sleep, your agent fishes. An on-chain fishing game on BSC for .ai Agent ID holders.",
+      "first_seen_utc": "2026-11-02T13:15:47+00:00",
+      "last_seen_utc": "2026-11-03T11:30:09+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -11387,6 +11729,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "SCRiM",
+      "x_account": "scrimfinance",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "hit.ink",
+        "阿宏"
+      ],
+      "description": "Multichain payments (30+ chains) + x402 agentic commerce. Built on @NEARProtocol with privacy on demand",
+      "first_seen_utc": "2026-10-30T16:05:59+00:00",
+      "last_seen_utc": "2026-11-03T07:58:55+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "SolRocket",
       "x_account": "SolRocketPad",
       "total_mentions": 2,
@@ -11398,6 +11755,21 @@
       "description": "Solana’s all-in-one launchpad. Only 3 projects launched: Solchat (&#036;200M ATH) & OctonetAI (&#036;30M). Full-stack tools, real results, built for serious builders.",
       "first_seen_utc": "2026-11-01T08:31:46+00:00",
       "last_seen_utc": "2026-11-02T08:39:31+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "squeekchain",
+      "x_account": "squeekchain",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "speest 💎",
+        "叶子君Foliage ◎ 🔶"
+      ],
+      "description": "🐹 🟦\nhamster-powered toychain on Ethereum\n\ncurrently in testing on sepolia\n\n⚠️ token has NOT launched yet ⚠️",
+      "first_seen_utc": "2026-10-29T12:29:11+00:00",
+      "last_seen_utc": "2026-11-03T04:32:57+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -12235,20 +12607,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "FishingAI",
-      "x_account": "FishingAiBSC",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "阿宏"
-      ],
-      "description": "你睡觉，你的 agent 在钓鱼 🎣 BSC 链上钓鱼游戏，持 .ai Agent ID 就能玩。\nYou sleep, your agent fishes. An on-chain fishing game on BSC for .ai Agent ID holders.",
-      "first_seen_utc": "2026-11-02T13:15:47+00:00",
-      "last_seen_utc": "2026-11-02T13:15:47+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "Floatpad",
       "x_account": "floatpad_",
       "total_mentions": 1,
@@ -12585,6 +12943,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Launch Craft",
+      "x_account": "LaunchCraft_xyz",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "CSR"
+      ],
+      "description": "The next-generation token launchpad on Elysium. ⚒️\n\nYour token. Your rules. Your creation.\n\nCraft it. Launch it. Own it.",
+      "first_seen_utc": "2026-11-03T11:33:03+00:00",
+      "last_seen_utc": "2026-11-03T11:33:03+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "LayerZero",
       "x_account": "LayerZero_Core",
       "total_mentions": 1,
@@ -12809,6 +13181,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Ninefold",
+      "x_account": "NinefoldArt",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "阿宏"
+      ],
+      "description": "Your wallet creates the art. 999 on-chain artworks that redraw themselves for whoever holds them.",
+      "first_seen_utc": "2026-11-03T03:15:36+00:00",
+      "last_seen_utc": "2026-11-03T03:15:36+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "NovaPier",
       "x_account": "NovaPierxyz",
       "total_mentions": 1,
@@ -12907,6 +13293,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Primus Labs",
+      "x_account": "primus_labs",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "阿宏"
+      ],
+      "description": "The Confidential Infra for Institutional Onchain Finance",
+      "first_seen_utc": "2026-11-03T08:02:38+00:00",
+      "last_seen_utc": "2026-11-03T08:02:38+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Priors",
       "x_account": "priors_trade",
       "total_mentions": 1,
@@ -12949,6 +13349,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "quadConnect",
+      "x_account": "quadConnects",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "阿宏"
+      ],
+      "description": "quadConnect on @squeekchain 🐹 @squeektoshi ran vault",
+      "first_seen_utc": "2026-11-03T07:52:31+00:00",
+      "last_seen_utc": "2026-11-03T07:52:31+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Razor Agent",
       "x_account": "Razor_Agent",
       "total_mentions": 1,
@@ -12977,6 +13391,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "ripe",
+      "x_account": "ripe0x",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "A佬"
+      ],
+      "description": "onchain optimist",
+      "first_seen_utc": "2026-11-03T12:30:17+00:00",
+      "last_seen_utc": "2026-11-03T12:30:17+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Ropad",
       "x_account": "RopadSolana",
       "total_mentions": 1,
@@ -13001,6 +13429,20 @@
       "description": "One-minute HYPE markets on @Enter_Elysium 🧗",
       "first_seen_utc": "2026-11-01T14:28:27+00:00",
       "last_seen_utc": "2026-11-01T14:28:27+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Rush_Agent",
+      "x_account": "Rush_agentb",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "八九"
+      ],
+      "description": "https://t.co/py2q2jUIL5",
+      "first_seen_utc": "2026-11-03T06:30:40+00:00",
+      "last_seen_utc": "2026-11-03T06:30:40+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -13043,20 +13485,6 @@
       "description": "AI @coinbase . I tweet about tech. Views my own.",
       "first_seen_utc": "2026-11-02T02:52:58+00:00",
       "last_seen_utc": "2026-11-02T02:52:58+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "SCRiM",
-      "x_account": "scrimfinance",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "hit.ink"
-      ],
-      "description": "Multichain payments (30+ chains) + x402 agentic commerce. Built on @NEARProtocol with privacy on demand",
-      "first_seen_utc": "2026-10-30T16:05:59+00:00",
-      "last_seen_utc": "2026-10-30T16:05:59+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -13197,20 +13625,6 @@
       "description": "Decentralized fair launch protocol on Solana",
       "first_seen_utc": "2026-10-28T21:22:01+00:00",
       "last_seen_utc": "2026-10-28T21:22:01+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "squeekchain",
-      "x_account": "squeekchain",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "叶子君Foliage ◎ 🔶"
-      ],
-      "description": "🐹 🟦\nhamster-powered toychain on Ethereum\n\ncurrently in testing on sepolia\n\n⚠️ token has NOT launched yet ⚠️",
-      "first_seen_utc": "2026-10-29T12:29:11+00:00",
-      "last_seen_utc": "2026-10-29T12:29:11+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -13666,14 +14080,61 @@
   "daily": [
     {
       "date": "2026-11-03",
-      "totalRows": 11,
-      "projectCount": 10,
-      "focusCount": 1,
-      "candidateCount": 9,
+      "totalRows": 24,
+      "projectCount": 22,
+      "focusCount": 2,
+      "candidateCount": 20,
       "crossSource": 0,
-      "newCount": 8,
-      "repeatCount": 2,
+      "newCount": 15,
+      "repeatCount": 7,
       "projects": [
+        {
+          "project": "AGI",
+          "account": "AgentIdETH",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "发誓要做永赚大师",
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "发誓要做永赚大师",
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-11-03T08:27:25+00:00",
+          "lastSeen": "2026-11-03T08:38:38+00:00",
+          "description": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "AGI",
+              "account": "AgentIdETH",
+              "alpha": "发誓要做永赚大师",
+              "seenAt": "2026-11-03T08:27:25+00:00",
+              "messageId": "dodtwitterbot/39392",
+              "description": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy.",
+              "text": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy."
+            },
+            {
+              "source": "TG",
+              "project": "AGI",
+              "account": "AgentIdETH",
+              "alpha": "阿宏",
+              "seenAt": "2026-11-03T08:38:38+00:00",
+              "messageId": "dodtwitterbot/39396",
+              "description": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy.",
+              "text": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy."
+            }
+          ],
+          "text": " AGI AgentIdETH Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy. AGI AgentIdETH Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy.",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
         {
           "project": "NearQuery",
           "account": "NearQuery",
@@ -13757,6 +14218,76 @@
           "dayStatus": "new"
         },
         {
+          "project": "Ascend",
+          "account": "AscendLaunch",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "CSR"
+          ],
+          "tgAlphas": [
+            "CSR"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-03T05:37:19+00:00",
+          "lastSeen": "2026-11-03T05:37:19+00:00",
+          "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Ascend",
+              "account": "AscendLaunch",
+              "alpha": "CSR",
+              "seenAt": "2026-11-03T05:37:19+00:00",
+              "messageId": "dodtwitterbot/39373",
+              "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
+              "text": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects"
+            }
+          ],
+          "text": " Ascend AscendLaunch Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "BB84",
+          "account": "bb84sh",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-03T09:46:47+00:00",
+          "lastSeen": "2026-11-03T09:46:47+00:00",
+          "description": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "BB84",
+              "account": "bb84sh",
+              "alpha": "阿宏",
+              "seenAt": "2026-11-03T09:46:47+00:00",
+              "messageId": "dodtwitterbot/39401",
+              "description": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
+              "text": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1."
+            }
+          ],
+          "text": " BB84 bb84sh Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
           "project": "elyra",
           "account": "useelyraxyz",
           "sources": [
@@ -13827,6 +14358,76 @@
           "dayStatus": "new"
         },
         {
+          "project": "FishingAI",
+          "account": "FishingAiBSC",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "zyy"
+          ],
+          "tgAlphas": [
+            "zyy"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-03T11:30:09+00:00",
+          "lastSeen": "2026-11-03T11:30:09+00:00",
+          "description": "你睡觉，你的 agent 在钓鱼 🎣 BSC 链上钓鱼游戏，持 .ai Agent ID 就能玩。\nYou sleep, your agent fishes. An on-chain fishing game on BSC for .ai Agent ID holders.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "FishingAI",
+              "account": "FishingAiBSC",
+              "alpha": "zyy",
+              "seenAt": "2026-11-03T11:30:09+00:00",
+              "messageId": "dodtwitterbot/39414",
+              "description": "你睡觉，你的 agent 在钓鱼 🎣 BSC 链上钓鱼游戏，持 .ai Agent ID 就能玩。\nYou sleep, your agent fishes. An on-chain fishing game on BSC for .ai Agent ID holders.",
+              "text": "你睡觉，你的 agent 在钓鱼 🎣 BSC 链上钓鱼游戏，持 .ai Agent ID 就能玩。\nYou sleep, your agent fishes. An on-chain fishing game on BSC for .ai Agent ID holders."
+            }
+          ],
+          "text": " FishingAI FishingAiBSC 你睡觉，你的 agent 在钓鱼 🎣 BSC 链上钓鱼游戏，持 .ai Agent ID 就能玩。\nYou sleep, your agent fishes. An on-chain fishing game on BSC for .ai Agent ID holders.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Launch Craft",
+          "account": "LaunchCraft_xyz",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "CSR"
+          ],
+          "tgAlphas": [
+            "CSR"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-03T11:33:03+00:00",
+          "lastSeen": "2026-11-03T11:33:03+00:00",
+          "description": "The next-generation token launchpad on Elysium. ⚒️\n\nYour token. Your rules. Your creation.\n\nCraft it. Launch it. Own it.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Launch Craft",
+              "account": "LaunchCraft_xyz",
+              "alpha": "CSR",
+              "seenAt": "2026-11-03T11:33:03+00:00",
+              "messageId": "dodtwitterbot/39417",
+              "description": "The next-generation token launchpad on Elysium. ⚒️\n\nYour token. Your rules. Your creation.\n\nCraft it. Launch it. Own it.",
+              "text": "The next-generation token launchpad on Elysium. ⚒️\n\nYour token. Your rules. Your creation.\n\nCraft it. Launch it. Own it."
+            }
+          ],
+          "text": " Launch Craft LaunchCraft_xyz The next-generation token launchpad on Elysium. ⚒️\n\nYour token. Your rules. Your creation.\n\nCraft it. Launch it. Own it.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
           "project": "Lethe",
           "account": "lethefund",
           "sources": [
@@ -13856,6 +14457,41 @@
             }
           ],
           "text": " Lethe lethefund Privacy swaps built on Elysium",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Ninefold",
+          "account": "NinefoldArt",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-03T03:15:36+00:00",
+          "lastSeen": "2026-11-03T03:15:36+00:00",
+          "description": "Your wallet creates the art. 999 on-chain artworks that redraw themselves for whoever holds them.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Ninefold",
+              "account": "NinefoldArt",
+              "alpha": "阿宏",
+              "seenAt": "2026-11-03T03:15:36+00:00",
+              "messageId": "dodtwitterbot/39360",
+              "description": "Your wallet creates the art. 999 on-chain artworks that redraw themselves for whoever holds them.",
+              "text": "Your wallet creates the art. 999 on-chain artworks that redraw themselves for whoever holds them."
+            }
+          ],
+          "text": " Ninefold NinefoldArt Your wallet creates the art. 999 on-chain artworks that redraw themselves for whoever holds them.",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -13897,6 +14533,181 @@
           "dayStatus": "repeat"
         },
         {
+          "project": "Primus Labs",
+          "account": "primus_labs",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-03T08:02:38+00:00",
+          "lastSeen": "2026-11-03T08:02:38+00:00",
+          "description": "The Confidential Infra for Institutional Onchain Finance",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Primus Labs",
+              "account": "primus_labs",
+              "alpha": "阿宏",
+              "seenAt": "2026-11-03T08:02:38+00:00",
+              "messageId": "dodtwitterbot/39391",
+              "description": "The Confidential Infra for Institutional Onchain Finance",
+              "text": "The Confidential Infra for Institutional Onchain Finance"
+            }
+          ],
+          "text": " Primus Labs primus_labs The Confidential Infra for Institutional Onchain Finance",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "quadConnect",
+          "account": "quadConnects",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-03T07:52:31+00:00",
+          "lastSeen": "2026-11-03T07:52:31+00:00",
+          "description": "quadConnect on @squeekchain 🐹 @squeektoshi ran vault",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "quadConnect",
+              "account": "quadConnects",
+              "alpha": "阿宏",
+              "seenAt": "2026-11-03T07:52:31+00:00",
+              "messageId": "dodtwitterbot/39387",
+              "description": "quadConnect on @squeekchain 🐹 @squeektoshi ran vault",
+              "text": "quadConnect on @squeekchain 🐹 @squeektoshi ran vault"
+            }
+          ],
+          "text": " quadConnect quadConnects quadConnect on @squeekchain 🐹 @squeektoshi ran vault",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "ripe",
+          "account": "ripe0x",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "A佬"
+          ],
+          "tgAlphas": [
+            "A佬"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-03T12:30:17+00:00",
+          "lastSeen": "2026-11-03T12:30:17+00:00",
+          "description": "onchain optimist",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "ripe",
+              "account": "ripe0x",
+              "alpha": "A佬",
+              "seenAt": "2026-11-03T12:30:17+00:00",
+              "messageId": "dodtwitterbot/39424",
+              "description": "onchain optimist",
+              "text": "onchain optimist"
+            }
+          ],
+          "text": " ripe ripe0x onchain optimist",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Rush_Agent",
+          "account": "Rush_agentb",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "八九"
+          ],
+          "tgAlphas": [
+            "八九"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-03T06:30:40+00:00",
+          "lastSeen": "2026-11-03T06:30:40+00:00",
+          "description": "https://t.co/py2q2jUIL5",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Rush_Agent",
+              "account": "Rush_agentb",
+              "alpha": "八九",
+              "seenAt": "2026-11-03T06:30:40+00:00",
+              "messageId": "dodtwitterbot/39378",
+              "description": "https://t.co/py2q2jUIL5",
+              "text": "https://t.co/py2q2jUIL5"
+            }
+          ],
+          "text": " Rush_Agent Rush_agentb https://t.co/py2q2jUIL5",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "SCRiM",
+          "account": "scrimfinance",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-03T07:58:55+00:00",
+          "lastSeen": "2026-11-03T07:58:55+00:00",
+          "description": "Multichain payments (30+ chains) + x402 agentic commerce. Built on @NEARProtocol with privacy on demand",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "SCRiM",
+              "account": "scrimfinance",
+              "alpha": "阿宏",
+              "seenAt": "2026-11-03T07:58:55+00:00",
+              "messageId": "dodtwitterbot/39389",
+              "description": "Multichain payments (30+ chains) + x402 agentic commerce. Built on @NEARProtocol with privacy on demand",
+              "text": "Multichain payments (30+ chains) + x402 agentic commerce. Built on @NEARProtocol with privacy on demand"
+            }
+          ],
+          "text": " SCRiM scrimfinance Multichain payments (30+ chains) + x402 agentic commerce. Built on @NEARProtocol with privacy on demand",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
           "project": "Shiden",
           "account": "ShidenProtocol",
           "sources": [
@@ -13930,6 +14741,41 @@
           "displayTier": "candidate",
           "avatarUrl": "",
           "dayStatus": "new"
+        },
+        {
+          "project": "squeekchain",
+          "account": "squeekchain",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "speest 💎"
+          ],
+          "tgAlphas": [
+            "speest 💎"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-03T04:32:57+00:00",
+          "lastSeen": "2026-11-03T04:32:57+00:00",
+          "description": "🐹 🟦\nhamster-powered toychain on Ethereum\n\ncurrently in testing on sepolia\n\n⚠️ token has NOT launched yet ⚠️",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "squeekchain",
+              "account": "squeekchain",
+              "alpha": "speest 💎",
+              "seenAt": "2026-11-03T04:32:57+00:00",
+              "messageId": "dodtwitterbot/39368",
+              "description": "🐹 🟦\nhamster-powered toychain on Ethereum\n\ncurrently in testing on sepolia\n\n⚠️ token has NOT launched yet ⚠️",
+              "text": "🐹 🟦\nhamster-powered toychain on Ethereum\n\ncurrently in testing on sepolia\n\n⚠️ token has NOT launched yet ⚠️"
+            }
+          ],
+          "text": " squeekchain squeekchain 🐹 🟦\nhamster-powered toychain on Ethereum\n\ncurrently in testing on sepolia\n\n⚠️ token has NOT launched yet ⚠️",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
         },
         {
           "project": "Styxn Terminal",
@@ -25694,119 +26540,124 @@
   ],
   "reports": [
     {
+      "file": "2026-11-03-1302-telegram-update.md",
+      "title": "2026-11-03-1302-telegram-update",
+      "updatedAt": "2026-11-03T13:02:32.150Z"
+    },
+    {
       "file": "2026-11-03-0306-telegram-update.md",
       "title": "2026-11-03-0306-telegram-update",
-      "updatedAt": "2026-11-03T03:06:35.456Z"
+      "updatedAt": "2026-11-03T13:02:29.190Z"
     },
     {
       "file": "2026-11-02-1950-telegram-update.md",
       "title": "2026-11-02-1950-telegram-update",
-      "updatedAt": "2026-11-03T03:06:32.910Z"
+      "updatedAt": "2026-11-03T13:02:29.190Z"
     },
     {
       "file": "2026-11-02-0826-telegram-update.md",
       "title": "2026-11-02-0826-telegram-update",
-      "updatedAt": "2026-11-03T03:06:32.910Z"
+      "updatedAt": "2026-11-03T13:02:29.190Z"
     },
     {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-03T03:06:32.910Z"
+      "updatedAt": "2026-11-03T13:02:29.190Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-03T03:06:32.910Z"
+      "updatedAt": "2026-11-03T13:02:29.189Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-03T03:06:32.910Z"
+      "updatedAt": "2026-11-03T13:02:29.189Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-03T03:06:32.910Z"
+      "updatedAt": "2026-11-03T13:02:29.189Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-03T03:06:32.910Z"
+      "updatedAt": "2026-11-03T13:02:29.189Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-03T03:06:32.910Z"
+      "updatedAt": "2026-11-03T13:02:29.189Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-03T03:06:32.910Z"
+      "updatedAt": "2026-11-03T13:02:29.189Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-03T03:06:32.910Z"
+      "updatedAt": "2026-11-03T13:02:29.189Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-03T03:06:32.910Z"
+      "updatedAt": "2026-11-03T13:02:29.189Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-03T03:06:32.910Z"
+      "updatedAt": "2026-11-03T13:02:29.189Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-03T03:06:32.910Z"
+      "updatedAt": "2026-11-03T13:02:29.189Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-03T03:06:32.910Z"
+      "updatedAt": "2026-11-03T13:02:29.189Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-03T03:06:32.910Z"
+      "updatedAt": "2026-11-03T13:02:29.189Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-03T03:06:32.910Z"
+      "updatedAt": "2026-11-03T13:02:29.189Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-03T03:06:32.910Z"
+      "updatedAt": "2026-11-03T13:02:29.189Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-03T03:06:32.910Z"
+      "updatedAt": "2026-11-03T13:02:29.189Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-03T03:06:32.910Z"
+      "updatedAt": "2026-11-03T13:02:29.189Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-03T03:06:32.910Z"
+      "updatedAt": "2026-11-03T13:02:29.189Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-03T03:06:32.910Z"
+      "updatedAt": "2026-11-03T13:02:29.189Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-03T03:06:32.909Z"
+      "updatedAt": "2026-11-03T13:02:29.188Z"
     }
   ]
 }
