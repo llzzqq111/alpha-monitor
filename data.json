@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-03T13:02:32.304Z",
+  "generatedAt": "2026-11-03T20:18:47.428Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 39425,
-    "lastMessageAt": "2026-11-03T12:54:22+00:00",
-    "lastCheckedAt": "2026-11-03T13:02:32.150Z",
-    "previousMessageId": 39359,
-    "pagesRead": 4,
-    "messagesRead": 66,
-    "newProjectRecords": 13,
+    "lastMessageId": 39480,
+    "lastMessageAt": "2026-11-03T20:07:33+00:00",
+    "lastCheckedAt": "2026-11-03T20:18:47.274Z",
+    "previousMessageId": 39425,
+    "pagesRead": 3,
+    "messagesRead": 55,
+    "newProjectRecords": 7,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 416,
+    "telegramRows": 423,
     "xRows": 0,
-    "projects": 247,
+    "projects": 251,
     "crossSource": 0
   },
   "projects": [
@@ -2610,6 +2610,64 @@
       "avatarUrl": ""
     },
     {
+      "project": "NutshellMarkets",
+      "account": "NutshellMarkets",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka",
+        "unsynned",
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "lakka",
+        "unsynned",
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-10-28T20:12:15+00:00",
+      "lastSeen": "2026-11-03T19:02:23+00:00",
+      "description": "Building a treasury designed to grow @squeekchain",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "NutshellMarkets",
+          "account": "NutshellMarkets",
+          "alpha": "lakka",
+          "seenAt": "2026-10-28T20:12:15+00:00",
+          "messageId": "dodtwitterbot/38344",
+          "description": "Building a treasury designed to grow @squeekchain",
+          "text": "Building a treasury designed to grow @squeekchain"
+        },
+        {
+          "source": "TG",
+          "project": "NutshellMarkets",
+          "account": "NutshellMarkets",
+          "alpha": "蛋总",
+          "seenAt": "2026-10-29T08:35:41+00:00",
+          "messageId": "dodtwitterbot/38431",
+          "description": "Building a treasury designed to grow @squeekchain",
+          "text": "Building a treasury designed to grow @squeekchain"
+        },
+        {
+          "source": "TG",
+          "project": "NutshellMarkets",
+          "account": "NutshellMarkets",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-03T19:02:23+00:00",
+          "messageId": "dodtwitterbot/39472",
+          "description": "Building a treasury designed to grow @squeekchain",
+          "text": "Building a treasury designed to grow @squeekchain"
+        }
+      ],
+      "text": " NutshellMarkets NutshellMarkets Building a treasury designed to grow @squeekchain NutshellMarkets NutshellMarkets Building a treasury designed to grow @squeekchain NutshellMarkets NutshellMarkets Building a treasury designed to grow @squeekchain",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Omnia π",
       "account": "0xOmnia",
       "sources": [
@@ -2721,6 +2779,64 @@
         }
       ],
       "text": " Orbital orbitaldotinc AI data centers in space Orbital orbitaldotinc AI data centers in space Orbital orbitaldotinc AI data centers in space",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "PerpMe",
+      "account": "perpmefun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "flaxsed",
+        "lakka",
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "flaxsed",
+        "lakka",
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-10-30T16:49:23+00:00",
+      "lastSeen": "2026-11-03T16:58:21+00:00",
+      "description": "The universal launchpad on @Enter_Elysium and HyperEVM",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "PerpMe",
+          "account": "perpmefun",
+          "alpha": "lakka",
+          "seenAt": "2026-10-30T16:49:23+00:00",
+          "messageId": "dodtwitterbot/38682",
+          "description": "Launch coins via https://t.co/LmDmNTQROs",
+          "text": "Launch coins via https://t.co/LmDmNTQROs"
+        },
+        {
+          "source": "TG",
+          "project": "PerpMe",
+          "account": "perpmefun",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-01T04:34:23+00:00",
+          "messageId": "dodtwitterbot/38866",
+          "description": "The universal launchpad on @Enter_Elysium and HyperEVM",
+          "text": "The universal launchpad on @Enter_Elysium and HyperEVM"
+        },
+        {
+          "source": "TG",
+          "project": "PerpMe",
+          "account": "perpmefun",
+          "alpha": "flaxsed",
+          "seenAt": "2026-11-03T16:58:21+00:00",
+          "messageId": "dodtwitterbot/39452",
+          "description": "The universal launchpad on @Enter_Elysium and HyperEVM",
+          "text": "The universal launchpad on @Enter_Elysium and HyperEVM"
+        }
+      ],
+      "text": " PerpMe perpmefun Launch coins via https://t.co/LmDmNTQROs PerpMe perpmefun The universal launchpad on @Enter_Elysium and HyperEVM PerpMe perpmefun The universal launchpad on @Enter_Elysium and HyperEVM",
       "score": 6,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -4418,52 +4534,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "NutshellMarkets",
-      "account": "NutshellMarkets",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "lakka",
-        "蛋总"
-      ],
-      "tgAlphas": [
-        "lakka",
-        "蛋总"
-      ],
-      "xAlphas": [],
-      "mentions": 2,
-      "firstSeen": "2026-10-28T20:12:15+00:00",
-      "lastSeen": "2026-10-29T08:35:41+00:00",
-      "description": "Building a treasury designed to grow @squeekchain",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "NutshellMarkets",
-          "account": "NutshellMarkets",
-          "alpha": "lakka",
-          "seenAt": "2026-10-28T20:12:15+00:00",
-          "messageId": "dodtwitterbot/38344",
-          "description": "Building a treasury designed to grow @squeekchain",
-          "text": "Building a treasury designed to grow @squeekchain"
-        },
-        {
-          "source": "TG",
-          "project": "NutshellMarkets",
-          "account": "NutshellMarkets",
-          "alpha": "蛋总",
-          "seenAt": "2026-10-29T08:35:41+00:00",
-          "messageId": "dodtwitterbot/38431",
-          "description": "Building a treasury designed to grow @squeekchain",
-          "text": "Building a treasury designed to grow @squeekchain"
-        }
-      ],
-      "text": " NutshellMarkets NutshellMarkets Building a treasury designed to grow @squeekchain NutshellMarkets NutshellMarkets Building a treasury designed to grow @squeekchain",
-      "score": 4,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
       "project": "Offbook",
       "account": "Offbook_sol",
       "sources": [
@@ -4505,52 +4575,6 @@
         }
       ],
       "text": " Offbook Offbook_sol Buy & sell Solana memecoins person to person. Big size, one fixed price, no slippage. 1% fee - half buys back & burns &#036;OFB\nNO CA YET but Product is live Offbook Offbook_sol Buy & sell Solana memecoins person to person. Big size, one fixed price, no slippage. 1% fee - half buys back & burns &#036;OFB\nNO CA YET but Product is live",
-      "score": 4,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
-      "project": "PerpMe",
-      "account": "perpmefun",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "lakka",
-        "蛋总"
-      ],
-      "tgAlphas": [
-        "lakka",
-        "蛋总"
-      ],
-      "xAlphas": [],
-      "mentions": 2,
-      "firstSeen": "2026-10-30T16:49:23+00:00",
-      "lastSeen": "2026-11-01T04:34:23+00:00",
-      "description": "The universal launchpad on @Enter_Elysium and HyperEVM",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "PerpMe",
-          "account": "perpmefun",
-          "alpha": "lakka",
-          "seenAt": "2026-10-30T16:49:23+00:00",
-          "messageId": "dodtwitterbot/38682",
-          "description": "Launch coins via https://t.co/LmDmNTQROs",
-          "text": "Launch coins via https://t.co/LmDmNTQROs"
-        },
-        {
-          "source": "TG",
-          "project": "PerpMe",
-          "account": "perpmefun",
-          "alpha": "蛋总",
-          "seenAt": "2026-11-01T04:34:23+00:00",
-          "messageId": "dodtwitterbot/38866",
-          "description": "The universal launchpad on @Enter_Elysium and HyperEVM",
-          "text": "The universal launchpad on @Enter_Elysium and HyperEVM"
-        }
-      ],
-      "text": " PerpMe perpmefun Launch coins via https://t.co/LmDmNTQROs PerpMe perpmefun The universal launchpad on @Enter_Elysium and HyperEVM",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -4873,6 +4897,52 @@
         }
       ],
       "text": " Todd ToshXguys TapeOut 生态发射台｜以 &#036;BEM为计价基准 @ToshProtocol\n\nTG: https://t.co/FHbm4oX520 Todd ToshXguys TapeOut 生态发射台｜以 &#036;BEM为计价基准 @ToshProtocol\n\nTG: https://t.co/FHbm4oX520",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "UNSEEN",
+      "account": "UnseenOrdo",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "八九",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "八九",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-10-29T07:10:35+00:00",
+      "lastSeen": "2026-11-03T14:32:22+00:00",
+      "description": "The first Private UDA(NFT) collection on Bitcoin RGB.\nHere's to the unseen ones.\nTG → https://t.co/zzUxatm7kr",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "UNSEEN",
+          "account": "UnseenOrdo",
+          "alpha": "八九",
+          "seenAt": "2026-10-29T07:10:35+00:00",
+          "messageId": "dodtwitterbot/38417",
+          "description": "The first Private UDA(NFT) collection on Bitcoin RGB.\nHere's to the unseen ones.\nTG → https://t.co/zzUxatm7kr",
+          "text": "The first Private UDA(NFT) collection on Bitcoin RGB.\nHere's to the unseen ones.\nTG → https://t.co/zzUxatm7kr"
+        },
+        {
+          "source": "TG",
+          "project": "UNSEEN",
+          "account": "UnseenOrdo",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-03T14:32:22+00:00",
+          "messageId": "dodtwitterbot/39433",
+          "description": "The first Private UDA(NFT) collection on Bitcoin RGB.\nHere's to the unseen ones.\nTG → https://t.co/zzUxatm7kr",
+          "text": "The first Private UDA(NFT) collection on Bitcoin RGB.\nHere's to the unseen ones.\nTG → https://t.co/zzUxatm7kr"
+        }
+      ],
+      "text": " UNSEEN UnseenOrdo The first Private UDA(NFT) collection on Bitcoin RGB.\nHere's to the unseen ones.\nTG → https://t.co/zzUxatm7kr UNSEEN UnseenOrdo The first Private UDA(NFT) collection on Bitcoin RGB.\nHere's to the unseen ones.\nTG → https://t.co/zzUxatm7kr",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -8032,6 +8102,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Mey Network",
+      "account": "Mey_Network",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-03T14:37:42+00:00",
+      "lastSeen": "2026-11-03T14:37:42+00:00",
+      "description": "Empowering the next RWA Supercycle with Property Token Offerings (PTO). Powered by &#036;MEY.\n\nTo participate in our first rental PTO, head to https://t.co/m8Grkc7ydH",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Mey Network",
+          "account": "Mey_Network",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-03T14:37:42+00:00",
+          "messageId": "dodtwitterbot/39435",
+          "description": "Empowering the next RWA Supercycle with Property Token Offerings (PTO). Powered by &#036;MEY.\n\nTo participate in our first rental PTO, head to https://t.co/m8Grkc7ydH",
+          "text": "Empowering the next RWA Supercycle with Property Token Offerings (PTO). Powered by &#036;MEY.\n\nTo participate in our first rental PTO, head to https://t.co/m8Grkc7ydH"
+        }
+      ],
+      "text": " Mey Network Mey_Network Empowering the next RWA Supercycle with Property Token Offerings (PTO). Powered by &#036;MEY.\n\nTo participate in our first rental PTO, head to https://t.co/m8Grkc7ydH",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Mining Machine",
       "account": "RigGrid",
       "sources": [
@@ -8095,6 +8199,40 @@
         }
       ],
       "text": " mint girl theamintgirl fake egirl",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Mirko Nosenzo",
+      "account": "netnose",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "speest 💎"
+      ],
+      "tgAlphas": [
+        "speest 💎"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-03T19:16:31+00:00",
+      "lastSeen": "2026-11-03T19:16:31+00:00",
+      "description": "Developer... not enough? // @simbiosa_labs // @basedandyellow collective noun 63",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Mirko Nosenzo",
+          "account": "netnose",
+          "alpha": "speest 💎",
+          "seenAt": "2026-11-03T19:16:31+00:00",
+          "messageId": "dodtwitterbot/39476",
+          "description": "Developer... not enough? // @simbiosa_labs // @basedandyellow collective noun 63",
+          "text": "Developer... not enough? // @simbiosa_labs // @basedandyellow collective noun 63"
+        }
+      ],
+      "text": " Mirko Nosenzo netnose Developer... not enough? // @simbiosa_labs // @basedandyellow collective noun 63",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -8916,6 +9054,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "sarn",
+      "account": "sarndotfun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "黑客fa1r"
+      ],
+      "tgAlphas": [
+        "黑客fa1r"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-03T14:02:34+00:00",
+      "lastSeen": "2026-11-03T14:02:34+00:00",
+      "description": "Your AI agent, set in stone. Its definition and skills inscribed on solana, byte for byte.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "sarn",
+          "account": "sarndotfun",
+          "alpha": "黑客fa1r",
+          "seenAt": "2026-11-03T14:02:34+00:00",
+          "messageId": "dodtwitterbot/39430",
+          "description": "Your AI agent, set in stone. Its definition and skills inscribed on solana, byte for byte.",
+          "text": "Your AI agent, set in stone. Its definition and skills inscribed on solana, byte for byte."
+        }
+      ],
+      "text": " sarn sarndotfun Your AI agent, set in stone. Its definition and skills inscribed on solana, byte for byte.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "satcap",
       "account": "satcap_",
       "sources": [
@@ -9698,6 +9870,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "TermiX",
+      "account": "termix_ai",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-03T14:37:42+00:00",
+      "lastSeen": "2026-11-03T14:37:42+00:00",
+      "description": "🟢 The Agentic Commerce Layer\n🟢 Agent Autonomous Commerce Protocol (AACP) .\n🟢 https://t.co/dKHDOixar3 & https://t.co/mhBhPM3rdJ\n\nBacked by @yzilabs",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "TermiX",
+          "account": "termix_ai",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-03T14:37:42+00:00",
+          "messageId": "dodtwitterbot/39434",
+          "description": "🟢 The Agentic Commerce Layer\n🟢 Agent Autonomous Commerce Protocol (AACP) .\n🟢 https://t.co/dKHDOixar3 & https://t.co/mhBhPM3rdJ\n\nBacked by @yzilabs",
+          "text": "🟢 The Agentic Commerce Layer\n🟢 Agent Autonomous Commerce Protocol (AACP) .\n🟢 https://t.co/dKHDOixar3 & https://t.co/mhBhPM3rdJ\n\nBacked by @yzilabs"
+        }
+      ],
+      "text": " TermiX termix_ai 🟢 The Agentic Commerce Layer\n🟢 Agent Autonomous Commerce Protocol (AACP) .\n🟢 https://t.co/dKHDOixar3 & https://t.co/mhBhPM3rdJ\n\nBacked by @yzilabs",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "The Crypt",
       "account": "playthecrypt",
       "sources": [
@@ -9931,40 +10137,6 @@
         }
       ],
       "text": " Umia umia_finance The onchain venture protocol",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
-      "project": "UNSEEN",
-      "account": "UnseenOrdo",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "八九"
-      ],
-      "tgAlphas": [
-        "八九"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-10-29T07:10:35+00:00",
-      "lastSeen": "2026-10-29T07:10:35+00:00",
-      "description": "The first Private UDA(NFT) collection on Bitcoin RGB.\nHere's to the unseen ones.\nTG → https://t.co/zzUxatm7kr",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "UNSEEN",
-          "account": "UnseenOrdo",
-          "alpha": "八九",
-          "seenAt": "2026-10-29T07:10:35+00:00",
-          "messageId": "dodtwitterbot/38417",
-          "description": "The first Private UDA(NFT) collection on Bitcoin RGB.\nHere's to the unseen ones.\nTG → https://t.co/zzUxatm7kr",
-          "text": "The first Private UDA(NFT) collection on Bitcoin RGB.\nHere's to the unseen ones.\nTG → https://t.co/zzUxatm7kr"
-        }
-      ],
-      "text": " UNSEEN UnseenOrdo The first Private UDA(NFT) collection on Bitcoin RGB.\nHere's to the unseen ones.\nTG → https://t.co/zzUxatm7kr",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -11079,6 +11251,22 @@
       "avatarUrl": ""
     },
     {
+      "project": "NutshellMarkets",
+      "x_account": "NutshellMarkets",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "lakka",
+        "unsynned",
+        "蛋总"
+      ],
+      "description": "Building a treasury designed to grow @squeekchain",
+      "first_seen_utc": "2026-10-28T20:12:15+00:00",
+      "last_seen_utc": "2026-11-03T19:02:23+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
       "project": "Omnia π",
       "x_account": "0xOmnia",
       "total_mentions": 3,
@@ -11107,6 +11295,22 @@
       "description": "AI data centers in space",
       "first_seen_utc": "2026-10-28T18:36:20+00:00",
       "last_seen_utc": "2026-10-28T23:07:00+08:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
+      "project": "PerpMe",
+      "x_account": "perpmefun",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "flaxsed",
+        "lakka",
+        "蛋总"
+      ],
+      "description": "The universal launchpad on @Enter_Elysium and HyperEVM",
+      "first_seen_utc": "2026-10-30T16:49:23+00:00",
+      "last_seen_utc": "2026-11-03T16:58:21+00:00",
       "status": "priority",
       "avatarUrl": ""
     },
@@ -11654,21 +11858,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "NutshellMarkets",
-      "x_account": "NutshellMarkets",
-      "total_mentions": 2,
-      "unique_alphas": 2,
-      "alphas": [
-        "lakka",
-        "蛋总"
-      ],
-      "description": "Building a treasury designed to grow @squeekchain",
-      "first_seen_utc": "2026-10-28T20:12:15+00:00",
-      "last_seen_utc": "2026-10-29T08:35:41+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "Offbook",
       "x_account": "Offbook_sol",
       "total_mentions": 2,
@@ -11680,21 +11869,6 @@
       "description": "Buy & sell Solana memecoins person to person. Big size, one fixed price, no slippage. 1% fee - half buys back & burns &#036;OFB\nNO CA YET but Product is live",
       "first_seen_utc": "2026-10-28T23:07:21+00:00",
       "last_seen_utc": "2026-10-29T08:08:04+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "PerpMe",
-      "x_account": "perpmefun",
-      "total_mentions": 2,
-      "unique_alphas": 2,
-      "alphas": [
-        "lakka",
-        "蛋总"
-      ],
-      "description": "The universal launchpad on @Enter_Elysium and HyperEVM",
-      "first_seen_utc": "2026-10-30T16:49:23+00:00",
-      "last_seen_utc": "2026-11-01T04:34:23+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -11800,6 +11974,21 @@
       "description": "TapeOut 生态发射台｜以 &#036;BEM为计价基准 @ToshProtocol\n\nTG: https://t.co/FHbm4oX520",
       "first_seen_utc": "2026-10-29T06:12:54+00:00",
       "last_seen_utc": "2026-10-29T07:19:07+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "UNSEEN",
+      "x_account": "UnseenOrdo",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "八九",
+        "阿宏"
+      ],
+      "description": "The first Private UDA(NFT) collection on Bitcoin RGB.\nHere's to the unseen ones.\nTG → https://t.co/zzUxatm7kr",
+      "first_seen_utc": "2026-10-29T07:10:35+00:00",
+      "last_seen_utc": "2026-11-03T14:32:22+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -13083,6 +13272,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Mey Network",
+      "x_account": "Mey_Network",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "阿宏"
+      ],
+      "description": "Empowering the next RWA Supercycle with Property Token Offerings (PTO). Powered by &#036;MEY.\n\nTo participate in our first rental PTO, head to https://t.co/m8Grkc7ydH",
+      "first_seen_utc": "2026-11-03T14:37:42+00:00",
+      "last_seen_utc": "2026-11-03T14:37:42+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Mining Machine",
       "x_account": "RigGrid",
       "total_mentions": 1,
@@ -13107,6 +13310,20 @@
       "description": "fake egirl",
       "first_seen_utc": "2026-10-30T20:03:33+00:00",
       "last_seen_utc": "2026-10-30T20:03:33+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Mirko Nosenzo",
+      "x_account": "netnose",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "speest 💎"
+      ],
+      "description": "Developer... not enough? // @simbiosa_labs // @basedandyellow collective noun 63",
+      "first_seen_utc": "2026-11-03T19:16:31+00:00",
+      "last_seen_utc": "2026-11-03T19:16:31+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -13447,6 +13664,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "sarn",
+      "x_account": "sarndotfun",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "黑客fa1r"
+      ],
+      "description": "Your AI agent, set in stone. Its definition and skills inscribed on solana, byte for byte.",
+      "first_seen_utc": "2026-11-03T14:02:34+00:00",
+      "last_seen_utc": "2026-11-03T14:02:34+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "satcap",
       "x_account": "satcap_",
       "total_mentions": 1,
@@ -13769,6 +14000,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "TermiX",
+      "x_account": "termix_ai",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "阿宏"
+      ],
+      "description": "🟢 The Agentic Commerce Layer\n🟢 Agent Autonomous Commerce Protocol (AACP) .\n🟢 https://t.co/dKHDOixar3 & https://t.co/mhBhPM3rdJ\n\nBacked by @yzilabs",
+      "first_seen_utc": "2026-11-03T14:37:42+00:00",
+      "last_seen_utc": "2026-11-03T14:37:42+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "The Crypt",
       "x_account": "playthecrypt",
       "total_mentions": 1,
@@ -13863,20 +14108,6 @@
       "description": "The onchain venture protocol",
       "first_seen_utc": "2026-11-02T14:29:41+00:00",
       "last_seen_utc": "2026-11-02T14:29:41+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "UNSEEN",
-      "x_account": "UnseenOrdo",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "八九"
-      ],
-      "description": "The first Private UDA(NFT) collection on Bitcoin RGB.\nHere's to the unseen ones.\nTG → https://t.co/zzUxatm7kr",
-      "first_seen_utc": "2026-10-29T07:10:35+00:00",
-      "last_seen_utc": "2026-10-29T07:10:35+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -14079,14 +14310,131 @@
   ],
   "daily": [
     {
-      "date": "2026-11-03",
-      "totalRows": 24,
-      "projectCount": 22,
-      "focusCount": 2,
-      "candidateCount": 20,
+      "date": "2026-11-04",
+      "totalRows": 3,
+      "projectCount": 3,
+      "focusCount": 0,
+      "candidateCount": 3,
       "crossSource": 0,
-      "newCount": 15,
-      "repeatCount": 7,
+      "newCount": 1,
+      "repeatCount": 2,
+      "projects": [
+        {
+          "project": "Mirko Nosenzo",
+          "account": "netnose",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "speest 💎"
+          ],
+          "tgAlphas": [
+            "speest 💎"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-03T19:16:31+00:00",
+          "lastSeen": "2026-11-03T19:16:31+00:00",
+          "description": "Developer... not enough? // @simbiosa_labs // @basedandyellow collective noun 63",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Mirko Nosenzo",
+              "account": "netnose",
+              "alpha": "speest 💎",
+              "seenAt": "2026-11-03T19:16:31+00:00",
+              "messageId": "dodtwitterbot/39476",
+              "description": "Developer... not enough? // @simbiosa_labs // @basedandyellow collective noun 63",
+              "text": "Developer... not enough? // @simbiosa_labs // @basedandyellow collective noun 63"
+            }
+          ],
+          "text": " Mirko Nosenzo netnose Developer... not enough? // @simbiosa_labs // @basedandyellow collective noun 63",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "NutshellMarkets",
+          "account": "NutshellMarkets",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-03T19:02:23+00:00",
+          "lastSeen": "2026-11-03T19:02:23+00:00",
+          "description": "Building a treasury designed to grow @squeekchain",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "NutshellMarkets",
+              "account": "NutshellMarkets",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-03T19:02:23+00:00",
+              "messageId": "dodtwitterbot/39472",
+              "description": "Building a treasury designed to grow @squeekchain",
+              "text": "Building a treasury designed to grow @squeekchain"
+            }
+          ],
+          "text": " NutshellMarkets NutshellMarkets Building a treasury designed to grow @squeekchain",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "PerpMe",
+          "account": "perpmefun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "flaxsed"
+          ],
+          "tgAlphas": [
+            "flaxsed"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-03T16:58:21+00:00",
+          "lastSeen": "2026-11-03T16:58:21+00:00",
+          "description": "The universal launchpad on @Enter_Elysium and HyperEVM",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "PerpMe",
+              "account": "perpmefun",
+              "alpha": "flaxsed",
+              "seenAt": "2026-11-03T16:58:21+00:00",
+              "messageId": "dodtwitterbot/39452",
+              "description": "The universal launchpad on @Enter_Elysium and HyperEVM",
+              "text": "The universal launchpad on @Enter_Elysium and HyperEVM"
+            }
+          ],
+          "text": " PerpMe perpmefun The universal launchpad on @Enter_Elysium and HyperEVM",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "totalRows": 28,
+      "projectCount": 26,
+      "focusCount": 2,
+      "candidateCount": 24,
+      "crossSource": 0,
+      "newCount": 18,
+      "repeatCount": 8,
       "projects": [
         {
           "project": "AGI",
@@ -14463,6 +14811,41 @@
           "dayStatus": "new"
         },
         {
+          "project": "Mey Network",
+          "account": "Mey_Network",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-03T14:37:42+00:00",
+          "lastSeen": "2026-11-03T14:37:42+00:00",
+          "description": "Empowering the next RWA Supercycle with Property Token Offerings (PTO). Powered by &#036;MEY.\n\nTo participate in our first rental PTO, head to https://t.co/m8Grkc7ydH",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Mey Network",
+              "account": "Mey_Network",
+              "alpha": "阿宏",
+              "seenAt": "2026-11-03T14:37:42+00:00",
+              "messageId": "dodtwitterbot/39435",
+              "description": "Empowering the next RWA Supercycle with Property Token Offerings (PTO). Powered by &#036;MEY.\n\nTo participate in our first rental PTO, head to https://t.co/m8Grkc7ydH",
+              "text": "Empowering the next RWA Supercycle with Property Token Offerings (PTO). Powered by &#036;MEY.\n\nTo participate in our first rental PTO, head to https://t.co/m8Grkc7ydH"
+            }
+          ],
+          "text": " Mey Network Mey_Network Empowering the next RWA Supercycle with Property Token Offerings (PTO). Powered by &#036;MEY.\n\nTo participate in our first rental PTO, head to https://t.co/m8Grkc7ydH",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
           "project": "Ninefold",
           "account": "NinefoldArt",
           "sources": [
@@ -14673,6 +15056,41 @@
           "dayStatus": "new"
         },
         {
+          "project": "sarn",
+          "account": "sarndotfun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "黑客fa1r"
+          ],
+          "tgAlphas": [
+            "黑客fa1r"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-03T14:02:34+00:00",
+          "lastSeen": "2026-11-03T14:02:34+00:00",
+          "description": "Your AI agent, set in stone. Its definition and skills inscribed on solana, byte for byte.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "sarn",
+              "account": "sarndotfun",
+              "alpha": "黑客fa1r",
+              "seenAt": "2026-11-03T14:02:34+00:00",
+              "messageId": "dodtwitterbot/39430",
+              "description": "Your AI agent, set in stone. Its definition and skills inscribed on solana, byte for byte.",
+              "text": "Your AI agent, set in stone. Its definition and skills inscribed on solana, byte for byte."
+            }
+          ],
+          "text": " sarn sarndotfun Your AI agent, set in stone. Its definition and skills inscribed on solana, byte for byte.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
           "project": "SCRiM",
           "account": "scrimfinance",
           "sources": [
@@ -14807,6 +15225,76 @@
             }
           ],
           "text": " Styxn Terminal StyxnTerminal the home of memecoins on Elysium.\n\nlaunch tokens. trade faster. rule the trenches.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "TermiX",
+          "account": "termix_ai",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-03T14:37:42+00:00",
+          "lastSeen": "2026-11-03T14:37:42+00:00",
+          "description": "🟢 The Agentic Commerce Layer\n🟢 Agent Autonomous Commerce Protocol (AACP) .\n🟢 https://t.co/dKHDOixar3 & https://t.co/mhBhPM3rdJ\n\nBacked by @yzilabs",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "TermiX",
+              "account": "termix_ai",
+              "alpha": "阿宏",
+              "seenAt": "2026-11-03T14:37:42+00:00",
+              "messageId": "dodtwitterbot/39434",
+              "description": "🟢 The Agentic Commerce Layer\n🟢 Agent Autonomous Commerce Protocol (AACP) .\n🟢 https://t.co/dKHDOixar3 & https://t.co/mhBhPM3rdJ\n\nBacked by @yzilabs",
+              "text": "🟢 The Agentic Commerce Layer\n🟢 Agent Autonomous Commerce Protocol (AACP) .\n🟢 https://t.co/dKHDOixar3 & https://t.co/mhBhPM3rdJ\n\nBacked by @yzilabs"
+            }
+          ],
+          "text": " TermiX termix_ai 🟢 The Agentic Commerce Layer\n🟢 Agent Autonomous Commerce Protocol (AACP) .\n🟢 https://t.co/dKHDOixar3 & https://t.co/mhBhPM3rdJ\n\nBacked by @yzilabs",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "UNSEEN",
+          "account": "UnseenOrdo",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-03T14:32:22+00:00",
+          "lastSeen": "2026-11-03T14:32:22+00:00",
+          "description": "The first Private UDA(NFT) collection on Bitcoin RGB.\nHere's to the unseen ones.\nTG → https://t.co/zzUxatm7kr",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "UNSEEN",
+              "account": "UnseenOrdo",
+              "alpha": "阿宏",
+              "seenAt": "2026-11-03T14:32:22+00:00",
+              "messageId": "dodtwitterbot/39433",
+              "description": "The first Private UDA(NFT) collection on Bitcoin RGB.\nHere's to the unseen ones.\nTG → https://t.co/zzUxatm7kr",
+              "text": "The first Private UDA(NFT) collection on Bitcoin RGB.\nHere's to the unseen ones.\nTG → https://t.co/zzUxatm7kr"
+            }
+          ],
+          "text": " UNSEEN UnseenOrdo The first Private UDA(NFT) collection on Bitcoin RGB.\nHere's to the unseen ones.\nTG → https://t.co/zzUxatm7kr",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -26540,124 +27028,129 @@
   ],
   "reports": [
     {
+      "file": "2026-11-03-2018-telegram-update.md",
+      "title": "2026-11-03-2018-telegram-update",
+      "updatedAt": "2026-11-03T20:18:47.273Z"
+    },
+    {
       "file": "2026-11-03-1302-telegram-update.md",
       "title": "2026-11-03-1302-telegram-update",
-      "updatedAt": "2026-11-03T13:02:32.150Z"
+      "updatedAt": "2026-11-03T20:18:44.807Z"
     },
     {
       "file": "2026-11-03-0306-telegram-update.md",
       "title": "2026-11-03-0306-telegram-update",
-      "updatedAt": "2026-11-03T13:02:29.190Z"
+      "updatedAt": "2026-11-03T20:18:44.806Z"
     },
     {
       "file": "2026-11-02-1950-telegram-update.md",
       "title": "2026-11-02-1950-telegram-update",
-      "updatedAt": "2026-11-03T13:02:29.190Z"
+      "updatedAt": "2026-11-03T20:18:44.806Z"
     },
     {
       "file": "2026-11-02-0826-telegram-update.md",
       "title": "2026-11-02-0826-telegram-update",
-      "updatedAt": "2026-11-03T13:02:29.190Z"
+      "updatedAt": "2026-11-03T20:18:44.806Z"
     },
     {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-03T13:02:29.190Z"
+      "updatedAt": "2026-11-03T20:18:44.806Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-03T13:02:29.189Z"
+      "updatedAt": "2026-11-03T20:18:44.806Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-03T13:02:29.189Z"
+      "updatedAt": "2026-11-03T20:18:44.806Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-03T13:02:29.189Z"
+      "updatedAt": "2026-11-03T20:18:44.806Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-03T13:02:29.189Z"
+      "updatedAt": "2026-11-03T20:18:44.806Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-03T13:02:29.189Z"
+      "updatedAt": "2026-11-03T20:18:44.806Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-03T13:02:29.189Z"
+      "updatedAt": "2026-11-03T20:18:44.806Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-03T13:02:29.189Z"
+      "updatedAt": "2026-11-03T20:18:44.806Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-03T13:02:29.189Z"
+      "updatedAt": "2026-11-03T20:18:44.806Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-03T13:02:29.189Z"
+      "updatedAt": "2026-11-03T20:18:44.806Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-03T13:02:29.189Z"
+      "updatedAt": "2026-11-03T20:18:44.806Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-03T13:02:29.189Z"
+      "updatedAt": "2026-11-03T20:18:44.806Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-03T13:02:29.189Z"
+      "updatedAt": "2026-11-03T20:18:44.806Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-03T13:02:29.189Z"
+      "updatedAt": "2026-11-03T20:18:44.806Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-03T13:02:29.189Z"
+      "updatedAt": "2026-11-03T20:18:44.806Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-03T13:02:29.189Z"
+      "updatedAt": "2026-11-03T20:18:44.806Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-03T13:02:29.189Z"
+      "updatedAt": "2026-11-03T20:18:44.806Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-03T13:02:29.189Z"
+      "updatedAt": "2026-11-03T20:18:44.806Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-03T13:02:29.189Z"
+      "updatedAt": "2026-11-03T20:18:44.806Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-03T13:02:29.188Z"
+      "updatedAt": "2026-11-03T20:18:44.805Z"
     }
   ]
 }
