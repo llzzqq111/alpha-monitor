@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-02T19:50:59.718Z",
+  "generatedAt": "2026-11-03T03:06:35.618Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 39327,
-    "lastMessageAt": "2026-11-02T19:48:19+00:00",
-    "lastCheckedAt": "2026-11-02T19:50:59.593Z",
-    "previousMessageId": 39157,
-    "pagesRead": 9,
-    "messagesRead": 170,
-    "newProjectRecords": 62,
+    "lastMessageId": 39359,
+    "lastMessageAt": "2026-11-03T03:01:42+00:00",
+    "lastCheckedAt": "2026-11-03T03:06:35.457Z",
+    "previousMessageId": 39327,
+    "pagesRead": 2,
+    "messagesRead": 32,
+    "newProjectRecords": 6,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 397,
+    "telegramRows": 403,
     "xRows": 0,
-    "projects": 236,
+    "projects": 240,
     "crossSource": 0
   },
   "projects": [
@@ -4164,6 +4164,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "NearQuery",
+      "account": "NearQuery",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "hit.ink",
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "hit.ink",
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-02T19:39:55+00:00",
+      "lastSeen": "2026-11-02T19:56:42+00:00",
+      "description": "Ask the chain. Show the work. Re-runnable, data-backed research on @near_intents . Every number computed from public data. Built at NEAR HACKATHON. @nearprotocol",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "NearQuery",
+          "account": "NearQuery",
+          "alpha": "hit.ink",
+          "seenAt": "2026-11-02T19:39:55+00:00",
+          "messageId": "dodtwitterbot/39323",
+          "description": "Ask the chain. Show the work. Re-runnable, data-backed research on @near_intents . Every number computed from public data. Built at NEAR HACKATHON. @nearprotocol",
+          "text": "Ask the chain. Show the work. Re-runnable, data-backed research on @near_intents . Every number computed from public data. Built at NEAR HACKATHON. @nearprotocol"
+        },
+        {
+          "source": "TG",
+          "project": "NearQuery",
+          "account": "NearQuery",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-02T19:56:42+00:00",
+          "messageId": "dodtwitterbot/39329",
+          "description": "Ask the chain. Show the work. Re-runnable, data-backed research on @near_intents . Every number computed from public data. Built at NEAR HACKATHON. @nearprotocol",
+          "text": "Ask the chain. Show the work. Re-runnable, data-backed research on @near_intents . Every number computed from public data. Built at NEAR HACKATHON. @nearprotocol"
+        }
+      ],
+      "text": " NearQuery NearQuery Ask the chain. Show the work. Re-runnable, data-backed research on @near_intents . Every number computed from public data. Built at NEAR HACKATHON. @nearprotocol NearQuery NearQuery Ask the chain. Show the work. Re-runnable, data-backed research on @near_intents . Every number computed from public data. Built at NEAR HACKATHON. @nearprotocol",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Neuriio",
       "account": "Neuriio",
       "sources": [
@@ -4532,6 +4578,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "Styxn Terminal",
+      "account": "StyxnTerminal",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "A佬",
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "A佬",
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-01T16:52:34+00:00",
+      "lastSeen": "2026-11-03T00:53:32+00:00",
+      "description": "the home of memecoins on Elysium.\n\nlaunch tokens. trade faster. rule the trenches.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Styxn Terminal",
+          "account": "StyxnTerminal",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-01T16:52:34+00:00",
+          "messageId": "dodtwitterbot/39080",
+          "description": "the home of memecoins on Elysium.\n\nlaunch tokens. trade faster. rule the trenches.",
+          "text": "the home of memecoins on Elysium.\n\nlaunch tokens. trade faster. rule the trenches."
+        },
+        {
+          "source": "TG",
+          "project": "Styxn Terminal",
+          "account": "StyxnTerminal",
+          "alpha": "A佬",
+          "seenAt": "2026-11-03T00:53:32+00:00",
+          "messageId": "dodtwitterbot/39355",
+          "description": "the home of memecoins on Elysium.\n\nlaunch tokens. trade faster. rule the trenches.",
+          "text": "the home of memecoins on Elysium.\n\nlaunch tokens. trade faster. rule the trenches."
+        }
+      ],
+      "text": " Styxn Terminal StyxnTerminal the home of memecoins on Elysium.\n\nlaunch tokens. trade faster. rule the trenches. Styxn Terminal StyxnTerminal the home of memecoins on Elysium.\n\nlaunch tokens. trade faster. rule the trenches.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Todd",
       "account": "ToshXguys",
       "sources": [
@@ -4837,6 +4929,40 @@
         }
       ],
       "text": " 000.fun 000dotfun From zero to FUN. A token launchpad built on @LayerZero_Core",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "0rigin",
+      "account": "0rigindotfun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka"
+      ],
+      "tgAlphas": [
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-02T21:29:15+00:00",
+      "lastSeen": "2026-11-02T21:29:15+00:00",
+      "description": "Everything starts from 0, launchpad soon on @LayerZero_Core",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "0rigin",
+          "account": "0rigindotfun",
+          "alpha": "lakka",
+          "seenAt": "2026-11-02T21:29:15+00:00",
+          "messageId": "dodtwitterbot/39352",
+          "description": "Everything starts from 0, launchpad soon on @LayerZero_Core",
+          "text": "Everything starts from 0, launchpad soon on @LayerZero_Core"
+        }
+      ],
+      "text": " 0rigin 0rigindotfun Everything starts from 0, launchpad soon on @LayerZero_Core",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -6304,6 +6430,74 @@
       "avatarUrl": ""
     },
     {
+      "project": "elyra",
+      "account": "useelyraxyz",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka"
+      ],
+      "tgAlphas": [
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-02T20:05:08+00:00",
+      "lastSeen": "2026-11-02T20:05:08+00:00",
+      "description": "Isolated lending & borrowing markets on @kinetiq_xyz Elysium.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "elyra",
+          "account": "useelyraxyz",
+          "alpha": "lakka",
+          "seenAt": "2026-11-02T20:05:08+00:00",
+          "messageId": "dodtwitterbot/39336",
+          "description": "Isolated lending & borrowing markets on @kinetiq_xyz Elysium.",
+          "text": "Isolated lending & borrowing markets on @kinetiq_xyz Elysium."
+        }
+      ],
+      "text": " elyra useelyraxyz Isolated lending & borrowing markets on @kinetiq_xyz Elysium.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "elyscreener",
+      "account": "elyscreener",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-03T02:28:26+00:00",
+      "lastSeen": "2026-11-03T02:28:26+00:00",
+      "description": "Every launchpad on Elysium, one screen. See every coin, every number — buy and sell right here.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "elyscreener",
+          "account": "elyscreener",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-03T02:28:26+00:00",
+          "messageId": "dodtwitterbot/39357",
+          "description": "Every launchpad on Elysium, one screen. See every coin, every number — buy and sell right here.",
+          "text": "Every launchpad on Elysium, one screen. See every coin, every number — buy and sell right here."
+        }
+      ],
+      "text": " elyscreener elyscreener Every launchpad on Elysium, one screen. See every coin, every number — buy and sell right here.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Elytra",
       "account": "ElytraNFT",
       "sources": [
@@ -7358,6 +7552,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Lethe",
+      "account": "lethefund",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "CSR"
+      ],
+      "tgAlphas": [
+        "CSR"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-02T19:52:57+00:00",
+      "lastSeen": "2026-11-02T19:52:57+00:00",
+      "description": "Privacy swaps built on Elysium",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Lethe",
+          "account": "lethefund",
+          "alpha": "CSR",
+          "seenAt": "2026-11-02T19:52:57+00:00",
+          "messageId": "dodtwitterbot/39328",
+          "description": "Privacy swaps built on Elysium",
+          "text": "Privacy swaps built on Elysium"
+        }
+      ],
+      "text": " Lethe lethefund Privacy swaps built on Elysium",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Liquidium.WTF | Ordinal & NFT Loans",
       "account": "LiquidiumWTF",
       "sources": [
@@ -7829,40 +8057,6 @@
         }
       ],
       "text": " Move Fast MovefastonAptos The fastest launchpad on @Aptos\n\n&#036;MF is the native coin of MoveFast : 0x24a74425d82e8085c9ee96bd40cfa1c282734515ddec0f1234b10749594d42c6",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
-      "project": "NearQuery",
-      "account": "NearQuery",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "hit.ink"
-      ],
-      "tgAlphas": [
-        "hit.ink"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-02T19:39:55+00:00",
-      "lastSeen": "2026-11-02T19:39:55+00:00",
-      "description": "Ask the chain. Show the work. Re-runnable, data-backed research on @near_intents . Every number computed from public data. Built at NEAR HACKATHON. @nearprotocol",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "NearQuery",
-          "account": "NearQuery",
-          "alpha": "hit.ink",
-          "seenAt": "2026-11-02T19:39:55+00:00",
-          "messageId": "dodtwitterbot/39323",
-          "description": "Ask the chain. Show the work. Re-runnable, data-backed research on @near_intents . Every number computed from public data. Built at NEAR HACKATHON. @nearprotocol",
-          "text": "Ask the chain. Show the work. Re-runnable, data-backed research on @near_intents . Every number computed from public data. Built at NEAR HACKATHON. @nearprotocol"
-        }
-      ],
-      "text": " NearQuery NearQuery Ask the chain. Show the work. Re-runnable, data-backed research on @near_intents . Every number computed from public data. Built at NEAR HACKATHON. @nearprotocol",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -8883,40 +9077,6 @@
         }
       ],
       "text": " Stars agent Starsagent_BNB Spells are written into the Ledger. A Solana card battler with Echo, Leylines and Pacts. Earn &#036;Ember by playing. 8B1ehC8qLoFYhqFTueBa1zq8s7uwV2qtsufDp4qapump",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Styxn Terminal",
-      "account": "StyxnTerminal",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "蛋总"
-      ],
-      "tgAlphas": [
-        "蛋总"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-01T16:52:34+00:00",
-      "lastSeen": "2026-11-01T16:52:34+00:00",
-      "description": "the home of memecoins on Elysium.\n\nlaunch tokens. trade faster. rule the trenches.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Styxn Terminal",
-          "account": "StyxnTerminal",
-          "alpha": "蛋总",
-          "seenAt": "2026-11-01T16:52:34+00:00",
-          "messageId": "dodtwitterbot/39080",
-          "description": "the home of memecoins on Elysium.\n\nlaunch tokens. trade faster. rule the trenches.",
-          "text": "the home of memecoins on Elysium.\n\nlaunch tokens. trade faster. rule the trenches."
-        }
-      ],
-      "text": " Styxn Terminal StyxnTerminal the home of memecoins on Elysium.\n\nlaunch tokens. trade faster. rule the trenches.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -11107,6 +11267,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "NearQuery",
+      "x_account": "NearQuery",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "hit.ink",
+        "unsynned"
+      ],
+      "description": "Ask the chain. Show the work. Re-runnable, data-backed research on @near_intents . Every number computed from public data. Built at NEAR HACKATHON. @nearprotocol",
+      "first_seen_utc": "2026-11-02T19:39:55+00:00",
+      "last_seen_utc": "2026-11-02T19:56:42+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Neuriio",
       "x_account": "Neuriio",
       "total_mentions": 2,
@@ -11227,6 +11402,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "Styxn Terminal",
+      "x_account": "StyxnTerminal",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "A佬",
+        "蛋总"
+      ],
+      "description": "the home of memecoins on Elysium.\n\nlaunch tokens. trade faster. rule the trenches.",
+      "first_seen_utc": "2026-11-01T16:52:34+00:00",
+      "last_seen_utc": "2026-11-03T00:53:32+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Todd",
       "x_account": "ToshXguys",
       "total_mentions": 2,
@@ -11327,6 +11517,20 @@
       "description": "From zero to FUN. A token launchpad built on @LayerZero_Core",
       "first_seen_utc": "2026-11-02T11:33:37+00:00",
       "last_seen_utc": "2026-11-02T11:33:37+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "0rigin",
+      "x_account": "0rigindotfun",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "lakka"
+      ],
+      "description": "Everything starts from 0, launchpad soon on @LayerZero_Core",
+      "first_seen_utc": "2026-11-02T21:29:15+00:00",
+      "last_seen_utc": "2026-11-02T21:29:15+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -11933,6 +12137,34 @@
       "avatarUrl": ""
     },
     {
+      "project": "elyra",
+      "x_account": "useelyraxyz",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "lakka"
+      ],
+      "description": "Isolated lending & borrowing markets on @kinetiq_xyz Elysium.",
+      "first_seen_utc": "2026-11-02T20:05:08+00:00",
+      "last_seen_utc": "2026-11-02T20:05:08+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "elyscreener",
+      "x_account": "elyscreener",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "Every launchpad on Elysium, one screen. See every coin, every number — buy and sell right here.",
+      "first_seen_utc": "2026-11-03T02:28:26+00:00",
+      "last_seen_utc": "2026-11-03T02:28:26+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Elytra",
       "x_account": "ElytraNFT",
       "total_mentions": 1,
@@ -12367,6 +12599,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Lethe",
+      "x_account": "lethefund",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "CSR"
+      ],
+      "description": "Privacy swaps built on Elysium",
+      "first_seen_utc": "2026-11-02T19:52:57+00:00",
+      "last_seen_utc": "2026-11-02T19:52:57+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Liquidium.WTF | Ordinal & NFT Loans",
       "x_account": "LiquidiumWTF",
       "total_mentions": 1,
@@ -12559,20 +12805,6 @@
       "description": "The fastest launchpad on @Aptos\n\n&#036;MF is the native coin of MoveFast : 0x24a74425d82e8085c9ee96bd40cfa1c282734515ddec0f1234b10749594d42c6",
       "first_seen_utc": "2026-11-02T11:33:42+00:00",
       "last_seen_utc": "2026-11-02T11:33:42+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "NearQuery",
-      "x_account": "NearQuery",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "hit.ink"
-      ],
-      "description": "Ask the chain. Show the work. Re-runnable, data-backed research on @near_intents . Every number computed from public data. Built at NEAR HACKATHON. @nearprotocol",
-      "first_seen_utc": "2026-11-02T19:39:55+00:00",
-      "last_seen_utc": "2026-11-02T19:39:55+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -12993,20 +13225,6 @@
       "description": "Spells are written into the Ledger. A Solana card battler with Echo, Leylines and Pacts. Earn &#036;Ember by playing. 8B1ehC8qLoFYhqFTueBa1zq8s7uwV2qtsufDp4qapump",
       "first_seen_utc": "2026-10-30T15:06:19+00:00",
       "last_seen_utc": "2026-10-30T15:06:19+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Styxn Terminal",
-      "x_account": "StyxnTerminal",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "蛋总"
-      ],
-      "description": "the home of memecoins on Elysium.\n\nlaunch tokens. trade faster. rule the trenches.",
-      "first_seen_utc": "2026-11-01T16:52:34+00:00",
-      "last_seen_utc": "2026-11-01T16:52:34+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -13448,13 +13666,13 @@
   "daily": [
     {
       "date": "2026-11-03",
-      "totalRows": 5,
-      "projectCount": 5,
-      "focusCount": 0,
-      "candidateCount": 5,
+      "totalRows": 11,
+      "projectCount": 10,
+      "focusCount": 1,
+      "candidateCount": 9,
       "crossSource": 0,
-      "newCount": 4,
-      "repeatCount": 1,
+      "newCount": 8,
+      "repeatCount": 2,
       "projects": [
         {
           "project": "NearQuery",
@@ -13463,15 +13681,17 @@
             "TG"
           ],
           "alphas": [
-            "hit.ink"
+            "hit.ink",
+            "unsynned"
           ],
           "tgAlphas": [
-            "hit.ink"
+            "hit.ink",
+            "unsynned"
           ],
           "xAlphas": [],
-          "mentions": 1,
+          "mentions": 2,
           "firstSeen": "2026-11-02T19:39:55+00:00",
-          "lastSeen": "2026-11-02T19:39:55+00:00",
+          "lastSeen": "2026-11-02T19:56:42+00:00",
           "description": "Ask the chain. Show the work. Re-runnable, data-backed research on @near_intents . Every number computed from public data. Built at NEAR HACKATHON. @nearprotocol",
           "rows": [
             {
@@ -13483,9 +13703,159 @@
               "messageId": "dodtwitterbot/39323",
               "description": "Ask the chain. Show the work. Re-runnable, data-backed research on @near_intents . Every number computed from public data. Built at NEAR HACKATHON. @nearprotocol",
               "text": "Ask the chain. Show the work. Re-runnable, data-backed research on @near_intents . Every number computed from public data. Built at NEAR HACKATHON. @nearprotocol"
+            },
+            {
+              "source": "TG",
+              "project": "NearQuery",
+              "account": "NearQuery",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-02T19:56:42+00:00",
+              "messageId": "dodtwitterbot/39329",
+              "description": "Ask the chain. Show the work. Re-runnable, data-backed research on @near_intents . Every number computed from public data. Built at NEAR HACKATHON. @nearprotocol",
+              "text": "Ask the chain. Show the work. Re-runnable, data-backed research on @near_intents . Every number computed from public data. Built at NEAR HACKATHON. @nearprotocol"
             }
           ],
-          "text": " NearQuery NearQuery Ask the chain. Show the work. Re-runnable, data-backed research on @near_intents . Every number computed from public data. Built at NEAR HACKATHON. @nearprotocol",
+          "text": " NearQuery NearQuery Ask the chain. Show the work. Re-runnable, data-backed research on @near_intents . Every number computed from public data. Built at NEAR HACKATHON. @nearprotocol NearQuery NearQuery Ask the chain. Show the work. Re-runnable, data-backed research on @near_intents . Every number computed from public data. Built at NEAR HACKATHON. @nearprotocol",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "0rigin",
+          "account": "0rigindotfun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-02T21:29:15+00:00",
+          "lastSeen": "2026-11-02T21:29:15+00:00",
+          "description": "Everything starts from 0, launchpad soon on @LayerZero_Core",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "0rigin",
+              "account": "0rigindotfun",
+              "alpha": "lakka",
+              "seenAt": "2026-11-02T21:29:15+00:00",
+              "messageId": "dodtwitterbot/39352",
+              "description": "Everything starts from 0, launchpad soon on @LayerZero_Core",
+              "text": "Everything starts from 0, launchpad soon on @LayerZero_Core"
+            }
+          ],
+          "text": " 0rigin 0rigindotfun Everything starts from 0, launchpad soon on @LayerZero_Core",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "elyra",
+          "account": "useelyraxyz",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-02T20:05:08+00:00",
+          "lastSeen": "2026-11-02T20:05:08+00:00",
+          "description": "Isolated lending & borrowing markets on @kinetiq_xyz Elysium.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "elyra",
+              "account": "useelyraxyz",
+              "alpha": "lakka",
+              "seenAt": "2026-11-02T20:05:08+00:00",
+              "messageId": "dodtwitterbot/39336",
+              "description": "Isolated lending & borrowing markets on @kinetiq_xyz Elysium.",
+              "text": "Isolated lending & borrowing markets on @kinetiq_xyz Elysium."
+            }
+          ],
+          "text": " elyra useelyraxyz Isolated lending & borrowing markets on @kinetiq_xyz Elysium.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "elyscreener",
+          "account": "elyscreener",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-03T02:28:26+00:00",
+          "lastSeen": "2026-11-03T02:28:26+00:00",
+          "description": "Every launchpad on Elysium, one screen. See every coin, every number — buy and sell right here.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "elyscreener",
+              "account": "elyscreener",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-03T02:28:26+00:00",
+              "messageId": "dodtwitterbot/39357",
+              "description": "Every launchpad on Elysium, one screen. See every coin, every number — buy and sell right here.",
+              "text": "Every launchpad on Elysium, one screen. See every coin, every number — buy and sell right here."
+            }
+          ],
+          "text": " elyscreener elyscreener Every launchpad on Elysium, one screen. See every coin, every number — buy and sell right here.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Lethe",
+          "account": "lethefund",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "CSR"
+          ],
+          "tgAlphas": [
+            "CSR"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-02T19:52:57+00:00",
+          "lastSeen": "2026-11-02T19:52:57+00:00",
+          "description": "Privacy swaps built on Elysium",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Lethe",
+              "account": "lethefund",
+              "alpha": "CSR",
+              "seenAt": "2026-11-02T19:52:57+00:00",
+              "messageId": "dodtwitterbot/39328",
+              "description": "Privacy swaps built on Elysium",
+              "text": "Privacy swaps built on Elysium"
+            }
+          ],
+          "text": " Lethe lethefund Privacy swaps built on Elysium",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -13560,6 +13930,41 @@
           "displayTier": "candidate",
           "avatarUrl": "",
           "dayStatus": "new"
+        },
+        {
+          "project": "Styxn Terminal",
+          "account": "StyxnTerminal",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "A佬"
+          ],
+          "tgAlphas": [
+            "A佬"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-03T00:53:32+00:00",
+          "lastSeen": "2026-11-03T00:53:32+00:00",
+          "description": "the home of memecoins on Elysium.\n\nlaunch tokens. trade faster. rule the trenches.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Styxn Terminal",
+              "account": "StyxnTerminal",
+              "alpha": "A佬",
+              "seenAt": "2026-11-03T00:53:32+00:00",
+              "messageId": "dodtwitterbot/39355",
+              "description": "the home of memecoins on Elysium.\n\nlaunch tokens. trade faster. rule the trenches.",
+              "text": "the home of memecoins on Elysium.\n\nlaunch tokens. trade faster. rule the trenches."
+            }
+          ],
+          "text": " Styxn Terminal StyxnTerminal the home of memecoins on Elysium.\n\nlaunch tokens. trade faster. rule the trenches.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
         },
         {
           "project": "Veins",
@@ -25289,114 +25694,119 @@
   ],
   "reports": [
     {
+      "file": "2026-11-03-0306-telegram-update.md",
+      "title": "2026-11-03-0306-telegram-update",
+      "updatedAt": "2026-11-03T03:06:35.456Z"
+    },
+    {
       "file": "2026-11-02-1950-telegram-update.md",
       "title": "2026-11-02-1950-telegram-update",
-      "updatedAt": "2026-11-02T19:50:59.593Z"
+      "updatedAt": "2026-11-03T03:06:32.910Z"
     },
     {
       "file": "2026-11-02-0826-telegram-update.md",
       "title": "2026-11-02-0826-telegram-update",
-      "updatedAt": "2026-11-02T19:50:55.089Z"
+      "updatedAt": "2026-11-03T03:06:32.910Z"
     },
     {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-02T19:50:55.088Z"
+      "updatedAt": "2026-11-03T03:06:32.910Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-02T19:50:55.088Z"
+      "updatedAt": "2026-11-03T03:06:32.910Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-02T19:50:55.088Z"
+      "updatedAt": "2026-11-03T03:06:32.910Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-02T19:50:55.088Z"
+      "updatedAt": "2026-11-03T03:06:32.910Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-02T19:50:55.088Z"
+      "updatedAt": "2026-11-03T03:06:32.910Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-02T19:50:55.088Z"
+      "updatedAt": "2026-11-03T03:06:32.910Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-02T19:50:55.088Z"
+      "updatedAt": "2026-11-03T03:06:32.910Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-02T19:50:55.088Z"
+      "updatedAt": "2026-11-03T03:06:32.910Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-02T19:50:55.088Z"
+      "updatedAt": "2026-11-03T03:06:32.910Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-02T19:50:55.088Z"
+      "updatedAt": "2026-11-03T03:06:32.910Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-02T19:50:55.088Z"
+      "updatedAt": "2026-11-03T03:06:32.910Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-02T19:50:55.088Z"
+      "updatedAt": "2026-11-03T03:06:32.910Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-02T19:50:55.088Z"
+      "updatedAt": "2026-11-03T03:06:32.910Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-02T19:50:55.088Z"
+      "updatedAt": "2026-11-03T03:06:32.910Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-02T19:50:55.088Z"
+      "updatedAt": "2026-11-03T03:06:32.910Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-02T19:50:55.088Z"
+      "updatedAt": "2026-11-03T03:06:32.910Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-02T19:50:55.088Z"
+      "updatedAt": "2026-11-03T03:06:32.910Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-02T19:50:55.088Z"
+      "updatedAt": "2026-11-03T03:06:32.910Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-02T19:50:55.088Z"
+      "updatedAt": "2026-11-03T03:06:32.910Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-02T19:50:55.088Z"
+      "updatedAt": "2026-11-03T03:06:32.909Z"
     }
   ]
 }
