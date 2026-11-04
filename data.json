@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-03T20:18:47.428Z",
+  "generatedAt": "2026-11-04T01:43:59.170Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 39480,
-    "lastMessageAt": "2026-11-03T20:07:33+00:00",
-    "lastCheckedAt": "2026-11-03T20:18:47.274Z",
-    "previousMessageId": 39425,
-    "pagesRead": 3,
-    "messagesRead": 55,
+    "lastMessageId": 39501,
+    "lastMessageAt": "2026-11-04T01:26:43+00:00",
+    "lastCheckedAt": "2026-11-04T01:43:58.993Z",
+    "previousMessageId": 39480,
+    "pagesRead": 2,
+    "messagesRead": 21,
     "newProjectRecords": 7,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 423,
+    "telegramRows": 430,
     "xRows": 0,
-    "projects": 251,
+    "projects": 255,
     "crossSource": 0
   },
   "projects": [
@@ -1293,6 +1293,76 @@
         }
       ],
       "text": " Elysium Pump ElysiumPump First Token Launchpad on Kinetiqs HYPEREVM L2\n\nElysium Pump Protocol Token: https://t.co/WphgscBK6g Elysium Pump ElysiumPump First Token Launchpad on Kinetiqs HYPEREVM L2\n\nElysium Pump Protocol Token: https://t.co/WphgscBK6g Elysium Pump ElysiumPump First Token Launchpad on Kinetiqs HYPEREVM L2\n\nElysium Pump Protocol Token: https://t.co/WphgscBK6g Elysium Pump ElysiumPump First Token Launchpad on Kinetiqs HYPEREVM L2\n\nElysium Pump Protocol Token: https://t.co/WphgscBK6g",
+      "score": 8,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "NutshellMarkets",
+      "account": "NutshellMarkets",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "hit.ink",
+        "lakka",
+        "unsynned",
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "hit.ink",
+        "lakka",
+        "unsynned",
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 4,
+      "firstSeen": "2026-10-28T20:12:15+00:00",
+      "lastSeen": "2026-11-03T21:10:16+00:00",
+      "description": "Building a treasury designed to grow @squeekchain",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "NutshellMarkets",
+          "account": "NutshellMarkets",
+          "alpha": "lakka",
+          "seenAt": "2026-10-28T20:12:15+00:00",
+          "messageId": "dodtwitterbot/38344",
+          "description": "Building a treasury designed to grow @squeekchain",
+          "text": "Building a treasury designed to grow @squeekchain"
+        },
+        {
+          "source": "TG",
+          "project": "NutshellMarkets",
+          "account": "NutshellMarkets",
+          "alpha": "蛋总",
+          "seenAt": "2026-10-29T08:35:41+00:00",
+          "messageId": "dodtwitterbot/38431",
+          "description": "Building a treasury designed to grow @squeekchain",
+          "text": "Building a treasury designed to grow @squeekchain"
+        },
+        {
+          "source": "TG",
+          "project": "NutshellMarkets",
+          "account": "NutshellMarkets",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-03T19:02:23+00:00",
+          "messageId": "dodtwitterbot/39472",
+          "description": "Building a treasury designed to grow @squeekchain",
+          "text": "Building a treasury designed to grow @squeekchain"
+        },
+        {
+          "source": "TG",
+          "project": "NutshellMarkets",
+          "account": "NutshellMarkets",
+          "alpha": "hit.ink",
+          "seenAt": "2026-11-03T21:10:16+00:00",
+          "messageId": "dodtwitterbot/39484",
+          "description": "Building a treasury designed to grow @squeekchain",
+          "text": "Building a treasury designed to grow @squeekchain"
+        }
+      ],
+      "text": " NutshellMarkets NutshellMarkets Building a treasury designed to grow @squeekchain NutshellMarkets NutshellMarkets Building a treasury designed to grow @squeekchain NutshellMarkets NutshellMarkets Building a treasury designed to grow @squeekchain NutshellMarkets NutshellMarkets Building a treasury designed to grow @squeekchain",
       "score": 8,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -2610,64 +2680,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "NutshellMarkets",
-      "account": "NutshellMarkets",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "lakka",
-        "unsynned",
-        "蛋总"
-      ],
-      "tgAlphas": [
-        "lakka",
-        "unsynned",
-        "蛋总"
-      ],
-      "xAlphas": [],
-      "mentions": 3,
-      "firstSeen": "2026-10-28T20:12:15+00:00",
-      "lastSeen": "2026-11-03T19:02:23+00:00",
-      "description": "Building a treasury designed to grow @squeekchain",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "NutshellMarkets",
-          "account": "NutshellMarkets",
-          "alpha": "lakka",
-          "seenAt": "2026-10-28T20:12:15+00:00",
-          "messageId": "dodtwitterbot/38344",
-          "description": "Building a treasury designed to grow @squeekchain",
-          "text": "Building a treasury designed to grow @squeekchain"
-        },
-        {
-          "source": "TG",
-          "project": "NutshellMarkets",
-          "account": "NutshellMarkets",
-          "alpha": "蛋总",
-          "seenAt": "2026-10-29T08:35:41+00:00",
-          "messageId": "dodtwitterbot/38431",
-          "description": "Building a treasury designed to grow @squeekchain",
-          "text": "Building a treasury designed to grow @squeekchain"
-        },
-        {
-          "source": "TG",
-          "project": "NutshellMarkets",
-          "account": "NutshellMarkets",
-          "alpha": "unsynned",
-          "seenAt": "2026-11-03T19:02:23+00:00",
-          "messageId": "dodtwitterbot/39472",
-          "description": "Building a treasury designed to grow @squeekchain",
-          "text": "Building a treasury designed to grow @squeekchain"
-        }
-      ],
-      "text": " NutshellMarkets NutshellMarkets Building a treasury designed to grow @squeekchain NutshellMarkets NutshellMarkets Building a treasury designed to grow @squeekchain NutshellMarkets NutshellMarkets Building a treasury designed to grow @squeekchain",
-      "score": 6,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
       "project": "Omnia π",
       "account": "0xOmnia",
       "sources": [
@@ -3011,6 +3023,64 @@
         }
       ],
       "text": " tolls tollsfun Pay-per-call for AI agents on Solana.\nAgents pay in USDC over x402. Every request pays its toll.\n\nToken is not live yet. tolls tollsfun Pay-per-call for AI agents on Solana.\nAgents pay in USDC over x402. Every request pays its toll.\n\nToken is not live yet. tolls tollsfun Pay-per-call for AI agents on Solana.\nAgents pay in USDC over x402. Every request pays its toll.\n\nToken is not live yet.",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Valhalla on Elysium",
+      "account": "Valhalla_Launch",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BTC alpha",
+        "蛋总",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "BTC alpha",
+        "蛋总",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-10-30T14:07:21+00:00",
+      "lastSeen": "2026-11-03T21:01:37+00:00",
+      "description": "Alpha platform for launching NFTs and tokens on @Enter_Elysium",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Valhalla on Elysium",
+          "account": "Valhalla_Launch",
+          "alpha": "阿宏",
+          "seenAt": "2026-10-30T14:07:21+00:00",
+          "messageId": "dodtwitterbot/38644",
+          "description": "Alpha platform for launching NFTs and tokens on @Enter_Elysium",
+          "text": "Alpha platform for launching NFTs and tokens on @Enter_Elysium"
+        },
+        {
+          "source": "TG",
+          "project": "Valhalla on Elysium",
+          "account": "Valhalla_Launch",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-01T05:45:49+00:00",
+          "messageId": "dodtwitterbot/38894",
+          "description": "Alpha platform for launching NFTs and tokens on @Enter_Elysium",
+          "text": "Alpha platform for launching NFTs and tokens on @Enter_Elysium"
+        },
+        {
+          "source": "TG",
+          "project": "Valhalla on Elysium",
+          "account": "Valhalla_Launch",
+          "alpha": "BTC alpha",
+          "seenAt": "2026-11-03T21:01:37+00:00",
+          "messageId": "dodtwitterbot/39483",
+          "description": "Alpha platform for launching NFTs and tokens on @Enter_Elysium",
+          "text": "Alpha platform for launching NFTs and tokens on @Enter_Elysium"
+        }
+      ],
+      "text": " Valhalla on Elysium Valhalla_Launch Alpha platform for launching NFTs and tokens on @Enter_Elysium Valhalla on Elysium Valhalla_Launch Alpha platform for launching NFTs and tokens on @Enter_Elysium Valhalla on Elysium Valhalla_Launch Alpha platform for launching NFTs and tokens on @Enter_Elysium",
       "score": 6,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -4856,6 +4926,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "supanova",
+      "account": "supanova_app",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "hit.ink",
+        "lakka"
+      ],
+      "tgAlphas": [
+        "hit.ink",
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-03T21:56:10+00:00",
+      "lastSeen": "2026-11-03T21:59:56+00:00",
+      "description": "Launch your token in minutes on Canton - the network Wall Street is moving onto.\n\nCanton-native AMM & launchpad.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "supanova",
+          "account": "supanova_app",
+          "alpha": "hit.ink",
+          "seenAt": "2026-11-03T21:56:10+00:00",
+          "messageId": "dodtwitterbot/39493",
+          "description": "Launch your token in minutes on Canton - the network Wall Street is moving onto.\n\nCanton-native AMM & launchpad.",
+          "text": "Launch your token in minutes on Canton - the network Wall Street is moving onto.\n\nCanton-native AMM & launchpad."
+        },
+        {
+          "source": "TG",
+          "project": "supanova",
+          "account": "supanova_app",
+          "alpha": "lakka",
+          "seenAt": "2026-11-03T21:59:56+00:00",
+          "messageId": "dodtwitterbot/39495",
+          "description": "Launch your token in minutes on Canton - the network Wall Street is moving onto.\n\nCanton-native AMM & launchpad.",
+          "text": "Launch your token in minutes on Canton - the network Wall Street is moving onto.\n\nCanton-native AMM & launchpad."
+        }
+      ],
+      "text": " supanova supanova_app Launch your token in minutes on Canton - the network Wall Street is moving onto.\n\nCanton-native AMM & launchpad. supanova supanova_app Launch your token in minutes on Canton - the network Wall Street is moving onto.\n\nCanton-native AMM & launchpad.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Todd",
       "account": "ToshXguys",
       "sources": [
@@ -4943,52 +5059,6 @@
         }
       ],
       "text": " UNSEEN UnseenOrdo The first Private UDA(NFT) collection on Bitcoin RGB.\nHere's to the unseen ones.\nTG → https://t.co/zzUxatm7kr UNSEEN UnseenOrdo The first Private UDA(NFT) collection on Bitcoin RGB.\nHere's to the unseen ones.\nTG → https://t.co/zzUxatm7kr",
-      "score": 4,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Valhalla on Elysium",
-      "account": "Valhalla_Launch",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "蛋总",
-        "阿宏"
-      ],
-      "tgAlphas": [
-        "蛋总",
-        "阿宏"
-      ],
-      "xAlphas": [],
-      "mentions": 2,
-      "firstSeen": "2026-10-30T14:07:21+00:00",
-      "lastSeen": "2026-11-01T05:45:49+00:00",
-      "description": "Alpha platform for launching NFTs and tokens on @Enter_Elysium",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Valhalla on Elysium",
-          "account": "Valhalla_Launch",
-          "alpha": "阿宏",
-          "seenAt": "2026-10-30T14:07:21+00:00",
-          "messageId": "dodtwitterbot/38644",
-          "description": "Alpha platform for launching NFTs and tokens on @Enter_Elysium",
-          "text": "Alpha platform for launching NFTs and tokens on @Enter_Elysium"
-        },
-        {
-          "source": "TG",
-          "project": "Valhalla on Elysium",
-          "account": "Valhalla_Launch",
-          "alpha": "蛋总",
-          "seenAt": "2026-11-01T05:45:49+00:00",
-          "messageId": "dodtwitterbot/38894",
-          "description": "Alpha platform for launching NFTs and tokens on @Enter_Elysium",
-          "text": "Alpha platform for launching NFTs and tokens on @Enter_Elysium"
-        }
-      ],
-      "text": " Valhalla on Elysium Valhalla_Launch Alpha platform for launching NFTs and tokens on @Enter_Elysium Valhalla on Elysium Valhalla_Launch Alpha platform for launching NFTs and tokens on @Enter_Elysium",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -7932,6 +8002,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Loadout",
+      "account": "loadoutprotocol",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "A佬"
+      ],
+      "tgAlphas": [
+        "A佬"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-03T23:49:05+00:00",
+      "lastSeen": "2026-11-03T23:49:05+00:00",
+      "description": "The Launchpad for Games. From the creators of @illuviumio",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Loadout",
+          "account": "loadoutprotocol",
+          "alpha": "A佬",
+          "seenAt": "2026-11-03T23:49:05+00:00",
+          "messageId": "dodtwitterbot/39497",
+          "description": "The Launchpad for Games. From the creators of @illuviumio",
+          "text": "The Launchpad for Games. From the creators of @illuviumio"
+        }
+      ],
+      "text": " Loadout loadoutprotocol The Launchpad for Games. From the creators of @illuviumio",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Loot Planets",
       "account": "LootPlanetsRH",
       "sources": [
@@ -9734,6 +9838,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Syntropic Agent",
+      "account": "SyntropicAgent",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-03T21:43:31+00:00",
+      "lastSeen": "2026-11-03T21:43:31+00:00",
+      "description": "An agent, developing & powering Real World Flywheels via Syntropic Farming, leveraging the @KokonutNetwork Framework.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Syntropic Agent",
+          "account": "SyntropicAgent",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-03T21:43:31+00:00",
+          "messageId": "dodtwitterbot/39492",
+          "description": "An agent, developing & powering Real World Flywheels via Syntropic Farming, leveraging the @KokonutNetwork Framework.",
+          "text": "An agent, developing & powering Real World Flywheels via Syntropic Farming, leveraging the @KokonutNetwork Framework."
+        }
+      ],
+      "text": " Syntropic Agent SyntropicAgent An agent, developing & powering Real World Flywheels via Syntropic Farming, leveraging the @KokonutNetwork Framework.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "t1",
       "account": "t1protocol",
       "sources": [
@@ -10171,6 +10309,40 @@
         }
       ],
       "text": " Veins veindotspace The first mining protocol on Elysium.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Velyx",
+      "account": "Velyxdotfun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-03T21:40:35+00:00",
+      "lastSeen": "2026-11-03T21:40:35+00:00",
+      "description": "Your coin needs a site before the chart moves. Paste the CA, watch an AI agent build it live. Only the coin's dev can order one.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Velyx",
+          "account": "Velyxdotfun",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-03T21:40:35+00:00",
+          "messageId": "dodtwitterbot/39491",
+          "description": "Your coin needs a site before the chart moves. Paste the CA, watch an AI agent build it live. Only the coin's dev can order one.",
+          "text": "Your coin needs a site before the chart moves. Paste the CA, watch an AI agent build it live. Only the coin's dev can order one."
+        }
+      ],
+      "text": " Velyx Velyxdotfun Your coin needs a site before the chart moves. Paste the CA, watch an AI agent build it live. Only the coin's dev can order one.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -10896,6 +11068,23 @@
       "avatarUrl": ""
     },
     {
+      "project": "NutshellMarkets",
+      "x_account": "NutshellMarkets",
+      "total_mentions": 4,
+      "unique_alphas": 4,
+      "alphas": [
+        "hit.ink",
+        "lakka",
+        "unsynned",
+        "蛋总"
+      ],
+      "description": "Building a treasury designed to grow @squeekchain",
+      "first_seen_utc": "2026-10-28T20:12:15+00:00",
+      "last_seen_utc": "2026-11-03T21:10:16+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
       "project": "Origo",
       "x_account": "origopad",
       "total_mentions": 4,
@@ -11251,22 +11440,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "NutshellMarkets",
-      "x_account": "NutshellMarkets",
-      "total_mentions": 3,
-      "unique_alphas": 3,
-      "alphas": [
-        "lakka",
-        "unsynned",
-        "蛋总"
-      ],
-      "description": "Building a treasury designed to grow @squeekchain",
-      "first_seen_utc": "2026-10-28T20:12:15+00:00",
-      "last_seen_utc": "2026-11-03T19:02:23+00:00",
-      "status": "priority",
-      "avatarUrl": ""
-    },
-    {
       "project": "Omnia π",
       "x_account": "0xOmnia",
       "total_mentions": 3,
@@ -11359,6 +11532,22 @@
       "description": "Pay-per-call for AI agents on Solana.\nAgents pay in USDC over x402. Every request pays its toll.\n\nToken is not live yet.",
       "first_seen_utc": "2026-10-31T12:00:23+00:00",
       "last_seen_utc": "2026-11-01T06:10:58+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Valhalla on Elysium",
+      "x_account": "Valhalla_Launch",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "BTC alpha",
+        "蛋总",
+        "阿宏"
+      ],
+      "description": "Alpha platform for launching NFTs and tokens on @Enter_Elysium",
+      "first_seen_utc": "2026-10-30T14:07:21+00:00",
+      "last_seen_utc": "2026-11-03T21:01:37+00:00",
       "status": "priority",
       "avatarUrl": ""
     },
@@ -11963,6 +12152,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "supanova",
+      "x_account": "supanova_app",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "hit.ink",
+        "lakka"
+      ],
+      "description": "Launch your token in minutes on Canton - the network Wall Street is moving onto.\n\nCanton-native AMM & launchpad.",
+      "first_seen_utc": "2026-11-03T21:56:10+00:00",
+      "last_seen_utc": "2026-11-03T21:59:56+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Todd",
       "x_account": "ToshXguys",
       "total_mentions": 2,
@@ -11989,21 +12193,6 @@
       "description": "The first Private UDA(NFT) collection on Bitcoin RGB.\nHere's to the unseen ones.\nTG → https://t.co/zzUxatm7kr",
       "first_seen_utc": "2026-10-29T07:10:35+00:00",
       "last_seen_utc": "2026-11-03T14:32:22+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Valhalla on Elysium",
-      "x_account": "Valhalla_Launch",
-      "total_mentions": 2,
-      "unique_alphas": 2,
-      "alphas": [
-        "蛋总",
-        "阿宏"
-      ],
-      "description": "Alpha platform for launching NFTs and tokens on @Enter_Elysium",
-      "first_seen_utc": "2026-10-30T14:07:21+00:00",
-      "last_seen_utc": "2026-11-01T05:45:49+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -13202,6 +13391,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Loadout",
+      "x_account": "loadoutprotocol",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "A佬"
+      ],
+      "description": "The Launchpad for Games. From the creators of @illuviumio",
+      "first_seen_utc": "2026-11-03T23:49:05+00:00",
+      "last_seen_utc": "2026-11-03T23:49:05+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Loot Planets",
       "x_account": "LootPlanetsRH",
       "total_mentions": 1,
@@ -13944,6 +14147,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Syntropic Agent",
+      "x_account": "SyntropicAgent",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "unsynned"
+      ],
+      "description": "An agent, developing & powering Real World Flywheels via Syntropic Farming, leveraging the @KokonutNetwork Framework.",
+      "first_seen_utc": "2026-11-03T21:43:31+00:00",
+      "last_seen_utc": "2026-11-03T21:43:31+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "t1",
       "x_account": "t1protocol",
       "total_mentions": 1,
@@ -14122,6 +14339,20 @@
       "description": "The first mining protocol on Elysium.",
       "first_seen_utc": "2026-11-02T16:43:33+00:00",
       "last_seen_utc": "2026-11-02T16:43:33+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Velyx",
+      "x_account": "Velyxdotfun",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "unsynned"
+      ],
+      "description": "Your coin needs a site before the chart moves. Paste the CA, watch an AI agent build it live. Only the coin's dev can order one.",
+      "first_seen_utc": "2026-11-03T21:40:35+00:00",
+      "last_seen_utc": "2026-11-03T21:40:35+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -14311,14 +14542,143 @@
   "daily": [
     {
       "date": "2026-11-04",
-      "totalRows": 3,
-      "projectCount": 3,
-      "focusCount": 0,
-      "candidateCount": 3,
+      "totalRows": 10,
+      "projectCount": 8,
+      "focusCount": 2,
+      "candidateCount": 6,
       "crossSource": 0,
-      "newCount": 1,
-      "repeatCount": 2,
+      "newCount": 5,
+      "repeatCount": 3,
       "projects": [
+        {
+          "project": "NutshellMarkets",
+          "account": "NutshellMarkets",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "hit.ink",
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "hit.ink",
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-11-03T19:02:23+00:00",
+          "lastSeen": "2026-11-03T21:10:16+00:00",
+          "description": "Building a treasury designed to grow @squeekchain",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "NutshellMarkets",
+              "account": "NutshellMarkets",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-03T19:02:23+00:00",
+              "messageId": "dodtwitterbot/39472",
+              "description": "Building a treasury designed to grow @squeekchain",
+              "text": "Building a treasury designed to grow @squeekchain"
+            },
+            {
+              "source": "TG",
+              "project": "NutshellMarkets",
+              "account": "NutshellMarkets",
+              "alpha": "hit.ink",
+              "seenAt": "2026-11-03T21:10:16+00:00",
+              "messageId": "dodtwitterbot/39484",
+              "description": "Building a treasury designed to grow @squeekchain",
+              "text": "Building a treasury designed to grow @squeekchain"
+            }
+          ],
+          "text": " NutshellMarkets NutshellMarkets Building a treasury designed to grow @squeekchain NutshellMarkets NutshellMarkets Building a treasury designed to grow @squeekchain",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "supanova",
+          "account": "supanova_app",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "hit.ink",
+            "lakka"
+          ],
+          "tgAlphas": [
+            "hit.ink",
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-11-03T21:56:10+00:00",
+          "lastSeen": "2026-11-03T21:59:56+00:00",
+          "description": "Launch your token in minutes on Canton - the network Wall Street is moving onto.\n\nCanton-native AMM & launchpad.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "supanova",
+              "account": "supanova_app",
+              "alpha": "hit.ink",
+              "seenAt": "2026-11-03T21:56:10+00:00",
+              "messageId": "dodtwitterbot/39493",
+              "description": "Launch your token in minutes on Canton - the network Wall Street is moving onto.\n\nCanton-native AMM & launchpad.",
+              "text": "Launch your token in minutes on Canton - the network Wall Street is moving onto.\n\nCanton-native AMM & launchpad."
+            },
+            {
+              "source": "TG",
+              "project": "supanova",
+              "account": "supanova_app",
+              "alpha": "lakka",
+              "seenAt": "2026-11-03T21:59:56+00:00",
+              "messageId": "dodtwitterbot/39495",
+              "description": "Launch your token in minutes on Canton - the network Wall Street is moving onto.\n\nCanton-native AMM & launchpad.",
+              "text": "Launch your token in minutes on Canton - the network Wall Street is moving onto.\n\nCanton-native AMM & launchpad."
+            }
+          ],
+          "text": " supanova supanova_app Launch your token in minutes on Canton - the network Wall Street is moving onto.\n\nCanton-native AMM & launchpad. supanova supanova_app Launch your token in minutes on Canton - the network Wall Street is moving onto.\n\nCanton-native AMM & launchpad.",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Loadout",
+          "account": "loadoutprotocol",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "A佬"
+          ],
+          "tgAlphas": [
+            "A佬"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-03T23:49:05+00:00",
+          "lastSeen": "2026-11-03T23:49:05+00:00",
+          "description": "The Launchpad for Games. From the creators of @illuviumio",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Loadout",
+              "account": "loadoutprotocol",
+              "alpha": "A佬",
+              "seenAt": "2026-11-03T23:49:05+00:00",
+              "messageId": "dodtwitterbot/39497",
+              "description": "The Launchpad for Games. From the creators of @illuviumio",
+              "text": "The Launchpad for Games. From the creators of @illuviumio"
+            }
+          ],
+          "text": " Loadout loadoutprotocol The Launchpad for Games. From the creators of @illuviumio",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
         {
           "project": "Mirko Nosenzo",
           "account": "netnose",
@@ -14355,41 +14715,6 @@
           "dayStatus": "new"
         },
         {
-          "project": "NutshellMarkets",
-          "account": "NutshellMarkets",
-          "sources": [
-            "TG"
-          ],
-          "alphas": [
-            "unsynned"
-          ],
-          "tgAlphas": [
-            "unsynned"
-          ],
-          "xAlphas": [],
-          "mentions": 1,
-          "firstSeen": "2026-11-03T19:02:23+00:00",
-          "lastSeen": "2026-11-03T19:02:23+00:00",
-          "description": "Building a treasury designed to grow @squeekchain",
-          "rows": [
-            {
-              "source": "TG",
-              "project": "NutshellMarkets",
-              "account": "NutshellMarkets",
-              "alpha": "unsynned",
-              "seenAt": "2026-11-03T19:02:23+00:00",
-              "messageId": "dodtwitterbot/39472",
-              "description": "Building a treasury designed to grow @squeekchain",
-              "text": "Building a treasury designed to grow @squeekchain"
-            }
-          ],
-          "text": " NutshellMarkets NutshellMarkets Building a treasury designed to grow @squeekchain",
-          "score": 2,
-          "displayTier": "candidate",
-          "avatarUrl": "",
-          "dayStatus": "repeat"
-        },
-        {
           "project": "PerpMe",
           "account": "perpmefun",
           "sources": [
@@ -14423,6 +14748,111 @@
           "displayTier": "candidate",
           "avatarUrl": "",
           "dayStatus": "repeat"
+        },
+        {
+          "project": "Syntropic Agent",
+          "account": "SyntropicAgent",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-03T21:43:31+00:00",
+          "lastSeen": "2026-11-03T21:43:31+00:00",
+          "description": "An agent, developing & powering Real World Flywheels via Syntropic Farming, leveraging the @KokonutNetwork Framework.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Syntropic Agent",
+              "account": "SyntropicAgent",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-03T21:43:31+00:00",
+              "messageId": "dodtwitterbot/39492",
+              "description": "An agent, developing & powering Real World Flywheels via Syntropic Farming, leveraging the @KokonutNetwork Framework.",
+              "text": "An agent, developing & powering Real World Flywheels via Syntropic Farming, leveraging the @KokonutNetwork Framework."
+            }
+          ],
+          "text": " Syntropic Agent SyntropicAgent An agent, developing & powering Real World Flywheels via Syntropic Farming, leveraging the @KokonutNetwork Framework.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Valhalla on Elysium",
+          "account": "Valhalla_Launch",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BTC alpha"
+          ],
+          "tgAlphas": [
+            "BTC alpha"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-03T21:01:37+00:00",
+          "lastSeen": "2026-11-03T21:01:37+00:00",
+          "description": "Alpha platform for launching NFTs and tokens on @Enter_Elysium",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Valhalla on Elysium",
+              "account": "Valhalla_Launch",
+              "alpha": "BTC alpha",
+              "seenAt": "2026-11-03T21:01:37+00:00",
+              "messageId": "dodtwitterbot/39483",
+              "description": "Alpha platform for launching NFTs and tokens on @Enter_Elysium",
+              "text": "Alpha platform for launching NFTs and tokens on @Enter_Elysium"
+            }
+          ],
+          "text": " Valhalla on Elysium Valhalla_Launch Alpha platform for launching NFTs and tokens on @Enter_Elysium",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Velyx",
+          "account": "Velyxdotfun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-03T21:40:35+00:00",
+          "lastSeen": "2026-11-03T21:40:35+00:00",
+          "description": "Your coin needs a site before the chart moves. Paste the CA, watch an AI agent build it live. Only the coin's dev can order one.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Velyx",
+              "account": "Velyxdotfun",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-03T21:40:35+00:00",
+              "messageId": "dodtwitterbot/39491",
+              "description": "Your coin needs a site before the chart moves. Paste the CA, watch an AI agent build it live. Only the coin's dev can order one.",
+              "text": "Your coin needs a site before the chart moves. Paste the CA, watch an AI agent build it live. Only the coin's dev can order one."
+            }
+          ],
+          "text": " Velyx Velyxdotfun Your coin needs a site before the chart moves. Paste the CA, watch an AI agent build it live. Only the coin's dev can order one.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
         }
       ]
     },
@@ -27028,129 +27458,134 @@
   ],
   "reports": [
     {
+      "file": "2026-11-04-0143-telegram-update.md",
+      "title": "2026-11-04-0143-telegram-update",
+      "updatedAt": "2026-11-04T01:43:58.992Z"
+    },
+    {
       "file": "2026-11-03-2018-telegram-update.md",
       "title": "2026-11-03-2018-telegram-update",
-      "updatedAt": "2026-11-03T20:18:47.273Z"
+      "updatedAt": "2026-11-04T01:43:53.896Z"
     },
     {
       "file": "2026-11-03-1302-telegram-update.md",
       "title": "2026-11-03-1302-telegram-update",
-      "updatedAt": "2026-11-03T20:18:44.807Z"
+      "updatedAt": "2026-11-04T01:43:53.896Z"
     },
     {
       "file": "2026-11-03-0306-telegram-update.md",
       "title": "2026-11-03-0306-telegram-update",
-      "updatedAt": "2026-11-03T20:18:44.806Z"
+      "updatedAt": "2026-11-04T01:43:53.896Z"
     },
     {
       "file": "2026-11-02-1950-telegram-update.md",
       "title": "2026-11-02-1950-telegram-update",
-      "updatedAt": "2026-11-03T20:18:44.806Z"
+      "updatedAt": "2026-11-04T01:43:53.896Z"
     },
     {
       "file": "2026-11-02-0826-telegram-update.md",
       "title": "2026-11-02-0826-telegram-update",
-      "updatedAt": "2026-11-03T20:18:44.806Z"
+      "updatedAt": "2026-11-04T01:43:53.896Z"
     },
     {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-03T20:18:44.806Z"
+      "updatedAt": "2026-11-04T01:43:53.896Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-03T20:18:44.806Z"
+      "updatedAt": "2026-11-04T01:43:53.896Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-03T20:18:44.806Z"
+      "updatedAt": "2026-11-04T01:43:53.896Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-03T20:18:44.806Z"
+      "updatedAt": "2026-11-04T01:43:53.896Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-03T20:18:44.806Z"
+      "updatedAt": "2026-11-04T01:43:53.896Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-03T20:18:44.806Z"
+      "updatedAt": "2026-11-04T01:43:53.896Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-03T20:18:44.806Z"
+      "updatedAt": "2026-11-04T01:43:53.896Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-03T20:18:44.806Z"
+      "updatedAt": "2026-11-04T01:43:53.896Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-03T20:18:44.806Z"
+      "updatedAt": "2026-11-04T01:43:53.896Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-03T20:18:44.806Z"
+      "updatedAt": "2026-11-04T01:43:53.896Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-03T20:18:44.806Z"
+      "updatedAt": "2026-11-04T01:43:53.896Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-03T20:18:44.806Z"
+      "updatedAt": "2026-11-04T01:43:53.896Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-03T20:18:44.806Z"
+      "updatedAt": "2026-11-04T01:43:53.896Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-03T20:18:44.806Z"
+      "updatedAt": "2026-11-04T01:43:53.896Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-03T20:18:44.806Z"
+      "updatedAt": "2026-11-04T01:43:53.896Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-03T20:18:44.806Z"
+      "updatedAt": "2026-11-04T01:43:53.896Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-03T20:18:44.806Z"
+      "updatedAt": "2026-11-04T01:43:53.896Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-03T20:18:44.806Z"
+      "updatedAt": "2026-11-04T01:43:53.896Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-03T20:18:44.806Z"
+      "updatedAt": "2026-11-04T01:43:53.896Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-03T20:18:44.805Z"
+      "updatedAt": "2026-11-04T01:43:53.894Z"
     }
   ]
 }
