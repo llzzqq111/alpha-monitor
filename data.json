@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-04T17:37:37.043Z",
+  "generatedAt": "2026-11-04T22:55:32.370Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 39645,
-    "lastMessageAt": "2026-11-04T17:31:17+00:00",
-    "lastCheckedAt": "2026-11-04T17:37:36.910Z",
-    "previousMessageId": 39527,
-    "pagesRead": 6,
-    "messagesRead": 118,
-    "newProjectRecords": 37,
+    "lastMessageId": 39685,
+    "lastMessageAt": "2026-11-04T22:42:03+00:00",
+    "lastCheckedAt": "2026-11-04T22:55:32.242Z",
+    "previousMessageId": 39645,
+    "pagesRead": 3,
+    "messagesRead": 40,
+    "newProjectRecords": 15,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 470,
+    "telegramRows": 485,
     "xRows": 0,
-    "projects": 280,
+    "projects": 288,
     "crossSource": 0
   },
   "projects": [
@@ -2740,6 +2740,64 @@
       "avatarUrl": ""
     },
     {
+      "project": "NULORA",
+      "account": "nuloraio",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Skrchen666(钻石手伤心版 绝对纸手之人）",
+        "hit.ink",
+        "发誓要做永赚大师"
+      ],
+      "tgAlphas": [
+        "Skrchen666(钻石手伤心版 绝对纸手之人）",
+        "hit.ink",
+        "发誓要做永赚大师"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-10-28T22:26:00+08:00",
+      "lastSeen": "2026-11-04T18:43:35+00:00",
+      "description": "Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "NULORA",
+          "account": "nuloraio",
+          "alpha": "hit.ink",
+          "seenAt": "2026-11-04T13:57:22+00:00",
+          "messageId": "dodtwitterbot/39614",
+          "description": "Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture",
+          "text": "Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture"
+        },
+        {
+          "source": "TG",
+          "project": "NULORA",
+          "account": "nuloraio",
+          "alpha": "Skrchen666(钻石手伤心版 绝对纸手之人）",
+          "seenAt": "2026-11-04T18:43:35+00:00",
+          "messageId": "dodtwitterbot/39658",
+          "description": "Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture",
+          "text": "Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture"
+        },
+        {
+          "source": "TG",
+          "project": "NULORA",
+          "account": "nuloraio",
+          "alpha": "发誓要做永赚大师",
+          "seenAt": "2026-10-28T22:26:00+08:00",
+          "messageId": "dodtwitterbot/38261",
+          "description": "Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture",
+          "text": "Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture"
+        }
+      ],
+      "text": " NULORA nuloraio Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture NULORA nuloraio Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture NULORA nuloraio Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Nummo",
       "account": "NummoHQ",
       "sources": [
@@ -2972,6 +3030,64 @@
       "avatarUrl": ""
     },
     {
+      "project": "Polypus",
+      "account": "polypus_fi",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse",
+        "hit.ink",
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "BearzVerse",
+        "hit.ink",
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-11-04T13:52:24+00:00",
+      "lastSeen": "2026-11-04T20:30:02+00:00",
+      "description": "Private transfers and private programs on @solana .",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Polypus",
+          "account": "polypus_fi",
+          "alpha": "hit.ink",
+          "seenAt": "2026-11-04T13:52:24+00:00",
+          "messageId": "dodtwitterbot/39610",
+          "description": "Private transfers and private programs on @solana .",
+          "text": "Private transfers and private programs on @solana ."
+        },
+        {
+          "source": "TG",
+          "project": "Polypus",
+          "account": "polypus_fi",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-04T17:39:48+00:00",
+          "messageId": "dodtwitterbot/39647",
+          "description": "Private transfers and private programs on @solana .",
+          "text": "Private transfers and private programs on @solana ."
+        },
+        {
+          "source": "TG",
+          "project": "Polypus",
+          "account": "polypus_fi",
+          "alpha": "BearzVerse",
+          "seenAt": "2026-11-04T20:30:02+00:00",
+          "messageId": "dodtwitterbot/39680",
+          "description": "Private transfers and private programs on @solana .",
+          "text": "Private transfers and private programs on @solana ."
+        }
+      ],
+      "text": " Polypus polypus_fi Private transfers and private programs on @solana . Polypus polypus_fi Private transfers and private programs on @solana . Polypus polypus_fi Private transfers and private programs on @solana .",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Pulse",
       "account": "PulseLaunchpad",
       "sources": [
@@ -3141,6 +3257,64 @@
         }
       ],
       "text": " Styxn Terminal StyxnTerminal the home of memecoins on Elysium.\n\nlaunch tokens. trade faster. rule the trenches. Styxn Terminal StyxnTerminal the home of memecoins on Elysium.\n\nlaunch tokens. trade faster. rule the trenches. Styxn Terminal StyxnTerminal the home of memecoins on Elysium.\n\nlaunch tokens. trade faster. rule the trenches.",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Taoperp.com",
+      "account": "taoperp",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse",
+        "hit.ink",
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "BearzVerse",
+        "hit.ink",
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-11-04T13:52:24+00:00",
+      "lastSeen": "2026-11-04T20:26:18+00:00",
+      "description": "Long or short Bittensor subnets with leverage, on-chain and 24/7.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Taoperp.com",
+          "account": "taoperp",
+          "alpha": "hit.ink",
+          "seenAt": "2026-11-04T13:52:24+00:00",
+          "messageId": "dodtwitterbot/39609",
+          "description": "Long or short Bittensor subnets with leverage, on-chain and 24/7.",
+          "text": "Long or short Bittensor subnets with leverage, on-chain and 24/7."
+        },
+        {
+          "source": "TG",
+          "project": "Taoperp.com",
+          "account": "taoperp",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-04T17:39:48+00:00",
+          "messageId": "dodtwitterbot/39649",
+          "description": "Long or short Bittensor subnets with leverage, on-chain and 24/7.",
+          "text": "Long or short Bittensor subnets with leverage, on-chain and 24/7."
+        },
+        {
+          "source": "TG",
+          "project": "Taoperp.com",
+          "account": "taoperp",
+          "alpha": "BearzVerse",
+          "seenAt": "2026-11-04T20:26:18+00:00",
+          "messageId": "dodtwitterbot/39676",
+          "description": "Long or short Bittensor subnets with leverage, on-chain and 24/7.",
+          "text": "Long or short Bittensor subnets with leverage, on-chain and 24/7."
+        }
+      ],
+      "text": " Taoperp.com taoperp Long or short Bittensor subnets with leverage, on-chain and 24/7. Taoperp.com taoperp Long or short Bittensor subnets with leverage, on-chain and 24/7. Taoperp.com taoperp Long or short Bittensor subnets with leverage, on-chain and 24/7.",
       "score": 6,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -4274,6 +4448,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "Hegemon",
+      "account": "hegemonprotocol",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse",
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "BearzVerse",
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-04T19:37:59+00:00",
+      "lastSeen": "2026-11-04T20:29:04+00:00",
+      "description": "The quantum resistant shielded pool",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Hegemon",
+          "account": "hegemonprotocol",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-04T19:37:59+00:00",
+          "messageId": "dodtwitterbot/39666",
+          "description": "The quantum resistant shielded pool",
+          "text": "The quantum resistant shielded pool"
+        },
+        {
+          "source": "TG",
+          "project": "Hegemon",
+          "account": "hegemonprotocol",
+          "alpha": "BearzVerse",
+          "seenAt": "2026-11-04T20:29:04+00:00",
+          "messageId": "dodtwitterbot/39679",
+          "description": "The quantum resistant shielded pool",
+          "text": "The quantum resistant shielded pool"
+        }
+      ],
+      "text": " Hegemon hegemonprotocol The quantum resistant shielded pool Hegemon hegemonprotocol The quantum resistant shielded pool",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "HyFi",
       "account": "hyfi_xyz",
       "sources": [
@@ -4826,6 +5046,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "Ninefold",
+      "account": "NinefoldArt",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "flaxsed",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "flaxsed",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-03T03:15:36+00:00",
+      "lastSeen": "2026-11-04T17:56:29+00:00",
+      "description": "Your wallet creates the art. 999 on-chain artworks that redraw themselves for whoever holds them.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Ninefold",
+          "account": "NinefoldArt",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-03T03:15:36+00:00",
+          "messageId": "dodtwitterbot/39360",
+          "description": "Your wallet creates the art. 999 on-chain artworks that redraw themselves for whoever holds them.",
+          "text": "Your wallet creates the art. 999 on-chain artworks that redraw themselves for whoever holds them."
+        },
+        {
+          "source": "TG",
+          "project": "Ninefold",
+          "account": "NinefoldArt",
+          "alpha": "flaxsed",
+          "seenAt": "2026-11-04T17:56:29+00:00",
+          "messageId": "dodtwitterbot/39650",
+          "description": "Your wallet creates the art. 999 on-chain artworks that redraw themselves for whoever holds them.",
+          "text": "Your wallet creates the art. 999 on-chain artworks that redraw themselves for whoever holds them."
+        }
+      ],
+      "text": " Ninefold NinefoldArt Your wallet creates the art. 999 on-chain artworks that redraw themselves for whoever holds them. Ninefold NinefoldArt Your wallet creates the art. 999 on-chain artworks that redraw themselves for whoever holds them.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Nomad Finance",
       "account": "nomadfinanceio",
       "sources": [
@@ -4867,52 +5133,6 @@
         }
       ],
       "text": " Nomad Finance nomadfinanceio Better Market Making for Public LPs Nomad Finance nomadfinanceio Better Market Making for Public LPs",
-      "score": 4,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
-      "project": "NULORA",
-      "account": "nuloraio",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "hit.ink",
-        "发誓要做永赚大师"
-      ],
-      "tgAlphas": [
-        "hit.ink",
-        "发誓要做永赚大师"
-      ],
-      "xAlphas": [],
-      "mentions": 2,
-      "firstSeen": "2026-10-28T22:26:00+08:00",
-      "lastSeen": "2026-11-04T13:57:22+00:00",
-      "description": "Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "NULORA",
-          "account": "nuloraio",
-          "alpha": "hit.ink",
-          "seenAt": "2026-11-04T13:57:22+00:00",
-          "messageId": "dodtwitterbot/39614",
-          "description": "Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture",
-          "text": "Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture"
-        },
-        {
-          "source": "TG",
-          "project": "NULORA",
-          "account": "nuloraio",
-          "alpha": "发誓要做永赚大师",
-          "seenAt": "2026-10-28T22:26:00+08:00",
-          "messageId": "dodtwitterbot/38261",
-          "description": "Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture",
-          "text": "Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture"
-        }
-      ],
-      "text": " NULORA nuloraio Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture NULORA nuloraio Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -6652,6 +6872,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "BRRRAIN 🧠",
+      "account": "brrrain_ai",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "hit.ink"
+      ],
+      "tgAlphas": [
+        "hit.ink"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-04T20:12:10+00:00",
+      "lastSeen": "2026-11-04T20:12:10+00:00",
+      "description": "Hold BRRRAIN. Get AI credits every day. Chat, code, and power your agents. No subscription. Built on NEAR. 🧠 ⚡",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "BRRRAIN 🧠",
+          "account": "brrrain_ai",
+          "alpha": "hit.ink",
+          "seenAt": "2026-11-04T20:12:10+00:00",
+          "messageId": "dodtwitterbot/39671",
+          "description": "Hold BRRRAIN. Get AI credits every day. Chat, code, and power your agents. No subscription. Built on NEAR. 🧠 ⚡",
+          "text": "Hold BRRRAIN. Get AI credits every day. Chat, code, and power your agents. No subscription. Built on NEAR. 🧠 ⚡"
+        }
+      ],
+      "text": " BRRRAIN 🧠 brrrain_ai Hold BRRRAIN. Get AI credits every day. Chat, code, and power your agents. No subscription. Built on NEAR. 🧠 ⚡",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "BTape",
       "account": "bitcointapes",
       "sources": [
@@ -7123,6 +7377,40 @@
         }
       ],
       "text": " DAIMONS daimonsHQ The first AI-based game in Elysium",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Deanone 💎",
+      "account": "Deanoneqq",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-04T19:50:25+00:00",
+      "lastSeen": "2026-11-04T19:50:25+00:00",
+      "description": "degen @solana | dev ops | deadlock top 100 ASIA · fulltime shitposter · printing at https://t.co/SYXxswud0W",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Deanone 💎",
+          "account": "Deanoneqq",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-04T19:50:25+00:00",
+          "messageId": "dodtwitterbot/39669",
+          "description": "degen @solana | dev ops | deadlock top 100 ASIA · fulltime shitposter · printing at https://t.co/SYXxswud0W",
+          "text": "degen @solana | dev ops | deadlock top 100 ASIA · fulltime shitposter · printing at https://t.co/SYXxswud0W"
+        }
+      ],
+      "text": " Deanone 💎 Deanoneqq degen @solana | dev ops | deadlock top 100 ASIA · fulltime shitposter · printing at https://t.co/SYXxswud0W",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -9304,35 +9592,35 @@
       "avatarUrl": ""
     },
     {
-      "project": "Ninefold",
-      "account": "NinefoldArt",
+      "project": "NorenAgent",
+      "account": "NorenAgent",
       "sources": [
         "TG"
       ],
       "alphas": [
-        "阿宏"
+        "unsynned"
       ],
       "tgAlphas": [
-        "阿宏"
+        "unsynned"
       ],
       "xAlphas": [],
       "mentions": 1,
-      "firstSeen": "2026-11-03T03:15:36+00:00",
-      "lastSeen": "2026-11-03T03:15:36+00:00",
-      "description": "Your wallet creates the art. 999 on-chain artworks that redraw themselves for whoever holds them.",
+      "firstSeen": "2026-11-04T19:23:52+00:00",
+      "lastSeen": "2026-11-04T19:23:52+00:00",
+      "description": "Every agent runs under a signed grant. Every action leaves a receipt in a hash-chained audit log. Eight primitives, built in the open.",
       "rows": [
         {
           "source": "TG",
-          "project": "Ninefold",
-          "account": "NinefoldArt",
-          "alpha": "阿宏",
-          "seenAt": "2026-11-03T03:15:36+00:00",
-          "messageId": "dodtwitterbot/39360",
-          "description": "Your wallet creates the art. 999 on-chain artworks that redraw themselves for whoever holds them.",
-          "text": "Your wallet creates the art. 999 on-chain artworks that redraw themselves for whoever holds them."
+          "project": "NorenAgent",
+          "account": "NorenAgent",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-04T19:23:52+00:00",
+          "messageId": "dodtwitterbot/39665",
+          "description": "Every agent runs under a signed grant. Every action leaves a receipt in a hash-chained audit log. Eight primitives, built in the open.",
+          "text": "Every agent runs under a signed grant. Every action leaves a receipt in a hash-chained audit log. Eight primitives, built in the open."
         }
       ],
-      "text": " Ninefold NinefoldArt Your wallet creates the art. 999 on-chain artworks that redraw themselves for whoever holds them.",
+      "text": " NorenAgent NorenAgent Every agent runs under a signed grant. Every action leaves a receipt in a hash-chained audit log. Eight primitives, built in the open.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -9435,6 +9723,40 @@
         }
       ],
       "text": " Orderly OrderlyNetwork Own the Exchange.\n\nLaunch your own perp DEX in minutes: https://t.co/1lIlmAUeRn\n\nJoin Raydium, WOOFi, Vanta, and 450+ more&#33;",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "P2PKit",
+      "account": "p2pkitdotcom",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "NΞO"
+      ],
+      "tgAlphas": [
+        "NΞO"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-04T22:42:03+00:00",
+      "lastSeen": "2026-11-04T22:42:03+00:00",
+      "description": "Take local payments. Settle in USDC.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "P2PKit",
+          "account": "p2pkitdotcom",
+          "alpha": "NΞO",
+          "seenAt": "2026-11-04T22:42:03+00:00",
+          "messageId": "dodtwitterbot/39685",
+          "description": "Take local payments. Settle in USDC.",
+          "text": "Take local payments. Settle in USDC."
+        }
+      ],
+      "text": " P2PKit p2pkitdotcom Take local payments. Settle in USDC.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -9576,35 +9898,35 @@
       "avatarUrl": ""
     },
     {
-      "project": "Polypus",
-      "account": "polypus_fi",
+      "project": "Potrun",
+      "account": "potrunxyz",
       "sources": [
         "TG"
       ],
       "alphas": [
-        "hit.ink"
+        "lakka"
       ],
       "tgAlphas": [
-        "hit.ink"
+        "lakka"
       ],
       "xAlphas": [],
       "mentions": 1,
-      "firstSeen": "2026-11-04T13:52:24+00:00",
-      "lastSeen": "2026-11-04T13:52:24+00:00",
-      "description": "Private transfers and private programs on @solana .",
+      "firstSeen": "2026-11-04T20:28:09+00:00",
+      "lastSeen": "2026-11-04T20:28:09+00:00",
+      "description": "Hit up to 200x on your favorite tokens. Coming soon.",
       "rows": [
         {
           "source": "TG",
-          "project": "Polypus",
-          "account": "polypus_fi",
-          "alpha": "hit.ink",
-          "seenAt": "2026-11-04T13:52:24+00:00",
-          "messageId": "dodtwitterbot/39610",
-          "description": "Private transfers and private programs on @solana .",
-          "text": "Private transfers and private programs on @solana ."
+          "project": "Potrun",
+          "account": "potrunxyz",
+          "alpha": "lakka",
+          "seenAt": "2026-11-04T20:28:09+00:00",
+          "messageId": "dodtwitterbot/39678",
+          "description": "Hit up to 200x on your favorite tokens. Coming soon.",
+          "text": "Hit up to 200x on your favorite tokens. Coming soon."
         }
       ],
-      "text": " Polypus polypus_fi Private transfers and private programs on @solana .",
+      "text": " Potrun potrunxyz Hit up to 200x on your favorite tokens. Coming soon.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -9877,6 +10199,40 @@
         }
       ],
       "text": " Razor Agent Razor_Agent Razor Agent (&#036;RZAG) — the agent-native genesis mint on BNB Chain. Rules in code, parameters machine-readable.\n\n&#036;RZAG: 0xD5c03f871A34a01373d68ee38f6e67AC195cd66B",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Revvy",
+      "account": "tryrevvy",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka"
+      ],
+      "tgAlphas": [
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-04T21:55:06+00:00",
+      "lastSeen": "2026-11-04T21:55:06+00:00",
+      "description": "The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Revvy",
+          "account": "tryrevvy",
+          "alpha": "lakka",
+          "seenAt": "2026-11-04T21:55:06+00:00",
+          "messageId": "dodtwitterbot/39684",
+          "description": "The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world",
+          "text": "The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world"
+        }
+      ],
+      "text": " Revvy tryrevvy The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -10868,40 +11224,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Taoperp.com",
-      "account": "taoperp",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "hit.ink"
-      ],
-      "tgAlphas": [
-        "hit.ink"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-04T13:52:24+00:00",
-      "lastSeen": "2026-11-04T13:52:24+00:00",
-      "description": "Long or short Bittensor subnets with leverage, on-chain and 24/7.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Taoperp.com",
-          "account": "taoperp",
-          "alpha": "hit.ink",
-          "seenAt": "2026-11-04T13:52:24+00:00",
-          "messageId": "dodtwitterbot/39609",
-          "description": "Long or short Bittensor subnets with leverage, on-chain and 24/7.",
-          "text": "Long or short Bittensor subnets with leverage, on-chain and 24/7."
-        }
-      ],
-      "text": " Taoperp.com taoperp Long or short Bittensor subnets with leverage, on-chain and 24/7.",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
       "project": "Taoway",
       "account": "Taowayxyz",
       "sources": [
@@ -11169,6 +11491,40 @@
         }
       ],
       "text": " torpor torpornet https://t.co/2bFEMjhiUw is the intelligence layer for Elysium NFTs. apply for wl https://t.co/h7N4CaglIV",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "TurtleFren",
+      "account": "TurtleFrenGame",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Mutu 🕸️"
+      ],
+      "tgAlphas": [
+        "Mutu 🕸️"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-04T18:29:24+00:00",
+      "lastSeen": "2026-11-04T18:29:24+00:00",
+      "description": "small turtle. big internet. here to make frens. 🐢",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "TurtleFren",
+          "account": "TurtleFrenGame",
+          "alpha": "Mutu 🕸️",
+          "seenAt": "2026-11-04T18:29:24+00:00",
+          "messageId": "dodtwitterbot/39655",
+          "description": "small turtle. big internet. here to make frens. 🐢",
+          "text": "small turtle. big internet. here to make frens. 🐢"
+        }
+      ],
+      "text": " TurtleFren TurtleFrenGame small turtle. big internet. here to make frens. 🐢",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -12475,6 +12831,22 @@
       "avatarUrl": ""
     },
     {
+      "project": "NULORA",
+      "x_account": "nuloraio",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "Skrchen666(钻石手伤心版 绝对纸手之人）",
+        "hit.ink",
+        "发誓要做永赚大师"
+      ],
+      "description": "Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture",
+      "first_seen_utc": "2026-10-28T22:26:00+08:00",
+      "last_seen_utc": "2026-11-04T18:43:35+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
       "project": "Nummo",
       "x_account": "NummoHQ",
       "total_mentions": 3,
@@ -12539,6 +12911,22 @@
       "avatarUrl": ""
     },
     {
+      "project": "Polypus",
+      "x_account": "polypus_fi",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "BearzVerse",
+        "hit.ink",
+        "unsynned"
+      ],
+      "description": "Private transfers and private programs on @solana .",
+      "first_seen_utc": "2026-11-04T13:52:24+00:00",
+      "last_seen_utc": "2026-11-04T20:30:02+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
       "project": "Pulse",
       "x_account": "PulseLaunchpad",
       "total_mentions": 3,
@@ -12583,6 +12971,22 @@
       "description": "the home of memecoins on Elysium.\n\nlaunch tokens. trade faster. rule the trenches.",
       "first_seen_utc": "2026-11-01T16:52:34+00:00",
       "last_seen_utc": "2026-11-04T11:17:48+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Taoperp.com",
+      "x_account": "taoperp",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "BearzVerse",
+        "hit.ink",
+        "unsynned"
+      ],
+      "description": "Long or short Bittensor subnets with leverage, on-chain and 24/7.",
+      "first_seen_utc": "2026-11-04T13:52:24+00:00",
+      "last_seen_utc": "2026-11-04T20:26:18+00:00",
       "status": "priority",
       "avatarUrl": ""
     },
@@ -12949,6 +13353,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "Hegemon",
+      "x_account": "hegemonprotocol",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "BearzVerse",
+        "unsynned"
+      ],
+      "description": "The quantum resistant shielded pool",
+      "first_seen_utc": "2026-11-04T19:37:59+00:00",
+      "last_seen_utc": "2026-11-04T20:29:04+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "HyFi",
       "x_account": "hyfi_xyz",
       "total_mentions": 2,
@@ -13129,6 +13548,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "Ninefold",
+      "x_account": "NinefoldArt",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "flaxsed",
+        "阿宏"
+      ],
+      "description": "Your wallet creates the art. 999 on-chain artworks that redraw themselves for whoever holds them.",
+      "first_seen_utc": "2026-11-03T03:15:36+00:00",
+      "last_seen_utc": "2026-11-04T17:56:29+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Nomad Finance",
       "x_account": "nomadfinanceio",
       "total_mentions": 2,
@@ -13140,21 +13574,6 @@
       "description": "Better Market Making for Public LPs",
       "first_seen_utc": "2026-10-29T17:42:57+00:00",
       "last_seen_utc": "2026-10-29T19:42:43+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "NULORA",
-      "x_account": "nuloraio",
-      "total_mentions": 2,
-      "unique_alphas": 2,
-      "alphas": [
-        "hit.ink",
-        "发誓要做永赚大师"
-      ],
-      "description": "Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture",
-      "first_seen_utc": "2026-10-28T22:26:00+08:00",
-      "last_seen_utc": "2026-11-04T13:57:22+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -13806,6 +14225,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "BRRRAIN 🧠",
+      "x_account": "brrrain_ai",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "hit.ink"
+      ],
+      "description": "Hold BRRRAIN. Get AI credits every day. Chat, code, and power your agents. No subscription. Built on NEAR. 🧠 ⚡",
+      "first_seen_utc": "2026-11-04T20:12:10+00:00",
+      "last_seen_utc": "2026-11-04T20:12:10+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "BTape",
       "x_account": "bitcointapes",
       "total_mentions": 1,
@@ -13998,6 +14431,20 @@
       "description": "The first AI-based game in Elysium",
       "first_seen_utc": "2026-11-01T06:01:28+00:00",
       "last_seen_utc": "2026-11-01T06:01:28+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Deanone 💎",
+      "x_account": "Deanoneqq",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "unsynned"
+      ],
+      "description": "degen @solana | dev ops | deadlock top 100 ASIA · fulltime shitposter · printing at https://t.co/SYXxswud0W",
+      "first_seen_utc": "2026-11-04T19:50:25+00:00",
+      "last_seen_utc": "2026-11-04T19:50:25+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -14898,16 +15345,16 @@
       "avatarUrl": ""
     },
     {
-      "project": "Ninefold",
-      "x_account": "NinefoldArt",
+      "project": "NorenAgent",
+      "x_account": "NorenAgent",
       "total_mentions": 1,
       "unique_alphas": 1,
       "alphas": [
-        "阿宏"
+        "unsynned"
       ],
-      "description": "Your wallet creates the art. 999 on-chain artworks that redraw themselves for whoever holds them.",
-      "first_seen_utc": "2026-11-03T03:15:36+00:00",
-      "last_seen_utc": "2026-11-03T03:15:36+00:00",
+      "description": "Every agent runs under a signed grant. Every action leaves a receipt in a hash-chained audit log. Eight primitives, built in the open.",
+      "first_seen_utc": "2026-11-04T19:23:52+00:00",
+      "last_seen_utc": "2026-11-04T19:23:52+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -14950,6 +15397,20 @@
       "description": "Own the Exchange.\n\nLaunch your own perp DEX in minutes: https://t.co/1lIlmAUeRn\n\nJoin Raydium, WOOFi, Vanta, and 450+ more&#33;",
       "first_seen_utc": "2026-11-04T11:38:10+00:00",
       "last_seen_utc": "2026-11-04T11:38:10+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "P2PKit",
+      "x_account": "p2pkitdotcom",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "NΞO"
+      ],
+      "description": "Take local payments. Settle in USDC.",
+      "first_seen_utc": "2026-11-04T22:42:03+00:00",
+      "last_seen_utc": "2026-11-04T22:42:03+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -15010,16 +15471,16 @@
       "avatarUrl": ""
     },
     {
-      "project": "Polypus",
-      "x_account": "polypus_fi",
+      "project": "Potrun",
+      "x_account": "potrunxyz",
       "total_mentions": 1,
       "unique_alphas": 1,
       "alphas": [
-        "hit.ink"
+        "lakka"
       ],
-      "description": "Private transfers and private programs on @solana .",
-      "first_seen_utc": "2026-11-04T13:52:24+00:00",
-      "last_seen_utc": "2026-11-04T13:52:24+00:00",
+      "description": "Hit up to 200x on your favorite tokens. Coming soon.",
+      "first_seen_utc": "2026-11-04T20:28:09+00:00",
+      "last_seen_utc": "2026-11-04T20:28:09+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -15132,6 +15593,20 @@
       "description": "Razor Agent (&#036;RZAG) — the agent-native genesis mint on BNB Chain. Rules in code, parameters machine-readable.\n\n&#036;RZAG: 0xD5c03f871A34a01373d68ee38f6e67AC195cd66B",
       "first_seen_utc": "2026-10-31T17:15:23+00:00",
       "last_seen_utc": "2026-10-31T17:15:23+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Revvy",
+      "x_account": "tryrevvy",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "lakka"
+      ],
+      "description": "The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world",
+      "first_seen_utc": "2026-11-04T21:55:06+00:00",
+      "last_seen_utc": "2026-11-04T21:55:06+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -15542,20 +16017,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Taoperp.com",
-      "x_account": "taoperp",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "hit.ink"
-      ],
-      "description": "Long or short Bittensor subnets with leverage, on-chain and 24/7.",
-      "first_seen_utc": "2026-11-04T13:52:24+00:00",
-      "last_seen_utc": "2026-11-04T13:52:24+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "Taoway",
       "x_account": "Taowayxyz",
       "total_mentions": 1,
@@ -15664,6 +16125,20 @@
       "description": "https://t.co/2bFEMjhiUw is the intelligence layer for Elysium NFTs. apply for wl https://t.co/h7N4CaglIV",
       "first_seen_utc": "2026-11-01T04:43:52+00:00",
       "last_seen_utc": "2026-11-01T04:43:52+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "TurtleFren",
+      "x_account": "TurtleFrenGame",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "Mutu 🕸️"
+      ],
+      "description": "small turtle. big internet. here to make frens. 🐢",
+      "first_seen_utc": "2026-11-04T18:29:24+00:00",
+      "last_seen_utc": "2026-11-04T18:29:24+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -15937,14 +16412,155 @@
   "daily": [
     {
       "date": "2026-11-05",
-      "totalRows": 3,
-      "projectCount": 3,
-      "focusCount": 0,
-      "candidateCount": 3,
+      "totalRows": 18,
+      "projectCount": 15,
+      "focusCount": 3,
+      "candidateCount": 12,
       "crossSource": 0,
-      "newCount": 2,
-      "repeatCount": 1,
+      "newCount": 10,
+      "repeatCount": 5,
       "projects": [
+        {
+          "project": "Hegemon",
+          "account": "hegemonprotocol",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BearzVerse",
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "BearzVerse",
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-11-04T19:37:59+00:00",
+          "lastSeen": "2026-11-04T20:29:04+00:00",
+          "description": "The quantum resistant shielded pool",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Hegemon",
+              "account": "hegemonprotocol",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-04T19:37:59+00:00",
+              "messageId": "dodtwitterbot/39666",
+              "description": "The quantum resistant shielded pool",
+              "text": "The quantum resistant shielded pool"
+            },
+            {
+              "source": "TG",
+              "project": "Hegemon",
+              "account": "hegemonprotocol",
+              "alpha": "BearzVerse",
+              "seenAt": "2026-11-04T20:29:04+00:00",
+              "messageId": "dodtwitterbot/39679",
+              "description": "The quantum resistant shielded pool",
+              "text": "The quantum resistant shielded pool"
+            }
+          ],
+          "text": " Hegemon hegemonprotocol The quantum resistant shielded pool Hegemon hegemonprotocol The quantum resistant shielded pool",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Polypus",
+          "account": "polypus_fi",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BearzVerse",
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "BearzVerse",
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-11-04T17:39:48+00:00",
+          "lastSeen": "2026-11-04T20:30:02+00:00",
+          "description": "Private transfers and private programs on @solana .",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Polypus",
+              "account": "polypus_fi",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-04T17:39:48+00:00",
+              "messageId": "dodtwitterbot/39647",
+              "description": "Private transfers and private programs on @solana .",
+              "text": "Private transfers and private programs on @solana ."
+            },
+            {
+              "source": "TG",
+              "project": "Polypus",
+              "account": "polypus_fi",
+              "alpha": "BearzVerse",
+              "seenAt": "2026-11-04T20:30:02+00:00",
+              "messageId": "dodtwitterbot/39680",
+              "description": "Private transfers and private programs on @solana .",
+              "text": "Private transfers and private programs on @solana ."
+            }
+          ],
+          "text": " Polypus polypus_fi Private transfers and private programs on @solana . Polypus polypus_fi Private transfers and private programs on @solana .",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Taoperp.com",
+          "account": "taoperp",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BearzVerse",
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "BearzVerse",
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-11-04T17:39:48+00:00",
+          "lastSeen": "2026-11-04T20:26:18+00:00",
+          "description": "Long or short Bittensor subnets with leverage, on-chain and 24/7.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Taoperp.com",
+              "account": "taoperp",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-04T17:39:48+00:00",
+              "messageId": "dodtwitterbot/39649",
+              "description": "Long or short Bittensor subnets with leverage, on-chain and 24/7.",
+              "text": "Long or short Bittensor subnets with leverage, on-chain and 24/7."
+            },
+            {
+              "source": "TG",
+              "project": "Taoperp.com",
+              "account": "taoperp",
+              "alpha": "BearzVerse",
+              "seenAt": "2026-11-04T20:26:18+00:00",
+              "messageId": "dodtwitterbot/39676",
+              "description": "Long or short Bittensor subnets with leverage, on-chain and 24/7.",
+              "text": "Long or short Bittensor subnets with leverage, on-chain and 24/7."
+            }
+          ],
+          "text": " Taoperp.com taoperp Long or short Bittensor subnets with leverage, on-chain and 24/7. Taoperp.com taoperp Long or short Bittensor subnets with leverage, on-chain and 24/7.",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
         {
           "project": "Ascend",
           "account": "AscendLaunch",
@@ -15979,6 +16595,76 @@
           "displayTier": "candidate",
           "avatarUrl": "",
           "dayStatus": "repeat"
+        },
+        {
+          "project": "BRRRAIN 🧠",
+          "account": "brrrain_ai",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "hit.ink"
+          ],
+          "tgAlphas": [
+            "hit.ink"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-04T20:12:10+00:00",
+          "lastSeen": "2026-11-04T20:12:10+00:00",
+          "description": "Hold BRRRAIN. Get AI credits every day. Chat, code, and power your agents. No subscription. Built on NEAR. 🧠 ⚡",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "BRRRAIN 🧠",
+              "account": "brrrain_ai",
+              "alpha": "hit.ink",
+              "seenAt": "2026-11-04T20:12:10+00:00",
+              "messageId": "dodtwitterbot/39671",
+              "description": "Hold BRRRAIN. Get AI credits every day. Chat, code, and power your agents. No subscription. Built on NEAR. 🧠 ⚡",
+              "text": "Hold BRRRAIN. Get AI credits every day. Chat, code, and power your agents. No subscription. Built on NEAR. 🧠 ⚡"
+            }
+          ],
+          "text": " BRRRAIN 🧠 brrrain_ai Hold BRRRAIN. Get AI credits every day. Chat, code, and power your agents. No subscription. Built on NEAR. 🧠 ⚡",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Deanone 💎",
+          "account": "Deanoneqq",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-04T19:50:25+00:00",
+          "lastSeen": "2026-11-04T19:50:25+00:00",
+          "description": "degen @solana | dev ops | deadlock top 100 ASIA · fulltime shitposter · printing at https://t.co/SYXxswud0W",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Deanone 💎",
+              "account": "Deanoneqq",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-04T19:50:25+00:00",
+              "messageId": "dodtwitterbot/39669",
+              "description": "degen @solana | dev ops | deadlock top 100 ASIA · fulltime shitposter · printing at https://t.co/SYXxswud0W",
+              "text": "degen @solana | dev ops | deadlock top 100 ASIA · fulltime shitposter · printing at https://t.co/SYXxswud0W"
+            }
+          ],
+          "text": " Deanone 💎 Deanoneqq degen @solana | dev ops | deadlock top 100 ASIA · fulltime shitposter · printing at https://t.co/SYXxswud0W",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
         },
         {
           "project": "Motion",
@@ -16016,6 +16702,216 @@
           "dayStatus": "new"
         },
         {
+          "project": "Ninefold",
+          "account": "NinefoldArt",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "flaxsed"
+          ],
+          "tgAlphas": [
+            "flaxsed"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-04T17:56:29+00:00",
+          "lastSeen": "2026-11-04T17:56:29+00:00",
+          "description": "Your wallet creates the art. 999 on-chain artworks that redraw themselves for whoever holds them.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Ninefold",
+              "account": "NinefoldArt",
+              "alpha": "flaxsed",
+              "seenAt": "2026-11-04T17:56:29+00:00",
+              "messageId": "dodtwitterbot/39650",
+              "description": "Your wallet creates the art. 999 on-chain artworks that redraw themselves for whoever holds them.",
+              "text": "Your wallet creates the art. 999 on-chain artworks that redraw themselves for whoever holds them."
+            }
+          ],
+          "text": " Ninefold NinefoldArt Your wallet creates the art. 999 on-chain artworks that redraw themselves for whoever holds them.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "NorenAgent",
+          "account": "NorenAgent",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-04T19:23:52+00:00",
+          "lastSeen": "2026-11-04T19:23:52+00:00",
+          "description": "Every agent runs under a signed grant. Every action leaves a receipt in a hash-chained audit log. Eight primitives, built in the open.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "NorenAgent",
+              "account": "NorenAgent",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-04T19:23:52+00:00",
+              "messageId": "dodtwitterbot/39665",
+              "description": "Every agent runs under a signed grant. Every action leaves a receipt in a hash-chained audit log. Eight primitives, built in the open.",
+              "text": "Every agent runs under a signed grant. Every action leaves a receipt in a hash-chained audit log. Eight primitives, built in the open."
+            }
+          ],
+          "text": " NorenAgent NorenAgent Every agent runs under a signed grant. Every action leaves a receipt in a hash-chained audit log. Eight primitives, built in the open.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "NULORA",
+          "account": "nuloraio",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Skrchen666(钻石手伤心版 绝对纸手之人）"
+          ],
+          "tgAlphas": [
+            "Skrchen666(钻石手伤心版 绝对纸手之人）"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-04T18:43:35+00:00",
+          "lastSeen": "2026-11-04T18:43:35+00:00",
+          "description": "Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "NULORA",
+              "account": "nuloraio",
+              "alpha": "Skrchen666(钻石手伤心版 绝对纸手之人）",
+              "seenAt": "2026-11-04T18:43:35+00:00",
+              "messageId": "dodtwitterbot/39658",
+              "description": "Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture",
+              "text": "Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture"
+            }
+          ],
+          "text": " NULORA nuloraio Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "P2PKit",
+          "account": "p2pkitdotcom",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "NΞO"
+          ],
+          "tgAlphas": [
+            "NΞO"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-04T22:42:03+00:00",
+          "lastSeen": "2026-11-04T22:42:03+00:00",
+          "description": "Take local payments. Settle in USDC.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "P2PKit",
+              "account": "p2pkitdotcom",
+              "alpha": "NΞO",
+              "seenAt": "2026-11-04T22:42:03+00:00",
+              "messageId": "dodtwitterbot/39685",
+              "description": "Take local payments. Settle in USDC.",
+              "text": "Take local payments. Settle in USDC."
+            }
+          ],
+          "text": " P2PKit p2pkitdotcom Take local payments. Settle in USDC.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Potrun",
+          "account": "potrunxyz",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-04T20:28:09+00:00",
+          "lastSeen": "2026-11-04T20:28:09+00:00",
+          "description": "Hit up to 200x on your favorite tokens. Coming soon.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Potrun",
+              "account": "potrunxyz",
+              "alpha": "lakka",
+              "seenAt": "2026-11-04T20:28:09+00:00",
+              "messageId": "dodtwitterbot/39678",
+              "description": "Hit up to 200x on your favorite tokens. Coming soon.",
+              "text": "Hit up to 200x on your favorite tokens. Coming soon."
+            }
+          ],
+          "text": " Potrun potrunxyz Hit up to 200x on your favorite tokens. Coming soon.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Revvy",
+          "account": "tryrevvy",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-04T21:55:06+00:00",
+          "lastSeen": "2026-11-04T21:55:06+00:00",
+          "description": "The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Revvy",
+              "account": "tryrevvy",
+              "alpha": "lakka",
+              "seenAt": "2026-11-04T21:55:06+00:00",
+              "messageId": "dodtwitterbot/39684",
+              "description": "The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world",
+              "text": "The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world"
+            }
+          ],
+          "text": " Revvy tryrevvy The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
           "project": "Rocky",
           "account": "Rocky_exchange",
           "sources": [
@@ -16045,6 +16941,41 @@
             }
           ],
           "text": " Rocky Rocky_exchange The Trading and Liquidity Layer for @CantonNetwork\nSpot. Perpetuals. Connected Canton markets.\nMainnet launch is coming soon",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "TurtleFren",
+          "account": "TurtleFrenGame",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Mutu 🕸️"
+          ],
+          "tgAlphas": [
+            "Mutu 🕸️"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-04T18:29:24+00:00",
+          "lastSeen": "2026-11-04T18:29:24+00:00",
+          "description": "small turtle. big internet. here to make frens. 🐢",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "TurtleFren",
+              "account": "TurtleFrenGame",
+              "alpha": "Mutu 🕸️",
+              "seenAt": "2026-11-04T18:29:24+00:00",
+              "messageId": "dodtwitterbot/39655",
+              "description": "small turtle. big internet. here to make frens. 🐢",
+              "text": "small turtle. big internet. here to make frens. 🐢"
+            }
+          ],
+          "text": " TurtleFren TurtleFrenGame small turtle. big internet. here to make frens. 🐢",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -30081,144 +31012,149 @@
   ],
   "reports": [
     {
+      "file": "2026-11-04-2255-telegram-update.md",
+      "title": "2026-11-04-2255-telegram-update",
+      "updatedAt": "2026-11-04T22:55:32.242Z"
+    },
+    {
       "file": "2026-11-04-1737-telegram-update.md",
       "title": "2026-11-04-1737-telegram-update",
-      "updatedAt": "2026-11-04T17:37:36.909Z"
+      "updatedAt": "2026-11-04T22:55:29.702Z"
     },
     {
       "file": "2026-11-04-0810-telegram-update.md",
       "title": "2026-11-04-0810-telegram-update",
-      "updatedAt": "2026-11-04T17:37:30.260Z"
+      "updatedAt": "2026-11-04T22:55:29.702Z"
     },
     {
       "file": "2026-11-04-0143-telegram-update.md",
       "title": "2026-11-04-0143-telegram-update",
-      "updatedAt": "2026-11-04T17:37:30.260Z"
+      "updatedAt": "2026-11-04T22:55:29.702Z"
     },
     {
       "file": "2026-11-03-2018-telegram-update.md",
       "title": "2026-11-03-2018-telegram-update",
-      "updatedAt": "2026-11-04T17:37:30.260Z"
+      "updatedAt": "2026-11-04T22:55:29.702Z"
     },
     {
       "file": "2026-11-03-1302-telegram-update.md",
       "title": "2026-11-03-1302-telegram-update",
-      "updatedAt": "2026-11-04T17:37:30.260Z"
+      "updatedAt": "2026-11-04T22:55:29.702Z"
     },
     {
       "file": "2026-11-03-0306-telegram-update.md",
       "title": "2026-11-03-0306-telegram-update",
-      "updatedAt": "2026-11-04T17:37:30.260Z"
+      "updatedAt": "2026-11-04T22:55:29.702Z"
     },
     {
       "file": "2026-11-02-1950-telegram-update.md",
       "title": "2026-11-02-1950-telegram-update",
-      "updatedAt": "2026-11-04T17:37:30.260Z"
+      "updatedAt": "2026-11-04T22:55:29.702Z"
     },
     {
       "file": "2026-11-02-0826-telegram-update.md",
       "title": "2026-11-02-0826-telegram-update",
-      "updatedAt": "2026-11-04T17:37:30.260Z"
+      "updatedAt": "2026-11-04T22:55:29.702Z"
     },
     {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-04T17:37:30.260Z"
+      "updatedAt": "2026-11-04T22:55:29.702Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-04T17:37:30.260Z"
+      "updatedAt": "2026-11-04T22:55:29.702Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-04T17:37:30.260Z"
+      "updatedAt": "2026-11-04T22:55:29.702Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-04T17:37:30.260Z"
+      "updatedAt": "2026-11-04T22:55:29.702Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-04T17:37:30.260Z"
+      "updatedAt": "2026-11-04T22:55:29.702Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-04T17:37:30.260Z"
+      "updatedAt": "2026-11-04T22:55:29.702Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-04T17:37:30.260Z"
+      "updatedAt": "2026-11-04T22:55:29.702Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-04T17:37:30.260Z"
+      "updatedAt": "2026-11-04T22:55:29.702Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-04T17:37:30.260Z"
+      "updatedAt": "2026-11-04T22:55:29.702Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-04T17:37:30.260Z"
+      "updatedAt": "2026-11-04T22:55:29.702Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-04T17:37:30.260Z"
+      "updatedAt": "2026-11-04T22:55:29.702Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-04T17:37:30.260Z"
+      "updatedAt": "2026-11-04T22:55:29.702Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-04T17:37:30.260Z"
+      "updatedAt": "2026-11-04T22:55:29.702Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-04T17:37:30.260Z"
+      "updatedAt": "2026-11-04T22:55:29.702Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-04T17:37:30.260Z"
+      "updatedAt": "2026-11-04T22:55:29.702Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-04T17:37:30.260Z"
+      "updatedAt": "2026-11-04T22:55:29.702Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-04T17:37:30.260Z"
+      "updatedAt": "2026-11-04T22:55:29.702Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-04T17:37:30.260Z"
+      "updatedAt": "2026-11-04T22:55:29.702Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-04T17:37:30.260Z"
+      "updatedAt": "2026-11-04T22:55:29.702Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-04T17:37:30.258Z"
+      "updatedAt": "2026-11-04T22:55:29.701Z"
     }
   ]
 }
