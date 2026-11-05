@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-04T22:55:32.370Z",
+  "generatedAt": "2026-11-05T08:36:22.494Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 39685,
-    "lastMessageAt": "2026-11-04T22:42:03+00:00",
-    "lastCheckedAt": "2026-11-04T22:55:32.242Z",
-    "previousMessageId": 39645,
+    "lastMessageId": 39725,
+    "lastMessageAt": "2026-11-05T08:26:35+00:00",
+    "lastCheckedAt": "2026-11-05T08:36:22.395Z",
+    "previousMessageId": 39685,
     "pagesRead": 3,
     "messagesRead": 40,
-    "newProjectRecords": 15,
+    "newProjectRecords": 14,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 485,
+    "telegramRows": 499,
     "xRows": 0,
-    "projects": 288,
+    "projects": 297,
     "crossSource": 0
   },
   "projects": [
@@ -1870,6 +1870,64 @@
       "avatarUrl": ""
     },
     {
+      "project": "AGI",
+      "account": "AgentIdETH",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "A佬",
+        "发誓要做永赚大师",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "A佬",
+        "发誓要做永赚大师",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-11-03T08:27:25+00:00",
+      "lastSeen": "2026-11-05T07:18:45+00:00",
+      "description": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "AGI",
+          "account": "AgentIdETH",
+          "alpha": "发誓要做永赚大师",
+          "seenAt": "2026-11-03T08:27:25+00:00",
+          "messageId": "dodtwitterbot/39392",
+          "description": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy.",
+          "text": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy."
+        },
+        {
+          "source": "TG",
+          "project": "AGI",
+          "account": "AgentIdETH",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-03T08:38:38+00:00",
+          "messageId": "dodtwitterbot/39396",
+          "description": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy.",
+          "text": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy."
+        },
+        {
+          "source": "TG",
+          "project": "AGI",
+          "account": "AgentIdETH",
+          "alpha": "A佬",
+          "seenAt": "2026-11-05T07:18:45+00:00",
+          "messageId": "dodtwitterbot/39714",
+          "description": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy.",
+          "text": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy."
+        }
+      ],
+      "text": " AGI AgentIdETH Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy. AGI AgentIdETH Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy. AGI AgentIdETH Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy.",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Anemos",
       "account": "AnemosPad",
       "sources": [
@@ -3436,6 +3494,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "Agentic Coin",
+      "account": "Agentic_coin",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "八九",
+        "雷氏"
+      ],
+      "tgAlphas": [
+        "八九",
+        "雷氏"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-02T13:02:11+00:00",
+      "lastSeen": "2026-11-05T02:52:18+00:00",
+      "description": "A coin only agents can mine. A long-running on-chain experiment.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Agentic Coin",
+          "account": "Agentic_coin",
+          "alpha": "八九",
+          "seenAt": "2026-11-02T13:02:11+00:00",
+          "messageId": "dodtwitterbot/39259",
+          "description": "A coin only agents can mine. A long-running on-chain experiment.",
+          "text": "A coin only agents can mine. A long-running on-chain experiment."
+        },
+        {
+          "source": "TG",
+          "project": "Agentic Coin",
+          "account": "Agentic_coin",
+          "alpha": "雷氏",
+          "seenAt": "2026-11-05T02:52:18+00:00",
+          "messageId": "dodtwitterbot/39690",
+          "description": "A coin only agents can mine. A long-running on-chain experiment.",
+          "text": "A coin only agents can mine. A long-running on-chain experiment."
+        }
+      ],
+      "text": " Agentic Coin Agentic_coin A coin only agents can mine. A long-running on-chain experiment. Agentic Coin Agentic_coin A coin only agents can mine. A long-running on-chain experiment.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "agenticpad",
       "account": "agentic_pad",
       "sources": [
@@ -3523,52 +3627,6 @@
         }
       ],
       "text": " agentsea agentsea_fun Launch a vision. Agents create it. The NFT launchpad. agentsea agentsea_fun Launch a vision. Agents create it. The NFT launchpad.",
-      "score": 4,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
-      "project": "AGI",
-      "account": "AgentIdETH",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "发誓要做永赚大师",
-        "阿宏"
-      ],
-      "tgAlphas": [
-        "发誓要做永赚大师",
-        "阿宏"
-      ],
-      "xAlphas": [],
-      "mentions": 2,
-      "firstSeen": "2026-11-03T08:27:25+00:00",
-      "lastSeen": "2026-11-03T08:38:38+00:00",
-      "description": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "AGI",
-          "account": "AgentIdETH",
-          "alpha": "发誓要做永赚大师",
-          "seenAt": "2026-11-03T08:27:25+00:00",
-          "messageId": "dodtwitterbot/39392",
-          "description": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy.",
-          "text": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy."
-        },
-        {
-          "source": "TG",
-          "project": "AGI",
-          "account": "AgentIdETH",
-          "alpha": "阿宏",
-          "seenAt": "2026-11-03T08:38:38+00:00",
-          "messageId": "dodtwitterbot/39396",
-          "description": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy.",
-          "text": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy."
-        }
-      ],
-      "text": " AGI AgentIdETH Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy. AGI AgentIdETH Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy.",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -4034,6 +4092,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "Elypact",
+      "account": "Elypact",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "蛋总",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-10-29T11:57:13+00:00",
+      "lastSeen": "2026-11-05T04:29:57+00:00",
+      "description": "OTC trading on your terms. Public offers and wallet-restricted deals with\non-chain escrow. Elysium and HyperEVM testnet beta. Test tokens only. https://t.co/ugaytADcMZ",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Elypact",
+          "account": "Elypact",
+          "alpha": "阿宏",
+          "seenAt": "2026-10-29T11:57:13+00:00",
+          "messageId": "dodtwitterbot/38454",
+          "description": "OTC trading on your terms. Public offers and wallet-restricted deals with\non-chain escrow. Elysium and HyperEVM testnet beta. Test tokens only. https://t.co/ugaytADcMZ",
+          "text": "OTC trading on your terms. Public offers and wallet-restricted deals with\non-chain escrow. Elysium and HyperEVM testnet beta. Test tokens only. https://t.co/ugaytADcMZ"
+        },
+        {
+          "source": "TG",
+          "project": "Elypact",
+          "account": "Elypact",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-05T04:29:57+00:00",
+          "messageId": "dodtwitterbot/39698",
+          "description": "OTC trading on your terms. Public offers and wallet-restricted deals with\non-chain escrow. Elysium and HyperEVM testnet beta. Test tokens only. https://t.co/ugaytADcMZ",
+          "text": "OTC trading on your terms. Public offers and wallet-restricted deals with\non-chain escrow. Elysium and HyperEVM testnet beta. Test tokens only. https://t.co/ugaytADcMZ"
+        }
+      ],
+      "text": " Elypact Elypact OTC trading on your terms. Public offers and wallet-restricted deals with\non-chain escrow. Elysium and HyperEVM testnet beta. Test tokens only. https://t.co/ugaytADcMZ Elypact Elypact OTC trading on your terms. Public offers and wallet-restricted deals with\non-chain escrow. Elysium and HyperEVM testnet beta. Test tokens only. https://t.co/ugaytADcMZ",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Elysdex",
       "account": "Elysdex",
       "sources": [
@@ -4351,6 +4455,52 @@
         }
       ],
       "text": " FishingAI FishingAiBSC 你睡觉，你的 agent 在钓鱼 🎣 BSC 链上钓鱼游戏，持 .ai Agent ID 就能玩。\nYou sleep, your agent fishes. An on-chain fishing game on BSC for .ai Agent ID holders. FishingAI FishingAiBSC 你睡觉，你的 agent 在钓鱼 🎣 BSC 链上钓鱼游戏，持 .ai Agent ID 就能玩。\nYou sleep, your agent fishes. An on-chain fishing game on BSC for .ai Agent ID holders.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Flutch",
+      "account": "Flutchdotfun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "A佬",
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "A佬",
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-01T06:18:52+00:00",
+      "lastSeen": "2026-11-05T04:34:33+00:00",
+      "description": "Building the launch infrastructure for the next generation of builders | we’re not launching a token",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Flutch",
+          "account": "Flutchdotfun",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-01T06:18:52+00:00",
+          "messageId": "dodtwitterbot/38921",
+          "description": "Building the launch infrastructure for the next generation of builders | we’re not launching a token",
+          "text": "Building the launch infrastructure for the next generation of builders | we’re not launching a token"
+        },
+        {
+          "source": "TG",
+          "project": "Flutch",
+          "account": "Flutchdotfun",
+          "alpha": "A佬",
+          "seenAt": "2026-11-05T04:34:33+00:00",
+          "messageId": "dodtwitterbot/39701",
+          "description": "Building the launch infrastructure for the next generation of builders | we’re not launching a token",
+          "text": "Building the launch infrastructure for the next generation of builders | we’re not launching a token"
+        }
+      ],
+      "text": " Flutch Flutchdotfun Building the launch infrastructure for the next generation of builders | we’re not launching a token Flutch Flutchdotfun Building the launch infrastructure for the next generation of builders | we’re not launching a token",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -5368,6 +5518,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "ripe",
+      "account": "ripe0x",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "A佬",
+        "Mutu 🕸️"
+      ],
+      "tgAlphas": [
+        "A佬",
+        "Mutu 🕸️"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-03T12:30:17+00:00",
+      "lastSeen": "2026-11-05T07:19:37+00:00",
+      "description": "onchain optimist",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "ripe",
+          "account": "ripe0x",
+          "alpha": "A佬",
+          "seenAt": "2026-11-03T12:30:17+00:00",
+          "messageId": "dodtwitterbot/39424",
+          "description": "onchain optimist",
+          "text": "onchain optimist"
+        },
+        {
+          "source": "TG",
+          "project": "ripe",
+          "account": "ripe0x",
+          "alpha": "Mutu 🕸️",
+          "seenAt": "2026-11-05T07:19:37+00:00",
+          "messageId": "dodtwitterbot/39715",
+          "description": "onchain optimist",
+          "text": "onchain optimist"
+        }
+      ],
+      "text": " ripe ripe0x onchain optimist ripe ripe0x onchain optimist",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "SCRiM",
       "account": "scrimfinance",
       "sources": [
@@ -6192,6 +6388,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Agent K",
+      "account": "AgentKinetiq",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-05T05:58:07+00:00",
+      "lastSeen": "2026-11-05T05:58:07+00:00",
+      "description": "intern and purrveyor of yields for @kinetiq_xyz .",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Agent K",
+          "account": "AgentKinetiq",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-05T05:58:07+00:00",
+          "messageId": "dodtwitterbot/39710",
+          "description": "intern and purrveyor of yields for @kinetiq_xyz .",
+          "text": "intern and purrveyor of yields for @kinetiq_xyz ."
+        }
+      ],
+      "text": " Agent K AgentKinetiq intern and purrveyor of yields for @kinetiq_xyz .",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Agent Mao",
       "account": "agentmao_",
       "sources": [
@@ -6221,40 +6451,6 @@
         }
       ],
       "text": " Agent Mao agentmao_ my agent is a cat. the cat pressed enter.\nFair mint for Binance Agentic Wallets → &#036;MAOAI\n我的agent是只猫，它按了回车\n\nCA: 0xBB357ecA84A438Caaa3a8783d78eDAA57B5d665d",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Agentic Coin",
-      "account": "Agentic_coin",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "八九"
-      ],
-      "tgAlphas": [
-        "八九"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-02T13:02:11+00:00",
-      "lastSeen": "2026-11-02T13:02:11+00:00",
-      "description": "A coin only agents can mine. A long-running on-chain experiment.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Agentic Coin",
-          "account": "Agentic_coin",
-          "alpha": "八九",
-          "seenAt": "2026-11-02T13:02:11+00:00",
-          "messageId": "dodtwitterbot/39259",
-          "description": "A coin only agents can mine. A long-running on-chain experiment.",
-          "text": "A coin only agents can mine. A long-running on-chain experiment."
-        }
-      ],
-      "text": " Agentic Coin Agentic_coin A coin only agents can mine. A long-running on-chain experiment.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -7076,6 +7272,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Cathereum",
+      "account": "CathereumTech",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-05T08:12:57+00:00",
+      "lastSeen": "2026-11-05T08:12:57+00:00",
+      "description": "Cats. Coins. Assets.\nGenesis starts with 8,888 fully onchain DN404s.\nTelegram: https://t.co/DcEFYNTrJH",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Cathereum",
+          "account": "CathereumTech",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-05T08:12:57+00:00",
+          "messageId": "dodtwitterbot/39723",
+          "description": "Cats. Coins. Assets.\nGenesis starts with 8,888 fully onchain DN404s.\nTelegram: https://t.co/DcEFYNTrJH",
+          "text": "Cats. Coins. Assets.\nGenesis starts with 8,888 fully onchain DN404s.\nTelegram: https://t.co/DcEFYNTrJH"
+        }
+      ],
+      "text": " Cathereum CathereumTech Cats. Coins. Assets.\nGenesis starts with 8,888 fully onchain DN404s.\nTelegram: https://t.co/DcEFYNTrJH",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Clipps",
       "account": "clippstrade",
       "sources": [
@@ -7173,6 +7403,40 @@
         }
       ],
       "text": " Conditionals ConditionalsImd Conditional Markets built on Robinhood powered by IMD",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Corla 🤖",
+      "account": "Corla_5555",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "A佬"
+      ],
+      "tgAlphas": [
+        "A佬"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-05T06:57:51+00:00",
+      "lastSeen": "2026-11-05T06:57:51+00:00",
+      "description": "一个全新的mint发射平台\n官方Tg问题处理 https://t.co/l6KtGftnWa",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Corla 🤖",
+          "account": "Corla_5555",
+          "alpha": "A佬",
+          "seenAt": "2026-11-05T06:57:51+00:00",
+          "messageId": "dodtwitterbot/39713",
+          "description": "一个全新的mint发射平台\n官方Tg问题处理 https://t.co/l6KtGftnWa",
+          "text": "一个全新的mint发射平台\n官方Tg问题处理 https://t.co/l6KtGftnWa"
+        }
+      ],
+      "text": " Corla 🤖 Corla_5555 一个全新的mint发射平台\n官方Tg问题处理 https://t.co/l6KtGftnWa",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -7484,6 +7748,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Eloscape",
+      "account": "eloscapeHQ",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-05T04:24:34+00:00",
+      "lastSeen": "2026-11-05T04:24:34+00:00",
+      "description": "Virtual mining protocol on @Enter_Elysium\n\nNo token is live yet. Beware of scams.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Eloscape",
+          "account": "eloscapeHQ",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-05T04:24:34+00:00",
+          "messageId": "dodtwitterbot/39697",
+          "description": "Virtual mining protocol on @Enter_Elysium\n\nNo token is live yet. Beware of scams.",
+          "text": "Virtual mining protocol on @Enter_Elysium\n\nNo token is live yet. Beware of scams."
+        }
+      ],
+      "text": " Eloscape eloscapeHQ Virtual mining protocol on @Enter_Elysium\n\nNo token is live yet. Beware of scams.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "ElyChest",
       "account": "ElyChestFun",
       "sources": [
@@ -7547,40 +7845,6 @@
         }
       ],
       "text": " Elympus ElympusHq a kingdom beyond the clouds.\n\nan NFT collection on @Enter_Elysium .",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Elypact",
-      "account": "Elypact",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "阿宏"
-      ],
-      "tgAlphas": [
-        "阿宏"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-10-29T11:57:13+00:00",
-      "lastSeen": "2026-10-29T11:57:13+00:00",
-      "description": "OTC trading on your terms. Public offers and wallet-restricted deals with\non-chain escrow. Elysium and HyperEVM testnet beta. Test tokens only. https://t.co/ugaytADcMZ",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Elypact",
-          "account": "Elypact",
-          "alpha": "阿宏",
-          "seenAt": "2026-10-29T11:57:13+00:00",
-          "messageId": "dodtwitterbot/38454",
-          "description": "OTC trading on your terms. Public offers and wallet-restricted deals with\non-chain escrow. Elysium and HyperEVM testnet beta. Test tokens only. https://t.co/ugaytADcMZ",
-          "text": "OTC trading on your terms. Public offers and wallet-restricted deals with\non-chain escrow. Elysium and HyperEVM testnet beta. Test tokens only. https://t.co/ugaytADcMZ"
-        }
-      ],
-      "text": " Elypact Elypact OTC trading on your terms. Public offers and wallet-restricted deals with\non-chain escrow. Elysium and HyperEVM testnet beta. Test tokens only. https://t.co/ugaytADcMZ",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -7887,40 +8151,6 @@
         }
       ],
       "text": " Floem floemdotfun A garden for onchain markets. Launch tokens, trade perps, earn as LP.\nBuilt in the open on Robinhood Chain.",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Flutch",
-      "account": "Flutchdotfun",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "蛋总"
-      ],
-      "tgAlphas": [
-        "蛋总"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-01T06:18:52+00:00",
-      "lastSeen": "2026-11-01T06:18:52+00:00",
-      "description": "Building the launch infrastructure for the next generation of builders | we’re not launching a token",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Flutch",
-          "account": "Flutchdotfun",
-          "alpha": "蛋总",
-          "seenAt": "2026-11-01T06:18:52+00:00",
-          "messageId": "dodtwitterbot/38921",
-          "description": "Building the launch infrastructure for the next generation of builders | we’re not launching a token",
-          "text": "Building the launch infrastructure for the next generation of builders | we’re not launching a token"
-        }
-      ],
-      "text": " Flutch Flutchdotfun Building the launch infrastructure for the next generation of builders | we’re not launching a token",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -10306,35 +10536,35 @@
       "avatarUrl": ""
     },
     {
-      "project": "ripe",
-      "account": "ripe0x",
+      "project": "Ripcord | Ascend",
+      "account": "getripcordxyz",
       "sources": [
         "TG"
       ],
       "alphas": [
-        "A佬"
+        "蛋总"
       ],
       "tgAlphas": [
-        "A佬"
+        "蛋总"
       ],
       "xAlphas": [],
       "mentions": 1,
-      "firstSeen": "2026-11-03T12:30:17+00:00",
-      "lastSeen": "2026-11-03T12:30:17+00:00",
-      "description": "onchain optimist",
+      "firstSeen": "2026-11-05T04:24:34+00:00",
+      "lastSeen": "2026-11-05T04:24:34+00:00",
+      "description": "Automated exit protection for @AscendLaunch tokens.\nSet your rules. Let Ripcord handle the exit.",
       "rows": [
         {
           "source": "TG",
-          "project": "ripe",
-          "account": "ripe0x",
-          "alpha": "A佬",
-          "seenAt": "2026-11-03T12:30:17+00:00",
-          "messageId": "dodtwitterbot/39424",
-          "description": "onchain optimist",
-          "text": "onchain optimist"
+          "project": "Ripcord | Ascend",
+          "account": "getripcordxyz",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-05T04:24:34+00:00",
+          "messageId": "dodtwitterbot/39696",
+          "description": "Automated exit protection for @AscendLaunch tokens.\nSet your rules. Let Ripcord handle the exit.",
+          "text": "Automated exit protection for @AscendLaunch tokens.\nSet your rules. Let Ripcord handle the exit."
         }
       ],
-      "text": " ripe ripe0x onchain optimist",
+      "text": " Ripcord | Ascend getripcordxyz Automated exit protection for @AscendLaunch tokens.\nSet your rules. Let Ripcord handle the exit.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -11224,6 +11454,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "TABBY",
+      "account": "tabbypos",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "发誓要做永赚大师"
+      ],
+      "tgAlphas": [
+        "发誓要做永赚大师"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-05T04:16:27+00:00",
+      "lastSeen": "2026-11-05T04:16:27+00:00",
+      "description": "⚔️ 《维洛传说》VYLO MMORPG 🟣 Solar Team",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "TABBY",
+          "account": "tabbypos",
+          "alpha": "发誓要做永赚大师",
+          "seenAt": "2026-11-05T04:16:27+00:00",
+          "messageId": "dodtwitterbot/39695",
+          "description": "⚔️ 《维洛传说》VYLO MMORPG 🟣 Solar Team",
+          "text": "⚔️ 《维洛传说》VYLO MMORPG 🟣 Solar Team"
+        }
+      ],
+      "text": " TABBY tabbypos ⚔️ 《维洛传说》VYLO MMORPG 🟣 Solar Team",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Taoway",
       "account": "Taowayxyz",
       "sources": [
@@ -11632,6 +11896,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Updraft Exchange 🪂",
+      "account": "updraftexchange",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Mutu 🕸️"
+      ],
+      "tgAlphas": [
+        "Mutu 🕸️"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-05T06:38:29+00:00",
+      "lastSeen": "2026-11-05T06:38:29+00:00",
+      "description": "Updraft is the AI inference market on Elysium. 1 GUST buys &#036;1 of Claude, GPT or hundreds of other models, in Claude Code, Cursor or any OpenAI SDK.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Updraft Exchange 🪂",
+          "account": "updraftexchange",
+          "alpha": "Mutu 🕸️",
+          "seenAt": "2026-11-05T06:38:29+00:00",
+          "messageId": "dodtwitterbot/39712",
+          "description": "Updraft is the AI inference market on Elysium. 1 GUST buys &#036;1 of Claude, GPT or hundreds of other models, in Claude Code, Cursor or any OpenAI SDK.",
+          "text": "Updraft is the AI inference market on Elysium. 1 GUST buys &#036;1 of Claude, GPT or hundreds of other models, in Claude Code, Cursor or any OpenAI SDK."
+        }
+      ],
+      "text": " Updraft Exchange 🪂 updraftexchange Updraft is the AI inference market on Elysium. 1 GUST buys &#036;1 of Claude, GPT or hundreds of other models, in Claude Code, Cursor or any OpenAI SDK.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Veins",
       "account": "veindotspace",
       "sources": [
@@ -12006,6 +12304,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Zyora",
+      "account": "Zyoradotfun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "speest 💎"
+      ],
+      "tgAlphas": [
+        "speest 💎"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-05T01:57:45+00:00",
+      "lastSeen": "2026-11-05T01:57:45+00:00",
+      "description": "The next generation of on-chain launches & trading\n\nLive on @Enter_elysium",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Zyora",
+          "account": "Zyoradotfun",
+          "alpha": "speest 💎",
+          "seenAt": "2026-11-05T01:57:45+00:00",
+          "messageId": "dodtwitterbot/39688",
+          "description": "The next generation of on-chain launches & trading\n\nLive on @Enter_elysium",
+          "text": "The next generation of on-chain launches & trading\n\nLive on @Enter_elysium"
+        }
+      ],
+      "text": " Zyora Zyoradotfun The next generation of on-chain launches & trading\n\nLive on @Enter_elysium",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "币安人",
       "account": "BiAnRen_AI",
       "sources": [
@@ -12035,6 +12367,40 @@
         }
       ],
       "text": " 币安人 BiAnRen_AI 第一个支持中文币mint的meme项目",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "折耳根",
+      "account": "chaoJia123",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-05T04:05:33+00:00",
+      "lastSeen": "2026-11-05T04:05:33+00:00",
+      "description": "币圈小学僧，meme、agent、defi、链游挨个亏损！！！",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "折耳根",
+          "account": "chaoJia123",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-05T04:05:33+00:00",
+          "messageId": "dodtwitterbot/39694",
+          "description": "币圈小学僧，meme、agent、defi、链游挨个亏损！！！",
+          "text": "币圈小学僧，meme、agent、defi、链游挨个亏损！！！"
+        }
+      ],
+      "text": " 折耳根 chaoJia123 币圈小学僧，meme、agent、defi、链游挨个亏损！！！",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -12591,6 +12957,22 @@
       "avatarUrl": ""
     },
     {
+      "project": "AGI",
+      "x_account": "AgentIdETH",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "A佬",
+        "发誓要做永赚大师",
+        "阿宏"
+      ],
+      "description": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy.",
+      "first_seen_utc": "2026-11-03T08:27:25+00:00",
+      "last_seen_utc": "2026-11-05T07:18:45+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
       "project": "Anemos",
       "x_account": "AnemosPad",
       "total_mentions": 3,
@@ -13023,6 +13405,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "Agentic Coin",
+      "x_account": "Agentic_coin",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "八九",
+        "雷氏"
+      ],
+      "description": "A coin only agents can mine. A long-running on-chain experiment.",
+      "first_seen_utc": "2026-11-02T13:02:11+00:00",
+      "last_seen_utc": "2026-11-05T02:52:18+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "agenticpad",
       "x_account": "agentic_pad",
       "total_mentions": 2,
@@ -13049,21 +13446,6 @@
       "description": "Launch a vision. Agents create it. The NFT launchpad.",
       "first_seen_utc": "2026-10-28T18:33:38+00:00",
       "last_seen_utc": "2026-10-31T16:15:16+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "AGI",
-      "x_account": "AgentIdETH",
-      "total_mentions": 2,
-      "unique_alphas": 2,
-      "alphas": [
-        "发誓要做永赚大师",
-        "阿宏"
-      ],
-      "description": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy.",
-      "first_seen_utc": "2026-11-03T08:27:25+00:00",
-      "last_seen_utc": "2026-11-03T08:38:38+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -13218,6 +13600,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "Elypact",
+      "x_account": "Elypact",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "蛋总",
+        "阿宏"
+      ],
+      "description": "OTC trading on your terms. Public offers and wallet-restricted deals with\non-chain escrow. Elysium and HyperEVM testnet beta. Test tokens only. https://t.co/ugaytADcMZ",
+      "first_seen_utc": "2026-10-29T11:57:13+00:00",
+      "last_seen_utc": "2026-11-05T04:29:57+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Elysdex",
       "x_account": "Elysdex",
       "total_mentions": 2,
@@ -13319,6 +13716,21 @@
       "description": "你睡觉，你的 agent 在钓鱼 🎣 BSC 链上钓鱼游戏，持 .ai Agent ID 就能玩。\nYou sleep, your agent fishes. An on-chain fishing game on BSC for .ai Agent ID holders.",
       "first_seen_utc": "2026-11-02T13:15:47+00:00",
       "last_seen_utc": "2026-11-03T11:30:09+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Flutch",
+      "x_account": "Flutchdotfun",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "A佬",
+        "蛋总"
+      ],
+      "description": "Building the launch infrastructure for the next generation of builders | we’re not launching a token",
+      "first_seen_utc": "2026-11-01T06:18:52+00:00",
+      "last_seen_utc": "2026-11-05T04:34:33+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -13653,6 +14065,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "ripe",
+      "x_account": "ripe0x",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "A佬",
+        "Mutu 🕸️"
+      ],
+      "description": "onchain optimist",
+      "first_seen_utc": "2026-11-03T12:30:17+00:00",
+      "last_seen_utc": "2026-11-05T07:19:37+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "SCRiM",
       "x_account": "scrimfinance",
       "total_mentions": 2,
@@ -13945,6 +14372,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Agent K",
+      "x_account": "AgentKinetiq",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "阿宏"
+      ],
+      "description": "intern and purrveyor of yields for @kinetiq_xyz .",
+      "first_seen_utc": "2026-11-05T05:58:07+00:00",
+      "last_seen_utc": "2026-11-05T05:58:07+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Agent Mao",
       "x_account": "agentmao_",
       "total_mentions": 1,
@@ -13955,20 +14396,6 @@
       "description": "my agent is a cat. the cat pressed enter.\nFair mint for Binance Agentic Wallets → &#036;MAOAI\n我的agent是只猫，它按了回车\n\nCA: 0xBB357ecA84A438Caaa3a8783d78eDAA57B5d665d",
       "first_seen_utc": "2026-10-31T05:59:56+00:00",
       "last_seen_utc": "2026-10-31T05:59:56+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Agentic Coin",
-      "x_account": "Agentic_coin",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "八九"
-      ],
-      "description": "A coin only agents can mine. A long-running on-chain experiment.",
-      "first_seen_utc": "2026-11-02T13:02:11+00:00",
-      "last_seen_utc": "2026-11-02T13:02:11+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -14309,6 +14736,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Cathereum",
+      "x_account": "CathereumTech",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "阿宏"
+      ],
+      "description": "Cats. Coins. Assets.\nGenesis starts with 8,888 fully onchain DN404s.\nTelegram: https://t.co/DcEFYNTrJH",
+      "first_seen_utc": "2026-11-05T08:12:57+00:00",
+      "last_seen_utc": "2026-11-05T08:12:57+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Clipps",
       "x_account": "clippstrade",
       "total_mentions": 1,
@@ -14347,6 +14788,20 @@
       "description": "Conditional Markets built on Robinhood powered by IMD",
       "first_seen_utc": "2026-11-02T11:10:18+00:00",
       "last_seen_utc": "2026-11-02T11:10:18+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Corla 🤖",
+      "x_account": "Corla_5555",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "A佬"
+      ],
+      "description": "一个全新的mint发射平台\n官方Tg问题处理 https://t.co/l6KtGftnWa",
+      "first_seen_utc": "2026-11-05T06:57:51+00:00",
+      "last_seen_utc": "2026-11-05T06:57:51+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -14477,6 +14932,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Eloscape",
+      "x_account": "eloscapeHQ",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "Virtual mining protocol on @Enter_Elysium\n\nNo token is live yet. Beware of scams.",
+      "first_seen_utc": "2026-11-05T04:24:34+00:00",
+      "last_seen_utc": "2026-11-05T04:24:34+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "ElyChest",
       "x_account": "ElyChestFun",
       "total_mentions": 1,
@@ -14501,20 +14970,6 @@
       "description": "a kingdom beyond the clouds.\n\nan NFT collection on @Enter_Elysium .",
       "first_seen_utc": "2026-10-29T12:43:22+00:00",
       "last_seen_utc": "2026-10-29T12:43:22+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Elypact",
-      "x_account": "Elypact",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "阿宏"
-      ],
-      "description": "OTC trading on your terms. Public offers and wallet-restricted deals with\non-chain escrow. Elysium and HyperEVM testnet beta. Test tokens only. https://t.co/ugaytADcMZ",
-      "first_seen_utc": "2026-10-29T11:57:13+00:00",
-      "last_seen_utc": "2026-10-29T11:57:13+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -14641,20 +15096,6 @@
       "description": "A garden for onchain markets. Launch tokens, trade perps, earn as LP.\nBuilt in the open on Robinhood Chain.",
       "first_seen_utc": "2026-11-04T12:21:10+00:00",
       "last_seen_utc": "2026-11-04T12:21:10+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Flutch",
-      "x_account": "Flutchdotfun",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "蛋总"
-      ],
-      "description": "Building the launch infrastructure for the next generation of builders | we’re not launching a token",
-      "first_seen_utc": "2026-11-01T06:18:52+00:00",
-      "last_seen_utc": "2026-11-01T06:18:52+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -15639,16 +16080,16 @@
       "avatarUrl": ""
     },
     {
-      "project": "ripe",
-      "x_account": "ripe0x",
+      "project": "Ripcord | Ascend",
+      "x_account": "getripcordxyz",
       "total_mentions": 1,
       "unique_alphas": 1,
       "alphas": [
-        "A佬"
+        "蛋总"
       ],
-      "description": "onchain optimist",
-      "first_seen_utc": "2026-11-03T12:30:17+00:00",
-      "last_seen_utc": "2026-11-03T12:30:17+00:00",
+      "description": "Automated exit protection for @AscendLaunch tokens.\nSet your rules. Let Ripcord handle the exit.",
+      "first_seen_utc": "2026-11-05T04:24:34+00:00",
+      "last_seen_utc": "2026-11-05T04:24:34+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -16017,6 +16458,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "TABBY",
+      "x_account": "tabbypos",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "发誓要做永赚大师"
+      ],
+      "description": "⚔️ 《维洛传说》VYLO MMORPG 🟣 Solar Team",
+      "first_seen_utc": "2026-11-05T04:16:27+00:00",
+      "last_seen_utc": "2026-11-05T04:16:27+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Taoway",
       "x_account": "Taowayxyz",
       "total_mentions": 1,
@@ -16185,6 +16640,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Updraft Exchange 🪂",
+      "x_account": "updraftexchange",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "Mutu 🕸️"
+      ],
+      "description": "Updraft is the AI inference market on Elysium. 1 GUST buys &#036;1 of Claude, GPT or hundreds of other models, in Claude Code, Cursor or any OpenAI SDK.",
+      "first_seen_utc": "2026-11-05T06:38:29+00:00",
+      "last_seen_utc": "2026-11-05T06:38:29+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Veins",
       "x_account": "veindotspace",
       "total_mentions": 1,
@@ -16339,6 +16808,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Zyora",
+      "x_account": "Zyoradotfun",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "speest 💎"
+      ],
+      "description": "The next generation of on-chain launches & trading\n\nLive on @Enter_elysium",
+      "first_seen_utc": "2026-11-05T01:57:45+00:00",
+      "last_seen_utc": "2026-11-05T01:57:45+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "币安人",
       "x_account": "BiAnRen_AI",
       "total_mentions": 1,
@@ -16349,6 +16832,20 @@
       "description": "第一个支持中文币mint的meme项目",
       "first_seen_utc": "2026-10-31T12:05:42+00:00",
       "last_seen_utc": "2026-10-31T12:05:42+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "折耳根",
+      "x_account": "chaoJia123",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "币圈小学僧，meme、agent、defi、链游挨个亏损！！！",
+      "first_seen_utc": "2026-11-05T04:05:33+00:00",
+      "last_seen_utc": "2026-11-05T04:05:33+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -16412,13 +16909,13 @@
   "daily": [
     {
       "date": "2026-11-05",
-      "totalRows": 18,
-      "projectCount": 15,
+      "totalRows": 32,
+      "projectCount": 29,
       "focusCount": 3,
-      "candidateCount": 12,
+      "candidateCount": 26,
       "crossSource": 0,
-      "newCount": 10,
-      "repeatCount": 5,
+      "newCount": 19,
+      "repeatCount": 10,
       "projects": [
         {
           "project": "Hegemon",
@@ -16562,6 +17059,111 @@
           "dayStatus": "repeat"
         },
         {
+          "project": "Agent K",
+          "account": "AgentKinetiq",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-05T05:58:07+00:00",
+          "lastSeen": "2026-11-05T05:58:07+00:00",
+          "description": "intern and purrveyor of yields for @kinetiq_xyz .",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Agent K",
+              "account": "AgentKinetiq",
+              "alpha": "阿宏",
+              "seenAt": "2026-11-05T05:58:07+00:00",
+              "messageId": "dodtwitterbot/39710",
+              "description": "intern and purrveyor of yields for @kinetiq_xyz .",
+              "text": "intern and purrveyor of yields for @kinetiq_xyz ."
+            }
+          ],
+          "text": " Agent K AgentKinetiq intern and purrveyor of yields for @kinetiq_xyz .",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Agentic Coin",
+          "account": "Agentic_coin",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "雷氏"
+          ],
+          "tgAlphas": [
+            "雷氏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-05T02:52:18+00:00",
+          "lastSeen": "2026-11-05T02:52:18+00:00",
+          "description": "A coin only agents can mine. A long-running on-chain experiment.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Agentic Coin",
+              "account": "Agentic_coin",
+              "alpha": "雷氏",
+              "seenAt": "2026-11-05T02:52:18+00:00",
+              "messageId": "dodtwitterbot/39690",
+              "description": "A coin only agents can mine. A long-running on-chain experiment.",
+              "text": "A coin only agents can mine. A long-running on-chain experiment."
+            }
+          ],
+          "text": " Agentic Coin Agentic_coin A coin only agents can mine. A long-running on-chain experiment.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "AGI",
+          "account": "AgentIdETH",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "A佬"
+          ],
+          "tgAlphas": [
+            "A佬"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-05T07:18:45+00:00",
+          "lastSeen": "2026-11-05T07:18:45+00:00",
+          "description": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "AGI",
+              "account": "AgentIdETH",
+              "alpha": "A佬",
+              "seenAt": "2026-11-05T07:18:45+00:00",
+              "messageId": "dodtwitterbot/39714",
+              "description": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy.",
+              "text": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy."
+            }
+          ],
+          "text": " AGI AgentIdETH Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
           "project": "Ascend",
           "account": "AscendLaunch",
           "sources": [
@@ -16632,6 +17234,76 @@
           "dayStatus": "new"
         },
         {
+          "project": "Cathereum",
+          "account": "CathereumTech",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-05T08:12:57+00:00",
+          "lastSeen": "2026-11-05T08:12:57+00:00",
+          "description": "Cats. Coins. Assets.\nGenesis starts with 8,888 fully onchain DN404s.\nTelegram: https://t.co/DcEFYNTrJH",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Cathereum",
+              "account": "CathereumTech",
+              "alpha": "阿宏",
+              "seenAt": "2026-11-05T08:12:57+00:00",
+              "messageId": "dodtwitterbot/39723",
+              "description": "Cats. Coins. Assets.\nGenesis starts with 8,888 fully onchain DN404s.\nTelegram: https://t.co/DcEFYNTrJH",
+              "text": "Cats. Coins. Assets.\nGenesis starts with 8,888 fully onchain DN404s.\nTelegram: https://t.co/DcEFYNTrJH"
+            }
+          ],
+          "text": " Cathereum CathereumTech Cats. Coins. Assets.\nGenesis starts with 8,888 fully onchain DN404s.\nTelegram: https://t.co/DcEFYNTrJH",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Corla 🤖",
+          "account": "Corla_5555",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "A佬"
+          ],
+          "tgAlphas": [
+            "A佬"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-05T06:57:51+00:00",
+          "lastSeen": "2026-11-05T06:57:51+00:00",
+          "description": "一个全新的mint发射平台\n官方Tg问题处理 https://t.co/l6KtGftnWa",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Corla 🤖",
+              "account": "Corla_5555",
+              "alpha": "A佬",
+              "seenAt": "2026-11-05T06:57:51+00:00",
+              "messageId": "dodtwitterbot/39713",
+              "description": "一个全新的mint发射平台\n官方Tg问题处理 https://t.co/l6KtGftnWa",
+              "text": "一个全新的mint发射平台\n官方Tg问题处理 https://t.co/l6KtGftnWa"
+            }
+          ],
+          "text": " Corla 🤖 Corla_5555 一个全新的mint发射平台\n官方Tg问题处理 https://t.co/l6KtGftnWa",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
           "project": "Deanone 💎",
           "account": "Deanoneqq",
           "sources": [
@@ -16665,6 +17337,111 @@
           "displayTier": "candidate",
           "avatarUrl": "",
           "dayStatus": "new"
+        },
+        {
+          "project": "Eloscape",
+          "account": "eloscapeHQ",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-05T04:24:34+00:00",
+          "lastSeen": "2026-11-05T04:24:34+00:00",
+          "description": "Virtual mining protocol on @Enter_Elysium\n\nNo token is live yet. Beware of scams.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Eloscape",
+              "account": "eloscapeHQ",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-05T04:24:34+00:00",
+              "messageId": "dodtwitterbot/39697",
+              "description": "Virtual mining protocol on @Enter_Elysium\n\nNo token is live yet. Beware of scams.",
+              "text": "Virtual mining protocol on @Enter_Elysium\n\nNo token is live yet. Beware of scams."
+            }
+          ],
+          "text": " Eloscape eloscapeHQ Virtual mining protocol on @Enter_Elysium\n\nNo token is live yet. Beware of scams.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Elypact",
+          "account": "Elypact",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-05T04:29:57+00:00",
+          "lastSeen": "2026-11-05T04:29:57+00:00",
+          "description": "OTC trading on your terms. Public offers and wallet-restricted deals with\non-chain escrow. Elysium and HyperEVM testnet beta. Test tokens only. https://t.co/ugaytADcMZ",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Elypact",
+              "account": "Elypact",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-05T04:29:57+00:00",
+              "messageId": "dodtwitterbot/39698",
+              "description": "OTC trading on your terms. Public offers and wallet-restricted deals with\non-chain escrow. Elysium and HyperEVM testnet beta. Test tokens only. https://t.co/ugaytADcMZ",
+              "text": "OTC trading on your terms. Public offers and wallet-restricted deals with\non-chain escrow. Elysium and HyperEVM testnet beta. Test tokens only. https://t.co/ugaytADcMZ"
+            }
+          ],
+          "text": " Elypact Elypact OTC trading on your terms. Public offers and wallet-restricted deals with\non-chain escrow. Elysium and HyperEVM testnet beta. Test tokens only. https://t.co/ugaytADcMZ",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Flutch",
+          "account": "Flutchdotfun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "A佬"
+          ],
+          "tgAlphas": [
+            "A佬"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-05T04:34:33+00:00",
+          "lastSeen": "2026-11-05T04:34:33+00:00",
+          "description": "Building the launch infrastructure for the next generation of builders | we’re not launching a token",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Flutch",
+              "account": "Flutchdotfun",
+              "alpha": "A佬",
+              "seenAt": "2026-11-05T04:34:33+00:00",
+              "messageId": "dodtwitterbot/39701",
+              "description": "Building the launch infrastructure for the next generation of builders | we’re not launching a token",
+              "text": "Building the launch infrastructure for the next generation of builders | we’re not launching a token"
+            }
+          ],
+          "text": " Flutch Flutchdotfun Building the launch infrastructure for the next generation of builders | we’re not launching a token",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
         },
         {
           "project": "Motion",
@@ -16912,6 +17689,76 @@
           "dayStatus": "new"
         },
         {
+          "project": "Ripcord | Ascend",
+          "account": "getripcordxyz",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-05T04:24:34+00:00",
+          "lastSeen": "2026-11-05T04:24:34+00:00",
+          "description": "Automated exit protection for @AscendLaunch tokens.\nSet your rules. Let Ripcord handle the exit.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Ripcord | Ascend",
+              "account": "getripcordxyz",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-05T04:24:34+00:00",
+              "messageId": "dodtwitterbot/39696",
+              "description": "Automated exit protection for @AscendLaunch tokens.\nSet your rules. Let Ripcord handle the exit.",
+              "text": "Automated exit protection for @AscendLaunch tokens.\nSet your rules. Let Ripcord handle the exit."
+            }
+          ],
+          "text": " Ripcord | Ascend getripcordxyz Automated exit protection for @AscendLaunch tokens.\nSet your rules. Let Ripcord handle the exit.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "ripe",
+          "account": "ripe0x",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Mutu 🕸️"
+          ],
+          "tgAlphas": [
+            "Mutu 🕸️"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-05T07:19:37+00:00",
+          "lastSeen": "2026-11-05T07:19:37+00:00",
+          "description": "onchain optimist",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "ripe",
+              "account": "ripe0x",
+              "alpha": "Mutu 🕸️",
+              "seenAt": "2026-11-05T07:19:37+00:00",
+              "messageId": "dodtwitterbot/39715",
+              "description": "onchain optimist",
+              "text": "onchain optimist"
+            }
+          ],
+          "text": " ripe ripe0x onchain optimist",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
           "project": "Rocky",
           "account": "Rocky_exchange",
           "sources": [
@@ -16947,6 +17794,41 @@
           "dayStatus": "new"
         },
         {
+          "project": "TABBY",
+          "account": "tabbypos",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "发誓要做永赚大师"
+          ],
+          "tgAlphas": [
+            "发誓要做永赚大师"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-05T04:16:27+00:00",
+          "lastSeen": "2026-11-05T04:16:27+00:00",
+          "description": "⚔️ 《维洛传说》VYLO MMORPG 🟣 Solar Team",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "TABBY",
+              "account": "tabbypos",
+              "alpha": "发誓要做永赚大师",
+              "seenAt": "2026-11-05T04:16:27+00:00",
+              "messageId": "dodtwitterbot/39695",
+              "description": "⚔️ 《维洛传说》VYLO MMORPG 🟣 Solar Team",
+              "text": "⚔️ 《维洛传说》VYLO MMORPG 🟣 Solar Team"
+            }
+          ],
+          "text": " TABBY tabbypos ⚔️ 《维洛传说》VYLO MMORPG 🟣 Solar Team",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
           "project": "TurtleFren",
           "account": "TurtleFrenGame",
           "sources": [
@@ -16976,6 +17858,111 @@
             }
           ],
           "text": " TurtleFren TurtleFrenGame small turtle. big internet. here to make frens. 🐢",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Updraft Exchange 🪂",
+          "account": "updraftexchange",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Mutu 🕸️"
+          ],
+          "tgAlphas": [
+            "Mutu 🕸️"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-05T06:38:29+00:00",
+          "lastSeen": "2026-11-05T06:38:29+00:00",
+          "description": "Updraft is the AI inference market on Elysium. 1 GUST buys &#036;1 of Claude, GPT or hundreds of other models, in Claude Code, Cursor or any OpenAI SDK.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Updraft Exchange 🪂",
+              "account": "updraftexchange",
+              "alpha": "Mutu 🕸️",
+              "seenAt": "2026-11-05T06:38:29+00:00",
+              "messageId": "dodtwitterbot/39712",
+              "description": "Updraft is the AI inference market on Elysium. 1 GUST buys &#036;1 of Claude, GPT or hundreds of other models, in Claude Code, Cursor or any OpenAI SDK.",
+              "text": "Updraft is the AI inference market on Elysium. 1 GUST buys &#036;1 of Claude, GPT or hundreds of other models, in Claude Code, Cursor or any OpenAI SDK."
+            }
+          ],
+          "text": " Updraft Exchange 🪂 updraftexchange Updraft is the AI inference market on Elysium. 1 GUST buys &#036;1 of Claude, GPT or hundreds of other models, in Claude Code, Cursor or any OpenAI SDK.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Zyora",
+          "account": "Zyoradotfun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "speest 💎"
+          ],
+          "tgAlphas": [
+            "speest 💎"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-05T01:57:45+00:00",
+          "lastSeen": "2026-11-05T01:57:45+00:00",
+          "description": "The next generation of on-chain launches & trading\n\nLive on @Enter_elysium",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Zyora",
+              "account": "Zyoradotfun",
+              "alpha": "speest 💎",
+              "seenAt": "2026-11-05T01:57:45+00:00",
+              "messageId": "dodtwitterbot/39688",
+              "description": "The next generation of on-chain launches & trading\n\nLive on @Enter_elysium",
+              "text": "The next generation of on-chain launches & trading\n\nLive on @Enter_elysium"
+            }
+          ],
+          "text": " Zyora Zyoradotfun The next generation of on-chain launches & trading\n\nLive on @Enter_elysium",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "折耳根",
+          "account": "chaoJia123",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-05T04:05:33+00:00",
+          "lastSeen": "2026-11-05T04:05:33+00:00",
+          "description": "币圈小学僧，meme、agent、defi、链游挨个亏损！！！",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "折耳根",
+              "account": "chaoJia123",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-05T04:05:33+00:00",
+              "messageId": "dodtwitterbot/39694",
+              "description": "币圈小学僧，meme、agent、defi、链游挨个亏损！！！",
+              "text": "币圈小学僧，meme、agent、defi、链游挨个亏损！！！"
+            }
+          ],
+          "text": " 折耳根 chaoJia123 币圈小学僧，meme、agent、defi、链游挨个亏损！！！",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -31012,149 +31999,154 @@
   ],
   "reports": [
     {
+      "file": "2026-11-05-0836-telegram-update.md",
+      "title": "2026-11-05-0836-telegram-update",
+      "updatedAt": "2026-11-05T08:36:22.394Z"
+    },
+    {
       "file": "2026-11-04-2255-telegram-update.md",
       "title": "2026-11-04-2255-telegram-update",
-      "updatedAt": "2026-11-04T22:55:32.242Z"
+      "updatedAt": "2026-11-05T08:36:20.158Z"
     },
     {
       "file": "2026-11-04-1737-telegram-update.md",
       "title": "2026-11-04-1737-telegram-update",
-      "updatedAt": "2026-11-04T22:55:29.702Z"
+      "updatedAt": "2026-11-05T08:36:20.158Z"
     },
     {
       "file": "2026-11-04-0810-telegram-update.md",
       "title": "2026-11-04-0810-telegram-update",
-      "updatedAt": "2026-11-04T22:55:29.702Z"
+      "updatedAt": "2026-11-05T08:36:20.158Z"
     },
     {
       "file": "2026-11-04-0143-telegram-update.md",
       "title": "2026-11-04-0143-telegram-update",
-      "updatedAt": "2026-11-04T22:55:29.702Z"
+      "updatedAt": "2026-11-05T08:36:20.158Z"
     },
     {
       "file": "2026-11-03-2018-telegram-update.md",
       "title": "2026-11-03-2018-telegram-update",
-      "updatedAt": "2026-11-04T22:55:29.702Z"
+      "updatedAt": "2026-11-05T08:36:20.158Z"
     },
     {
       "file": "2026-11-03-1302-telegram-update.md",
       "title": "2026-11-03-1302-telegram-update",
-      "updatedAt": "2026-11-04T22:55:29.702Z"
+      "updatedAt": "2026-11-05T08:36:20.158Z"
     },
     {
       "file": "2026-11-03-0306-telegram-update.md",
       "title": "2026-11-03-0306-telegram-update",
-      "updatedAt": "2026-11-04T22:55:29.702Z"
+      "updatedAt": "2026-11-05T08:36:20.158Z"
     },
     {
       "file": "2026-11-02-1950-telegram-update.md",
       "title": "2026-11-02-1950-telegram-update",
-      "updatedAt": "2026-11-04T22:55:29.702Z"
+      "updatedAt": "2026-11-05T08:36:20.158Z"
     },
     {
       "file": "2026-11-02-0826-telegram-update.md",
       "title": "2026-11-02-0826-telegram-update",
-      "updatedAt": "2026-11-04T22:55:29.702Z"
+      "updatedAt": "2026-11-05T08:36:20.158Z"
     },
     {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-04T22:55:29.702Z"
+      "updatedAt": "2026-11-05T08:36:20.158Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-04T22:55:29.702Z"
+      "updatedAt": "2026-11-05T08:36:20.158Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-04T22:55:29.702Z"
+      "updatedAt": "2026-11-05T08:36:20.158Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-04T22:55:29.702Z"
+      "updatedAt": "2026-11-05T08:36:20.158Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-04T22:55:29.702Z"
+      "updatedAt": "2026-11-05T08:36:20.158Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-04T22:55:29.702Z"
+      "updatedAt": "2026-11-05T08:36:20.158Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-04T22:55:29.702Z"
+      "updatedAt": "2026-11-05T08:36:20.158Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-04T22:55:29.702Z"
+      "updatedAt": "2026-11-05T08:36:20.158Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-04T22:55:29.702Z"
+      "updatedAt": "2026-11-05T08:36:20.158Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-04T22:55:29.702Z"
+      "updatedAt": "2026-11-05T08:36:20.158Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-04T22:55:29.702Z"
+      "updatedAt": "2026-11-05T08:36:20.158Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-04T22:55:29.702Z"
+      "updatedAt": "2026-11-05T08:36:20.158Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-04T22:55:29.702Z"
+      "updatedAt": "2026-11-05T08:36:20.158Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-04T22:55:29.702Z"
+      "updatedAt": "2026-11-05T08:36:20.158Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-04T22:55:29.702Z"
+      "updatedAt": "2026-11-05T08:36:20.158Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-04T22:55:29.702Z"
+      "updatedAt": "2026-11-05T08:36:20.158Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-04T22:55:29.702Z"
+      "updatedAt": "2026-11-05T08:36:20.158Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-04T22:55:29.702Z"
+      "updatedAt": "2026-11-05T08:36:20.158Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-04T22:55:29.702Z"
+      "updatedAt": "2026-11-05T08:36:20.158Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-04T22:55:29.701Z"
+      "updatedAt": "2026-11-05T08:36:20.156Z"
     }
   ]
 }
