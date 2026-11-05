@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-05T17:42:15.942Z",
+  "generatedAt": "2026-11-05T22:56:08.835Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 39800,
-    "lastMessageAt": "2026-11-05T17:01:23+00:00",
-    "lastCheckedAt": "2026-11-05T17:42:15.808Z",
-    "previousMessageId": 39725,
-    "pagesRead": 4,
-    "messagesRead": 75,
-    "newProjectRecords": 27,
+    "lastMessageId": 39823,
+    "lastMessageAt": "2026-11-05T21:40:53+00:00",
+    "lastCheckedAt": "2026-11-05T22:56:08.710Z",
+    "previousMessageId": 39800,
+    "pagesRead": 2,
+    "messagesRead": 23,
+    "newProjectRecords": 12,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 526,
+    "telegramRows": 538,
     "xRows": 0,
-    "projects": 316,
+    "projects": 324,
     "crossSource": 0
   },
   "projects": [
@@ -3194,6 +3194,64 @@
       "avatarUrl": ""
     },
     {
+      "project": "Pocket Noob",
+      "account": "playpocketnoob",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse",
+        "unsynned",
+        "发誓要做永赚大师"
+      ],
+      "tgAlphas": [
+        "BearzVerse",
+        "unsynned",
+        "发誓要做永赚大师"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-11-05T12:18:49+00:00",
+      "lastSeen": "2026-11-05T19:30:38+00:00",
+      "description": "A cozy companion arcade. Little games, big discoveries & a home to make your own. Coming soon to iOS & Android.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Pocket Noob",
+          "account": "playpocketnoob",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-05T12:18:49+00:00",
+          "messageId": "dodtwitterbot/39765",
+          "description": "A cozy companion arcade. Little games, big discoveries & a home to make your own. Coming soon to iOS & Android.",
+          "text": "A cozy companion arcade. Little games, big discoveries & a home to make your own. Coming soon to iOS & Android."
+        },
+        {
+          "source": "TG",
+          "project": "Pocket Noob",
+          "account": "playpocketnoob",
+          "alpha": "BearzVerse",
+          "seenAt": "2026-11-05T19:28:46+00:00",
+          "messageId": "dodtwitterbot/39818",
+          "description": "A cozy companion arcade. Little games, big discoveries & a home to make your own. Coming soon to iOS & Android.",
+          "text": "A cozy companion arcade. Little games, big discoveries & a home to make your own. Coming soon to iOS & Android."
+        },
+        {
+          "source": "TG",
+          "project": "Pocket Noob",
+          "account": "playpocketnoob",
+          "alpha": "发誓要做永赚大师",
+          "seenAt": "2026-11-05T19:30:38+00:00",
+          "messageId": "dodtwitterbot/39821",
+          "description": "A cozy companion arcade. Little games, big discoveries & a home to make your own. Coming soon to iOS & Android.",
+          "text": "A cozy companion arcade. Little games, big discoveries & a home to make your own. Coming soon to iOS & Android."
+        }
+      ],
+      "text": " Pocket Noob playpocketnoob A cozy companion arcade. Little games, big discoveries & a home to make your own. Coming soon to iOS & Android. Pocket Noob playpocketnoob A cozy companion arcade. Little games, big discoveries & a home to make your own. Coming soon to iOS & Android. Pocket Noob playpocketnoob A cozy companion arcade. Little games, big discoveries & a home to make your own. Coming soon to iOS & Android.",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Polypus",
       "account": "polypus_fi",
       "sources": [
@@ -3738,6 +3796,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "Alber Blanc",
+      "account": "Alber_Blanc_",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse",
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "BearzVerse",
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-05T18:58:23+00:00",
+      "lastSeen": "2026-11-05T19:29:42+00:00",
+      "description": "Alber Blanc is a proprietary trading firm and derivatives market maker providing exchange liquidity, focused on emerging markets. CH · CY · NL",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Alber Blanc",
+          "account": "Alber_Blanc_",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-05T18:58:23+00:00",
+          "messageId": "dodtwitterbot/39812",
+          "description": "Alber Blanc is a proprietary trading firm and derivatives market maker providing exchange liquidity, focused on emerging markets. CH · CY · NL",
+          "text": "Alber Blanc is a proprietary trading firm and derivatives market maker providing exchange liquidity, focused on emerging markets. CH · CY · NL"
+        },
+        {
+          "source": "TG",
+          "project": "Alber Blanc",
+          "account": "Alber_Blanc_",
+          "alpha": "BearzVerse",
+          "seenAt": "2026-11-05T19:29:42+00:00",
+          "messageId": "dodtwitterbot/39820",
+          "description": "Alber Blanc is a proprietary trading firm and derivatives market maker providing exchange liquidity, focused on emerging markets. CH · CY · NL",
+          "text": "Alber Blanc is a proprietary trading firm and derivatives market maker providing exchange liquidity, focused on emerging markets. CH · CY · NL"
+        }
+      ],
+      "text": " Alber Blanc Alber_Blanc_ Alber Blanc is a proprietary trading firm and derivatives market maker providing exchange liquidity, focused on emerging markets. CH · CY · NL Alber Blanc Alber_Blanc_ Alber Blanc is a proprietary trading firm and derivatives market maker providing exchange liquidity, focused on emerging markets. CH · CY · NL",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "arkhampad",
       "account": "arkhampad",
       "sources": [
@@ -3917,6 +4021,52 @@
         }
       ],
       "text": " blobs.meme blobsdotmeme The @Ethereum launchpad where every coin gets an AI Agent: built around your logo, it runs the treasury, grows when it trades and sleeps when it's quiet. blobs.meme blobsdotmeme The @Ethereum launchpad where every coin gets an AI Agent: built around your logo, it runs the treasury, grows when it trades and sleeps when it's quiet.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Bons",
+      "account": "tradebons",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse",
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "BearzVerse",
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-05T19:20:36+00:00",
+      "lastSeen": "2026-11-05T19:28:46+00:00",
+      "description": "Your trading ideas, turned into AI agents that never log off.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Bons",
+          "account": "tradebons",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-05T19:20:36+00:00",
+          "messageId": "dodtwitterbot/39816",
+          "description": "Your trading ideas, turned into AI agents that never log off.",
+          "text": "Your trading ideas, turned into AI agents that never log off."
+        },
+        {
+          "source": "TG",
+          "project": "Bons",
+          "account": "tradebons",
+          "alpha": "BearzVerse",
+          "seenAt": "2026-11-05T19:28:46+00:00",
+          "messageId": "dodtwitterbot/39817",
+          "description": "Your trading ideas, turned into AI agents that never log off.",
+          "text": "Your trading ideas, turned into AI agents that never log off."
+        }
+      ],
+      "text": " Bons tradebons Your trading ideas, turned into AI agents that never log off. Bons tradebons Your trading ideas, turned into AI agents that never log off.",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -7538,6 +7688,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "CeilingDotFun",
+      "account": "CeilingDotFun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka"
+      ],
+      "tgAlphas": [
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-05T18:28:54+00:00",
+      "lastSeen": "2026-11-05T18:28:54+00:00",
+      "description": "A @Solana launchpad enabling permissionless token creation for any online identity, with vault-based creator fee distribution",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "CeilingDotFun",
+          "account": "CeilingDotFun",
+          "alpha": "lakka",
+          "seenAt": "2026-11-05T18:28:54+00:00",
+          "messageId": "dodtwitterbot/39811",
+          "description": "A @Solana launchpad enabling permissionless token creation for any online identity, with vault-based creator fee distribution",
+          "text": "A @Solana launchpad enabling permissionless token creation for any online identity, with vault-based creator fee distribution"
+        }
+      ],
+      "text": " CeilingDotFun CeilingDotFun A @Solana launchpad enabling permissionless token creation for any online identity, with vault-based creator fee distribution",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Chatr",
       "account": "chatr2025",
       "sources": [
@@ -9136,6 +9320,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Hypercall by &#036;SYN",
+      "account": "SynapseProtocol",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-05T17:54:28+00:00",
+      "lastSeen": "2026-11-05T17:54:28+00:00",
+      "description": "Hypercall is building the options exchange for everything.\n\nOur products have over &#036;55B in volume & 2.5M users.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Hypercall by &#036;SYN",
+          "account": "SynapseProtocol",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-05T17:54:28+00:00",
+          "messageId": "dodtwitterbot/39802",
+          "description": "Hypercall is building the options exchange for everything.\n\nOur products have over &#036;55B in volume & 2.5M users.",
+          "text": "Hypercall is building the options exchange for everything.\n\nOur products have over &#036;55B in volume & 2.5M users."
+        }
+      ],
+      "text": " Hypercall by &#036;SYN SynapseProtocol Hypercall is building the options exchange for everything.\n\nOur products have over &#036;55B in volume & 2.5M users.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Hyperion",
       "account": "Hyperion_RPG",
       "sources": [
@@ -9199,6 +9417,40 @@
         }
       ],
       "text": " Hyperliquid HyperliquidX Infrastructure to house all finance. Trade crypto, commodities, indices, FX, and real-world assets onchain, 24/7. Not directed at UK persons.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Hyperloop Finance | Non-liquidative Lending",
+      "account": "hyperloop_fi_",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka"
+      ],
+      "tgAlphas": [
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-05T17:57:59+00:00",
+      "lastSeen": "2026-11-05T17:57:59+00:00",
+      "description": "Non-liquidative Lending Markets with Options Attributions.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Hyperloop Finance | Non-liquidative Lending",
+          "account": "hyperloop_fi_",
+          "alpha": "lakka",
+          "seenAt": "2026-11-05T17:57:59+00:00",
+          "messageId": "dodtwitterbot/39804",
+          "description": "Non-liquidative Lending Markets with Options Attributions.",
+          "text": "Non-liquidative Lending Markets with Options Attributions."
+        }
+      ],
+      "text": " Hyperloop Finance | Non-liquidative Lending hyperloop_fi_ Non-liquidative Lending Markets with Options Attributions.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -9437,6 +9689,40 @@
         }
       ],
       "text": " Korini Korinitrade all in one on elysium mainnet trading terminal RWAs pairing lauchapad",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Kurtosis Labs",
+      "account": "KurtosisLabs",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka"
+      ],
+      "tgAlphas": [
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-05T17:57:33+00:00",
+      "lastSeen": "2026-11-05T17:57:33+00:00",
+      "description": "Systematic fixed-income infrastructure for institutions, on-chain. Backed by @superteamsg",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Kurtosis Labs",
+          "account": "KurtosisLabs",
+          "alpha": "lakka",
+          "seenAt": "2026-11-05T17:57:33+00:00",
+          "messageId": "dodtwitterbot/39803",
+          "description": "Systematic fixed-income infrastructure for institutions, on-chain. Backed by @superteamsg",
+          "text": "Systematic fixed-income infrastructure for institutions, on-chain. Backed by @superteamsg"
+        }
+      ],
+      "text": " Kurtosis Labs KurtosisLabs Systematic fixed-income infrastructure for institutions, on-chain. Backed by @superteamsg",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -10632,40 +10918,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Pocket Noob",
-      "account": "playpocketnoob",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "unsynned"
-      ],
-      "tgAlphas": [
-        "unsynned"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-05T12:18:49+00:00",
-      "lastSeen": "2026-11-05T12:18:49+00:00",
-      "description": "A cozy companion arcade. Little games, big discoveries & a home to make your own. Coming soon to iOS & Android.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Pocket Noob",
-          "account": "playpocketnoob",
-          "alpha": "unsynned",
-          "seenAt": "2026-11-05T12:18:49+00:00",
-          "messageId": "dodtwitterbot/39765",
-          "description": "A cozy companion arcade. Little games, big discoveries & a home to make your own. Coming soon to iOS & Android.",
-          "text": "A cozy companion arcade. Little games, big discoveries & a home to make your own. Coming soon to iOS & Android."
-        }
-      ],
-      "text": " Pocket Noob playpocketnoob A cozy companion arcade. Little games, big discoveries & a home to make your own. Coming soon to iOS & Android.",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
       "project": "Potrun",
       "account": "potrunxyz",
       "sources": [
@@ -10836,6 +11088,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "punk.fun",
+      "account": "punkdotfun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka"
+      ],
+      "tgAlphas": [
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-05T18:24:20+00:00",
+      "lastSeen": "2026-11-05T18:24:20+00:00",
+      "description": "permissionless token launches with unruggable liquidity\n\nDM for alpha",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "punk.fun",
+          "account": "punkdotfun",
+          "alpha": "lakka",
+          "seenAt": "2026-11-05T18:24:20+00:00",
+          "messageId": "dodtwitterbot/39808",
+          "description": "permissionless token launches with unruggable liquidity\n\nDM for alpha",
+          "text": "permissionless token launches with unruggable liquidity\n\nDM for alpha"
+        }
+      ],
+      "text": " punk.fun punkdotfun permissionless token launches with unruggable liquidity\n\nDM for alpha",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "PYRIVA",
       "account": "Desire8492261",
       "sources": [
@@ -10899,6 +11185,40 @@
         }
       ],
       "text": " Qday qday_hl Q-Day is coming. Your privacy will survive it. Post-quantum vaults for USDH, tokenized stocks and RWA on @HyperliquidX .",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Quoted",
+      "account": "quoted_xyz",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "CSR"
+      ],
+      "tgAlphas": [
+        "CSR"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-05T18:26:08+00:00",
+      "lastSeen": "2026-11-05T18:26:08+00:00",
+      "description": "Every token, quoted in a stock. Every address between quotes.\n\n&#036;QUOTED now live on @Enter_Elysium",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Quoted",
+          "account": "quoted_xyz",
+          "alpha": "CSR",
+          "seenAt": "2026-11-05T18:26:08+00:00",
+          "messageId": "dodtwitterbot/39809",
+          "description": "Every token, quoted in a stock. Every address between quotes.\n\n&#036;QUOTED now live on @Enter_Elysium",
+          "text": "Every token, quoted in a stock. Every address between quotes.\n\n&#036;QUOTED now live on @Enter_Elysium"
+        }
+      ],
+      "text": " Quoted quoted_xyz Every token, quoted in a stock. Every address between quotes.\n\n&#036;QUOTED now live on @Enter_Elysium",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -14055,6 +14375,22 @@
       "avatarUrl": ""
     },
     {
+      "project": "Pocket Noob",
+      "x_account": "playpocketnoob",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "BearzVerse",
+        "unsynned",
+        "发誓要做永赚大师"
+      ],
+      "description": "A cozy companion arcade. Little games, big discoveries & a home to make your own. Coming soon to iOS & Android.",
+      "first_seen_utc": "2026-11-05T12:18:49+00:00",
+      "last_seen_utc": "2026-11-05T19:30:38+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
       "project": "Polypus",
       "x_account": "polypus_fi",
       "total_mentions": 3,
@@ -14212,6 +14548,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "Alber Blanc",
+      "x_account": "Alber_Blanc_",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "BearzVerse",
+        "unsynned"
+      ],
+      "description": "Alber Blanc is a proprietary trading firm and derivatives market maker providing exchange liquidity, focused on emerging markets. CH · CY · NL",
+      "first_seen_utc": "2026-11-05T18:58:23+00:00",
+      "last_seen_utc": "2026-11-05T19:29:42+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "arkhampad",
       "x_account": "arkhampad",
       "total_mentions": 2,
@@ -14268,6 +14619,21 @@
       "description": "The @Ethereum launchpad where every coin gets an AI Agent: built around your logo, it runs the treasury, grows when it trades and sleeps when it's quiet.",
       "first_seen_utc": "2026-10-28T01:09:00+08:00",
       "last_seen_utc": "2026-10-28T19:01:00+08:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Bons",
+      "x_account": "tradebons",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "BearzVerse",
+        "unsynned"
+      ],
+      "description": "Your trading ideas, turned into AI agents that never log off.",
+      "first_seen_utc": "2026-11-05T19:20:36+00:00",
+      "last_seen_utc": "2026-11-05T19:28:46+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -15556,6 +15922,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "CeilingDotFun",
+      "x_account": "CeilingDotFun",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "lakka"
+      ],
+      "description": "A @Solana launchpad enabling permissionless token creation for any online identity, with vault-based creator fee distribution",
+      "first_seen_utc": "2026-11-05T18:28:54+00:00",
+      "last_seen_utc": "2026-11-05T18:28:54+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Chatr",
       "x_account": "chatr2025",
       "total_mentions": 1,
@@ -16214,6 +16594,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Hypercall by &#036;SYN",
+      "x_account": "SynapseProtocol",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "阿宏"
+      ],
+      "description": "Hypercall is building the options exchange for everything.\n\nOur products have over &#036;55B in volume & 2.5M users.",
+      "first_seen_utc": "2026-11-05T17:54:28+00:00",
+      "last_seen_utc": "2026-11-05T17:54:28+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Hyperion",
       "x_account": "Hyperion_RPG",
       "total_mentions": 1,
@@ -16238,6 +16632,20 @@
       "description": "Infrastructure to house all finance. Trade crypto, commodities, indices, FX, and real-world assets onchain, 24/7. Not directed at UK persons.",
       "first_seen_utc": "2026-11-01T19:44:09+00:00",
       "last_seen_utc": "2026-11-01T19:44:09+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Hyperloop Finance | Non-liquidative Lending",
+      "x_account": "hyperloop_fi_",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "lakka"
+      ],
+      "description": "Non-liquidative Lending Markets with Options Attributions.",
+      "first_seen_utc": "2026-11-05T17:57:59+00:00",
+      "last_seen_utc": "2026-11-05T17:57:59+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -16336,6 +16744,20 @@
       "description": "all in one on elysium mainnet trading terminal RWAs pairing lauchapad",
       "first_seen_utc": "2026-11-01T16:52:34+00:00",
       "last_seen_utc": "2026-11-01T16:52:34+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Kurtosis Labs",
+      "x_account": "KurtosisLabs",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "lakka"
+      ],
+      "description": "Systematic fixed-income infrastructure for institutions, on-chain. Backed by @superteamsg",
+      "first_seen_utc": "2026-11-05T17:57:33+00:00",
+      "last_seen_utc": "2026-11-05T17:57:33+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -16830,20 +17252,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Pocket Noob",
-      "x_account": "playpocketnoob",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "unsynned"
-      ],
-      "description": "A cozy companion arcade. Little games, big discoveries & a home to make your own. Coming soon to iOS & Android.",
-      "first_seen_utc": "2026-11-05T12:18:49+00:00",
-      "last_seen_utc": "2026-11-05T12:18:49+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "Potrun",
       "x_account": "potrunxyz",
       "total_mentions": 1,
@@ -16914,6 +17322,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "punk.fun",
+      "x_account": "punkdotfun",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "lakka"
+      ],
+      "description": "permissionless token launches with unruggable liquidity\n\nDM for alpha",
+      "first_seen_utc": "2026-11-05T18:24:20+00:00",
+      "last_seen_utc": "2026-11-05T18:24:20+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "PYRIVA",
       "x_account": "Desire8492261",
       "total_mentions": 1,
@@ -16938,6 +17360,20 @@
       "description": "Q-Day is coming. Your privacy will survive it. Post-quantum vaults for USDH, tokenized stocks and RWA on @HyperliquidX .",
       "first_seen_utc": "2026-11-02T12:06:48+00:00",
       "last_seen_utc": "2026-11-02T12:06:48+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Quoted",
+      "x_account": "quoted_xyz",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "CSR"
+      ],
+      "description": "Every token, quoted in a stock. Every address between quotes.\n\n&#036;QUOTED now live on @Enter_Elysium",
+      "first_seen_utc": "2026-11-05T18:26:08+00:00",
+      "last_seen_utc": "2026-11-05T18:26:08+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -17925,14 +18361,366 @@
   "daily": [
     {
       "date": "2026-11-06",
-      "totalRows": 0,
-      "projectCount": 0,
-      "focusCount": 0,
-      "candidateCount": 0,
+      "totalRows": 12,
+      "projectCount": 9,
+      "focusCount": 3,
+      "candidateCount": 6,
       "crossSource": 0,
-      "newCount": 0,
-      "repeatCount": 0,
-      "projects": []
+      "newCount": 8,
+      "repeatCount": 1,
+      "projects": [
+        {
+          "project": "Alber Blanc",
+          "account": "Alber_Blanc_",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BearzVerse",
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "BearzVerse",
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-11-05T18:58:23+00:00",
+          "lastSeen": "2026-11-05T19:29:42+00:00",
+          "description": "Alber Blanc is a proprietary trading firm and derivatives market maker providing exchange liquidity, focused on emerging markets. CH · CY · NL",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Alber Blanc",
+              "account": "Alber_Blanc_",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-05T18:58:23+00:00",
+              "messageId": "dodtwitterbot/39812",
+              "description": "Alber Blanc is a proprietary trading firm and derivatives market maker providing exchange liquidity, focused on emerging markets. CH · CY · NL",
+              "text": "Alber Blanc is a proprietary trading firm and derivatives market maker providing exchange liquidity, focused on emerging markets. CH · CY · NL"
+            },
+            {
+              "source": "TG",
+              "project": "Alber Blanc",
+              "account": "Alber_Blanc_",
+              "alpha": "BearzVerse",
+              "seenAt": "2026-11-05T19:29:42+00:00",
+              "messageId": "dodtwitterbot/39820",
+              "description": "Alber Blanc is a proprietary trading firm and derivatives market maker providing exchange liquidity, focused on emerging markets. CH · CY · NL",
+              "text": "Alber Blanc is a proprietary trading firm and derivatives market maker providing exchange liquidity, focused on emerging markets. CH · CY · NL"
+            }
+          ],
+          "text": " Alber Blanc Alber_Blanc_ Alber Blanc is a proprietary trading firm and derivatives market maker providing exchange liquidity, focused on emerging markets. CH · CY · NL Alber Blanc Alber_Blanc_ Alber Blanc is a proprietary trading firm and derivatives market maker providing exchange liquidity, focused on emerging markets. CH · CY · NL",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Bons",
+          "account": "tradebons",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BearzVerse",
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "BearzVerse",
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-11-05T19:20:36+00:00",
+          "lastSeen": "2026-11-05T19:28:46+00:00",
+          "description": "Your trading ideas, turned into AI agents that never log off.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Bons",
+              "account": "tradebons",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-05T19:20:36+00:00",
+              "messageId": "dodtwitterbot/39816",
+              "description": "Your trading ideas, turned into AI agents that never log off.",
+              "text": "Your trading ideas, turned into AI agents that never log off."
+            },
+            {
+              "source": "TG",
+              "project": "Bons",
+              "account": "tradebons",
+              "alpha": "BearzVerse",
+              "seenAt": "2026-11-05T19:28:46+00:00",
+              "messageId": "dodtwitterbot/39817",
+              "description": "Your trading ideas, turned into AI agents that never log off.",
+              "text": "Your trading ideas, turned into AI agents that never log off."
+            }
+          ],
+          "text": " Bons tradebons Your trading ideas, turned into AI agents that never log off. Bons tradebons Your trading ideas, turned into AI agents that never log off.",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Pocket Noob",
+          "account": "playpocketnoob",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BearzVerse",
+            "发誓要做永赚大师"
+          ],
+          "tgAlphas": [
+            "BearzVerse",
+            "发誓要做永赚大师"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-11-05T19:28:46+00:00",
+          "lastSeen": "2026-11-05T19:30:38+00:00",
+          "description": "A cozy companion arcade. Little games, big discoveries & a home to make your own. Coming soon to iOS & Android.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Pocket Noob",
+              "account": "playpocketnoob",
+              "alpha": "BearzVerse",
+              "seenAt": "2026-11-05T19:28:46+00:00",
+              "messageId": "dodtwitterbot/39818",
+              "description": "A cozy companion arcade. Little games, big discoveries & a home to make your own. Coming soon to iOS & Android.",
+              "text": "A cozy companion arcade. Little games, big discoveries & a home to make your own. Coming soon to iOS & Android."
+            },
+            {
+              "source": "TG",
+              "project": "Pocket Noob",
+              "account": "playpocketnoob",
+              "alpha": "发誓要做永赚大师",
+              "seenAt": "2026-11-05T19:30:38+00:00",
+              "messageId": "dodtwitterbot/39821",
+              "description": "A cozy companion arcade. Little games, big discoveries & a home to make your own. Coming soon to iOS & Android.",
+              "text": "A cozy companion arcade. Little games, big discoveries & a home to make your own. Coming soon to iOS & Android."
+            }
+          ],
+          "text": " Pocket Noob playpocketnoob A cozy companion arcade. Little games, big discoveries & a home to make your own. Coming soon to iOS & Android. Pocket Noob playpocketnoob A cozy companion arcade. Little games, big discoveries & a home to make your own. Coming soon to iOS & Android.",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "CeilingDotFun",
+          "account": "CeilingDotFun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-05T18:28:54+00:00",
+          "lastSeen": "2026-11-05T18:28:54+00:00",
+          "description": "A @Solana launchpad enabling permissionless token creation for any online identity, with vault-based creator fee distribution",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "CeilingDotFun",
+              "account": "CeilingDotFun",
+              "alpha": "lakka",
+              "seenAt": "2026-11-05T18:28:54+00:00",
+              "messageId": "dodtwitterbot/39811",
+              "description": "A @Solana launchpad enabling permissionless token creation for any online identity, with vault-based creator fee distribution",
+              "text": "A @Solana launchpad enabling permissionless token creation for any online identity, with vault-based creator fee distribution"
+            }
+          ],
+          "text": " CeilingDotFun CeilingDotFun A @Solana launchpad enabling permissionless token creation for any online identity, with vault-based creator fee distribution",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Hypercall by &#036;SYN",
+          "account": "SynapseProtocol",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-05T17:54:28+00:00",
+          "lastSeen": "2026-11-05T17:54:28+00:00",
+          "description": "Hypercall is building the options exchange for everything.\n\nOur products have over &#036;55B in volume & 2.5M users.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Hypercall by &#036;SYN",
+              "account": "SynapseProtocol",
+              "alpha": "阿宏",
+              "seenAt": "2026-11-05T17:54:28+00:00",
+              "messageId": "dodtwitterbot/39802",
+              "description": "Hypercall is building the options exchange for everything.\n\nOur products have over &#036;55B in volume & 2.5M users.",
+              "text": "Hypercall is building the options exchange for everything.\n\nOur products have over &#036;55B in volume & 2.5M users."
+            }
+          ],
+          "text": " Hypercall by &#036;SYN SynapseProtocol Hypercall is building the options exchange for everything.\n\nOur products have over &#036;55B in volume & 2.5M users.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Hyperloop Finance | Non-liquidative Lending",
+          "account": "hyperloop_fi_",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-05T17:57:59+00:00",
+          "lastSeen": "2026-11-05T17:57:59+00:00",
+          "description": "Non-liquidative Lending Markets with Options Attributions.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Hyperloop Finance | Non-liquidative Lending",
+              "account": "hyperloop_fi_",
+              "alpha": "lakka",
+              "seenAt": "2026-11-05T17:57:59+00:00",
+              "messageId": "dodtwitterbot/39804",
+              "description": "Non-liquidative Lending Markets with Options Attributions.",
+              "text": "Non-liquidative Lending Markets with Options Attributions."
+            }
+          ],
+          "text": " Hyperloop Finance | Non-liquidative Lending hyperloop_fi_ Non-liquidative Lending Markets with Options Attributions.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Kurtosis Labs",
+          "account": "KurtosisLabs",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-05T17:57:33+00:00",
+          "lastSeen": "2026-11-05T17:57:33+00:00",
+          "description": "Systematic fixed-income infrastructure for institutions, on-chain. Backed by @superteamsg",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Kurtosis Labs",
+              "account": "KurtosisLabs",
+              "alpha": "lakka",
+              "seenAt": "2026-11-05T17:57:33+00:00",
+              "messageId": "dodtwitterbot/39803",
+              "description": "Systematic fixed-income infrastructure for institutions, on-chain. Backed by @superteamsg",
+              "text": "Systematic fixed-income infrastructure for institutions, on-chain. Backed by @superteamsg"
+            }
+          ],
+          "text": " Kurtosis Labs KurtosisLabs Systematic fixed-income infrastructure for institutions, on-chain. Backed by @superteamsg",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "punk.fun",
+          "account": "punkdotfun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-05T18:24:20+00:00",
+          "lastSeen": "2026-11-05T18:24:20+00:00",
+          "description": "permissionless token launches with unruggable liquidity\n\nDM for alpha",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "punk.fun",
+              "account": "punkdotfun",
+              "alpha": "lakka",
+              "seenAt": "2026-11-05T18:24:20+00:00",
+              "messageId": "dodtwitterbot/39808",
+              "description": "permissionless token launches with unruggable liquidity\n\nDM for alpha",
+              "text": "permissionless token launches with unruggable liquidity\n\nDM for alpha"
+            }
+          ],
+          "text": " punk.fun punkdotfun permissionless token launches with unruggable liquidity\n\nDM for alpha",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Quoted",
+          "account": "quoted_xyz",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "CSR"
+          ],
+          "tgAlphas": [
+            "CSR"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-05T18:26:08+00:00",
+          "lastSeen": "2026-11-05T18:26:08+00:00",
+          "description": "Every token, quoted in a stock. Every address between quotes.\n\n&#036;QUOTED now live on @Enter_Elysium",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Quoted",
+              "account": "quoted_xyz",
+              "alpha": "CSR",
+              "seenAt": "2026-11-05T18:26:08+00:00",
+              "messageId": "dodtwitterbot/39809",
+              "description": "Every token, quoted in a stock. Every address between quotes.\n\n&#036;QUOTED now live on @Enter_Elysium",
+              "text": "Every token, quoted in a stock. Every address between quotes.\n\n&#036;QUOTED now live on @Enter_Elysium"
+            }
+          ],
+          "text": " Quoted quoted_xyz Every token, quoted in a stock. Every address between quotes.\n\n&#036;QUOTED now live on @Enter_Elysium",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        }
+      ]
     },
     {
       "date": "2026-11-05",
@@ -33810,159 +34598,164 @@
   ],
   "reports": [
     {
+      "file": "2026-11-05-2256-telegram-update.md",
+      "title": "2026-11-05-2256-telegram-update",
+      "updatedAt": "2026-11-05T22:56:08.709Z"
+    },
+    {
       "file": "2026-11-05-1742-telegram-update.md",
       "title": "2026-11-05-1742-telegram-update",
-      "updatedAt": "2026-11-05T17:42:15.807Z"
+      "updatedAt": "2026-11-05T22:56:03.907Z"
     },
     {
       "file": "2026-11-05-0836-telegram-update.md",
       "title": "2026-11-05-0836-telegram-update",
-      "updatedAt": "2026-11-05T17:42:12.929Z"
+      "updatedAt": "2026-11-05T22:56:03.907Z"
     },
     {
       "file": "2026-11-04-2255-telegram-update.md",
       "title": "2026-11-04-2255-telegram-update",
-      "updatedAt": "2026-11-05T17:42:12.929Z"
+      "updatedAt": "2026-11-05T22:56:03.907Z"
     },
     {
       "file": "2026-11-04-1737-telegram-update.md",
       "title": "2026-11-04-1737-telegram-update",
-      "updatedAt": "2026-11-05T17:42:12.929Z"
+      "updatedAt": "2026-11-05T22:56:03.907Z"
     },
     {
       "file": "2026-11-04-0810-telegram-update.md",
       "title": "2026-11-04-0810-telegram-update",
-      "updatedAt": "2026-11-05T17:42:12.929Z"
+      "updatedAt": "2026-11-05T22:56:03.907Z"
     },
     {
       "file": "2026-11-04-0143-telegram-update.md",
       "title": "2026-11-04-0143-telegram-update",
-      "updatedAt": "2026-11-05T17:42:12.929Z"
+      "updatedAt": "2026-11-05T22:56:03.907Z"
     },
     {
       "file": "2026-11-03-2018-telegram-update.md",
       "title": "2026-11-03-2018-telegram-update",
-      "updatedAt": "2026-11-05T17:42:12.929Z"
+      "updatedAt": "2026-11-05T22:56:03.907Z"
     },
     {
       "file": "2026-11-03-1302-telegram-update.md",
       "title": "2026-11-03-1302-telegram-update",
-      "updatedAt": "2026-11-05T17:42:12.929Z"
+      "updatedAt": "2026-11-05T22:56:03.907Z"
     },
     {
       "file": "2026-11-03-0306-telegram-update.md",
       "title": "2026-11-03-0306-telegram-update",
-      "updatedAt": "2026-11-05T17:42:12.929Z"
+      "updatedAt": "2026-11-05T22:56:03.907Z"
     },
     {
       "file": "2026-11-02-1950-telegram-update.md",
       "title": "2026-11-02-1950-telegram-update",
-      "updatedAt": "2026-11-05T17:42:12.929Z"
+      "updatedAt": "2026-11-05T22:56:03.907Z"
     },
     {
       "file": "2026-11-02-0826-telegram-update.md",
       "title": "2026-11-02-0826-telegram-update",
-      "updatedAt": "2026-11-05T17:42:12.929Z"
+      "updatedAt": "2026-11-05T22:56:03.907Z"
     },
     {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-05T17:42:12.929Z"
+      "updatedAt": "2026-11-05T22:56:03.907Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-05T17:42:12.929Z"
+      "updatedAt": "2026-11-05T22:56:03.907Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-05T17:42:12.929Z"
+      "updatedAt": "2026-11-05T22:56:03.907Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-05T17:42:12.929Z"
+      "updatedAt": "2026-11-05T22:56:03.907Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-05T17:42:12.929Z"
+      "updatedAt": "2026-11-05T22:56:03.907Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-05T17:42:12.929Z"
+      "updatedAt": "2026-11-05T22:56:03.907Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-05T17:42:12.929Z"
+      "updatedAt": "2026-11-05T22:56:03.907Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-05T17:42:12.929Z"
+      "updatedAt": "2026-11-05T22:56:03.907Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-05T17:42:12.929Z"
+      "updatedAt": "2026-11-05T22:56:03.907Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-05T17:42:12.929Z"
+      "updatedAt": "2026-11-05T22:56:03.907Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-05T17:42:12.929Z"
+      "updatedAt": "2026-11-05T22:56:03.907Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-05T17:42:12.929Z"
+      "updatedAt": "2026-11-05T22:56:03.907Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-05T17:42:12.929Z"
+      "updatedAt": "2026-11-05T22:56:03.907Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-05T17:42:12.929Z"
+      "updatedAt": "2026-11-05T22:56:03.907Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-05T17:42:12.929Z"
+      "updatedAt": "2026-11-05T22:56:03.907Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-05T17:42:12.929Z"
+      "updatedAt": "2026-11-05T22:56:03.907Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-05T17:42:12.929Z"
+      "updatedAt": "2026-11-05T22:56:03.907Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-05T17:42:12.929Z"
+      "updatedAt": "2026-11-05T22:56:03.907Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-05T17:42:12.929Z"
+      "updatedAt": "2026-11-05T22:56:03.907Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-05T17:42:12.927Z"
+      "updatedAt": "2026-11-05T22:56:03.905Z"
     }
   ]
 }
