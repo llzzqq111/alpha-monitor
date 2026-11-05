@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-05T08:36:22.494Z",
+  "generatedAt": "2026-11-05T17:42:15.942Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 39725,
-    "lastMessageAt": "2026-11-05T08:26:35+00:00",
-    "lastCheckedAt": "2026-11-05T08:36:22.395Z",
-    "previousMessageId": 39685,
-    "pagesRead": 3,
-    "messagesRead": 40,
-    "newProjectRecords": 14,
+    "lastMessageId": 39800,
+    "lastMessageAt": "2026-11-05T17:01:23+00:00",
+    "lastCheckedAt": "2026-11-05T17:42:15.808Z",
+    "previousMessageId": 39725,
+    "pagesRead": 4,
+    "messagesRead": 75,
+    "newProjectRecords": 27,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 499,
+    "telegramRows": 526,
     "xRows": 0,
-    "projects": 297,
+    "projects": 316,
     "crossSource": 0
   },
   "projects": [
@@ -334,6 +334,100 @@
       ],
       "text": " Torus TorusFi Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium . Torus TorusFi Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium . Torus TorusFi Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium . Torus TorusFi Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium . Torus TorusFi Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium. Torus TorusFi Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium. Torus TorusFi Trade. Launch. Set your rules.\nThe v4 DEX + launchpad on @Enter_Elysium.",
       "score": 14,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "AGI",
+      "account": "AgentIdETH",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "A佬",
+        "八九",
+        "发誓要做永赚大师",
+        "苦瓜大王",
+        "蛋总",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "A佬",
+        "八九",
+        "发誓要做永赚大师",
+        "苦瓜大王",
+        "蛋总",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 6,
+      "firstSeen": "2026-11-03T08:27:25+00:00",
+      "lastSeen": "2026-11-05T15:11:01+00:00",
+      "description": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "AGI",
+          "account": "AgentIdETH",
+          "alpha": "发誓要做永赚大师",
+          "seenAt": "2026-11-03T08:27:25+00:00",
+          "messageId": "dodtwitterbot/39392",
+          "description": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy.",
+          "text": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy."
+        },
+        {
+          "source": "TG",
+          "project": "AGI",
+          "account": "AgentIdETH",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-03T08:38:38+00:00",
+          "messageId": "dodtwitterbot/39396",
+          "description": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy.",
+          "text": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy."
+        },
+        {
+          "source": "TG",
+          "project": "AGI",
+          "account": "AgentIdETH",
+          "alpha": "A佬",
+          "seenAt": "2026-11-05T07:18:45+00:00",
+          "messageId": "dodtwitterbot/39714",
+          "description": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy.",
+          "text": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy."
+        },
+        {
+          "source": "TG",
+          "project": "AGI",
+          "account": "AgentIdETH",
+          "alpha": "八九",
+          "seenAt": "2026-11-05T13:35:44+00:00",
+          "messageId": "dodtwitterbot/39772",
+          "description": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy.",
+          "text": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy."
+        },
+        {
+          "source": "TG",
+          "project": "AGI",
+          "account": "AgentIdETH",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-05T13:58:07+00:00",
+          "messageId": "dodtwitterbot/39780",
+          "description": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy.",
+          "text": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy."
+        },
+        {
+          "source": "TG",
+          "project": "AGI",
+          "account": "AgentIdETH",
+          "alpha": "苦瓜大王",
+          "seenAt": "2026-11-05T15:11:01+00:00",
+          "messageId": "dodtwitterbot/39787",
+          "description": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy.",
+          "text": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy."
+        }
+      ],
+      "text": " AGI AgentIdETH Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy. AGI AgentIdETH Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy. AGI AgentIdETH Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy. AGI AgentIdETH Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy. AGI AgentIdETH Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy. AGI AgentIdETH Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy.",
+      "score": 12,
       "displayTier": "focus",
       "avatarUrl": ""
     },
@@ -1474,6 +1568,76 @@
       "avatarUrl": ""
     },
     {
+      "project": "EQX Labs",
+      "account": "eqxlabs",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "A佬",
+        "speest 💎",
+        "蛋总",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "A佬",
+        "speest 💎",
+        "蛋总",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 4,
+      "firstSeen": "2026-10-30T15:10:48+00:00",
+      "lastSeen": "2026-11-05T11:54:33+00:00",
+      "description": "Tokenized spot U.S. equities built natively for @HyperliquidX .\n\n1:1 Backed. Institutional Custody. Permissionless trading. 24/7/365.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "EQX Labs",
+          "account": "eqxlabs",
+          "alpha": "speest 💎",
+          "seenAt": "2026-10-30T15:10:48+00:00",
+          "messageId": "dodtwitterbot/38653",
+          "description": "Tokenized spot U.S. equities built natively for @HyperliquidX .\n\n1:1 Backed. Institutional Custody. Permissionless trading. 24/7/365.",
+          "text": "Tokenized spot U.S. equities built natively for @HyperliquidX .\n\n1:1 Backed. Institutional Custody. Permissionless trading. 24/7/365."
+        },
+        {
+          "source": "TG",
+          "project": "EQX Labs",
+          "account": "eqxlabs",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-01T06:03:10+00:00",
+          "messageId": "dodtwitterbot/38908",
+          "description": "Tokenized spot U.S. equities built natively for @HyperliquidX .\n\n1:1 Backed. Institutional Custody. Permissionless trading. 24/7/365.",
+          "text": "Tokenized spot U.S. equities built natively for @HyperliquidX .\n\n1:1 Backed. Institutional Custody. Permissionless trading. 24/7/365."
+        },
+        {
+          "source": "TG",
+          "project": "EQX Labs",
+          "account": "eqxlabs",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-01T12:06:24+00:00",
+          "messageId": "dodtwitterbot/39002",
+          "description": "Tokenized spot U.S. equities built natively for @HyperliquidX .\n\n1:1 Backed. Institutional Custody. Permissionless trading. 24/7/365.",
+          "text": "Tokenized spot U.S. equities built natively for @HyperliquidX .\n\n1:1 Backed. Institutional Custody. Permissionless trading. 24/7/365."
+        },
+        {
+          "source": "TG",
+          "project": "EQX Labs",
+          "account": "eqxlabs",
+          "alpha": "A佬",
+          "seenAt": "2026-11-05T11:54:33+00:00",
+          "messageId": "dodtwitterbot/39759",
+          "description": "Tokenized spot U.S. equities built natively for @HyperliquidX .\n\n1:1 Backed. Institutional Custody. Permissionless trading. 24/7/365.",
+          "text": "Tokenized spot U.S. equities built natively for @HyperliquidX .\n\n1:1 Backed. Institutional Custody. Permissionless trading. 24/7/365."
+        }
+      ],
+      "text": " EQX Labs eqxlabs Tokenized spot U.S. equities built natively for @HyperliquidX .\n\n1:1 Backed. Institutional Custody. Permissionless trading. 24/7/365. EQX Labs eqxlabs Tokenized spot U.S. equities built natively for @HyperliquidX .\n\n1:1 Backed. Institutional Custody. Permissionless trading. 24/7/365. EQX Labs eqxlabs Tokenized spot U.S. equities built natively for @HyperliquidX .\n\n1:1 Backed. Institutional Custody. Permissionless trading. 24/7/365. EQX Labs eqxlabs Tokenized spot U.S. equities built natively for @HyperliquidX .\n\n1:1 Backed. Institutional Custody. Permissionless trading. 24/7/365.",
+      "score": 8,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "NutshellMarkets",
       "account": "NutshellMarkets",
       "sources": [
@@ -1870,64 +2034,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "AGI",
-      "account": "AgentIdETH",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "A佬",
-        "发誓要做永赚大师",
-        "阿宏"
-      ],
-      "tgAlphas": [
-        "A佬",
-        "发誓要做永赚大师",
-        "阿宏"
-      ],
-      "xAlphas": [],
-      "mentions": 3,
-      "firstSeen": "2026-11-03T08:27:25+00:00",
-      "lastSeen": "2026-11-05T07:18:45+00:00",
-      "description": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "AGI",
-          "account": "AgentIdETH",
-          "alpha": "发誓要做永赚大师",
-          "seenAt": "2026-11-03T08:27:25+00:00",
-          "messageId": "dodtwitterbot/39392",
-          "description": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy.",
-          "text": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy."
-        },
-        {
-          "source": "TG",
-          "project": "AGI",
-          "account": "AgentIdETH",
-          "alpha": "阿宏",
-          "seenAt": "2026-11-03T08:38:38+00:00",
-          "messageId": "dodtwitterbot/39396",
-          "description": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy.",
-          "text": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy."
-        },
-        {
-          "source": "TG",
-          "project": "AGI",
-          "account": "AgentIdETH",
-          "alpha": "A佬",
-          "seenAt": "2026-11-05T07:18:45+00:00",
-          "messageId": "dodtwitterbot/39714",
-          "description": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy.",
-          "text": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy."
-        }
-      ],
-      "text": " AGI AgentIdETH Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy. AGI AgentIdETH Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy. AGI AgentIdETH Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy.",
-      "score": 6,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
       "project": "Anemos",
       "account": "AnemosPad",
       "sources": [
@@ -2097,6 +2203,64 @@
         }
       ],
       "text": " Battery BatteryDotFun Cashback and rewards protocol that makes everyday @hyperliquidx activity rewarding. Battery BatteryDotFun Cashback and rewards protocol that makes everyday @hyperliquidx activity rewarding. Battery BatteryDotFun Cashback and rewards protocol that makes everyday @hyperliquidx activity rewarding.",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Cathereum",
+      "account": "CathereumTech",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "A佬",
+        "蛋总",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "A佬",
+        "蛋总",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-11-05T08:12:57+00:00",
+      "lastSeen": "2026-11-05T09:52:54+00:00",
+      "description": "Cats. Coins. Assets.\nGenesis starts with 8,888 fully onchain DN404s.\nTelegram: https://t.co/DcEFYNTrJH",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Cathereum",
+          "account": "CathereumTech",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-05T08:12:57+00:00",
+          "messageId": "dodtwitterbot/39723",
+          "description": "Cats. Coins. Assets.\nGenesis starts with 8,888 fully onchain DN404s.\nTelegram: https://t.co/DcEFYNTrJH",
+          "text": "Cats. Coins. Assets.\nGenesis starts with 8,888 fully onchain DN404s.\nTelegram: https://t.co/DcEFYNTrJH"
+        },
+        {
+          "source": "TG",
+          "project": "Cathereum",
+          "account": "CathereumTech",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-05T09:52:54+00:00",
+          "messageId": "dodtwitterbot/39738",
+          "description": "Cats. Coins. Assets.\nGenesis starts with 8,888 fully onchain DN404s.\nTelegram: https://t.co/DcEFYNTrJH",
+          "text": "Cats. Coins. Assets.\nGenesis starts with 8,888 fully onchain DN404s.\nTelegram: https://t.co/DcEFYNTrJH"
+        },
+        {
+          "source": "TG",
+          "project": "Cathereum",
+          "account": "CathereumTech",
+          "alpha": "A佬",
+          "seenAt": "2026-11-05T09:52:54+00:00",
+          "messageId": "dodtwitterbot/39739",
+          "description": "Cats. Coins. Assets.\nGenesis starts with 8,888 fully onchain DN404s.\nTelegram: https://t.co/DcEFYNTrJH",
+          "text": "Cats. Coins. Assets.\nGenesis starts with 8,888 fully onchain DN404s.\nTelegram: https://t.co/DcEFYNTrJH"
+        }
+      ],
+      "text": " Cathereum CathereumTech Cats. Coins. Assets.\nGenesis starts with 8,888 fully onchain DN404s.\nTelegram: https://t.co/DcEFYNTrJH Cathereum CathereumTech Cats. Coins. Assets.\nGenesis starts with 8,888 fully onchain DN404s.\nTelegram: https://t.co/DcEFYNTrJH Cathereum CathereumTech Cats. Coins. Assets.\nGenesis starts with 8,888 fully onchain DN404s.\nTelegram: https://t.co/DcEFYNTrJH",
       "score": 6,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -2387,64 +2551,6 @@
         }
       ],
       "text": " Elyziuma Elyziumaa Elyziuma is an NFT collection coming to @Enter_Elysium Elyziuma Elyziumaa Elyziuma is an NFT collection coming to @Enter_Elysium Elyziuma Elyziumaa Elyziuma is an NFT collection coming to @Enter_Elysium",
-      "score": 6,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
-      "project": "EQX Labs",
-      "account": "eqxlabs",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "speest 💎",
-        "蛋总",
-        "阿宏"
-      ],
-      "tgAlphas": [
-        "speest 💎",
-        "蛋总",
-        "阿宏"
-      ],
-      "xAlphas": [],
-      "mentions": 3,
-      "firstSeen": "2026-10-30T15:10:48+00:00",
-      "lastSeen": "2026-11-01T12:06:24+00:00",
-      "description": "Tokenized spot U.S. equities built natively for @HyperliquidX .\n\n1:1 Backed. Institutional Custody. Permissionless trading. 24/7/365.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "EQX Labs",
-          "account": "eqxlabs",
-          "alpha": "speest 💎",
-          "seenAt": "2026-10-30T15:10:48+00:00",
-          "messageId": "dodtwitterbot/38653",
-          "description": "Tokenized spot U.S. equities built natively for @HyperliquidX .\n\n1:1 Backed. Institutional Custody. Permissionless trading. 24/7/365.",
-          "text": "Tokenized spot U.S. equities built natively for @HyperliquidX .\n\n1:1 Backed. Institutional Custody. Permissionless trading. 24/7/365."
-        },
-        {
-          "source": "TG",
-          "project": "EQX Labs",
-          "account": "eqxlabs",
-          "alpha": "蛋总",
-          "seenAt": "2026-11-01T06:03:10+00:00",
-          "messageId": "dodtwitterbot/38908",
-          "description": "Tokenized spot U.S. equities built natively for @HyperliquidX .\n\n1:1 Backed. Institutional Custody. Permissionless trading. 24/7/365.",
-          "text": "Tokenized spot U.S. equities built natively for @HyperliquidX .\n\n1:1 Backed. Institutional Custody. Permissionless trading. 24/7/365."
-        },
-        {
-          "source": "TG",
-          "project": "EQX Labs",
-          "account": "eqxlabs",
-          "alpha": "阿宏",
-          "seenAt": "2026-11-01T12:06:24+00:00",
-          "messageId": "dodtwitterbot/39002",
-          "description": "Tokenized spot U.S. equities built natively for @HyperliquidX .\n\n1:1 Backed. Institutional Custody. Permissionless trading. 24/7/365.",
-          "text": "Tokenized spot U.S. equities built natively for @HyperliquidX .\n\n1:1 Backed. Institutional Custody. Permissionless trading. 24/7/365."
-        }
-      ],
-      "text": " EQX Labs eqxlabs Tokenized spot U.S. equities built natively for @HyperliquidX .\n\n1:1 Backed. Institutional Custody. Permissionless trading. 24/7/365. EQX Labs eqxlabs Tokenized spot U.S. equities built natively for @HyperliquidX .\n\n1:1 Backed. Institutional Custody. Permissionless trading. 24/7/365. EQX Labs eqxlabs Tokenized spot U.S. equities built natively for @HyperliquidX .\n\n1:1 Backed. Institutional Custody. Permissionless trading. 24/7/365.",
       "score": 6,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -3857,6 +3963,52 @@
         }
       ],
       "text": " chief keith chiefkeith1000 @Kinetiq_xyz | @Enter_Elysium | @Markets_xyz chief keith chiefkeith1000 @Kinetiq_xyz | @Enter_Elysium | @Markets_xyz",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Corla 🤖",
+      "account": "Corla_5555",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "A佬",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "A佬",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-05T06:57:51+00:00",
+      "lastSeen": "2026-11-05T10:03:53+00:00",
+      "description": "一个全新的mint发射平台\n官方Tg问题处理 https://t.co/l6KtGftnWa",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Corla 🤖",
+          "account": "Corla_5555",
+          "alpha": "A佬",
+          "seenAt": "2026-11-05T06:57:51+00:00",
+          "messageId": "dodtwitterbot/39713",
+          "description": "一个全新的mint发射平台\n官方Tg问题处理 https://t.co/l6KtGftnWa",
+          "text": "一个全新的mint发射平台\n官方Tg问题处理 https://t.co/l6KtGftnWa"
+        },
+        {
+          "source": "TG",
+          "project": "Corla 🤖",
+          "account": "Corla_5555",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-05T10:03:53+00:00",
+          "messageId": "dodtwitterbot/39745",
+          "description": "一个全新的mint发射平台\n官方Tg问题处理 https://t.co/l6KtGftnWa",
+          "text": "一个全新的mint发射平台\n官方Tg问题处理 https://t.co/l6KtGftnWa"
+        }
+      ],
+      "text": " Corla 🤖 Corla_5555 一个全新的mint发射平台\n官方Tg问题处理 https://t.co/l6KtGftnWa Corla 🤖 Corla_5555 一个全新的mint发射平台\n官方Tg问题处理 https://t.co/l6KtGftnWa",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -5426,6 +5578,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "Pol",
+      "account": "Pol_BNB",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "A佬",
+        "发誓要做永赚大师"
+      ],
+      "tgAlphas": [
+        "A佬",
+        "发誓要做永赚大师"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-05T13:42:01+00:00",
+      "lastSeen": "2026-11-05T13:43:00+00:00",
+      "description": "Proven through liquidity.\nHeld by participants.\nBuild for Binance Agent.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Pol",
+          "account": "Pol_BNB",
+          "alpha": "A佬",
+          "seenAt": "2026-11-05T13:42:01+00:00",
+          "messageId": "dodtwitterbot/39775",
+          "description": "Proven through liquidity.\nHeld by participants.\nBuild for Binance Agent.",
+          "text": "Proven through liquidity.\nHeld by participants.\nBuild for Binance Agent."
+        },
+        {
+          "source": "TG",
+          "project": "Pol",
+          "account": "Pol_BNB",
+          "alpha": "发誓要做永赚大师",
+          "seenAt": "2026-11-05T13:43:00+00:00",
+          "messageId": "dodtwitterbot/39777",
+          "description": "Proven through liquidity.\nHeld by participants.\nBuild for Binance Agent.",
+          "text": "Proven through liquidity.\nHeld by participants.\nBuild for Binance Agent."
+        }
+      ],
+      "text": " Pol Pol_BNB Proven through liquidity.\nHeld by participants.\nBuild for Binance Agent. Pol Pol_BNB Proven through liquidity.\nHeld by participants.\nBuild for Binance Agent.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "quadConnect",
       "account": "quadConnects",
       "sources": [
@@ -6830,6 +7028,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "BKOK",
+      "account": "burnsdefi_",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "八九"
+      ],
+      "tgAlphas": [
+        "八九"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-05T13:28:13+00:00",
+      "lastSeen": "2026-11-05T13:28:13+00:00",
+      "description": "This is the BKOK project, a developer with a market cap of &#036;40 million. Where is its next stop?",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "BKOK",
+          "account": "burnsdefi_",
+          "alpha": "八九",
+          "seenAt": "2026-11-05T13:28:13+00:00",
+          "messageId": "dodtwitterbot/39771",
+          "description": "This is the BKOK project, a developer with a market cap of &#036;40 million. Where is its next stop?",
+          "text": "This is the BKOK project, a developer with a market cap of &#036;40 million. Where is its next stop?"
+        }
+      ],
+      "text": " BKOK burnsdefi_ This is the BKOK project, a developer with a market cap of &#036;40 million. Where is its next stop?",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Blocks ⬛",
       "account": "blocksfm",
       "sources": [
@@ -7029,6 +7261,40 @@
         }
       ],
       "text": " Boiler.games boilergame Internet magic money on @robinhoodcrypto",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Bronker",
+      "account": "Bronk3r",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-05T12:01:04+00:00",
+      "lastSeen": "2026-11-05T12:01:04+00:00",
+      "description": "Building the next generation of NFT marketplaces and creator economies.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Bronker",
+          "account": "Bronk3r",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-05T12:01:04+00:00",
+          "messageId": "dodtwitterbot/39761",
+          "description": "Building the next generation of NFT marketplaces and creator economies.",
+          "text": "Building the next generation of NFT marketplaces and creator economies."
+        }
+      ],
+      "text": " Bronker Bronk3r Building the next generation of NFT marketplaces and creator economies.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -7272,35 +7538,35 @@
       "avatarUrl": ""
     },
     {
-      "project": "Cathereum",
-      "account": "CathereumTech",
+      "project": "Chatr",
+      "account": "chatr2025",
       "sources": [
         "TG"
       ],
       "alphas": [
-        "阿宏"
+        "蛋总"
       ],
       "tgAlphas": [
-        "阿宏"
+        "蛋总"
       ],
       "xAlphas": [],
       "mentions": 1,
-      "firstSeen": "2026-11-05T08:12:57+00:00",
-      "lastSeen": "2026-11-05T08:12:57+00:00",
-      "description": "Cats. Coins. Assets.\nGenesis starts with 8,888 fully onchain DN404s.\nTelegram: https://t.co/DcEFYNTrJH",
+      "firstSeen": "2026-11-05T10:19:19+00:00",
+      "lastSeen": "2026-11-05T10:19:19+00:00",
+      "description": "&#036;chatr marks a new paradigm shift with what you can do with the intersection of ai agents. click onchain website below.",
       "rows": [
         {
           "source": "TG",
-          "project": "Cathereum",
-          "account": "CathereumTech",
-          "alpha": "阿宏",
-          "seenAt": "2026-11-05T08:12:57+00:00",
-          "messageId": "dodtwitterbot/39723",
-          "description": "Cats. Coins. Assets.\nGenesis starts with 8,888 fully onchain DN404s.\nTelegram: https://t.co/DcEFYNTrJH",
-          "text": "Cats. Coins. Assets.\nGenesis starts with 8,888 fully onchain DN404s.\nTelegram: https://t.co/DcEFYNTrJH"
+          "project": "Chatr",
+          "account": "chatr2025",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-05T10:19:19+00:00",
+          "messageId": "dodtwitterbot/39749",
+          "description": "&#036;chatr marks a new paradigm shift with what you can do with the intersection of ai agents. click onchain website below.",
+          "text": "&#036;chatr marks a new paradigm shift with what you can do with the intersection of ai agents. click onchain website below."
         }
       ],
-      "text": " Cathereum CathereumTech Cats. Coins. Assets.\nGenesis starts with 8,888 fully onchain DN404s.\nTelegram: https://t.co/DcEFYNTrJH",
+      "text": " Chatr chatr2025 &#036;chatr marks a new paradigm shift with what you can do with the intersection of ai agents. click onchain website below.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -7403,40 +7669,6 @@
         }
       ],
       "text": " Conditionals ConditionalsImd Conditional Markets built on Robinhood powered by IMD",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Corla 🤖",
-      "account": "Corla_5555",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "A佬"
-      ],
-      "tgAlphas": [
-        "A佬"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-05T06:57:51+00:00",
-      "lastSeen": "2026-11-05T06:57:51+00:00",
-      "description": "一个全新的mint发射平台\n官方Tg问题处理 https://t.co/l6KtGftnWa",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Corla 🤖",
-          "account": "Corla_5555",
-          "alpha": "A佬",
-          "seenAt": "2026-11-05T06:57:51+00:00",
-          "messageId": "dodtwitterbot/39713",
-          "description": "一个全新的mint发射平台\n官方Tg问题处理 https://t.co/l6KtGftnWa",
-          "text": "一个全新的mint发射平台\n官方Tg问题处理 https://t.co/l6KtGftnWa"
-        }
-      ],
-      "text": " Corla 🤖 Corla_5555 一个全新的mint发射平台\n官方Tg问题处理 https://t.co/l6KtGftnWa",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -8088,6 +8320,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Flint Trade",
+      "account": "flint_trade_",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-05T10:27:33+00:00",
+      "lastSeen": "2026-11-05T10:27:33+00:00",
+      "description": "Spot | Perps DEX on @solana",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Flint Trade",
+          "account": "flint_trade_",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-05T10:27:33+00:00",
+          "messageId": "dodtwitterbot/39753",
+          "description": "Spot | Perps DEX on @solana",
+          "text": "Spot | Perps DEX on @solana"
+        }
+      ],
+      "text": " Flint Trade flint_trade_ Spot | Perps DEX on @solana",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Floatpad",
       "account": "floatpad_",
       "sources": [
@@ -8190,6 +8456,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "FM Tigrotto",
+      "account": "fmtigrotto",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-05T09:39:26+00:00",
+      "lastSeen": "2026-11-05T09:39:26+00:00",
+      "description": "🎮 Turning the game into something you've always dreamed of&#33;\n👤 by: @giovanibiava",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "FM Tigrotto",
+          "account": "fmtigrotto",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-05T09:39:26+00:00",
+          "messageId": "dodtwitterbot/39736",
+          "description": "🎮 Turning the game into something you've always dreamed of&#33;\n👤 by: @giovanibiava",
+          "text": "🎮 Turning the game into something you've always dreamed of&#33;\n👤 by: @giovanibiava"
+        }
+      ],
+      "text": " FM Tigrotto fmtigrotto 🎮 Turning the game into something you've always dreamed of&#33;\n👤 by: @giovanibiava",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Forest Pixel",
       "account": "playforestpixel",
       "sources": [
@@ -8219,6 +8519,40 @@
         }
       ],
       "text": " Forest Pixel playforestpixel A Web3 pixel adventure game with multiplayer, boss fights, rare drops, FPX Token and NFT items.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Fupa on PulseChain",
+      "account": "FupaFinance",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-05T13:43:00+00:00",
+      "lastSeen": "2026-11-05T13:43:00+00:00",
+      "description": "Fupa on PulseChain | Unruggable by design | Starlink-powered from the Highlands 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | Driving volume & liquidity | &#036;FUPA | &#036;ZELDA |",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Fupa on PulseChain",
+          "account": "FupaFinance",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-05T13:43:00+00:00",
+          "messageId": "dodtwitterbot/39776",
+          "description": "Fupa on PulseChain | Unruggable by design | Starlink-powered from the Highlands 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | Driving volume & liquidity | &#036;FUPA | &#036;ZELDA |",
+          "text": "Fupa on PulseChain | Unruggable by design | Starlink-powered from the Highlands 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | Driving volume & liquidity | &#036;FUPA | &#036;ZELDA |"
+        }
+      ],
+      "text": " Fupa on PulseChain FupaFinance Fupa on PulseChain | Unruggable by design | Starlink-powered from the Highlands 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | Driving volume & liquidity | &#036;FUPA | &#036;ZELDA |",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -8525,6 +8859,40 @@
         }
       ],
       "text": " greenz greenbergz @kinetiq_xyz · @markets_xyz · @enter_elysium",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "HashDoge",
+      "account": "HashDogeIO",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "八九"
+      ],
+      "tgAlphas": [
+        "八九"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-05T09:11:14+00:00",
+      "lastSeen": "2026-11-05T09:11:14+00:00",
+      "description": "A proof-of-work collection for .ai Agents on BNB Chain.\n\nCreated by @Joshuash1n",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "HashDoge",
+          "account": "HashDogeIO",
+          "alpha": "八九",
+          "seenAt": "2026-11-05T09:11:14+00:00",
+          "messageId": "dodtwitterbot/39731",
+          "description": "A proof-of-work collection for .ai Agents on BNB Chain.\n\nCreated by @Joshuash1n",
+          "text": "A proof-of-work collection for .ai Agents on BNB Chain.\n\nCreated by @Joshuash1n"
+        }
+      ],
+      "text": " HashDoge HashDogeIO A proof-of-work collection for .ai Agents on BNB Chain.\n\nCreated by @Joshuash1n",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -9278,6 +9646,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Liquidlt",
+      "account": "Liquidit_X",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka"
+      ],
+      "tgAlphas": [
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-05T15:18:26+00:00",
+      "lastSeen": "2026-11-05T15:18:26+00:00",
+      "description": "First ever Lending/Borrowing protocol for @HyperLiquidX perpetual positions.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Liquidlt",
+          "account": "Liquidit_X",
+          "alpha": "lakka",
+          "seenAt": "2026-11-05T15:18:26+00:00",
+          "messageId": "dodtwitterbot/39790",
+          "description": "First ever Lending/Borrowing protocol for @HyperLiquidX perpetual positions.",
+          "text": "First ever Lending/Borrowing protocol for @HyperLiquidX perpetual positions."
+        }
+      ],
+      "text": " Liquidlt Liquidit_X First ever Lending/Borrowing protocol for @HyperLiquidX perpetual positions.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "LitVM",
       "account": "LitecoinVM",
       "sources": [
@@ -9890,6 +10292,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Nymra",
+      "account": "Nymrasi",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-05T10:03:52+00:00",
+      "lastSeen": "2026-11-05T10:03:52+00:00",
+      "description": "Privacy superintelligence for users, apps & security teams. See what the chain reveals and prevent it.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Nymra",
+          "account": "Nymrasi",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-05T10:03:52+00:00",
+          "messageId": "dodtwitterbot/39742",
+          "description": "Privacy superintelligence for users, apps & security teams. See what the chain reveals and prevent it.",
+          "text": "Privacy superintelligence for users, apps & security teams. See what the chain reveals and prevent it."
+        }
+      ],
+      "text": " Nymra Nymrasi Privacy superintelligence for users, apps & security teams. See what the chain reveals and prevent it.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Open Teleport",
       "account": "openteleportdev",
       "sources": [
@@ -10060,6 +10496,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Perch AI",
+      "account": "PerchTerminal",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-05T10:50:12+00:00",
+      "lastSeen": "2026-11-05T10:50:12+00:00",
+      "description": "Autonomous multi-agent workspace for financial, writing, research, coding and operational work.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Perch AI",
+          "account": "PerchTerminal",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-05T10:50:12+00:00",
+          "messageId": "dodtwitterbot/39758",
+          "description": "Autonomous multi-agent workspace for financial, writing, research, coding and operational work.",
+          "text": "Autonomous multi-agent workspace for financial, writing, research, coding and operational work."
+        }
+      ],
+      "text": " Perch AI PerchTerminal Autonomous multi-agent workspace for financial, writing, research, coding and operational work.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "phoneuse",
       "account": "phoneuse_",
       "sources": [
@@ -10123,6 +10593,74 @@
         }
       ],
       "text": " PickRush PickRush Pixel mining NFT GameFi on Robinhood Chain\nMint a pickaxe. Dig $RUSH.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Pilot Protocol",
+      "account": "pilotprotocol",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-05T10:26:40+00:00",
+      "lastSeen": "2026-11-05T10:26:40+00:00",
+      "description": "Network OS for AI Agents",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Pilot Protocol",
+          "account": "pilotprotocol",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-05T10:26:40+00:00",
+          "messageId": "dodtwitterbot/39752",
+          "description": "Network OS for AI Agents",
+          "text": "Network OS for AI Agents"
+        }
+      ],
+      "text": " Pilot Protocol pilotprotocol Network OS for AI Agents",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Pocket Noob",
+      "account": "playpocketnoob",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-05T12:18:49+00:00",
+      "lastSeen": "2026-11-05T12:18:49+00:00",
+      "description": "A cozy companion arcade. Little games, big discoveries & a home to make your own. Coming soon to iOS & Android.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Pocket Noob",
+          "account": "playpocketnoob",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-05T12:18:49+00:00",
+          "messageId": "dodtwitterbot/39765",
+          "description": "A cozy companion arcade. Little games, big discoveries & a home to make your own. Coming soon to iOS & Android.",
+          "text": "A cozy companion arcade. Little games, big discoveries & a home to make your own. Coming soon to iOS & Android."
+        }
+      ],
+      "text": " Pocket Noob playpocketnoob A cozy companion arcade. Little games, big discoveries & a home to make your own. Coming soon to iOS & Android.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -10429,6 +10967,40 @@
         }
       ],
       "text": " Razor Agent Razor_Agent Razor Agent (&#036;RZAG) — the agent-native genesis mint on BNB Chain. Rules in code, parameters machine-readable.\n\n&#036;RZAG: 0xD5c03f871A34a01373d68ee38f6e67AC195cd66B",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "REFRYN",
+      "account": "REFRYN_",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-05T14:01:52+00:00",
+      "lastSeen": "2026-11-05T14:01:52+00:00",
+      "description": "Proof-of-work NFTs. Collect, stake, or burn.\nComing to Robinhood Chain.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "REFRYN",
+          "account": "REFRYN_",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-05T14:01:52+00:00",
+          "messageId": "dodtwitterbot/39781",
+          "description": "Proof-of-work NFTs. Collect, stake, or burn.\nComing to Robinhood Chain.",
+          "text": "Proof-of-work NFTs. Collect, stake, or burn.\nComing to Robinhood Chain."
+        }
+      ],
+      "text": " REFRYN REFRYN_ Proof-of-work NFTs. Collect, stake, or burn.\nComing to Robinhood Chain.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -11624,6 +12196,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "The Agentic Economist",
+      "account": "agentic_economy",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-05T10:25:44+00:00",
+      "lastSeen": "2026-11-05T10:25:44+00:00",
+      "description": "The agentic economy, tracked live: agentic commerce, agentic payments, x402 volume and the agent marketplace. Where the money moves between AI agents.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "The Agentic Economist",
+          "account": "agentic_economy",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-05T10:25:44+00:00",
+          "messageId": "dodtwitterbot/39751",
+          "description": "The agentic economy, tracked live: agentic commerce, agentic payments, x402 volume and the agent marketplace. Where the money moves between AI agents.",
+          "text": "The agentic economy, tracked live: agentic commerce, agentic payments, x402 volume and the agent marketplace. Where the money moves between AI agents."
+        }
+      ],
+      "text": " The Agentic Economist agentic_economy The agentic economy, tracked live: agentic commerce, agentic payments, x402 volume and the agent marketplace. Where the money moves between AI agents.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "The Crypt",
       "account": "playthecrypt",
       "sources": [
@@ -11755,6 +12361,74 @@
         }
       ],
       "text": " torpor torpornet https://t.co/2bFEMjhiUw is the intelligence layer for Elysium NFTs. apply for wl https://t.co/h7N4CaglIV",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Touchmark",
+      "account": "touchmark_ai",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-05T09:33:03+00:00",
+      "lastSeen": "2026-11-05T09:33:03+00:00",
+      "description": "Making AI inference tradable through a marketplace for reserved compute capacity.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Touchmark",
+          "account": "touchmark_ai",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-05T09:33:03+00:00",
+          "messageId": "dodtwitterbot/39734",
+          "description": "Making AI inference tradable through a marketplace for reserved compute capacity.",
+          "text": "Making AI inference tradable through a marketplace for reserved compute capacity."
+        }
+      ],
+      "text": " Touchmark touchmark_ai Making AI inference tradable through a marketplace for reserved compute capacity.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Touchmark",
+      "account": "TouchmarkAI",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-05T09:44:01+00:00",
+      "lastSeen": "2026-11-05T09:44:01+00:00",
+      "description": "Market for future inference capacity",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Touchmark",
+          "account": "TouchmarkAI",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-05T09:44:01+00:00",
+          "messageId": "dodtwitterbot/39737",
+          "description": "Market for future inference capacity",
+          "text": "Market for future inference capacity"
+        }
+      ],
+      "text": " Touchmark TouchmarkAI Market for future inference capacity",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -12163,6 +12837,74 @@
         }
       ],
       "text": " z30 z30index The 30-stock dividend protocol of Zero Chain. Powered by @LayerZero_Core .",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "zBase",
+      "account": "zbase__",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-05T08:59:23+00:00",
+      "lastSeen": "2026-11-05T08:59:23+00:00",
+      "description": "Open Privacy for Agents | Base Batches 003 Finalist | https://t.co/MCBiDDKm1K ( @cardano_cf )",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "zBase",
+          "account": "zbase__",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-05T08:59:23+00:00",
+          "messageId": "dodtwitterbot/39728",
+          "description": "Open Privacy for Agents | Base Batches 003 Finalist | https://t.co/MCBiDDKm1K ( @cardano_cf )",
+          "text": "Open Privacy for Agents | Base Batches 003 Finalist | https://t.co/MCBiDDKm1K ( @cardano_cf )"
+        }
+      ],
+      "text": " zBase zbase__ Open Privacy for Agents | Base Batches 003 Finalist | https://t.co/MCBiDDKm1K ( @cardano_cf )",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Zephium",
+      "account": "zephium_browser",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-05T12:15:06+00:00",
+      "lastSeen": "2026-11-05T12:15:06+00:00",
+      "description": "A fast, opens-source, fully featured browser and work environment reimagined for you and your agents",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Zephium",
+          "account": "zephium_browser",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-05T12:15:06+00:00",
+          "messageId": "dodtwitterbot/39764",
+          "description": "A fast, opens-source, fully featured browser and work environment reimagined for you and your agents",
+          "text": "A fast, opens-source, fully featured browser and work environment reimagined for you and your agents"
+        }
+      ],
+      "text": " Zephium zephium_browser A fast, opens-source, fully featured browser and work environment reimagined for you and your agents",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -12606,6 +13348,25 @@
       "avatarUrl": ""
     },
     {
+      "project": "AGI",
+      "x_account": "AgentIdETH",
+      "total_mentions": 6,
+      "unique_alphas": 6,
+      "alphas": [
+        "A佬",
+        "八九",
+        "发誓要做永赚大师",
+        "苦瓜大王",
+        "蛋总",
+        "阿宏"
+      ],
+      "description": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy.",
+      "first_seen_utc": "2026-11-03T08:27:25+00:00",
+      "last_seen_utc": "2026-11-05T15:11:01+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
       "project": "Boxa",
       "x_account": "Boxa_Elysium",
       "total_mentions": 6,
@@ -12857,6 +13618,23 @@
       "avatarUrl": ""
     },
     {
+      "project": "EQX Labs",
+      "x_account": "eqxlabs",
+      "total_mentions": 4,
+      "unique_alphas": 4,
+      "alphas": [
+        "A佬",
+        "speest 💎",
+        "蛋总",
+        "阿宏"
+      ],
+      "description": "Tokenized spot U.S. equities built natively for @HyperliquidX .\n\n1:1 Backed. Institutional Custody. Permissionless trading. 24/7/365.",
+      "first_seen_utc": "2026-10-30T15:10:48+00:00",
+      "last_seen_utc": "2026-11-05T11:54:33+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
       "project": "NutshellMarkets",
       "x_account": "NutshellMarkets",
       "total_mentions": 4,
@@ -12957,22 +13735,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "AGI",
-      "x_account": "AgentIdETH",
-      "total_mentions": 3,
-      "unique_alphas": 3,
-      "alphas": [
-        "A佬",
-        "发誓要做永赚大师",
-        "阿宏"
-      ],
-      "description": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy.",
-      "first_seen_utc": "2026-11-03T08:27:25+00:00",
-      "last_seen_utc": "2026-11-05T07:18:45+00:00",
-      "status": "priority",
-      "avatarUrl": ""
-    },
-    {
       "project": "Anemos",
       "x_account": "AnemosPad",
       "total_mentions": 3,
@@ -13017,6 +13779,22 @@
       "description": "Cashback and rewards protocol that makes everyday @hyperliquidx activity rewarding.",
       "first_seen_utc": "2026-11-01T12:12:40+00:00",
       "last_seen_utc": "2026-11-02T11:01:22+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Cathereum",
+      "x_account": "CathereumTech",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "A佬",
+        "蛋总",
+        "阿宏"
+      ],
+      "description": "Cats. Coins. Assets.\nGenesis starts with 8,888 fully onchain DN404s.\nTelegram: https://t.co/DcEFYNTrJH",
+      "first_seen_utc": "2026-11-05T08:12:57+00:00",
+      "last_seen_utc": "2026-11-05T09:52:54+00:00",
       "status": "priority",
       "avatarUrl": ""
     },
@@ -13097,22 +13875,6 @@
       "description": "Elyziuma is an NFT collection coming to @Enter_Elysium",
       "first_seen_utc": "2026-10-29T16:44:21+00:00",
       "last_seen_utc": "2026-11-01T10:11:36+00:00",
-      "status": "priority",
-      "avatarUrl": ""
-    },
-    {
-      "project": "EQX Labs",
-      "x_account": "eqxlabs",
-      "total_mentions": 3,
-      "unique_alphas": 3,
-      "alphas": [
-        "speest 💎",
-        "蛋总",
-        "阿宏"
-      ],
-      "description": "Tokenized spot U.S. equities built natively for @HyperliquidX .\n\n1:1 Backed. Institutional Custody. Permissionless trading. 24/7/365.",
-      "first_seen_utc": "2026-10-30T15:10:48+00:00",
-      "last_seen_utc": "2026-11-01T12:06:24+00:00",
       "status": "priority",
       "avatarUrl": ""
     },
@@ -13521,6 +14283,21 @@
       "description": "@Kinetiq_xyz | @Enter_Elysium | @Markets_xyz",
       "first_seen_utc": "2026-10-28T18:32:45+00:00",
       "last_seen_utc": "2026-11-01T04:14:13+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Corla 🤖",
+      "x_account": "Corla_5555",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "A佬",
+        "阿宏"
+      ],
+      "description": "一个全新的mint发射平台\n官方Tg问题处理 https://t.co/l6KtGftnWa",
+      "first_seen_utc": "2026-11-05T06:57:51+00:00",
+      "last_seen_utc": "2026-11-05T10:03:53+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -14031,6 +14808,21 @@
       "description": "Breaking news & crypto market insights.\n\npowered by @phantom\n\nNot for UK users. See @phantom__UK .",
       "first_seen_utc": "2026-10-30T11:11:44+00:00",
       "last_seen_utc": "2026-10-31T04:35:59+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Pol",
+      "x_account": "Pol_BNB",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "A佬",
+        "发誓要做永赚大师"
+      ],
+      "description": "Proven through liquidity.\nHeld by participants.\nBuild for Binance Agent.",
+      "first_seen_utc": "2026-11-05T13:42:01+00:00",
+      "last_seen_utc": "2026-11-05T13:43:00+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -14554,6 +15346,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "BKOK",
+      "x_account": "burnsdefi_",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "八九"
+      ],
+      "description": "This is the BKOK project, a developer with a market cap of &#036;40 million. Where is its next stop?",
+      "first_seen_utc": "2026-11-05T13:28:13+00:00",
+      "last_seen_utc": "2026-11-05T13:28:13+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Blocks ⬛",
       "x_account": "blocksfm",
       "total_mentions": 1,
@@ -14634,6 +15440,20 @@
       "description": "Internet magic money on @robinhoodcrypto",
       "first_seen_utc": "2026-10-28T02:06:00+08:00",
       "last_seen_utc": "2026-10-28T02:06:00+08:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Bronker",
+      "x_account": "Bronk3r",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "Building the next generation of NFT marketplaces and creator economies.",
+      "first_seen_utc": "2026-11-05T12:01:04+00:00",
+      "last_seen_utc": "2026-11-05T12:01:04+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -14736,16 +15556,16 @@
       "avatarUrl": ""
     },
     {
-      "project": "Cathereum",
-      "x_account": "CathereumTech",
+      "project": "Chatr",
+      "x_account": "chatr2025",
       "total_mentions": 1,
       "unique_alphas": 1,
       "alphas": [
-        "阿宏"
+        "蛋总"
       ],
-      "description": "Cats. Coins. Assets.\nGenesis starts with 8,888 fully onchain DN404s.\nTelegram: https://t.co/DcEFYNTrJH",
-      "first_seen_utc": "2026-11-05T08:12:57+00:00",
-      "last_seen_utc": "2026-11-05T08:12:57+00:00",
+      "description": "&#036;chatr marks a new paradigm shift with what you can do with the intersection of ai agents. click onchain website below.",
+      "first_seen_utc": "2026-11-05T10:19:19+00:00",
+      "last_seen_utc": "2026-11-05T10:19:19+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -14788,20 +15608,6 @@
       "description": "Conditional Markets built on Robinhood powered by IMD",
       "first_seen_utc": "2026-11-02T11:10:18+00:00",
       "last_seen_utc": "2026-11-02T11:10:18+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Corla 🤖",
-      "x_account": "Corla_5555",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "A佬"
-      ],
-      "description": "一个全新的mint发射平台\n官方Tg问题处理 https://t.co/l6KtGftnWa",
-      "first_seen_utc": "2026-11-05T06:57:51+00:00",
-      "last_seen_utc": "2026-11-05T06:57:51+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -15072,6 +15878,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Flint Trade",
+      "x_account": "flint_trade_",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "Spot | Perps DEX on @solana",
+      "first_seen_utc": "2026-11-05T10:27:33+00:00",
+      "last_seen_utc": "2026-11-05T10:27:33+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Floatpad",
       "x_account": "floatpad_",
       "total_mentions": 1,
@@ -15114,6 +15934,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "FM Tigrotto",
+      "x_account": "fmtigrotto",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "🎮 Turning the game into something you've always dreamed of&#33;\n👤 by: @giovanibiava",
+      "first_seen_utc": "2026-11-05T09:39:26+00:00",
+      "last_seen_utc": "2026-11-05T09:39:26+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Forest Pixel",
       "x_account": "playforestpixel",
       "total_mentions": 1,
@@ -15124,6 +15958,20 @@
       "description": "A Web3 pixel adventure game with multiplayer, boss fights, rare drops, FPX Token and NFT items.",
       "first_seen_utc": "2026-11-04T12:20:11+00:00",
       "last_seen_utc": "2026-11-04T12:20:11+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Fupa on PulseChain",
+      "x_account": "FupaFinance",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "Fupa on PulseChain | Unruggable by design | Starlink-powered from the Highlands 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | Driving volume & liquidity | &#036;FUPA | &#036;ZELDA |",
+      "first_seen_utc": "2026-11-05T13:43:00+00:00",
+      "last_seen_utc": "2026-11-05T13:43:00+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -15250,6 +16098,20 @@
       "description": "@kinetiq_xyz · @markets_xyz · @enter_elysium",
       "first_seen_utc": "2026-11-01T03:52:22+00:00",
       "last_seen_utc": "2026-11-01T03:52:22+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "HashDoge",
+      "x_account": "HashDogeIO",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "八九"
+      ],
+      "description": "A proof-of-work collection for .ai Agents on BNB Chain.\n\nCreated by @Joshuash1n",
+      "first_seen_utc": "2026-11-05T09:11:14+00:00",
+      "last_seen_utc": "2026-11-05T09:11:14+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -15562,6 +16424,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Liquidlt",
+      "x_account": "Liquidit_X",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "lakka"
+      ],
+      "description": "First ever Lending/Borrowing protocol for @HyperLiquidX perpetual positions.",
+      "first_seen_utc": "2026-11-05T15:18:26+00:00",
+      "last_seen_utc": "2026-11-05T15:18:26+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "LitVM",
       "x_account": "LitecoinVM",
       "total_mentions": 1,
@@ -15814,6 +16690,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Nymra",
+      "x_account": "Nymrasi",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "Privacy superintelligence for users, apps & security teams. See what the chain reveals and prevent it.",
+      "first_seen_utc": "2026-11-05T10:03:52+00:00",
+      "last_seen_utc": "2026-11-05T10:03:52+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Open Teleport",
       "x_account": "openteleportdev",
       "total_mentions": 1,
@@ -15884,6 +16774,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Perch AI",
+      "x_account": "PerchTerminal",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "Autonomous multi-agent workspace for financial, writing, research, coding and operational work.",
+      "first_seen_utc": "2026-11-05T10:50:12+00:00",
+      "last_seen_utc": "2026-11-05T10:50:12+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "phoneuse",
       "x_account": "phoneuse_",
       "total_mentions": 1,
@@ -15908,6 +16812,34 @@
       "description": "Pixel mining NFT GameFi on Robinhood Chain\nMint a pickaxe. Dig $RUSH.",
       "first_seen_utc": "2026-10-28T17:36:00+08:00",
       "last_seen_utc": "2026-10-28T17:36:00+08:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Pilot Protocol",
+      "x_account": "pilotprotocol",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "Network OS for AI Agents",
+      "first_seen_utc": "2026-11-05T10:26:40+00:00",
+      "last_seen_utc": "2026-11-05T10:26:40+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Pocket Noob",
+      "x_account": "playpocketnoob",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "unsynned"
+      ],
+      "description": "A cozy companion arcade. Little games, big discoveries & a home to make your own. Coming soon to iOS & Android.",
+      "first_seen_utc": "2026-11-05T12:18:49+00:00",
+      "last_seen_utc": "2026-11-05T12:18:49+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -16034,6 +16966,20 @@
       "description": "Razor Agent (&#036;RZAG) — the agent-native genesis mint on BNB Chain. Rules in code, parameters machine-readable.\n\n&#036;RZAG: 0xD5c03f871A34a01373d68ee38f6e67AC195cd66B",
       "first_seen_utc": "2026-10-31T17:15:23+00:00",
       "last_seen_utc": "2026-10-31T17:15:23+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "REFRYN",
+      "x_account": "REFRYN_",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "Proof-of-work NFTs. Collect, stake, or burn.\nComing to Robinhood Chain.",
+      "first_seen_utc": "2026-11-05T14:01:52+00:00",
+      "last_seen_utc": "2026-11-05T14:01:52+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -16528,6 +17474,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "The Agentic Economist",
+      "x_account": "agentic_economy",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "The agentic economy, tracked live: agentic commerce, agentic payments, x402 volume and the agent marketplace. Where the money moves between AI agents.",
+      "first_seen_utc": "2026-11-05T10:25:44+00:00",
+      "last_seen_utc": "2026-11-05T10:25:44+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "The Crypt",
       "x_account": "playthecrypt",
       "total_mentions": 1,
@@ -16580,6 +17540,34 @@
       "description": "https://t.co/2bFEMjhiUw is the intelligence layer for Elysium NFTs. apply for wl https://t.co/h7N4CaglIV",
       "first_seen_utc": "2026-11-01T04:43:52+00:00",
       "last_seen_utc": "2026-11-01T04:43:52+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Touchmark",
+      "x_account": "touchmark_ai",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "Making AI inference tradable through a marketplace for reserved compute capacity.",
+      "first_seen_utc": "2026-11-05T09:33:03+00:00",
+      "last_seen_utc": "2026-11-05T09:33:03+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Touchmark",
+      "x_account": "TouchmarkAI",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "Market for future inference capacity",
+      "first_seen_utc": "2026-11-05T09:44:01+00:00",
+      "last_seen_utc": "2026-11-05T09:44:01+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -16752,6 +17740,34 @@
       "avatarUrl": ""
     },
     {
+      "project": "zBase",
+      "x_account": "zbase__",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "Open Privacy for Agents | Base Batches 003 Finalist | https://t.co/MCBiDDKm1K ( @cardano_cf )",
+      "first_seen_utc": "2026-11-05T08:59:23+00:00",
+      "last_seen_utc": "2026-11-05T08:59:23+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Zephium",
+      "x_account": "zephium_browser",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "A fast, opens-source, fully featured browser and work environment reimagined for you and your agents",
+      "first_seen_utc": "2026-11-05T12:15:06+00:00",
+      "last_seen_utc": "2026-11-05T12:15:06+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Zephra",
       "x_account": "Zephra_xyz",
       "total_mentions": 1,
@@ -16908,15 +17924,203 @@
   ],
   "daily": [
     {
-      "date": "2026-11-05",
-      "totalRows": 32,
-      "projectCount": 29,
-      "focusCount": 3,
-      "candidateCount": 26,
+      "date": "2026-11-06",
+      "totalRows": 0,
+      "projectCount": 0,
+      "focusCount": 0,
+      "candidateCount": 0,
       "crossSource": 0,
-      "newCount": 19,
-      "repeatCount": 10,
+      "newCount": 0,
+      "repeatCount": 0,
+      "projects": []
+    },
+    {
+      "date": "2026-11-05",
+      "totalRows": 59,
+      "projectCount": 49,
+      "focusCount": 7,
+      "candidateCount": 42,
+      "crossSource": 0,
+      "newCount": 38,
+      "repeatCount": 11,
       "projects": [
+        {
+          "project": "AGI",
+          "account": "AgentIdETH",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "A佬",
+            "八九",
+            "苦瓜大王",
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "A佬",
+            "八九",
+            "苦瓜大王",
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 4,
+          "firstSeen": "2026-11-05T07:18:45+00:00",
+          "lastSeen": "2026-11-05T15:11:01+00:00",
+          "description": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "AGI",
+              "account": "AgentIdETH",
+              "alpha": "A佬",
+              "seenAt": "2026-11-05T07:18:45+00:00",
+              "messageId": "dodtwitterbot/39714",
+              "description": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy.",
+              "text": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy."
+            },
+            {
+              "source": "TG",
+              "project": "AGI",
+              "account": "AgentIdETH",
+              "alpha": "八九",
+              "seenAt": "2026-11-05T13:35:44+00:00",
+              "messageId": "dodtwitterbot/39772",
+              "description": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy.",
+              "text": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy."
+            },
+            {
+              "source": "TG",
+              "project": "AGI",
+              "account": "AgentIdETH",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-05T13:58:07+00:00",
+              "messageId": "dodtwitterbot/39780",
+              "description": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy.",
+              "text": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy."
+            },
+            {
+              "source": "TG",
+              "project": "AGI",
+              "account": "AgentIdETH",
+              "alpha": "苦瓜大王",
+              "seenAt": "2026-11-05T15:11:01+00:00",
+              "messageId": "dodtwitterbot/39787",
+              "description": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy.",
+              "text": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy."
+            }
+          ],
+          "text": " AGI AgentIdETH Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy. AGI AgentIdETH Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy. AGI AgentIdETH Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy. AGI AgentIdETH Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy.",
+          "score": 8,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Cathereum",
+          "account": "CathereumTech",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "A佬",
+            "蛋总",
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "A佬",
+            "蛋总",
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 3,
+          "firstSeen": "2026-11-05T08:12:57+00:00",
+          "lastSeen": "2026-11-05T09:52:54+00:00",
+          "description": "Cats. Coins. Assets.\nGenesis starts with 8,888 fully onchain DN404s.\nTelegram: https://t.co/DcEFYNTrJH",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Cathereum",
+              "account": "CathereumTech",
+              "alpha": "阿宏",
+              "seenAt": "2026-11-05T08:12:57+00:00",
+              "messageId": "dodtwitterbot/39723",
+              "description": "Cats. Coins. Assets.\nGenesis starts with 8,888 fully onchain DN404s.\nTelegram: https://t.co/DcEFYNTrJH",
+              "text": "Cats. Coins. Assets.\nGenesis starts with 8,888 fully onchain DN404s.\nTelegram: https://t.co/DcEFYNTrJH"
+            },
+            {
+              "source": "TG",
+              "project": "Cathereum",
+              "account": "CathereumTech",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-05T09:52:54+00:00",
+              "messageId": "dodtwitterbot/39738",
+              "description": "Cats. Coins. Assets.\nGenesis starts with 8,888 fully onchain DN404s.\nTelegram: https://t.co/DcEFYNTrJH",
+              "text": "Cats. Coins. Assets.\nGenesis starts with 8,888 fully onchain DN404s.\nTelegram: https://t.co/DcEFYNTrJH"
+            },
+            {
+              "source": "TG",
+              "project": "Cathereum",
+              "account": "CathereumTech",
+              "alpha": "A佬",
+              "seenAt": "2026-11-05T09:52:54+00:00",
+              "messageId": "dodtwitterbot/39739",
+              "description": "Cats. Coins. Assets.\nGenesis starts with 8,888 fully onchain DN404s.\nTelegram: https://t.co/DcEFYNTrJH",
+              "text": "Cats. Coins. Assets.\nGenesis starts with 8,888 fully onchain DN404s.\nTelegram: https://t.co/DcEFYNTrJH"
+            }
+          ],
+          "text": " Cathereum CathereumTech Cats. Coins. Assets.\nGenesis starts with 8,888 fully onchain DN404s.\nTelegram: https://t.co/DcEFYNTrJH Cathereum CathereumTech Cats. Coins. Assets.\nGenesis starts with 8,888 fully onchain DN404s.\nTelegram: https://t.co/DcEFYNTrJH Cathereum CathereumTech Cats. Coins. Assets.\nGenesis starts with 8,888 fully onchain DN404s.\nTelegram: https://t.co/DcEFYNTrJH",
+          "score": 6,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Corla 🤖",
+          "account": "Corla_5555",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "A佬",
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "A佬",
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-11-05T06:57:51+00:00",
+          "lastSeen": "2026-11-05T10:03:53+00:00",
+          "description": "一个全新的mint发射平台\n官方Tg问题处理 https://t.co/l6KtGftnWa",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Corla 🤖",
+              "account": "Corla_5555",
+              "alpha": "A佬",
+              "seenAt": "2026-11-05T06:57:51+00:00",
+              "messageId": "dodtwitterbot/39713",
+              "description": "一个全新的mint发射平台\n官方Tg问题处理 https://t.co/l6KtGftnWa",
+              "text": "一个全新的mint发射平台\n官方Tg问题处理 https://t.co/l6KtGftnWa"
+            },
+            {
+              "source": "TG",
+              "project": "Corla 🤖",
+              "account": "Corla_5555",
+              "alpha": "阿宏",
+              "seenAt": "2026-11-05T10:03:53+00:00",
+              "messageId": "dodtwitterbot/39745",
+              "description": "一个全新的mint发射平台\n官方Tg问题处理 https://t.co/l6KtGftnWa",
+              "text": "一个全新的mint发射平台\n官方Tg问题处理 https://t.co/l6KtGftnWa"
+            }
+          ],
+          "text": " Corla 🤖 Corla_5555 一个全新的mint发射平台\n官方Tg问题处理 https://t.co/l6KtGftnWa Corla 🤖 Corla_5555 一个全新的mint发射平台\n官方Tg问题处理 https://t.co/l6KtGftnWa",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
         {
           "project": "Hegemon",
           "account": "hegemonprotocol",
@@ -16959,6 +18163,53 @@
             }
           ],
           "text": " Hegemon hegemonprotocol The quantum resistant shielded pool Hegemon hegemonprotocol The quantum resistant shielded pool",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Pol",
+          "account": "Pol_BNB",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "A佬",
+            "发誓要做永赚大师"
+          ],
+          "tgAlphas": [
+            "A佬",
+            "发誓要做永赚大师"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-11-05T13:42:01+00:00",
+          "lastSeen": "2026-11-05T13:43:00+00:00",
+          "description": "Proven through liquidity.\nHeld by participants.\nBuild for Binance Agent.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Pol",
+              "account": "Pol_BNB",
+              "alpha": "A佬",
+              "seenAt": "2026-11-05T13:42:01+00:00",
+              "messageId": "dodtwitterbot/39775",
+              "description": "Proven through liquidity.\nHeld by participants.\nBuild for Binance Agent.",
+              "text": "Proven through liquidity.\nHeld by participants.\nBuild for Binance Agent."
+            },
+            {
+              "source": "TG",
+              "project": "Pol",
+              "account": "Pol_BNB",
+              "alpha": "发誓要做永赚大师",
+              "seenAt": "2026-11-05T13:43:00+00:00",
+              "messageId": "dodtwitterbot/39777",
+              "description": "Proven through liquidity.\nHeld by participants.\nBuild for Binance Agent.",
+              "text": "Proven through liquidity.\nHeld by participants.\nBuild for Binance Agent."
+            }
+          ],
+          "text": " Pol Pol_BNB Proven through liquidity.\nHeld by participants.\nBuild for Binance Agent. Pol Pol_BNB Proven through liquidity.\nHeld by participants.\nBuild for Binance Agent.",
           "score": 4,
           "displayTier": "focus",
           "avatarUrl": "",
@@ -17129,41 +18380,6 @@
           "dayStatus": "repeat"
         },
         {
-          "project": "AGI",
-          "account": "AgentIdETH",
-          "sources": [
-            "TG"
-          ],
-          "alphas": [
-            "A佬"
-          ],
-          "tgAlphas": [
-            "A佬"
-          ],
-          "xAlphas": [],
-          "mentions": 1,
-          "firstSeen": "2026-11-05T07:18:45+00:00",
-          "lastSeen": "2026-11-05T07:18:45+00:00",
-          "description": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy.",
-          "rows": [
-            {
-              "source": "TG",
-              "project": "AGI",
-              "account": "AgentIdETH",
-              "alpha": "A佬",
-              "seenAt": "2026-11-05T07:18:45+00:00",
-              "messageId": "dodtwitterbot/39714",
-              "description": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy.",
-              "text": "Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy."
-            }
-          ],
-          "text": " AGI AgentIdETH Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy.",
-          "score": 2,
-          "displayTier": "candidate",
-          "avatarUrl": "",
-          "dayStatus": "repeat"
-        },
-        {
           "project": "Ascend",
           "account": "AscendLaunch",
           "sources": [
@@ -17197,6 +18413,76 @@
           "displayTier": "candidate",
           "avatarUrl": "",
           "dayStatus": "repeat"
+        },
+        {
+          "project": "BKOK",
+          "account": "burnsdefi_",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "八九"
+          ],
+          "tgAlphas": [
+            "八九"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-05T13:28:13+00:00",
+          "lastSeen": "2026-11-05T13:28:13+00:00",
+          "description": "This is the BKOK project, a developer with a market cap of &#036;40 million. Where is its next stop?",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "BKOK",
+              "account": "burnsdefi_",
+              "alpha": "八九",
+              "seenAt": "2026-11-05T13:28:13+00:00",
+              "messageId": "dodtwitterbot/39771",
+              "description": "This is the BKOK project, a developer with a market cap of &#036;40 million. Where is its next stop?",
+              "text": "This is the BKOK project, a developer with a market cap of &#036;40 million. Where is its next stop?"
+            }
+          ],
+          "text": " BKOK burnsdefi_ This is the BKOK project, a developer with a market cap of &#036;40 million. Where is its next stop?",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Bronker",
+          "account": "Bronk3r",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-05T12:01:04+00:00",
+          "lastSeen": "2026-11-05T12:01:04+00:00",
+          "description": "Building the next generation of NFT marketplaces and creator economies.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Bronker",
+              "account": "Bronk3r",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-05T12:01:04+00:00",
+              "messageId": "dodtwitterbot/39761",
+              "description": "Building the next generation of NFT marketplaces and creator economies.",
+              "text": "Building the next generation of NFT marketplaces and creator economies."
+            }
+          ],
+          "text": " Bronker Bronk3r Building the next generation of NFT marketplaces and creator economies.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
         },
         {
           "project": "BRRRAIN 🧠",
@@ -17234,70 +18520,35 @@
           "dayStatus": "new"
         },
         {
-          "project": "Cathereum",
-          "account": "CathereumTech",
+          "project": "Chatr",
+          "account": "chatr2025",
           "sources": [
             "TG"
           ],
           "alphas": [
-            "阿宏"
+            "蛋总"
           ],
           "tgAlphas": [
-            "阿宏"
+            "蛋总"
           ],
           "xAlphas": [],
           "mentions": 1,
-          "firstSeen": "2026-11-05T08:12:57+00:00",
-          "lastSeen": "2026-11-05T08:12:57+00:00",
-          "description": "Cats. Coins. Assets.\nGenesis starts with 8,888 fully onchain DN404s.\nTelegram: https://t.co/DcEFYNTrJH",
+          "firstSeen": "2026-11-05T10:19:19+00:00",
+          "lastSeen": "2026-11-05T10:19:19+00:00",
+          "description": "&#036;chatr marks a new paradigm shift with what you can do with the intersection of ai agents. click onchain website below.",
           "rows": [
             {
               "source": "TG",
-              "project": "Cathereum",
-              "account": "CathereumTech",
-              "alpha": "阿宏",
-              "seenAt": "2026-11-05T08:12:57+00:00",
-              "messageId": "dodtwitterbot/39723",
-              "description": "Cats. Coins. Assets.\nGenesis starts with 8,888 fully onchain DN404s.\nTelegram: https://t.co/DcEFYNTrJH",
-              "text": "Cats. Coins. Assets.\nGenesis starts with 8,888 fully onchain DN404s.\nTelegram: https://t.co/DcEFYNTrJH"
+              "project": "Chatr",
+              "account": "chatr2025",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-05T10:19:19+00:00",
+              "messageId": "dodtwitterbot/39749",
+              "description": "&#036;chatr marks a new paradigm shift with what you can do with the intersection of ai agents. click onchain website below.",
+              "text": "&#036;chatr marks a new paradigm shift with what you can do with the intersection of ai agents. click onchain website below."
             }
           ],
-          "text": " Cathereum CathereumTech Cats. Coins. Assets.\nGenesis starts with 8,888 fully onchain DN404s.\nTelegram: https://t.co/DcEFYNTrJH",
-          "score": 2,
-          "displayTier": "candidate",
-          "avatarUrl": "",
-          "dayStatus": "new"
-        },
-        {
-          "project": "Corla 🤖",
-          "account": "Corla_5555",
-          "sources": [
-            "TG"
-          ],
-          "alphas": [
-            "A佬"
-          ],
-          "tgAlphas": [
-            "A佬"
-          ],
-          "xAlphas": [],
-          "mentions": 1,
-          "firstSeen": "2026-11-05T06:57:51+00:00",
-          "lastSeen": "2026-11-05T06:57:51+00:00",
-          "description": "一个全新的mint发射平台\n官方Tg问题处理 https://t.co/l6KtGftnWa",
-          "rows": [
-            {
-              "source": "TG",
-              "project": "Corla 🤖",
-              "account": "Corla_5555",
-              "alpha": "A佬",
-              "seenAt": "2026-11-05T06:57:51+00:00",
-              "messageId": "dodtwitterbot/39713",
-              "description": "一个全新的mint发射平台\n官方Tg问题处理 https://t.co/l6KtGftnWa",
-              "text": "一个全新的mint发射平台\n官方Tg问题处理 https://t.co/l6KtGftnWa"
-            }
-          ],
-          "text": " Corla 🤖 Corla_5555 一个全新的mint发射平台\n官方Tg问题处理 https://t.co/l6KtGftnWa",
+          "text": " Chatr chatr2025 &#036;chatr marks a new paradigm shift with what you can do with the intersection of ai agents. click onchain website below.",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -17409,6 +18660,76 @@
           "dayStatus": "repeat"
         },
         {
+          "project": "EQX Labs",
+          "account": "eqxlabs",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "A佬"
+          ],
+          "tgAlphas": [
+            "A佬"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-05T11:54:33+00:00",
+          "lastSeen": "2026-11-05T11:54:33+00:00",
+          "description": "Tokenized spot U.S. equities built natively for @HyperliquidX .\n\n1:1 Backed. Institutional Custody. Permissionless trading. 24/7/365.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "EQX Labs",
+              "account": "eqxlabs",
+              "alpha": "A佬",
+              "seenAt": "2026-11-05T11:54:33+00:00",
+              "messageId": "dodtwitterbot/39759",
+              "description": "Tokenized spot U.S. equities built natively for @HyperliquidX .\n\n1:1 Backed. Institutional Custody. Permissionless trading. 24/7/365.",
+              "text": "Tokenized spot U.S. equities built natively for @HyperliquidX .\n\n1:1 Backed. Institutional Custody. Permissionless trading. 24/7/365."
+            }
+          ],
+          "text": " EQX Labs eqxlabs Tokenized spot U.S. equities built natively for @HyperliquidX .\n\n1:1 Backed. Institutional Custody. Permissionless trading. 24/7/365.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Flint Trade",
+          "account": "flint_trade_",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-05T10:27:33+00:00",
+          "lastSeen": "2026-11-05T10:27:33+00:00",
+          "description": "Spot | Perps DEX on @solana",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Flint Trade",
+              "account": "flint_trade_",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-05T10:27:33+00:00",
+              "messageId": "dodtwitterbot/39753",
+              "description": "Spot | Perps DEX on @solana",
+              "text": "Spot | Perps DEX on @solana"
+            }
+          ],
+          "text": " Flint Trade flint_trade_ Spot | Perps DEX on @solana",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
           "project": "Flutch",
           "account": "Flutchdotfun",
           "sources": [
@@ -17442,6 +18763,146 @@
           "displayTier": "candidate",
           "avatarUrl": "",
           "dayStatus": "repeat"
+        },
+        {
+          "project": "FM Tigrotto",
+          "account": "fmtigrotto",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-05T09:39:26+00:00",
+          "lastSeen": "2026-11-05T09:39:26+00:00",
+          "description": "🎮 Turning the game into something you've always dreamed of&#33;\n👤 by: @giovanibiava",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "FM Tigrotto",
+              "account": "fmtigrotto",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-05T09:39:26+00:00",
+              "messageId": "dodtwitterbot/39736",
+              "description": "🎮 Turning the game into something you've always dreamed of&#33;\n👤 by: @giovanibiava",
+              "text": "🎮 Turning the game into something you've always dreamed of&#33;\n👤 by: @giovanibiava"
+            }
+          ],
+          "text": " FM Tigrotto fmtigrotto 🎮 Turning the game into something you've always dreamed of&#33;\n👤 by: @giovanibiava",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Fupa on PulseChain",
+          "account": "FupaFinance",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-05T13:43:00+00:00",
+          "lastSeen": "2026-11-05T13:43:00+00:00",
+          "description": "Fupa on PulseChain | Unruggable by design | Starlink-powered from the Highlands 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | Driving volume & liquidity | &#036;FUPA | &#036;ZELDA |",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Fupa on PulseChain",
+              "account": "FupaFinance",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-05T13:43:00+00:00",
+              "messageId": "dodtwitterbot/39776",
+              "description": "Fupa on PulseChain | Unruggable by design | Starlink-powered from the Highlands 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | Driving volume & liquidity | &#036;FUPA | &#036;ZELDA |",
+              "text": "Fupa on PulseChain | Unruggable by design | Starlink-powered from the Highlands 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | Driving volume & liquidity | &#036;FUPA | &#036;ZELDA |"
+            }
+          ],
+          "text": " Fupa on PulseChain FupaFinance Fupa on PulseChain | Unruggable by design | Starlink-powered from the Highlands 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | Driving volume & liquidity | &#036;FUPA | &#036;ZELDA |",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "HashDoge",
+          "account": "HashDogeIO",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "八九"
+          ],
+          "tgAlphas": [
+            "八九"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-05T09:11:14+00:00",
+          "lastSeen": "2026-11-05T09:11:14+00:00",
+          "description": "A proof-of-work collection for .ai Agents on BNB Chain.\n\nCreated by @Joshuash1n",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "HashDoge",
+              "account": "HashDogeIO",
+              "alpha": "八九",
+              "seenAt": "2026-11-05T09:11:14+00:00",
+              "messageId": "dodtwitterbot/39731",
+              "description": "A proof-of-work collection for .ai Agents on BNB Chain.\n\nCreated by @Joshuash1n",
+              "text": "A proof-of-work collection for .ai Agents on BNB Chain.\n\nCreated by @Joshuash1n"
+            }
+          ],
+          "text": " HashDoge HashDogeIO A proof-of-work collection for .ai Agents on BNB Chain.\n\nCreated by @Joshuash1n",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Liquidlt",
+          "account": "Liquidit_X",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-05T15:18:26+00:00",
+          "lastSeen": "2026-11-05T15:18:26+00:00",
+          "description": "First ever Lending/Borrowing protocol for @HyperLiquidX perpetual positions.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Liquidlt",
+              "account": "Liquidit_X",
+              "alpha": "lakka",
+              "seenAt": "2026-11-05T15:18:26+00:00",
+              "messageId": "dodtwitterbot/39790",
+              "description": "First ever Lending/Borrowing protocol for @HyperLiquidX perpetual positions.",
+              "text": "First ever Lending/Borrowing protocol for @HyperLiquidX perpetual positions."
+            }
+          ],
+          "text": " Liquidlt Liquidit_X First ever Lending/Borrowing protocol for @HyperLiquidX perpetual positions.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
         },
         {
           "project": "Motion",
@@ -17584,6 +19045,41 @@
           "dayStatus": "repeat"
         },
         {
+          "project": "Nymra",
+          "account": "Nymrasi",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-05T10:03:52+00:00",
+          "lastSeen": "2026-11-05T10:03:52+00:00",
+          "description": "Privacy superintelligence for users, apps & security teams. See what the chain reveals and prevent it.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Nymra",
+              "account": "Nymrasi",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-05T10:03:52+00:00",
+              "messageId": "dodtwitterbot/39742",
+              "description": "Privacy superintelligence for users, apps & security teams. See what the chain reveals and prevent it.",
+              "text": "Privacy superintelligence for users, apps & security teams. See what the chain reveals and prevent it."
+            }
+          ],
+          "text": " Nymra Nymrasi Privacy superintelligence for users, apps & security teams. See what the chain reveals and prevent it.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
           "project": "P2PKit",
           "account": "p2pkitdotcom",
           "sources": [
@@ -17619,6 +19115,111 @@
           "dayStatus": "new"
         },
         {
+          "project": "Perch AI",
+          "account": "PerchTerminal",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-05T10:50:12+00:00",
+          "lastSeen": "2026-11-05T10:50:12+00:00",
+          "description": "Autonomous multi-agent workspace for financial, writing, research, coding and operational work.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Perch AI",
+              "account": "PerchTerminal",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-05T10:50:12+00:00",
+              "messageId": "dodtwitterbot/39758",
+              "description": "Autonomous multi-agent workspace for financial, writing, research, coding and operational work.",
+              "text": "Autonomous multi-agent workspace for financial, writing, research, coding and operational work."
+            }
+          ],
+          "text": " Perch AI PerchTerminal Autonomous multi-agent workspace for financial, writing, research, coding and operational work.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Pilot Protocol",
+          "account": "pilotprotocol",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-05T10:26:40+00:00",
+          "lastSeen": "2026-11-05T10:26:40+00:00",
+          "description": "Network OS for AI Agents",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Pilot Protocol",
+              "account": "pilotprotocol",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-05T10:26:40+00:00",
+              "messageId": "dodtwitterbot/39752",
+              "description": "Network OS for AI Agents",
+              "text": "Network OS for AI Agents"
+            }
+          ],
+          "text": " Pilot Protocol pilotprotocol Network OS for AI Agents",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Pocket Noob",
+          "account": "playpocketnoob",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-05T12:18:49+00:00",
+          "lastSeen": "2026-11-05T12:18:49+00:00",
+          "description": "A cozy companion arcade. Little games, big discoveries & a home to make your own. Coming soon to iOS & Android.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Pocket Noob",
+              "account": "playpocketnoob",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-05T12:18:49+00:00",
+              "messageId": "dodtwitterbot/39765",
+              "description": "A cozy companion arcade. Little games, big discoveries & a home to make your own. Coming soon to iOS & Android.",
+              "text": "A cozy companion arcade. Little games, big discoveries & a home to make your own. Coming soon to iOS & Android."
+            }
+          ],
+          "text": " Pocket Noob playpocketnoob A cozy companion arcade. Little games, big discoveries & a home to make your own. Coming soon to iOS & Android.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
           "project": "Potrun",
           "account": "potrunxyz",
           "sources": [
@@ -17648,6 +19249,41 @@
             }
           ],
           "text": " Potrun potrunxyz Hit up to 200x on your favorite tokens. Coming soon.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "REFRYN",
+          "account": "REFRYN_",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-05T14:01:52+00:00",
+          "lastSeen": "2026-11-05T14:01:52+00:00",
+          "description": "Proof-of-work NFTs. Collect, stake, or burn.\nComing to Robinhood Chain.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "REFRYN",
+              "account": "REFRYN_",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-05T14:01:52+00:00",
+              "messageId": "dodtwitterbot/39781",
+              "description": "Proof-of-work NFTs. Collect, stake, or burn.\nComing to Robinhood Chain.",
+              "text": "Proof-of-work NFTs. Collect, stake, or burn.\nComing to Robinhood Chain."
+            }
+          ],
+          "text": " REFRYN REFRYN_ Proof-of-work NFTs. Collect, stake, or burn.\nComing to Robinhood Chain.",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -17829,6 +19465,111 @@
           "dayStatus": "new"
         },
         {
+          "project": "The Agentic Economist",
+          "account": "agentic_economy",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-05T10:25:44+00:00",
+          "lastSeen": "2026-11-05T10:25:44+00:00",
+          "description": "The agentic economy, tracked live: agentic commerce, agentic payments, x402 volume and the agent marketplace. Where the money moves between AI agents.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "The Agentic Economist",
+              "account": "agentic_economy",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-05T10:25:44+00:00",
+              "messageId": "dodtwitterbot/39751",
+              "description": "The agentic economy, tracked live: agentic commerce, agentic payments, x402 volume and the agent marketplace. Where the money moves between AI agents.",
+              "text": "The agentic economy, tracked live: agentic commerce, agentic payments, x402 volume and the agent marketplace. Where the money moves between AI agents."
+            }
+          ],
+          "text": " The Agentic Economist agentic_economy The agentic economy, tracked live: agentic commerce, agentic payments, x402 volume and the agent marketplace. Where the money moves between AI agents.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Touchmark",
+          "account": "touchmark_ai",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-05T09:33:03+00:00",
+          "lastSeen": "2026-11-05T09:33:03+00:00",
+          "description": "Making AI inference tradable through a marketplace for reserved compute capacity.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Touchmark",
+              "account": "touchmark_ai",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-05T09:33:03+00:00",
+              "messageId": "dodtwitterbot/39734",
+              "description": "Making AI inference tradable through a marketplace for reserved compute capacity.",
+              "text": "Making AI inference tradable through a marketplace for reserved compute capacity."
+            }
+          ],
+          "text": " Touchmark touchmark_ai Making AI inference tradable through a marketplace for reserved compute capacity.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Touchmark",
+          "account": "TouchmarkAI",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-05T09:44:01+00:00",
+          "lastSeen": "2026-11-05T09:44:01+00:00",
+          "description": "Market for future inference capacity",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Touchmark",
+              "account": "TouchmarkAI",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-05T09:44:01+00:00",
+              "messageId": "dodtwitterbot/39737",
+              "description": "Market for future inference capacity",
+              "text": "Market for future inference capacity"
+            }
+          ],
+          "text": " Touchmark TouchmarkAI Market for future inference capacity",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
           "project": "TurtleFren",
           "account": "TurtleFrenGame",
           "sources": [
@@ -17893,6 +19634,76 @@
             }
           ],
           "text": " Updraft Exchange 🪂 updraftexchange Updraft is the AI inference market on Elysium. 1 GUST buys &#036;1 of Claude, GPT or hundreds of other models, in Claude Code, Cursor or any OpenAI SDK.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "zBase",
+          "account": "zbase__",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-05T08:59:23+00:00",
+          "lastSeen": "2026-11-05T08:59:23+00:00",
+          "description": "Open Privacy for Agents | Base Batches 003 Finalist | https://t.co/MCBiDDKm1K ( @cardano_cf )",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "zBase",
+              "account": "zbase__",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-05T08:59:23+00:00",
+              "messageId": "dodtwitterbot/39728",
+              "description": "Open Privacy for Agents | Base Batches 003 Finalist | https://t.co/MCBiDDKm1K ( @cardano_cf )",
+              "text": "Open Privacy for Agents | Base Batches 003 Finalist | https://t.co/MCBiDDKm1K ( @cardano_cf )"
+            }
+          ],
+          "text": " zBase zbase__ Open Privacy for Agents | Base Batches 003 Finalist | https://t.co/MCBiDDKm1K ( @cardano_cf )",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Zephium",
+          "account": "zephium_browser",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-05T12:15:06+00:00",
+          "lastSeen": "2026-11-05T12:15:06+00:00",
+          "description": "A fast, opens-source, fully featured browser and work environment reimagined for you and your agents",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Zephium",
+              "account": "zephium_browser",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-05T12:15:06+00:00",
+              "messageId": "dodtwitterbot/39764",
+              "description": "A fast, opens-source, fully featured browser and work environment reimagined for you and your agents",
+              "text": "A fast, opens-source, fully featured browser and work environment reimagined for you and your agents"
+            }
+          ],
+          "text": " Zephium zephium_browser A fast, opens-source, fully featured browser and work environment reimagined for you and your agents",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -31999,154 +33810,159 @@
   ],
   "reports": [
     {
+      "file": "2026-11-05-1742-telegram-update.md",
+      "title": "2026-11-05-1742-telegram-update",
+      "updatedAt": "2026-11-05T17:42:15.807Z"
+    },
+    {
       "file": "2026-11-05-0836-telegram-update.md",
       "title": "2026-11-05-0836-telegram-update",
-      "updatedAt": "2026-11-05T08:36:22.394Z"
+      "updatedAt": "2026-11-05T17:42:12.929Z"
     },
     {
       "file": "2026-11-04-2255-telegram-update.md",
       "title": "2026-11-04-2255-telegram-update",
-      "updatedAt": "2026-11-05T08:36:20.158Z"
+      "updatedAt": "2026-11-05T17:42:12.929Z"
     },
     {
       "file": "2026-11-04-1737-telegram-update.md",
       "title": "2026-11-04-1737-telegram-update",
-      "updatedAt": "2026-11-05T08:36:20.158Z"
+      "updatedAt": "2026-11-05T17:42:12.929Z"
     },
     {
       "file": "2026-11-04-0810-telegram-update.md",
       "title": "2026-11-04-0810-telegram-update",
-      "updatedAt": "2026-11-05T08:36:20.158Z"
+      "updatedAt": "2026-11-05T17:42:12.929Z"
     },
     {
       "file": "2026-11-04-0143-telegram-update.md",
       "title": "2026-11-04-0143-telegram-update",
-      "updatedAt": "2026-11-05T08:36:20.158Z"
+      "updatedAt": "2026-11-05T17:42:12.929Z"
     },
     {
       "file": "2026-11-03-2018-telegram-update.md",
       "title": "2026-11-03-2018-telegram-update",
-      "updatedAt": "2026-11-05T08:36:20.158Z"
+      "updatedAt": "2026-11-05T17:42:12.929Z"
     },
     {
       "file": "2026-11-03-1302-telegram-update.md",
       "title": "2026-11-03-1302-telegram-update",
-      "updatedAt": "2026-11-05T08:36:20.158Z"
+      "updatedAt": "2026-11-05T17:42:12.929Z"
     },
     {
       "file": "2026-11-03-0306-telegram-update.md",
       "title": "2026-11-03-0306-telegram-update",
-      "updatedAt": "2026-11-05T08:36:20.158Z"
+      "updatedAt": "2026-11-05T17:42:12.929Z"
     },
     {
       "file": "2026-11-02-1950-telegram-update.md",
       "title": "2026-11-02-1950-telegram-update",
-      "updatedAt": "2026-11-05T08:36:20.158Z"
+      "updatedAt": "2026-11-05T17:42:12.929Z"
     },
     {
       "file": "2026-11-02-0826-telegram-update.md",
       "title": "2026-11-02-0826-telegram-update",
-      "updatedAt": "2026-11-05T08:36:20.158Z"
+      "updatedAt": "2026-11-05T17:42:12.929Z"
     },
     {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-05T08:36:20.158Z"
+      "updatedAt": "2026-11-05T17:42:12.929Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-05T08:36:20.158Z"
+      "updatedAt": "2026-11-05T17:42:12.929Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-05T08:36:20.158Z"
+      "updatedAt": "2026-11-05T17:42:12.929Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-05T08:36:20.158Z"
+      "updatedAt": "2026-11-05T17:42:12.929Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-05T08:36:20.158Z"
+      "updatedAt": "2026-11-05T17:42:12.929Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-05T08:36:20.158Z"
+      "updatedAt": "2026-11-05T17:42:12.929Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-05T08:36:20.158Z"
+      "updatedAt": "2026-11-05T17:42:12.929Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-05T08:36:20.158Z"
+      "updatedAt": "2026-11-05T17:42:12.929Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-05T08:36:20.158Z"
+      "updatedAt": "2026-11-05T17:42:12.929Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-05T08:36:20.158Z"
+      "updatedAt": "2026-11-05T17:42:12.929Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-05T08:36:20.158Z"
+      "updatedAt": "2026-11-05T17:42:12.929Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-05T08:36:20.158Z"
+      "updatedAt": "2026-11-05T17:42:12.929Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-05T08:36:20.158Z"
+      "updatedAt": "2026-11-05T17:42:12.929Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-05T08:36:20.158Z"
+      "updatedAt": "2026-11-05T17:42:12.929Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-05T08:36:20.158Z"
+      "updatedAt": "2026-11-05T17:42:12.929Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-05T08:36:20.158Z"
+      "updatedAt": "2026-11-05T17:42:12.929Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-05T08:36:20.158Z"
+      "updatedAt": "2026-11-05T17:42:12.929Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-05T08:36:20.158Z"
+      "updatedAt": "2026-11-05T17:42:12.929Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-05T08:36:20.158Z"
+      "updatedAt": "2026-11-05T17:42:12.929Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-05T08:36:20.156Z"
+      "updatedAt": "2026-11-05T17:42:12.927Z"
     }
   ]
 }
