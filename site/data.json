@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-05T22:56:08.835Z",
+  "generatedAt": "2026-11-06T08:35:41.366Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 39823,
-    "lastMessageAt": "2026-11-05T21:40:53+00:00",
-    "lastCheckedAt": "2026-11-05T22:56:08.710Z",
-    "previousMessageId": 39800,
+    "lastMessageId": 39854,
+    "lastMessageAt": "2026-11-06T08:27:17+00:00",
+    "lastCheckedAt": "2026-11-06T08:35:41.183Z",
+    "previousMessageId": 39823,
     "pagesRead": 2,
-    "messagesRead": 23,
-    "newProjectRecords": 12,
+    "messagesRead": 31,
+    "newProjectRecords": 8,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 538,
+    "telegramRows": 546,
     "xRows": 0,
-    "projects": 324,
+    "projects": 330,
     "crossSource": 0
   },
   "projects": [
@@ -2208,6 +2208,64 @@
       "avatarUrl": ""
     },
     {
+      "project": "Bons",
+      "account": "tradebons",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse",
+        "unsynned",
+        "well"
+      ],
+      "tgAlphas": [
+        "BearzVerse",
+        "unsynned",
+        "well"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-11-05T19:20:36+00:00",
+      "lastSeen": "2026-11-06T05:11:05+00:00",
+      "description": "Your trading ideas, turned into AI agents that never log off.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Bons",
+          "account": "tradebons",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-05T19:20:36+00:00",
+          "messageId": "dodtwitterbot/39816",
+          "description": "Your trading ideas, turned into AI agents that never log off.",
+          "text": "Your trading ideas, turned into AI agents that never log off."
+        },
+        {
+          "source": "TG",
+          "project": "Bons",
+          "account": "tradebons",
+          "alpha": "BearzVerse",
+          "seenAt": "2026-11-05T19:28:46+00:00",
+          "messageId": "dodtwitterbot/39817",
+          "description": "Your trading ideas, turned into AI agents that never log off.",
+          "text": "Your trading ideas, turned into AI agents that never log off."
+        },
+        {
+          "source": "TG",
+          "project": "Bons",
+          "account": "tradebons",
+          "alpha": "well",
+          "seenAt": "2026-11-06T05:11:05+00:00",
+          "messageId": "dodtwitterbot/39838",
+          "description": "Your trading ideas, turned into AI agents that never log off.",
+          "text": "Your trading ideas, turned into AI agents that never log off."
+        }
+      ],
+      "text": " Bons tradebons Your trading ideas, turned into AI agents that never log off. Bons tradebons Your trading ideas, turned into AI agents that never log off. Bons tradebons Your trading ideas, turned into AI agents that never log off.",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Cathereum",
       "account": "CathereumTech",
       "sources": [
@@ -4026,52 +4084,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Bons",
-      "account": "tradebons",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "BearzVerse",
-        "unsynned"
-      ],
-      "tgAlphas": [
-        "BearzVerse",
-        "unsynned"
-      ],
-      "xAlphas": [],
-      "mentions": 2,
-      "firstSeen": "2026-11-05T19:20:36+00:00",
-      "lastSeen": "2026-11-05T19:28:46+00:00",
-      "description": "Your trading ideas, turned into AI agents that never log off.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Bons",
-          "account": "tradebons",
-          "alpha": "unsynned",
-          "seenAt": "2026-11-05T19:20:36+00:00",
-          "messageId": "dodtwitterbot/39816",
-          "description": "Your trading ideas, turned into AI agents that never log off.",
-          "text": "Your trading ideas, turned into AI agents that never log off."
-        },
-        {
-          "source": "TG",
-          "project": "Bons",
-          "account": "tradebons",
-          "alpha": "BearzVerse",
-          "seenAt": "2026-11-05T19:28:46+00:00",
-          "messageId": "dodtwitterbot/39817",
-          "description": "Your trading ideas, turned into AI agents that never log off.",
-          "text": "Your trading ideas, turned into AI agents that never log off."
-        }
-      ],
-      "text": " Bons tradebons Your trading ideas, turned into AI agents that never log off. Bons tradebons Your trading ideas, turned into AI agents that never log off.",
-      "score": 4,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
       "project": "chief keith",
       "account": "chiefkeith1000",
       "sources": [
@@ -4941,6 +4953,52 @@
         }
       ],
       "text": " Hegemon hegemonprotocol The quantum resistant shielded pool Hegemon hegemonprotocol The quantum resistant shielded pool",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Homer",
+      "account": "homer_fi",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "CSR",
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "CSR",
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-10-30T20:48:37+00:00",
+      "lastSeen": "2026-11-06T05:18:21+00:00",
+      "description": "The liquidity layer for Elysium.\n\nPowered by &#036;HOMER\n0x365Be4728d0Ee2140e8b75A05C5DCf6b7D76399A",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Homer",
+          "account": "homer_fi",
+          "alpha": "CSR",
+          "seenAt": "2026-10-30T20:48:37+00:00",
+          "messageId": "dodtwitterbot/38708",
+          "description": "The liquidity layer for Elysium.",
+          "text": "The liquidity layer for Elysium."
+        },
+        {
+          "source": "TG",
+          "project": "Homer",
+          "account": "homer_fi",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-06T05:18:21+00:00",
+          "messageId": "dodtwitterbot/39839",
+          "description": "The liquidity layer for Elysium.\n\nPowered by &#036;HOMER\n0x365Be4728d0Ee2140e8b75A05C5DCf6b7D76399A",
+          "text": "The liquidity layer for Elysium.\n\nPowered by &#036;HOMER\n0x365Be4728d0Ee2140e8b75A05C5DCf6b7D76399A"
+        }
+      ],
+      "text": " Homer homer_fi The liquidity layer for Elysium. Homer homer_fi The liquidity layer for Elysium.\n\nPowered by &#036;HOMER\n0x365Be4728d0Ee2140e8b75A05C5DCf6b7D76399A",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -6940,6 +6998,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Arena Launch",
+      "account": "ArenaElysium",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "A佬"
+      ],
+      "tgAlphas": [
+        "A佬"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-06T06:08:51+00:00",
+      "lastSeen": "2026-11-06T06:08:51+00:00",
+      "description": "ARΣNA - The launchpad and trading platform for Elysium.\n0 to launch. 1% swap fee: 85% to creators or their holders, 15% to Arena.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Arena Launch",
+          "account": "ArenaElysium",
+          "alpha": "A佬",
+          "seenAt": "2026-11-06T06:08:51+00:00",
+          "messageId": "dodtwitterbot/39841",
+          "description": "ARΣNA - The launchpad and trading platform for Elysium.\n0 to launch. 1% swap fee: 85% to creators or their holders, 15% to Arena.",
+          "text": "ARΣNA - The launchpad and trading platform for Elysium.\n0 to launch. 1% swap fee: 85% to creators or their holders, 15% to Arena."
+        }
+      ],
+      "text": " Arena Launch ArenaElysium ARΣNA - The launchpad and trading platform for Elysium.\n0 to launch. 1% swap fee: 85% to creators or their holders, 15% to Arena.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Arkena",
       "account": "arkenaio",
       "sources": [
@@ -8810,6 +8902,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "ghostonelysium",
+      "account": "ghostonelysium",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-06T07:38:02+00:00",
+      "lastSeen": "2026-11-06T07:38:02+00:00",
+      "description": "Elysium's first protocol. Private balances. Private perps on Hyperliquid. Leave no trace. &#036;GHOST",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "ghostonelysium",
+          "account": "ghostonelysium",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-06T07:38:02+00:00",
+          "messageId": "dodtwitterbot/39853",
+          "description": "Elysium's first protocol. Private balances. Private perps on Hyperliquid. Leave no trace. &#036;GHOST",
+          "text": "Elysium's first protocol. Private balances. Private perps on Hyperliquid. Leave no trace. &#036;GHOST"
+        }
+      ],
+      "text": " ghostonelysium ghostonelysium Elysium's first protocol. Private balances. Private perps on Hyperliquid. Leave no trace. &#036;GHOST",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "GIWATRON",
       "account": "Giwatron",
       "sources": [
@@ -9179,40 +9305,6 @@
         }
       ],
       "text": " Hetairoi Ai Agent HetairoiAgent Your agents, riding as one. Claude Code, Codex, Cursor, Grok and more ask each other for work you decide. Open source. &#036;HETAIROI",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Homer",
-      "account": "homer_fi",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "CSR"
-      ],
-      "tgAlphas": [
-        "CSR"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-10-30T20:48:37+00:00",
-      "lastSeen": "2026-10-30T20:48:37+00:00",
-      "description": "The liquidity layer for Elysium.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Homer",
-          "account": "homer_fi",
-          "alpha": "CSR",
-          "seenAt": "2026-10-30T20:48:37+00:00",
-          "messageId": "dodtwitterbot/38708",
-          "description": "The liquidity layer for Elysium.",
-          "text": "The liquidity layer for Elysium."
-        }
-      ],
-      "text": " Homer homer_fi The liquidity layer for Elysium.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -10510,6 +10602,74 @@
       "avatarUrl": ""
     },
     {
+      "project": "Neotics",
+      "account": "neoticsio",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "well"
+      ],
+      "tgAlphas": [
+        "well"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-06T00:44:48+00:00",
+      "lastSeen": "2026-11-06T00:44:48+00:00",
+      "description": "Robots learn from people.\nOn @Enter_Elysium",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Neotics",
+          "account": "neoticsio",
+          "alpha": "well",
+          "seenAt": "2026-11-06T00:44:48+00:00",
+          "messageId": "dodtwitterbot/39826",
+          "description": "Robots learn from people.\nOn @Enter_Elysium",
+          "text": "Robots learn from people.\nOn @Enter_Elysium"
+        }
+      ],
+      "text": " Neotics neoticsio Robots learn from people.\nOn @Enter_Elysium",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Nexaria",
+      "account": "playnexaria",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "A佬"
+      ],
+      "tgAlphas": [
+        "A佬"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-06T03:42:01+00:00",
+      "lastSeen": "2026-11-06T03:42:01+00:00",
+      "description": "You start with a mining ship. Nobody said you have to stay a miner.\n\nBrowser space MMO on @RobinhoodCrypto · Built by @lisaweb3",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Nexaria",
+          "account": "playnexaria",
+          "alpha": "A佬",
+          "seenAt": "2026-11-06T03:42:01+00:00",
+          "messageId": "dodtwitterbot/39831",
+          "description": "You start with a mining ship. Nobody said you have to stay a miner.\n\nBrowser space MMO on @RobinhoodCrypto · Built by @lisaweb3",
+          "text": "You start with a mining ship. Nobody said you have to stay a miner.\n\nBrowser space MMO on @RobinhoodCrypto · Built by @lisaweb3"
+        }
+      ],
+      "text": " Nexaria playnexaria You start with a mining ship. Nobody said you have to stay a miner.\n\nBrowser space MMO on @RobinhoodCrypto · Built by @lisaweb3",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "NorenAgent",
       "account": "NorenAgent",
       "sources": [
@@ -10913,6 +11073,40 @@
         }
       ],
       "text": " Pilot Protocol pilotprotocol Network OS for AI Agents",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "poonks",
+      "account": "poonksdotfun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BTC alpha"
+      ],
+      "tgAlphas": [
+        "BTC alpha"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-06T06:31:23+00:00",
+      "lastSeen": "2026-11-06T06:31:23+00:00",
+      "description": "something is culturing. 🟣\nart. entertainment. rebellion.\njoin the poonk revolt.\n\nminting soon on @robinhoodcrypto on @opensea\n&#036;POONK — no CA yet.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "poonks",
+          "account": "poonksdotfun",
+          "alpha": "BTC alpha",
+          "seenAt": "2026-11-06T06:31:23+00:00",
+          "messageId": "dodtwitterbot/39844",
+          "description": "something is culturing. 🟣\nart. entertainment. rebellion.\njoin the poonk revolt.\n\nminting soon on @robinhoodcrypto on @opensea\n&#036;POONK — no CA yet.",
+          "text": "something is culturing. 🟣\nart. entertainment. rebellion.\njoin the poonk revolt.\n\nminting soon on @robinhoodcrypto on @opensea\n&#036;POONK — no CA yet."
+        }
+      ],
+      "text": " poonks poonksdotfun something is culturing. 🟣\nart. entertainment. rebellion.\njoin the poonk revolt.\n\nminting soon on @robinhoodcrypto on @opensea\n&#036;POONK — no CA yet.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -11967,6 +12161,40 @@
         }
       ],
       "text": " Slabs Online Studios SlabsOnline Developing PSA 10 level quality online experiences for users on the Solana blockchain.\n\nReal cards deserve real functionality.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Solana Labs",
+      "account": "solanalabs",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Skrchen666(钻石手伤心版 绝对纸手之人）"
+      ],
+      "tgAlphas": [
+        "Skrchen666(钻石手伤心版 绝对纸手之人）"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-05T23:03:56+00:00",
+      "lastSeen": "2026-11-05T23:03:56+00:00",
+      "description": "Solana Labs is a technology company that develops and invests in web3 products and the builder of @SolanaMobile .",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Solana Labs",
+          "account": "solanalabs",
+          "alpha": "Skrchen666(钻石手伤心版 绝对纸手之人）",
+          "seenAt": "2026-11-05T23:03:56+00:00",
+          "messageId": "dodtwitterbot/39824",
+          "description": "Solana Labs is a technology company that develops and invests in web3 products and the builder of @SolanaMobile .",
+          "text": "Solana Labs is a technology company that develops and invests in web3 products and the builder of @SolanaMobile ."
+        }
+      ],
+      "text": " Solana Labs solanalabs Solana Labs is a technology company that develops and invests in web3 products and the builder of @SolanaMobile .",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -14103,6 +14331,22 @@
       "avatarUrl": ""
     },
     {
+      "project": "Bons",
+      "x_account": "tradebons",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "BearzVerse",
+        "unsynned",
+        "well"
+      ],
+      "description": "Your trading ideas, turned into AI agents that never log off.",
+      "first_seen_utc": "2026-11-05T19:20:36+00:00",
+      "last_seen_utc": "2026-11-06T05:11:05+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
       "project": "Cathereum",
       "x_account": "CathereumTech",
       "total_mentions": 3,
@@ -14623,21 +14867,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Bons",
-      "x_account": "tradebons",
-      "total_mentions": 2,
-      "unique_alphas": 2,
-      "alphas": [
-        "BearzVerse",
-        "unsynned"
-      ],
-      "description": "Your trading ideas, turned into AI agents that never log off.",
-      "first_seen_utc": "2026-11-05T19:20:36+00:00",
-      "last_seen_utc": "2026-11-05T19:28:46+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "chief keith",
       "x_account": "chiefkeith1000",
       "total_mentions": 2,
@@ -14919,6 +15148,21 @@
       "description": "The quantum resistant shielded pool",
       "first_seen_utc": "2026-11-04T19:37:59+00:00",
       "last_seen_utc": "2026-11-04T20:29:04+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Homer",
+      "x_account": "homer_fi",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "CSR",
+        "蛋总"
+      ],
+      "description": "The liquidity layer for Elysium.\n\nPowered by &#036;HOMER\n0x365Be4728d0Ee2140e8b75A05C5DCf6b7D76399A",
+      "first_seen_utc": "2026-10-30T20:48:37+00:00",
+      "last_seen_utc": "2026-11-06T05:18:21+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -15610,6 +15854,20 @@
       "description": "第一个币安 Agent ID 的 Mint 的纯动物meme项目",
       "first_seen_utc": "2026-10-31T06:15:27+00:00",
       "last_seen_utc": "2026-10-31T06:15:27+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Arena Launch",
+      "x_account": "ArenaElysium",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "A佬"
+      ],
+      "description": "ARΣNA - The launchpad and trading platform for Elysium.\n0 to launch. 1% swap fee: 85% to creators or their holders, 15% to Arena.",
+      "first_seen_utc": "2026-11-06T06:08:51+00:00",
+      "last_seen_utc": "2026-11-06T06:08:51+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -16384,6 +16642,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "ghostonelysium",
+      "x_account": "ghostonelysium",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "阿宏"
+      ],
+      "description": "Elysium's first protocol. Private balances. Private perps on Hyperliquid. Leave no trace. &#036;GHOST",
+      "first_seen_utc": "2026-11-06T07:38:02+00:00",
+      "last_seen_utc": "2026-11-06T07:38:02+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "GIWATRON",
       "x_account": "Giwatron",
       "total_mentions": 1,
@@ -16534,20 +16806,6 @@
       "description": "Your agents, riding as one. Claude Code, Codex, Cursor, Grok and more ask each other for work you decide. Open source. &#036;HETAIROI",
       "first_seen_utc": "2026-11-04T11:07:19+00:00",
       "last_seen_utc": "2026-11-04T11:07:19+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Homer",
-      "x_account": "homer_fi",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "CSR"
-      ],
-      "description": "The liquidity layer for Elysium.",
-      "first_seen_utc": "2026-10-30T20:48:37+00:00",
-      "last_seen_utc": "2026-10-30T20:48:37+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -17084,6 +17342,34 @@
       "avatarUrl": ""
     },
     {
+      "project": "Neotics",
+      "x_account": "neoticsio",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "well"
+      ],
+      "description": "Robots learn from people.\nOn @Enter_Elysium",
+      "first_seen_utc": "2026-11-06T00:44:48+00:00",
+      "last_seen_utc": "2026-11-06T00:44:48+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Nexaria",
+      "x_account": "playnexaria",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "A佬"
+      ],
+      "description": "You start with a mining ship. Nobody said you have to stay a miner.\n\nBrowser space MMO on @RobinhoodCrypto · Built by @lisaweb3",
+      "first_seen_utc": "2026-11-06T03:42:01+00:00",
+      "last_seen_utc": "2026-11-06T03:42:01+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "NorenAgent",
       "x_account": "NorenAgent",
       "total_mentions": 1,
@@ -17248,6 +17534,20 @@
       "description": "Network OS for AI Agents",
       "first_seen_utc": "2026-11-05T10:26:40+00:00",
       "last_seen_utc": "2026-11-05T10:26:40+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "poonks",
+      "x_account": "poonksdotfun",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "BTC alpha"
+      ],
+      "description": "something is culturing. 🟣\nart. entertainment. rebellion.\njoin the poonk revolt.\n\nminting soon on @robinhoodcrypto on @opensea\n&#036;POONK — no CA yet.",
+      "first_seen_utc": "2026-11-06T06:31:23+00:00",
+      "last_seen_utc": "2026-11-06T06:31:23+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -17682,6 +17982,20 @@
       "description": "Developing PSA 10 level quality online experiences for users on the Solana blockchain.\n\nReal cards deserve real functionality.",
       "first_seen_utc": "2026-10-29T17:42:04+00:00",
       "last_seen_utc": "2026-10-29T17:42:04+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Solana Labs",
+      "x_account": "solanalabs",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "Skrchen666(钻石手伤心版 绝对纸手之人）"
+      ],
+      "description": "Solana Labs is a technology company that develops and invests in web3 products and the builder of @SolanaMobile .",
+      "first_seen_utc": "2026-11-05T23:03:56+00:00",
+      "last_seen_utc": "2026-11-05T23:03:56+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -18361,14 +18675,73 @@
   "daily": [
     {
       "date": "2026-11-06",
-      "totalRows": 12,
-      "projectCount": 9,
+      "totalRows": 20,
+      "projectCount": 16,
       "focusCount": 3,
-      "candidateCount": 6,
+      "candidateCount": 13,
       "crossSource": 0,
-      "newCount": 8,
-      "repeatCount": 1,
+      "newCount": 14,
+      "repeatCount": 2,
       "projects": [
+        {
+          "project": "Bons",
+          "account": "tradebons",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BearzVerse",
+            "unsynned",
+            "well"
+          ],
+          "tgAlphas": [
+            "BearzVerse",
+            "unsynned",
+            "well"
+          ],
+          "xAlphas": [],
+          "mentions": 3,
+          "firstSeen": "2026-11-05T19:20:36+00:00",
+          "lastSeen": "2026-11-06T05:11:05+00:00",
+          "description": "Your trading ideas, turned into AI agents that never log off.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Bons",
+              "account": "tradebons",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-05T19:20:36+00:00",
+              "messageId": "dodtwitterbot/39816",
+              "description": "Your trading ideas, turned into AI agents that never log off.",
+              "text": "Your trading ideas, turned into AI agents that never log off."
+            },
+            {
+              "source": "TG",
+              "project": "Bons",
+              "account": "tradebons",
+              "alpha": "BearzVerse",
+              "seenAt": "2026-11-05T19:28:46+00:00",
+              "messageId": "dodtwitterbot/39817",
+              "description": "Your trading ideas, turned into AI agents that never log off.",
+              "text": "Your trading ideas, turned into AI agents that never log off."
+            },
+            {
+              "source": "TG",
+              "project": "Bons",
+              "account": "tradebons",
+              "alpha": "well",
+              "seenAt": "2026-11-06T05:11:05+00:00",
+              "messageId": "dodtwitterbot/39838",
+              "description": "Your trading ideas, turned into AI agents that never log off.",
+              "text": "Your trading ideas, turned into AI agents that never log off."
+            }
+          ],
+          "text": " Bons tradebons Your trading ideas, turned into AI agents that never log off. Bons tradebons Your trading ideas, turned into AI agents that never log off. Bons tradebons Your trading ideas, turned into AI agents that never log off.",
+          "score": 6,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
         {
           "project": "Alber Blanc",
           "account": "Alber_Blanc_",
@@ -18411,53 +18784,6 @@
             }
           ],
           "text": " Alber Blanc Alber_Blanc_ Alber Blanc is a proprietary trading firm and derivatives market maker providing exchange liquidity, focused on emerging markets. CH · CY · NL Alber Blanc Alber_Blanc_ Alber Blanc is a proprietary trading firm and derivatives market maker providing exchange liquidity, focused on emerging markets. CH · CY · NL",
-          "score": 4,
-          "displayTier": "focus",
-          "avatarUrl": "",
-          "dayStatus": "new"
-        },
-        {
-          "project": "Bons",
-          "account": "tradebons",
-          "sources": [
-            "TG"
-          ],
-          "alphas": [
-            "BearzVerse",
-            "unsynned"
-          ],
-          "tgAlphas": [
-            "BearzVerse",
-            "unsynned"
-          ],
-          "xAlphas": [],
-          "mentions": 2,
-          "firstSeen": "2026-11-05T19:20:36+00:00",
-          "lastSeen": "2026-11-05T19:28:46+00:00",
-          "description": "Your trading ideas, turned into AI agents that never log off.",
-          "rows": [
-            {
-              "source": "TG",
-              "project": "Bons",
-              "account": "tradebons",
-              "alpha": "unsynned",
-              "seenAt": "2026-11-05T19:20:36+00:00",
-              "messageId": "dodtwitterbot/39816",
-              "description": "Your trading ideas, turned into AI agents that never log off.",
-              "text": "Your trading ideas, turned into AI agents that never log off."
-            },
-            {
-              "source": "TG",
-              "project": "Bons",
-              "account": "tradebons",
-              "alpha": "BearzVerse",
-              "seenAt": "2026-11-05T19:28:46+00:00",
-              "messageId": "dodtwitterbot/39817",
-              "description": "Your trading ideas, turned into AI agents that never log off.",
-              "text": "Your trading ideas, turned into AI agents that never log off."
-            }
-          ],
-          "text": " Bons tradebons Your trading ideas, turned into AI agents that never log off. Bons tradebons Your trading ideas, turned into AI agents that never log off.",
           "score": 4,
           "displayTier": "focus",
           "avatarUrl": "",
@@ -18511,6 +18837,41 @@
           "dayStatus": "repeat"
         },
         {
+          "project": "Arena Launch",
+          "account": "ArenaElysium",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "A佬"
+          ],
+          "tgAlphas": [
+            "A佬"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-06T06:08:51+00:00",
+          "lastSeen": "2026-11-06T06:08:51+00:00",
+          "description": "ARΣNA - The launchpad and trading platform for Elysium.\n0 to launch. 1% swap fee: 85% to creators or their holders, 15% to Arena.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Arena Launch",
+              "account": "ArenaElysium",
+              "alpha": "A佬",
+              "seenAt": "2026-11-06T06:08:51+00:00",
+              "messageId": "dodtwitterbot/39841",
+              "description": "ARΣNA - The launchpad and trading platform for Elysium.\n0 to launch. 1% swap fee: 85% to creators or their holders, 15% to Arena.",
+              "text": "ARΣNA - The launchpad and trading platform for Elysium.\n0 to launch. 1% swap fee: 85% to creators or their holders, 15% to Arena."
+            }
+          ],
+          "text": " Arena Launch ArenaElysium ARΣNA - The launchpad and trading platform for Elysium.\n0 to launch. 1% swap fee: 85% to creators or their holders, 15% to Arena.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
           "project": "CeilingDotFun",
           "account": "CeilingDotFun",
           "sources": [
@@ -18544,6 +18905,76 @@
           "displayTier": "candidate",
           "avatarUrl": "",
           "dayStatus": "new"
+        },
+        {
+          "project": "ghostonelysium",
+          "account": "ghostonelysium",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-06T07:38:02+00:00",
+          "lastSeen": "2026-11-06T07:38:02+00:00",
+          "description": "Elysium's first protocol. Private balances. Private perps on Hyperliquid. Leave no trace. &#036;GHOST",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "ghostonelysium",
+              "account": "ghostonelysium",
+              "alpha": "阿宏",
+              "seenAt": "2026-11-06T07:38:02+00:00",
+              "messageId": "dodtwitterbot/39853",
+              "description": "Elysium's first protocol. Private balances. Private perps on Hyperliquid. Leave no trace. &#036;GHOST",
+              "text": "Elysium's first protocol. Private balances. Private perps on Hyperliquid. Leave no trace. &#036;GHOST"
+            }
+          ],
+          "text": " ghostonelysium ghostonelysium Elysium's first protocol. Private balances. Private perps on Hyperliquid. Leave no trace. &#036;GHOST",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Homer",
+          "account": "homer_fi",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-06T05:18:21+00:00",
+          "lastSeen": "2026-11-06T05:18:21+00:00",
+          "description": "The liquidity layer for Elysium.\n\nPowered by &#036;HOMER\n0x365Be4728d0Ee2140e8b75A05C5DCf6b7D76399A",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Homer",
+              "account": "homer_fi",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-06T05:18:21+00:00",
+              "messageId": "dodtwitterbot/39839",
+              "description": "The liquidity layer for Elysium.\n\nPowered by &#036;HOMER\n0x365Be4728d0Ee2140e8b75A05C5DCf6b7D76399A",
+              "text": "The liquidity layer for Elysium.\n\nPowered by &#036;HOMER\n0x365Be4728d0Ee2140e8b75A05C5DCf6b7D76399A"
+            }
+          ],
+          "text": " Homer homer_fi The liquidity layer for Elysium.\n\nPowered by &#036;HOMER\n0x365Be4728d0Ee2140e8b75A05C5DCf6b7D76399A",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
         },
         {
           "project": "Hypercall by &#036;SYN",
@@ -18651,6 +19082,111 @@
           "dayStatus": "new"
         },
         {
+          "project": "Neotics",
+          "account": "neoticsio",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "well"
+          ],
+          "tgAlphas": [
+            "well"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-06T00:44:48+00:00",
+          "lastSeen": "2026-11-06T00:44:48+00:00",
+          "description": "Robots learn from people.\nOn @Enter_Elysium",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Neotics",
+              "account": "neoticsio",
+              "alpha": "well",
+              "seenAt": "2026-11-06T00:44:48+00:00",
+              "messageId": "dodtwitterbot/39826",
+              "description": "Robots learn from people.\nOn @Enter_Elysium",
+              "text": "Robots learn from people.\nOn @Enter_Elysium"
+            }
+          ],
+          "text": " Neotics neoticsio Robots learn from people.\nOn @Enter_Elysium",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Nexaria",
+          "account": "playnexaria",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "A佬"
+          ],
+          "tgAlphas": [
+            "A佬"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-06T03:42:01+00:00",
+          "lastSeen": "2026-11-06T03:42:01+00:00",
+          "description": "You start with a mining ship. Nobody said you have to stay a miner.\n\nBrowser space MMO on @RobinhoodCrypto · Built by @lisaweb3",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Nexaria",
+              "account": "playnexaria",
+              "alpha": "A佬",
+              "seenAt": "2026-11-06T03:42:01+00:00",
+              "messageId": "dodtwitterbot/39831",
+              "description": "You start with a mining ship. Nobody said you have to stay a miner.\n\nBrowser space MMO on @RobinhoodCrypto · Built by @lisaweb3",
+              "text": "You start with a mining ship. Nobody said you have to stay a miner.\n\nBrowser space MMO on @RobinhoodCrypto · Built by @lisaweb3"
+            }
+          ],
+          "text": " Nexaria playnexaria You start with a mining ship. Nobody said you have to stay a miner.\n\nBrowser space MMO on @RobinhoodCrypto · Built by @lisaweb3",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "poonks",
+          "account": "poonksdotfun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BTC alpha"
+          ],
+          "tgAlphas": [
+            "BTC alpha"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-06T06:31:23+00:00",
+          "lastSeen": "2026-11-06T06:31:23+00:00",
+          "description": "something is culturing. 🟣\nart. entertainment. rebellion.\njoin the poonk revolt.\n\nminting soon on @robinhoodcrypto on @opensea\n&#036;POONK — no CA yet.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "poonks",
+              "account": "poonksdotfun",
+              "alpha": "BTC alpha",
+              "seenAt": "2026-11-06T06:31:23+00:00",
+              "messageId": "dodtwitterbot/39844",
+              "description": "something is culturing. 🟣\nart. entertainment. rebellion.\njoin the poonk revolt.\n\nminting soon on @robinhoodcrypto on @opensea\n&#036;POONK — no CA yet.",
+              "text": "something is culturing. 🟣\nart. entertainment. rebellion.\njoin the poonk revolt.\n\nminting soon on @robinhoodcrypto on @opensea\n&#036;POONK — no CA yet."
+            }
+          ],
+          "text": " poonks poonksdotfun something is culturing. 🟣\nart. entertainment. rebellion.\njoin the poonk revolt.\n\nminting soon on @robinhoodcrypto on @opensea\n&#036;POONK — no CA yet.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
           "project": "punk.fun",
           "account": "punkdotfun",
           "sources": [
@@ -18715,6 +19251,41 @@
             }
           ],
           "text": " Quoted quoted_xyz Every token, quoted in a stock. Every address between quotes.\n\n&#036;QUOTED now live on @Enter_Elysium",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Solana Labs",
+          "account": "solanalabs",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Skrchen666(钻石手伤心版 绝对纸手之人）"
+          ],
+          "tgAlphas": [
+            "Skrchen666(钻石手伤心版 绝对纸手之人）"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-05T23:03:56+00:00",
+          "lastSeen": "2026-11-05T23:03:56+00:00",
+          "description": "Solana Labs is a technology company that develops and invests in web3 products and the builder of @SolanaMobile .",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Solana Labs",
+              "account": "solanalabs",
+              "alpha": "Skrchen666(钻石手伤心版 绝对纸手之人）",
+              "seenAt": "2026-11-05T23:03:56+00:00",
+              "messageId": "dodtwitterbot/39824",
+              "description": "Solana Labs is a technology company that develops and invests in web3 products and the builder of @SolanaMobile .",
+              "text": "Solana Labs is a technology company that develops and invests in web3 products and the builder of @SolanaMobile ."
+            }
+          ],
+          "text": " Solana Labs solanalabs Solana Labs is a technology company that develops and invests in web3 products and the builder of @SolanaMobile .",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -34598,164 +35169,169 @@
   ],
   "reports": [
     {
+      "file": "2026-11-06-0835-telegram-update.md",
+      "title": "2026-11-06-0835-telegram-update",
+      "updatedAt": "2026-11-06T08:35:41.183Z"
+    },
+    {
       "file": "2026-11-05-2256-telegram-update.md",
       "title": "2026-11-05-2256-telegram-update",
-      "updatedAt": "2026-11-05T22:56:08.709Z"
+      "updatedAt": "2026-11-06T08:35:37.960Z"
     },
     {
       "file": "2026-11-05-1742-telegram-update.md",
       "title": "2026-11-05-1742-telegram-update",
-      "updatedAt": "2026-11-05T22:56:03.907Z"
+      "updatedAt": "2026-11-06T08:35:37.960Z"
     },
     {
       "file": "2026-11-05-0836-telegram-update.md",
       "title": "2026-11-05-0836-telegram-update",
-      "updatedAt": "2026-11-05T22:56:03.907Z"
+      "updatedAt": "2026-11-06T08:35:37.960Z"
     },
     {
       "file": "2026-11-04-2255-telegram-update.md",
       "title": "2026-11-04-2255-telegram-update",
-      "updatedAt": "2026-11-05T22:56:03.907Z"
+      "updatedAt": "2026-11-06T08:35:37.960Z"
     },
     {
       "file": "2026-11-04-1737-telegram-update.md",
       "title": "2026-11-04-1737-telegram-update",
-      "updatedAt": "2026-11-05T22:56:03.907Z"
+      "updatedAt": "2026-11-06T08:35:37.960Z"
     },
     {
       "file": "2026-11-04-0810-telegram-update.md",
       "title": "2026-11-04-0810-telegram-update",
-      "updatedAt": "2026-11-05T22:56:03.907Z"
+      "updatedAt": "2026-11-06T08:35:37.960Z"
     },
     {
       "file": "2026-11-04-0143-telegram-update.md",
       "title": "2026-11-04-0143-telegram-update",
-      "updatedAt": "2026-11-05T22:56:03.907Z"
+      "updatedAt": "2026-11-06T08:35:37.960Z"
     },
     {
       "file": "2026-11-03-2018-telegram-update.md",
       "title": "2026-11-03-2018-telegram-update",
-      "updatedAt": "2026-11-05T22:56:03.907Z"
+      "updatedAt": "2026-11-06T08:35:37.960Z"
     },
     {
       "file": "2026-11-03-1302-telegram-update.md",
       "title": "2026-11-03-1302-telegram-update",
-      "updatedAt": "2026-11-05T22:56:03.907Z"
+      "updatedAt": "2026-11-06T08:35:37.960Z"
     },
     {
       "file": "2026-11-03-0306-telegram-update.md",
       "title": "2026-11-03-0306-telegram-update",
-      "updatedAt": "2026-11-05T22:56:03.907Z"
+      "updatedAt": "2026-11-06T08:35:37.960Z"
     },
     {
       "file": "2026-11-02-1950-telegram-update.md",
       "title": "2026-11-02-1950-telegram-update",
-      "updatedAt": "2026-11-05T22:56:03.907Z"
+      "updatedAt": "2026-11-06T08:35:37.960Z"
     },
     {
       "file": "2026-11-02-0826-telegram-update.md",
       "title": "2026-11-02-0826-telegram-update",
-      "updatedAt": "2026-11-05T22:56:03.907Z"
+      "updatedAt": "2026-11-06T08:35:37.960Z"
     },
     {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-05T22:56:03.907Z"
+      "updatedAt": "2026-11-06T08:35:37.960Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-05T22:56:03.907Z"
+      "updatedAt": "2026-11-06T08:35:37.960Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-05T22:56:03.907Z"
+      "updatedAt": "2026-11-06T08:35:37.960Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-05T22:56:03.907Z"
+      "updatedAt": "2026-11-06T08:35:37.960Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-05T22:56:03.907Z"
+      "updatedAt": "2026-11-06T08:35:37.960Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-05T22:56:03.907Z"
+      "updatedAt": "2026-11-06T08:35:37.960Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-05T22:56:03.907Z"
+      "updatedAt": "2026-11-06T08:35:37.960Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-05T22:56:03.907Z"
+      "updatedAt": "2026-11-06T08:35:37.960Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-05T22:56:03.907Z"
+      "updatedAt": "2026-11-06T08:35:37.960Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-05T22:56:03.907Z"
+      "updatedAt": "2026-11-06T08:35:37.960Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-05T22:56:03.907Z"
+      "updatedAt": "2026-11-06T08:35:37.960Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-05T22:56:03.907Z"
+      "updatedAt": "2026-11-06T08:35:37.960Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-05T22:56:03.907Z"
+      "updatedAt": "2026-11-06T08:35:37.960Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-05T22:56:03.907Z"
+      "updatedAt": "2026-11-06T08:35:37.960Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-05T22:56:03.907Z"
+      "updatedAt": "2026-11-06T08:35:37.960Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-05T22:56:03.907Z"
+      "updatedAt": "2026-11-06T08:35:37.960Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-05T22:56:03.907Z"
+      "updatedAt": "2026-11-06T08:35:37.960Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-05T22:56:03.907Z"
+      "updatedAt": "2026-11-06T08:35:37.960Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-05T22:56:03.907Z"
+      "updatedAt": "2026-11-06T08:35:37.960Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-05T22:56:03.905Z"
+      "updatedAt": "2026-11-06T08:35:37.959Z"
     }
   ]
 }
