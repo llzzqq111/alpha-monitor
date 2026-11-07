@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-07T07:51:17.411Z",
+  "generatedAt": "2026-11-07T15:56:52.309Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 40038,
-    "lastMessageAt": "2026-11-07T07:31:50+00:00",
-    "lastCheckedAt": "2026-11-07T07:51:17.296Z",
-    "previousMessageId": 39994,
-    "pagesRead": 3,
-    "messagesRead": 44,
-    "newProjectRecords": 15,
+    "lastMessageId": 40073,
+    "lastMessageAt": "2026-11-07T15:51:23+00:00",
+    "lastCheckedAt": "2026-11-07T15:56:52.174Z",
+    "previousMessageId": 40038,
+    "pagesRead": 2,
+    "messagesRead": 35,
+    "newProjectRecords": 8,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 622,
+    "telegramRows": 630,
     "xRows": 0,
-    "projects": 380,
+    "projects": 384,
     "crossSource": 0
   },
   "projects": [
@@ -3184,6 +3184,64 @@
       "avatarUrl": ""
     },
     {
+      "project": "Mergers & Agents",
+      "account": "theAgentFirm",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "speest 💎",
+        "蛋总",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "speest 💎",
+        "蛋总",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-11-06T09:17:45+00:00",
+      "lastSeen": "2026-11-07T14:53:11+00:00",
+      "description": "Building the AI agent ecosystem on @Enter_Elysium .\n\n5,280 agentic NFTs, each with a desk, a wallet and a career on-chain\n\n▎ Mergers & Agents · Doors open 11.9",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Mergers & Agents",
+          "account": "theAgentFirm",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-06T09:17:45+00:00",
+          "messageId": "dodtwitterbot/39863",
+          "description": "Building the AI agent ecosystem on @Enter_Elysium .\n\n5,280 agentic NFTs, each with a desk, a wallet and a career on-chain\n\n▎ Mergers & Agents · Doors open 11.9",
+          "text": "Building the AI agent ecosystem on @Enter_Elysium .\n\n5,280 agentic NFTs, each with a desk, a wallet and a career on-chain\n\n▎ Mergers & Agents · Doors open 11.9"
+        },
+        {
+          "source": "TG",
+          "project": "Mergers & Agents",
+          "account": "theAgentFirm",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-07T06:12:17+00:00",
+          "messageId": "dodtwitterbot/40033",
+          "description": "Building the AI agent ecosystem on @Enter_Elysium .\n\n5,280 agentic NFTs, each with a desk, a wallet and a career on-chain\n\n▎ Mergers & Agents · Doors open 11.9",
+          "text": "Building the AI agent ecosystem on @Enter_Elysium .\n\n5,280 agentic NFTs, each with a desk, a wallet and a career on-chain\n\n▎ Mergers & Agents · Doors open 11.9"
+        },
+        {
+          "source": "TG",
+          "project": "Mergers & Agents",
+          "account": "theAgentFirm",
+          "alpha": "speest 💎",
+          "seenAt": "2026-11-07T14:53:11+00:00",
+          "messageId": "dodtwitterbot/40068",
+          "description": "Building the AI agent ecosystem on @Enter_Elysium .\n\n5,280 agentic NFTs, each with a desk, a wallet and a career on-chain\n\n▎ Mergers & Agents · Doors open 11.9",
+          "text": "Building the AI agent ecosystem on @Enter_Elysium .\n\n5,280 agentic NFTs, each with a desk, a wallet and a career on-chain\n\n▎ Mergers & Agents · Doors open 11.9"
+        }
+      ],
+      "text": " Mergers & Agents theAgentFirm Building the AI agent ecosystem on @Enter_Elysium .\n\n5,280 agentic NFTs, each with a desk, a wallet and a career on-chain\n\n▎ Mergers & Agents · Doors open 11.9 Mergers & Agents theAgentFirm Building the AI agent ecosystem on @Enter_Elysium .\n\n5,280 agentic NFTs, each with a desk, a wallet and a career on-chain\n\n▎ Mergers & Agents · Doors open 11.9 Mergers & Agents theAgentFirm Building the AI agent ecosystem on @Enter_Elysium .\n\n5,280 agentic NFTs, each with a desk, a wallet and a career on-chain\n\n▎ Mergers & Agents · Doors open 11.9",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "NULORA",
       "account": "nuloraio",
       "sources": [
@@ -5882,6 +5940,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "Korini",
+      "account": "Korinitrade",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "CSR",
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "CSR",
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-01T16:52:34+00:00",
+      "lastSeen": "2026-11-07T11:12:54+00:00",
+      "description": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Korini",
+          "account": "Korinitrade",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-01T16:52:34+00:00",
+          "messageId": "dodtwitterbot/39082",
+          "description": "all in one on elysium mainnet trading terminal RWAs pairing lauchapad",
+          "text": "all in one on elysium mainnet trading terminal RWAs pairing lauchapad"
+        },
+        {
+          "source": "TG",
+          "project": "Korini",
+          "account": "Korinitrade",
+          "alpha": "CSR",
+          "seenAt": "2026-11-07T11:12:54+00:00",
+          "messageId": "dodtwitterbot/40049",
+          "description": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
+          "text": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social"
+        }
+      ],
+      "text": " Korini Korinitrade all in one on elysium mainnet trading terminal RWAs pairing lauchapad Korini Korinitrade Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Launch Craft",
       "account": "LaunchCraft_xyz",
       "sources": [
@@ -6107,52 +6211,6 @@
         }
       ],
       "text": " Maschina MaschinaLabs Building infrastructure for machines to work, transact, and earn. Maschina MaschinaLabs Building infrastructure for machines to work, transact, and earn.",
-      "score": 4,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Mergers & Agents",
-      "account": "theAgentFirm",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "蛋总",
-        "阿宏"
-      ],
-      "tgAlphas": [
-        "蛋总",
-        "阿宏"
-      ],
-      "xAlphas": [],
-      "mentions": 2,
-      "firstSeen": "2026-11-06T09:17:45+00:00",
-      "lastSeen": "2026-11-07T06:12:17+00:00",
-      "description": "Building the AI agent ecosystem on @Enter_Elysium .\n\n5,280 agentic NFTs, each with a desk, a wallet and a career on-chain\n\n▎ Mergers & Agents · Doors open 11.9",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Mergers & Agents",
-          "account": "theAgentFirm",
-          "alpha": "蛋总",
-          "seenAt": "2026-11-06T09:17:45+00:00",
-          "messageId": "dodtwitterbot/39863",
-          "description": "Building the AI agent ecosystem on @Enter_Elysium .\n\n5,280 agentic NFTs, each with a desk, a wallet and a career on-chain\n\n▎ Mergers & Agents · Doors open 11.9",
-          "text": "Building the AI agent ecosystem on @Enter_Elysium .\n\n5,280 agentic NFTs, each with a desk, a wallet and a career on-chain\n\n▎ Mergers & Agents · Doors open 11.9"
-        },
-        {
-          "source": "TG",
-          "project": "Mergers & Agents",
-          "account": "theAgentFirm",
-          "alpha": "阿宏",
-          "seenAt": "2026-11-07T06:12:17+00:00",
-          "messageId": "dodtwitterbot/40033",
-          "description": "Building the AI agent ecosystem on @Enter_Elysium .\n\n5,280 agentic NFTs, each with a desk, a wallet and a career on-chain\n\n▎ Mergers & Agents · Doors open 11.9",
-          "text": "Building the AI agent ecosystem on @Enter_Elysium .\n\n5,280 agentic NFTs, each with a desk, a wallet and a career on-chain\n\n▎ Mergers & Agents · Doors open 11.9"
-        }
-      ],
-      "text": " Mergers & Agents theAgentFirm Building the AI agent ecosystem on @Enter_Elysium .\n\n5,280 agentic NFTs, each with a desk, a wallet and a career on-chain\n\n▎ Mergers & Agents · Doors open 11.9 Mergers & Agents theAgentFirm Building the AI agent ecosystem on @Enter_Elysium .\n\n5,280 agentic NFTs, each with a desk, a wallet and a career on-chain\n\n▎ Mergers & Agents · Doors open 11.9",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -6710,6 +6768,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "Quoted",
+      "account": "quoted_xyz",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "CSR",
+        "speest 💎"
+      ],
+      "tgAlphas": [
+        "CSR",
+        "speest 💎"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-05T18:26:08+00:00",
+      "lastSeen": "2026-11-07T14:20:45+00:00",
+      "description": "Every token, quoted in a stock. Every address between quotes.\n\n&#036;QUOTED now live on @Enter_Elysium",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Quoted",
+          "account": "quoted_xyz",
+          "alpha": "CSR",
+          "seenAt": "2026-11-05T18:26:08+00:00",
+          "messageId": "dodtwitterbot/39809",
+          "description": "Every token, quoted in a stock. Every address between quotes.\n\n&#036;QUOTED now live on @Enter_Elysium",
+          "text": "Every token, quoted in a stock. Every address between quotes.\n\n&#036;QUOTED now live on @Enter_Elysium"
+        },
+        {
+          "source": "TG",
+          "project": "Quoted",
+          "account": "quoted_xyz",
+          "alpha": "speest 💎",
+          "seenAt": "2026-11-07T14:20:45+00:00",
+          "messageId": "dodtwitterbot/40064",
+          "description": "Every token, quoted in a stock. Every address between quotes.\n\n&#036;QUOTED now live on @Enter_Elysium",
+          "text": "Every token, quoted in a stock. Every address between quotes.\n\n&#036;QUOTED now live on @Enter_Elysium"
+        }
+      ],
+      "text": " Quoted quoted_xyz Every token, quoted in a stock. Every address between quotes.\n\n&#036;QUOTED now live on @Enter_Elysium Quoted quoted_xyz Every token, quoted in a stock. Every address between quotes.\n\n&#036;QUOTED now live on @Enter_Elysium",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Realbond",
       "account": "realbondai",
       "sources": [
@@ -7119,6 +7223,52 @@
         }
       ],
       "text": " Todd ToshXguys TapeOut 生态发射台｜以 &#036;BEM为计价基准 @ToshProtocol\n\nTG: https://t.co/FHbm4oX520 Todd ToshXguys TapeOut 生态发射台｜以 &#036;BEM为计价基准 @ToshProtocol\n\nTG: https://t.co/FHbm4oX520",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "torpor",
+      "account": "torpornet",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "蛋总",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-01T04:43:52+00:00",
+      "lastSeen": "2026-11-07T12:24:31+00:00",
+      "description": "https://t.co/2bFEMjhiUw is the intelligence layer for Elysium NFTs. apply for wl https://t.co/h7N4CaglIV",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "torpor",
+          "account": "torpornet",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-01T04:43:52+00:00",
+          "messageId": "dodtwitterbot/38874",
+          "description": "https://t.co/2bFEMjhiUw is the intelligence layer for Elysium NFTs. apply for wl https://t.co/h7N4CaglIV",
+          "text": "https://t.co/2bFEMjhiUw is the intelligence layer for Elysium NFTs. apply for wl https://t.co/h7N4CaglIV"
+        },
+        {
+          "source": "TG",
+          "project": "torpor",
+          "account": "torpornet",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-07T12:24:31+00:00",
+          "messageId": "dodtwitterbot/40056",
+          "description": "https://t.co/2bFEMjhiUw is the intelligence layer for Elysium NFTs. apply for wl https://t.co/h7N4CaglIV",
+          "text": "https://t.co/2bFEMjhiUw is the intelligence layer for Elysium NFTs. apply for wl https://t.co/h7N4CaglIV"
+        }
+      ],
+      "text": " torpor torpornet https://t.co/2bFEMjhiUw is the intelligence layer for Elysium NFTs. apply for wl https://t.co/h7N4CaglIV torpor torpornet https://t.co/2bFEMjhiUw is the intelligence layer for Elysium NFTs. apply for wl https://t.co/h7N4CaglIV",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -11220,40 +11370,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Korini",
-      "account": "Korinitrade",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "蛋总"
-      ],
-      "tgAlphas": [
-        "蛋总"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-01T16:52:34+00:00",
-      "lastSeen": "2026-11-01T16:52:34+00:00",
-      "description": "all in one on elysium mainnet trading terminal RWAs pairing lauchapad",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Korini",
-          "account": "Korinitrade",
-          "alpha": "蛋总",
-          "seenAt": "2026-11-01T16:52:34+00:00",
-          "messageId": "dodtwitterbot/39082",
-          "description": "all in one on elysium mainnet trading terminal RWAs pairing lauchapad",
-          "text": "all in one on elysium mainnet trading terminal RWAs pairing lauchapad"
-        }
-      ],
-      "text": " Korini Korinitrade all in one on elysium mainnet trading terminal RWAs pairing lauchapad",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
       "project": "Kurtosis Labs",
       "account": "KurtosisLabs",
       "sources": [
@@ -11725,6 +11841,40 @@
         }
       ],
       "text": " Matcha 🍵 ✨ matchaxyz The best DEX aggregator on the planet. Get more in your wallet with Matcha. Swap coins within seconds of launch on Base, Solana, Robinhood, BSC + more.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Medbay",
+      "account": "MedbayVault",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "CSR"
+      ],
+      "tgAlphas": [
+        "CSR"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-07T09:33:44+00:00",
+      "lastSeen": "2026-11-07T09:33:44+00:00",
+      "description": "One shared market-making vault for new coins on Elysium\n\nPass the check → liquidity from minute one\nFail → stay on the ground",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Medbay",
+          "account": "MedbayVault",
+          "alpha": "CSR",
+          "seenAt": "2026-11-07T09:33:44+00:00",
+          "messageId": "dodtwitterbot/40043",
+          "description": "One shared market-making vault for new coins on Elysium\n\nPass the check → liquidity from minute one\nFail → stay on the ground",
+          "text": "One shared market-making vault for new coins on Elysium\n\nPass the check → liquidity from minute one\nFail → stay on the ground"
+        }
+      ],
+      "text": " Medbay MedbayVault One shared market-making vault for new coins on Elysium\n\nPass the check → liquidity from minute one\nFail → stay on the ground",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -12303,6 +12453,40 @@
         }
       ],
       "text": " Open Teleport openteleportdev Move your agents. Anywhere\n\nCa: 0xa4d0d038c6998c43f672fbcd21324c4363a2371c",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Orchard",
+      "account": "orchardyield",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "CSR"
+      ],
+      "tgAlphas": [
+        "CSR"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-07T10:44:56+00:00",
+      "lastSeen": "2026-11-07T10:44:56+00:00",
+      "description": "Yield markets on Elysium.\nLock a fixed rate or go long the yield.\n&#036;ORCH",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Orchard",
+          "account": "orchardyield",
+          "alpha": "CSR",
+          "seenAt": "2026-11-07T10:44:56+00:00",
+          "messageId": "dodtwitterbot/40047",
+          "description": "Yield markets on Elysium.\nLock a fixed rate or go long the yield.\n&#036;ORCH",
+          "text": "Yield markets on Elysium.\nLock a fixed rate or go long the yield.\n&#036;ORCH"
+        }
+      ],
+      "text": " Orchard orchardyield Yield markets on Elysium.\nLock a fixed rate or go long the yield.\n&#036;ORCH",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -13022,40 +13206,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Quoted",
-      "account": "quoted_xyz",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "CSR"
-      ],
-      "tgAlphas": [
-        "CSR"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-05T18:26:08+00:00",
-      "lastSeen": "2026-11-05T18:26:08+00:00",
-      "description": "Every token, quoted in a stock. Every address between quotes.\n\n&#036;QUOTED now live on @Enter_Elysium",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Quoted",
-          "account": "quoted_xyz",
-          "alpha": "CSR",
-          "seenAt": "2026-11-05T18:26:08+00:00",
-          "messageId": "dodtwitterbot/39809",
-          "description": "Every token, quoted in a stock. Every address between quotes.\n\n&#036;QUOTED now live on @Enter_Elysium",
-          "text": "Every token, quoted in a stock. Every address between quotes.\n\n&#036;QUOTED now live on @Enter_Elysium"
-        }
-      ],
-      "text": " Quoted quoted_xyz Every token, quoted in a stock. Every address between quotes.\n\n&#036;QUOTED now live on @Enter_Elysium",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
       "project": "Ra Protocol",
       "account": "ra_financial",
       "sources": [
@@ -13765,6 +13915,40 @@
         }
       ],
       "text": " Savitha Sameerdas SavithaSameer AI @coinbase . I tweet about tech. Views my own.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "SHADES",
+      "account": "ShadesofEly",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "发誓要做永赚大师"
+      ],
+      "tgAlphas": [
+        "发誓要做永赚大师"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-07T10:14:01+00:00",
+      "lastSeen": "2026-11-07T10:14:01+00:00",
+      "description": "an onchain experiment. 4,600 shades hidden in elysium, mined by whoever does the work. @Enter_Elysium · nov 9.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "SHADES",
+          "account": "ShadesofEly",
+          "alpha": "发誓要做永赚大师",
+          "seenAt": "2026-11-07T10:14:01+00:00",
+          "messageId": "dodtwitterbot/40045",
+          "description": "an onchain experiment. 4,600 shades hidden in elysium, mined by whoever does the work. @Enter_Elysium · nov 9.",
+          "text": "an onchain experiment. 4,600 shades hidden in elysium, mined by whoever does the work. @Enter_Elysium · nov 9."
+        }
+      ],
+      "text": " SHADES ShadesofEly an onchain experiment. 4,600 shades hidden in elysium, mined by whoever does the work. @Enter_Elysium · nov 9.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -14824,40 +15008,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "torpor",
-      "account": "torpornet",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "蛋总"
-      ],
-      "tgAlphas": [
-        "蛋总"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-01T04:43:52+00:00",
-      "lastSeen": "2026-11-01T04:43:52+00:00",
-      "description": "https://t.co/2bFEMjhiUw is the intelligence layer for Elysium NFTs. apply for wl https://t.co/h7N4CaglIV",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "torpor",
-          "account": "torpornet",
-          "alpha": "蛋总",
-          "seenAt": "2026-11-01T04:43:52+00:00",
-          "messageId": "dodtwitterbot/38874",
-          "description": "https://t.co/2bFEMjhiUw is the intelligence layer for Elysium NFTs. apply for wl https://t.co/h7N4CaglIV",
-          "text": "https://t.co/2bFEMjhiUw is the intelligence layer for Elysium NFTs. apply for wl https://t.co/h7N4CaglIV"
-        }
-      ],
-      "text": " torpor torpornet https://t.co/2bFEMjhiUw is the intelligence layer for Elysium NFTs. apply for wl https://t.co/h7N4CaglIV",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
       "project": "Touchmark",
       "account": "touchmark_ai",
       "sources": [
@@ -15125,6 +15275,40 @@
         }
       ],
       "text": " Veins veindotspace The first mining protocol on Elysium.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Vyro",
+      "account": "vyropro",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "CSR"
+      ],
+      "tgAlphas": [
+        "CSR"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-07T10:32:15+00:00",
+      "lastSeen": "2026-11-07T10:32:15+00:00",
+      "description": "Perpetual hedging on Elysium, built on Hyperliquid. Hold the asset, hedge the downside. Non-custodial.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Vyro",
+          "account": "vyropro",
+          "alpha": "CSR",
+          "seenAt": "2026-11-07T10:32:15+00:00",
+          "messageId": "dodtwitterbot/40046",
+          "description": "Perpetual hedging on Elysium, built on Hyperliquid. Hold the asset, hedge the downside. Non-custodial.",
+          "text": "Perpetual hedging on Elysium, built on Hyperliquid. Hold the asset, hedge the downside. Non-custodial."
+        }
+      ],
+      "text": " Vyro vyropro Perpetual hedging on Elysium, built on Hyperliquid. Hold the asset, hedge the downside. Non-custodial.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -16603,6 +16787,22 @@
       "avatarUrl": ""
     },
     {
+      "project": "Mergers & Agents",
+      "x_account": "theAgentFirm",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "speest 💎",
+        "蛋总",
+        "阿宏"
+      ],
+      "description": "Building the AI agent ecosystem on @Enter_Elysium .\n\n5,280 agentic NFTs, each with a desk, a wallet and a career on-chain\n\n▎ Mergers & Agents · Doors open 11.9",
+      "first_seen_utc": "2026-11-06T09:17:45+00:00",
+      "last_seen_utc": "2026-11-07T14:53:11+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
       "project": "NULORA",
       "x_account": "nuloraio",
       "total_mentions": 3,
@@ -17442,6 +17642,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "Korini",
+      "x_account": "Korinitrade",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "CSR",
+        "蛋总"
+      ],
+      "description": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
+      "first_seen_utc": "2026-11-01T16:52:34+00:00",
+      "last_seen_utc": "2026-11-07T11:12:54+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Launch Craft",
       "x_account": "LaunchCraft_xyz",
       "total_mentions": 2,
@@ -17513,21 +17728,6 @@
       "description": "Building infrastructure for machines to work, transact, and earn.",
       "first_seen_utc": "2026-10-31T20:39:57+00:00",
       "last_seen_utc": "2026-10-31T21:21:27+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Mergers & Agents",
-      "x_account": "theAgentFirm",
-      "total_mentions": 2,
-      "unique_alphas": 2,
-      "alphas": [
-        "蛋总",
-        "阿宏"
-      ],
-      "description": "Building the AI agent ecosystem on @Enter_Elysium .\n\n5,280 agentic NFTs, each with a desk, a wallet and a career on-chain\n\n▎ Mergers & Agents · Doors open 11.9",
-      "first_seen_utc": "2026-11-06T09:17:45+00:00",
-      "last_seen_utc": "2026-11-07T06:12:17+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -17712,6 +17912,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "Quoted",
+      "x_account": "quoted_xyz",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "CSR",
+        "speest 💎"
+      ],
+      "description": "Every token, quoted in a stock. Every address between quotes.\n\n&#036;QUOTED now live on @Enter_Elysium",
+      "first_seen_utc": "2026-11-05T18:26:08+00:00",
+      "last_seen_utc": "2026-11-07T14:20:45+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Realbond",
       "x_account": "realbondai",
       "total_mentions": 2,
@@ -17843,6 +18058,21 @@
       "description": "TapeOut 生态发射台｜以 &#036;BEM为计价基准 @ToshProtocol\n\nTG: https://t.co/FHbm4oX520",
       "first_seen_utc": "2026-10-29T06:12:54+00:00",
       "last_seen_utc": "2026-10-29T07:19:07+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "torpor",
+      "x_account": "torpornet",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "蛋总",
+        "阿宏"
+      ],
+      "description": "https://t.co/2bFEMjhiUw is the intelligence layer for Elysium NFTs. apply for wl https://t.co/h7N4CaglIV",
+      "first_seen_utc": "2026-11-01T04:43:52+00:00",
+      "last_seen_utc": "2026-11-07T12:24:31+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -19506,20 +19736,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Korini",
-      "x_account": "Korinitrade",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "蛋总"
-      ],
-      "description": "all in one on elysium mainnet trading terminal RWAs pairing lauchapad",
-      "first_seen_utc": "2026-11-01T16:52:34+00:00",
-      "last_seen_utc": "2026-11-01T16:52:34+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "Kurtosis Labs",
       "x_account": "KurtosisLabs",
       "total_mentions": 1,
@@ -19712,6 +19928,20 @@
       "description": "The best DEX aggregator on the planet. Get more in your wallet with Matcha. Swap coins within seconds of launch on Base, Solana, Robinhood, BSC + more.",
       "first_seen_utc": "2026-11-02T13:24:49+00:00",
       "last_seen_utc": "2026-11-02T13:24:49+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Medbay",
+      "x_account": "MedbayVault",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "CSR"
+      ],
+      "description": "One shared market-making vault for new coins on Elysium\n\nPass the check → liquidity from minute one\nFail → stay on the ground",
+      "first_seen_utc": "2026-11-07T09:33:44+00:00",
+      "last_seen_utc": "2026-11-07T09:33:44+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -19950,6 +20180,20 @@
       "description": "Move your agents. Anywhere\n\nCa: 0xa4d0d038c6998c43f672fbcd21324c4363a2371c",
       "first_seen_utc": "2026-11-04T11:29:59+00:00",
       "last_seen_utc": "2026-11-04T11:29:59+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Orchard",
+      "x_account": "orchardyield",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "CSR"
+      ],
+      "description": "Yield markets on Elysium.\nLock a fixed rate or go long the yield.\n&#036;ORCH",
+      "first_seen_utc": "2026-11-07T10:44:56+00:00",
+      "last_seen_utc": "2026-11-07T10:44:56+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -20248,20 +20492,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Quoted",
-      "x_account": "quoted_xyz",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "CSR"
-      ],
-      "description": "Every token, quoted in a stock. Every address between quotes.\n\n&#036;QUOTED now live on @Enter_Elysium",
-      "first_seen_utc": "2026-11-05T18:26:08+00:00",
-      "last_seen_utc": "2026-11-05T18:26:08+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "Ra Protocol",
       "x_account": "ra_financial",
       "total_mentions": 1,
@@ -20552,6 +20782,20 @@
       "description": "AI @coinbase . I tweet about tech. Views my own.",
       "first_seen_utc": "2026-11-02T02:52:58+00:00",
       "last_seen_utc": "2026-11-02T02:52:58+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "SHADES",
+      "x_account": "ShadesofEly",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "发誓要做永赚大师"
+      ],
+      "description": "an onchain experiment. 4,600 shades hidden in elysium, mined by whoever does the work. @Enter_Elysium · nov 9.",
+      "first_seen_utc": "2026-11-07T10:14:01+00:00",
+      "last_seen_utc": "2026-11-07T10:14:01+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -20990,20 +21234,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "torpor",
-      "x_account": "torpornet",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "蛋总"
-      ],
-      "description": "https://t.co/2bFEMjhiUw is the intelligence layer for Elysium NFTs. apply for wl https://t.co/h7N4CaglIV",
-      "first_seen_utc": "2026-11-01T04:43:52+00:00",
-      "last_seen_utc": "2026-11-01T04:43:52+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "Touchmark",
       "x_account": "touchmark_ai",
       "total_mentions": 1,
@@ -21112,6 +21342,20 @@
       "description": "The first mining protocol on Elysium.",
       "first_seen_utc": "2026-11-02T16:43:33+00:00",
       "last_seen_utc": "2026-11-02T16:43:33+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Vyro",
+      "x_account": "vyropro",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "CSR"
+      ],
+      "description": "Perpetual hedging on Elysium, built on Hyperliquid. Hold the asset, hedge the downside. Non-custodial.",
+      "first_seen_utc": "2026-11-07T10:32:15+00:00",
+      "last_seen_utc": "2026-11-07T10:32:15+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -21413,13 +21657,13 @@
   "daily": [
     {
       "date": "2026-11-07",
-      "totalRows": 32,
-      "projectCount": 26,
-      "focusCount": 4,
-      "candidateCount": 22,
+      "totalRows": 40,
+      "projectCount": 33,
+      "focusCount": 5,
+      "candidateCount": 28,
       "crossSource": 0,
-      "newCount": 15,
-      "repeatCount": 11,
+      "newCount": 19,
+      "repeatCount": 14,
       "projects": [
         {
           "project": "half",
@@ -21632,6 +21876,53 @@
           "displayTier": "focus",
           "avatarUrl": "",
           "dayStatus": "new"
+        },
+        {
+          "project": "Mergers & Agents",
+          "account": "theAgentFirm",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "speest 💎",
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "speest 💎",
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-11-07T06:12:17+00:00",
+          "lastSeen": "2026-11-07T14:53:11+00:00",
+          "description": "Building the AI agent ecosystem on @Enter_Elysium .\n\n5,280 agentic NFTs, each with a desk, a wallet and a career on-chain\n\n▎ Mergers & Agents · Doors open 11.9",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Mergers & Agents",
+              "account": "theAgentFirm",
+              "alpha": "阿宏",
+              "seenAt": "2026-11-07T06:12:17+00:00",
+              "messageId": "dodtwitterbot/40033",
+              "description": "Building the AI agent ecosystem on @Enter_Elysium .\n\n5,280 agentic NFTs, each with a desk, a wallet and a career on-chain\n\n▎ Mergers & Agents · Doors open 11.9",
+              "text": "Building the AI agent ecosystem on @Enter_Elysium .\n\n5,280 agentic NFTs, each with a desk, a wallet and a career on-chain\n\n▎ Mergers & Agents · Doors open 11.9"
+            },
+            {
+              "source": "TG",
+              "project": "Mergers & Agents",
+              "account": "theAgentFirm",
+              "alpha": "speest 💎",
+              "seenAt": "2026-11-07T14:53:11+00:00",
+              "messageId": "dodtwitterbot/40068",
+              "description": "Building the AI agent ecosystem on @Enter_Elysium .\n\n5,280 agentic NFTs, each with a desk, a wallet and a career on-chain\n\n▎ Mergers & Agents · Doors open 11.9",
+              "text": "Building the AI agent ecosystem on @Enter_Elysium .\n\n5,280 agentic NFTs, each with a desk, a wallet and a career on-chain\n\n▎ Mergers & Agents · Doors open 11.9"
+            }
+          ],
+          "text": " Mergers & Agents theAgentFirm Building the AI agent ecosystem on @Enter_Elysium .\n\n5,280 agentic NFTs, each with a desk, a wallet and a career on-chain\n\n▎ Mergers & Agents · Doors open 11.9 Mergers & Agents theAgentFirm Building the AI agent ecosystem on @Enter_Elysium .\n\n5,280 agentic NFTs, each with a desk, a wallet and a career on-chain\n\n▎ Mergers & Agents · Doors open 11.9",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
         },
         {
           "project": "ALT L2",
@@ -21949,6 +22240,41 @@
           "dayStatus": "new"
         },
         {
+          "project": "Korini",
+          "account": "Korinitrade",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "CSR"
+          ],
+          "tgAlphas": [
+            "CSR"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-07T11:12:54+00:00",
+          "lastSeen": "2026-11-07T11:12:54+00:00",
+          "description": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Korini",
+              "account": "Korinitrade",
+              "alpha": "CSR",
+              "seenAt": "2026-11-07T11:12:54+00:00",
+              "messageId": "dodtwitterbot/40049",
+              "description": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
+              "text": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social"
+            }
+          ],
+          "text": " Korini Korinitrade Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
           "project": "Lettuce Grow 🌱",
           "account": "lettucegrow_RH",
           "sources": [
@@ -22019,39 +22345,39 @@
           "dayStatus": "repeat"
         },
         {
-          "project": "Mergers & Agents",
-          "account": "theAgentFirm",
+          "project": "Medbay",
+          "account": "MedbayVault",
           "sources": [
             "TG"
           ],
           "alphas": [
-            "阿宏"
+            "CSR"
           ],
           "tgAlphas": [
-            "阿宏"
+            "CSR"
           ],
           "xAlphas": [],
           "mentions": 1,
-          "firstSeen": "2026-11-07T06:12:17+00:00",
-          "lastSeen": "2026-11-07T06:12:17+00:00",
-          "description": "Building the AI agent ecosystem on @Enter_Elysium .\n\n5,280 agentic NFTs, each with a desk, a wallet and a career on-chain\n\n▎ Mergers & Agents · Doors open 11.9",
+          "firstSeen": "2026-11-07T09:33:44+00:00",
+          "lastSeen": "2026-11-07T09:33:44+00:00",
+          "description": "One shared market-making vault for new coins on Elysium\n\nPass the check → liquidity from minute one\nFail → stay on the ground",
           "rows": [
             {
               "source": "TG",
-              "project": "Mergers & Agents",
-              "account": "theAgentFirm",
-              "alpha": "阿宏",
-              "seenAt": "2026-11-07T06:12:17+00:00",
-              "messageId": "dodtwitterbot/40033",
-              "description": "Building the AI agent ecosystem on @Enter_Elysium .\n\n5,280 agentic NFTs, each with a desk, a wallet and a career on-chain\n\n▎ Mergers & Agents · Doors open 11.9",
-              "text": "Building the AI agent ecosystem on @Enter_Elysium .\n\n5,280 agentic NFTs, each with a desk, a wallet and a career on-chain\n\n▎ Mergers & Agents · Doors open 11.9"
+              "project": "Medbay",
+              "account": "MedbayVault",
+              "alpha": "CSR",
+              "seenAt": "2026-11-07T09:33:44+00:00",
+              "messageId": "dodtwitterbot/40043",
+              "description": "One shared market-making vault for new coins on Elysium\n\nPass the check → liquidity from minute one\nFail → stay on the ground",
+              "text": "One shared market-making vault for new coins on Elysium\n\nPass the check → liquidity from minute one\nFail → stay on the ground"
             }
           ],
-          "text": " Mergers & Agents theAgentFirm Building the AI agent ecosystem on @Enter_Elysium .\n\n5,280 agentic NFTs, each with a desk, a wallet and a career on-chain\n\n▎ Mergers & Agents · Doors open 11.9",
+          "text": " Medbay MedbayVault One shared market-making vault for new coins on Elysium\n\nPass the check → liquidity from minute one\nFail → stay on the ground",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
-          "dayStatus": "repeat"
+          "dayStatus": "new"
         },
         {
           "project": "Omnia π",
@@ -22124,6 +22450,41 @@
           "dayStatus": "repeat"
         },
         {
+          "project": "Orchard",
+          "account": "orchardyield",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "CSR"
+          ],
+          "tgAlphas": [
+            "CSR"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-07T10:44:56+00:00",
+          "lastSeen": "2026-11-07T10:44:56+00:00",
+          "description": "Yield markets on Elysium.\nLock a fixed rate or go long the yield.\n&#036;ORCH",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Orchard",
+              "account": "orchardyield",
+              "alpha": "CSR",
+              "seenAt": "2026-11-07T10:44:56+00:00",
+              "messageId": "dodtwitterbot/40047",
+              "description": "Yield markets on Elysium.\nLock a fixed rate or go long the yield.\n&#036;ORCH",
+              "text": "Yield markets on Elysium.\nLock a fixed rate or go long the yield.\n&#036;ORCH"
+            }
+          ],
+          "text": " Orchard orchardyield Yield markets on Elysium.\nLock a fixed rate or go long the yield.\n&#036;ORCH",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
           "project": "PP",
           "account": "Pocketperps_ai",
           "sources": [
@@ -22192,6 +22553,41 @@
           "displayTier": "candidate",
           "avatarUrl": "",
           "dayStatus": "new"
+        },
+        {
+          "project": "Quoted",
+          "account": "quoted_xyz",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "speest 💎"
+          ],
+          "tgAlphas": [
+            "speest 💎"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-07T14:20:45+00:00",
+          "lastSeen": "2026-11-07T14:20:45+00:00",
+          "description": "Every token, quoted in a stock. Every address between quotes.\n\n&#036;QUOTED now live on @Enter_Elysium",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Quoted",
+              "account": "quoted_xyz",
+              "alpha": "speest 💎",
+              "seenAt": "2026-11-07T14:20:45+00:00",
+              "messageId": "dodtwitterbot/40064",
+              "description": "Every token, quoted in a stock. Every address between quotes.\n\n&#036;QUOTED now live on @Enter_Elysium",
+              "text": "Every token, quoted in a stock. Every address between quotes.\n\n&#036;QUOTED now live on @Enter_Elysium"
+            }
+          ],
+          "text": " Quoted quoted_xyz Every token, quoted in a stock. Every address between quotes.\n\n&#036;QUOTED now live on @Enter_Elysium",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
         },
         {
           "project": "Ra Protocol",
@@ -22264,6 +22660,76 @@
           "dayStatus": "new"
         },
         {
+          "project": "SHADES",
+          "account": "ShadesofEly",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "发誓要做永赚大师"
+          ],
+          "tgAlphas": [
+            "发誓要做永赚大师"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-07T10:14:01+00:00",
+          "lastSeen": "2026-11-07T10:14:01+00:00",
+          "description": "an onchain experiment. 4,600 shades hidden in elysium, mined by whoever does the work. @Enter_Elysium · nov 9.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "SHADES",
+              "account": "ShadesofEly",
+              "alpha": "发誓要做永赚大师",
+              "seenAt": "2026-11-07T10:14:01+00:00",
+              "messageId": "dodtwitterbot/40045",
+              "description": "an onchain experiment. 4,600 shades hidden in elysium, mined by whoever does the work. @Enter_Elysium · nov 9.",
+              "text": "an onchain experiment. 4,600 shades hidden in elysium, mined by whoever does the work. @Enter_Elysium · nov 9."
+            }
+          ],
+          "text": " SHADES ShadesofEly an onchain experiment. 4,600 shades hidden in elysium, mined by whoever does the work. @Enter_Elysium · nov 9.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "torpor",
+          "account": "torpornet",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-07T12:24:31+00:00",
+          "lastSeen": "2026-11-07T12:24:31+00:00",
+          "description": "https://t.co/2bFEMjhiUw is the intelligence layer for Elysium NFTs. apply for wl https://t.co/h7N4CaglIV",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "torpor",
+              "account": "torpornet",
+              "alpha": "阿宏",
+              "seenAt": "2026-11-07T12:24:31+00:00",
+              "messageId": "dodtwitterbot/40056",
+              "description": "https://t.co/2bFEMjhiUw is the intelligence layer for Elysium NFTs. apply for wl https://t.co/h7N4CaglIV",
+              "text": "https://t.co/2bFEMjhiUw is the intelligence layer for Elysium NFTs. apply for wl https://t.co/h7N4CaglIV"
+            }
+          ],
+          "text": " torpor torpornet https://t.co/2bFEMjhiUw is the intelligence layer for Elysium NFTs. apply for wl https://t.co/h7N4CaglIV",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
           "project": "Velom",
           "account": "velom33",
           "sources": [
@@ -22297,6 +22763,41 @@
           "displayTier": "candidate",
           "avatarUrl": "",
           "dayStatus": "repeat"
+        },
+        {
+          "project": "Vyro",
+          "account": "vyropro",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "CSR"
+          ],
+          "tgAlphas": [
+            "CSR"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-07T10:32:15+00:00",
+          "lastSeen": "2026-11-07T10:32:15+00:00",
+          "description": "Perpetual hedging on Elysium, built on Hyperliquid. Hold the asset, hedge the downside. Non-custodial.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Vyro",
+              "account": "vyropro",
+              "alpha": "CSR",
+              "seenAt": "2026-11-07T10:32:15+00:00",
+              "messageId": "dodtwitterbot/40046",
+              "description": "Perpetual hedging on Elysium, built on Hyperliquid. Hold the asset, hedge the downside. Non-custodial.",
+              "text": "Perpetual hedging on Elysium, built on Hyperliquid. Hold the asset, hedge the downside. Non-custodial."
+            }
+          ],
+          "text": " Vyro vyropro Perpetual hedging on Elysium, built on Hyperliquid. Hold the asset, hedge the downside. Non-custodial.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
         },
         {
           "project": "WaveFund",
@@ -40349,184 +40850,189 @@
   ],
   "reports": [
     {
+      "file": "2026-11-07-1556-telegram-update.md",
+      "title": "2026-11-07-1556-telegram-update",
+      "updatedAt": "2026-11-07T15:56:52.172Z"
+    },
+    {
       "file": "2026-11-07-0751-telegram-update.md",
       "title": "2026-11-07-0751-telegram-update",
-      "updatedAt": "2026-11-07T07:51:17.295Z"
+      "updatedAt": "2026-11-07T15:56:46.459Z"
     },
     {
       "file": "2026-11-06-2226-telegram-update.md",
       "title": "2026-11-06-2226-telegram-update",
-      "updatedAt": "2026-11-07T07:51:14.629Z"
+      "updatedAt": "2026-11-07T15:56:46.459Z"
     },
     {
       "file": "2026-11-06-1658-telegram-update.md",
       "title": "2026-11-06-1658-telegram-update",
-      "updatedAt": "2026-11-07T07:51:14.629Z"
+      "updatedAt": "2026-11-07T15:56:46.459Z"
     },
     {
       "file": "2026-11-06-0835-telegram-update.md",
       "title": "2026-11-06-0835-telegram-update",
-      "updatedAt": "2026-11-07T07:51:14.629Z"
+      "updatedAt": "2026-11-07T15:56:46.459Z"
     },
     {
       "file": "2026-11-05-2256-telegram-update.md",
       "title": "2026-11-05-2256-telegram-update",
-      "updatedAt": "2026-11-07T07:51:14.629Z"
+      "updatedAt": "2026-11-07T15:56:46.459Z"
     },
     {
       "file": "2026-11-05-1742-telegram-update.md",
       "title": "2026-11-05-1742-telegram-update",
-      "updatedAt": "2026-11-07T07:51:14.629Z"
+      "updatedAt": "2026-11-07T15:56:46.459Z"
     },
     {
       "file": "2026-11-05-0836-telegram-update.md",
       "title": "2026-11-05-0836-telegram-update",
-      "updatedAt": "2026-11-07T07:51:14.629Z"
+      "updatedAt": "2026-11-07T15:56:46.459Z"
     },
     {
       "file": "2026-11-04-2255-telegram-update.md",
       "title": "2026-11-04-2255-telegram-update",
-      "updatedAt": "2026-11-07T07:51:14.629Z"
+      "updatedAt": "2026-11-07T15:56:46.459Z"
     },
     {
       "file": "2026-11-04-1737-telegram-update.md",
       "title": "2026-11-04-1737-telegram-update",
-      "updatedAt": "2026-11-07T07:51:14.629Z"
+      "updatedAt": "2026-11-07T15:56:46.459Z"
     },
     {
       "file": "2026-11-04-0810-telegram-update.md",
       "title": "2026-11-04-0810-telegram-update",
-      "updatedAt": "2026-11-07T07:51:14.629Z"
+      "updatedAt": "2026-11-07T15:56:46.459Z"
     },
     {
       "file": "2026-11-04-0143-telegram-update.md",
       "title": "2026-11-04-0143-telegram-update",
-      "updatedAt": "2026-11-07T07:51:14.629Z"
+      "updatedAt": "2026-11-07T15:56:46.459Z"
     },
     {
       "file": "2026-11-03-2018-telegram-update.md",
       "title": "2026-11-03-2018-telegram-update",
-      "updatedAt": "2026-11-07T07:51:14.629Z"
+      "updatedAt": "2026-11-07T15:56:46.459Z"
     },
     {
       "file": "2026-11-03-1302-telegram-update.md",
       "title": "2026-11-03-1302-telegram-update",
-      "updatedAt": "2026-11-07T07:51:14.629Z"
+      "updatedAt": "2026-11-07T15:56:46.459Z"
     },
     {
       "file": "2026-11-03-0306-telegram-update.md",
       "title": "2026-11-03-0306-telegram-update",
-      "updatedAt": "2026-11-07T07:51:14.629Z"
+      "updatedAt": "2026-11-07T15:56:46.459Z"
     },
     {
       "file": "2026-11-02-1950-telegram-update.md",
       "title": "2026-11-02-1950-telegram-update",
-      "updatedAt": "2026-11-07T07:51:14.629Z"
+      "updatedAt": "2026-11-07T15:56:46.459Z"
     },
     {
       "file": "2026-11-02-0826-telegram-update.md",
       "title": "2026-11-02-0826-telegram-update",
-      "updatedAt": "2026-11-07T07:51:14.629Z"
+      "updatedAt": "2026-11-07T15:56:46.459Z"
     },
     {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-07T07:51:14.629Z"
+      "updatedAt": "2026-11-07T15:56:46.459Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-07T07:51:14.629Z"
+      "updatedAt": "2026-11-07T15:56:46.459Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-07T07:51:14.629Z"
+      "updatedAt": "2026-11-07T15:56:46.459Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-07T07:51:14.629Z"
+      "updatedAt": "2026-11-07T15:56:46.459Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-07T07:51:14.629Z"
+      "updatedAt": "2026-11-07T15:56:46.459Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-07T07:51:14.629Z"
+      "updatedAt": "2026-11-07T15:56:46.459Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-07T07:51:14.629Z"
+      "updatedAt": "2026-11-07T15:56:46.459Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-07T07:51:14.629Z"
+      "updatedAt": "2026-11-07T15:56:46.459Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-07T07:51:14.629Z"
+      "updatedAt": "2026-11-07T15:56:46.459Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-07T07:51:14.629Z"
+      "updatedAt": "2026-11-07T15:56:46.459Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-07T07:51:14.629Z"
+      "updatedAt": "2026-11-07T15:56:46.459Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-07T07:51:14.629Z"
+      "updatedAt": "2026-11-07T15:56:46.459Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-07T07:51:14.629Z"
+      "updatedAt": "2026-11-07T15:56:46.459Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-07T07:51:14.629Z"
+      "updatedAt": "2026-11-07T15:56:46.459Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-07T07:51:14.629Z"
+      "updatedAt": "2026-11-07T15:56:46.459Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-07T07:51:14.629Z"
+      "updatedAt": "2026-11-07T15:56:46.459Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-07T07:51:14.629Z"
+      "updatedAt": "2026-11-07T15:56:46.459Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-07T07:51:14.629Z"
+      "updatedAt": "2026-11-07T15:56:46.459Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-07T07:51:14.629Z"
+      "updatedAt": "2026-11-07T15:56:46.459Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-07T07:51:14.627Z"
+      "updatedAt": "2026-11-07T15:56:46.458Z"
     }
   ]
 }
