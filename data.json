@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-07T15:56:52.309Z",
+  "generatedAt": "2026-11-07T21:06:04.909Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 40073,
-    "lastMessageAt": "2026-11-07T15:51:23+00:00",
-    "lastCheckedAt": "2026-11-07T15:56:52.174Z",
-    "previousMessageId": 40038,
+    "lastMessageId": 40104,
+    "lastMessageAt": "2026-11-07T20:55:05+00:00",
+    "lastCheckedAt": "2026-11-07T21:06:04.727Z",
+    "previousMessageId": 40073,
     "pagesRead": 2,
-    "messagesRead": 35,
-    "newProjectRecords": 8,
+    "messagesRead": 31,
+    "newProjectRecords": 7,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 630,
+    "telegramRows": 637,
     "xRows": 0,
-    "projects": 384,
+    "projects": 390,
     "crossSource": 0
   },
   "projects": [
@@ -439,6 +439,100 @@
         }
       ],
       "text": " AGI AgentIdETH Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy. AGI AgentIdETH Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy. AGI AgentIdETH Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy. AGI AgentIdETH Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy. AGI AgentIdETH Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy. AGI AgentIdETH Agent-gated fair mint on Ethereum. Only agentic wallets mint &#036;AGI. Built for the agent economy.",
+      "score": 12,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "BB84",
+      "account": "bb84sh",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "A佬",
+        "speest 💎",
+        "发誓要做永赚大师",
+        "叶子君Foliage ◎ 🔶",
+        "蛋总",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "A佬",
+        "speest 💎",
+        "发誓要做永赚大师",
+        "叶子君Foliage ◎ 🔶",
+        "蛋总",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 6,
+      "firstSeen": "2026-11-01T08:31:46+00:00",
+      "lastSeen": "2026-11-07T16:06:55+00:00",
+      "description": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "BB84",
+          "account": "bb84sh",
+          "alpha": "speest 💎",
+          "seenAt": "2026-11-01T08:31:46+00:00",
+          "messageId": "dodtwitterbot/38933",
+          "description": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
+          "text": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1."
+        },
+        {
+          "source": "TG",
+          "project": "BB84",
+          "account": "bb84sh",
+          "alpha": "叶子君Foliage ◎ 🔶",
+          "seenAt": "2026-11-02T02:34:32+00:00",
+          "messageId": "dodtwitterbot/39114",
+          "description": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
+          "text": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1."
+        },
+        {
+          "source": "TG",
+          "project": "BB84",
+          "account": "bb84sh",
+          "alpha": "发誓要做永赚大师",
+          "seenAt": "2026-11-02T07:28:22+00:00",
+          "messageId": "dodtwitterbot/39153",
+          "description": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
+          "text": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1."
+        },
+        {
+          "source": "TG",
+          "project": "BB84",
+          "account": "bb84sh",
+          "alpha": "A佬",
+          "seenAt": "2026-11-02T10:48:11+00:00",
+          "messageId": "dodtwitterbot/39189",
+          "description": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
+          "text": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1."
+        },
+        {
+          "source": "TG",
+          "project": "BB84",
+          "account": "bb84sh",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-03T09:46:47+00:00",
+          "messageId": "dodtwitterbot/39401",
+          "description": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
+          "text": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1."
+        },
+        {
+          "source": "TG",
+          "project": "BB84",
+          "account": "bb84sh",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-07T16:06:55+00:00",
+          "messageId": "dodtwitterbot/40075",
+          "description": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
+          "text": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1."
+        }
+      ],
+      "text": " BB84 bb84sh Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1. BB84 bb84sh Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1. BB84 bb84sh Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1. BB84 bb84sh Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1. BB84 bb84sh Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1. BB84 bb84sh Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
       "score": 12,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -991,88 +1085,6 @@
         }
       ],
       "text": " ALT L2 AltL2fun The first meme launchpad for Hyperliquid L2. Elysium on the way @Enter_Elysium ALT L2 AltL2fun The first meme launchpad for Hyperliquid L2. Elysium on the way @Enter_Elysium ALT L2 AltL2fun The first meme launchpad for Hyperliquid L2. Elysium on the way @Enter_Elysium ALT L2 AltL2fun The first meme launchpad for Hyperliquid L2. Elysium on the way @Enter_Elysium ALT L2 AltL2fun The first meme launchpad for Hyperliquid L2. Elysium on the way @Enter_Elysium",
-      "score": 10,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
-      "project": "BB84",
-      "account": "bb84sh",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "A佬",
-        "speest 💎",
-        "发誓要做永赚大师",
-        "叶子君Foliage ◎ 🔶",
-        "阿宏"
-      ],
-      "tgAlphas": [
-        "A佬",
-        "speest 💎",
-        "发誓要做永赚大师",
-        "叶子君Foliage ◎ 🔶",
-        "阿宏"
-      ],
-      "xAlphas": [],
-      "mentions": 5,
-      "firstSeen": "2026-11-01T08:31:46+00:00",
-      "lastSeen": "2026-11-03T09:46:47+00:00",
-      "description": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "BB84",
-          "account": "bb84sh",
-          "alpha": "speest 💎",
-          "seenAt": "2026-11-01T08:31:46+00:00",
-          "messageId": "dodtwitterbot/38933",
-          "description": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
-          "text": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1."
-        },
-        {
-          "source": "TG",
-          "project": "BB84",
-          "account": "bb84sh",
-          "alpha": "叶子君Foliage ◎ 🔶",
-          "seenAt": "2026-11-02T02:34:32+00:00",
-          "messageId": "dodtwitterbot/39114",
-          "description": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
-          "text": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1."
-        },
-        {
-          "source": "TG",
-          "project": "BB84",
-          "account": "bb84sh",
-          "alpha": "发誓要做永赚大师",
-          "seenAt": "2026-11-02T07:28:22+00:00",
-          "messageId": "dodtwitterbot/39153",
-          "description": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
-          "text": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1."
-        },
-        {
-          "source": "TG",
-          "project": "BB84",
-          "account": "bb84sh",
-          "alpha": "A佬",
-          "seenAt": "2026-11-02T10:48:11+00:00",
-          "messageId": "dodtwitterbot/39189",
-          "description": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
-          "text": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1."
-        },
-        {
-          "source": "TG",
-          "project": "BB84",
-          "account": "bb84sh",
-          "alpha": "阿宏",
-          "seenAt": "2026-11-03T09:46:47+00:00",
-          "messageId": "dodtwitterbot/39401",
-          "description": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
-          "text": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1."
-        }
-      ],
-      "text": " BB84 bb84sh Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1. BB84 bb84sh Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1. BB84 bb84sh Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1. BB84 bb84sh Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1. BB84 bb84sh Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
       "score": 10,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -9500,6 +9512,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Elijah Elysium",
+      "account": "ElijahElysium",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "CSR"
+      ],
+      "tgAlphas": [
+        "CSR"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-07T18:41:24+00:00",
+      "lastSeen": "2026-11-07T18:41:24+00:00",
+      "description": "One mind. For humans and agents. AI-powered Hyperliquid research. Building toward a home on Elysium.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Elijah Elysium",
+          "account": "ElijahElysium",
+          "alpha": "CSR",
+          "seenAt": "2026-11-07T18:41:24+00:00",
+          "messageId": "dodtwitterbot/40092",
+          "description": "One mind. For humans and agents. AI-powered Hyperliquid research. Building toward a home on Elysium.",
+          "text": "One mind. For humans and agents. AI-powered Hyperliquid research. Building toward a home on Elysium."
+        }
+      ],
+      "text": " Elijah Elysium ElijahElysium One mind. For humans and agents. AI-powered Hyperliquid research. Building toward a home on Elysium.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "ElyChest",
       "account": "ElyChestFun",
       "sources": [
@@ -12220,6 +12266,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Near Swaps",
+      "account": "NearSwaps",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "hit.ink"
+      ],
+      "tgAlphas": [
+        "hit.ink"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-07T19:39:26+00:00",
+      "lastSeen": "2026-11-07T19:39:26+00:00",
+      "description": "The all-in-one terminal for NEAR trading and NFTs. Launching 19 Nov.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Near Swaps",
+          "account": "NearSwaps",
+          "alpha": "hit.ink",
+          "seenAt": "2026-11-07T19:39:26+00:00",
+          "messageId": "dodtwitterbot/40096",
+          "description": "The all-in-one terminal for NEAR trading and NFTs. Launching 19 Nov.",
+          "text": "The all-in-one terminal for NEAR trading and NFTs. Launching 19 Nov."
+        }
+      ],
+      "text": " Near Swaps NearSwaps The all-in-one terminal for NEAR trading and NFTs. Launching 19 Nov.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Neotics",
       "account": "neoticsio",
       "sources": [
@@ -12419,6 +12499,40 @@
         }
       ],
       "text": " Nymra Nymrasi Privacy superintelligence for users, apps & security teams. See what the chain reveals and prevent it.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Onee-chan",
+      "account": "oneechansi",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "CSR"
+      ],
+      "tgAlphas": [
+        "CSR"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-07T15:57:42+00:00",
+      "lastSeen": "2026-11-07T15:57:42+00:00",
+      "description": "Trading Agent on @enter_elysium",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Onee-chan",
+          "account": "oneechansi",
+          "alpha": "CSR",
+          "seenAt": "2026-11-07T15:57:42+00:00",
+          "messageId": "dodtwitterbot/40074",
+          "description": "Trading Agent on @enter_elysium",
+          "text": "Trading Agent on @enter_elysium"
+        }
+      ],
+      "text": " Onee-chan oneechansi Trading Agent on @enter_elysium",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -12696,6 +12810,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Peer",
+      "account": "peerxyz",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-07T20:46:52+00:00",
+      "lastSeen": "2026-11-07T20:46:52+00:00",
+      "description": "Permissionless, noncustodial, and composable P2P on/offramp protocol",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Peer",
+          "account": "peerxyz",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-07T20:46:52+00:00",
+          "messageId": "dodtwitterbot/40102",
+          "description": "Permissionless, noncustodial, and composable P2P on/offramp protocol",
+          "text": "Permissionless, noncustodial, and composable P2P on/offramp protocol"
+        }
+      ],
+      "text": " Peer peerxyz Permissionless, noncustodial, and composable P2P on/offramp protocol",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Perch AI",
       "account": "PerchTerminal",
       "sources": [
@@ -12861,6 +13009,40 @@
         }
       ],
       "text": " Pilot Protocol pilotprotocol Network OS for AI Agents",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Pin Market",
+      "account": "Pinmarketfun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-07T20:37:50+00:00",
+      "lastSeen": "2026-11-07T20:37:50+00:00",
+      "description": "Pin market, paid in USDC on Solana, with your code delivered by email in minutes.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Pin Market",
+          "account": "Pinmarketfun",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-07T20:37:50+00:00",
+          "messageId": "dodtwitterbot/40099",
+          "description": "Pin market, paid in USDC on Solana, with your code delivered by email in minutes.",
+          "text": "Pin market, paid in USDC on Solana, with your code delivered by email in minutes."
+        }
+      ],
+      "text": " Pin Market Pinmarketfun Pin market, paid in USDC on Solana, with your code delivered by email in minutes.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -15212,6 +15394,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "UNTOLL",
+      "account": "Untolling",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-07T20:40:34+00:00",
+      "lastSeen": "2026-11-07T20:40:34+00:00",
+      "description": "Launch a token. Get a crew. Less rugs, more inference. Run by agents. Building on Elysium.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "UNTOLL",
+          "account": "Untolling",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-07T20:40:34+00:00",
+          "messageId": "dodtwitterbot/40101",
+          "description": "Launch a token. Get a crew. Less rugs, more inference. Run by agents. Building on Elysium.",
+          "text": "Launch a token. Get a crew. Less rugs, more inference. Run by agents. Building on Elysium."
+        }
+      ],
+      "text": " UNTOLL Untolling Launch a token. Get a crew. Less rugs, more inference. Run by agents. Building on Elysium.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Updraft Exchange 🪂",
       "account": "updraftexchange",
       "sources": [
@@ -16112,6 +16328,25 @@
       "avatarUrl": ""
     },
     {
+      "project": "BB84",
+      "x_account": "bb84sh",
+      "total_mentions": 6,
+      "unique_alphas": 6,
+      "alphas": [
+        "A佬",
+        "speest 💎",
+        "发誓要做永赚大师",
+        "叶子君Foliage ◎ 🔶",
+        "蛋总",
+        "阿宏"
+      ],
+      "description": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
+      "first_seen_utc": "2026-11-01T08:31:46+00:00",
+      "last_seen_utc": "2026-11-07T16:06:55+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
       "project": "Boxa",
       "x_account": "Boxa_Elysium",
       "total_mentions": 6,
@@ -16221,24 +16456,6 @@
       "description": "The first meme launchpad for Hyperliquid L2. Elysium on the way @Enter_Elysium",
       "first_seen_utc": "2026-10-30T14:03:48+00:00",
       "last_seen_utc": "2026-11-06T18:50:18+00:00",
-      "status": "priority",
-      "avatarUrl": ""
-    },
-    {
-      "project": "BB84",
-      "x_account": "bb84sh",
-      "total_mentions": 5,
-      "unique_alphas": 5,
-      "alphas": [
-        "A佬",
-        "speest 💎",
-        "发誓要做永赚大师",
-        "叶子君Foliage ◎ 🔶",
-        "阿宏"
-      ],
-      "description": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
-      "first_seen_utc": "2026-11-01T08:31:46+00:00",
-      "last_seen_utc": "2026-11-03T09:46:47+00:00",
       "status": "priority",
       "avatarUrl": ""
     },
@@ -18966,6 +19183,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Elijah Elysium",
+      "x_account": "ElijahElysium",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "CSR"
+      ],
+      "description": "One mind. For humans and agents. AI-powered Hyperliquid research. Building toward a home on Elysium.",
+      "first_seen_utc": "2026-11-07T18:41:24+00:00",
+      "last_seen_utc": "2026-11-07T18:41:24+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "ElyChest",
       "x_account": "ElyChestFun",
       "total_mentions": 1,
@@ -20086,6 +20317,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Near Swaps",
+      "x_account": "NearSwaps",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "hit.ink"
+      ],
+      "description": "The all-in-one terminal for NEAR trading and NFTs. Launching 19 Nov.",
+      "first_seen_utc": "2026-11-07T19:39:26+00:00",
+      "last_seen_utc": "2026-11-07T19:39:26+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Neotics",
       "x_account": "neoticsio",
       "total_mentions": 1,
@@ -20166,6 +20411,20 @@
       "description": "Privacy superintelligence for users, apps & security teams. See what the chain reveals and prevent it.",
       "first_seen_utc": "2026-11-05T10:03:52+00:00",
       "last_seen_utc": "2026-11-05T10:03:52+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Onee-chan",
+      "x_account": "oneechansi",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "CSR"
+      ],
+      "description": "Trading Agent on @enter_elysium",
+      "first_seen_utc": "2026-11-07T15:57:42+00:00",
+      "last_seen_utc": "2026-11-07T15:57:42+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -20282,6 +20541,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Peer",
+      "x_account": "peerxyz",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "unsynned"
+      ],
+      "description": "Permissionless, noncustodial, and composable P2P on/offramp protocol",
+      "first_seen_utc": "2026-11-07T20:46:52+00:00",
+      "last_seen_utc": "2026-11-07T20:46:52+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Perch AI",
       "x_account": "PerchTerminal",
       "total_mentions": 1,
@@ -20348,6 +20621,20 @@
       "description": "Network OS for AI Agents",
       "first_seen_utc": "2026-11-05T10:26:40+00:00",
       "last_seen_utc": "2026-11-05T10:26:40+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Pin Market",
+      "x_account": "Pinmarketfun",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "unsynned"
+      ],
+      "description": "Pin market, paid in USDC on Solana, with your code delivered by email in minutes.",
+      "first_seen_utc": "2026-11-07T20:37:50+00:00",
+      "last_seen_utc": "2026-11-07T20:37:50+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -21318,6 +21605,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "UNTOLL",
+      "x_account": "Untolling",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "unsynned"
+      ],
+      "description": "Launch a token. Get a crew. Less rugs, more inference. Run by agents. Building on Elysium.",
+      "first_seen_utc": "2026-11-07T20:40:34+00:00",
+      "last_seen_utc": "2026-11-07T20:40:34+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Updraft Exchange 🪂",
       "x_account": "updraftexchange",
       "total_mentions": 1,
@@ -21656,13 +21957,235 @@
   ],
   "daily": [
     {
-      "date": "2026-11-07",
-      "totalRows": 40,
-      "projectCount": 33,
-      "focusCount": 5,
-      "candidateCount": 28,
+      "date": "2026-11-08",
+      "totalRows": 6,
+      "projectCount": 6,
+      "focusCount": 0,
+      "candidateCount": 6,
       "crossSource": 0,
-      "newCount": 19,
+      "newCount": 5,
+      "repeatCount": 1,
+      "projects": [
+        {
+          "project": "BB84",
+          "account": "bb84sh",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-07T16:06:55+00:00",
+          "lastSeen": "2026-11-07T16:06:55+00:00",
+          "description": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "BB84",
+              "account": "bb84sh",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-07T16:06:55+00:00",
+              "messageId": "dodtwitterbot/40075",
+              "description": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
+              "text": "Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1."
+            }
+          ],
+          "text": " BB84 bb84sh Post-quantum wallets, identities and randomness for Solana, powered by real quantum hardware. Rigetti Cepheus-1-108Q, IQM Garnet, IonQ Forte 1.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Elijah Elysium",
+          "account": "ElijahElysium",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "CSR"
+          ],
+          "tgAlphas": [
+            "CSR"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-07T18:41:24+00:00",
+          "lastSeen": "2026-11-07T18:41:24+00:00",
+          "description": "One mind. For humans and agents. AI-powered Hyperliquid research. Building toward a home on Elysium.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Elijah Elysium",
+              "account": "ElijahElysium",
+              "alpha": "CSR",
+              "seenAt": "2026-11-07T18:41:24+00:00",
+              "messageId": "dodtwitterbot/40092",
+              "description": "One mind. For humans and agents. AI-powered Hyperliquid research. Building toward a home on Elysium.",
+              "text": "One mind. For humans and agents. AI-powered Hyperliquid research. Building toward a home on Elysium."
+            }
+          ],
+          "text": " Elijah Elysium ElijahElysium One mind. For humans and agents. AI-powered Hyperliquid research. Building toward a home on Elysium.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Near Swaps",
+          "account": "NearSwaps",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "hit.ink"
+          ],
+          "tgAlphas": [
+            "hit.ink"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-07T19:39:26+00:00",
+          "lastSeen": "2026-11-07T19:39:26+00:00",
+          "description": "The all-in-one terminal for NEAR trading and NFTs. Launching 19 Nov.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Near Swaps",
+              "account": "NearSwaps",
+              "alpha": "hit.ink",
+              "seenAt": "2026-11-07T19:39:26+00:00",
+              "messageId": "dodtwitterbot/40096",
+              "description": "The all-in-one terminal for NEAR trading and NFTs. Launching 19 Nov.",
+              "text": "The all-in-one terminal for NEAR trading and NFTs. Launching 19 Nov."
+            }
+          ],
+          "text": " Near Swaps NearSwaps The all-in-one terminal for NEAR trading and NFTs. Launching 19 Nov.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Peer",
+          "account": "peerxyz",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-07T20:46:52+00:00",
+          "lastSeen": "2026-11-07T20:46:52+00:00",
+          "description": "Permissionless, noncustodial, and composable P2P on/offramp protocol",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Peer",
+              "account": "peerxyz",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-07T20:46:52+00:00",
+              "messageId": "dodtwitterbot/40102",
+              "description": "Permissionless, noncustodial, and composable P2P on/offramp protocol",
+              "text": "Permissionless, noncustodial, and composable P2P on/offramp protocol"
+            }
+          ],
+          "text": " Peer peerxyz Permissionless, noncustodial, and composable P2P on/offramp protocol",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Pin Market",
+          "account": "Pinmarketfun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-07T20:37:50+00:00",
+          "lastSeen": "2026-11-07T20:37:50+00:00",
+          "description": "Pin market, paid in USDC on Solana, with your code delivered by email in minutes.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Pin Market",
+              "account": "Pinmarketfun",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-07T20:37:50+00:00",
+              "messageId": "dodtwitterbot/40099",
+              "description": "Pin market, paid in USDC on Solana, with your code delivered by email in minutes.",
+              "text": "Pin market, paid in USDC on Solana, with your code delivered by email in minutes."
+            }
+          ],
+          "text": " Pin Market Pinmarketfun Pin market, paid in USDC on Solana, with your code delivered by email in minutes.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "UNTOLL",
+          "account": "Untolling",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-07T20:40:34+00:00",
+          "lastSeen": "2026-11-07T20:40:34+00:00",
+          "description": "Launch a token. Get a crew. Less rugs, more inference. Run by agents. Building on Elysium.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "UNTOLL",
+              "account": "Untolling",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-07T20:40:34+00:00",
+              "messageId": "dodtwitterbot/40101",
+              "description": "Launch a token. Get a crew. Less rugs, more inference. Run by agents. Building on Elysium.",
+              "text": "Launch a token. Get a crew. Less rugs, more inference. Run by agents. Building on Elysium."
+            }
+          ],
+          "text": " UNTOLL Untolling Launch a token. Get a crew. Less rugs, more inference. Run by agents. Building on Elysium.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-07",
+      "totalRows": 41,
+      "projectCount": 34,
+      "focusCount": 5,
+      "candidateCount": 29,
+      "crossSource": 0,
+      "newCount": 20,
       "repeatCount": 14,
       "projects": [
         {
@@ -22413,6 +22936,41 @@
           "displayTier": "candidate",
           "avatarUrl": "",
           "dayStatus": "repeat"
+        },
+        {
+          "project": "Onee-chan",
+          "account": "oneechansi",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "CSR"
+          ],
+          "tgAlphas": [
+            "CSR"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-07T15:57:42+00:00",
+          "lastSeen": "2026-11-07T15:57:42+00:00",
+          "description": "Trading Agent on @enter_elysium",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Onee-chan",
+              "account": "oneechansi",
+              "alpha": "CSR",
+              "seenAt": "2026-11-07T15:57:42+00:00",
+              "messageId": "dodtwitterbot/40074",
+              "description": "Trading Agent on @enter_elysium",
+              "text": "Trading Agent on @enter_elysium"
+            }
+          ],
+          "text": " Onee-chan oneechansi Trading Agent on @enter_elysium",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
         },
         {
           "project": "OpenEmber",
@@ -40850,189 +41408,194 @@
   ],
   "reports": [
     {
+      "file": "2026-11-07-2106-telegram-update.md",
+      "title": "2026-11-07-2106-telegram-update",
+      "updatedAt": "2026-11-07T21:06:04.727Z"
+    },
+    {
       "file": "2026-11-07-1556-telegram-update.md",
       "title": "2026-11-07-1556-telegram-update",
-      "updatedAt": "2026-11-07T15:56:52.172Z"
+      "updatedAt": "2026-11-07T21:06:00.115Z"
     },
     {
       "file": "2026-11-07-0751-telegram-update.md",
       "title": "2026-11-07-0751-telegram-update",
-      "updatedAt": "2026-11-07T15:56:46.459Z"
+      "updatedAt": "2026-11-07T21:06:00.115Z"
     },
     {
       "file": "2026-11-06-2226-telegram-update.md",
       "title": "2026-11-06-2226-telegram-update",
-      "updatedAt": "2026-11-07T15:56:46.459Z"
+      "updatedAt": "2026-11-07T21:06:00.115Z"
     },
     {
       "file": "2026-11-06-1658-telegram-update.md",
       "title": "2026-11-06-1658-telegram-update",
-      "updatedAt": "2026-11-07T15:56:46.459Z"
+      "updatedAt": "2026-11-07T21:06:00.115Z"
     },
     {
       "file": "2026-11-06-0835-telegram-update.md",
       "title": "2026-11-06-0835-telegram-update",
-      "updatedAt": "2026-11-07T15:56:46.459Z"
+      "updatedAt": "2026-11-07T21:06:00.115Z"
     },
     {
       "file": "2026-11-05-2256-telegram-update.md",
       "title": "2026-11-05-2256-telegram-update",
-      "updatedAt": "2026-11-07T15:56:46.459Z"
+      "updatedAt": "2026-11-07T21:06:00.115Z"
     },
     {
       "file": "2026-11-05-1742-telegram-update.md",
       "title": "2026-11-05-1742-telegram-update",
-      "updatedAt": "2026-11-07T15:56:46.459Z"
+      "updatedAt": "2026-11-07T21:06:00.115Z"
     },
     {
       "file": "2026-11-05-0836-telegram-update.md",
       "title": "2026-11-05-0836-telegram-update",
-      "updatedAt": "2026-11-07T15:56:46.459Z"
+      "updatedAt": "2026-11-07T21:06:00.115Z"
     },
     {
       "file": "2026-11-04-2255-telegram-update.md",
       "title": "2026-11-04-2255-telegram-update",
-      "updatedAt": "2026-11-07T15:56:46.459Z"
+      "updatedAt": "2026-11-07T21:06:00.115Z"
     },
     {
       "file": "2026-11-04-1737-telegram-update.md",
       "title": "2026-11-04-1737-telegram-update",
-      "updatedAt": "2026-11-07T15:56:46.459Z"
+      "updatedAt": "2026-11-07T21:06:00.115Z"
     },
     {
       "file": "2026-11-04-0810-telegram-update.md",
       "title": "2026-11-04-0810-telegram-update",
-      "updatedAt": "2026-11-07T15:56:46.459Z"
+      "updatedAt": "2026-11-07T21:06:00.115Z"
     },
     {
       "file": "2026-11-04-0143-telegram-update.md",
       "title": "2026-11-04-0143-telegram-update",
-      "updatedAt": "2026-11-07T15:56:46.459Z"
+      "updatedAt": "2026-11-07T21:06:00.115Z"
     },
     {
       "file": "2026-11-03-2018-telegram-update.md",
       "title": "2026-11-03-2018-telegram-update",
-      "updatedAt": "2026-11-07T15:56:46.459Z"
+      "updatedAt": "2026-11-07T21:06:00.115Z"
     },
     {
       "file": "2026-11-03-1302-telegram-update.md",
       "title": "2026-11-03-1302-telegram-update",
-      "updatedAt": "2026-11-07T15:56:46.459Z"
+      "updatedAt": "2026-11-07T21:06:00.115Z"
     },
     {
       "file": "2026-11-03-0306-telegram-update.md",
       "title": "2026-11-03-0306-telegram-update",
-      "updatedAt": "2026-11-07T15:56:46.459Z"
+      "updatedAt": "2026-11-07T21:06:00.115Z"
     },
     {
       "file": "2026-11-02-1950-telegram-update.md",
       "title": "2026-11-02-1950-telegram-update",
-      "updatedAt": "2026-11-07T15:56:46.459Z"
+      "updatedAt": "2026-11-07T21:06:00.115Z"
     },
     {
       "file": "2026-11-02-0826-telegram-update.md",
       "title": "2026-11-02-0826-telegram-update",
-      "updatedAt": "2026-11-07T15:56:46.459Z"
+      "updatedAt": "2026-11-07T21:06:00.115Z"
     },
     {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-07T15:56:46.459Z"
+      "updatedAt": "2026-11-07T21:06:00.115Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-07T15:56:46.459Z"
+      "updatedAt": "2026-11-07T21:06:00.115Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-07T15:56:46.459Z"
+      "updatedAt": "2026-11-07T21:06:00.115Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-07T15:56:46.459Z"
+      "updatedAt": "2026-11-07T21:06:00.115Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-07T15:56:46.459Z"
+      "updatedAt": "2026-11-07T21:06:00.115Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-07T15:56:46.459Z"
+      "updatedAt": "2026-11-07T21:06:00.115Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-07T15:56:46.459Z"
+      "updatedAt": "2026-11-07T21:06:00.115Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-07T15:56:46.459Z"
+      "updatedAt": "2026-11-07T21:06:00.115Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-07T15:56:46.459Z"
+      "updatedAt": "2026-11-07T21:06:00.115Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-07T15:56:46.459Z"
+      "updatedAt": "2026-11-07T21:06:00.115Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-07T15:56:46.459Z"
+      "updatedAt": "2026-11-07T21:06:00.115Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-07T15:56:46.459Z"
+      "updatedAt": "2026-11-07T21:06:00.115Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-07T15:56:46.459Z"
+      "updatedAt": "2026-11-07T21:06:00.115Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-07T15:56:46.459Z"
+      "updatedAt": "2026-11-07T21:06:00.115Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-07T15:56:46.459Z"
+      "updatedAt": "2026-11-07T21:06:00.115Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-07T15:56:46.459Z"
+      "updatedAt": "2026-11-07T21:06:00.115Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-07T15:56:46.459Z"
+      "updatedAt": "2026-11-07T21:06:00.115Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-07T15:56:46.459Z"
+      "updatedAt": "2026-11-07T21:06:00.115Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-07T15:56:46.459Z"
+      "updatedAt": "2026-11-07T21:06:00.115Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-07T15:56:46.458Z"
+      "updatedAt": "2026-11-07T21:06:00.115Z"
     }
   ]
 }
