@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-08T00:56:19.191Z",
+  "generatedAt": "2026-11-08T08:04:49.970Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 40108,
-    "lastMessageAt": "2026-11-07T23:36:13+00:00",
-    "lastCheckedAt": "2026-11-08T00:56:19.043Z",
-    "previousMessageId": 40104,
-    "pagesRead": 1,
-    "messagesRead": 4,
-    "newProjectRecords": 0,
+    "lastMessageId": 40141,
+    "lastMessageAt": "2026-11-08T07:50:38+00:00",
+    "lastCheckedAt": "2026-11-08T08:04:49.767Z",
+    "previousMessageId": 40108,
+    "pagesRead": 2,
+    "messagesRead": 33,
+    "newProjectRecords": 4,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 637,
+    "telegramRows": 641,
     "xRows": 0,
-    "projects": 390,
+    "projects": 392,
     "crossSource": 0
   },
   "projects": [
@@ -6642,6 +6642,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "Pin Market",
+      "account": "Pinmarketfun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse",
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "BearzVerse",
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-07T20:37:50+00:00",
+      "lastSeen": "2026-11-08T06:29:01+00:00",
+      "description": "Pin market, paid in USDC on Solana, with your code delivered by email in minutes.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Pin Market",
+          "account": "Pinmarketfun",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-07T20:37:50+00:00",
+          "messageId": "dodtwitterbot/40099",
+          "description": "Pin market, paid in USDC on Solana, with your code delivered by email in minutes.",
+          "text": "Pin market, paid in USDC on Solana, with your code delivered by email in minutes."
+        },
+        {
+          "source": "TG",
+          "project": "Pin Market",
+          "account": "Pinmarketfun",
+          "alpha": "BearzVerse",
+          "seenAt": "2026-11-08T06:29:01+00:00",
+          "messageId": "dodtwitterbot/40121",
+          "description": "Pin market, paid in USDC on Solana, with your code delivered by email in minutes.",
+          "text": "Pin market, paid in USDC on Solana, with your code delivered by email in minutes."
+        }
+      ],
+      "text": " Pin Market Pinmarketfun Pin market, paid in USDC on Solana, with your code delivered by email in minutes. Pin Market Pinmarketfun Pin market, paid in USDC on Solana, with your code delivered by email in minutes.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Pol",
       "account": "Pol_BNB",
       "sources": [
@@ -7327,6 +7373,52 @@
         }
       ],
       "text": " UNSEEN UnseenOrdo The first Private UDA(NFT) collection on Bitcoin RGB.\nHere's to the unseen ones.\nTG → https://t.co/zzUxatm7kr UNSEEN UnseenOrdo The first Private UDA(NFT) collection on Bitcoin RGB.\nHere's to the unseen ones.\nTG → https://t.co/zzUxatm7kr",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "UNTOLL",
+      "account": "Untolling",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse",
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "BearzVerse",
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-07T20:40:34+00:00",
+      "lastSeen": "2026-11-08T06:29:00+00:00",
+      "description": "Launch a token. Hire an agent crew. A v4 hook that gives a token a payroll. Building for Elysium.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "UNTOLL",
+          "account": "Untolling",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-07T20:40:34+00:00",
+          "messageId": "dodtwitterbot/40101",
+          "description": "Launch a token. Get a crew. Less rugs, more inference. Run by agents. Building on Elysium.",
+          "text": "Launch a token. Get a crew. Less rugs, more inference. Run by agents. Building on Elysium."
+        },
+        {
+          "source": "TG",
+          "project": "UNTOLL",
+          "account": "Untolling",
+          "alpha": "BearzVerse",
+          "seenAt": "2026-11-08T06:29:00+00:00",
+          "messageId": "dodtwitterbot/40120",
+          "description": "Launch a token. Hire an agent crew. A v4 hook that gives a token a payroll. Building for Elysium.",
+          "text": "Launch a token. Hire an agent crew. A v4 hook that gives a token a payroll. Building for Elysium."
+        }
+      ],
+      "text": " UNTOLL Untolling Launch a token. Get a crew. Less rugs, more inference. Run by agents. Building on Elysium. UNTOLL Untolling Launch a token. Hire an agent crew. A v4 hook that gives a token a payroll. Building for Elysium.",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -13014,40 +13106,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Pin Market",
-      "account": "Pinmarketfun",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "unsynned"
-      ],
-      "tgAlphas": [
-        "unsynned"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-07T20:37:50+00:00",
-      "lastSeen": "2026-11-07T20:37:50+00:00",
-      "description": "Pin market, paid in USDC on Solana, with your code delivered by email in minutes.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Pin Market",
-          "account": "Pinmarketfun",
-          "alpha": "unsynned",
-          "seenAt": "2026-11-07T20:37:50+00:00",
-          "messageId": "dodtwitterbot/40099",
-          "description": "Pin market, paid in USDC on Solana, with your code delivered by email in minutes.",
-          "text": "Pin market, paid in USDC on Solana, with your code delivered by email in minutes."
-        }
-      ],
-      "text": " Pin Market Pinmarketfun Pin market, paid in USDC on Solana, with your code delivered by email in minutes.",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
       "project": "poonks",
       "account": "poonksdotfun",
       "sources": [
@@ -13286,6 +13344,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Project Harmonia",
+      "account": "JoinHarmonia",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse"
+      ],
+      "tgAlphas": [
+        "BearzVerse"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-08T06:30:46+00:00",
+      "lastSeen": "2026-11-08T06:30:46+00:00",
+      "description": "Tokenization meets distribution. Connecting regulated tokenized funds to Allfunds’ institutional network and @Solana . Quarterly RFP rounds. Apply now ↓",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Project Harmonia",
+          "account": "JoinHarmonia",
+          "alpha": "BearzVerse",
+          "seenAt": "2026-11-08T06:30:46+00:00",
+          "messageId": "dodtwitterbot/40124",
+          "description": "Tokenization meets distribution. Connecting regulated tokenized funds to Allfunds’ institutional network and @Solana . Quarterly RFP rounds. Apply now ↓",
+          "text": "Tokenization meets distribution. Connecting regulated tokenized funds to Allfunds’ institutional network and @Solana . Quarterly RFP rounds. Apply now ↓"
+        }
+      ],
+      "text": " Project Harmonia JoinHarmonia Tokenization meets distribution. Connecting regulated tokenized funds to Allfunds’ institutional network and @Solana . Quarterly RFP rounds. Apply now ↓",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Puffy Puff",
       "account": "PuffyPuffNFT",
       "sources": [
@@ -13315,6 +13407,40 @@
         }
       ],
       "text": " Puffy Puff PuffyPuffNFT 2,222 unfairly grumpy Puffs on @Enter_Elysium . 93 hand-built traits, 8 layers. Grumpy since block zero. Low numbers mint first.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "PurrCade",
+      "account": "PurrCadeGames",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse"
+      ],
+      "tgAlphas": [
+        "BearzVerse"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-08T06:29:54+00:00",
+      "lastSeen": "2026-11-08T06:29:54+00:00",
+      "description": "Mobile arcade games on @Enter_Elysium . Top the 4h leaderboard, take 50% of every play-in fee. Try it on Elysium testnet: https://t.co/W1UBDxjqOm",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "PurrCade",
+          "account": "PurrCadeGames",
+          "alpha": "BearzVerse",
+          "seenAt": "2026-11-08T06:29:54+00:00",
+          "messageId": "dodtwitterbot/40123",
+          "description": "Mobile arcade games on @Enter_Elysium . Top the 4h leaderboard, take 50% of every play-in fee. Try it on Elysium testnet: https://t.co/W1UBDxjqOm",
+          "text": "Mobile arcade games on @Enter_Elysium . Top the 4h leaderboard, take 50% of every play-in fee. Try it on Elysium testnet: https://t.co/W1UBDxjqOm"
+        }
+      ],
+      "text": " PurrCade PurrCadeGames Mobile arcade games on @Enter_Elysium . Top the 4h leaderboard, take 50% of every play-in fee. Try it on Elysium testnet: https://t.co/W1UBDxjqOm",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -15389,40 +15515,6 @@
         }
       ],
       "text": " Umia umia_finance The onchain venture protocol",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
-      "project": "UNTOLL",
-      "account": "Untolling",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "unsynned"
-      ],
-      "tgAlphas": [
-        "unsynned"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-07T20:40:34+00:00",
-      "lastSeen": "2026-11-07T20:40:34+00:00",
-      "description": "Launch a token. Get a crew. Less rugs, more inference. Run by agents. Building on Elysium.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "UNTOLL",
-          "account": "Untolling",
-          "alpha": "unsynned",
-          "seenAt": "2026-11-07T20:40:34+00:00",
-          "messageId": "dodtwitterbot/40101",
-          "description": "Launch a token. Get a crew. Less rugs, more inference. Run by agents. Building on Elysium.",
-          "text": "Launch a token. Get a crew. Less rugs, more inference. Run by agents. Building on Elysium."
-        }
-      ],
-      "text": " UNTOLL Untolling Launch a token. Get a crew. Less rugs, more inference. Run by agents. Building on Elysium.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -18084,6 +18176,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "Pin Market",
+      "x_account": "Pinmarketfun",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "BearzVerse",
+        "unsynned"
+      ],
+      "description": "Pin market, paid in USDC on Solana, with your code delivered by email in minutes.",
+      "first_seen_utc": "2026-11-07T20:37:50+00:00",
+      "last_seen_utc": "2026-11-08T06:29:01+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Pol",
       "x_account": "Pol_BNB",
       "total_mentions": 2,
@@ -18305,6 +18412,21 @@
       "description": "The first Private UDA(NFT) collection on Bitcoin RGB.\nHere's to the unseen ones.\nTG → https://t.co/zzUxatm7kr",
       "first_seen_utc": "2026-10-29T07:10:35+00:00",
       "last_seen_utc": "2026-11-03T14:32:22+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "UNTOLL",
+      "x_account": "Untolling",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "BearzVerse",
+        "unsynned"
+      ],
+      "description": "Launch a token. Hire an agent crew. A v4 hook that gives a token a payroll. Building for Elysium.",
+      "first_seen_utc": "2026-11-07T20:40:34+00:00",
+      "last_seen_utc": "2026-11-08T06:29:00+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -20625,20 +20747,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Pin Market",
-      "x_account": "Pinmarketfun",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "unsynned"
-      ],
-      "description": "Pin market, paid in USDC on Solana, with your code delivered by email in minutes.",
-      "first_seen_utc": "2026-11-07T20:37:50+00:00",
-      "last_seen_utc": "2026-11-07T20:37:50+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "poonks",
       "x_account": "poonksdotfun",
       "total_mentions": 1,
@@ -20737,6 +20845,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Project Harmonia",
+      "x_account": "JoinHarmonia",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "BearzVerse"
+      ],
+      "description": "Tokenization meets distribution. Connecting regulated tokenized funds to Allfunds’ institutional network and @Solana . Quarterly RFP rounds. Apply now ↓",
+      "first_seen_utc": "2026-11-08T06:30:46+00:00",
+      "last_seen_utc": "2026-11-08T06:30:46+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Puffy Puff",
       "x_account": "PuffyPuffNFT",
       "total_mentions": 1,
@@ -20747,6 +20869,20 @@
       "description": "2,222 unfairly grumpy Puffs on @Enter_Elysium . 93 hand-built traits, 8 layers. Grumpy since block zero. Low numbers mint first.",
       "first_seen_utc": "2026-11-07T02:25:50+00:00",
       "last_seen_utc": "2026-11-07T02:25:50+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "PurrCade",
+      "x_account": "PurrCadeGames",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "BearzVerse"
+      ],
+      "description": "Mobile arcade games on @Enter_Elysium . Top the 4h leaderboard, take 50% of every play-in fee. Try it on Elysium testnet: https://t.co/W1UBDxjqOm",
+      "first_seen_utc": "2026-11-08T06:29:54+00:00",
+      "last_seen_utc": "2026-11-08T06:29:54+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -21605,20 +21741,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "UNTOLL",
-      "x_account": "Untolling",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "unsynned"
-      ],
-      "description": "Launch a token. Get a crew. Less rugs, more inference. Run by agents. Building on Elysium.",
-      "first_seen_utc": "2026-11-07T20:40:34+00:00",
-      "last_seen_utc": "2026-11-07T20:40:34+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "Updraft Exchange 🪂",
       "x_account": "updraftexchange",
       "total_mentions": 1,
@@ -21958,14 +22080,108 @@
   "daily": [
     {
       "date": "2026-11-08",
-      "totalRows": 6,
-      "projectCount": 6,
-      "focusCount": 0,
+      "totalRows": 10,
+      "projectCount": 8,
+      "focusCount": 2,
       "candidateCount": 6,
       "crossSource": 0,
-      "newCount": 5,
+      "newCount": 7,
       "repeatCount": 1,
       "projects": [
+        {
+          "project": "Pin Market",
+          "account": "Pinmarketfun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BearzVerse",
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "BearzVerse",
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-11-07T20:37:50+00:00",
+          "lastSeen": "2026-11-08T06:29:01+00:00",
+          "description": "Pin market, paid in USDC on Solana, with your code delivered by email in minutes.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Pin Market",
+              "account": "Pinmarketfun",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-07T20:37:50+00:00",
+              "messageId": "dodtwitterbot/40099",
+              "description": "Pin market, paid in USDC on Solana, with your code delivered by email in minutes.",
+              "text": "Pin market, paid in USDC on Solana, with your code delivered by email in minutes."
+            },
+            {
+              "source": "TG",
+              "project": "Pin Market",
+              "account": "Pinmarketfun",
+              "alpha": "BearzVerse",
+              "seenAt": "2026-11-08T06:29:01+00:00",
+              "messageId": "dodtwitterbot/40121",
+              "description": "Pin market, paid in USDC on Solana, with your code delivered by email in minutes.",
+              "text": "Pin market, paid in USDC on Solana, with your code delivered by email in minutes."
+            }
+          ],
+          "text": " Pin Market Pinmarketfun Pin market, paid in USDC on Solana, with your code delivered by email in minutes. Pin Market Pinmarketfun Pin market, paid in USDC on Solana, with your code delivered by email in minutes.",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "UNTOLL",
+          "account": "Untolling",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BearzVerse",
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "BearzVerse",
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-11-07T20:40:34+00:00",
+          "lastSeen": "2026-11-08T06:29:00+00:00",
+          "description": "Launch a token. Hire an agent crew. A v4 hook that gives a token a payroll. Building for Elysium.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "UNTOLL",
+              "account": "Untolling",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-07T20:40:34+00:00",
+              "messageId": "dodtwitterbot/40101",
+              "description": "Launch a token. Get a crew. Less rugs, more inference. Run by agents. Building on Elysium.",
+              "text": "Launch a token. Get a crew. Less rugs, more inference. Run by agents. Building on Elysium."
+            },
+            {
+              "source": "TG",
+              "project": "UNTOLL",
+              "account": "Untolling",
+              "alpha": "BearzVerse",
+              "seenAt": "2026-11-08T06:29:00+00:00",
+              "messageId": "dodtwitterbot/40120",
+              "description": "Launch a token. Hire an agent crew. A v4 hook that gives a token a payroll. Building for Elysium.",
+              "text": "Launch a token. Hire an agent crew. A v4 hook that gives a token a payroll. Building for Elysium."
+            }
+          ],
+          "text": " UNTOLL Untolling Launch a token. Get a crew. Less rugs, more inference. Run by agents. Building on Elysium. UNTOLL Untolling Launch a token. Hire an agent crew. A v4 hook that gives a token a payroll. Building for Elysium.",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
         {
           "project": "BB84",
           "account": "bb84sh",
@@ -22107,70 +22323,70 @@
           "dayStatus": "new"
         },
         {
-          "project": "Pin Market",
-          "account": "Pinmarketfun",
+          "project": "Project Harmonia",
+          "account": "JoinHarmonia",
           "sources": [
             "TG"
           ],
           "alphas": [
-            "unsynned"
+            "BearzVerse"
           ],
           "tgAlphas": [
-            "unsynned"
+            "BearzVerse"
           ],
           "xAlphas": [],
           "mentions": 1,
-          "firstSeen": "2026-11-07T20:37:50+00:00",
-          "lastSeen": "2026-11-07T20:37:50+00:00",
-          "description": "Pin market, paid in USDC on Solana, with your code delivered by email in minutes.",
+          "firstSeen": "2026-11-08T06:30:46+00:00",
+          "lastSeen": "2026-11-08T06:30:46+00:00",
+          "description": "Tokenization meets distribution. Connecting regulated tokenized funds to Allfunds’ institutional network and @Solana . Quarterly RFP rounds. Apply now ↓",
           "rows": [
             {
               "source": "TG",
-              "project": "Pin Market",
-              "account": "Pinmarketfun",
-              "alpha": "unsynned",
-              "seenAt": "2026-11-07T20:37:50+00:00",
-              "messageId": "dodtwitterbot/40099",
-              "description": "Pin market, paid in USDC on Solana, with your code delivered by email in minutes.",
-              "text": "Pin market, paid in USDC on Solana, with your code delivered by email in minutes."
+              "project": "Project Harmonia",
+              "account": "JoinHarmonia",
+              "alpha": "BearzVerse",
+              "seenAt": "2026-11-08T06:30:46+00:00",
+              "messageId": "dodtwitterbot/40124",
+              "description": "Tokenization meets distribution. Connecting regulated tokenized funds to Allfunds’ institutional network and @Solana . Quarterly RFP rounds. Apply now ↓",
+              "text": "Tokenization meets distribution. Connecting regulated tokenized funds to Allfunds’ institutional network and @Solana . Quarterly RFP rounds. Apply now ↓"
             }
           ],
-          "text": " Pin Market Pinmarketfun Pin market, paid in USDC on Solana, with your code delivered by email in minutes.",
+          "text": " Project Harmonia JoinHarmonia Tokenization meets distribution. Connecting regulated tokenized funds to Allfunds’ institutional network and @Solana . Quarterly RFP rounds. Apply now ↓",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
           "dayStatus": "new"
         },
         {
-          "project": "UNTOLL",
-          "account": "Untolling",
+          "project": "PurrCade",
+          "account": "PurrCadeGames",
           "sources": [
             "TG"
           ],
           "alphas": [
-            "unsynned"
+            "BearzVerse"
           ],
           "tgAlphas": [
-            "unsynned"
+            "BearzVerse"
           ],
           "xAlphas": [],
           "mentions": 1,
-          "firstSeen": "2026-11-07T20:40:34+00:00",
-          "lastSeen": "2026-11-07T20:40:34+00:00",
-          "description": "Launch a token. Get a crew. Less rugs, more inference. Run by agents. Building on Elysium.",
+          "firstSeen": "2026-11-08T06:29:54+00:00",
+          "lastSeen": "2026-11-08T06:29:54+00:00",
+          "description": "Mobile arcade games on @Enter_Elysium . Top the 4h leaderboard, take 50% of every play-in fee. Try it on Elysium testnet: https://t.co/W1UBDxjqOm",
           "rows": [
             {
               "source": "TG",
-              "project": "UNTOLL",
-              "account": "Untolling",
-              "alpha": "unsynned",
-              "seenAt": "2026-11-07T20:40:34+00:00",
-              "messageId": "dodtwitterbot/40101",
-              "description": "Launch a token. Get a crew. Less rugs, more inference. Run by agents. Building on Elysium.",
-              "text": "Launch a token. Get a crew. Less rugs, more inference. Run by agents. Building on Elysium."
+              "project": "PurrCade",
+              "account": "PurrCadeGames",
+              "alpha": "BearzVerse",
+              "seenAt": "2026-11-08T06:29:54+00:00",
+              "messageId": "dodtwitterbot/40123",
+              "description": "Mobile arcade games on @Enter_Elysium . Top the 4h leaderboard, take 50% of every play-in fee. Try it on Elysium testnet: https://t.co/W1UBDxjqOm",
+              "text": "Mobile arcade games on @Enter_Elysium . Top the 4h leaderboard, take 50% of every play-in fee. Try it on Elysium testnet: https://t.co/W1UBDxjqOm"
             }
           ],
-          "text": " UNTOLL Untolling Launch a token. Get a crew. Less rugs, more inference. Run by agents. Building on Elysium.",
+          "text": " PurrCade PurrCadeGames Mobile arcade games on @Enter_Elysium . Top the 4h leaderboard, take 50% of every play-in fee. Try it on Elysium testnet: https://t.co/W1UBDxjqOm",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -41408,194 +41624,199 @@
   ],
   "reports": [
     {
+      "file": "2026-11-08-0804-telegram-update.md",
+      "title": "2026-11-08-0804-telegram-update",
+      "updatedAt": "2026-11-08T08:04:49.767Z"
+    },
+    {
       "file": "2026-11-07-2106-telegram-update.md",
       "title": "2026-11-07-2106-telegram-update",
-      "updatedAt": "2026-11-08T00:56:17.040Z"
+      "updatedAt": "2026-11-08T08:04:47.569Z"
     },
     {
       "file": "2026-11-07-1556-telegram-update.md",
       "title": "2026-11-07-1556-telegram-update",
-      "updatedAt": "2026-11-08T00:56:17.040Z"
+      "updatedAt": "2026-11-08T08:04:47.569Z"
     },
     {
       "file": "2026-11-07-0751-telegram-update.md",
       "title": "2026-11-07-0751-telegram-update",
-      "updatedAt": "2026-11-08T00:56:17.040Z"
+      "updatedAt": "2026-11-08T08:04:47.569Z"
     },
     {
       "file": "2026-11-06-2226-telegram-update.md",
       "title": "2026-11-06-2226-telegram-update",
-      "updatedAt": "2026-11-08T00:56:17.040Z"
+      "updatedAt": "2026-11-08T08:04:47.569Z"
     },
     {
       "file": "2026-11-06-1658-telegram-update.md",
       "title": "2026-11-06-1658-telegram-update",
-      "updatedAt": "2026-11-08T00:56:17.040Z"
+      "updatedAt": "2026-11-08T08:04:47.569Z"
     },
     {
       "file": "2026-11-06-0835-telegram-update.md",
       "title": "2026-11-06-0835-telegram-update",
-      "updatedAt": "2026-11-08T00:56:17.039Z"
+      "updatedAt": "2026-11-08T08:04:47.569Z"
     },
     {
       "file": "2026-11-05-2256-telegram-update.md",
       "title": "2026-11-05-2256-telegram-update",
-      "updatedAt": "2026-11-08T00:56:17.039Z"
+      "updatedAt": "2026-11-08T08:04:47.569Z"
     },
     {
       "file": "2026-11-05-1742-telegram-update.md",
       "title": "2026-11-05-1742-telegram-update",
-      "updatedAt": "2026-11-08T00:56:17.039Z"
+      "updatedAt": "2026-11-08T08:04:47.569Z"
     },
     {
       "file": "2026-11-05-0836-telegram-update.md",
       "title": "2026-11-05-0836-telegram-update",
-      "updatedAt": "2026-11-08T00:56:17.039Z"
+      "updatedAt": "2026-11-08T08:04:47.569Z"
     },
     {
       "file": "2026-11-04-2255-telegram-update.md",
       "title": "2026-11-04-2255-telegram-update",
-      "updatedAt": "2026-11-08T00:56:17.039Z"
+      "updatedAt": "2026-11-08T08:04:47.569Z"
     },
     {
       "file": "2026-11-04-1737-telegram-update.md",
       "title": "2026-11-04-1737-telegram-update",
-      "updatedAt": "2026-11-08T00:56:17.039Z"
+      "updatedAt": "2026-11-08T08:04:47.569Z"
     },
     {
       "file": "2026-11-04-0810-telegram-update.md",
       "title": "2026-11-04-0810-telegram-update",
-      "updatedAt": "2026-11-08T00:56:17.039Z"
+      "updatedAt": "2026-11-08T08:04:47.569Z"
     },
     {
       "file": "2026-11-04-0143-telegram-update.md",
       "title": "2026-11-04-0143-telegram-update",
-      "updatedAt": "2026-11-08T00:56:17.039Z"
+      "updatedAt": "2026-11-08T08:04:47.569Z"
     },
     {
       "file": "2026-11-03-2018-telegram-update.md",
       "title": "2026-11-03-2018-telegram-update",
-      "updatedAt": "2026-11-08T00:56:17.039Z"
+      "updatedAt": "2026-11-08T08:04:47.569Z"
     },
     {
       "file": "2026-11-03-1302-telegram-update.md",
       "title": "2026-11-03-1302-telegram-update",
-      "updatedAt": "2026-11-08T00:56:17.039Z"
+      "updatedAt": "2026-11-08T08:04:47.569Z"
     },
     {
       "file": "2026-11-03-0306-telegram-update.md",
       "title": "2026-11-03-0306-telegram-update",
-      "updatedAt": "2026-11-08T00:56:17.039Z"
+      "updatedAt": "2026-11-08T08:04:47.569Z"
     },
     {
       "file": "2026-11-02-1950-telegram-update.md",
       "title": "2026-11-02-1950-telegram-update",
-      "updatedAt": "2026-11-08T00:56:17.039Z"
+      "updatedAt": "2026-11-08T08:04:47.569Z"
     },
     {
       "file": "2026-11-02-0826-telegram-update.md",
       "title": "2026-11-02-0826-telegram-update",
-      "updatedAt": "2026-11-08T00:56:17.039Z"
+      "updatedAt": "2026-11-08T08:04:47.569Z"
     },
     {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-08T00:56:17.039Z"
+      "updatedAt": "2026-11-08T08:04:47.569Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-08T00:56:17.039Z"
+      "updatedAt": "2026-11-08T08:04:47.569Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-08T00:56:17.039Z"
+      "updatedAt": "2026-11-08T08:04:47.569Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-08T00:56:17.039Z"
+      "updatedAt": "2026-11-08T08:04:47.569Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-08T00:56:17.039Z"
+      "updatedAt": "2026-11-08T08:04:47.569Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-08T00:56:17.039Z"
+      "updatedAt": "2026-11-08T08:04:47.569Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-08T00:56:17.039Z"
+      "updatedAt": "2026-11-08T08:04:47.569Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-08T00:56:17.039Z"
+      "updatedAt": "2026-11-08T08:04:47.569Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-08T00:56:17.039Z"
+      "updatedAt": "2026-11-08T08:04:47.569Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-08T00:56:17.039Z"
+      "updatedAt": "2026-11-08T08:04:47.569Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-08T00:56:17.039Z"
+      "updatedAt": "2026-11-08T08:04:47.569Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-08T00:56:17.039Z"
+      "updatedAt": "2026-11-08T08:04:47.569Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-08T00:56:17.039Z"
+      "updatedAt": "2026-11-08T08:04:47.569Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-08T00:56:17.039Z"
+      "updatedAt": "2026-11-08T08:04:47.569Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-08T00:56:17.039Z"
+      "updatedAt": "2026-11-08T08:04:47.569Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-08T00:56:17.039Z"
+      "updatedAt": "2026-11-08T08:04:47.569Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-08T00:56:17.039Z"
+      "updatedAt": "2026-11-08T08:04:47.569Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-08T00:56:17.039Z"
+      "updatedAt": "2026-11-08T08:04:47.569Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-08T00:56:17.039Z"
+      "updatedAt": "2026-11-08T08:04:47.569Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-08T00:56:17.039Z"
+      "updatedAt": "2026-11-08T08:04:47.568Z"
     }
   ]
 }
