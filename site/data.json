@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-08T08:04:49.970Z",
+  "generatedAt": "2026-11-08T16:23:23.653Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 40141,
-    "lastMessageAt": "2026-11-08T07:50:38+00:00",
-    "lastCheckedAt": "2026-11-08T08:04:49.767Z",
-    "previousMessageId": 40108,
-    "pagesRead": 2,
-    "messagesRead": 33,
-    "newProjectRecords": 4,
+    "lastMessageId": 40214,
+    "lastMessageAt": "2026-11-08T16:14:45+00:00",
+    "lastCheckedAt": "2026-11-08T16:23:23.447Z",
+    "previousMessageId": 40141,
+    "pagesRead": 4,
+    "messagesRead": 73,
+    "newProjectRecords": 26,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 641,
+    "telegramRows": 667,
     "xRows": 0,
-    "projects": 392,
+    "projects": 414,
     "crossSource": 0
   },
   "projects": [
@@ -2964,6 +2964,64 @@
       "avatarUrl": ""
     },
     {
+      "project": "Korini",
+      "account": "Korinitrade",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "CSR",
+        "Skrchen666(钻石手伤心版 绝对纸手之人）",
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "CSR",
+        "Skrchen666(钻石手伤心版 绝对纸手之人）",
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-11-01T16:52:34+00:00",
+      "lastSeen": "2026-11-08T10:33:14+00:00",
+      "description": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Korini",
+          "account": "Korinitrade",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-01T16:52:34+00:00",
+          "messageId": "dodtwitterbot/39082",
+          "description": "all in one on elysium mainnet trading terminal RWAs pairing lauchapad",
+          "text": "all in one on elysium mainnet trading terminal RWAs pairing lauchapad"
+        },
+        {
+          "source": "TG",
+          "project": "Korini",
+          "account": "Korinitrade",
+          "alpha": "CSR",
+          "seenAt": "2026-11-07T11:12:54+00:00",
+          "messageId": "dodtwitterbot/40049",
+          "description": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
+          "text": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social"
+        },
+        {
+          "source": "TG",
+          "project": "Korini",
+          "account": "Korinitrade",
+          "alpha": "Skrchen666(钻石手伤心版 绝对纸手之人）",
+          "seenAt": "2026-11-08T10:33:14+00:00",
+          "messageId": "dodtwitterbot/40149",
+          "description": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
+          "text": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social"
+        }
+      ],
+      "text": " Korini Korinitrade all in one on elysium mainnet trading terminal RWAs pairing lauchapad Korini Korinitrade Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social Korini Korinitrade Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Kuip",
       "account": "KuipFun",
       "sources": [
@@ -3249,6 +3307,64 @@
         }
       ],
       "text": " Mergers & Agents theAgentFirm Building the AI agent ecosystem on @Enter_Elysium .\n\n5,280 agentic NFTs, each with a desk, a wallet and a career on-chain\n\n▎ Mergers & Agents · Doors open 11.9 Mergers & Agents theAgentFirm Building the AI agent ecosystem on @Enter_Elysium .\n\n5,280 agentic NFTs, each with a desk, a wallet and a career on-chain\n\n▎ Mergers & Agents · Doors open 11.9 Mergers & Agents theAgentFirm Building the AI agent ecosystem on @Enter_Elysium .\n\n5,280 agentic NFTs, each with a desk, a wallet and a career on-chain\n\n▎ Mergers & Agents · Doors open 11.9",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Neuriio",
+      "account": "Neuriio",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka",
+        "speest 💎",
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "lakka",
+        "speest 💎",
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-11-01T04:35:15+00:00",
+      "lastSeen": "2026-11-08T14:28:25+00:00",
+      "description": "Tokenize Accounts, Create Social Markets.\n\nBuilt on @Enter_Elysium",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Neuriio",
+          "account": "Neuriio",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-01T04:35:15+00:00",
+          "messageId": "dodtwitterbot/38867",
+          "description": "Tokenize Accounts, Create Social Markets.\n\nBuilt on @Enter_Elysium",
+          "text": "Tokenize Accounts, Create Social Markets.\n\nBuilt on @Enter_Elysium"
+        },
+        {
+          "source": "TG",
+          "project": "Neuriio",
+          "account": "Neuriio",
+          "alpha": "lakka",
+          "seenAt": "2026-11-02T11:02:15+00:00",
+          "messageId": "dodtwitterbot/39198",
+          "description": "Tokenize Accounts, Create Social Markets.\n\nBuilt on @Enter_Elysium",
+          "text": "Tokenize Accounts, Create Social Markets.\n\nBuilt on @Enter_Elysium"
+        },
+        {
+          "source": "TG",
+          "project": "Neuriio",
+          "account": "Neuriio",
+          "alpha": "speest 💎",
+          "seenAt": "2026-11-08T14:28:25+00:00",
+          "messageId": "dodtwitterbot/40199",
+          "description": "Tokenize Accounts, Create Social Markets.\n\nBuilt on @Enter_Elysium",
+          "text": "Tokenize Accounts, Create Social Markets.\n\nBuilt on @Enter_Elysium"
+        }
+      ],
+      "text": " Neuriio Neuriio Tokenize Accounts, Create Social Markets.\n\nBuilt on @Enter_Elysium Neuriio Neuriio Tokenize Accounts, Create Social Markets.\n\nBuilt on @Enter_Elysium Neuriio Neuriio Tokenize Accounts, Create Social Markets.\n\nBuilt on @Enter_Elysium",
       "score": 6,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -4567,6 +4683,52 @@
         }
       ],
       "text": " blobs.meme blobsdotmeme The @Ethereum launchpad where every coin gets an AI Agent: built around your logo, it runs the treasury, grows when it trades and sleeps when it's quiet. blobs.meme blobsdotmeme The @Ethereum launchpad where every coin gets an AI Agent: built around your logo, it runs the treasury, grows when it trades and sleeps when it's quiet.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Bond Agent",
+      "account": "Bagent_binance",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "A佬",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "A佬",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-08T12:18:57+00:00",
+      "lastSeen": "2026-11-08T14:31:19+00:00",
+      "description": "A charity memecoin launched on BNB Chain, deeply tied to Binance Agentic Wallet ID with a fair bonding-curve mint mechanism.\nTelegram: https://t.co/DRCeGjM6pn",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Bond Agent",
+          "account": "Bagent_binance",
+          "alpha": "A佬",
+          "seenAt": "2026-11-08T12:18:57+00:00",
+          "messageId": "dodtwitterbot/40165",
+          "description": "A charity memecoin launched on BNB Chain, deeply tied to Binance Agentic Wallet ID with a fair bonding-curve mint mechanism.\nTelegram: https://t.co/DRCeGjM6pn",
+          "text": "A charity memecoin launched on BNB Chain, deeply tied to Binance Agentic Wallet ID with a fair bonding-curve mint mechanism.\nTelegram: https://t.co/DRCeGjM6pn"
+        },
+        {
+          "source": "TG",
+          "project": "Bond Agent",
+          "account": "Bagent_binance",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-08T14:31:19+00:00",
+          "messageId": "dodtwitterbot/40204",
+          "description": "A charity memecoin launched on BNB Chain, deeply tied to Binance Agentic Wallet ID with a fair bonding-curve mint mechanism.\nTelegram: https://t.co/DRCeGjM6pn",
+          "text": "A charity memecoin launched on BNB Chain, deeply tied to Binance Agentic Wallet ID with a fair bonding-curve mint mechanism.\nTelegram: https://t.co/DRCeGjM6pn"
+        }
+      ],
+      "text": " Bond Agent Bagent_binance A charity memecoin launched on BNB Chain, deeply tied to Binance Agentic Wallet ID with a fair bonding-curve mint mechanism.\nTelegram: https://t.co/DRCeGjM6pn Bond Agent Bagent_binance A charity memecoin launched on BNB Chain, deeply tied to Binance Agentic Wallet ID with a fair bonding-curve mint mechanism.\nTelegram: https://t.co/DRCeGjM6pn",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -5952,52 +6114,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Korini",
-      "account": "Korinitrade",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "CSR",
-        "蛋总"
-      ],
-      "tgAlphas": [
-        "CSR",
-        "蛋总"
-      ],
-      "xAlphas": [],
-      "mentions": 2,
-      "firstSeen": "2026-11-01T16:52:34+00:00",
-      "lastSeen": "2026-11-07T11:12:54+00:00",
-      "description": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Korini",
-          "account": "Korinitrade",
-          "alpha": "蛋总",
-          "seenAt": "2026-11-01T16:52:34+00:00",
-          "messageId": "dodtwitterbot/39082",
-          "description": "all in one on elysium mainnet trading terminal RWAs pairing lauchapad",
-          "text": "all in one on elysium mainnet trading terminal RWAs pairing lauchapad"
-        },
-        {
-          "source": "TG",
-          "project": "Korini",
-          "account": "Korinitrade",
-          "alpha": "CSR",
-          "seenAt": "2026-11-07T11:12:54+00:00",
-          "messageId": "dodtwitterbot/40049",
-          "description": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
-          "text": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social"
-        }
-      ],
-      "text": " Korini Korinitrade all in one on elysium mainnet trading terminal RWAs pairing lauchapad Korini Korinitrade Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
-      "score": 4,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
       "project": "Launch Craft",
       "account": "LaunchCraft_xyz",
       "sources": [
@@ -6361,52 +6477,6 @@
         }
       ],
       "text": " NearQuery NearQuery Ask the chain. Show the work. Re-runnable, data-backed research on @near_intents . Every number computed from public data. Built at NEAR HACKATHON. @nearprotocol NearQuery NearQuery Ask the chain. Show the work. Re-runnable, data-backed research on @near_intents . Every number computed from public data. Built at NEAR HACKATHON. @nearprotocol",
-      "score": 4,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Neuriio",
-      "account": "Neuriio",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "lakka",
-        "蛋总"
-      ],
-      "tgAlphas": [
-        "lakka",
-        "蛋总"
-      ],
-      "xAlphas": [],
-      "mentions": 2,
-      "firstSeen": "2026-11-01T04:35:15+00:00",
-      "lastSeen": "2026-11-02T11:02:15+00:00",
-      "description": "Tokenize Accounts, Create Social Markets.\n\nBuilt on @Enter_Elysium",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Neuriio",
-          "account": "Neuriio",
-          "alpha": "蛋总",
-          "seenAt": "2026-11-01T04:35:15+00:00",
-          "messageId": "dodtwitterbot/38867",
-          "description": "Tokenize Accounts, Create Social Markets.\n\nBuilt on @Enter_Elysium",
-          "text": "Tokenize Accounts, Create Social Markets.\n\nBuilt on @Enter_Elysium"
-        },
-        {
-          "source": "TG",
-          "project": "Neuriio",
-          "account": "Neuriio",
-          "alpha": "lakka",
-          "seenAt": "2026-11-02T11:02:15+00:00",
-          "messageId": "dodtwitterbot/39198",
-          "description": "Tokenize Accounts, Create Social Markets.\n\nBuilt on @Enter_Elysium",
-          "text": "Tokenize Accounts, Create Social Markets.\n\nBuilt on @Enter_Elysium"
-        }
-      ],
-      "text": " Neuriio Neuriio Tokenize Accounts, Create Social Markets.\n\nBuilt on @Enter_Elysium Neuriio Neuriio Tokenize Accounts, Create Social Markets.\n\nBuilt on @Enter_Elysium",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -7051,6 +7121,52 @@
         }
       ],
       "text": " SolRocket SolRocketPad Solana’s all-in-one launchpad. Only 3 projects launched: Solchat (&#036;200M ATH) & OctonetAI (&#036;30M). Full-stack tools, real results, built for serious builders. SolRocket SolRocketPad Solana’s all-in-one launchpad. Only 3 projects launched: Solchat (&#036;200M ATH) & OctonetAI (&#036;30M). Full-stack tools, real results, built for serious builders.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Spire",
+      "account": "Spire_index",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "A佬",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "A佬",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-08T13:50:23+00:00",
+      "lastSeen": "2026-11-08T14:31:19+00:00",
+      "description": "Hold one coin. Get Elysium’s strongest tokens airdropped to your wallet every hour. Rules-based index, launched on Obol. &#036;SPIRE",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Spire",
+          "account": "Spire_index",
+          "alpha": "A佬",
+          "seenAt": "2026-11-08T13:50:23+00:00",
+          "messageId": "dodtwitterbot/40194",
+          "description": "Hold one coin. Get Elysium’s strongest tokens airdropped to your wallet every hour. Rules-based index, launched on Obol. &#036;SPIRE",
+          "text": "Hold one coin. Get Elysium’s strongest tokens airdropped to your wallet every hour. Rules-based index, launched on Obol. &#036;SPIRE"
+        },
+        {
+          "source": "TG",
+          "project": "Spire",
+          "account": "Spire_index",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-08T14:31:19+00:00",
+          "messageId": "dodtwitterbot/40203",
+          "description": "Hold one coin. Get Elysium’s strongest tokens airdropped to your wallet every hour. Rules-based index, launched on Obol. &#036;SPIRE",
+          "text": "Hold one coin. Get Elysium’s strongest tokens airdropped to your wallet every hour. Rules-based index, launched on Obol. &#036;SPIRE"
+        }
+      ],
+      "text": " Spire Spire_index Hold one coin. Get Elysium’s strongest tokens airdropped to your wallet every hour. Rules-based index, launched on Obol. &#036;SPIRE Spire Spire_index Hold one coin. Get Elysium’s strongest tokens airdropped to your wallet every hour. Rules-based index, launched on Obol. &#036;SPIRE",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -9060,6 +9176,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Casing",
+      "account": "casing_acc",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-08T12:43:23+00:00",
+      "lastSeen": "2026-11-08T12:43:23+00:00",
+      "description": "Give agents a HYPE budget on Elysium.\nSet payment limits, approved recipients and an expiry.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Casing",
+          "account": "casing_acc",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-08T12:43:23+00:00",
+          "messageId": "dodtwitterbot/40175",
+          "description": "Give agents a HYPE budget on Elysium.\nSet payment limits, approved recipients and an expiry.",
+          "text": "Give agents a HYPE budget on Elysium.\nSet payment limits, approved recipients and an expiry."
+        }
+      ],
+      "text": " Casing casing_acc Give agents a HYPE budget on Elysium.\nSet payment limits, approved recipients and an expiry.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "CeilingDotFun",
       "account": "CeilingDotFun",
       "sources": [
@@ -9089,6 +9239,40 @@
         }
       ],
       "text": " CeilingDotFun CeilingDotFun A @Solana launchpad enabling permissionless token creation for any online identity, with vault-based creator fee distribution",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Charon",
+      "account": "Charonfnd",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-08T12:22:46+00:00",
+      "lastSeen": "2026-11-08T12:22:46+00:00",
+      "description": "⛴ autonomous capital on Elysium ⛴\nagents execute · holders steer · the toll burns &#036;CHARON\n\nstealth launch",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Charon",
+          "account": "Charonfnd",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-08T12:22:46+00:00",
+          "messageId": "dodtwitterbot/40167",
+          "description": "⛴ autonomous capital on Elysium ⛴\nagents execute · holders steer · the toll burns &#036;CHARON\n\nstealth launch",
+          "text": "⛴ autonomous capital on Elysium ⛴\nagents execute · holders steer · the toll burns &#036;CHARON\n\nstealth launch"
+        }
+      ],
+      "text": " Charon Charonfnd ⛴ autonomous capital on Elysium ⛴\nagents execute · holders steer · the toll burns &#036;CHARON\n\nstealth launch",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -9298,6 +9482,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Corody",
+      "account": "CorodyEVM",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-08T13:35:53+00:00",
+      "lastSeen": "2026-11-08T13:35:53+00:00",
+      "description": "Endowments for AI agents.\n\nStaked HYPE pays the draw, mandates cap the spend.\n\nBuilt on @Enter_Elysium .",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Corody",
+          "account": "CorodyEVM",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-08T13:35:53+00:00",
+          "messageId": "dodtwitterbot/40188",
+          "description": "Endowments for AI agents.\n\nStaked HYPE pays the draw, mandates cap the spend.\n\nBuilt on @Enter_Elysium .",
+          "text": "Endowments for AI agents.\n\nStaked HYPE pays the draw, mandates cap the spend.\n\nBuilt on @Enter_Elysium ."
+        }
+      ],
+      "text": " Corody CorodyEVM Endowments for AI agents.\n\nStaked HYPE pays the draw, mandates cap the spend.\n\nBuilt on @Enter_Elysium .",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Cracker Bot",
       "account": "crackerXbot",
       "sources": [
@@ -9400,6 +9618,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Cryptstarter",
+      "account": "IlesanmiOluran1",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-08T08:20:40+00:00",
+      "lastSeen": "2026-11-08T08:20:40+00:00",
+      "description": "Real crowdfunding on @enter_elysium . Raise for your product, and tokenise it by launching on Cryptstarter.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Cryptstarter",
+          "account": "IlesanmiOluran1",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-08T08:20:40+00:00",
+          "messageId": "dodtwitterbot/40142",
+          "description": "Real crowdfunding on @enter_elysium . Raise for your product, and tokenise it by launching on Cryptstarter.",
+          "text": "Real crowdfunding on @enter_elysium . Raise for your product, and tokenise it by launching on Cryptstarter."
+        }
+      ],
+      "text": " Cryptstarter IlesanmiOluran1 Real crowdfunding on @enter_elysium . Raise for your product, and tokenise it by launching on Cryptstarter.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Cults",
       "account": "cultsfamily",
       "sources": [
@@ -9429,6 +9681,40 @@
         }
       ],
       "text": " Cults cultsfamily The first launchpad for humans",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Curb Market",
+      "account": "curbmarketfi",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "CSR"
+      ],
+      "tgAlphas": [
+        "CSR"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-08T16:14:45+00:00",
+      "lastSeen": "2026-11-08T16:14:45+00:00",
+      "description": "Tokenized stocks on Elysium. Each TICKERc is backed by USDC and a 1x long on its Hyperliquid perp. Mint it, redeem it, or launch a meme priced in it. &#036;CURB",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Curb Market",
+          "account": "curbmarketfi",
+          "alpha": "CSR",
+          "seenAt": "2026-11-08T16:14:45+00:00",
+          "messageId": "dodtwitterbot/40214",
+          "description": "Tokenized stocks on Elysium. Each TICKERc is backed by USDC and a 1x long on its Hyperliquid perp. Mint it, redeem it, or launch a meme priced in it. &#036;CURB",
+          "text": "Tokenized stocks on Elysium. Each TICKERc is backed by USDC and a 1x long on its Hyperliquid perp. Mint it, redeem it, or launch a meme priced in it. &#036;CURB"
+        }
+      ],
+      "text": " Curb Market curbmarketfi Tokenized stocks on Elysium. Each TICKERc is backed by USDC and a 1x long on its Hyperliquid perp. Mint it, redeem it, or launch a meme priced in it. &#036;CURB",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -9706,6 +9992,108 @@
       "avatarUrl": ""
     },
     {
+      "project": "Elynd",
+      "account": "_elynd",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-08T11:56:35+00:00",
+      "lastSeen": "2026-11-08T11:56:35+00:00",
+      "description": "Agentic trading for Hyperliquid. Built on @Enter_Elysium .",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Elynd",
+          "account": "_elynd",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-08T11:56:35+00:00",
+          "messageId": "dodtwitterbot/40159",
+          "description": "Agentic trading for Hyperliquid. Built on @Enter_Elysium .",
+          "text": "Agentic trading for Hyperliquid. Built on @Enter_Elysium ."
+        }
+      ],
+      "text": " Elynd _elynd Agentic trading for Hyperliquid. Built on @Enter_Elysium .",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Elyodds",
+      "account": "Elyodds",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-08T11:23:22+00:00",
+      "lastSeen": "2026-11-08T11:23:22+00:00",
+      "description": "Prediction market on Elysium · trade, comment, and follow the crowd\n\nca:\n0x11ba2d2767c55d8599e5f615c450ff62f0e5dc62",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Elyodds",
+          "account": "Elyodds",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-08T11:23:22+00:00",
+          "messageId": "dodtwitterbot/40152",
+          "description": "Prediction market on Elysium · trade, comment, and follow the crowd\n\nca:\n0x11ba2d2767c55d8599e5f615c450ff62f0e5dc62",
+          "text": "Prediction market on Elysium · trade, comment, and follow the crowd\n\nca:\n0x11ba2d2767c55d8599e5f615c450ff62f0e5dc62"
+        }
+      ],
+      "text": " Elyodds Elyodds Prediction market on Elysium · trade, comment, and follow the crowd\n\nca:\n0x11ba2d2767c55d8599e5f615c450ff62f0e5dc62",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "elypet.fun",
+      "account": "elypetfun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-08T13:46:36+00:00",
+      "lastSeen": "2026-11-08T13:46:36+00:00",
+      "description": "Your virtual pet on Elysium. Little ghosts, real yield. Every meal burns &#036;PET and fills the HYPE vault.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "elypet.fun",
+          "account": "elypetfun",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-08T13:46:36+00:00",
+          "messageId": "dodtwitterbot/40193",
+          "description": "Your virtual pet on Elysium. Little ghosts, real yield. Every meal burns &#036;PET and fills the HYPE vault.",
+          "text": "Your virtual pet on Elysium. Little ghosts, real yield. Every meal burns &#036;PET and fills the HYPE vault."
+        }
+      ],
+      "text": " elypet.fun elypetfun Your virtual pet on Elysium. Little ghosts, real yield. Every meal burns &#036;PET and fills the HYPE vault.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "elyra",
       "account": "useelyraxyz",
       "sources": [
@@ -9769,6 +10157,40 @@
         }
       ],
       "text": " Elyra elyralaunch No snipers. No presale. One price for everyone. Fair launches on Elysium. &#036;ELYRA",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "ELYS.RUN",
+      "account": "ElysRun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-08T13:22:24+00:00",
+      "lastSeen": "2026-11-08T13:22:24+00:00",
+      "description": "The memecoin launchpad for Elysium. Launch with HYPE or SOL. https://t.co/Gb67DqsJHz",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "ELYS.RUN",
+          "account": "ElysRun",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-08T13:22:24+00:00",
+          "messageId": "dodtwitterbot/40185",
+          "description": "The memecoin launchpad for Elysium. Launch with HYPE or SOL. https://t.co/Gb67DqsJHz",
+          "text": "The memecoin launchpad for Elysium. Launch with HYPE or SOL. https://t.co/Gb67DqsJHz"
+        }
+      ],
+      "text": " ELYS.RUN ElysRun The memecoin launchpad for Elysium. Launch with HYPE or SOL. https://t.co/Gb67DqsJHz",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -9876,6 +10298,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "elytrack",
+      "account": "elytrack_io",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-08T13:15:46+00:00",
+      "lastSeen": "2026-11-08T13:15:46+00:00",
+      "description": "Smart wallets and insiders on Elysium: what they buy and sell, live, on every launchpad. Launch alerts, Telegram bot, MCP for agents. Data, not advice.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "elytrack",
+          "account": "elytrack_io",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-08T13:15:46+00:00",
+          "messageId": "dodtwitterbot/40180",
+          "description": "Smart wallets and insiders on Elysium: what they buy and sell, live, on every launchpad. Launch alerts, Telegram bot, MCP for agents. Data, not advice.",
+          "text": "Smart wallets and insiders on Elysium: what they buy and sell, live, on every launchpad. Launch alerts, Telegram bot, MCP for agents. Data, not advice."
+        }
+      ],
+      "text": " elytrack elytrack_io Smart wallets and insiders on Elysium: what they buy and sell, live, on every launchpad. Launch alerts, Telegram bot, MCP for agents. Data, not advice.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "ElyWord",
       "account": "elyword_xyz",
       "sources": [
@@ -9905,6 +10361,40 @@
         }
       ],
       "text": " ElyWord elyword_xyz Building a daily word game on Elysium",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Etchy",
+      "account": "EtchydotFun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BTC alpha"
+      ],
+      "tgAlphas": [
+        "BTC alpha"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-08T14:27:28+00:00",
+      "lastSeen": "2026-11-08T14:27:28+00:00",
+      "description": "971505:1052 ᛖᛏᚲᚺᛦ\nBitcoin Runes.\nSolana speed.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Etchy",
+          "account": "EtchydotFun",
+          "alpha": "BTC alpha",
+          "seenAt": "2026-11-08T14:27:28+00:00",
+          "messageId": "dodtwitterbot/40198",
+          "description": "971505:1052 ᛖᛏᚲᚺᛦ\nBitcoin Runes.\nSolana speed.",
+          "text": "971505:1052 ᛖᛏᚲᚺᛦ\nBitcoin Runes.\nSolana speed."
+        }
+      ],
+      "text": " Etchy EtchydotFun 971505:1052 ᛖᛏᚲᚺᛦ\nBitcoin Runes.\nSolana speed.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -10692,6 +11182,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Grump Guys",
+      "account": "GrumpGuysNFT",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-08T13:19:35+00:00",
+      "lastSeen": "2026-11-08T13:19:35+00:00",
+      "description": "Invading @Enter_Elysium one at a time.\n\nNFT collection made for aliens not humans.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Grump Guys",
+          "account": "GrumpGuysNFT",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-08T13:19:35+00:00",
+          "messageId": "dodtwitterbot/40184",
+          "description": "Invading @Enter_Elysium one at a time.\n\nNFT collection made for aliens not humans.",
+          "text": "Invading @Enter_Elysium one at a time.\n\nNFT collection made for aliens not humans."
+        }
+      ],
+      "text": " Grump Guys GrumpGuysNFT Invading @Enter_Elysium one at a time.\n\nNFT collection made for aliens not humans.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "HashDoge",
       "account": "HashDogeIO",
       "sources": [
@@ -10823,6 +11347,40 @@
         }
       ],
       "text": " Hetairoi Ai Agent HetairoiAgent Your agents, riding as one. Claude Code, Codex, Cursor, Grok and more ask each other for work you decide. Open source. &#036;HETAIROI",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Hoist",
+      "account": "hoistxyz",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-08T13:38:49+00:00",
+      "lastSeen": "2026-11-08T13:38:49+00:00",
+      "description": "One token, one job: every trade drops HYPE into a public jar until it can buy its own spot listing on Hyperliquid. Native to Elysium.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Hoist",
+          "account": "hoistxyz",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-08T13:38:49+00:00",
+          "messageId": "dodtwitterbot/40189",
+          "description": "One token, one job: every trade drops HYPE into a public jar until it can buy its own spot listing on Hyperliquid. Native to Elysium.",
+          "text": "One token, one job: every trade drops HYPE into a public jar until it can buy its own spot listing on Hyperliquid. Native to Elysium."
+        }
+      ],
+      "text": " Hoist hoistxyz One token, one job: every trade drops HYPE into a public jar until it can buy its own spot listing on Hyperliquid. Native to Elysium.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -11202,6 +11760,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "hyppo",
+      "account": "hyppotrade",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "CSR"
+      ],
+      "tgAlphas": [
+        "CSR"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-08T15:30:20+00:00",
+      "lastSeen": "2026-11-08T15:30:20+00:00",
+      "description": "The first real agentic terminal on @Enter_Elysium .",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "hyppo",
+          "account": "hyppotrade",
+          "alpha": "CSR",
+          "seenAt": "2026-11-08T15:30:20+00:00",
+          "messageId": "dodtwitterbot/40210",
+          "description": "The first real agentic terminal on @Enter_Elysium .",
+          "text": "The first real agentic terminal on @Enter_Elysium ."
+        }
+      ],
+      "text": " hyppo hyppotrade The first real agentic terminal on @Enter_Elysium .",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Hypurr Games",
       "account": "hypurrgames",
       "sources": [
@@ -11406,6 +11998,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Isles of Elysium",
+      "account": "islesgg",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-08T11:47:27+00:00",
+      "lastSeen": "2026-11-08T11:47:27+00:00",
+      "description": "Build your city on the floating isles of Elysium. Mint, trade and raid in an onchain strategy game. Earn &#036;DRACHMA.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Isles of Elysium",
+          "account": "islesgg",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-08T11:47:27+00:00",
+          "messageId": "dodtwitterbot/40156",
+          "description": "Build your city on the floating isles of Elysium. Mint, trade and raid in an onchain strategy game. Earn &#036;DRACHMA.",
+          "text": "Build your city on the floating isles of Elysium. Mint, trade and raid in an onchain strategy game. Earn &#036;DRACHMA."
+        }
+      ],
+      "text": " Isles of Elysium islesgg Build your city on the floating isles of Elysium. Mint, trade and raid in an onchain strategy game. Earn &#036;DRACHMA.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "JAGER AGENT",
       "account": "jagerbnb_",
       "sources": [
@@ -11503,6 +12129,40 @@
         }
       ],
       "text": " kilnpad kilnpad A launchpad for @Enter_Elysium .",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Kinetiq Energy",
+      "account": "KeenOnElysium",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-08T13:52:17+00:00",
+      "lastSeen": "2026-11-08T13:52:17+00:00",
+      "description": "E = ½mv².\nThe market charges the battery. The dump fires it. The supply burns.\n⚡ &#036;KEEN on Elysium",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Kinetiq Energy",
+          "account": "KeenOnElysium",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-08T13:52:17+00:00",
+          "messageId": "dodtwitterbot/40195",
+          "description": "E = ½mv².\nThe market charges the battery. The dump fires it. The supply burns.\n⚡ &#036;KEEN on Elysium",
+          "text": "E = ½mv².\nThe market charges the battery. The dump fires it. The supply burns.\n⚡ &#036;KEEN on Elysium"
+        }
+      ],
+      "text": " Kinetiq Energy KeenOnElysium E = ½mv².\nThe market charges the battery. The dump fires it. The supply burns.\n⚡ &#036;KEEN on Elysium",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -12591,6 +13251,40 @@
         }
       ],
       "text": " Nymra Nymrasi Privacy superintelligence for users, apps & security teams. See what the chain reveals and prevent it.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Onchain Bulls",
+      "account": "bullsonelysium",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-08T11:53:50+00:00",
+      "lastSeen": "2026-11-08T11:53:50+00:00",
+      "description": "Bulls On Elysium. 2,222 pixel bulls, 100% onchain.\n\nElysium mainnet. 🐂",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Onchain Bulls",
+          "account": "bullsonelysium",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-08T11:53:50+00:00",
+          "messageId": "dodtwitterbot/40158",
+          "description": "Bulls On Elysium. 2,222 pixel bulls, 100% onchain.\n\nElysium mainnet. 🐂",
+          "text": "Bulls On Elysium. 2,222 pixel bulls, 100% onchain.\n\nElysium mainnet. 🐂"
+        }
+      ],
+      "text": " Onchain Bulls bullsonelysium Bulls On Elysium. 2,222 pixel bulls, 100% onchain.\n\nElysium mainnet. 🐂",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -15010,6 +15704,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Talyn",
+      "account": "Talynlayer1",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-08T13:44:37+00:00",
+      "lastSeen": "2026-11-08T13:44:37+00:00",
+      "description": "TALYN is a vision for a new generation of digital money. Money without borders. Payments without barriers.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Talyn",
+          "account": "Talynlayer1",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-08T13:44:37+00:00",
+          "messageId": "dodtwitterbot/40192",
+          "description": "TALYN is a vision for a new generation of digital money. Money without borders. Payments without barriers.",
+          "text": "TALYN is a vision for a new generation of digital money. Money without borders. Payments without barriers."
+        }
+      ],
+      "text": " Talyn Talynlayer1 TALYN is a vision for a new generation of digital money. Money without borders. Payments without barriers.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Taoway",
       "account": "Taowayxyz",
       "sources": [
@@ -15384,6 +16112,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Tracehound",
+      "account": "tracehoundapp",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-08T13:30:55+00:00",
+      "lastSeen": "2026-11-08T13:30:55+00:00",
+      "description": "Every token leaves a trail. We follow it.\n\nTrack new launches, uncover deployer activity, and trade from one terminal.\nBuilt for @Enter_Elysium .",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Tracehound",
+          "account": "tracehoundapp",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-08T13:30:55+00:00",
+          "messageId": "dodtwitterbot/40187",
+          "description": "Every token leaves a trail. We follow it.\n\nTrack new launches, uncover deployer activity, and trade from one terminal.\nBuilt for @Enter_Elysium .",
+          "text": "Every token leaves a trail. We follow it.\n\nTrack new launches, uncover deployer activity, and trade from one terminal.\nBuilt for @Enter_Elysium ."
+        }
+      ],
+      "text": " Tracehound tracehoundapp Every token leaves a trail. We follow it.\n\nTrack new launches, uncover deployer activity, and trade from one terminal.\nBuilt for @Enter_Elysium .",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "TurtleFren",
       "account": "TurtleFrenGame",
       "sources": [
@@ -15583,6 +16345,40 @@
         }
       ],
       "text": " Veins veindotspace The first mining protocol on Elysium.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Volta",
+      "account": "VoltaFamily",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-08T14:05:39+00:00",
+      "lastSeen": "2026-11-08T14:05:39+00:00",
+      "description": "The Elysium @Uniswap Launchpad for next-gen tokens.\n\nFees in HYPE/Stocks for creators, buybacks and holders.\n\n80% of fees used to buyback and burn &#036;VOLTA.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Volta",
+          "account": "VoltaFamily",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-08T14:05:39+00:00",
+          "messageId": "dodtwitterbot/40196",
+          "description": "The Elysium @Uniswap Launchpad for next-gen tokens.\n\nFees in HYPE/Stocks for creators, buybacks and holders.\n\n80% of fees used to buyback and burn &#036;VOLTA.",
+          "text": "The Elysium @Uniswap Launchpad for next-gen tokens.\n\nFees in HYPE/Stocks for creators, buybacks and holders.\n\n80% of fees used to buyback and burn &#036;VOLTA."
+        }
+      ],
+      "text": " Volta VoltaFamily The Elysium @Uniswap Launchpad for next-gen tokens.\n\nFees in HYPE/Stocks for creators, buybacks and holders.\n\n80% of fees used to buyback and burn &#036;VOLTA.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -17032,6 +17828,22 @@
       "avatarUrl": ""
     },
     {
+      "project": "Korini",
+      "x_account": "Korinitrade",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "CSR",
+        "Skrchen666(钻石手伤心版 绝对纸手之人）",
+        "蛋总"
+      ],
+      "description": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
+      "first_seen_utc": "2026-11-01T16:52:34+00:00",
+      "last_seen_utc": "2026-11-08T10:33:14+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
       "project": "Kuip",
       "x_account": "KuipFun",
       "total_mentions": 3,
@@ -17108,6 +17920,22 @@
       "description": "Building the AI agent ecosystem on @Enter_Elysium .\n\n5,280 agentic NFTs, each with a desk, a wallet and a career on-chain\n\n▎ Mergers & Agents · Doors open 11.9",
       "first_seen_utc": "2026-11-06T09:17:45+00:00",
       "last_seen_utc": "2026-11-07T14:53:11+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Neuriio",
+      "x_account": "Neuriio",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "lakka",
+        "speest 💎",
+        "蛋总"
+      ],
+      "description": "Tokenize Accounts, Create Social Markets.\n\nBuilt on @Enter_Elysium",
+      "first_seen_utc": "2026-11-01T04:35:15+00:00",
+      "last_seen_utc": "2026-11-08T14:28:25+00:00",
       "status": "priority",
       "avatarUrl": ""
     },
@@ -17497,6 +18325,21 @@
       "description": "The @Ethereum launchpad where every coin gets an AI Agent: built around your logo, it runs the treasury, grows when it trades and sleeps when it's quiet.",
       "first_seen_utc": "2026-10-28T01:09:00+08:00",
       "last_seen_utc": "2026-10-28T19:01:00+08:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Bond Agent",
+      "x_account": "Bagent_binance",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "A佬",
+        "阿宏"
+      ],
+      "description": "A charity memecoin launched on BNB Chain, deeply tied to Binance Agentic Wallet ID with a fair bonding-curve mint mechanism.\nTelegram: https://t.co/DRCeGjM6pn",
+      "first_seen_utc": "2026-11-08T12:18:57+00:00",
+      "last_seen_utc": "2026-11-08T14:31:19+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -17951,21 +18794,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Korini",
-      "x_account": "Korinitrade",
-      "total_mentions": 2,
-      "unique_alphas": 2,
-      "alphas": [
-        "CSR",
-        "蛋总"
-      ],
-      "description": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
-      "first_seen_utc": "2026-11-01T16:52:34+00:00",
-      "last_seen_utc": "2026-11-07T11:12:54+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "Launch Craft",
       "x_account": "LaunchCraft_xyz",
       "total_mentions": 2,
@@ -18082,21 +18910,6 @@
       "description": "Ask the chain. Show the work. Re-runnable, data-backed research on @near_intents . Every number computed from public data. Built at NEAR HACKATHON. @nearprotocol",
       "first_seen_utc": "2026-11-02T19:39:55+00:00",
       "last_seen_utc": "2026-11-02T19:56:42+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Neuriio",
-      "x_account": "Neuriio",
-      "total_mentions": 2,
-      "unique_alphas": 2,
-      "alphas": [
-        "lakka",
-        "蛋总"
-      ],
-      "description": "Tokenize Accounts, Create Social Markets.\n\nBuilt on @Enter_Elysium",
-      "first_seen_utc": "2026-11-01T04:35:15+00:00",
-      "last_seen_utc": "2026-11-02T11:02:15+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -18307,6 +19120,21 @@
       "description": "Solana’s all-in-one launchpad. Only 3 projects launched: Solchat (&#036;200M ATH) & OctonetAI (&#036;30M). Full-stack tools, real results, built for serious builders.",
       "first_seen_utc": "2026-11-01T08:31:46+00:00",
       "last_seen_utc": "2026-11-02T08:39:31+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Spire",
+      "x_account": "Spire_index",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "A佬",
+        "阿宏"
+      ],
+      "description": "Hold one coin. Get Elysium’s strongest tokens airdropped to your wallet every hour. Rules-based index, launched on Obol. &#036;SPIRE",
+      "first_seen_utc": "2026-11-08T13:50:23+00:00",
+      "last_seen_utc": "2026-11-08T14:31:19+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -19081,6 +19909,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Casing",
+      "x_account": "casing_acc",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "Give agents a HYPE budget on Elysium.\nSet payment limits, approved recipients and an expiry.",
+      "first_seen_utc": "2026-11-08T12:43:23+00:00",
+      "last_seen_utc": "2026-11-08T12:43:23+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "CeilingDotFun",
       "x_account": "CeilingDotFun",
       "total_mentions": 1,
@@ -19091,6 +19933,20 @@
       "description": "A @Solana launchpad enabling permissionless token creation for any online identity, with vault-based creator fee distribution",
       "first_seen_utc": "2026-11-05T18:28:54+00:00",
       "last_seen_utc": "2026-11-05T18:28:54+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Charon",
+      "x_account": "Charonfnd",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "⛴ autonomous capital on Elysium ⛴\nagents execute · holders steer · the toll burns &#036;CHARON\n\nstealth launch",
+      "first_seen_utc": "2026-11-08T12:22:46+00:00",
+      "last_seen_utc": "2026-11-08T12:22:46+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -19179,6 +20035,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Corody",
+      "x_account": "CorodyEVM",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "Endowments for AI agents.\n\nStaked HYPE pays the draw, mandates cap the spend.\n\nBuilt on @Enter_Elysium .",
+      "first_seen_utc": "2026-11-08T13:35:53+00:00",
+      "last_seen_utc": "2026-11-08T13:35:53+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Cracker Bot",
       "x_account": "crackerXbot",
       "total_mentions": 1,
@@ -19221,6 +20091,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Cryptstarter",
+      "x_account": "IlesanmiOluran1",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "阿宏"
+      ],
+      "description": "Real crowdfunding on @enter_elysium . Raise for your product, and tokenise it by launching on Cryptstarter.",
+      "first_seen_utc": "2026-11-08T08:20:40+00:00",
+      "last_seen_utc": "2026-11-08T08:20:40+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Cults",
       "x_account": "cultsfamily",
       "total_mentions": 1,
@@ -19231,6 +20115,20 @@
       "description": "The first launchpad for humans",
       "first_seen_utc": "2026-11-01T14:31:09+00:00",
       "last_seen_utc": "2026-11-01T14:31:09+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Curb Market",
+      "x_account": "curbmarketfi",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "CSR"
+      ],
+      "description": "Tokenized stocks on Elysium. Each TICKERc is backed by USDC and a 1x long on its Hyperliquid perp. Mint it, redeem it, or launch a meme priced in it. &#036;CURB",
+      "first_seen_utc": "2026-11-08T16:14:45+00:00",
+      "last_seen_utc": "2026-11-08T16:14:45+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -19347,6 +20245,48 @@
       "avatarUrl": ""
     },
     {
+      "project": "Elynd",
+      "x_account": "_elynd",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "Agentic trading for Hyperliquid. Built on @Enter_Elysium .",
+      "first_seen_utc": "2026-11-08T11:56:35+00:00",
+      "last_seen_utc": "2026-11-08T11:56:35+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Elyodds",
+      "x_account": "Elyodds",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "Prediction market on Elysium · trade, comment, and follow the crowd\n\nca:\n0x11ba2d2767c55d8599e5f615c450ff62f0e5dc62",
+      "first_seen_utc": "2026-11-08T11:23:22+00:00",
+      "last_seen_utc": "2026-11-08T11:23:22+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "elypet.fun",
+      "x_account": "elypetfun",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "Your virtual pet on Elysium. Little ghosts, real yield. Every meal burns &#036;PET and fills the HYPE vault.",
+      "first_seen_utc": "2026-11-08T13:46:36+00:00",
+      "last_seen_utc": "2026-11-08T13:46:36+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "elyra",
       "x_account": "useelyraxyz",
       "total_mentions": 1,
@@ -19371,6 +20311,20 @@
       "description": "No snipers. No presale. One price for everyone. Fair launches on Elysium. &#036;ELYRA",
       "first_seen_utc": "2026-11-07T05:58:51+00:00",
       "last_seen_utc": "2026-11-07T05:58:51+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "ELYS.RUN",
+      "x_account": "ElysRun",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "The memecoin launchpad for Elysium. Launch with HYPE or SOL. https://t.co/Gb67DqsJHz",
+      "first_seen_utc": "2026-11-08T13:22:24+00:00",
+      "last_seen_utc": "2026-11-08T13:22:24+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -19417,6 +20371,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "elytrack",
+      "x_account": "elytrack_io",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "Smart wallets and insiders on Elysium: what they buy and sell, live, on every launchpad. Launch alerts, Telegram bot, MCP for agents. Data, not advice.",
+      "first_seen_utc": "2026-11-08T13:15:46+00:00",
+      "last_seen_utc": "2026-11-08T13:15:46+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "ElyWord",
       "x_account": "elyword_xyz",
       "total_mentions": 1,
@@ -19427,6 +20395,20 @@
       "description": "Building a daily word game on Elysium",
       "first_seen_utc": "2026-11-01T08:09:52+00:00",
       "last_seen_utc": "2026-11-01T08:09:52+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Etchy",
+      "x_account": "EtchydotFun",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "BTC alpha"
+      ],
+      "description": "971505:1052 ᛖᛏᚲᚺᛦ\nBitcoin Runes.\nSolana speed.",
+      "first_seen_utc": "2026-11-08T14:27:28+00:00",
+      "last_seen_utc": "2026-11-08T14:27:28+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -19753,6 +20735,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Grump Guys",
+      "x_account": "GrumpGuysNFT",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "Invading @Enter_Elysium one at a time.\n\nNFT collection made for aliens not humans.",
+      "first_seen_utc": "2026-11-08T13:19:35+00:00",
+      "last_seen_utc": "2026-11-08T13:19:35+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "HashDoge",
       "x_account": "HashDogeIO",
       "total_mentions": 1,
@@ -19805,6 +20801,20 @@
       "description": "Your agents, riding as one. Claude Code, Codex, Cursor, Grok and more ask each other for work you decide. Open source. &#036;HETAIROI",
       "first_seen_utc": "2026-11-04T11:07:19+00:00",
       "last_seen_utc": "2026-11-04T11:07:19+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Hoist",
+      "x_account": "hoistxyz",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "One token, one job: every trade drops HYPE into a public jar until it can buy its own spot listing on Hyperliquid. Native to Elysium.",
+      "first_seen_utc": "2026-11-08T13:38:49+00:00",
+      "last_seen_utc": "2026-11-08T13:38:49+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -19963,6 +20973,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "hyppo",
+      "x_account": "hyppotrade",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "CSR"
+      ],
+      "description": "The first real agentic terminal on @Enter_Elysium .",
+      "first_seen_utc": "2026-11-08T15:30:20+00:00",
+      "last_seen_utc": "2026-11-08T15:30:20+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Hypurr Games",
       "x_account": "hypurrgames",
       "total_mentions": 1,
@@ -20047,6 +21071,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Isles of Elysium",
+      "x_account": "islesgg",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "Build your city on the floating isles of Elysium. Mint, trade and raid in an onchain strategy game. Earn &#036;DRACHMA.",
+      "first_seen_utc": "2026-11-08T11:47:27+00:00",
+      "last_seen_utc": "2026-11-08T11:47:27+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "JAGER AGENT",
       "x_account": "jagerbnb_",
       "total_mentions": 1,
@@ -20085,6 +21123,20 @@
       "description": "A launchpad for @Enter_Elysium .",
       "first_seen_utc": "2026-11-02T11:04:56+00:00",
       "last_seen_utc": "2026-11-02T11:04:56+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Kinetiq Energy",
+      "x_account": "KeenOnElysium",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "E = ½mv².\nThe market charges the battery. The dump fires it. The supply burns.\n⚡ &#036;KEEN on Elysium",
+      "first_seen_utc": "2026-11-08T13:52:17+00:00",
+      "last_seen_utc": "2026-11-08T13:52:17+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -20533,6 +21585,20 @@
       "description": "Privacy superintelligence for users, apps & security teams. See what the chain reveals and prevent it.",
       "first_seen_utc": "2026-11-05T10:03:52+00:00",
       "last_seen_utc": "2026-11-05T10:03:52+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Onchain Bulls",
+      "x_account": "bullsonelysium",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "Bulls On Elysium. 2,222 pixel bulls, 100% onchain.\n\nElysium mainnet. 🐂",
+      "first_seen_utc": "2026-11-08T11:53:50+00:00",
+      "last_seen_utc": "2026-11-08T11:53:50+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -21531,6 +22597,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Talyn",
+      "x_account": "Talynlayer1",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "TALYN is a vision for a new generation of digital money. Money without borders. Payments without barriers.",
+      "first_seen_utc": "2026-11-08T13:44:37+00:00",
+      "last_seen_utc": "2026-11-08T13:44:37+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Taoway",
       "x_account": "Taowayxyz",
       "total_mentions": 1,
@@ -21685,6 +22765,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Tracehound",
+      "x_account": "tracehoundapp",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "Every token leaves a trail. We follow it.\n\nTrack new launches, uncover deployer activity, and trade from one terminal.\nBuilt for @Enter_Elysium .",
+      "first_seen_utc": "2026-11-08T13:30:55+00:00",
+      "last_seen_utc": "2026-11-08T13:30:55+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "TurtleFren",
       "x_account": "TurtleFrenGame",
       "total_mentions": 1,
@@ -21765,6 +22859,20 @@
       "description": "The first mining protocol on Elysium.",
       "first_seen_utc": "2026-11-02T16:43:33+00:00",
       "last_seen_utc": "2026-11-02T16:43:33+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Volta",
+      "x_account": "VoltaFamily",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "The Elysium @Uniswap Launchpad for next-gen tokens.\n\nFees in HYPE/Stocks for creators, buybacks and holders.\n\n80% of fees used to buyback and burn &#036;VOLTA.",
+      "first_seen_utc": "2026-11-08T14:05:39+00:00",
+      "last_seen_utc": "2026-11-08T14:05:39+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -22079,15 +23187,109 @@
   ],
   "daily": [
     {
-      "date": "2026-11-08",
-      "totalRows": 10,
-      "projectCount": 8,
-      "focusCount": 2,
-      "candidateCount": 6,
+      "date": "2026-11-09",
+      "totalRows": 1,
+      "projectCount": 1,
+      "focusCount": 0,
+      "candidateCount": 1,
       "crossSource": 0,
-      "newCount": 7,
-      "repeatCount": 1,
+      "newCount": 1,
+      "repeatCount": 0,
       "projects": [
+        {
+          "project": "Curb Market",
+          "account": "curbmarketfi",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "CSR"
+          ],
+          "tgAlphas": [
+            "CSR"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-08T16:14:45+00:00",
+          "lastSeen": "2026-11-08T16:14:45+00:00",
+          "description": "Tokenized stocks on Elysium. Each TICKERc is backed by USDC and a 1x long on its Hyperliquid perp. Mint it, redeem it, or launch a meme priced in it. &#036;CURB",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Curb Market",
+              "account": "curbmarketfi",
+              "alpha": "CSR",
+              "seenAt": "2026-11-08T16:14:45+00:00",
+              "messageId": "dodtwitterbot/40214",
+              "description": "Tokenized stocks on Elysium. Each TICKERc is backed by USDC and a 1x long on its Hyperliquid perp. Mint it, redeem it, or launch a meme priced in it. &#036;CURB",
+              "text": "Tokenized stocks on Elysium. Each TICKERc is backed by USDC and a 1x long on its Hyperliquid perp. Mint it, redeem it, or launch a meme priced in it. &#036;CURB"
+            }
+          ],
+          "text": " Curb Market curbmarketfi Tokenized stocks on Elysium. Each TICKERc is backed by USDC and a 1x long on its Hyperliquid perp. Mint it, redeem it, or launch a meme priced in it. &#036;CURB",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "totalRows": 35,
+      "projectCount": 31,
+      "focusCount": 4,
+      "candidateCount": 27,
+      "crossSource": 0,
+      "newCount": 28,
+      "repeatCount": 3,
+      "projects": [
+        {
+          "project": "Bond Agent",
+          "account": "Bagent_binance",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "A佬",
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "A佬",
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-11-08T12:18:57+00:00",
+          "lastSeen": "2026-11-08T14:31:19+00:00",
+          "description": "A charity memecoin launched on BNB Chain, deeply tied to Binance Agentic Wallet ID with a fair bonding-curve mint mechanism.\nTelegram: https://t.co/DRCeGjM6pn",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Bond Agent",
+              "account": "Bagent_binance",
+              "alpha": "A佬",
+              "seenAt": "2026-11-08T12:18:57+00:00",
+              "messageId": "dodtwitterbot/40165",
+              "description": "A charity memecoin launched on BNB Chain, deeply tied to Binance Agentic Wallet ID with a fair bonding-curve mint mechanism.\nTelegram: https://t.co/DRCeGjM6pn",
+              "text": "A charity memecoin launched on BNB Chain, deeply tied to Binance Agentic Wallet ID with a fair bonding-curve mint mechanism.\nTelegram: https://t.co/DRCeGjM6pn"
+            },
+            {
+              "source": "TG",
+              "project": "Bond Agent",
+              "account": "Bagent_binance",
+              "alpha": "阿宏",
+              "seenAt": "2026-11-08T14:31:19+00:00",
+              "messageId": "dodtwitterbot/40204",
+              "description": "A charity memecoin launched on BNB Chain, deeply tied to Binance Agentic Wallet ID with a fair bonding-curve mint mechanism.\nTelegram: https://t.co/DRCeGjM6pn",
+              "text": "A charity memecoin launched on BNB Chain, deeply tied to Binance Agentic Wallet ID with a fair bonding-curve mint mechanism.\nTelegram: https://t.co/DRCeGjM6pn"
+            }
+          ],
+          "text": " Bond Agent Bagent_binance A charity memecoin launched on BNB Chain, deeply tied to Binance Agentic Wallet ID with a fair bonding-curve mint mechanism.\nTelegram: https://t.co/DRCeGjM6pn Bond Agent Bagent_binance A charity memecoin launched on BNB Chain, deeply tied to Binance Agentic Wallet ID with a fair bonding-curve mint mechanism.\nTelegram: https://t.co/DRCeGjM6pn",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
         {
           "project": "Pin Market",
           "account": "Pinmarketfun",
@@ -22130,6 +23332,53 @@
             }
           ],
           "text": " Pin Market Pinmarketfun Pin market, paid in USDC on Solana, with your code delivered by email in minutes. Pin Market Pinmarketfun Pin market, paid in USDC on Solana, with your code delivered by email in minutes.",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Spire",
+          "account": "Spire_index",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "A佬",
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "A佬",
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-11-08T13:50:23+00:00",
+          "lastSeen": "2026-11-08T14:31:19+00:00",
+          "description": "Hold one coin. Get Elysium’s strongest tokens airdropped to your wallet every hour. Rules-based index, launched on Obol. &#036;SPIRE",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Spire",
+              "account": "Spire_index",
+              "alpha": "A佬",
+              "seenAt": "2026-11-08T13:50:23+00:00",
+              "messageId": "dodtwitterbot/40194",
+              "description": "Hold one coin. Get Elysium’s strongest tokens airdropped to your wallet every hour. Rules-based index, launched on Obol. &#036;SPIRE",
+              "text": "Hold one coin. Get Elysium’s strongest tokens airdropped to your wallet every hour. Rules-based index, launched on Obol. &#036;SPIRE"
+            },
+            {
+              "source": "TG",
+              "project": "Spire",
+              "account": "Spire_index",
+              "alpha": "阿宏",
+              "seenAt": "2026-11-08T14:31:19+00:00",
+              "messageId": "dodtwitterbot/40203",
+              "description": "Hold one coin. Get Elysium’s strongest tokens airdropped to your wallet every hour. Rules-based index, launched on Obol. &#036;SPIRE",
+              "text": "Hold one coin. Get Elysium’s strongest tokens airdropped to your wallet every hour. Rules-based index, launched on Obol. &#036;SPIRE"
+            }
+          ],
+          "text": " Spire Spire_index Hold one coin. Get Elysium’s strongest tokens airdropped to your wallet every hour. Rules-based index, launched on Obol. &#036;SPIRE Spire Spire_index Hold one coin. Get Elysium’s strongest tokens airdropped to your wallet every hour. Rules-based index, launched on Obol. &#036;SPIRE",
           "score": 4,
           "displayTier": "focus",
           "avatarUrl": "",
@@ -22218,6 +23467,146 @@
           "dayStatus": "repeat"
         },
         {
+          "project": "Casing",
+          "account": "casing_acc",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-08T12:43:23+00:00",
+          "lastSeen": "2026-11-08T12:43:23+00:00",
+          "description": "Give agents a HYPE budget on Elysium.\nSet payment limits, approved recipients and an expiry.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Casing",
+              "account": "casing_acc",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-08T12:43:23+00:00",
+              "messageId": "dodtwitterbot/40175",
+              "description": "Give agents a HYPE budget on Elysium.\nSet payment limits, approved recipients and an expiry.",
+              "text": "Give agents a HYPE budget on Elysium.\nSet payment limits, approved recipients and an expiry."
+            }
+          ],
+          "text": " Casing casing_acc Give agents a HYPE budget on Elysium.\nSet payment limits, approved recipients and an expiry.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Charon",
+          "account": "Charonfnd",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-08T12:22:46+00:00",
+          "lastSeen": "2026-11-08T12:22:46+00:00",
+          "description": "⛴ autonomous capital on Elysium ⛴\nagents execute · holders steer · the toll burns &#036;CHARON\n\nstealth launch",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Charon",
+              "account": "Charonfnd",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-08T12:22:46+00:00",
+              "messageId": "dodtwitterbot/40167",
+              "description": "⛴ autonomous capital on Elysium ⛴\nagents execute · holders steer · the toll burns &#036;CHARON\n\nstealth launch",
+              "text": "⛴ autonomous capital on Elysium ⛴\nagents execute · holders steer · the toll burns &#036;CHARON\n\nstealth launch"
+            }
+          ],
+          "text": " Charon Charonfnd ⛴ autonomous capital on Elysium ⛴\nagents execute · holders steer · the toll burns &#036;CHARON\n\nstealth launch",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Corody",
+          "account": "CorodyEVM",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-08T13:35:53+00:00",
+          "lastSeen": "2026-11-08T13:35:53+00:00",
+          "description": "Endowments for AI agents.\n\nStaked HYPE pays the draw, mandates cap the spend.\n\nBuilt on @Enter_Elysium .",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Corody",
+              "account": "CorodyEVM",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-08T13:35:53+00:00",
+              "messageId": "dodtwitterbot/40188",
+              "description": "Endowments for AI agents.\n\nStaked HYPE pays the draw, mandates cap the spend.\n\nBuilt on @Enter_Elysium .",
+              "text": "Endowments for AI agents.\n\nStaked HYPE pays the draw, mandates cap the spend.\n\nBuilt on @Enter_Elysium ."
+            }
+          ],
+          "text": " Corody CorodyEVM Endowments for AI agents.\n\nStaked HYPE pays the draw, mandates cap the spend.\n\nBuilt on @Enter_Elysium .",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Cryptstarter",
+          "account": "IlesanmiOluran1",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-08T08:20:40+00:00",
+          "lastSeen": "2026-11-08T08:20:40+00:00",
+          "description": "Real crowdfunding on @enter_elysium . Raise for your product, and tokenise it by launching on Cryptstarter.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Cryptstarter",
+              "account": "IlesanmiOluran1",
+              "alpha": "阿宏",
+              "seenAt": "2026-11-08T08:20:40+00:00",
+              "messageId": "dodtwitterbot/40142",
+              "description": "Real crowdfunding on @enter_elysium . Raise for your product, and tokenise it by launching on Cryptstarter.",
+              "text": "Real crowdfunding on @enter_elysium . Raise for your product, and tokenise it by launching on Cryptstarter."
+            }
+          ],
+          "text": " Cryptstarter IlesanmiOluran1 Real crowdfunding on @enter_elysium . Raise for your product, and tokenise it by launching on Cryptstarter.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
           "project": "Elijah Elysium",
           "account": "ElijahElysium",
           "sources": [
@@ -22253,6 +23642,426 @@
           "dayStatus": "new"
         },
         {
+          "project": "Elynd",
+          "account": "_elynd",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-08T11:56:35+00:00",
+          "lastSeen": "2026-11-08T11:56:35+00:00",
+          "description": "Agentic trading for Hyperliquid. Built on @Enter_Elysium .",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Elynd",
+              "account": "_elynd",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-08T11:56:35+00:00",
+              "messageId": "dodtwitterbot/40159",
+              "description": "Agentic trading for Hyperliquid. Built on @Enter_Elysium .",
+              "text": "Agentic trading for Hyperliquid. Built on @Enter_Elysium ."
+            }
+          ],
+          "text": " Elynd _elynd Agentic trading for Hyperliquid. Built on @Enter_Elysium .",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Elyodds",
+          "account": "Elyodds",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-08T11:23:22+00:00",
+          "lastSeen": "2026-11-08T11:23:22+00:00",
+          "description": "Prediction market on Elysium · trade, comment, and follow the crowd\n\nca:\n0x11ba2d2767c55d8599e5f615c450ff62f0e5dc62",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Elyodds",
+              "account": "Elyodds",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-08T11:23:22+00:00",
+              "messageId": "dodtwitterbot/40152",
+              "description": "Prediction market on Elysium · trade, comment, and follow the crowd\n\nca:\n0x11ba2d2767c55d8599e5f615c450ff62f0e5dc62",
+              "text": "Prediction market on Elysium · trade, comment, and follow the crowd\n\nca:\n0x11ba2d2767c55d8599e5f615c450ff62f0e5dc62"
+            }
+          ],
+          "text": " Elyodds Elyodds Prediction market on Elysium · trade, comment, and follow the crowd\n\nca:\n0x11ba2d2767c55d8599e5f615c450ff62f0e5dc62",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "elypet.fun",
+          "account": "elypetfun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-08T13:46:36+00:00",
+          "lastSeen": "2026-11-08T13:46:36+00:00",
+          "description": "Your virtual pet on Elysium. Little ghosts, real yield. Every meal burns &#036;PET and fills the HYPE vault.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "elypet.fun",
+              "account": "elypetfun",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-08T13:46:36+00:00",
+              "messageId": "dodtwitterbot/40193",
+              "description": "Your virtual pet on Elysium. Little ghosts, real yield. Every meal burns &#036;PET and fills the HYPE vault.",
+              "text": "Your virtual pet on Elysium. Little ghosts, real yield. Every meal burns &#036;PET and fills the HYPE vault."
+            }
+          ],
+          "text": " elypet.fun elypetfun Your virtual pet on Elysium. Little ghosts, real yield. Every meal burns &#036;PET and fills the HYPE vault.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "ELYS.RUN",
+          "account": "ElysRun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-08T13:22:24+00:00",
+          "lastSeen": "2026-11-08T13:22:24+00:00",
+          "description": "The memecoin launchpad for Elysium. Launch with HYPE or SOL. https://t.co/Gb67DqsJHz",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "ELYS.RUN",
+              "account": "ElysRun",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-08T13:22:24+00:00",
+              "messageId": "dodtwitterbot/40185",
+              "description": "The memecoin launchpad for Elysium. Launch with HYPE or SOL. https://t.co/Gb67DqsJHz",
+              "text": "The memecoin launchpad for Elysium. Launch with HYPE or SOL. https://t.co/Gb67DqsJHz"
+            }
+          ],
+          "text": " ELYS.RUN ElysRun The memecoin launchpad for Elysium. Launch with HYPE or SOL. https://t.co/Gb67DqsJHz",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "elytrack",
+          "account": "elytrack_io",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-08T13:15:46+00:00",
+          "lastSeen": "2026-11-08T13:15:46+00:00",
+          "description": "Smart wallets and insiders on Elysium: what they buy and sell, live, on every launchpad. Launch alerts, Telegram bot, MCP for agents. Data, not advice.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "elytrack",
+              "account": "elytrack_io",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-08T13:15:46+00:00",
+              "messageId": "dodtwitterbot/40180",
+              "description": "Smart wallets and insiders on Elysium: what they buy and sell, live, on every launchpad. Launch alerts, Telegram bot, MCP for agents. Data, not advice.",
+              "text": "Smart wallets and insiders on Elysium: what they buy and sell, live, on every launchpad. Launch alerts, Telegram bot, MCP for agents. Data, not advice."
+            }
+          ],
+          "text": " elytrack elytrack_io Smart wallets and insiders on Elysium: what they buy and sell, live, on every launchpad. Launch alerts, Telegram bot, MCP for agents. Data, not advice.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Etchy",
+          "account": "EtchydotFun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BTC alpha"
+          ],
+          "tgAlphas": [
+            "BTC alpha"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-08T14:27:28+00:00",
+          "lastSeen": "2026-11-08T14:27:28+00:00",
+          "description": "971505:1052 ᛖᛏᚲᚺᛦ\nBitcoin Runes.\nSolana speed.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Etchy",
+              "account": "EtchydotFun",
+              "alpha": "BTC alpha",
+              "seenAt": "2026-11-08T14:27:28+00:00",
+              "messageId": "dodtwitterbot/40198",
+              "description": "971505:1052 ᛖᛏᚲᚺᛦ\nBitcoin Runes.\nSolana speed.",
+              "text": "971505:1052 ᛖᛏᚲᚺᛦ\nBitcoin Runes.\nSolana speed."
+            }
+          ],
+          "text": " Etchy EtchydotFun 971505:1052 ᛖᛏᚲᚺᛦ\nBitcoin Runes.\nSolana speed.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Grump Guys",
+          "account": "GrumpGuysNFT",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-08T13:19:35+00:00",
+          "lastSeen": "2026-11-08T13:19:35+00:00",
+          "description": "Invading @Enter_Elysium one at a time.\n\nNFT collection made for aliens not humans.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Grump Guys",
+              "account": "GrumpGuysNFT",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-08T13:19:35+00:00",
+              "messageId": "dodtwitterbot/40184",
+              "description": "Invading @Enter_Elysium one at a time.\n\nNFT collection made for aliens not humans.",
+              "text": "Invading @Enter_Elysium one at a time.\n\nNFT collection made for aliens not humans."
+            }
+          ],
+          "text": " Grump Guys GrumpGuysNFT Invading @Enter_Elysium one at a time.\n\nNFT collection made for aliens not humans.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Hoist",
+          "account": "hoistxyz",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-08T13:38:49+00:00",
+          "lastSeen": "2026-11-08T13:38:49+00:00",
+          "description": "One token, one job: every trade drops HYPE into a public jar until it can buy its own spot listing on Hyperliquid. Native to Elysium.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Hoist",
+              "account": "hoistxyz",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-08T13:38:49+00:00",
+              "messageId": "dodtwitterbot/40189",
+              "description": "One token, one job: every trade drops HYPE into a public jar until it can buy its own spot listing on Hyperliquid. Native to Elysium.",
+              "text": "One token, one job: every trade drops HYPE into a public jar until it can buy its own spot listing on Hyperliquid. Native to Elysium."
+            }
+          ],
+          "text": " Hoist hoistxyz One token, one job: every trade drops HYPE into a public jar until it can buy its own spot listing on Hyperliquid. Native to Elysium.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "hyppo",
+          "account": "hyppotrade",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "CSR"
+          ],
+          "tgAlphas": [
+            "CSR"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-08T15:30:20+00:00",
+          "lastSeen": "2026-11-08T15:30:20+00:00",
+          "description": "The first real agentic terminal on @Enter_Elysium .",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "hyppo",
+              "account": "hyppotrade",
+              "alpha": "CSR",
+              "seenAt": "2026-11-08T15:30:20+00:00",
+              "messageId": "dodtwitterbot/40210",
+              "description": "The first real agentic terminal on @Enter_Elysium .",
+              "text": "The first real agentic terminal on @Enter_Elysium ."
+            }
+          ],
+          "text": " hyppo hyppotrade The first real agentic terminal on @Enter_Elysium .",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Isles of Elysium",
+          "account": "islesgg",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-08T11:47:27+00:00",
+          "lastSeen": "2026-11-08T11:47:27+00:00",
+          "description": "Build your city on the floating isles of Elysium. Mint, trade and raid in an onchain strategy game. Earn &#036;DRACHMA.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Isles of Elysium",
+              "account": "islesgg",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-08T11:47:27+00:00",
+              "messageId": "dodtwitterbot/40156",
+              "description": "Build your city on the floating isles of Elysium. Mint, trade and raid in an onchain strategy game. Earn &#036;DRACHMA.",
+              "text": "Build your city on the floating isles of Elysium. Mint, trade and raid in an onchain strategy game. Earn &#036;DRACHMA."
+            }
+          ],
+          "text": " Isles of Elysium islesgg Build your city on the floating isles of Elysium. Mint, trade and raid in an onchain strategy game. Earn &#036;DRACHMA.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Kinetiq Energy",
+          "account": "KeenOnElysium",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-08T13:52:17+00:00",
+          "lastSeen": "2026-11-08T13:52:17+00:00",
+          "description": "E = ½mv².\nThe market charges the battery. The dump fires it. The supply burns.\n⚡ &#036;KEEN on Elysium",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Kinetiq Energy",
+              "account": "KeenOnElysium",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-08T13:52:17+00:00",
+              "messageId": "dodtwitterbot/40195",
+              "description": "E = ½mv².\nThe market charges the battery. The dump fires it. The supply burns.\n⚡ &#036;KEEN on Elysium",
+              "text": "E = ½mv².\nThe market charges the battery. The dump fires it. The supply burns.\n⚡ &#036;KEEN on Elysium"
+            }
+          ],
+          "text": " Kinetiq Energy KeenOnElysium E = ½mv².\nThe market charges the battery. The dump fires it. The supply burns.\n⚡ &#036;KEEN on Elysium",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Korini",
+          "account": "Korinitrade",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Skrchen666(钻石手伤心版 绝对纸手之人）"
+          ],
+          "tgAlphas": [
+            "Skrchen666(钻石手伤心版 绝对纸手之人）"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-08T10:33:14+00:00",
+          "lastSeen": "2026-11-08T10:33:14+00:00",
+          "description": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Korini",
+              "account": "Korinitrade",
+              "alpha": "Skrchen666(钻石手伤心版 绝对纸手之人）",
+              "seenAt": "2026-11-08T10:33:14+00:00",
+              "messageId": "dodtwitterbot/40149",
+              "description": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
+              "text": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social"
+            }
+          ],
+          "text": " Korini Korinitrade Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
           "project": "Near Swaps",
           "account": "NearSwaps",
           "sources": [
@@ -22282,6 +24091,76 @@
             }
           ],
           "text": " Near Swaps NearSwaps The all-in-one terminal for NEAR trading and NFTs. Launching 19 Nov.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Neuriio",
+          "account": "Neuriio",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "speest 💎"
+          ],
+          "tgAlphas": [
+            "speest 💎"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-08T14:28:25+00:00",
+          "lastSeen": "2026-11-08T14:28:25+00:00",
+          "description": "Tokenize Accounts, Create Social Markets.\n\nBuilt on @Enter_Elysium",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Neuriio",
+              "account": "Neuriio",
+              "alpha": "speest 💎",
+              "seenAt": "2026-11-08T14:28:25+00:00",
+              "messageId": "dodtwitterbot/40199",
+              "description": "Tokenize Accounts, Create Social Markets.\n\nBuilt on @Enter_Elysium",
+              "text": "Tokenize Accounts, Create Social Markets.\n\nBuilt on @Enter_Elysium"
+            }
+          ],
+          "text": " Neuriio Neuriio Tokenize Accounts, Create Social Markets.\n\nBuilt on @Enter_Elysium",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Onchain Bulls",
+          "account": "bullsonelysium",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-08T11:53:50+00:00",
+          "lastSeen": "2026-11-08T11:53:50+00:00",
+          "description": "Bulls On Elysium. 2,222 pixel bulls, 100% onchain.\n\nElysium mainnet. 🐂",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Onchain Bulls",
+              "account": "bullsonelysium",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-08T11:53:50+00:00",
+              "messageId": "dodtwitterbot/40158",
+              "description": "Bulls On Elysium. 2,222 pixel bulls, 100% onchain.\n\nElysium mainnet. 🐂",
+              "text": "Bulls On Elysium. 2,222 pixel bulls, 100% onchain.\n\nElysium mainnet. 🐂"
+            }
+          ],
+          "text": " Onchain Bulls bullsonelysium Bulls On Elysium. 2,222 pixel bulls, 100% onchain.\n\nElysium mainnet. 🐂",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -22387,6 +24266,111 @@
             }
           ],
           "text": " PurrCade PurrCadeGames Mobile arcade games on @Enter_Elysium . Top the 4h leaderboard, take 50% of every play-in fee. Try it on Elysium testnet: https://t.co/W1UBDxjqOm",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Talyn",
+          "account": "Talynlayer1",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-08T13:44:37+00:00",
+          "lastSeen": "2026-11-08T13:44:37+00:00",
+          "description": "TALYN is a vision for a new generation of digital money. Money without borders. Payments without barriers.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Talyn",
+              "account": "Talynlayer1",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-08T13:44:37+00:00",
+              "messageId": "dodtwitterbot/40192",
+              "description": "TALYN is a vision for a new generation of digital money. Money without borders. Payments without barriers.",
+              "text": "TALYN is a vision for a new generation of digital money. Money without borders. Payments without barriers."
+            }
+          ],
+          "text": " Talyn Talynlayer1 TALYN is a vision for a new generation of digital money. Money without borders. Payments without barriers.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Tracehound",
+          "account": "tracehoundapp",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-08T13:30:55+00:00",
+          "lastSeen": "2026-11-08T13:30:55+00:00",
+          "description": "Every token leaves a trail. We follow it.\n\nTrack new launches, uncover deployer activity, and trade from one terminal.\nBuilt for @Enter_Elysium .",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Tracehound",
+              "account": "tracehoundapp",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-08T13:30:55+00:00",
+              "messageId": "dodtwitterbot/40187",
+              "description": "Every token leaves a trail. We follow it.\n\nTrack new launches, uncover deployer activity, and trade from one terminal.\nBuilt for @Enter_Elysium .",
+              "text": "Every token leaves a trail. We follow it.\n\nTrack new launches, uncover deployer activity, and trade from one terminal.\nBuilt for @Enter_Elysium ."
+            }
+          ],
+          "text": " Tracehound tracehoundapp Every token leaves a trail. We follow it.\n\nTrack new launches, uncover deployer activity, and trade from one terminal.\nBuilt for @Enter_Elysium .",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Volta",
+          "account": "VoltaFamily",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-08T14:05:39+00:00",
+          "lastSeen": "2026-11-08T14:05:39+00:00",
+          "description": "The Elysium @Uniswap Launchpad for next-gen tokens.\n\nFees in HYPE/Stocks for creators, buybacks and holders.\n\n80% of fees used to buyback and burn &#036;VOLTA.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Volta",
+              "account": "VoltaFamily",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-08T14:05:39+00:00",
+              "messageId": "dodtwitterbot/40196",
+              "description": "The Elysium @Uniswap Launchpad for next-gen tokens.\n\nFees in HYPE/Stocks for creators, buybacks and holders.\n\n80% of fees used to buyback and burn &#036;VOLTA.",
+              "text": "The Elysium @Uniswap Launchpad for next-gen tokens.\n\nFees in HYPE/Stocks for creators, buybacks and holders.\n\n80% of fees used to buyback and burn &#036;VOLTA."
+            }
+          ],
+          "text": " Volta VoltaFamily The Elysium @Uniswap Launchpad for next-gen tokens.\n\nFees in HYPE/Stocks for creators, buybacks and holders.\n\n80% of fees used to buyback and burn &#036;VOLTA.",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -41624,199 +43608,204 @@
   ],
   "reports": [
     {
+      "file": "2026-11-08-1623-telegram-update.md",
+      "title": "2026-11-08-1623-telegram-update",
+      "updatedAt": "2026-11-08T16:23:23.447Z"
+    },
+    {
       "file": "2026-11-08-0804-telegram-update.md",
       "title": "2026-11-08-0804-telegram-update",
-      "updatedAt": "2026-11-08T08:04:49.767Z"
+      "updatedAt": "2026-11-08T16:23:20.731Z"
     },
     {
       "file": "2026-11-07-2106-telegram-update.md",
       "title": "2026-11-07-2106-telegram-update",
-      "updatedAt": "2026-11-08T08:04:47.569Z"
+      "updatedAt": "2026-11-08T16:23:20.731Z"
     },
     {
       "file": "2026-11-07-1556-telegram-update.md",
       "title": "2026-11-07-1556-telegram-update",
-      "updatedAt": "2026-11-08T08:04:47.569Z"
+      "updatedAt": "2026-11-08T16:23:20.731Z"
     },
     {
       "file": "2026-11-07-0751-telegram-update.md",
       "title": "2026-11-07-0751-telegram-update",
-      "updatedAt": "2026-11-08T08:04:47.569Z"
+      "updatedAt": "2026-11-08T16:23:20.731Z"
     },
     {
       "file": "2026-11-06-2226-telegram-update.md",
       "title": "2026-11-06-2226-telegram-update",
-      "updatedAt": "2026-11-08T08:04:47.569Z"
+      "updatedAt": "2026-11-08T16:23:20.731Z"
     },
     {
       "file": "2026-11-06-1658-telegram-update.md",
       "title": "2026-11-06-1658-telegram-update",
-      "updatedAt": "2026-11-08T08:04:47.569Z"
+      "updatedAt": "2026-11-08T16:23:20.731Z"
     },
     {
       "file": "2026-11-06-0835-telegram-update.md",
       "title": "2026-11-06-0835-telegram-update",
-      "updatedAt": "2026-11-08T08:04:47.569Z"
+      "updatedAt": "2026-11-08T16:23:20.731Z"
     },
     {
       "file": "2026-11-05-2256-telegram-update.md",
       "title": "2026-11-05-2256-telegram-update",
-      "updatedAt": "2026-11-08T08:04:47.569Z"
+      "updatedAt": "2026-11-08T16:23:20.731Z"
     },
     {
       "file": "2026-11-05-1742-telegram-update.md",
       "title": "2026-11-05-1742-telegram-update",
-      "updatedAt": "2026-11-08T08:04:47.569Z"
+      "updatedAt": "2026-11-08T16:23:20.731Z"
     },
     {
       "file": "2026-11-05-0836-telegram-update.md",
       "title": "2026-11-05-0836-telegram-update",
-      "updatedAt": "2026-11-08T08:04:47.569Z"
+      "updatedAt": "2026-11-08T16:23:20.731Z"
     },
     {
       "file": "2026-11-04-2255-telegram-update.md",
       "title": "2026-11-04-2255-telegram-update",
-      "updatedAt": "2026-11-08T08:04:47.569Z"
+      "updatedAt": "2026-11-08T16:23:20.731Z"
     },
     {
       "file": "2026-11-04-1737-telegram-update.md",
       "title": "2026-11-04-1737-telegram-update",
-      "updatedAt": "2026-11-08T08:04:47.569Z"
+      "updatedAt": "2026-11-08T16:23:20.731Z"
     },
     {
       "file": "2026-11-04-0810-telegram-update.md",
       "title": "2026-11-04-0810-telegram-update",
-      "updatedAt": "2026-11-08T08:04:47.569Z"
+      "updatedAt": "2026-11-08T16:23:20.731Z"
     },
     {
       "file": "2026-11-04-0143-telegram-update.md",
       "title": "2026-11-04-0143-telegram-update",
-      "updatedAt": "2026-11-08T08:04:47.569Z"
+      "updatedAt": "2026-11-08T16:23:20.731Z"
     },
     {
       "file": "2026-11-03-2018-telegram-update.md",
       "title": "2026-11-03-2018-telegram-update",
-      "updatedAt": "2026-11-08T08:04:47.569Z"
+      "updatedAt": "2026-11-08T16:23:20.731Z"
     },
     {
       "file": "2026-11-03-1302-telegram-update.md",
       "title": "2026-11-03-1302-telegram-update",
-      "updatedAt": "2026-11-08T08:04:47.569Z"
+      "updatedAt": "2026-11-08T16:23:20.731Z"
     },
     {
       "file": "2026-11-03-0306-telegram-update.md",
       "title": "2026-11-03-0306-telegram-update",
-      "updatedAt": "2026-11-08T08:04:47.569Z"
+      "updatedAt": "2026-11-08T16:23:20.731Z"
     },
     {
       "file": "2026-11-02-1950-telegram-update.md",
       "title": "2026-11-02-1950-telegram-update",
-      "updatedAt": "2026-11-08T08:04:47.569Z"
+      "updatedAt": "2026-11-08T16:23:20.731Z"
     },
     {
       "file": "2026-11-02-0826-telegram-update.md",
       "title": "2026-11-02-0826-telegram-update",
-      "updatedAt": "2026-11-08T08:04:47.569Z"
+      "updatedAt": "2026-11-08T16:23:20.731Z"
     },
     {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-08T08:04:47.569Z"
+      "updatedAt": "2026-11-08T16:23:20.731Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-08T08:04:47.569Z"
+      "updatedAt": "2026-11-08T16:23:20.731Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-08T08:04:47.569Z"
+      "updatedAt": "2026-11-08T16:23:20.731Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-08T08:04:47.569Z"
+      "updatedAt": "2026-11-08T16:23:20.731Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-08T08:04:47.569Z"
+      "updatedAt": "2026-11-08T16:23:20.731Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-08T08:04:47.569Z"
+      "updatedAt": "2026-11-08T16:23:20.731Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-08T08:04:47.569Z"
+      "updatedAt": "2026-11-08T16:23:20.731Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-08T08:04:47.569Z"
+      "updatedAt": "2026-11-08T16:23:20.731Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-08T08:04:47.569Z"
+      "updatedAt": "2026-11-08T16:23:20.731Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-08T08:04:47.569Z"
+      "updatedAt": "2026-11-08T16:23:20.731Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-08T08:04:47.569Z"
+      "updatedAt": "2026-11-08T16:23:20.731Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-08T08:04:47.569Z"
+      "updatedAt": "2026-11-08T16:23:20.731Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-08T08:04:47.569Z"
+      "updatedAt": "2026-11-08T16:23:20.731Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-08T08:04:47.569Z"
+      "updatedAt": "2026-11-08T16:23:20.731Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-08T08:04:47.569Z"
+      "updatedAt": "2026-11-08T16:23:20.731Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-08T08:04:47.569Z"
+      "updatedAt": "2026-11-08T16:23:20.731Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-08T08:04:47.569Z"
+      "updatedAt": "2026-11-08T16:23:20.731Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-08T08:04:47.569Z"
+      "updatedAt": "2026-11-08T16:23:20.731Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-08T08:04:47.569Z"
+      "updatedAt": "2026-11-08T16:23:20.731Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-08T08:04:47.568Z"
+      "updatedAt": "2026-11-08T16:23:20.730Z"
     }
   ]
 }
