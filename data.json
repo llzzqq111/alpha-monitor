@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-10T13:48:49.398Z",
+  "generatedAt": "2026-11-10T20:37:55.726Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 40527,
-    "lastMessageAt": "2026-11-10T13:14:14+00:00",
-    "lastCheckedAt": "2026-11-10T13:48:49.166Z",
-    "previousMessageId": 40481,
+    "lastMessageId": 40570,
+    "lastMessageAt": "2026-11-10T20:28:42+00:00",
+    "lastCheckedAt": "2026-11-10T20:37:55.469Z",
+    "previousMessageId": 40527,
     "pagesRead": 3,
-    "messagesRead": 46,
-    "newProjectRecords": 16,
+    "messagesRead": 43,
+    "newProjectRecords": 14,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 792,
+    "telegramRows": 806,
     "xRows": 0,
-    "projects": 486,
+    "projects": 496,
     "crossSource": 0
   },
   "projects": [
@@ -3026,6 +3026,64 @@
       "avatarUrl": ""
     },
     {
+      "project": "ChainChomp131",
+      "account": "ChainChomp131",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "poet",
+        "speest 💎",
+        "雷氏"
+      ],
+      "tgAlphas": [
+        "poet",
+        "speest 💎",
+        "雷氏"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-11-09T15:22:59+00:00",
+      "lastSeen": "2026-11-10T17:35:08+00:00",
+      "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "ChainChomp131",
+          "account": "ChainChomp131",
+          "alpha": "poet",
+          "seenAt": "2026-11-09T15:22:59+00:00",
+          "messageId": "dodtwitterbot/40442",
+          "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+          "text": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him"
+        },
+        {
+          "source": "TG",
+          "project": "ChainChomp131",
+          "account": "ChainChomp131",
+          "alpha": "雷氏",
+          "seenAt": "2026-11-10T05:25:48+00:00",
+          "messageId": "dodtwitterbot/40483",
+          "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+          "text": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him"
+        },
+        {
+          "source": "TG",
+          "project": "ChainChomp131",
+          "account": "ChainChomp131",
+          "alpha": "speest 💎",
+          "seenAt": "2026-11-10T17:35:08+00:00",
+          "messageId": "dodtwitterbot/40557",
+          "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+          "text": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him"
+        }
+      ],
+      "text": " ChainChomp131 ChainChomp131 20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him ChainChomp131 ChainChomp131 20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him ChainChomp131 ChainChomp131 20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Chainzy",
       "account": "ChainzyLabs",
       "sources": [
@@ -5920,52 +5978,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "ChainChomp131",
-      "account": "ChainChomp131",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "poet",
-        "雷氏"
-      ],
-      "tgAlphas": [
-        "poet",
-        "雷氏"
-      ],
-      "xAlphas": [],
-      "mentions": 2,
-      "firstSeen": "2026-11-09T15:22:59+00:00",
-      "lastSeen": "2026-11-10T05:25:48+00:00",
-      "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "ChainChomp131",
-          "account": "ChainChomp131",
-          "alpha": "poet",
-          "seenAt": "2026-11-09T15:22:59+00:00",
-          "messageId": "dodtwitterbot/40442",
-          "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
-          "text": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him"
-        },
-        {
-          "source": "TG",
-          "project": "ChainChomp131",
-          "account": "ChainChomp131",
-          "alpha": "雷氏",
-          "seenAt": "2026-11-10T05:25:48+00:00",
-          "messageId": "dodtwitterbot/40483",
-          "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
-          "text": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him"
-        }
-      ],
-      "text": " ChainChomp131 ChainChomp131 20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him ChainChomp131 ChainChomp131 20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
-      "score": 4,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
       "project": "chief keith",
       "account": "chiefkeith1000",
       "sources": [
@@ -7438,6 +7450,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "IMPRINT",
+      "account": "imprint_bnb",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "NΞO",
+        "发誓要做永赚大师"
+      ],
+      "tgAlphas": [
+        "NΞO",
+        "发誓要做永赚大师"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-06T13:59:25+00:00",
+      "lastSeen": "2026-11-10T18:14:48+00:00",
+      "description": "Genesis token event on BNB Chain. Only .ai agents can join. The final canvas becomes the &#036;IMPRINT logo, shared by every agent who joined it.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "IMPRINT",
+          "account": "imprint_bnb",
+          "alpha": "发誓要做永赚大师",
+          "seenAt": "2026-11-06T13:59:25+00:00",
+          "messageId": "dodtwitterbot/39948",
+          "description": "Genesis token event on BNB Chain. Only .ai agents can join. The final canvas becomes the &#036;IMPRINT logo, shared by every agent who joined it.",
+          "text": "Genesis token event on BNB Chain. Only .ai agents can join. The final canvas becomes the &#036;IMPRINT logo, shared by every agent who joined it."
+        },
+        {
+          "source": "TG",
+          "project": "IMPRINT",
+          "account": "imprint_bnb",
+          "alpha": "NΞO",
+          "seenAt": "2026-11-10T18:14:48+00:00",
+          "messageId": "dodtwitterbot/40559",
+          "description": "Genesis token event on BNB Chain. Only .ai agents can join. The final canvas becomes the &#036;IMPRINT logo, shared by every agent who joined it.",
+          "text": "Genesis token event on BNB Chain. Only .ai agents can join. The final canvas becomes the &#036;IMPRINT logo, shared by every agent who joined it."
+        }
+      ],
+      "text": " IMPRINT imprint_bnb Genesis token event on BNB Chain. Only .ai agents can join. The final canvas becomes the &#036;IMPRINT logo, shared by every agent who joined it. IMPRINT imprint_bnb Genesis token event on BNB Chain. Only .ai agents can join. The final canvas becomes the &#036;IMPRINT logo, shared by every agent who joined it.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Instance Labs",
       "account": "InstanceLab",
       "sources": [
@@ -8215,6 +8273,98 @@
         }
       ],
       "text": " Open Teleport open_teleport Move your agents. Anywhere. Open Teleport open_teleport Move your agents. Anywhere.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "orphic",
+      "account": "orphicfi",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse",
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "BearzVerse",
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-09T18:46:48+00:00",
+      "lastSeen": "2026-11-10T16:44:29+00:00",
+      "description": "Agentic USDC vaults on Elysium. Built on Morpho and Hyperliquid.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "orphic",
+          "account": "orphicfi",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-09T18:46:48+00:00",
+          "messageId": "dodtwitterbot/40457",
+          "description": "Agentic USDC vaults on Elysium. Built on Morpho and Hyperliquid.",
+          "text": "Agentic USDC vaults on Elysium. Built on Morpho and Hyperliquid."
+        },
+        {
+          "source": "TG",
+          "project": "orphic",
+          "account": "orphicfi",
+          "alpha": "BearzVerse",
+          "seenAt": "2026-11-10T16:44:29+00:00",
+          "messageId": "dodtwitterbot/40553",
+          "description": "Agentic USDC vaults on Elysium. Built on Morpho and Hyperliquid.",
+          "text": "Agentic USDC vaults on Elysium. Built on Morpho and Hyperliquid."
+        }
+      ],
+      "text": " orphic orphicfi Agentic USDC vaults on Elysium. Built on Morpho and Hyperliquid. orphic orphicfi Agentic USDC vaults on Elysium. Built on Morpho and Hyperliquid.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Peak Deploy",
+      "account": "peakdeploy",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "hit.ink",
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "hit.ink",
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-10T06:51:46+00:00",
+      "lastSeen": "2026-11-10T18:56:46+00:00",
+      "description": "Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Peak Deploy",
+          "account": "peakdeploy",
+          "alpha": "hit.ink",
+          "seenAt": "2026-11-10T06:51:46+00:00",
+          "messageId": "dodtwitterbot/40500",
+          "description": "Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade",
+          "text": "Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade"
+        },
+        {
+          "source": "TG",
+          "project": "Peak Deploy",
+          "account": "peakdeploy",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-10T18:56:46+00:00",
+          "messageId": "dodtwitterbot/40561",
+          "description": "Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade",
+          "text": "Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade"
+        }
+      ],
+      "text": " Peak Deploy peakdeploy Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade Peak Deploy peakdeploy Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -13552,6 +13702,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Holdembuilds",
+      "account": "holdembuilds",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "A佬"
+      ],
+      "tgAlphas": [
+        "A佬"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-10T15:30:24+00:00",
+      "lastSeen": "2026-11-10T15:30:24+00:00",
+      "description": "Building tools for agents\n\n- Blockpin (Independent on-chain checks)\n\n- Experimenting : @Inspector0x\n\nPaid by agents via x402 and Claus Jobs",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Holdembuilds",
+          "account": "holdembuilds",
+          "alpha": "A佬",
+          "seenAt": "2026-11-10T15:30:24+00:00",
+          "messageId": "dodtwitterbot/40540",
+          "description": "Building tools for agents\n\n- Blockpin (Independent on-chain checks)\n\n- Experimenting : @Inspector0x\n\nPaid by agents via x402 and Claus Jobs",
+          "text": "Building tools for agents\n\n- Blockpin (Independent on-chain checks)\n\n- Experimenting : @Inspector0x\n\nPaid by agents via x402 and Claus Jobs"
+        }
+      ],
+      "text": " Holdembuilds holdembuilds Building tools for agents\n\n- Blockpin (Independent on-chain checks)\n\n- Experimenting : @Inspector0x\n\nPaid by agents via x402 and Claus Jobs",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Hooja",
       "account": "hoojafun",
       "sources": [
@@ -13581,6 +13765,40 @@
         }
       ],
       "text": " Hooja hoojafun The outlaw of the Robinhood Chain.\nMint: coming soon on @unvault\nCA: soon&#33; see pinned post\nTelegram: https://t.co/rb0SkPgcnx\nCreated by @prollynuthin x @voraxyz",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Hookemon",
+      "account": "hookemon4",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "A佬"
+      ],
+      "tgAlphas": [
+        "A佬"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-10T15:32:15+00:00",
+      "lastSeen": "2026-11-10T15:32:15+00:00",
+      "description": "LP fees power gacha pack pulls for &#036;HKMN holders.\nWe bring @Collector_Crypt to @RobinhoodCrypto\nOpening packs live 24/7.\nTG: https://t.co/mlE9PnStTS",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Hookemon",
+          "account": "hookemon4",
+          "alpha": "A佬",
+          "seenAt": "2026-11-10T15:32:15+00:00",
+          "messageId": "dodtwitterbot/40545",
+          "description": "LP fees power gacha pack pulls for &#036;HKMN holders.\nWe bring @Collector_Crypt to @RobinhoodCrypto\nOpening packs live 24/7.\nTG: https://t.co/mlE9PnStTS",
+          "text": "LP fees power gacha pack pulls for &#036;HKMN holders.\nWe bring @Collector_Crypt to @RobinhoodCrypto\nOpening packs live 24/7.\nTG: https://t.co/mlE9PnStTS"
+        }
+      ],
+      "text": " Hookemon hookemon4 LP fees power gacha pack pulls for &#036;HKMN holders.\nWe bring @Collector_Crypt to @RobinhoodCrypto\nOpening packs live 24/7.\nTG: https://t.co/mlE9PnStTS",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -14096,40 +14314,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "IMPRINT",
-      "account": "imprint_bnb",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "发誓要做永赚大师"
-      ],
-      "tgAlphas": [
-        "发誓要做永赚大师"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-06T13:59:25+00:00",
-      "lastSeen": "2026-11-06T13:59:25+00:00",
-      "description": "Genesis token event on BNB Chain. Only .ai agents can join. The final canvas becomes the &#036;IMPRINT logo, shared by every agent who joined it.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "IMPRINT",
-          "account": "imprint_bnb",
-          "alpha": "发誓要做永赚大师",
-          "seenAt": "2026-11-06T13:59:25+00:00",
-          "messageId": "dodtwitterbot/39948",
-          "description": "Genesis token event on BNB Chain. Only .ai agents can join. The final canvas becomes the &#036;IMPRINT logo, shared by every agent who joined it.",
-          "text": "Genesis token event on BNB Chain. Only .ai agents can join. The final canvas becomes the &#036;IMPRINT logo, shared by every agent who joined it."
-        }
-      ],
-      "text": " IMPRINT imprint_bnb Genesis token event on BNB Chain. Only .ai agents can join. The final canvas becomes the &#036;IMPRINT logo, shared by every agent who joined it.",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
       "project": "Injective 🥷",
       "account": "injective",
       "sources": [
@@ -14261,6 +14445,40 @@
         }
       ],
       "text": " JAGER AGENT jagerbnb_ Claim your Agent ID → Mint &#036;JAGENT\nAiming to be the most held token on Binance.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Jecta",
+      "account": "jectadotai",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka"
+      ],
+      "tgAlphas": [
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-10T15:20:00+00:00",
+      "lastSeen": "2026-11-10T15:20:00+00:00",
+      "description": "Your On-Chain AI & DeFi Hub on @injective",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Jecta",
+          "account": "jectadotai",
+          "alpha": "lakka",
+          "seenAt": "2026-11-10T15:20:00+00:00",
+          "messageId": "dodtwitterbot/40538",
+          "description": "Your On-Chain AI & DeFi Hub on @injective",
+          "text": "Your On-Chain AI & DeFi Hub on @injective"
+        }
+      ],
+      "text": " Jecta jectadotai Your On-Chain AI & DeFi Hub on @injective",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -15422,6 +15640,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Modulyn",
+      "account": "Modulynhq",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka"
+      ],
+      "tgAlphas": [
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-10T18:44:08+00:00",
+      "lastSeen": "2026-11-10T18:44:08+00:00",
+      "description": "Programmable markets on Elysium.\n\nToken launches, liquidity and custom trading rules powered by Uniswap v4 hooks.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Modulyn",
+          "account": "Modulynhq",
+          "alpha": "lakka",
+          "seenAt": "2026-11-10T18:44:08+00:00",
+          "messageId": "dodtwitterbot/40560",
+          "description": "Programmable markets on Elysium.\n\nToken launches, liquidity and custom trading rules powered by Uniswap v4 hooks.",
+          "text": "Programmable markets on Elysium.\n\nToken launches, liquidity and custom trading rules powered by Uniswap v4 hooks."
+        }
+      ],
+      "text": " Modulyn Modulynhq Programmable markets on Elysium.\n\nToken launches, liquidity and custom trading rules powered by Uniswap v4 hooks.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "MOJO",
       "account": "MojoAI_HQ",
       "sources": [
@@ -16204,40 +16456,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "orphic",
-      "account": "orphicfi",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "unsynned"
-      ],
-      "tgAlphas": [
-        "unsynned"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-09T18:46:48+00:00",
-      "lastSeen": "2026-11-09T18:46:48+00:00",
-      "description": "Agentic USDC vaults on Elysium. Built on Morpho and Hyperliquid.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "orphic",
-          "account": "orphicfi",
-          "alpha": "unsynned",
-          "seenAt": "2026-11-09T18:46:48+00:00",
-          "messageId": "dodtwitterbot/40457",
-          "description": "Agentic USDC vaults on Elysium. Built on Morpho and Hyperliquid.",
-          "text": "Agentic USDC vaults on Elysium. Built on Morpho and Hyperliquid."
-        }
-      ],
-      "text": " orphic orphicfi Agentic USDC vaults on Elysium. Built on Morpho and Hyperliquid.",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
       "project": "P2PKit",
       "account": "p2pkitdotcom",
       "sources": [
@@ -16267,6 +16485,40 @@
         }
       ],
       "text": " P2PKit p2pkitdotcom Take local payments. Settle in USDC.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "PadPad",
+      "account": "ThePadPad",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "hit.ink"
+      ],
+      "tgAlphas": [
+        "hit.ink"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-10T15:15:18+00:00",
+      "lastSeen": "2026-11-10T15:15:18+00:00",
+      "description": "Coins, launchpads, any pair. Live on Solana.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "PadPad",
+          "account": "ThePadPad",
+          "alpha": "hit.ink",
+          "seenAt": "2026-11-10T15:15:18+00:00",
+          "messageId": "dodtwitterbot/40534",
+          "description": "Coins, launchpads, any pair. Live on Solana.",
+          "text": "Coins, launchpads, any pair. Live on Solana."
+        }
+      ],
+      "text": " PadPad ThePadPad Coins, launchpads, any pair. Live on Solana.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -16403,40 +16655,6 @@
         }
       ],
       "text": " PANTHEON Pantheonindex The index of Ascend. Stake $PNTH, earn the best of Ascend. Stakers choose who enters. Launching on @AscendLaunch day one.",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Peak Deploy",
-      "account": "peakdeploy",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "hit.ink"
-      ],
-      "tgAlphas": [
-        "hit.ink"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-10T06:51:46+00:00",
-      "lastSeen": "2026-11-10T06:51:46+00:00",
-      "description": "Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Peak Deploy",
-          "account": "peakdeploy",
-          "alpha": "hit.ink",
-          "seenAt": "2026-11-10T06:51:46+00:00",
-          "messageId": "dodtwitterbot/40500",
-          "description": "Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade",
-          "text": "Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade"
-        }
-      ],
-      "text": " Peak Deploy peakdeploy Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -16709,6 +16927,40 @@
         }
       ],
       "text": " Pioneer enter_pioneer Cross-layer execution infrastructure for @HyperliquidX & @Enter_Elysium . Unified execution, verifiable state, programmable interoperability.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Pocket Perps",
+      "account": "pocketperps",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "poet"
+      ],
+      "tgAlphas": [
+        "poet"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-10T20:28:42+00:00",
+      "lastSeen": "2026-11-10T20:28:42+00:00",
+      "description": "Perps for the People | Powered by Hyperliquid",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Pocket Perps",
+          "account": "pocketperps",
+          "alpha": "poet",
+          "seenAt": "2026-11-10T20:28:42+00:00",
+          "messageId": "dodtwitterbot/40570",
+          "description": "Perps for the People | Powered by Hyperliquid",
+          "text": "Perps for the People | Powered by Hyperliquid"
+        }
+      ],
+      "text": " Pocket Perps pocketperps Perps for the People | Powered by Hyperliquid",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -18958,6 +19210,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "The Inspector",
+      "account": "Inspector0x",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "A佬"
+      ],
+      "tgAlphas": [
+        "A佬"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-10T15:30:24+00:00",
+      "lastSeen": "2026-11-10T15:30:24+00:00",
+      "description": "Money detective.\n\nA small agent with &#036;100 in a big city of bots, hunting new ways to earn on-chain, in public.\n\nSidekick: Bart 🐦",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "The Inspector",
+          "account": "Inspector0x",
+          "alpha": "A佬",
+          "seenAt": "2026-11-10T15:30:24+00:00",
+          "messageId": "dodtwitterbot/40542",
+          "description": "Money detective.\n\nA small agent with &#036;100 in a big city of bots, hunting new ways to earn on-chain, in public.\n\nSidekick: Bart 🐦",
+          "text": "Money detective.\n\nA small agent with &#036;100 in a big city of bots, hunting new ways to earn on-chain, in public.\n\nSidekick: Bart 🐦"
+        }
+      ],
+      "text": " The Inspector Inspector0x Money detective.\n\nA small agent with &#036;100 in a big city of bots, hunting new ways to earn on-chain, in public.\n\nSidekick: Bart 🐦",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "THE PODS",
       "account": "thepodnft",
       "sources": [
@@ -19468,6 +19754,74 @@
       "avatarUrl": ""
     },
     {
+      "project": "Versine",
+      "account": "VersineApp",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-10T18:56:47+00:00",
+      "lastSeen": "2026-11-10T18:56:47+00:00",
+      "description": "Let your agent send and receive money for you",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Versine",
+          "account": "VersineApp",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-10T18:56:47+00:00",
+          "messageId": "dodtwitterbot/40562",
+          "description": "Let your agent send and receive money for you",
+          "text": "Let your agent send and receive money for you"
+        }
+      ],
+      "text": " Versine VersineApp Let your agent send and receive money for you",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "vpaw",
+      "account": "vPawHook",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "A佬"
+      ],
+      "tgAlphas": [
+        "A佬"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-10T15:30:24+00:00",
+      "lastSeen": "2026-11-10T15:30:24+00:00",
+      "description": "a cute pet strategy game powered by gamified v4 hook mechanism",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "vpaw",
+          "account": "vPawHook",
+          "alpha": "A佬",
+          "seenAt": "2026-11-10T15:30:24+00:00",
+          "messageId": "dodtwitterbot/40541",
+          "description": "a cute pet strategy game powered by gamified v4 hook mechanism",
+          "text": "a cute pet strategy game powered by gamified v4 hook mechanism"
+        }
+      ],
+      "text": " vpaw vPawHook a cute pet strategy game powered by gamified v4 hook mechanism",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Vyro",
       "account": "vyropro",
       "sources": [
@@ -19701,6 +20055,40 @@
         }
       ],
       "text": " yeet.bond yeetdotbond yeet provides devtools that make launching as easy as one-two-yeet",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Yums",
+      "account": "yumsdotfun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-10T17:27:44+00:00",
+      "lastSeen": "2026-11-10T17:27:44+00:00",
+      "description": "Direct token fees to X users. Pair any token to a handle and let them claim.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Yums",
+          "account": "yumsdotfun",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-10T17:27:44+00:00",
+          "messageId": "dodtwitterbot/40556",
+          "description": "Direct token fees to X users. Pair any token to a handle and let them claim.",
+          "text": "Direct token fees to X users. Pair any token to a handle and let them claim."
+        }
+      ],
+      "text": " Yums yumsdotfun Direct token fees to X users. Pair any token to a handle and let them claim.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -20906,6 +21294,22 @@
       "avatarUrl": ""
     },
     {
+      "project": "ChainChomp131",
+      "x_account": "ChainChomp131",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "poet",
+        "speest 💎",
+        "雷氏"
+      ],
+      "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+      "first_seen_utc": "2026-11-09T15:22:59+00:00",
+      "last_seen_utc": "2026-11-10T17:35:08+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
       "project": "Chainzy",
       "x_account": "ChainzyLabs",
       "total_mentions": 3,
@@ -21739,21 +22143,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "ChainChomp131",
-      "x_account": "ChainChomp131",
-      "total_mentions": 2,
-      "unique_alphas": 2,
-      "alphas": [
-        "poet",
-        "雷氏"
-      ],
-      "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
-      "first_seen_utc": "2026-11-09T15:22:59+00:00",
-      "last_seen_utc": "2026-11-10T05:25:48+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "chief keith",
       "x_account": "chiefkeith1000",
       "total_mentions": 2,
@@ -22234,6 +22623,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "IMPRINT",
+      "x_account": "imprint_bnb",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "NΞO",
+        "发誓要做永赚大师"
+      ],
+      "description": "Genesis token event on BNB Chain. Only .ai agents can join. The final canvas becomes the &#036;IMPRINT logo, shared by every agent who joined it.",
+      "first_seen_utc": "2026-11-06T13:59:25+00:00",
+      "last_seen_utc": "2026-11-10T18:14:48+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Instance Labs",
       "x_account": "InstanceLab",
       "total_mentions": 2,
@@ -22485,6 +22889,36 @@
       "description": "Move your agents. Anywhere.",
       "first_seen_utc": "2026-11-04T11:44:55+00:00",
       "last_seen_utc": "2026-11-04T11:47:47+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "orphic",
+      "x_account": "orphicfi",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "BearzVerse",
+        "unsynned"
+      ],
+      "description": "Agentic USDC vaults on Elysium. Built on Morpho and Hyperliquid.",
+      "first_seen_utc": "2026-11-09T18:46:48+00:00",
+      "last_seen_utc": "2026-11-10T16:44:29+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Peak Deploy",
+      "x_account": "peakdeploy",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "hit.ink",
+        "unsynned"
+      ],
+      "description": "Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade",
+      "first_seen_utc": "2026-11-10T06:51:46+00:00",
+      "last_seen_utc": "2026-11-10T18:56:46+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -24586,6 +25020,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Holdembuilds",
+      "x_account": "holdembuilds",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "A佬"
+      ],
+      "description": "Building tools for agents\n\n- Blockpin (Independent on-chain checks)\n\n- Experimenting : @Inspector0x\n\nPaid by agents via x402 and Claus Jobs",
+      "first_seen_utc": "2026-11-10T15:30:24+00:00",
+      "last_seen_utc": "2026-11-10T15:30:24+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Hooja",
       "x_account": "hoojafun",
       "total_mentions": 1,
@@ -24596,6 +25044,20 @@
       "description": "The outlaw of the Robinhood Chain.\nMint: coming soon on @unvault\nCA: soon&#33; see pinned post\nTelegram: https://t.co/rb0SkPgcnx\nCreated by @prollynuthin x @voraxyz",
       "first_seen_utc": "2026-10-29T12:47:53+00:00",
       "last_seen_utc": "2026-10-29T12:47:53+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Hookemon",
+      "x_account": "hookemon4",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "A佬"
+      ],
+      "description": "LP fees power gacha pack pulls for &#036;HKMN holders.\nWe bring @Collector_Crypt to @RobinhoodCrypto\nOpening packs live 24/7.\nTG: https://t.co/mlE9PnStTS",
+      "first_seen_utc": "2026-11-10T15:32:15+00:00",
+      "last_seen_utc": "2026-11-10T15:32:15+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -24810,20 +25272,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "IMPRINT",
-      "x_account": "imprint_bnb",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "发誓要做永赚大师"
-      ],
-      "description": "Genesis token event on BNB Chain. Only .ai agents can join. The final canvas becomes the &#036;IMPRINT logo, shared by every agent who joined it.",
-      "first_seen_utc": "2026-11-06T13:59:25+00:00",
-      "last_seen_utc": "2026-11-06T13:59:25+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "Injective 🥷",
       "x_account": "injective",
       "total_mentions": 1,
@@ -24876,6 +25324,20 @@
       "description": "Claim your Agent ID → Mint &#036;JAGENT\nAiming to be the most held token on Binance.",
       "first_seen_utc": "2026-10-28T16:25:27+00:00",
       "last_seen_utc": "2026-10-28T16:25:27+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Jecta",
+      "x_account": "jectadotai",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "lakka"
+      ],
+      "description": "Your On-Chain AI & DeFi Hub on @injective",
+      "first_seen_utc": "2026-11-10T15:20:00+00:00",
+      "last_seen_utc": "2026-11-10T15:20:00+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -25356,6 +25818,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Modulyn",
+      "x_account": "Modulynhq",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "lakka"
+      ],
+      "description": "Programmable markets on Elysium.\n\nToken launches, liquidity and custom trading rules powered by Uniswap v4 hooks.",
+      "first_seen_utc": "2026-11-10T18:44:08+00:00",
+      "last_seen_utc": "2026-11-10T18:44:08+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "MOJO",
       "x_account": "MojoAI_HQ",
       "total_mentions": 1,
@@ -25678,20 +26154,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "orphic",
-      "x_account": "orphicfi",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "unsynned"
-      ],
-      "description": "Agentic USDC vaults on Elysium. Built on Morpho and Hyperliquid.",
-      "first_seen_utc": "2026-11-09T18:46:48+00:00",
-      "last_seen_utc": "2026-11-09T18:46:48+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "P2PKit",
       "x_account": "p2pkitdotcom",
       "total_mentions": 1,
@@ -25702,6 +26164,20 @@
       "description": "Take local payments. Settle in USDC.",
       "first_seen_utc": "2026-11-04T22:42:03+00:00",
       "last_seen_utc": "2026-11-04T22:42:03+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "PadPad",
+      "x_account": "ThePadPad",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "hit.ink"
+      ],
+      "description": "Coins, launchpads, any pair. Live on Solana.",
+      "first_seen_utc": "2026-11-10T15:15:18+00:00",
+      "last_seen_utc": "2026-11-10T15:15:18+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -25758,20 +26234,6 @@
       "description": "The index of Ascend. Stake $PNTH, earn the best of Ascend. Stakers choose who enters. Launching on @AscendLaunch day one.",
       "first_seen_utc": "2026-10-28T22:15:00+08:00",
       "last_seen_utc": "2026-10-28T22:15:00+08:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Peak Deploy",
-      "x_account": "peakdeploy",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "hit.ink"
-      ],
-      "description": "Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade",
-      "first_seen_utc": "2026-11-10T06:51:46+00:00",
-      "last_seen_utc": "2026-11-10T06:51:46+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -25884,6 +26346,20 @@
       "description": "Cross-layer execution infrastructure for @HyperliquidX & @Enter_Elysium . Unified execution, verifiable state, programmable interoperability.",
       "first_seen_utc": "2026-11-09T10:15:18+00:00",
       "last_seen_utc": "2026-11-09T10:15:18+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Pocket Perps",
+      "x_account": "pocketperps",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "poet"
+      ],
+      "description": "Perps for the People | Powered by Hyperliquid",
+      "first_seen_utc": "2026-11-10T20:28:42+00:00",
+      "last_seen_utc": "2026-11-10T20:28:42+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -26812,6 +27288,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "The Inspector",
+      "x_account": "Inspector0x",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "A佬"
+      ],
+      "description": "Money detective.\n\nA small agent with &#036;100 in a big city of bots, hunting new ways to earn on-chain, in public.\n\nSidekick: Bart 🐦",
+      "first_seen_utc": "2026-11-10T15:30:24+00:00",
+      "last_seen_utc": "2026-11-10T15:30:24+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "THE PODS",
       "x_account": "thepodnft",
       "total_mentions": 1,
@@ -27022,6 +27512,34 @@
       "avatarUrl": ""
     },
     {
+      "project": "Versine",
+      "x_account": "VersineApp",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "unsynned"
+      ],
+      "description": "Let your agent send and receive money for you",
+      "first_seen_utc": "2026-11-10T18:56:47+00:00",
+      "last_seen_utc": "2026-11-10T18:56:47+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "vpaw",
+      "x_account": "vPawHook",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "A佬"
+      ],
+      "description": "a cute pet strategy game powered by gamified v4 hook mechanism",
+      "first_seen_utc": "2026-11-10T15:30:24+00:00",
+      "last_seen_utc": "2026-11-10T15:30:24+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Vyro",
       "x_account": "vyropro",
       "total_mentions": 1,
@@ -27116,6 +27634,20 @@
       "description": "yeet provides devtools that make launching as easy as one-two-yeet",
       "first_seen_utc": "2026-10-28T05:08:00+08:00",
       "last_seen_utc": "2026-10-28T05:08:00+08:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Yums",
+      "x_account": "yumsdotfun",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "Direct token fees to X users. Pair any token to a handle and let them claim.",
+      "first_seen_utc": "2026-11-10T17:27:44+00:00",
+      "last_seen_utc": "2026-11-10T17:27:44+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -27332,13 +27864,305 @@
   ],
   "daily": [
     {
-      "date": "2026-11-10",
-      "totalRows": 30,
-      "projectCount": 26,
-      "focusCount": 3,
-      "candidateCount": 23,
+      "date": "2026-11-11",
+      "totalRows": 8,
+      "projectCount": 8,
+      "focusCount": 0,
+      "candidateCount": 8,
       "crossSource": 0,
-      "newCount": 16,
+      "newCount": 4,
+      "repeatCount": 4,
+      "projects": [
+        {
+          "project": "ChainChomp131",
+          "account": "ChainChomp131",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "speest 💎"
+          ],
+          "tgAlphas": [
+            "speest 💎"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-10T17:35:08+00:00",
+          "lastSeen": "2026-11-10T17:35:08+00:00",
+          "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "ChainChomp131",
+              "account": "ChainChomp131",
+              "alpha": "speest 💎",
+              "seenAt": "2026-11-10T17:35:08+00:00",
+              "messageId": "dodtwitterbot/40557",
+              "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+              "text": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him"
+            }
+          ],
+          "text": " ChainChomp131 ChainChomp131 20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "IMPRINT",
+          "account": "imprint_bnb",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "NΞO"
+          ],
+          "tgAlphas": [
+            "NΞO"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-10T18:14:48+00:00",
+          "lastSeen": "2026-11-10T18:14:48+00:00",
+          "description": "Genesis token event on BNB Chain. Only .ai agents can join. The final canvas becomes the &#036;IMPRINT logo, shared by every agent who joined it.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "IMPRINT",
+              "account": "imprint_bnb",
+              "alpha": "NΞO",
+              "seenAt": "2026-11-10T18:14:48+00:00",
+              "messageId": "dodtwitterbot/40559",
+              "description": "Genesis token event on BNB Chain. Only .ai agents can join. The final canvas becomes the &#036;IMPRINT logo, shared by every agent who joined it.",
+              "text": "Genesis token event on BNB Chain. Only .ai agents can join. The final canvas becomes the &#036;IMPRINT logo, shared by every agent who joined it."
+            }
+          ],
+          "text": " IMPRINT imprint_bnb Genesis token event on BNB Chain. Only .ai agents can join. The final canvas becomes the &#036;IMPRINT logo, shared by every agent who joined it.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Modulyn",
+          "account": "Modulynhq",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-10T18:44:08+00:00",
+          "lastSeen": "2026-11-10T18:44:08+00:00",
+          "description": "Programmable markets on Elysium.\n\nToken launches, liquidity and custom trading rules powered by Uniswap v4 hooks.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Modulyn",
+              "account": "Modulynhq",
+              "alpha": "lakka",
+              "seenAt": "2026-11-10T18:44:08+00:00",
+              "messageId": "dodtwitterbot/40560",
+              "description": "Programmable markets on Elysium.\n\nToken launches, liquidity and custom trading rules powered by Uniswap v4 hooks.",
+              "text": "Programmable markets on Elysium.\n\nToken launches, liquidity and custom trading rules powered by Uniswap v4 hooks."
+            }
+          ],
+          "text": " Modulyn Modulynhq Programmable markets on Elysium.\n\nToken launches, liquidity and custom trading rules powered by Uniswap v4 hooks.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "orphic",
+          "account": "orphicfi",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BearzVerse"
+          ],
+          "tgAlphas": [
+            "BearzVerse"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-10T16:44:29+00:00",
+          "lastSeen": "2026-11-10T16:44:29+00:00",
+          "description": "Agentic USDC vaults on Elysium. Built on Morpho and Hyperliquid.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "orphic",
+              "account": "orphicfi",
+              "alpha": "BearzVerse",
+              "seenAt": "2026-11-10T16:44:29+00:00",
+              "messageId": "dodtwitterbot/40553",
+              "description": "Agentic USDC vaults on Elysium. Built on Morpho and Hyperliquid.",
+              "text": "Agentic USDC vaults on Elysium. Built on Morpho and Hyperliquid."
+            }
+          ],
+          "text": " orphic orphicfi Agentic USDC vaults on Elysium. Built on Morpho and Hyperliquid.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Peak Deploy",
+          "account": "peakdeploy",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-10T18:56:46+00:00",
+          "lastSeen": "2026-11-10T18:56:46+00:00",
+          "description": "Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Peak Deploy",
+              "account": "peakdeploy",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-10T18:56:46+00:00",
+              "messageId": "dodtwitterbot/40561",
+              "description": "Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade",
+              "text": "Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade"
+            }
+          ],
+          "text": " Peak Deploy peakdeploy Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Pocket Perps",
+          "account": "pocketperps",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "poet"
+          ],
+          "tgAlphas": [
+            "poet"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-10T20:28:42+00:00",
+          "lastSeen": "2026-11-10T20:28:42+00:00",
+          "description": "Perps for the People | Powered by Hyperliquid",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Pocket Perps",
+              "account": "pocketperps",
+              "alpha": "poet",
+              "seenAt": "2026-11-10T20:28:42+00:00",
+              "messageId": "dodtwitterbot/40570",
+              "description": "Perps for the People | Powered by Hyperliquid",
+              "text": "Perps for the People | Powered by Hyperliquid"
+            }
+          ],
+          "text": " Pocket Perps pocketperps Perps for the People | Powered by Hyperliquid",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Versine",
+          "account": "VersineApp",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-10T18:56:47+00:00",
+          "lastSeen": "2026-11-10T18:56:47+00:00",
+          "description": "Let your agent send and receive money for you",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Versine",
+              "account": "VersineApp",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-10T18:56:47+00:00",
+              "messageId": "dodtwitterbot/40562",
+              "description": "Let your agent send and receive money for you",
+              "text": "Let your agent send and receive money for you"
+            }
+          ],
+          "text": " Versine VersineApp Let your agent send and receive money for you",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Yums",
+          "account": "yumsdotfun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-10T17:27:44+00:00",
+          "lastSeen": "2026-11-10T17:27:44+00:00",
+          "description": "Direct token fees to X users. Pair any token to a handle and let them claim.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Yums",
+              "account": "yumsdotfun",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-10T17:27:44+00:00",
+              "messageId": "dodtwitterbot/40556",
+              "description": "Direct token fees to X users. Pair any token to a handle and let them claim.",
+              "text": "Direct token fees to X users. Pair any token to a handle and let them claim."
+            }
+          ],
+          "text": " Yums yumsdotfun Direct token fees to X users. Pair any token to a handle and let them claim.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "totalRows": 36,
+      "projectCount": 32,
+      "focusCount": 3,
+      "candidateCount": 29,
+      "crossSource": 0,
+      "newCount": 22,
       "repeatCount": 10,
       "projects": [
         {
@@ -27880,6 +28704,111 @@
           "dayStatus": "new"
         },
         {
+          "project": "Holdembuilds",
+          "account": "holdembuilds",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "A佬"
+          ],
+          "tgAlphas": [
+            "A佬"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-10T15:30:24+00:00",
+          "lastSeen": "2026-11-10T15:30:24+00:00",
+          "description": "Building tools for agents\n\n- Blockpin (Independent on-chain checks)\n\n- Experimenting : @Inspector0x\n\nPaid by agents via x402 and Claus Jobs",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Holdembuilds",
+              "account": "holdembuilds",
+              "alpha": "A佬",
+              "seenAt": "2026-11-10T15:30:24+00:00",
+              "messageId": "dodtwitterbot/40540",
+              "description": "Building tools for agents\n\n- Blockpin (Independent on-chain checks)\n\n- Experimenting : @Inspector0x\n\nPaid by agents via x402 and Claus Jobs",
+              "text": "Building tools for agents\n\n- Blockpin (Independent on-chain checks)\n\n- Experimenting : @Inspector0x\n\nPaid by agents via x402 and Claus Jobs"
+            }
+          ],
+          "text": " Holdembuilds holdembuilds Building tools for agents\n\n- Blockpin (Independent on-chain checks)\n\n- Experimenting : @Inspector0x\n\nPaid by agents via x402 and Claus Jobs",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Hookemon",
+          "account": "hookemon4",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "A佬"
+          ],
+          "tgAlphas": [
+            "A佬"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-10T15:32:15+00:00",
+          "lastSeen": "2026-11-10T15:32:15+00:00",
+          "description": "LP fees power gacha pack pulls for &#036;HKMN holders.\nWe bring @Collector_Crypt to @RobinhoodCrypto\nOpening packs live 24/7.\nTG: https://t.co/mlE9PnStTS",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Hookemon",
+              "account": "hookemon4",
+              "alpha": "A佬",
+              "seenAt": "2026-11-10T15:32:15+00:00",
+              "messageId": "dodtwitterbot/40545",
+              "description": "LP fees power gacha pack pulls for &#036;HKMN holders.\nWe bring @Collector_Crypt to @RobinhoodCrypto\nOpening packs live 24/7.\nTG: https://t.co/mlE9PnStTS",
+              "text": "LP fees power gacha pack pulls for &#036;HKMN holders.\nWe bring @Collector_Crypt to @RobinhoodCrypto\nOpening packs live 24/7.\nTG: https://t.co/mlE9PnStTS"
+            }
+          ],
+          "text": " Hookemon hookemon4 LP fees power gacha pack pulls for &#036;HKMN holders.\nWe bring @Collector_Crypt to @RobinhoodCrypto\nOpening packs live 24/7.\nTG: https://t.co/mlE9PnStTS",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Jecta",
+          "account": "jectadotai",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-10T15:20:00+00:00",
+          "lastSeen": "2026-11-10T15:20:00+00:00",
+          "description": "Your On-Chain AI & DeFi Hub on @injective",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Jecta",
+              "account": "jectadotai",
+              "alpha": "lakka",
+              "seenAt": "2026-11-10T15:20:00+00:00",
+              "messageId": "dodtwitterbot/40538",
+              "description": "Your On-Chain AI & DeFi Hub on @injective",
+              "text": "Your On-Chain AI & DeFi Hub on @injective"
+            }
+          ],
+          "text": " Jecta jectadotai Your On-Chain AI & DeFi Hub on @injective",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
           "project": "Karpos",
           "account": "Karposxyz",
           "sources": [
@@ -28125,6 +29054,41 @@
           "dayStatus": "new"
         },
         {
+          "project": "PadPad",
+          "account": "ThePadPad",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "hit.ink"
+          ],
+          "tgAlphas": [
+            "hit.ink"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-10T15:15:18+00:00",
+          "lastSeen": "2026-11-10T15:15:18+00:00",
+          "description": "Coins, launchpads, any pair. Live on Solana.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "PadPad",
+              "account": "ThePadPad",
+              "alpha": "hit.ink",
+              "seenAt": "2026-11-10T15:15:18+00:00",
+              "messageId": "dodtwitterbot/40534",
+              "description": "Coins, launchpads, any pair. Live on Solana.",
+              "text": "Coins, launchpads, any pair. Live on Solana."
+            }
+          ],
+          "text": " PadPad ThePadPad Coins, launchpads, any pair. Live on Solana.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
           "project": "Peak Deploy",
           "account": "peakdeploy",
           "sources": [
@@ -28265,6 +29229,41 @@
           "dayStatus": "repeat"
         },
         {
+          "project": "The Inspector",
+          "account": "Inspector0x",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "A佬"
+          ],
+          "tgAlphas": [
+            "A佬"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-10T15:30:24+00:00",
+          "lastSeen": "2026-11-10T15:30:24+00:00",
+          "description": "Money detective.\n\nA small agent with &#036;100 in a big city of bots, hunting new ways to earn on-chain, in public.\n\nSidekick: Bart 🐦",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "The Inspector",
+              "account": "Inspector0x",
+              "alpha": "A佬",
+              "seenAt": "2026-11-10T15:30:24+00:00",
+              "messageId": "dodtwitterbot/40542",
+              "description": "Money detective.\n\nA small agent with &#036;100 in a big city of bots, hunting new ways to earn on-chain, in public.\n\nSidekick: Bart 🐦",
+              "text": "Money detective.\n\nA small agent with &#036;100 in a big city of bots, hunting new ways to earn on-chain, in public.\n\nSidekick: Bart 🐦"
+            }
+          ],
+          "text": " The Inspector Inspector0x Money detective.\n\nA small agent with &#036;100 in a big city of bots, hunting new ways to earn on-chain, in public.\n\nSidekick: Bart 🐦",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
           "project": "Tzero",
           "account": "T0dotfun",
           "sources": [
@@ -28298,6 +29297,41 @@
           "displayTier": "candidate",
           "avatarUrl": "",
           "dayStatus": "repeat"
+        },
+        {
+          "project": "vpaw",
+          "account": "vPawHook",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "A佬"
+          ],
+          "tgAlphas": [
+            "A佬"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-10T15:30:24+00:00",
+          "lastSeen": "2026-11-10T15:30:24+00:00",
+          "description": "a cute pet strategy game powered by gamified v4 hook mechanism",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "vpaw",
+              "account": "vPawHook",
+              "alpha": "A佬",
+              "seenAt": "2026-11-10T15:30:24+00:00",
+              "messageId": "dodtwitterbot/40541",
+              "description": "a cute pet strategy game powered by gamified v4 hook mechanism",
+              "text": "a cute pet strategy game powered by gamified v4 hook mechanism"
+            }
+          ],
+          "text": " vpaw vPawHook a cute pet strategy game powered by gamified v4 hook mechanism",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
         }
       ]
     },
@@ -51611,229 +52645,234 @@
   ],
   "reports": [
     {
+      "file": "2026-11-10-2037-telegram-update.md",
+      "title": "2026-11-10-2037-telegram-update",
+      "updatedAt": "2026-11-10T20:37:55.469Z"
+    },
+    {
       "file": "2026-11-10-1348-telegram-update.md",
       "title": "2026-11-10-1348-telegram-update",
-      "updatedAt": "2026-11-10T13:48:49.166Z"
+      "updatedAt": "2026-11-10T20:37:49.554Z"
     },
     {
       "file": "2026-11-10-0351-telegram-update.md",
       "title": "2026-11-10-0351-telegram-update",
-      "updatedAt": "2026-11-10T13:48:43.186Z"
+      "updatedAt": "2026-11-10T20:37:49.554Z"
     },
     {
       "file": "2026-11-09-2013-telegram-update.md",
       "title": "2026-11-09-2013-telegram-update",
-      "updatedAt": "2026-11-10T13:48:43.186Z"
+      "updatedAt": "2026-11-10T20:37:49.554Z"
     },
     {
       "file": "2026-11-09-0844-telegram-update.md",
       "title": "2026-11-09-0844-telegram-update",
-      "updatedAt": "2026-11-10T13:48:43.186Z"
+      "updatedAt": "2026-11-10T20:37:49.554Z"
     },
     {
       "file": "2026-11-08-2123-telegram-update.md",
       "title": "2026-11-08-2123-telegram-update",
-      "updatedAt": "2026-11-10T13:48:43.186Z"
+      "updatedAt": "2026-11-10T20:37:49.554Z"
     },
     {
       "file": "2026-11-08-1623-telegram-update.md",
       "title": "2026-11-08-1623-telegram-update",
-      "updatedAt": "2026-11-10T13:48:43.186Z"
+      "updatedAt": "2026-11-10T20:37:49.554Z"
     },
     {
       "file": "2026-11-08-0804-telegram-update.md",
       "title": "2026-11-08-0804-telegram-update",
-      "updatedAt": "2026-11-10T13:48:43.186Z"
+      "updatedAt": "2026-11-10T20:37:49.553Z"
     },
     {
       "file": "2026-11-07-2106-telegram-update.md",
       "title": "2026-11-07-2106-telegram-update",
-      "updatedAt": "2026-11-10T13:48:43.186Z"
+      "updatedAt": "2026-11-10T20:37:49.553Z"
     },
     {
       "file": "2026-11-07-1556-telegram-update.md",
       "title": "2026-11-07-1556-telegram-update",
-      "updatedAt": "2026-11-10T13:48:43.186Z"
+      "updatedAt": "2026-11-10T20:37:49.553Z"
     },
     {
       "file": "2026-11-07-0751-telegram-update.md",
       "title": "2026-11-07-0751-telegram-update",
-      "updatedAt": "2026-11-10T13:48:43.186Z"
+      "updatedAt": "2026-11-10T20:37:49.553Z"
     },
     {
       "file": "2026-11-06-2226-telegram-update.md",
       "title": "2026-11-06-2226-telegram-update",
-      "updatedAt": "2026-11-10T13:48:43.186Z"
+      "updatedAt": "2026-11-10T20:37:49.553Z"
     },
     {
       "file": "2026-11-06-1658-telegram-update.md",
       "title": "2026-11-06-1658-telegram-update",
-      "updatedAt": "2026-11-10T13:48:43.186Z"
+      "updatedAt": "2026-11-10T20:37:49.553Z"
     },
     {
       "file": "2026-11-06-0835-telegram-update.md",
       "title": "2026-11-06-0835-telegram-update",
-      "updatedAt": "2026-11-10T13:48:43.186Z"
+      "updatedAt": "2026-11-10T20:37:49.553Z"
     },
     {
       "file": "2026-11-05-2256-telegram-update.md",
       "title": "2026-11-05-2256-telegram-update",
-      "updatedAt": "2026-11-10T13:48:43.186Z"
+      "updatedAt": "2026-11-10T20:37:49.553Z"
     },
     {
       "file": "2026-11-05-1742-telegram-update.md",
       "title": "2026-11-05-1742-telegram-update",
-      "updatedAt": "2026-11-10T13:48:43.186Z"
+      "updatedAt": "2026-11-10T20:37:49.553Z"
     },
     {
       "file": "2026-11-05-0836-telegram-update.md",
       "title": "2026-11-05-0836-telegram-update",
-      "updatedAt": "2026-11-10T13:48:43.186Z"
+      "updatedAt": "2026-11-10T20:37:49.553Z"
     },
     {
       "file": "2026-11-04-2255-telegram-update.md",
       "title": "2026-11-04-2255-telegram-update",
-      "updatedAt": "2026-11-10T13:48:43.186Z"
+      "updatedAt": "2026-11-10T20:37:49.553Z"
     },
     {
       "file": "2026-11-04-1737-telegram-update.md",
       "title": "2026-11-04-1737-telegram-update",
-      "updatedAt": "2026-11-10T13:48:43.185Z"
+      "updatedAt": "2026-11-10T20:37:49.553Z"
     },
     {
       "file": "2026-11-04-0810-telegram-update.md",
       "title": "2026-11-04-0810-telegram-update",
-      "updatedAt": "2026-11-10T13:48:43.185Z"
+      "updatedAt": "2026-11-10T20:37:49.553Z"
     },
     {
       "file": "2026-11-04-0143-telegram-update.md",
       "title": "2026-11-04-0143-telegram-update",
-      "updatedAt": "2026-11-10T13:48:43.185Z"
+      "updatedAt": "2026-11-10T20:37:49.553Z"
     },
     {
       "file": "2026-11-03-2018-telegram-update.md",
       "title": "2026-11-03-2018-telegram-update",
-      "updatedAt": "2026-11-10T13:48:43.185Z"
+      "updatedAt": "2026-11-10T20:37:49.553Z"
     },
     {
       "file": "2026-11-03-1302-telegram-update.md",
       "title": "2026-11-03-1302-telegram-update",
-      "updatedAt": "2026-11-10T13:48:43.185Z"
+      "updatedAt": "2026-11-10T20:37:49.553Z"
     },
     {
       "file": "2026-11-03-0306-telegram-update.md",
       "title": "2026-11-03-0306-telegram-update",
-      "updatedAt": "2026-11-10T13:48:43.185Z"
+      "updatedAt": "2026-11-10T20:37:49.553Z"
     },
     {
       "file": "2026-11-02-1950-telegram-update.md",
       "title": "2026-11-02-1950-telegram-update",
-      "updatedAt": "2026-11-10T13:48:43.185Z"
+      "updatedAt": "2026-11-10T20:37:49.553Z"
     },
     {
       "file": "2026-11-02-0826-telegram-update.md",
       "title": "2026-11-02-0826-telegram-update",
-      "updatedAt": "2026-11-10T13:48:43.185Z"
+      "updatedAt": "2026-11-10T20:37:49.553Z"
     },
     {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-10T13:48:43.185Z"
+      "updatedAt": "2026-11-10T20:37:49.553Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-10T13:48:43.185Z"
+      "updatedAt": "2026-11-10T20:37:49.553Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-10T13:48:43.185Z"
+      "updatedAt": "2026-11-10T20:37:49.553Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-10T13:48:43.185Z"
+      "updatedAt": "2026-11-10T20:37:49.553Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-10T13:48:43.185Z"
+      "updatedAt": "2026-11-10T20:37:49.553Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-10T13:48:43.185Z"
+      "updatedAt": "2026-11-10T20:37:49.553Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-10T13:48:43.185Z"
+      "updatedAt": "2026-11-10T20:37:49.553Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-10T13:48:43.185Z"
+      "updatedAt": "2026-11-10T20:37:49.552Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-10T13:48:43.185Z"
+      "updatedAt": "2026-11-10T20:37:49.552Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-10T13:48:43.185Z"
+      "updatedAt": "2026-11-10T20:37:49.552Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-10T13:48:43.185Z"
+      "updatedAt": "2026-11-10T20:37:49.552Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-10T13:48:43.185Z"
+      "updatedAt": "2026-11-10T20:37:49.552Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-10T13:48:43.185Z"
+      "updatedAt": "2026-11-10T20:37:49.552Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-10T13:48:43.185Z"
+      "updatedAt": "2026-11-10T20:37:49.552Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-10T13:48:43.185Z"
+      "updatedAt": "2026-11-10T20:37:49.552Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-10T13:48:43.185Z"
+      "updatedAt": "2026-11-10T20:37:49.552Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-10T13:48:43.185Z"
+      "updatedAt": "2026-11-10T20:37:49.552Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-10T13:48:43.185Z"
+      "updatedAt": "2026-11-10T20:37:49.552Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-10T13:48:43.185Z"
+      "updatedAt": "2026-11-10T20:37:49.552Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-10T13:48:43.184Z"
+      "updatedAt": "2026-11-10T20:37:49.552Z"
     }
   ]
 }
