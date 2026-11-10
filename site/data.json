@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-10T03:51:15.495Z",
+  "generatedAt": "2026-11-10T13:48:49.398Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 40481,
-    "lastMessageAt": "2026-11-10T03:31:59+00:00",
-    "lastCheckedAt": "2026-11-10T03:51:15.327Z",
-    "previousMessageId": 40461,
-    "pagesRead": 2,
-    "messagesRead": 20,
-    "newProjectRecords": 8,
+    "lastMessageId": 40527,
+    "lastMessageAt": "2026-11-10T13:14:14+00:00",
+    "lastCheckedAt": "2026-11-10T13:48:49.166Z",
+    "previousMessageId": 40481,
+    "pagesRead": 3,
+    "messagesRead": 46,
+    "newProjectRecords": 16,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 776,
+    "telegramRows": 792,
     "xRows": 0,
-    "projects": 476,
+    "projects": 486,
     "crossSource": 0
   },
   "projects": [
@@ -1336,6 +1336,170 @@
       "avatarUrl": ""
     },
     {
+      "project": "ElySato",
+      "account": "Elysium_sato",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "A佬",
+        "speest 💎",
+        "苦瓜大王",
+        "蛋总",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "A佬",
+        "speest 💎",
+        "苦瓜大王",
+        "蛋总",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 5,
+      "firstSeen": "2026-11-09T12:19:20+00:00",
+      "lastSeen": "2026-11-10T12:52:47+00:00",
+      "description": "Elysium’s first SATO protocol.\nMinted & burned on a bonding curve.\n\n21 million tokens.\nMinting closes forever at 99.99%.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "ElySato",
+          "account": "Elysium_sato",
+          "alpha": "A佬",
+          "seenAt": "2026-11-09T12:19:20+00:00",
+          "messageId": "dodtwitterbot/40405",
+          "description": "Elysium first SATO protocol.\nMinted & burned on a bonding curve.",
+          "text": "Elysium first SATO protocol.\nMinted & burned on a bonding curve."
+        },
+        {
+          "source": "TG",
+          "project": "ElySato",
+          "account": "Elysium_sato",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-09T12:19:20+00:00",
+          "messageId": "dodtwitterbot/40406",
+          "description": "Elysium first SATO protocol.\nMinted & burned on a bonding curve.",
+          "text": "Elysium first SATO protocol.\nMinted & burned on a bonding curve."
+        },
+        {
+          "source": "TG",
+          "project": "ElySato",
+          "account": "Elysium_sato",
+          "alpha": "speest 💎",
+          "seenAt": "2026-11-09T12:24:01+00:00",
+          "messageId": "dodtwitterbot/40409",
+          "description": "Elysium first SATO protocol.\nMinted & burned on a bonding curve.",
+          "text": "Elysium first SATO protocol.\nMinted & burned on a bonding curve."
+        },
+        {
+          "source": "TG",
+          "project": "ElySato",
+          "account": "Elysium_sato",
+          "alpha": "苦瓜大王",
+          "seenAt": "2026-11-09T13:46:23+00:00",
+          "messageId": "dodtwitterbot/40429",
+          "description": "Elysium first SATO protocol.\nMinted & burned on a bonding curve.",
+          "text": "Elysium first SATO protocol.\nMinted & burned on a bonding curve."
+        },
+        {
+          "source": "TG",
+          "project": "ElySato",
+          "account": "Elysium_sato",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-10T12:52:47+00:00",
+          "messageId": "dodtwitterbot/40523",
+          "description": "Elysium’s first SATO protocol.\nMinted & burned on a bonding curve.\n\n21 million tokens.\nMinting closes forever at 99.99%.",
+          "text": "Elysium’s first SATO protocol.\nMinted & burned on a bonding curve.\n\n21 million tokens.\nMinting closes forever at 99.99%."
+        }
+      ],
+      "text": " ElySato Elysium_sato Elysium first SATO protocol.\nMinted & burned on a bonding curve. ElySato Elysium_sato Elysium first SATO protocol.\nMinted & burned on a bonding curve. ElySato Elysium_sato Elysium first SATO protocol.\nMinted & burned on a bonding curve. ElySato Elysium_sato Elysium first SATO protocol.\nMinted & burned on a bonding curve. ElySato Elysium_sato Elysium’s first SATO protocol.\nMinted & burned on a bonding curve.\n\n21 million tokens.\nMinting closes forever at 99.99%.",
+      "score": 10,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Korini",
+      "account": "Korinitrade",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "CSR",
+        "Skrchen666(钻石手伤心版 绝对纸手之人）",
+        "hit.ink",
+        "lakka",
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "CSR",
+        "Skrchen666(钻石手伤心版 绝对纸手之人）",
+        "hit.ink",
+        "lakka",
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 5,
+      "firstSeen": "2026-11-01T16:52:34+00:00",
+      "lastSeen": "2026-11-10T10:23:02+00:00",
+      "description": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Korini",
+          "account": "Korinitrade",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-01T16:52:34+00:00",
+          "messageId": "dodtwitterbot/39082",
+          "description": "all in one on elysium mainnet trading terminal RWAs pairing lauchapad",
+          "text": "all in one on elysium mainnet trading terminal RWAs pairing lauchapad"
+        },
+        {
+          "source": "TG",
+          "project": "Korini",
+          "account": "Korinitrade",
+          "alpha": "CSR",
+          "seenAt": "2026-11-07T11:12:54+00:00",
+          "messageId": "dodtwitterbot/40049",
+          "description": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
+          "text": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social"
+        },
+        {
+          "source": "TG",
+          "project": "Korini",
+          "account": "Korinitrade",
+          "alpha": "Skrchen666(钻石手伤心版 绝对纸手之人）",
+          "seenAt": "2026-11-08T10:33:14+00:00",
+          "messageId": "dodtwitterbot/40149",
+          "description": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
+          "text": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social"
+        },
+        {
+          "source": "TG",
+          "project": "Korini",
+          "account": "Korinitrade",
+          "alpha": "hit.ink",
+          "seenAt": "2026-11-09T23:15:06+00:00",
+          "messageId": "dodtwitterbot/40472",
+          "description": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
+          "text": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social"
+        },
+        {
+          "source": "TG",
+          "project": "Korini",
+          "account": "Korinitrade",
+          "alpha": "lakka",
+          "seenAt": "2026-11-10T10:23:02+00:00",
+          "messageId": "dodtwitterbot/40516",
+          "description": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
+          "text": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social"
+        }
+      ],
+      "text": " Korini Korinitrade all in one on elysium mainnet trading terminal RWAs pairing lauchapad Korini Korinitrade Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social Korini Korinitrade Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social Korini Korinitrade Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social Korini Korinitrade Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
+      "score": 10,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Stockium",
       "account": "Stockium",
       "sources": [
@@ -1710,76 +1874,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "ElySato",
-      "account": "Elysium_sato",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "A佬",
-        "speest 💎",
-        "苦瓜大王",
-        "蛋总"
-      ],
-      "tgAlphas": [
-        "A佬",
-        "speest 💎",
-        "苦瓜大王",
-        "蛋总"
-      ],
-      "xAlphas": [],
-      "mentions": 4,
-      "firstSeen": "2026-11-09T12:19:20+00:00",
-      "lastSeen": "2026-11-09T13:46:23+00:00",
-      "description": "Elysium first SATO protocol.\nMinted & burned on a bonding curve.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "ElySato",
-          "account": "Elysium_sato",
-          "alpha": "A佬",
-          "seenAt": "2026-11-09T12:19:20+00:00",
-          "messageId": "dodtwitterbot/40405",
-          "description": "Elysium first SATO protocol.\nMinted & burned on a bonding curve.",
-          "text": "Elysium first SATO protocol.\nMinted & burned on a bonding curve."
-        },
-        {
-          "source": "TG",
-          "project": "ElySato",
-          "account": "Elysium_sato",
-          "alpha": "蛋总",
-          "seenAt": "2026-11-09T12:19:20+00:00",
-          "messageId": "dodtwitterbot/40406",
-          "description": "Elysium first SATO protocol.\nMinted & burned on a bonding curve.",
-          "text": "Elysium first SATO protocol.\nMinted & burned on a bonding curve."
-        },
-        {
-          "source": "TG",
-          "project": "ElySato",
-          "account": "Elysium_sato",
-          "alpha": "speest 💎",
-          "seenAt": "2026-11-09T12:24:01+00:00",
-          "messageId": "dodtwitterbot/40409",
-          "description": "Elysium first SATO protocol.\nMinted & burned on a bonding curve.",
-          "text": "Elysium first SATO protocol.\nMinted & burned on a bonding curve."
-        },
-        {
-          "source": "TG",
-          "project": "ElySato",
-          "account": "Elysium_sato",
-          "alpha": "苦瓜大王",
-          "seenAt": "2026-11-09T13:46:23+00:00",
-          "messageId": "dodtwitterbot/40429",
-          "description": "Elysium first SATO protocol.\nMinted & burned on a bonding curve.",
-          "text": "Elysium first SATO protocol.\nMinted & burned on a bonding curve."
-        }
-      ],
-      "text": " ElySato Elysium_sato Elysium first SATO protocol.\nMinted & burned on a bonding curve. ElySato Elysium_sato Elysium first SATO protocol.\nMinted & burned on a bonding curve. ElySato Elysium_sato Elysium first SATO protocol.\nMinted & burned on a bonding curve. ElySato Elysium_sato Elysium first SATO protocol.\nMinted & burned on a bonding curve.",
-      "score": 8,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
       "project": "Elysium Pump",
       "account": "ElysiumPump",
       "sources": [
@@ -2060,76 +2154,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Korini",
-      "account": "Korinitrade",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "CSR",
-        "Skrchen666(钻石手伤心版 绝对纸手之人）",
-        "hit.ink",
-        "蛋总"
-      ],
-      "tgAlphas": [
-        "CSR",
-        "Skrchen666(钻石手伤心版 绝对纸手之人）",
-        "hit.ink",
-        "蛋总"
-      ],
-      "xAlphas": [],
-      "mentions": 4,
-      "firstSeen": "2026-11-01T16:52:34+00:00",
-      "lastSeen": "2026-11-09T23:15:06+00:00",
-      "description": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Korini",
-          "account": "Korinitrade",
-          "alpha": "蛋总",
-          "seenAt": "2026-11-01T16:52:34+00:00",
-          "messageId": "dodtwitterbot/39082",
-          "description": "all in one on elysium mainnet trading terminal RWAs pairing lauchapad",
-          "text": "all in one on elysium mainnet trading terminal RWAs pairing lauchapad"
-        },
-        {
-          "source": "TG",
-          "project": "Korini",
-          "account": "Korinitrade",
-          "alpha": "CSR",
-          "seenAt": "2026-11-07T11:12:54+00:00",
-          "messageId": "dodtwitterbot/40049",
-          "description": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
-          "text": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social"
-        },
-        {
-          "source": "TG",
-          "project": "Korini",
-          "account": "Korinitrade",
-          "alpha": "Skrchen666(钻石手伤心版 绝对纸手之人）",
-          "seenAt": "2026-11-08T10:33:14+00:00",
-          "messageId": "dodtwitterbot/40149",
-          "description": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
-          "text": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social"
-        },
-        {
-          "source": "TG",
-          "project": "Korini",
-          "account": "Korinitrade",
-          "alpha": "hit.ink",
-          "seenAt": "2026-11-09T23:15:06+00:00",
-          "messageId": "dodtwitterbot/40472",
-          "description": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
-          "text": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social"
-        }
-      ],
-      "text": " Korini Korinitrade all in one on elysium mainnet trading terminal RWAs pairing lauchapad Korini Korinitrade Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social Korini Korinitrade Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social Korini Korinitrade Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
-      "score": 8,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
       "project": "Magnus",
       "account": "0xmagnus",
       "sources": [
@@ -2195,6 +2219,76 @@
         }
       ],
       "text": " Magnus 0xmagnus @Kinetiq_xyz | @Markets_xyz | @Enter_Elysium Magnus 0xmagnus @Kinetiq_xyz | @Markets_xyz | @Enter_Elysium Magnus 0xmagnus @Kinetiq_xyz | @Markets_xyz | @Enter_Elysium Magnus 0xmagnus @Kinetiq_xyz | @Markets_xyz | @Enter_Elysium",
+      "score": 8,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "NULORA",
+      "account": "nuloraio",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Skrchen666(钻石手伤心版 绝对纸手之人）",
+        "hit.ink",
+        "发誓要做永赚大师",
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "Skrchen666(钻石手伤心版 绝对纸手之人）",
+        "hit.ink",
+        "发誓要做永赚大师",
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 4,
+      "firstSeen": "2026-10-28T22:26:00+08:00",
+      "lastSeen": "2026-11-10T07:03:36+00:00",
+      "description": "Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "NULORA",
+          "account": "nuloraio",
+          "alpha": "hit.ink",
+          "seenAt": "2026-11-04T13:57:22+00:00",
+          "messageId": "dodtwitterbot/39614",
+          "description": "Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture",
+          "text": "Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture"
+        },
+        {
+          "source": "TG",
+          "project": "NULORA",
+          "account": "nuloraio",
+          "alpha": "Skrchen666(钻石手伤心版 绝对纸手之人）",
+          "seenAt": "2026-11-04T18:43:35+00:00",
+          "messageId": "dodtwitterbot/39658",
+          "description": "Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture",
+          "text": "Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture"
+        },
+        {
+          "source": "TG",
+          "project": "NULORA",
+          "account": "nuloraio",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-10T07:03:36+00:00",
+          "messageId": "dodtwitterbot/40502",
+          "description": "Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture",
+          "text": "Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture"
+        },
+        {
+          "source": "TG",
+          "project": "NULORA",
+          "account": "nuloraio",
+          "alpha": "发誓要做永赚大师",
+          "seenAt": "2026-10-28T22:26:00+08:00",
+          "messageId": "dodtwitterbot/38261",
+          "description": "Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture",
+          "text": "Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture"
+        }
+      ],
+      "text": " NULORA nuloraio Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture NULORA nuloraio Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture NULORA nuloraio Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture NULORA nuloraio Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture",
       "score": 8,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -3396,6 +3490,64 @@
       "avatarUrl": ""
     },
     {
+      "project": "forks wiki",
+      "account": "wikifork",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "speest 💎",
+        "发誓要做永赚大师",
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "speest 💎",
+        "发誓要做永赚大师",
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-11-10T03:31:59+00:00",
+      "lastSeen": "2026-11-10T08:25:44+00:00",
+      "description": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "forks wiki",
+          "account": "wikifork",
+          "alpha": "发誓要做永赚大师",
+          "seenAt": "2026-11-10T03:31:59+00:00",
+          "messageId": "dodtwitterbot/40481",
+          "description": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork",
+          "text": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork"
+        },
+        {
+          "source": "TG",
+          "project": "forks wiki",
+          "account": "wikifork",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-10T06:07:46+00:00",
+          "messageId": "dodtwitterbot/40488",
+          "description": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork",
+          "text": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork"
+        },
+        {
+          "source": "TG",
+          "project": "forks wiki",
+          "account": "wikifork",
+          "alpha": "speest 💎",
+          "seenAt": "2026-11-10T08:25:44+00:00",
+          "messageId": "dodtwitterbot/40507",
+          "description": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork",
+          "text": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork"
+        }
+      ],
+      "text": " forks wiki wikifork the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork forks wiki wikifork the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork forks wiki wikifork the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "GiwaMeme",
       "account": "GiwaMemeCom",
       "sources": [
@@ -3971,64 +4123,6 @@
         }
       ],
       "text": " Neuriio Neuriio Tokenize Accounts, Create Social Markets.\n\nBuilt on @Enter_Elysium Neuriio Neuriio Tokenize Accounts, Create Social Markets.\n\nBuilt on @Enter_Elysium Neuriio Neuriio Tokenize Accounts, Create Social Markets.\n\nBuilt on @Enter_Elysium",
-      "score": 6,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
-      "project": "NULORA",
-      "account": "nuloraio",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "Skrchen666(钻石手伤心版 绝对纸手之人）",
-        "hit.ink",
-        "发誓要做永赚大师"
-      ],
-      "tgAlphas": [
-        "Skrchen666(钻石手伤心版 绝对纸手之人）",
-        "hit.ink",
-        "发誓要做永赚大师"
-      ],
-      "xAlphas": [],
-      "mentions": 3,
-      "firstSeen": "2026-10-28T22:26:00+08:00",
-      "lastSeen": "2026-11-04T18:43:35+00:00",
-      "description": "Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "NULORA",
-          "account": "nuloraio",
-          "alpha": "hit.ink",
-          "seenAt": "2026-11-04T13:57:22+00:00",
-          "messageId": "dodtwitterbot/39614",
-          "description": "Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture",
-          "text": "Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture"
-        },
-        {
-          "source": "TG",
-          "project": "NULORA",
-          "account": "nuloraio",
-          "alpha": "Skrchen666(钻石手伤心版 绝对纸手之人）",
-          "seenAt": "2026-11-04T18:43:35+00:00",
-          "messageId": "dodtwitterbot/39658",
-          "description": "Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture",
-          "text": "Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture"
-        },
-        {
-          "source": "TG",
-          "project": "NULORA",
-          "account": "nuloraio",
-          "alpha": "发誓要做永赚大师",
-          "seenAt": "2026-10-28T22:26:00+08:00",
-          "messageId": "dodtwitterbot/38261",
-          "description": "Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture",
-          "text": "Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture"
-        }
-      ],
-      "text": " NULORA nuloraio Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture NULORA nuloraio Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture NULORA nuloraio Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture",
       "score": 6,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -5821,6 +5915,52 @@
         }
       ],
       "text": " Cashmere Labs CashmereLabs Autonomous Monetary Infrastructure. Incubated by @BinanceLabs . 2026 @Circle Grantee @buildoncircle . Cashmere Labs CashmereLabs Autonomous Monetary Infrastructure. Incubated by @BinanceLabs . 2026 @Circle Grantee @buildoncircle .",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "ChainChomp131",
+      "account": "ChainChomp131",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "poet",
+        "雷氏"
+      ],
+      "tgAlphas": [
+        "poet",
+        "雷氏"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-09T15:22:59+00:00",
+      "lastSeen": "2026-11-10T05:25:48+00:00",
+      "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "ChainChomp131",
+          "account": "ChainChomp131",
+          "alpha": "poet",
+          "seenAt": "2026-11-09T15:22:59+00:00",
+          "messageId": "dodtwitterbot/40442",
+          "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+          "text": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him"
+        },
+        {
+          "source": "TG",
+          "project": "ChainChomp131",
+          "account": "ChainChomp131",
+          "alpha": "雷氏",
+          "seenAt": "2026-11-10T05:25:48+00:00",
+          "messageId": "dodtwitterbot/40483",
+          "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+          "text": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him"
+        }
+      ],
+      "text": " ChainChomp131 ChainChomp131 20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him ChainChomp131 ChainChomp131 20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -9468,6 +9608,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Aether",
+      "account": "enteraetherxyz",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-10T12:52:48+00:00",
+      "lastSeen": "2026-11-10T12:52:48+00:00",
+      "description": "Launch coins on @Enter_Elysium directly from @Solana .",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Aether",
+          "account": "enteraetherxyz",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-10T12:52:48+00:00",
+          "messageId": "dodtwitterbot/40524",
+          "description": "Launch coins on @Enter_Elysium directly from @Solana .",
+          "text": "Launch coins on @Enter_Elysium directly from @Solana ."
+        }
+      ],
+      "text": " Aether enteraetherxyz Launch coins on @Enter_Elysium directly from @Solana .",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Agent Dojo",
       "account": "agentdojo",
       "sources": [
@@ -9565,6 +9739,40 @@
         }
       ],
       "text": " Agentic Digger ⛏ AGD Agentic_Digger AGD is the Agentic Digger coin. Agents come onchain to try things here; some bring a shovel.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Agentic x402",
+      "account": "agentic_x402",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-10T05:56:09+00:00",
+      "lastSeen": "2026-11-10T05:56:09+00:00",
+      "description": "A coin minted by agents. An on-chain experiment built around x402.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Agentic x402",
+          "account": "agentic_x402",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-10T05:56:09+00:00",
+          "messageId": "dodtwitterbot/40485",
+          "description": "A coin minted by agents. An on-chain experiment built around x402.",
+          "text": "A coin minted by agents. An on-chain experiment built around x402."
+        }
+      ],
+      "text": " Agentic x402 agentic_x402 A coin minted by agents. An on-chain experiment built around x402.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -10721,40 +10929,6 @@
         }
       ],
       "text": " CeilingDotFun CeilingDotFun A @Solana launchpad enabling permissionless token creation for any online identity, with vault-based creator fee distribution",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
-      "project": "ChainChomp131",
-      "account": "ChainChomp131",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "poet"
-      ],
-      "tgAlphas": [
-        "poet"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-09T15:22:59+00:00",
-      "lastSeen": "2026-11-09T15:22:59+00:00",
-      "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "ChainChomp131",
-          "account": "ChainChomp131",
-          "alpha": "poet",
-          "seenAt": "2026-11-09T15:22:59+00:00",
-          "messageId": "dodtwitterbot/40442",
-          "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
-          "text": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him"
-        }
-      ],
-      "text": " ChainChomp131 ChainChomp131 20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -12630,40 +12804,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "forks wiki",
-      "account": "wikifork",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "发誓要做永赚大师"
-      ],
-      "tgAlphas": [
-        "发誓要做永赚大师"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-10T03:31:59+00:00",
-      "lastSeen": "2026-11-10T03:31:59+00:00",
-      "description": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "forks wiki",
-          "account": "wikifork",
-          "alpha": "发誓要做永赚大师",
-          "seenAt": "2026-11-10T03:31:59+00:00",
-          "messageId": "dodtwitterbot/40481",
-          "description": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork",
-          "text": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork"
-        }
-      ],
-      "text": " forks wiki wikifork the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
       "project": "Fupa on PulseChain",
       "account": "FupaFinance",
       "sources": [
@@ -13174,6 +13314,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "hedge",
+      "account": "usehedgefun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Mutu 🕸️"
+      ],
+      "tgAlphas": [
+        "Mutu 🕸️"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-10T07:42:26+00:00",
+      "lastSeen": "2026-11-10T07:42:26+00:00",
+      "description": "the multi-asset launchpad. built on solana.\n\nHSi9LptAQdDsCBSwVoyQ7HBhMMAi1yvbhwvNoYkGFW9D",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "hedge",
+          "account": "usehedgefun",
+          "alpha": "Mutu 🕸️",
+          "seenAt": "2026-11-10T07:42:26+00:00",
+          "messageId": "dodtwitterbot/40503",
+          "description": "the multi-asset launchpad. built on solana.\n\nHSi9LptAQdDsCBSwVoyQ7HBhMMAi1yvbhwvNoYkGFW9D",
+          "text": "the multi-asset launchpad. built on solana.\n\nHSi9LptAQdDsCBSwVoyQ7HBhMMAi1yvbhwvNoYkGFW9D"
+        }
+      ],
+      "text": " hedge usehedgefun the multi-asset launchpad. built on solana.\n\nHSi9LptAQdDsCBSwVoyQ7HBhMMAi1yvbhwvNoYkGFW9D",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Helios",
       "account": "heliosliq",
       "sources": [
@@ -13208,6 +13382,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "herdr",
+      "account": "herdrdev",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "A佬"
+      ],
+      "tgAlphas": [
+        "A佬"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-10T12:03:54+00:00",
+      "lastSeen": "2026-11-10T12:03:54+00:00",
+      "description": "the runtime your coding agents live on",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "herdr",
+          "account": "herdrdev",
+          "alpha": "A佬",
+          "seenAt": "2026-11-10T12:03:54+00:00",
+          "messageId": "dodtwitterbot/40522",
+          "description": "the runtime your coding agents live on",
+          "text": "the runtime your coding agents live on"
+        }
+      ],
+      "text": " herdr herdrdev the runtime your coding agents live on",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Hetairoi Ai Agent",
       "account": "HetairoiAgent",
       "sources": [
@@ -13237,6 +13445,40 @@
         }
       ],
       "text": " Hetairoi Ai Agent HetairoiAgent Your agents, riding as one. Claude Code, Codex, Cursor, Grok and more ask each other for work you decide. Open source. &#036;HETAIROI",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "HeyItsBoh",
+      "account": "HeyitsbohTTV",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "老大哥"
+      ],
+      "tgAlphas": [
+        "老大哥"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-10T11:34:14+00:00",
+      "lastSeen": "2026-11-10T11:34:14+00:00",
+      "description": "Gamer who enjoys the art of professional wrestling. HeyItsBoh@gmail.com",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "HeyItsBoh",
+          "account": "HeyitsbohTTV",
+          "alpha": "老大哥",
+          "seenAt": "2026-11-10T11:34:14+00:00",
+          "messageId": "dodtwitterbot/40521",
+          "description": "Gamer who enjoys the art of professional wrestling. HeyItsBoh@gmail.com",
+          "text": "Gamer who enjoys the art of professional wrestling. HeyItsBoh@gmail.com"
+        }
+      ],
+      "text": " HeyItsBoh HeyitsbohTTV Gamer who enjoys the art of professional wrestling. HeyItsBoh@gmail.com",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -14160,6 +14402,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "KOVIN SEGNOCCHI",
+      "account": "kovinsegnocchi",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka"
+      ],
+      "tgAlphas": [
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-10T10:46:32+00:00",
+      "lastSeen": "2026-11-10T10:46:32+00:00",
+      "description": "bringing more tek on-chain.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "KOVIN SEGNOCCHI",
+          "account": "kovinsegnocchi",
+          "alpha": "lakka",
+          "seenAt": "2026-11-10T10:46:32+00:00",
+          "messageId": "dodtwitterbot/40517",
+          "description": "bringing more tek on-chain.",
+          "text": "bringing more tek on-chain."
+        }
+      ],
+      "text": " KOVIN SEGNOCCHI kovinsegnocchi bringing more tek on-chain.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Kurtosis Labs",
       "account": "KurtosisLabs",
       "sources": [
@@ -14840,6 +15116,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Mavria",
+      "account": "mavriaX",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-10T06:25:32+00:00",
+      "lastSeen": "2026-11-10T06:25:32+00:00",
+      "description": "Industrializing the physical infrastructure behind American AI.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Mavria",
+          "account": "mavriaX",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-10T06:25:32+00:00",
+          "messageId": "dodtwitterbot/40492",
+          "description": "Industrializing the physical infrastructure behind American AI.",
+          "text": "Industrializing the physical infrastructure behind American AI."
+        }
+      ],
+      "text": " Mavria mavriaX Industrializing the physical infrastructure behind American AI.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Medbay",
       "account": "MedbayVault",
       "sources": [
@@ -15073,6 +15383,40 @@
         }
       ],
       "text": " Miuafun miuadotfun Bonding Curve-Based NFT Launchpad on @Robinhoodapp and @Arc",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Mixun",
+      "account": "mixunmx",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "雷氏"
+      ],
+      "tgAlphas": [
+        "雷氏"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-10T11:20:21+00:00",
+      "lastSeen": "2026-11-10T11:20:21+00:00",
+      "description": "Private conversations. Smarter insights. On-chain automation. One place to connect, analyze, and act.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Mixun",
+          "account": "mixunmx",
+          "alpha": "雷氏",
+          "seenAt": "2026-11-10T11:20:21+00:00",
+          "messageId": "dodtwitterbot/40519",
+          "description": "Private conversations. Smarter insights. On-chain automation. One place to connect, analyze, and act.",
+          "text": "Private conversations. Smarter insights. On-chain automation. One place to connect, analyze, and act."
+        }
+      ],
+      "text": " Mixun mixunmx Private conversations. Smarter insights. On-chain automation. One place to connect, analyze, and act.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -16064,6 +16408,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Peak Deploy",
+      "account": "peakdeploy",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "hit.ink"
+      ],
+      "tgAlphas": [
+        "hit.ink"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-10T06:51:46+00:00",
+      "lastSeen": "2026-11-10T06:51:46+00:00",
+      "description": "Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Peak Deploy",
+          "account": "peakdeploy",
+          "alpha": "hit.ink",
+          "seenAt": "2026-11-10T06:51:46+00:00",
+          "messageId": "dodtwitterbot/40500",
+          "description": "Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade",
+          "text": "Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade"
+        }
+      ],
+      "text": " Peak Deploy peakdeploy Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Peer",
       "account": "peerxyz",
       "sources": [
@@ -16127,6 +16505,40 @@
         }
       ],
       "text": " Perch AI PerchTerminal Autonomous multi-agent workspace for financial, writing, research, coding and operational work.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Perpium",
+      "account": "Perpium_xyz",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka"
+      ],
+      "tgAlphas": [
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-10T12:55:35+00:00",
+      "lastSeen": "2026-11-10T12:55:35+00:00",
+      "description": "Ascend to Elysium via Perpium",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Perpium",
+          "account": "Perpium_xyz",
+          "alpha": "lakka",
+          "seenAt": "2026-11-10T12:55:35+00:00",
+          "messageId": "dodtwitterbot/40526",
+          "description": "Ascend to Elysium via Perpium",
+          "text": "Ascend to Elysium via Perpium"
+        }
+      ],
+      "text": " Perpium Perpium_xyz Ascend to Elysium via Perpium",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -20074,6 +20486,42 @@
       "avatarUrl": ""
     },
     {
+      "project": "ElySato",
+      "x_account": "Elysium_sato",
+      "total_mentions": 5,
+      "unique_alphas": 5,
+      "alphas": [
+        "A佬",
+        "speest 💎",
+        "苦瓜大王",
+        "蛋总",
+        "阿宏"
+      ],
+      "description": "Elysium’s first SATO protocol.\nMinted & burned on a bonding curve.\n\n21 million tokens.\nMinting closes forever at 99.99%.",
+      "first_seen_utc": "2026-11-09T12:19:20+00:00",
+      "last_seen_utc": "2026-11-10T12:52:47+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Korini",
+      "x_account": "Korinitrade",
+      "total_mentions": 5,
+      "unique_alphas": 5,
+      "alphas": [
+        "CSR",
+        "Skrchen666(钻石手伤心版 绝对纸手之人）",
+        "hit.ink",
+        "lakka",
+        "蛋总"
+      ],
+      "description": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
+      "first_seen_utc": "2026-11-01T16:52:34+00:00",
+      "last_seen_utc": "2026-11-10T10:23:02+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
       "project": "Stockium",
       "x_account": "Stockium",
       "total_mentions": 5,
@@ -20161,23 +20609,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "ElySato",
-      "x_account": "Elysium_sato",
-      "total_mentions": 4,
-      "unique_alphas": 4,
-      "alphas": [
-        "A佬",
-        "speest 💎",
-        "苦瓜大王",
-        "蛋总"
-      ],
-      "description": "Elysium first SATO protocol.\nMinted & burned on a bonding curve.",
-      "first_seen_utc": "2026-11-09T12:19:20+00:00",
-      "last_seen_utc": "2026-11-09T13:46:23+00:00",
-      "status": "priority",
-      "avatarUrl": ""
-    },
-    {
       "project": "Elysium Pump",
       "x_account": "ElysiumPump",
       "total_mentions": 4,
@@ -20246,23 +20677,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Korini",
-      "x_account": "Korinitrade",
-      "total_mentions": 4,
-      "unique_alphas": 4,
-      "alphas": [
-        "CSR",
-        "Skrchen666(钻石手伤心版 绝对纸手之人）",
-        "hit.ink",
-        "蛋总"
-      ],
-      "description": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
-      "first_seen_utc": "2026-11-01T16:52:34+00:00",
-      "last_seen_utc": "2026-11-09T23:15:06+00:00",
-      "status": "priority",
-      "avatarUrl": ""
-    },
-    {
       "project": "Magnus",
       "x_account": "0xmagnus",
       "total_mentions": 4,
@@ -20276,6 +20690,23 @@
       "description": "@Kinetiq_xyz | @Markets_xyz | @Enter_Elysium",
       "first_seen_utc": "2026-11-01T03:47:08+00:00",
       "last_seen_utc": "2026-11-09T13:39:43+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
+      "project": "NULORA",
+      "x_account": "nuloraio",
+      "total_mentions": 4,
+      "unique_alphas": 4,
+      "alphas": [
+        "Skrchen666(钻石手伤心版 绝对纸手之人）",
+        "hit.ink",
+        "发誓要做永赚大师",
+        "蛋总"
+      ],
+      "description": "Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture",
+      "first_seen_utc": "2026-10-28T22:26:00+08:00",
+      "last_seen_utc": "2026-11-10T07:03:36+00:00",
       "status": "priority",
       "avatarUrl": ""
     },
@@ -20603,6 +21034,22 @@
       "avatarUrl": ""
     },
     {
+      "project": "forks wiki",
+      "x_account": "wikifork",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "speest 💎",
+        "发誓要做永赚大师",
+        "蛋总"
+      ],
+      "description": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork",
+      "first_seen_utc": "2026-11-10T03:31:59+00:00",
+      "last_seen_utc": "2026-11-10T08:25:44+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
       "project": "GiwaMeme",
       "x_account": "GiwaMemeCom",
       "total_mentions": 3,
@@ -20759,22 +21206,6 @@
       "description": "Tokenize Accounts, Create Social Markets.\n\nBuilt on @Enter_Elysium",
       "first_seen_utc": "2026-11-01T04:35:15+00:00",
       "last_seen_utc": "2026-11-08T14:28:25+00:00",
-      "status": "priority",
-      "avatarUrl": ""
-    },
-    {
-      "project": "NULORA",
-      "x_account": "nuloraio",
-      "total_mentions": 3,
-      "unique_alphas": 3,
-      "alphas": [
-        "Skrchen666(钻石手伤心版 绝对纸手之人）",
-        "hit.ink",
-        "发誓要做永赚大师"
-      ],
-      "description": "Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture",
-      "first_seen_utc": "2026-10-28T22:26:00+08:00",
-      "last_seen_utc": "2026-11-04T18:43:35+00:00",
       "status": "priority",
       "avatarUrl": ""
     },
@@ -21304,6 +21735,21 @@
       "description": "Autonomous Monetary Infrastructure. Incubated by @BinanceLabs . 2026 @Circle Grantee @buildoncircle .",
       "first_seen_utc": "2026-11-06T19:26:29+00:00",
       "last_seen_utc": "2026-11-07T06:12:17+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "ChainChomp131",
+      "x_account": "ChainChomp131",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "poet",
+        "雷氏"
+      ],
+      "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+      "first_seen_utc": "2026-11-09T15:22:59+00:00",
+      "last_seen_utc": "2026-11-10T05:25:48+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -22516,6 +22962,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Aether",
+      "x_account": "enteraetherxyz",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "阿宏"
+      ],
+      "description": "Launch coins on @Enter_Elysium directly from @Solana .",
+      "first_seen_utc": "2026-11-10T12:52:48+00:00",
+      "last_seen_utc": "2026-11-10T12:52:48+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Agent Dojo",
       "x_account": "agentdojo",
       "total_mentions": 1,
@@ -22554,6 +23014,20 @@
       "description": "AGD is the Agentic Digger coin. Agents come onchain to try things here; some bring a shovel.",
       "first_seen_utc": "2026-11-06T13:17:33+00:00",
       "last_seen_utc": "2026-11-06T13:17:33+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Agentic x402",
+      "x_account": "agentic_x402",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "A coin minted by agents. An on-chain experiment built around x402.",
+      "first_seen_utc": "2026-11-10T05:56:09+00:00",
+      "last_seen_utc": "2026-11-10T05:56:09+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -23030,20 +23504,6 @@
       "description": "A @Solana launchpad enabling permissionless token creation for any online identity, with vault-based creator fee distribution",
       "first_seen_utc": "2026-11-05T18:28:54+00:00",
       "last_seen_utc": "2026-11-05T18:28:54+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "ChainChomp131",
-      "x_account": "ChainChomp131",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "poet"
-      ],
-      "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
-      "first_seen_utc": "2026-11-09T15:22:59+00:00",
-      "last_seen_utc": "2026-11-09T15:22:59+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -23818,20 +24278,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "forks wiki",
-      "x_account": "wikifork",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "发誓要做永赚大师"
-      ],
-      "description": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork",
-      "first_seen_utc": "2026-11-10T03:31:59+00:00",
-      "last_seen_utc": "2026-11-10T03:31:59+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "Fupa on PulseChain",
       "x_account": "FupaFinance",
       "total_mentions": 1,
@@ -24042,6 +24488,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "hedge",
+      "x_account": "usehedgefun",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "Mutu 🕸️"
+      ],
+      "description": "the multi-asset launchpad. built on solana.\n\nHSi9LptAQdDsCBSwVoyQ7HBhMMAi1yvbhwvNoYkGFW9D",
+      "first_seen_utc": "2026-11-10T07:42:26+00:00",
+      "last_seen_utc": "2026-11-10T07:42:26+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Helios",
       "x_account": "heliosliq",
       "total_mentions": 1,
@@ -24056,6 +24516,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "herdr",
+      "x_account": "herdrdev",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "A佬"
+      ],
+      "description": "the runtime your coding agents live on",
+      "first_seen_utc": "2026-11-10T12:03:54+00:00",
+      "last_seen_utc": "2026-11-10T12:03:54+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Hetairoi Ai Agent",
       "x_account": "HetairoiAgent",
       "total_mentions": 1,
@@ -24066,6 +24540,20 @@
       "description": "Your agents, riding as one. Claude Code, Codex, Cursor, Grok and more ask each other for work you decide. Open source. &#036;HETAIROI",
       "first_seen_utc": "2026-11-04T11:07:19+00:00",
       "last_seen_utc": "2026-11-04T11:07:19+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "HeyItsBoh",
+      "x_account": "HeyitsbohTTV",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "老大哥"
+      ],
+      "description": "Gamer who enjoys the art of professional wrestling. HeyItsBoh@gmail.com",
+      "first_seen_utc": "2026-11-10T11:34:14+00:00",
+      "last_seen_utc": "2026-11-10T11:34:14+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -24448,6 +24936,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "KOVIN SEGNOCCHI",
+      "x_account": "kovinsegnocchi",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "lakka"
+      ],
+      "description": "bringing more tek on-chain.",
+      "first_seen_utc": "2026-11-10T10:46:32+00:00",
+      "last_seen_utc": "2026-11-10T10:46:32+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Kurtosis Labs",
       "x_account": "KurtosisLabs",
       "total_mentions": 1,
@@ -24728,6 +25230,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Mavria",
+      "x_account": "mavriaX",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "Industrializing the physical infrastructure behind American AI.",
+      "first_seen_utc": "2026-11-10T06:25:32+00:00",
+      "last_seen_utc": "2026-11-10T06:25:32+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Medbay",
       "x_account": "MedbayVault",
       "total_mentions": 1,
@@ -24822,6 +25338,20 @@
       "description": "Bonding Curve-Based NFT Launchpad on @Robinhoodapp and @Arc",
       "first_seen_utc": "2026-10-31T12:06:35+00:00",
       "last_seen_utc": "2026-10-31T12:06:35+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Mixun",
+      "x_account": "mixunmx",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "雷氏"
+      ],
+      "description": "Private conversations. Smarter insights. On-chain automation. One place to connect, analyze, and act.",
+      "first_seen_utc": "2026-11-10T11:20:21+00:00",
+      "last_seen_utc": "2026-11-10T11:20:21+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -25232,6 +25762,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Peak Deploy",
+      "x_account": "peakdeploy",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "hit.ink"
+      ],
+      "description": "Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade",
+      "first_seen_utc": "2026-11-10T06:51:46+00:00",
+      "last_seen_utc": "2026-11-10T06:51:46+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Peer",
       "x_account": "peerxyz",
       "total_mentions": 1,
@@ -25256,6 +25800,20 @@
       "description": "Autonomous multi-agent workspace for financial, writing, research, coding and operational work.",
       "first_seen_utc": "2026-11-05T10:50:12+00:00",
       "last_seen_utc": "2026-11-05T10:50:12+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Perpium",
+      "x_account": "Perpium_xyz",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "lakka"
+      ],
+      "description": "Ascend to Elysium via Perpium",
+      "first_seen_utc": "2026-11-10T12:55:35+00:00",
+      "last_seen_utc": "2026-11-10T12:55:35+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -26775,14 +27333,73 @@
   "daily": [
     {
       "date": "2026-11-10",
-      "totalRows": 14,
-      "projectCount": 13,
-      "focusCount": 1,
-      "candidateCount": 12,
+      "totalRows": 30,
+      "projectCount": 26,
+      "focusCount": 3,
+      "candidateCount": 23,
       "crossSource": 0,
-      "newCount": 6,
-      "repeatCount": 7,
+      "newCount": 16,
+      "repeatCount": 10,
       "projects": [
+        {
+          "project": "forks wiki",
+          "account": "wikifork",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "speest 💎",
+            "发誓要做永赚大师",
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "speest 💎",
+            "发誓要做永赚大师",
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 3,
+          "firstSeen": "2026-11-10T03:31:59+00:00",
+          "lastSeen": "2026-11-10T08:25:44+00:00",
+          "description": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "forks wiki",
+              "account": "wikifork",
+              "alpha": "发誓要做永赚大师",
+              "seenAt": "2026-11-10T03:31:59+00:00",
+              "messageId": "dodtwitterbot/40481",
+              "description": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork",
+              "text": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork"
+            },
+            {
+              "source": "TG",
+              "project": "forks wiki",
+              "account": "wikifork",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-10T06:07:46+00:00",
+              "messageId": "dodtwitterbot/40488",
+              "description": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork",
+              "text": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork"
+            },
+            {
+              "source": "TG",
+              "project": "forks wiki",
+              "account": "wikifork",
+              "alpha": "speest 💎",
+              "seenAt": "2026-11-10T08:25:44+00:00",
+              "messageId": "dodtwitterbot/40507",
+              "description": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork",
+              "text": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork"
+            }
+          ],
+          "text": " forks wiki wikifork the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork forks wiki wikifork the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork forks wiki wikifork the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork",
+          "score": 6,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
         {
           "project": "Globe",
           "account": "globemkts",
@@ -26829,6 +27446,53 @@
           "displayTier": "focus",
           "avatarUrl": "",
           "dayStatus": "new"
+        },
+        {
+          "project": "Korini",
+          "account": "Korinitrade",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "hit.ink",
+            "lakka"
+          ],
+          "tgAlphas": [
+            "hit.ink",
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-11-09T23:15:06+00:00",
+          "lastSeen": "2026-11-10T10:23:02+00:00",
+          "description": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Korini",
+              "account": "Korinitrade",
+              "alpha": "hit.ink",
+              "seenAt": "2026-11-09T23:15:06+00:00",
+              "messageId": "dodtwitterbot/40472",
+              "description": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
+              "text": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social"
+            },
+            {
+              "source": "TG",
+              "project": "Korini",
+              "account": "Korinitrade",
+              "alpha": "lakka",
+              "seenAt": "2026-11-10T10:23:02+00:00",
+              "messageId": "dodtwitterbot/40516",
+              "description": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
+              "text": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social"
+            }
+          ],
+          "text": " Korini Korinitrade Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social Korini Korinitrade Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
         },
         {
           "project": "&#036;NEOPRIME",
@@ -26936,6 +27600,146 @@
           "dayStatus": "repeat"
         },
         {
+          "project": "Aether",
+          "account": "enteraetherxyz",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-10T12:52:48+00:00",
+          "lastSeen": "2026-11-10T12:52:48+00:00",
+          "description": "Launch coins on @Enter_Elysium directly from @Solana .",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Aether",
+              "account": "enteraetherxyz",
+              "alpha": "阿宏",
+              "seenAt": "2026-11-10T12:52:48+00:00",
+              "messageId": "dodtwitterbot/40524",
+              "description": "Launch coins on @Enter_Elysium directly from @Solana .",
+              "text": "Launch coins on @Enter_Elysium directly from @Solana ."
+            }
+          ],
+          "text": " Aether enteraetherxyz Launch coins on @Enter_Elysium directly from @Solana .",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Agentic x402",
+          "account": "agentic_x402",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-10T05:56:09+00:00",
+          "lastSeen": "2026-11-10T05:56:09+00:00",
+          "description": "A coin minted by agents. An on-chain experiment built around x402.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Agentic x402",
+              "account": "agentic_x402",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-10T05:56:09+00:00",
+              "messageId": "dodtwitterbot/40485",
+              "description": "A coin minted by agents. An on-chain experiment built around x402.",
+              "text": "A coin minted by agents. An on-chain experiment built around x402."
+            }
+          ],
+          "text": " Agentic x402 agentic_x402 A coin minted by agents. An on-chain experiment built around x402.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "ChainChomp131",
+          "account": "ChainChomp131",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "雷氏"
+          ],
+          "tgAlphas": [
+            "雷氏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-10T05:25:48+00:00",
+          "lastSeen": "2026-11-10T05:25:48+00:00",
+          "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "ChainChomp131",
+              "account": "ChainChomp131",
+              "alpha": "雷氏",
+              "seenAt": "2026-11-10T05:25:48+00:00",
+              "messageId": "dodtwitterbot/40483",
+              "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+              "text": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him"
+            }
+          ],
+          "text": " ChainChomp131 ChainChomp131 20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "ElySato",
+          "account": "Elysium_sato",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-10T12:52:47+00:00",
+          "lastSeen": "2026-11-10T12:52:47+00:00",
+          "description": "Elysium’s first SATO protocol.\nMinted & burned on a bonding curve.\n\n21 million tokens.\nMinting closes forever at 99.99%.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "ElySato",
+              "account": "Elysium_sato",
+              "alpha": "阿宏",
+              "seenAt": "2026-11-10T12:52:47+00:00",
+              "messageId": "dodtwitterbot/40523",
+              "description": "Elysium’s first SATO protocol.\nMinted & burned on a bonding curve.\n\n21 million tokens.\nMinting closes forever at 99.99%.",
+              "text": "Elysium’s first SATO protocol.\nMinted & burned on a bonding curve.\n\n21 million tokens.\nMinting closes forever at 99.99%."
+            }
+          ],
+          "text": " ElySato Elysium_sato Elysium’s first SATO protocol.\nMinted & burned on a bonding curve.\n\n21 million tokens.\nMinting closes forever at 99.99%.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
           "project": "Forge",
           "account": "Forge_elysium",
           "sources": [
@@ -26971,35 +27775,105 @@
           "dayStatus": "repeat"
         },
         {
-          "project": "forks wiki",
-          "account": "wikifork",
+          "project": "hedge",
+          "account": "usehedgefun",
           "sources": [
             "TG"
           ],
           "alphas": [
-            "发誓要做永赚大师"
+            "Mutu 🕸️"
           ],
           "tgAlphas": [
-            "发誓要做永赚大师"
+            "Mutu 🕸️"
           ],
           "xAlphas": [],
           "mentions": 1,
-          "firstSeen": "2026-11-10T03:31:59+00:00",
-          "lastSeen": "2026-11-10T03:31:59+00:00",
-          "description": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork",
+          "firstSeen": "2026-11-10T07:42:26+00:00",
+          "lastSeen": "2026-11-10T07:42:26+00:00",
+          "description": "the multi-asset launchpad. built on solana.\n\nHSi9LptAQdDsCBSwVoyQ7HBhMMAi1yvbhwvNoYkGFW9D",
           "rows": [
             {
               "source": "TG",
-              "project": "forks wiki",
-              "account": "wikifork",
-              "alpha": "发誓要做永赚大师",
-              "seenAt": "2026-11-10T03:31:59+00:00",
-              "messageId": "dodtwitterbot/40481",
-              "description": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork",
-              "text": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork"
+              "project": "hedge",
+              "account": "usehedgefun",
+              "alpha": "Mutu 🕸️",
+              "seenAt": "2026-11-10T07:42:26+00:00",
+              "messageId": "dodtwitterbot/40503",
+              "description": "the multi-asset launchpad. built on solana.\n\nHSi9LptAQdDsCBSwVoyQ7HBhMMAi1yvbhwvNoYkGFW9D",
+              "text": "the multi-asset launchpad. built on solana.\n\nHSi9LptAQdDsCBSwVoyQ7HBhMMAi1yvbhwvNoYkGFW9D"
             }
           ],
-          "text": " forks wiki wikifork the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork",
+          "text": " hedge usehedgefun the multi-asset launchpad. built on solana.\n\nHSi9LptAQdDsCBSwVoyQ7HBhMMAi1yvbhwvNoYkGFW9D",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "herdr",
+          "account": "herdrdev",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "A佬"
+          ],
+          "tgAlphas": [
+            "A佬"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-10T12:03:54+00:00",
+          "lastSeen": "2026-11-10T12:03:54+00:00",
+          "description": "the runtime your coding agents live on",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "herdr",
+              "account": "herdrdev",
+              "alpha": "A佬",
+              "seenAt": "2026-11-10T12:03:54+00:00",
+              "messageId": "dodtwitterbot/40522",
+              "description": "the runtime your coding agents live on",
+              "text": "the runtime your coding agents live on"
+            }
+          ],
+          "text": " herdr herdrdev the runtime your coding agents live on",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "HeyItsBoh",
+          "account": "HeyitsbohTTV",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "老大哥"
+          ],
+          "tgAlphas": [
+            "老大哥"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-10T11:34:14+00:00",
+          "lastSeen": "2026-11-10T11:34:14+00:00",
+          "description": "Gamer who enjoys the art of professional wrestling. HeyItsBoh@gmail.com",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "HeyItsBoh",
+              "account": "HeyitsbohTTV",
+              "alpha": "老大哥",
+              "seenAt": "2026-11-10T11:34:14+00:00",
+              "messageId": "dodtwitterbot/40521",
+              "description": "Gamer who enjoys the art of professional wrestling. HeyItsBoh@gmail.com",
+              "text": "Gamer who enjoys the art of professional wrestling. HeyItsBoh@gmail.com"
+            }
+          ],
+          "text": " HeyItsBoh HeyitsbohTTV Gamer who enjoys the art of professional wrestling. HeyItsBoh@gmail.com",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -27041,35 +27915,140 @@
           "dayStatus": "new"
         },
         {
-          "project": "Korini",
-          "account": "Korinitrade",
+          "project": "KOVIN SEGNOCCHI",
+          "account": "kovinsegnocchi",
           "sources": [
             "TG"
           ],
           "alphas": [
-            "hit.ink"
+            "lakka"
           ],
           "tgAlphas": [
-            "hit.ink"
+            "lakka"
           ],
           "xAlphas": [],
           "mentions": 1,
-          "firstSeen": "2026-11-09T23:15:06+00:00",
-          "lastSeen": "2026-11-09T23:15:06+00:00",
-          "description": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
+          "firstSeen": "2026-11-10T10:46:32+00:00",
+          "lastSeen": "2026-11-10T10:46:32+00:00",
+          "description": "bringing more tek on-chain.",
           "rows": [
             {
               "source": "TG",
-              "project": "Korini",
-              "account": "Korinitrade",
-              "alpha": "hit.ink",
-              "seenAt": "2026-11-09T23:15:06+00:00",
-              "messageId": "dodtwitterbot/40472",
-              "description": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
-              "text": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social"
+              "project": "KOVIN SEGNOCCHI",
+              "account": "kovinsegnocchi",
+              "alpha": "lakka",
+              "seenAt": "2026-11-10T10:46:32+00:00",
+              "messageId": "dodtwitterbot/40517",
+              "description": "bringing more tek on-chain.",
+              "text": "bringing more tek on-chain."
             }
           ],
-          "text": " Korini Korinitrade Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
+          "text": " KOVIN SEGNOCCHI kovinsegnocchi bringing more tek on-chain.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Mavria",
+          "account": "mavriaX",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-10T06:25:32+00:00",
+          "lastSeen": "2026-11-10T06:25:32+00:00",
+          "description": "Industrializing the physical infrastructure behind American AI.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Mavria",
+              "account": "mavriaX",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-10T06:25:32+00:00",
+              "messageId": "dodtwitterbot/40492",
+              "description": "Industrializing the physical infrastructure behind American AI.",
+              "text": "Industrializing the physical infrastructure behind American AI."
+            }
+          ],
+          "text": " Mavria mavriaX Industrializing the physical infrastructure behind American AI.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Mixun",
+          "account": "mixunmx",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "雷氏"
+          ],
+          "tgAlphas": [
+            "雷氏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-10T11:20:21+00:00",
+          "lastSeen": "2026-11-10T11:20:21+00:00",
+          "description": "Private conversations. Smarter insights. On-chain automation. One place to connect, analyze, and act.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Mixun",
+              "account": "mixunmx",
+              "alpha": "雷氏",
+              "seenAt": "2026-11-10T11:20:21+00:00",
+              "messageId": "dodtwitterbot/40519",
+              "description": "Private conversations. Smarter insights. On-chain automation. One place to connect, analyze, and act.",
+              "text": "Private conversations. Smarter insights. On-chain automation. One place to connect, analyze, and act."
+            }
+          ],
+          "text": " Mixun mixunmx Private conversations. Smarter insights. On-chain automation. One place to connect, analyze, and act.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "NULORA",
+          "account": "nuloraio",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-10T07:03:36+00:00",
+          "lastSeen": "2026-11-10T07:03:36+00:00",
+          "description": "Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "NULORA",
+              "account": "nuloraio",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-10T07:03:36+00:00",
+              "messageId": "dodtwitterbot/40502",
+              "description": "Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture",
+              "text": "Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture"
+            }
+          ],
+          "text": " NULORA nuloraio Genesis Launchpad of @monero | Minting Nov 4 · 3 PM UTC\n\nBuilt for the next wave of digital culture",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -27140,6 +28119,76 @@
             }
           ],
           "text": " orphic orphicfi Agentic USDC vaults on Elysium. Built on Morpho and Hyperliquid.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Peak Deploy",
+          "account": "peakdeploy",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "hit.ink"
+          ],
+          "tgAlphas": [
+            "hit.ink"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-10T06:51:46+00:00",
+          "lastSeen": "2026-11-10T06:51:46+00:00",
+          "description": "Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Peak Deploy",
+              "account": "peakdeploy",
+              "alpha": "hit.ink",
+              "seenAt": "2026-11-10T06:51:46+00:00",
+              "messageId": "dodtwitterbot/40500",
+              "description": "Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade",
+              "text": "Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade"
+            }
+          ],
+          "text": " Peak Deploy peakdeploy Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Perpium",
+          "account": "Perpium_xyz",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-10T12:55:35+00:00",
+          "lastSeen": "2026-11-10T12:55:35+00:00",
+          "description": "Ascend to Elysium via Perpium",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Perpium",
+              "account": "Perpium_xyz",
+              "alpha": "lakka",
+              "seenAt": "2026-11-10T12:55:35+00:00",
+              "messageId": "dodtwitterbot/40526",
+              "description": "Ascend to Elysium via Perpium",
+              "text": "Ascend to Elysium via Perpium"
+            }
+          ],
+          "text": " Perpium Perpium_xyz Ascend to Elysium via Perpium",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -50562,224 +51611,229 @@
   ],
   "reports": [
     {
+      "file": "2026-11-10-1348-telegram-update.md",
+      "title": "2026-11-10-1348-telegram-update",
+      "updatedAt": "2026-11-10T13:48:49.166Z"
+    },
+    {
       "file": "2026-11-10-0351-telegram-update.md",
       "title": "2026-11-10-0351-telegram-update",
-      "updatedAt": "2026-11-10T03:51:15.326Z"
+      "updatedAt": "2026-11-10T13:48:43.186Z"
     },
     {
       "file": "2026-11-09-2013-telegram-update.md",
       "title": "2026-11-09-2013-telegram-update",
-      "updatedAt": "2026-11-10T03:51:09.782Z"
+      "updatedAt": "2026-11-10T13:48:43.186Z"
     },
     {
       "file": "2026-11-09-0844-telegram-update.md",
       "title": "2026-11-09-0844-telegram-update",
-      "updatedAt": "2026-11-10T03:51:09.782Z"
+      "updatedAt": "2026-11-10T13:48:43.186Z"
     },
     {
       "file": "2026-11-08-2123-telegram-update.md",
       "title": "2026-11-08-2123-telegram-update",
-      "updatedAt": "2026-11-10T03:51:09.782Z"
+      "updatedAt": "2026-11-10T13:48:43.186Z"
     },
     {
       "file": "2026-11-08-1623-telegram-update.md",
       "title": "2026-11-08-1623-telegram-update",
-      "updatedAt": "2026-11-10T03:51:09.782Z"
+      "updatedAt": "2026-11-10T13:48:43.186Z"
     },
     {
       "file": "2026-11-08-0804-telegram-update.md",
       "title": "2026-11-08-0804-telegram-update",
-      "updatedAt": "2026-11-10T03:51:09.782Z"
+      "updatedAt": "2026-11-10T13:48:43.186Z"
     },
     {
       "file": "2026-11-07-2106-telegram-update.md",
       "title": "2026-11-07-2106-telegram-update",
-      "updatedAt": "2026-11-10T03:51:09.782Z"
+      "updatedAt": "2026-11-10T13:48:43.186Z"
     },
     {
       "file": "2026-11-07-1556-telegram-update.md",
       "title": "2026-11-07-1556-telegram-update",
-      "updatedAt": "2026-11-10T03:51:09.782Z"
+      "updatedAt": "2026-11-10T13:48:43.186Z"
     },
     {
       "file": "2026-11-07-0751-telegram-update.md",
       "title": "2026-11-07-0751-telegram-update",
-      "updatedAt": "2026-11-10T03:51:09.782Z"
+      "updatedAt": "2026-11-10T13:48:43.186Z"
     },
     {
       "file": "2026-11-06-2226-telegram-update.md",
       "title": "2026-11-06-2226-telegram-update",
-      "updatedAt": "2026-11-10T03:51:09.782Z"
+      "updatedAt": "2026-11-10T13:48:43.186Z"
     },
     {
       "file": "2026-11-06-1658-telegram-update.md",
       "title": "2026-11-06-1658-telegram-update",
-      "updatedAt": "2026-11-10T03:51:09.782Z"
+      "updatedAt": "2026-11-10T13:48:43.186Z"
     },
     {
       "file": "2026-11-06-0835-telegram-update.md",
       "title": "2026-11-06-0835-telegram-update",
-      "updatedAt": "2026-11-10T03:51:09.782Z"
+      "updatedAt": "2026-11-10T13:48:43.186Z"
     },
     {
       "file": "2026-11-05-2256-telegram-update.md",
       "title": "2026-11-05-2256-telegram-update",
-      "updatedAt": "2026-11-10T03:51:09.782Z"
+      "updatedAt": "2026-11-10T13:48:43.186Z"
     },
     {
       "file": "2026-11-05-1742-telegram-update.md",
       "title": "2026-11-05-1742-telegram-update",
-      "updatedAt": "2026-11-10T03:51:09.782Z"
+      "updatedAt": "2026-11-10T13:48:43.186Z"
     },
     {
       "file": "2026-11-05-0836-telegram-update.md",
       "title": "2026-11-05-0836-telegram-update",
-      "updatedAt": "2026-11-10T03:51:09.782Z"
+      "updatedAt": "2026-11-10T13:48:43.186Z"
     },
     {
       "file": "2026-11-04-2255-telegram-update.md",
       "title": "2026-11-04-2255-telegram-update",
-      "updatedAt": "2026-11-10T03:51:09.782Z"
+      "updatedAt": "2026-11-10T13:48:43.186Z"
     },
     {
       "file": "2026-11-04-1737-telegram-update.md",
       "title": "2026-11-04-1737-telegram-update",
-      "updatedAt": "2026-11-10T03:51:09.782Z"
+      "updatedAt": "2026-11-10T13:48:43.185Z"
     },
     {
       "file": "2026-11-04-0810-telegram-update.md",
       "title": "2026-11-04-0810-telegram-update",
-      "updatedAt": "2026-11-10T03:51:09.782Z"
+      "updatedAt": "2026-11-10T13:48:43.185Z"
     },
     {
       "file": "2026-11-04-0143-telegram-update.md",
       "title": "2026-11-04-0143-telegram-update",
-      "updatedAt": "2026-11-10T03:51:09.782Z"
+      "updatedAt": "2026-11-10T13:48:43.185Z"
     },
     {
       "file": "2026-11-03-2018-telegram-update.md",
       "title": "2026-11-03-2018-telegram-update",
-      "updatedAt": "2026-11-10T03:51:09.782Z"
+      "updatedAt": "2026-11-10T13:48:43.185Z"
     },
     {
       "file": "2026-11-03-1302-telegram-update.md",
       "title": "2026-11-03-1302-telegram-update",
-      "updatedAt": "2026-11-10T03:51:09.782Z"
+      "updatedAt": "2026-11-10T13:48:43.185Z"
     },
     {
       "file": "2026-11-03-0306-telegram-update.md",
       "title": "2026-11-03-0306-telegram-update",
-      "updatedAt": "2026-11-10T03:51:09.782Z"
+      "updatedAt": "2026-11-10T13:48:43.185Z"
     },
     {
       "file": "2026-11-02-1950-telegram-update.md",
       "title": "2026-11-02-1950-telegram-update",
-      "updatedAt": "2026-11-10T03:51:09.782Z"
+      "updatedAt": "2026-11-10T13:48:43.185Z"
     },
     {
       "file": "2026-11-02-0826-telegram-update.md",
       "title": "2026-11-02-0826-telegram-update",
-      "updatedAt": "2026-11-10T03:51:09.782Z"
+      "updatedAt": "2026-11-10T13:48:43.185Z"
     },
     {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-10T03:51:09.782Z"
+      "updatedAt": "2026-11-10T13:48:43.185Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-10T03:51:09.782Z"
+      "updatedAt": "2026-11-10T13:48:43.185Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-10T03:51:09.782Z"
+      "updatedAt": "2026-11-10T13:48:43.185Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-10T03:51:09.782Z"
+      "updatedAt": "2026-11-10T13:48:43.185Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-10T03:51:09.782Z"
+      "updatedAt": "2026-11-10T13:48:43.185Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-10T03:51:09.782Z"
+      "updatedAt": "2026-11-10T13:48:43.185Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-10T03:51:09.782Z"
+      "updatedAt": "2026-11-10T13:48:43.185Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-10T03:51:09.782Z"
+      "updatedAt": "2026-11-10T13:48:43.185Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-10T03:51:09.782Z"
+      "updatedAt": "2026-11-10T13:48:43.185Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-10T03:51:09.782Z"
+      "updatedAt": "2026-11-10T13:48:43.185Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-10T03:51:09.782Z"
+      "updatedAt": "2026-11-10T13:48:43.185Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-10T03:51:09.782Z"
+      "updatedAt": "2026-11-10T13:48:43.185Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-10T03:51:09.782Z"
+      "updatedAt": "2026-11-10T13:48:43.185Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-10T03:51:09.782Z"
+      "updatedAt": "2026-11-10T13:48:43.185Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-10T03:51:09.782Z"
+      "updatedAt": "2026-11-10T13:48:43.185Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-10T03:51:09.782Z"
+      "updatedAt": "2026-11-10T13:48:43.185Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-10T03:51:09.782Z"
+      "updatedAt": "2026-11-10T13:48:43.185Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-10T03:51:09.782Z"
+      "updatedAt": "2026-11-10T13:48:43.185Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-10T03:51:09.782Z"
+      "updatedAt": "2026-11-10T13:48:43.185Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-10T03:51:09.781Z"
+      "updatedAt": "2026-11-10T13:48:43.184Z"
     }
   ]
 }
