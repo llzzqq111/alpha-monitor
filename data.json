@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-09T20:13:02.331Z",
+  "generatedAt": "2026-11-10T03:51:15.495Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 40461,
-    "lastMessageAt": "2026-11-09T19:40:24+00:00",
-    "lastCheckedAt": "2026-11-09T20:13:02.097Z",
-    "previousMessageId": 40324,
-    "pagesRead": 7,
-    "messagesRead": 137,
-    "newProjectRecords": 51,
+    "lastMessageId": 40481,
+    "lastMessageAt": "2026-11-10T03:31:59+00:00",
+    "lastCheckedAt": "2026-11-10T03:51:15.327Z",
+    "previousMessageId": 40461,
+    "pagesRead": 2,
+    "messagesRead": 20,
+    "newProjectRecords": 8,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 768,
+    "telegramRows": 776,
     "xRows": 0,
-    "projects": 475,
+    "projects": 476,
     "crossSource": 0
   },
   "projects": [
@@ -2060,6 +2060,76 @@
       "avatarUrl": ""
     },
     {
+      "project": "Korini",
+      "account": "Korinitrade",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "CSR",
+        "Skrchen666(钻石手伤心版 绝对纸手之人）",
+        "hit.ink",
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "CSR",
+        "Skrchen666(钻石手伤心版 绝对纸手之人）",
+        "hit.ink",
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 4,
+      "firstSeen": "2026-11-01T16:52:34+00:00",
+      "lastSeen": "2026-11-09T23:15:06+00:00",
+      "description": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Korini",
+          "account": "Korinitrade",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-01T16:52:34+00:00",
+          "messageId": "dodtwitterbot/39082",
+          "description": "all in one on elysium mainnet trading terminal RWAs pairing lauchapad",
+          "text": "all in one on elysium mainnet trading terminal RWAs pairing lauchapad"
+        },
+        {
+          "source": "TG",
+          "project": "Korini",
+          "account": "Korinitrade",
+          "alpha": "CSR",
+          "seenAt": "2026-11-07T11:12:54+00:00",
+          "messageId": "dodtwitterbot/40049",
+          "description": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
+          "text": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social"
+        },
+        {
+          "source": "TG",
+          "project": "Korini",
+          "account": "Korinitrade",
+          "alpha": "Skrchen666(钻石手伤心版 绝对纸手之人）",
+          "seenAt": "2026-11-08T10:33:14+00:00",
+          "messageId": "dodtwitterbot/40149",
+          "description": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
+          "text": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social"
+        },
+        {
+          "source": "TG",
+          "project": "Korini",
+          "account": "Korinitrade",
+          "alpha": "hit.ink",
+          "seenAt": "2026-11-09T23:15:06+00:00",
+          "messageId": "dodtwitterbot/40472",
+          "description": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
+          "text": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social"
+        }
+      ],
+      "text": " Korini Korinitrade all in one on elysium mainnet trading terminal RWAs pairing lauchapad Korini Korinitrade Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social Korini Korinitrade Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social Korini Korinitrade Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
+      "score": 8,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Magnus",
       "account": "0xmagnus",
       "sources": [
@@ -2336,6 +2406,64 @@
       ],
       "text": " Origo origopad Launch tokens with post quantum proof of origin anchored to Bitcoin, Monero, Zcash, and Hyperliquid. Origo origopad Launch tokens with post quantum proof of origin anchored to Bitcoin, Monero, Zcash, and Hyperliquid. Origo origopad Launch tokens with post quantum proof of origin anchored to Bitcoin, Monero, Zcash, and Hyperliquid. Origo origopad Launch tokens with post quantum proof of origin anchored to Bitcoin, Monero, Zcash, and Hyperliquid.",
       "score": 8,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "0rigin",
+      "account": "0rigindotfun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "CSR",
+        "lakka",
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "CSR",
+        "lakka",
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-11-02T21:29:15+00:00",
+      "lastSeen": "2026-11-09T20:18:14+00:00",
+      "description": "Everything starts from 0, launchpad soon on @LayerZero_Core",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "0rigin",
+          "account": "0rigindotfun",
+          "alpha": "lakka",
+          "seenAt": "2026-11-02T21:29:15+00:00",
+          "messageId": "dodtwitterbot/39352",
+          "description": "Everything starts from 0, launchpad soon on @LayerZero_Core",
+          "text": "Everything starts from 0, launchpad soon on @LayerZero_Core"
+        },
+        {
+          "source": "TG",
+          "project": "0rigin",
+          "account": "0rigindotfun",
+          "alpha": "CSR",
+          "seenAt": "2026-11-08T20:07:02+00:00",
+          "messageId": "dodtwitterbot/40259",
+          "description": "Everything starts from 0, launchpad soon on @LayerZero_Core",
+          "text": "Everything starts from 0, launchpad soon on @LayerZero_Core"
+        },
+        {
+          "source": "TG",
+          "project": "0rigin",
+          "account": "0rigindotfun",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-09T20:18:14+00:00",
+          "messageId": "dodtwitterbot/40462",
+          "description": "Everything starts from 0, launchpad soon on @LayerZero_Core",
+          "text": "Everything starts from 0, launchpad soon on @LayerZero_Core"
+        }
+      ],
+      "text": " 0rigin 0rigindotfun Everything starts from 0, launchpad soon on @LayerZero_Core 0rigin 0rigindotfun Everything starts from 0, launchpad soon on @LayerZero_Core 0rigin 0rigindotfun Everything starts from 0, launchpad soon on @LayerZero_Core",
+      "score": 6,
       "displayTier": "focus",
       "avatarUrl": ""
     },
@@ -3500,64 +3628,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Korini",
-      "account": "Korinitrade",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "CSR",
-        "Skrchen666(钻石手伤心版 绝对纸手之人）",
-        "蛋总"
-      ],
-      "tgAlphas": [
-        "CSR",
-        "Skrchen666(钻石手伤心版 绝对纸手之人）",
-        "蛋总"
-      ],
-      "xAlphas": [],
-      "mentions": 3,
-      "firstSeen": "2026-11-01T16:52:34+00:00",
-      "lastSeen": "2026-11-08T10:33:14+00:00",
-      "description": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Korini",
-          "account": "Korinitrade",
-          "alpha": "蛋总",
-          "seenAt": "2026-11-01T16:52:34+00:00",
-          "messageId": "dodtwitterbot/39082",
-          "description": "all in one on elysium mainnet trading terminal RWAs pairing lauchapad",
-          "text": "all in one on elysium mainnet trading terminal RWAs pairing lauchapad"
-        },
-        {
-          "source": "TG",
-          "project": "Korini",
-          "account": "Korinitrade",
-          "alpha": "CSR",
-          "seenAt": "2026-11-07T11:12:54+00:00",
-          "messageId": "dodtwitterbot/40049",
-          "description": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
-          "text": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social"
-        },
-        {
-          "source": "TG",
-          "project": "Korini",
-          "account": "Korinitrade",
-          "alpha": "Skrchen666(钻石手伤心版 绝对纸手之人）",
-          "seenAt": "2026-11-08T10:33:14+00:00",
-          "messageId": "dodtwitterbot/40149",
-          "description": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
-          "text": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social"
-        }
-      ],
-      "text": " Korini Korinitrade all in one on elysium mainnet trading terminal RWAs pairing lauchapad Korini Korinitrade Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social Korini Korinitrade Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
-      "score": 6,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
       "project": "Kuip",
       "account": "KuipFun",
       "sources": [
@@ -4249,6 +4319,64 @@
         }
       ],
       "text": " PerpMe perpmefun Launch coins via https://t.co/LmDmNTQROs PerpMe perpmefun The universal launchpad on @Enter_Elysium and HyperEVM PerpMe perpmefun The universal launchpad on @Enter_Elysium and HyperEVM",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Pin Market",
+      "account": "Pinmarketfun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse",
+        "unsynned",
+        "well"
+      ],
+      "tgAlphas": [
+        "BearzVerse",
+        "unsynned",
+        "well"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-11-07T20:37:50+00:00",
+      "lastSeen": "2026-11-10T02:21:18+00:00",
+      "description": "Pin market, paid in USDC on Solana, with your code delivered by email in minutes.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Pin Market",
+          "account": "Pinmarketfun",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-07T20:37:50+00:00",
+          "messageId": "dodtwitterbot/40099",
+          "description": "Pin market, paid in USDC on Solana, with your code delivered by email in minutes.",
+          "text": "Pin market, paid in USDC on Solana, with your code delivered by email in minutes."
+        },
+        {
+          "source": "TG",
+          "project": "Pin Market",
+          "account": "Pinmarketfun",
+          "alpha": "BearzVerse",
+          "seenAt": "2026-11-08T06:29:01+00:00",
+          "messageId": "dodtwitterbot/40121",
+          "description": "Pin market, paid in USDC on Solana, with your code delivered by email in minutes.",
+          "text": "Pin market, paid in USDC on Solana, with your code delivered by email in minutes."
+        },
+        {
+          "source": "TG",
+          "project": "Pin Market",
+          "account": "Pinmarketfun",
+          "alpha": "well",
+          "seenAt": "2026-11-10T02:21:18+00:00",
+          "messageId": "dodtwitterbot/40475",
+          "description": "Pin market, paid in USDC on Solana, with your code delivered by email in minutes.",
+          "text": "Pin market, paid in USDC on Solana, with your code delivered by email in minutes."
+        }
+      ],
+      "text": " Pin Market Pinmarketfun Pin market, paid in USDC on Solana, with your code delivered by email in minutes. Pin Market Pinmarketfun Pin market, paid in USDC on Solana, with your code delivered by email in minutes. Pin Market Pinmarketfun Pin market, paid in USDC on Solana, with your code delivered by email in minutes.",
       "score": 6,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -5054,47 +5182,47 @@
       "avatarUrl": ""
     },
     {
-      "project": "0rigin",
-      "account": "0rigindotfun",
+      "project": "000.fun",
+      "account": "000dotfun",
       "sources": [
         "TG"
       ],
       "alphas": [
-        "CSR",
-        "lakka"
+        "unsynned",
+        "zyy"
       ],
       "tgAlphas": [
-        "CSR",
-        "lakka"
+        "unsynned",
+        "zyy"
       ],
       "xAlphas": [],
       "mentions": 2,
-      "firstSeen": "2026-11-02T21:29:15+00:00",
-      "lastSeen": "2026-11-08T20:07:02+00:00",
-      "description": "Everything starts from 0, launchpad soon on @LayerZero_Core",
+      "firstSeen": "2026-11-02T11:33:37+00:00",
+      "lastSeen": "2026-11-09T20:18:14+00:00",
+      "description": "From zero to FUN. A token launchpad built on @LayerZero_Core",
       "rows": [
         {
           "source": "TG",
-          "project": "0rigin",
-          "account": "0rigindotfun",
-          "alpha": "lakka",
-          "seenAt": "2026-11-02T21:29:15+00:00",
-          "messageId": "dodtwitterbot/39352",
-          "description": "Everything starts from 0, launchpad soon on @LayerZero_Core",
-          "text": "Everything starts from 0, launchpad soon on @LayerZero_Core"
+          "project": "000.fun",
+          "account": "000dotfun",
+          "alpha": "zyy",
+          "seenAt": "2026-11-02T11:33:37+00:00",
+          "messageId": "dodtwitterbot/39234",
+          "description": "From zero to FUN. A token launchpad built on @LayerZero_Core",
+          "text": "From zero to FUN. A token launchpad built on @LayerZero_Core"
         },
         {
           "source": "TG",
-          "project": "0rigin",
-          "account": "0rigindotfun",
-          "alpha": "CSR",
-          "seenAt": "2026-11-08T20:07:02+00:00",
-          "messageId": "dodtwitterbot/40259",
-          "description": "Everything starts from 0, launchpad soon on @LayerZero_Core",
-          "text": "Everything starts from 0, launchpad soon on @LayerZero_Core"
+          "project": "000.fun",
+          "account": "000dotfun",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-09T20:18:14+00:00",
+          "messageId": "dodtwitterbot/40464",
+          "description": "From zero to FUN. A token launchpad built on @LayerZero_Core",
+          "text": "From zero to FUN. A token launchpad built on @LayerZero_Core"
         }
       ],
-      "text": " 0rigin 0rigindotfun Everything starts from 0, launchpad soon on @LayerZero_Core 0rigin 0rigindotfun Everything starts from 0, launchpad soon on @LayerZero_Core",
+      "text": " 000.fun 000dotfun From zero to FUN. A token launchpad built on @LayerZero_Core 000.fun 000dotfun From zero to FUN. A token launchpad built on @LayerZero_Core",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -6756,6 +6884,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "Forge",
+      "account": "Forge_elysium",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "老大哥",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "老大哥",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-09T06:26:04+00:00",
+      "lastSeen": "2026-11-10T01:11:19+00:00",
+      "description": "Launch on Uniswap v4 from block one. Hook Blocks, Triggers, Assistance Fund. The pool you launch into is the pool that trades forever.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Forge",
+          "account": "Forge_elysium",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-09T06:26:04+00:00",
+          "messageId": "dodtwitterbot/40273",
+          "description": "Launch on Uniswap v4 from block one. Hook Blocks, Triggers, Assistance Fund. The pool you launch into is the pool that trades forever.",
+          "text": "Launch on Uniswap v4 from block one. Hook Blocks, Triggers, Assistance Fund. The pool you launch into is the pool that trades forever."
+        },
+        {
+          "source": "TG",
+          "project": "Forge",
+          "account": "Forge_elysium",
+          "alpha": "老大哥",
+          "seenAt": "2026-11-10T01:11:19+00:00",
+          "messageId": "dodtwitterbot/40474",
+          "description": "Launch on Uniswap v4 from block one. Hook Blocks, Triggers, Assistance Fund. The pool you launch into is the pool that trades forever.",
+          "text": "Launch on Uniswap v4 from block one. Hook Blocks, Triggers, Assistance Fund. The pool you launch into is the pool that trades forever."
+        }
+      ],
+      "text": " Forge Forge_elysium Launch on Uniswap v4 from block one. Hook Blocks, Triggers, Assistance Fund. The pool you launch into is the pool that trades forever. Forge Forge_elysium Launch on Uniswap v4 from block one. Hook Blocks, Triggers, Assistance Fund. The pool you launch into is the pool that trades forever.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Formation Markets",
       "account": "formation_mkts",
       "sources": [
@@ -6843,6 +7017,52 @@
         }
       ],
       "text": " GLIDORA UseGlidora Move with liquidity. Building controlled spot execution for Elysium. GLIDORA UseGlidora Move with liquidity. Building controlled spot execution for Elysium.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Globe",
+      "account": "globemkts",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "hit.ink",
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "hit.ink",
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-09T18:11:14+00:00",
+      "lastSeen": "2026-11-09T20:37:52+00:00",
+      "description": "Your gang calls it. Your agent trades it. Atlas goes live Nov 30. Get early access ↓",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Globe",
+          "account": "globemkts",
+          "alpha": "hit.ink",
+          "seenAt": "2026-11-09T18:11:14+00:00",
+          "messageId": "dodtwitterbot/40452",
+          "description": "Your gang calls it. Your agent trades it. Atlas goes live Nov 30. Get early access ↓",
+          "text": "Your gang calls it. Your agent trades it. Atlas goes live Nov 30. Get early access ↓"
+        },
+        {
+          "source": "TG",
+          "project": "Globe",
+          "account": "globemkts",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-09T20:37:52+00:00",
+          "messageId": "dodtwitterbot/40466",
+          "description": "Your gang calls it. Your agent trades it. Atlas goes live Nov 30. Get early access ↓",
+          "text": "Your gang calls it. Your agent trades it. Atlas goes live Nov 30. Get early access ↓"
+        }
+      ],
+      "text": " Globe globemkts Your gang calls it. Your agent trades it. Atlas goes live Nov 30. Get early access ↓ Globe globemkts Your gang calls it. Your agent trades it. Atlas goes live Nov 30. Get early access ↓",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -7906,52 +8126,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Pin Market",
-      "account": "Pinmarketfun",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "BearzVerse",
-        "unsynned"
-      ],
-      "tgAlphas": [
-        "BearzVerse",
-        "unsynned"
-      ],
-      "xAlphas": [],
-      "mentions": 2,
-      "firstSeen": "2026-11-07T20:37:50+00:00",
-      "lastSeen": "2026-11-08T06:29:01+00:00",
-      "description": "Pin market, paid in USDC on Solana, with your code delivered by email in minutes.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Pin Market",
-          "account": "Pinmarketfun",
-          "alpha": "unsynned",
-          "seenAt": "2026-11-07T20:37:50+00:00",
-          "messageId": "dodtwitterbot/40099",
-          "description": "Pin market, paid in USDC on Solana, with your code delivered by email in minutes.",
-          "text": "Pin market, paid in USDC on Solana, with your code delivered by email in minutes."
-        },
-        {
-          "source": "TG",
-          "project": "Pin Market",
-          "account": "Pinmarketfun",
-          "alpha": "BearzVerse",
-          "seenAt": "2026-11-08T06:29:01+00:00",
-          "messageId": "dodtwitterbot/40121",
-          "description": "Pin market, paid in USDC on Solana, with your code delivered by email in minutes.",
-          "text": "Pin market, paid in USDC on Solana, with your code delivered by email in minutes."
-        }
-      ],
-      "text": " Pin Market Pinmarketfun Pin market, paid in USDC on Solana, with your code delivered by email in minutes. Pin Market Pinmarketfun Pin market, paid in USDC on Solana, with your code delivered by email in minutes.",
-      "score": 4,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
       "project": "Pol",
       "account": "Pol_BNB",
       "sources": [
@@ -8642,6 +8816,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "Tzero",
+      "account": "T0dotfun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned",
+        "zyy"
+      ],
+      "tgAlphas": [
+        "unsynned",
+        "zyy"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-02T11:33:42+00:00",
+      "lastSeen": "2026-11-09T20:18:14+00:00",
+      "description": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Tzero",
+          "account": "T0dotfun",
+          "alpha": "zyy",
+          "seenAt": "2026-11-02T11:33:42+00:00",
+          "messageId": "dodtwitterbot/39235",
+          "description": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
+          "text": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet."
+        },
+        {
+          "source": "TG",
+          "project": "Tzero",
+          "account": "T0dotfun",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-09T20:18:14+00:00",
+          "messageId": "dodtwitterbot/40463",
+          "description": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
+          "text": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet."
+        }
+      ],
+      "text": " Tzero T0dotfun The first launchpad on the last blockchain. Live on Zero Chain at mainnet. Tzero T0dotfun The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "UNSEEN",
       "account": "UnseenOrdo",
       "sources": [
@@ -9039,40 +9259,6 @@
         }
       ],
       "text": " &#036;NEOPRIME NeoprimeCapital Bet on Western Supremacy\n\nTokenized exposure to America's next industrial giants.\n\nBuilt on @hectoinc issued on @Cantonnetwork .",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
-      "project": "000.fun",
-      "account": "000dotfun",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "zyy"
-      ],
-      "tgAlphas": [
-        "zyy"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-02T11:33:37+00:00",
-      "lastSeen": "2026-11-02T11:33:37+00:00",
-      "description": "From zero to FUN. A token launchpad built on @LayerZero_Core",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "000.fun",
-          "account": "000dotfun",
-          "alpha": "zyy",
-          "seenAt": "2026-11-02T11:33:37+00:00",
-          "messageId": "dodtwitterbot/39234",
-          "description": "From zero to FUN. A token launchpad built on @LayerZero_Core",
-          "text": "From zero to FUN. A token launchpad built on @LayerZero_Core"
-        }
-      ],
-      "text": " 000.fun 000dotfun From zero to FUN. A token launchpad built on @LayerZero_Core",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -12444,35 +12630,35 @@
       "avatarUrl": ""
     },
     {
-      "project": "Forge",
-      "account": "Forge_elysium",
+      "project": "forks wiki",
+      "account": "wikifork",
       "sources": [
         "TG"
       ],
       "alphas": [
-        "阿宏"
+        "发誓要做永赚大师"
       ],
       "tgAlphas": [
-        "阿宏"
+        "发誓要做永赚大师"
       ],
       "xAlphas": [],
       "mentions": 1,
-      "firstSeen": "2026-11-09T06:26:04+00:00",
-      "lastSeen": "2026-11-09T06:26:04+00:00",
-      "description": "Launch on Uniswap v4 from block one. Hook Blocks, Triggers, Assistance Fund. The pool you launch into is the pool that trades forever.",
+      "firstSeen": "2026-11-10T03:31:59+00:00",
+      "lastSeen": "2026-11-10T03:31:59+00:00",
+      "description": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork",
       "rows": [
         {
           "source": "TG",
-          "project": "Forge",
-          "account": "Forge_elysium",
-          "alpha": "阿宏",
-          "seenAt": "2026-11-09T06:26:04+00:00",
-          "messageId": "dodtwitterbot/40273",
-          "description": "Launch on Uniswap v4 from block one. Hook Blocks, Triggers, Assistance Fund. The pool you launch into is the pool that trades forever.",
-          "text": "Launch on Uniswap v4 from block one. Hook Blocks, Triggers, Assistance Fund. The pool you launch into is the pool that trades forever."
+          "project": "forks wiki",
+          "account": "wikifork",
+          "alpha": "发誓要做永赚大师",
+          "seenAt": "2026-11-10T03:31:59+00:00",
+          "messageId": "dodtwitterbot/40481",
+          "description": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork",
+          "text": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork"
         }
       ],
-      "text": " Forge Forge_elysium Launch on Uniswap v4 from block one. Hook Blocks, Triggers, Assistance Fund. The pool you launch into is the pool that trades forever.",
+      "text": " forks wiki wikifork the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -12677,40 +12863,6 @@
         }
       ],
       "text": " GIWATRON Giwatron // giwatron protocol: the machines are waking up.",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Globe",
-      "account": "globemkts",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "hit.ink"
-      ],
-      "tgAlphas": [
-        "hit.ink"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-09T18:11:14+00:00",
-      "lastSeen": "2026-11-09T18:11:14+00:00",
-      "description": "Your gang calls it. Your agent trades it. Atlas goes live Nov 30. Get early access ↓",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Globe",
-          "account": "globemkts",
-          "alpha": "hit.ink",
-          "seenAt": "2026-11-09T18:11:14+00:00",
-          "messageId": "dodtwitterbot/40452",
-          "description": "Your gang calls it. Your agent trades it. Atlas goes live Nov 30. Get early access ↓",
-          "text": "Your gang calls it. Your agent trades it. Atlas goes live Nov 30. Get early access ↓"
-        }
-      ],
-      "text": " Globe globemkts Your gang calls it. Your agent trades it. Atlas goes live Nov 30. Get early access ↓",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -18734,40 +18886,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Tzero",
-      "account": "T0dotfun",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "zyy"
-      ],
-      "tgAlphas": [
-        "zyy"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-02T11:33:42+00:00",
-      "lastSeen": "2026-11-02T11:33:42+00:00",
-      "description": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Tzero",
-          "account": "T0dotfun",
-          "alpha": "zyy",
-          "seenAt": "2026-11-02T11:33:42+00:00",
-          "messageId": "dodtwitterbot/39235",
-          "description": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
-          "text": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet."
-        }
-      ],
-      "text": " Tzero T0dotfun The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
       "project": "UBI.fun on Arc",
       "account": "UBIdotFUN",
       "sources": [
@@ -20128,6 +20246,23 @@
       "avatarUrl": ""
     },
     {
+      "project": "Korini",
+      "x_account": "Korinitrade",
+      "total_mentions": 4,
+      "unique_alphas": 4,
+      "alphas": [
+        "CSR",
+        "Skrchen666(钻石手伤心版 绝对纸手之人）",
+        "hit.ink",
+        "蛋总"
+      ],
+      "description": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
+      "first_seen_utc": "2026-11-01T16:52:34+00:00",
+      "last_seen_utc": "2026-11-09T23:15:06+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
       "project": "Magnus",
       "x_account": "0xmagnus",
       "total_mentions": 4,
@@ -20192,6 +20327,22 @@
       "description": "Launch tokens with post quantum proof of origin anchored to Bitcoin, Monero, Zcash, and Hyperliquid.",
       "first_seen_utc": "2026-11-01T16:52:34+00:00",
       "last_seen_utc": "2026-11-02T11:02:15+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
+      "project": "0rigin",
+      "x_account": "0rigindotfun",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "CSR",
+        "lakka",
+        "unsynned"
+      ],
+      "description": "Everything starts from 0, launchpad soon on @LayerZero_Core",
+      "first_seen_utc": "2026-11-02T21:29:15+00:00",
+      "last_seen_utc": "2026-11-09T20:18:14+00:00",
       "status": "priority",
       "avatarUrl": ""
     },
@@ -20516,22 +20667,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Korini",
-      "x_account": "Korinitrade",
-      "total_mentions": 3,
-      "unique_alphas": 3,
-      "alphas": [
-        "CSR",
-        "Skrchen666(钻石手伤心版 绝对纸手之人）",
-        "蛋总"
-      ],
-      "description": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
-      "first_seen_utc": "2026-11-01T16:52:34+00:00",
-      "last_seen_utc": "2026-11-08T10:33:14+00:00",
-      "status": "priority",
-      "avatarUrl": ""
-    },
-    {
       "project": "Kuip",
       "x_account": "KuipFun",
       "total_mentions": 3,
@@ -20720,6 +20855,22 @@
       "description": "The universal launchpad on @Enter_Elysium and HyperEVM",
       "first_seen_utc": "2026-10-30T16:49:23+00:00",
       "last_seen_utc": "2026-11-03T16:58:21+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Pin Market",
+      "x_account": "Pinmarketfun",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "BearzVerse",
+        "unsynned",
+        "well"
+      ],
+      "description": "Pin market, paid in USDC on Solana, with your code delivered by email in minutes.",
+      "first_seen_utc": "2026-11-07T20:37:50+00:00",
+      "last_seen_utc": "2026-11-10T02:21:18+00:00",
       "status": "priority",
       "avatarUrl": ""
     },
@@ -20947,17 +21098,17 @@
       "avatarUrl": ""
     },
     {
-      "project": "0rigin",
-      "x_account": "0rigindotfun",
+      "project": "000.fun",
+      "x_account": "000dotfun",
       "total_mentions": 2,
       "unique_alphas": 2,
       "alphas": [
-        "CSR",
-        "lakka"
+        "unsynned",
+        "zyy"
       ],
-      "description": "Everything starts from 0, launchpad soon on @LayerZero_Core",
-      "first_seen_utc": "2026-11-02T21:29:15+00:00",
-      "last_seen_utc": "2026-11-08T20:07:02+00:00",
+      "description": "From zero to FUN. A token launchpad built on @LayerZero_Core",
+      "first_seen_utc": "2026-11-02T11:33:37+00:00",
+      "last_seen_utc": "2026-11-09T20:18:14+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -21502,6 +21653,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "Forge",
+      "x_account": "Forge_elysium",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "老大哥",
+        "阿宏"
+      ],
+      "description": "Launch on Uniswap v4 from block one. Hook Blocks, Triggers, Assistance Fund. The pool you launch into is the pool that trades forever.",
+      "first_seen_utc": "2026-11-09T06:26:04+00:00",
+      "last_seen_utc": "2026-11-10T01:11:19+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Formation Markets",
       "x_account": "formation_mkts",
       "total_mentions": 2,
@@ -21528,6 +21694,21 @@
       "description": "Move with liquidity. Building controlled spot execution for Elysium.",
       "first_seen_utc": "2026-11-04T13:52:24+00:00",
       "last_seen_utc": "2026-11-09T12:34:15+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Globe",
+      "x_account": "globemkts",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "hit.ink",
+        "unsynned"
+      ],
+      "description": "Your gang calls it. Your agent trades it. Atlas goes live Nov 30. Get early access ↓",
+      "first_seen_utc": "2026-11-09T18:11:14+00:00",
+      "last_seen_utc": "2026-11-09T20:37:52+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -21877,21 +22058,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Pin Market",
-      "x_account": "Pinmarketfun",
-      "total_mentions": 2,
-      "unique_alphas": 2,
-      "alphas": [
-        "BearzVerse",
-        "unsynned"
-      ],
-      "description": "Pin market, paid in USDC on Solana, with your code delivered by email in minutes.",
-      "first_seen_utc": "2026-11-07T20:37:50+00:00",
-      "last_seen_utc": "2026-11-08T06:29:01+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "Pol",
       "x_account": "Pol_BNB",
       "total_mentions": 2,
@@ -22117,6 +22283,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "Tzero",
+      "x_account": "T0dotfun",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "unsynned",
+        "zyy"
+      ],
+      "description": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
+      "first_seen_utc": "2026-11-02T11:33:42+00:00",
+      "last_seen_utc": "2026-11-09T20:18:14+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "UNSEEN",
       "x_account": "UnseenOrdo",
       "total_mentions": 2,
@@ -22247,20 +22428,6 @@
       "description": "Bet on Western Supremacy\n\nTokenized exposure to America's next industrial giants.\n\nBuilt on @hectoinc issued on @Cantonnetwork .",
       "first_seen_utc": "2026-11-09T16:42:46+00:00",
       "last_seen_utc": "2026-11-09T16:42:46+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "000.fun",
-      "x_account": "000dotfun",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "zyy"
-      ],
-      "description": "From zero to FUN. A token launchpad built on @LayerZero_Core",
-      "first_seen_utc": "2026-11-02T11:33:37+00:00",
-      "last_seen_utc": "2026-11-02T11:33:37+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -23651,16 +23818,16 @@
       "avatarUrl": ""
     },
     {
-      "project": "Forge",
-      "x_account": "Forge_elysium",
+      "project": "forks wiki",
+      "x_account": "wikifork",
       "total_mentions": 1,
       "unique_alphas": 1,
       "alphas": [
-        "阿宏"
+        "发誓要做永赚大师"
       ],
-      "description": "Launch on Uniswap v4 from block one. Hook Blocks, Triggers, Assistance Fund. The pool you launch into is the pool that trades forever.",
-      "first_seen_utc": "2026-11-09T06:26:04+00:00",
-      "last_seen_utc": "2026-11-09T06:26:04+00:00",
+      "description": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork",
+      "first_seen_utc": "2026-11-10T03:31:59+00:00",
+      "last_seen_utc": "2026-11-10T03:31:59+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -23745,20 +23912,6 @@
       "description": "// giwatron protocol: the machines are waking up.",
       "first_seen_utc": "2026-10-29T07:00:49+00:00",
       "last_seen_utc": "2026-10-29T07:00:49+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Globe",
-      "x_account": "globemkts",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "hit.ink"
-      ],
-      "description": "Your gang calls it. Your agent trades it. Atlas goes live Nov 30. Get early access ↓",
-      "first_seen_utc": "2026-11-09T18:11:14+00:00",
-      "last_seen_utc": "2026-11-09T18:11:14+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -26241,20 +26394,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Tzero",
-      "x_account": "T0dotfun",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "zyy"
-      ],
-      "description": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
-      "first_seen_utc": "2026-11-02T11:33:42+00:00",
-      "last_seen_utc": "2026-11-02T11:33:42+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "UBI.fun on Arc",
       "x_account": "UBIdotFUN",
       "total_mentions": 1,
@@ -26636,14 +26775,61 @@
   "daily": [
     {
       "date": "2026-11-10",
-      "totalRows": 6,
-      "projectCount": 6,
-      "focusCount": 0,
-      "candidateCount": 6,
+      "totalRows": 14,
+      "projectCount": 13,
+      "focusCount": 1,
+      "candidateCount": 12,
       "crossSource": 0,
-      "newCount": 5,
-      "repeatCount": 1,
+      "newCount": 6,
+      "repeatCount": 7,
       "projects": [
+        {
+          "project": "Globe",
+          "account": "globemkts",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "hit.ink",
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "hit.ink",
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-11-09T18:11:14+00:00",
+          "lastSeen": "2026-11-09T20:37:52+00:00",
+          "description": "Your gang calls it. Your agent trades it. Atlas goes live Nov 30. Get early access ↓",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Globe",
+              "account": "globemkts",
+              "alpha": "hit.ink",
+              "seenAt": "2026-11-09T18:11:14+00:00",
+              "messageId": "dodtwitterbot/40452",
+              "description": "Your gang calls it. Your agent trades it. Atlas goes live Nov 30. Get early access ↓",
+              "text": "Your gang calls it. Your agent trades it. Atlas goes live Nov 30. Get early access ↓"
+            },
+            {
+              "source": "TG",
+              "project": "Globe",
+              "account": "globemkts",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-09T20:37:52+00:00",
+              "messageId": "dodtwitterbot/40466",
+              "description": "Your gang calls it. Your agent trades it. Atlas goes live Nov 30. Get early access ↓",
+              "text": "Your gang calls it. Your agent trades it. Atlas goes live Nov 30. Get early access ↓"
+            }
+          ],
+          "text": " Globe globemkts Your gang calls it. Your agent trades it. Atlas goes live Nov 30. Get early access ↓ Globe globemkts Your gang calls it. Your agent trades it. Atlas goes live Nov 30. Get early access ↓",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
         {
           "project": "&#036;NEOPRIME",
           "account": "NeoprimeCapital",
@@ -26680,35 +26866,140 @@
           "dayStatus": "new"
         },
         {
-          "project": "Globe",
-          "account": "globemkts",
+          "project": "000.fun",
+          "account": "000dotfun",
           "sources": [
             "TG"
           ],
           "alphas": [
-            "hit.ink"
+            "unsynned"
           ],
           "tgAlphas": [
-            "hit.ink"
+            "unsynned"
           ],
           "xAlphas": [],
           "mentions": 1,
-          "firstSeen": "2026-11-09T18:11:14+00:00",
-          "lastSeen": "2026-11-09T18:11:14+00:00",
-          "description": "Your gang calls it. Your agent trades it. Atlas goes live Nov 30. Get early access ↓",
+          "firstSeen": "2026-11-09T20:18:14+00:00",
+          "lastSeen": "2026-11-09T20:18:14+00:00",
+          "description": "From zero to FUN. A token launchpad built on @LayerZero_Core",
           "rows": [
             {
               "source": "TG",
-              "project": "Globe",
-              "account": "globemkts",
-              "alpha": "hit.ink",
-              "seenAt": "2026-11-09T18:11:14+00:00",
-              "messageId": "dodtwitterbot/40452",
-              "description": "Your gang calls it. Your agent trades it. Atlas goes live Nov 30. Get early access ↓",
-              "text": "Your gang calls it. Your agent trades it. Atlas goes live Nov 30. Get early access ↓"
+              "project": "000.fun",
+              "account": "000dotfun",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-09T20:18:14+00:00",
+              "messageId": "dodtwitterbot/40464",
+              "description": "From zero to FUN. A token launchpad built on @LayerZero_Core",
+              "text": "From zero to FUN. A token launchpad built on @LayerZero_Core"
             }
           ],
-          "text": " Globe globemkts Your gang calls it. Your agent trades it. Atlas goes live Nov 30. Get early access ↓",
+          "text": " 000.fun 000dotfun From zero to FUN. A token launchpad built on @LayerZero_Core",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "0rigin",
+          "account": "0rigindotfun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-09T20:18:14+00:00",
+          "lastSeen": "2026-11-09T20:18:14+00:00",
+          "description": "Everything starts from 0, launchpad soon on @LayerZero_Core",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "0rigin",
+              "account": "0rigindotfun",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-09T20:18:14+00:00",
+              "messageId": "dodtwitterbot/40462",
+              "description": "Everything starts from 0, launchpad soon on @LayerZero_Core",
+              "text": "Everything starts from 0, launchpad soon on @LayerZero_Core"
+            }
+          ],
+          "text": " 0rigin 0rigindotfun Everything starts from 0, launchpad soon on @LayerZero_Core",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Forge",
+          "account": "Forge_elysium",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "老大哥"
+          ],
+          "tgAlphas": [
+            "老大哥"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-10T01:11:19+00:00",
+          "lastSeen": "2026-11-10T01:11:19+00:00",
+          "description": "Launch on Uniswap v4 from block one. Hook Blocks, Triggers, Assistance Fund. The pool you launch into is the pool that trades forever.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Forge",
+              "account": "Forge_elysium",
+              "alpha": "老大哥",
+              "seenAt": "2026-11-10T01:11:19+00:00",
+              "messageId": "dodtwitterbot/40474",
+              "description": "Launch on Uniswap v4 from block one. Hook Blocks, Triggers, Assistance Fund. The pool you launch into is the pool that trades forever.",
+              "text": "Launch on Uniswap v4 from block one. Hook Blocks, Triggers, Assistance Fund. The pool you launch into is the pool that trades forever."
+            }
+          ],
+          "text": " Forge Forge_elysium Launch on Uniswap v4 from block one. Hook Blocks, Triggers, Assistance Fund. The pool you launch into is the pool that trades forever.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "forks wiki",
+          "account": "wikifork",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "发誓要做永赚大师"
+          ],
+          "tgAlphas": [
+            "发誓要做永赚大师"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-10T03:31:59+00:00",
+          "lastSeen": "2026-11-10T03:31:59+00:00",
+          "description": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "forks wiki",
+              "account": "wikifork",
+              "alpha": "发誓要做永赚大师",
+              "seenAt": "2026-11-10T03:31:59+00:00",
+              "messageId": "dodtwitterbot/40481",
+              "description": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork",
+              "text": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork"
+            }
+          ],
+          "text": " forks wiki wikifork the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -26748,6 +27039,41 @@
           "displayTier": "candidate",
           "avatarUrl": "",
           "dayStatus": "new"
+        },
+        {
+          "project": "Korini",
+          "account": "Korinitrade",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "hit.ink"
+          ],
+          "tgAlphas": [
+            "hit.ink"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-09T23:15:06+00:00",
+          "lastSeen": "2026-11-09T23:15:06+00:00",
+          "description": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Korini",
+              "account": "Korinitrade",
+              "alpha": "hit.ink",
+              "seenAt": "2026-11-09T23:15:06+00:00",
+              "messageId": "dodtwitterbot/40472",
+              "description": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
+              "text": "Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social"
+            }
+          ],
+          "text": " Korini Korinitrade Korini trade launch and connect on giwa mainnet\n\nLaunchpad/terminal/social",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
         },
         {
           "project": "OpenGame",
@@ -26820,6 +27146,41 @@
           "dayStatus": "new"
         },
         {
+          "project": "Pin Market",
+          "account": "Pinmarketfun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "well"
+          ],
+          "tgAlphas": [
+            "well"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-10T02:21:18+00:00",
+          "lastSeen": "2026-11-10T02:21:18+00:00",
+          "description": "Pin market, paid in USDC on Solana, with your code delivered by email in minutes.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Pin Market",
+              "account": "Pinmarketfun",
+              "alpha": "well",
+              "seenAt": "2026-11-10T02:21:18+00:00",
+              "messageId": "dodtwitterbot/40475",
+              "description": "Pin market, paid in USDC on Solana, with your code delivered by email in minutes.",
+              "text": "Pin market, paid in USDC on Solana, with your code delivered by email in minutes."
+            }
+          ],
+          "text": " Pin Market Pinmarketfun Pin market, paid in USDC on Solana, with your code delivered by email in minutes.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
           "project": "squeekchain",
           "account": "squeekchain",
           "sources": [
@@ -26849,6 +27210,41 @@
             }
           ],
           "text": " squeekchain squeekchain 🐹 🟦\nhamster-powered toychain on Ethereum\n\ncurrently in testing on sepolia\n\n⚠️ token has NOT launched yet ⚠️",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Tzero",
+          "account": "T0dotfun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-09T20:18:14+00:00",
+          "lastSeen": "2026-11-09T20:18:14+00:00",
+          "description": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Tzero",
+              "account": "T0dotfun",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-09T20:18:14+00:00",
+              "messageId": "dodtwitterbot/40463",
+              "description": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
+              "text": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet."
+            }
+          ],
+          "text": " Tzero T0dotfun The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -50166,219 +50562,224 @@
   ],
   "reports": [
     {
+      "file": "2026-11-10-0351-telegram-update.md",
+      "title": "2026-11-10-0351-telegram-update",
+      "updatedAt": "2026-11-10T03:51:15.326Z"
+    },
+    {
       "file": "2026-11-09-2013-telegram-update.md",
       "title": "2026-11-09-2013-telegram-update",
-      "updatedAt": "2026-11-09T20:13:02.097Z"
+      "updatedAt": "2026-11-10T03:51:09.782Z"
     },
     {
       "file": "2026-11-09-0844-telegram-update.md",
       "title": "2026-11-09-0844-telegram-update",
-      "updatedAt": "2026-11-09T20:12:58.018Z"
+      "updatedAt": "2026-11-10T03:51:09.782Z"
     },
     {
       "file": "2026-11-08-2123-telegram-update.md",
       "title": "2026-11-08-2123-telegram-update",
-      "updatedAt": "2026-11-09T20:12:58.018Z"
+      "updatedAt": "2026-11-10T03:51:09.782Z"
     },
     {
       "file": "2026-11-08-1623-telegram-update.md",
       "title": "2026-11-08-1623-telegram-update",
-      "updatedAt": "2026-11-09T20:12:58.018Z"
+      "updatedAt": "2026-11-10T03:51:09.782Z"
     },
     {
       "file": "2026-11-08-0804-telegram-update.md",
       "title": "2026-11-08-0804-telegram-update",
-      "updatedAt": "2026-11-09T20:12:58.018Z"
+      "updatedAt": "2026-11-10T03:51:09.782Z"
     },
     {
       "file": "2026-11-07-2106-telegram-update.md",
       "title": "2026-11-07-2106-telegram-update",
-      "updatedAt": "2026-11-09T20:12:58.018Z"
+      "updatedAt": "2026-11-10T03:51:09.782Z"
     },
     {
       "file": "2026-11-07-1556-telegram-update.md",
       "title": "2026-11-07-1556-telegram-update",
-      "updatedAt": "2026-11-09T20:12:58.018Z"
+      "updatedAt": "2026-11-10T03:51:09.782Z"
     },
     {
       "file": "2026-11-07-0751-telegram-update.md",
       "title": "2026-11-07-0751-telegram-update",
-      "updatedAt": "2026-11-09T20:12:58.018Z"
+      "updatedAt": "2026-11-10T03:51:09.782Z"
     },
     {
       "file": "2026-11-06-2226-telegram-update.md",
       "title": "2026-11-06-2226-telegram-update",
-      "updatedAt": "2026-11-09T20:12:58.018Z"
+      "updatedAt": "2026-11-10T03:51:09.782Z"
     },
     {
       "file": "2026-11-06-1658-telegram-update.md",
       "title": "2026-11-06-1658-telegram-update",
-      "updatedAt": "2026-11-09T20:12:58.018Z"
+      "updatedAt": "2026-11-10T03:51:09.782Z"
     },
     {
       "file": "2026-11-06-0835-telegram-update.md",
       "title": "2026-11-06-0835-telegram-update",
-      "updatedAt": "2026-11-09T20:12:58.018Z"
+      "updatedAt": "2026-11-10T03:51:09.782Z"
     },
     {
       "file": "2026-11-05-2256-telegram-update.md",
       "title": "2026-11-05-2256-telegram-update",
-      "updatedAt": "2026-11-09T20:12:58.018Z"
+      "updatedAt": "2026-11-10T03:51:09.782Z"
     },
     {
       "file": "2026-11-05-1742-telegram-update.md",
       "title": "2026-11-05-1742-telegram-update",
-      "updatedAt": "2026-11-09T20:12:58.018Z"
+      "updatedAt": "2026-11-10T03:51:09.782Z"
     },
     {
       "file": "2026-11-05-0836-telegram-update.md",
       "title": "2026-11-05-0836-telegram-update",
-      "updatedAt": "2026-11-09T20:12:58.018Z"
+      "updatedAt": "2026-11-10T03:51:09.782Z"
     },
     {
       "file": "2026-11-04-2255-telegram-update.md",
       "title": "2026-11-04-2255-telegram-update",
-      "updatedAt": "2026-11-09T20:12:58.018Z"
+      "updatedAt": "2026-11-10T03:51:09.782Z"
     },
     {
       "file": "2026-11-04-1737-telegram-update.md",
       "title": "2026-11-04-1737-telegram-update",
-      "updatedAt": "2026-11-09T20:12:58.018Z"
+      "updatedAt": "2026-11-10T03:51:09.782Z"
     },
     {
       "file": "2026-11-04-0810-telegram-update.md",
       "title": "2026-11-04-0810-telegram-update",
-      "updatedAt": "2026-11-09T20:12:58.018Z"
+      "updatedAt": "2026-11-10T03:51:09.782Z"
     },
     {
       "file": "2026-11-04-0143-telegram-update.md",
       "title": "2026-11-04-0143-telegram-update",
-      "updatedAt": "2026-11-09T20:12:58.018Z"
+      "updatedAt": "2026-11-10T03:51:09.782Z"
     },
     {
       "file": "2026-11-03-2018-telegram-update.md",
       "title": "2026-11-03-2018-telegram-update",
-      "updatedAt": "2026-11-09T20:12:58.018Z"
+      "updatedAt": "2026-11-10T03:51:09.782Z"
     },
     {
       "file": "2026-11-03-1302-telegram-update.md",
       "title": "2026-11-03-1302-telegram-update",
-      "updatedAt": "2026-11-09T20:12:58.018Z"
+      "updatedAt": "2026-11-10T03:51:09.782Z"
     },
     {
       "file": "2026-11-03-0306-telegram-update.md",
       "title": "2026-11-03-0306-telegram-update",
-      "updatedAt": "2026-11-09T20:12:58.018Z"
+      "updatedAt": "2026-11-10T03:51:09.782Z"
     },
     {
       "file": "2026-11-02-1950-telegram-update.md",
       "title": "2026-11-02-1950-telegram-update",
-      "updatedAt": "2026-11-09T20:12:58.018Z"
+      "updatedAt": "2026-11-10T03:51:09.782Z"
     },
     {
       "file": "2026-11-02-0826-telegram-update.md",
       "title": "2026-11-02-0826-telegram-update",
-      "updatedAt": "2026-11-09T20:12:58.018Z"
+      "updatedAt": "2026-11-10T03:51:09.782Z"
     },
     {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-09T20:12:58.018Z"
+      "updatedAt": "2026-11-10T03:51:09.782Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-09T20:12:58.018Z"
+      "updatedAt": "2026-11-10T03:51:09.782Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-09T20:12:58.018Z"
+      "updatedAt": "2026-11-10T03:51:09.782Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-09T20:12:58.018Z"
+      "updatedAt": "2026-11-10T03:51:09.782Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-09T20:12:58.018Z"
+      "updatedAt": "2026-11-10T03:51:09.782Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-09T20:12:58.018Z"
+      "updatedAt": "2026-11-10T03:51:09.782Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-09T20:12:58.018Z"
+      "updatedAt": "2026-11-10T03:51:09.782Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-09T20:12:58.018Z"
+      "updatedAt": "2026-11-10T03:51:09.782Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-09T20:12:58.018Z"
+      "updatedAt": "2026-11-10T03:51:09.782Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-09T20:12:58.018Z"
+      "updatedAt": "2026-11-10T03:51:09.782Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-09T20:12:58.018Z"
+      "updatedAt": "2026-11-10T03:51:09.782Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-09T20:12:58.018Z"
+      "updatedAt": "2026-11-10T03:51:09.782Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-09T20:12:58.018Z"
+      "updatedAt": "2026-11-10T03:51:09.782Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-09T20:12:58.018Z"
+      "updatedAt": "2026-11-10T03:51:09.782Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-09T20:12:58.018Z"
+      "updatedAt": "2026-11-10T03:51:09.782Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-09T20:12:58.018Z"
+      "updatedAt": "2026-11-10T03:51:09.782Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-09T20:12:58.018Z"
+      "updatedAt": "2026-11-10T03:51:09.782Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-09T20:12:58.018Z"
+      "updatedAt": "2026-11-10T03:51:09.782Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-09T20:12:58.018Z"
+      "updatedAt": "2026-11-10T03:51:09.782Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-09T20:12:58.017Z"
+      "updatedAt": "2026-11-10T03:51:09.781Z"
     }
   ]
 }
