@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-11T01:30:07.638Z",
+  "generatedAt": "2026-11-11T08:28:25.947Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 40587,
-    "lastMessageAt": "2026-11-10T23:58:01+00:00",
-    "lastCheckedAt": "2026-11-11T01:30:07.504Z",
-    "previousMessageId": 40570,
-    "pagesRead": 1,
-    "messagesRead": 17,
-    "newProjectRecords": 6,
+    "lastMessageId": 40613,
+    "lastMessageAt": "2026-11-11T08:24:44+00:00",
+    "lastCheckedAt": "2026-11-11T08:28:25.773Z",
+    "previousMessageId": 40587,
+    "pagesRead": 2,
+    "messagesRead": 26,
+    "newProjectRecords": 11,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 812,
+    "telegramRows": 823,
     "xRows": 0,
-    "projects": 501,
+    "projects": 505,
     "crossSource": 0
   },
   "projects": [
@@ -1874,6 +1874,76 @@
       "avatarUrl": ""
     },
     {
+      "project": "ChainChomp131",
+      "account": "ChainChomp131",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "poet",
+        "speest 💎",
+        "地推雷氏",
+        "雷氏"
+      ],
+      "tgAlphas": [
+        "poet",
+        "speest 💎",
+        "地推雷氏",
+        "雷氏"
+      ],
+      "xAlphas": [],
+      "mentions": 4,
+      "firstSeen": "2026-11-09T15:22:59+00:00",
+      "lastSeen": "2026-11-11T06:04:36+00:00",
+      "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "ChainChomp131",
+          "account": "ChainChomp131",
+          "alpha": "poet",
+          "seenAt": "2026-11-09T15:22:59+00:00",
+          "messageId": "dodtwitterbot/40442",
+          "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+          "text": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him"
+        },
+        {
+          "source": "TG",
+          "project": "ChainChomp131",
+          "account": "ChainChomp131",
+          "alpha": "雷氏",
+          "seenAt": "2026-11-10T05:25:48+00:00",
+          "messageId": "dodtwitterbot/40483",
+          "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+          "text": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him"
+        },
+        {
+          "source": "TG",
+          "project": "ChainChomp131",
+          "account": "ChainChomp131",
+          "alpha": "speest 💎",
+          "seenAt": "2026-11-10T17:35:08+00:00",
+          "messageId": "dodtwitterbot/40557",
+          "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+          "text": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him"
+        },
+        {
+          "source": "TG",
+          "project": "ChainChomp131",
+          "account": "ChainChomp131",
+          "alpha": "地推雷氏",
+          "seenAt": "2026-11-11T06:04:36+00:00",
+          "messageId": "dodtwitterbot/40600",
+          "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+          "text": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him"
+        }
+      ],
+      "text": " ChainChomp131 ChainChomp131 20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him ChainChomp131 ChainChomp131 20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him ChainChomp131 ChainChomp131 20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him ChainChomp131 ChainChomp131 20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+      "score": 8,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Elysium Pump",
       "account": "ElysiumPump",
       "sources": [
@@ -2504,6 +2574,64 @@
       "avatarUrl": ""
     },
     {
+      "project": "000.fun",
+      "account": "000dotfun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned",
+        "well",
+        "zyy"
+      ],
+      "tgAlphas": [
+        "unsynned",
+        "well",
+        "zyy"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-11-02T11:33:37+00:00",
+      "lastSeen": "2026-11-11T04:49:41+00:00",
+      "description": "From zero to FUN. A token launchpad built on @LayerZero_Core",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "000.fun",
+          "account": "000dotfun",
+          "alpha": "zyy",
+          "seenAt": "2026-11-02T11:33:37+00:00",
+          "messageId": "dodtwitterbot/39234",
+          "description": "From zero to FUN. A token launchpad built on @LayerZero_Core",
+          "text": "From zero to FUN. A token launchpad built on @LayerZero_Core"
+        },
+        {
+          "source": "TG",
+          "project": "000.fun",
+          "account": "000dotfun",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-09T20:18:14+00:00",
+          "messageId": "dodtwitterbot/40464",
+          "description": "From zero to FUN. A token launchpad built on @LayerZero_Core",
+          "text": "From zero to FUN. A token launchpad built on @LayerZero_Core"
+        },
+        {
+          "source": "TG",
+          "project": "000.fun",
+          "account": "000dotfun",
+          "alpha": "well",
+          "seenAt": "2026-11-11T04:49:41+00:00",
+          "messageId": "dodtwitterbot/40592",
+          "description": "From zero to FUN. A token launchpad built on @LayerZero_Core",
+          "text": "From zero to FUN. A token launchpad built on @LayerZero_Core"
+        }
+      ],
+      "text": " 000.fun 000dotfun From zero to FUN. A token launchpad built on @LayerZero_Core 000.fun 000dotfun From zero to FUN. A token launchpad built on @LayerZero_Core 000.fun 000dotfun From zero to FUN. A token launchpad built on @LayerZero_Core",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "0rigin",
       "account": "0rigindotfun",
       "sources": [
@@ -3021,64 +3149,6 @@
         }
       ],
       "text": " Cathereum CathereumTech Cats. Coins. Assets.\nGenesis starts with 8,888 fully onchain DN404s.\nTelegram: https://t.co/DcEFYNTrJH Cathereum CathereumTech Cats. Coins. Assets.\nGenesis starts with 8,888 fully onchain DN404s.\nTelegram: https://t.co/DcEFYNTrJH Cathereum CathereumTech Cats. Coins. Assets.\nGenesis starts with 8,888 fully onchain DN404s.\nTelegram: https://t.co/DcEFYNTrJH",
-      "score": 6,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
-      "project": "ChainChomp131",
-      "account": "ChainChomp131",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "poet",
-        "speest 💎",
-        "雷氏"
-      ],
-      "tgAlphas": [
-        "poet",
-        "speest 💎",
-        "雷氏"
-      ],
-      "xAlphas": [],
-      "mentions": 3,
-      "firstSeen": "2026-11-09T15:22:59+00:00",
-      "lastSeen": "2026-11-10T17:35:08+00:00",
-      "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "ChainChomp131",
-          "account": "ChainChomp131",
-          "alpha": "poet",
-          "seenAt": "2026-11-09T15:22:59+00:00",
-          "messageId": "dodtwitterbot/40442",
-          "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
-          "text": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him"
-        },
-        {
-          "source": "TG",
-          "project": "ChainChomp131",
-          "account": "ChainChomp131",
-          "alpha": "雷氏",
-          "seenAt": "2026-11-10T05:25:48+00:00",
-          "messageId": "dodtwitterbot/40483",
-          "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
-          "text": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him"
-        },
-        {
-          "source": "TG",
-          "project": "ChainChomp131",
-          "account": "ChainChomp131",
-          "alpha": "speest 💎",
-          "seenAt": "2026-11-10T17:35:08+00:00",
-          "messageId": "dodtwitterbot/40557",
-          "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
-          "text": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him"
-        }
-      ],
-      "text": " ChainChomp131 ChainChomp131 20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him ChainChomp131 ChainChomp131 20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him ChainChomp131 ChainChomp131 20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
       "score": 6,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -4418,6 +4488,64 @@
       "avatarUrl": ""
     },
     {
+      "project": "Peak Deploy",
+      "account": "peakdeploy",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "hit.ink",
+        "unsynned",
+        "well"
+      ],
+      "tgAlphas": [
+        "hit.ink",
+        "unsynned",
+        "well"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-11-10T06:51:46+00:00",
+      "lastSeen": "2026-11-11T07:58:50+00:00",
+      "description": "Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Peak Deploy",
+          "account": "peakdeploy",
+          "alpha": "hit.ink",
+          "seenAt": "2026-11-10T06:51:46+00:00",
+          "messageId": "dodtwitterbot/40500",
+          "description": "Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade",
+          "text": "Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade"
+        },
+        {
+          "source": "TG",
+          "project": "Peak Deploy",
+          "account": "peakdeploy",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-10T18:56:46+00:00",
+          "messageId": "dodtwitterbot/40561",
+          "description": "Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade",
+          "text": "Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade"
+        },
+        {
+          "source": "TG",
+          "project": "Peak Deploy",
+          "account": "peakdeploy",
+          "alpha": "well",
+          "seenAt": "2026-11-11T07:58:50+00:00",
+          "messageId": "dodtwitterbot/40609",
+          "description": "Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade",
+          "text": "Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade"
+        }
+      ],
+      "text": " Peak Deploy peakdeploy Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade Peak Deploy peakdeploy Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade Peak Deploy peakdeploy Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "PerpMe",
       "account": "perpmefun",
       "sources": [
@@ -5056,6 +5184,64 @@
       "avatarUrl": ""
     },
     {
+      "project": "Tick",
+      "account": "tick_fivebar",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse",
+        "unsynned",
+        "well"
+      ],
+      "tgAlphas": [
+        "BearzVerse",
+        "unsynned",
+        "well"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-11-10T21:44:42+00:00",
+      "lastSeen": "2026-11-11T05:48:24+00:00",
+      "description": "Im Tick, im @fivebar_xyz Agent in Charge",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Tick",
+          "account": "tick_fivebar",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-10T21:44:42+00:00",
+          "messageId": "dodtwitterbot/40582",
+          "description": "Im Tick, im @fivebar_xyz Agent in Charge",
+          "text": "Im Tick, im @fivebar_xyz Agent in Charge"
+        },
+        {
+          "source": "TG",
+          "project": "Tick",
+          "account": "tick_fivebar",
+          "alpha": "well",
+          "seenAt": "2026-11-11T01:46:57+00:00",
+          "messageId": "dodtwitterbot/40588",
+          "description": "Im Tick, im @fivebar_xyz Agent in Charge",
+          "text": "Im Tick, im @fivebar_xyz Agent in Charge"
+        },
+        {
+          "source": "TG",
+          "project": "Tick",
+          "account": "tick_fivebar",
+          "alpha": "BearzVerse",
+          "seenAt": "2026-11-11T05:48:24+00:00",
+          "messageId": "dodtwitterbot/40599",
+          "description": "Im Tick, im @fivebar_xyz Agent in Charge",
+          "text": "Im Tick, im @fivebar_xyz Agent in Charge"
+        }
+      ],
+      "text": " Tick tick_fivebar Im Tick, im @fivebar_xyz Agent in Charge Tick tick_fivebar Im Tick, im @fivebar_xyz Agent in Charge Tick tick_fivebar Im Tick, im @fivebar_xyz Agent in Charge",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "tolls",
       "account": "tollsfun",
       "sources": [
@@ -5230,6 +5416,64 @@
       "avatarUrl": ""
     },
     {
+      "project": "Versine",
+      "account": "VersineApp",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse",
+        "unsynned",
+        "well"
+      ],
+      "tgAlphas": [
+        "BearzVerse",
+        "unsynned",
+        "well"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-11-10T18:56:47+00:00",
+      "lastSeen": "2026-11-11T05:48:24+00:00",
+      "description": "Let your AI agent send and receive money for you.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Versine",
+          "account": "VersineApp",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-10T18:56:47+00:00",
+          "messageId": "dodtwitterbot/40562",
+          "description": "Let your agent send and receive money for you",
+          "text": "Let your agent send and receive money for you"
+        },
+        {
+          "source": "TG",
+          "project": "Versine",
+          "account": "VersineApp",
+          "alpha": "well",
+          "seenAt": "2026-11-11T01:49:40+00:00",
+          "messageId": "dodtwitterbot/40589",
+          "description": "Let your AI agent send and receive money for you.",
+          "text": "Let your AI agent send and receive money for you."
+        },
+        {
+          "source": "TG",
+          "project": "Versine",
+          "account": "VersineApp",
+          "alpha": "BearzVerse",
+          "seenAt": "2026-11-11T05:48:24+00:00",
+          "messageId": "dodtwitterbot/40598",
+          "description": "Let your AI agent send and receive money for you.",
+          "text": "Let your AI agent send and receive money for you."
+        }
+      ],
+      "text": " Versine VersineApp Let your agent send and receive money for you Versine VersineApp Let your AI agent send and receive money for you. Versine VersineApp Let your AI agent send and receive money for you.",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Wraith",
       "account": "WraithPrivacy",
       "sources": [
@@ -5329,52 +5573,6 @@
         }
       ],
       "text": " &#036;LEND elylend Borrow. Lend. Earn. The money market for Elysium. &#036;LEND elylend Borrow. Lend. Earn. The money market for Elysium.",
-      "score": 4,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
-      "project": "000.fun",
-      "account": "000dotfun",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "unsynned",
-        "zyy"
-      ],
-      "tgAlphas": [
-        "unsynned",
-        "zyy"
-      ],
-      "xAlphas": [],
-      "mentions": 2,
-      "firstSeen": "2026-11-02T11:33:37+00:00",
-      "lastSeen": "2026-11-09T20:18:14+00:00",
-      "description": "From zero to FUN. A token launchpad built on @LayerZero_Core",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "000.fun",
-          "account": "000dotfun",
-          "alpha": "zyy",
-          "seenAt": "2026-11-02T11:33:37+00:00",
-          "messageId": "dodtwitterbot/39234",
-          "description": "From zero to FUN. A token launchpad built on @LayerZero_Core",
-          "text": "From zero to FUN. A token launchpad built on @LayerZero_Core"
-        },
-        {
-          "source": "TG",
-          "project": "000.fun",
-          "account": "000dotfun",
-          "alpha": "unsynned",
-          "seenAt": "2026-11-09T20:18:14+00:00",
-          "messageId": "dodtwitterbot/40464",
-          "description": "From zero to FUN. A token launchpad built on @LayerZero_Core",
-          "text": "From zero to FUN. A token launchpad built on @LayerZero_Core"
-        }
-      ],
-      "text": " 000.fun 000dotfun From zero to FUN. A token launchpad built on @LayerZero_Core 000.fun 000dotfun From zero to FUN. A token launchpad built on @LayerZero_Core",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -8365,52 +8563,6 @@
         }
       ],
       "text": " orphic orphicfi Agentic USDC vaults on Elysium. Built on Morpho and Hyperliquid. orphic orphicfi Agentic USDC vaults on Elysium. Built on Morpho and Hyperliquid.",
-      "score": 4,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Peak Deploy",
-      "account": "peakdeploy",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "hit.ink",
-        "unsynned"
-      ],
-      "tgAlphas": [
-        "hit.ink",
-        "unsynned"
-      ],
-      "xAlphas": [],
-      "mentions": 2,
-      "firstSeen": "2026-11-10T06:51:46+00:00",
-      "lastSeen": "2026-11-10T18:56:46+00:00",
-      "description": "Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Peak Deploy",
-          "account": "peakdeploy",
-          "alpha": "hit.ink",
-          "seenAt": "2026-11-10T06:51:46+00:00",
-          "messageId": "dodtwitterbot/40500",
-          "description": "Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade",
-          "text": "Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade"
-        },
-        {
-          "source": "TG",
-          "project": "Peak Deploy",
-          "account": "peakdeploy",
-          "alpha": "unsynned",
-          "seenAt": "2026-11-10T18:56:46+00:00",
-          "messageId": "dodtwitterbot/40561",
-          "description": "Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade",
-          "text": "Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade"
-        }
-      ],
-      "text": " Peak Deploy peakdeploy Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade Peak Deploy peakdeploy Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -12830,6 +12982,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Flop Labs",
+      "account": "flop_labs",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-11T07:57:04+00:00",
+      "lastSeen": "2026-11-11T07:57:04+00:00",
+      "description": "Building the currency for the agentic economy.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Flop Labs",
+          "account": "flop_labs",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-11T07:57:04+00:00",
+          "messageId": "dodtwitterbot/40608",
+          "description": "Building the currency for the agentic economy.",
+          "text": "Building the currency for the agentic economy."
+        }
+      ],
+      "text": " Flop Labs flop_labs Building the currency for the agentic economy.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Flora",
       "account": "FloraMontra",
       "sources": [
@@ -13675,6 +13861,40 @@
         }
       ],
       "text": " HeyItsBoh HeyitsbohTTV Gamer who enjoys the art of professional wrestling. HeyItsBoh@gmail.com",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Hive Desk",
+      "account": "thehivedesk",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "A佬"
+      ],
+      "tgAlphas": [
+        "A佬"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-11T07:08:18+00:00",
+      "lastSeen": "2026-11-11T07:08:18+00:00",
+      "description": "AI trading floor on OKX.\n\nFour agents. They plan. You place the order.\n\nNo exchange keys.\n\nBuilt by @Loydethecreator & @blueomegadawn\n\nPowered by @OKX Agents",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Hive Desk",
+          "account": "thehivedesk",
+          "alpha": "A佬",
+          "seenAt": "2026-11-11T07:08:18+00:00",
+          "messageId": "dodtwitterbot/40605",
+          "description": "AI trading floor on OKX.\n\nFour agents. They plan. You place the order.\n\nNo exchange keys.\n\nBuilt by @Loydethecreator & @blueomegadawn\n\nPowered by @OKX Agents",
+          "text": "AI trading floor on OKX.\n\nFour agents. They plan. You place the order.\n\nNo exchange keys.\n\nBuilt by @Loydethecreator & @blueomegadawn\n\nPowered by @OKX Agents"
+        }
+      ],
+      "text": " Hive Desk thehivedesk AI trading floor on OKX.\n\nFour agents. They plan. You place the order.\n\nNo exchange keys.\n\nBuilt by @Loydethecreator & @blueomegadawn\n\nPowered by @OKX Agents",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -19426,40 +19646,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Tick",
-      "account": "tick_fivebar",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "unsynned"
-      ],
-      "tgAlphas": [
-        "unsynned"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-10T21:44:42+00:00",
-      "lastSeen": "2026-11-10T21:44:42+00:00",
-      "description": "Im Tick, im @fivebar_xyz Agent in Charge",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Tick",
-          "account": "tick_fivebar",
-          "alpha": "unsynned",
-          "seenAt": "2026-11-10T21:44:42+00:00",
-          "messageId": "dodtwitterbot/40582",
-          "description": "Im Tick, im @fivebar_xyz Agent in Charge",
-          "text": "Im Tick, im @fivebar_xyz Agent in Charge"
-        }
-      ],
-      "text": " Tick tick_fivebar Im Tick, im @fivebar_xyz Agent in Charge",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
       "project": "TidePerps",
       "account": "tideperps",
       "sources": [
@@ -19591,6 +19777,40 @@
         }
       ],
       "text": " Tofi launchontofi A launchpad that dreams in three chains from the first minute. Write it down: nobody can erase it.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Token Guardian",
+      "account": "TokenGuardianAI",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "well"
+      ],
+      "tgAlphas": [
+        "well"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-11T01:59:34+00:00",
+      "lastSeen": "2026-11-11T01:59:34+00:00",
+      "description": "AI-powered on-chain due diligence for any token. Assess bundles, linked wallets and potential risks. We do not have a token.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Token Guardian",
+          "account": "TokenGuardianAI",
+          "alpha": "well",
+          "seenAt": "2026-11-11T01:59:34+00:00",
+          "messageId": "dodtwitterbot/40590",
+          "description": "AI-powered on-chain due diligence for any token. Assess bundles, linked wallets and potential risks. We do not have a token.",
+          "text": "AI-powered on-chain due diligence for any token. Assess bundles, linked wallets and potential risks. We do not have a token."
+        }
+      ],
+      "text": " Token Guardian TokenGuardianAI AI-powered on-chain due diligence for any token. Assess bundles, linked wallets and potential risks. We do not have a token.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -19931,40 +20151,6 @@
         }
       ],
       "text": " Veins veindotspace The first mining protocol on Elysium.",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Versine",
-      "account": "VersineApp",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "unsynned"
-      ],
-      "tgAlphas": [
-        "unsynned"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-10T18:56:47+00:00",
-      "lastSeen": "2026-11-10T18:56:47+00:00",
-      "description": "Let your agent send and receive money for you",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Versine",
-          "account": "VersineApp",
-          "alpha": "unsynned",
-          "seenAt": "2026-11-10T18:56:47+00:00",
-          "messageId": "dodtwitterbot/40562",
-          "description": "Let your agent send and receive money for you",
-          "text": "Let your agent send and receive money for you"
-        }
-      ],
-      "text": " Versine VersineApp Let your agent send and receive money for you",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -20582,6 +20768,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "小玖在撸毛",
+      "account": "Nftlumx9",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "苦瓜大王"
+      ],
+      "tgAlphas": [
+        "苦瓜大王"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-11T05:35:47+00:00",
+      "lastSeen": "2026-11-11T05:35:47+00:00",
+      "description": "采篱下野菊，揽清风半袖\n\n顺道薅几缕世间温柔",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "小玖在撸毛",
+          "account": "Nftlumx9",
+          "alpha": "苦瓜大王",
+          "seenAt": "2026-11-11T05:35:47+00:00",
+          "messageId": "dodtwitterbot/40595",
+          "description": "采篱下野菊，揽清风半袖\n\n顺道薅几缕世间温柔",
+          "text": "采篱下野菊，揽清风半袖\n\n顺道薅几缕世间温柔"
+        }
+      ],
+      "text": " 小玖在撸毛 Nftlumx9 采篱下野菊，揽清风半袖\n\n顺道薅几缕世间温柔",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "币安人",
       "account": "BiAnRen_AI",
       "sources": [
@@ -21179,6 +21399,23 @@
       "avatarUrl": ""
     },
     {
+      "project": "ChainChomp131",
+      "x_account": "ChainChomp131",
+      "total_mentions": 4,
+      "unique_alphas": 4,
+      "alphas": [
+        "poet",
+        "speest 💎",
+        "地推雷氏",
+        "雷氏"
+      ],
+      "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+      "first_seen_utc": "2026-11-09T15:22:59+00:00",
+      "last_seen_utc": "2026-11-11T06:04:36+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
       "project": "Elysium Pump",
       "x_account": "ElysiumPump",
       "total_mentions": 4,
@@ -21332,6 +21569,22 @@
       "avatarUrl": ""
     },
     {
+      "project": "000.fun",
+      "x_account": "000dotfun",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "unsynned",
+        "well",
+        "zyy"
+      ],
+      "description": "From zero to FUN. A token launchpad built on @LayerZero_Core",
+      "first_seen_utc": "2026-11-02T11:33:37+00:00",
+      "last_seen_utc": "2026-11-11T04:49:41+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
       "project": "0rigin",
       "x_account": "0rigindotfun",
       "total_mentions": 3,
@@ -21472,22 +21725,6 @@
       "description": "Cats. Coins. Assets.\nGenesis starts with 8,888 fully onchain DN404s.\nTelegram: https://t.co/DcEFYNTrJH",
       "first_seen_utc": "2026-11-05T08:12:57+00:00",
       "last_seen_utc": "2026-11-05T09:52:54+00:00",
-      "status": "priority",
-      "avatarUrl": ""
-    },
-    {
-      "project": "ChainChomp131",
-      "x_account": "ChainChomp131",
-      "total_mentions": 3,
-      "unique_alphas": 3,
-      "alphas": [
-        "poet",
-        "speest 💎",
-        "雷氏"
-      ],
-      "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
-      "first_seen_utc": "2026-11-09T15:22:59+00:00",
-      "last_seen_utc": "2026-11-10T17:35:08+00:00",
       "status": "priority",
       "avatarUrl": ""
     },
@@ -21860,6 +22097,22 @@
       "avatarUrl": ""
     },
     {
+      "project": "Peak Deploy",
+      "x_account": "peakdeploy",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "hit.ink",
+        "unsynned",
+        "well"
+      ],
+      "description": "Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade",
+      "first_seen_utc": "2026-11-10T06:51:46+00:00",
+      "last_seen_utc": "2026-11-11T07:58:50+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
       "project": "PerpMe",
       "x_account": "perpmefun",
       "total_mentions": 3,
@@ -22036,6 +22289,22 @@
       "avatarUrl": ""
     },
     {
+      "project": "Tick",
+      "x_account": "tick_fivebar",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "BearzVerse",
+        "unsynned",
+        "well"
+      ],
+      "description": "Im Tick, im @fivebar_xyz Agent in Charge",
+      "first_seen_utc": "2026-11-10T21:44:42+00:00",
+      "last_seen_utc": "2026-11-11T05:48:24+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
       "project": "tolls",
       "x_account": "tollsfun",
       "total_mentions": 3,
@@ -22084,6 +22353,22 @@
       "avatarUrl": ""
     },
     {
+      "project": "Versine",
+      "x_account": "VersineApp",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "BearzVerse",
+        "unsynned",
+        "well"
+      ],
+      "description": "Let your AI agent send and receive money for you.",
+      "first_seen_utc": "2026-11-10T18:56:47+00:00",
+      "last_seen_utc": "2026-11-11T05:48:24+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
       "project": "Wraith",
       "x_account": "WraithPrivacy",
       "total_mentions": 3,
@@ -22111,21 +22396,6 @@
       "description": "Borrow. Lend. Earn. The money market for Elysium.",
       "first_seen_utc": "2026-11-09T06:52:16+00:00",
       "last_seen_utc": "2026-11-09T06:54:56+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "000.fun",
-      "x_account": "000dotfun",
-      "total_mentions": 2,
-      "unique_alphas": 2,
-      "alphas": [
-        "unsynned",
-        "zyy"
-      ],
-      "description": "From zero to FUN. A token launchpad built on @LayerZero_Core",
-      "first_seen_utc": "2026-11-02T11:33:37+00:00",
-      "last_seen_utc": "2026-11-09T20:18:14+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -23101,21 +23371,6 @@
       "description": "Agentic USDC vaults on Elysium. Built on Morpho and Hyperliquid.",
       "first_seen_utc": "2026-11-09T18:46:48+00:00",
       "last_seen_utc": "2026-11-10T16:44:29+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Peak Deploy",
-      "x_account": "peakdeploy",
-      "total_mentions": 2,
-      "unique_alphas": 2,
-      "alphas": [
-        "hit.ink",
-        "unsynned"
-      ],
-      "description": "Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade",
-      "first_seen_utc": "2026-11-10T06:51:46+00:00",
-      "last_seen_utc": "2026-11-10T18:56:46+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -24839,6 +25094,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Flop Labs",
+      "x_account": "flop_labs",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "Building the currency for the agentic economy.",
+      "first_seen_utc": "2026-11-11T07:57:04+00:00",
+      "last_seen_utc": "2026-11-11T07:57:04+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Flora",
       "x_account": "FloraMontra",
       "total_mentions": 1,
@@ -25185,6 +25454,20 @@
       "description": "Gamer who enjoys the art of professional wrestling. HeyItsBoh@gmail.com",
       "first_seen_utc": "2026-11-10T11:34:14+00:00",
       "last_seen_utc": "2026-11-10T11:34:14+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Hive Desk",
+      "x_account": "thehivedesk",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "A佬"
+      ],
+      "description": "AI trading floor on OKX.\n\nFour agents. They plan. You place the order.\n\nNo exchange keys.\n\nBuilt by @Loydethecreator & @blueomegadawn\n\nPowered by @OKX Agents",
+      "first_seen_utc": "2026-11-11T07:08:18+00:00",
+      "last_seen_utc": "2026-11-11T07:08:18+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -27555,20 +27838,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Tick",
-      "x_account": "tick_fivebar",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "unsynned"
-      ],
-      "description": "Im Tick, im @fivebar_xyz Agent in Charge",
-      "first_seen_utc": "2026-11-10T21:44:42+00:00",
-      "last_seen_utc": "2026-11-10T21:44:42+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "TidePerps",
       "x_account": "tideperps",
       "total_mentions": 1,
@@ -27621,6 +27890,20 @@
       "description": "A launchpad that dreams in three chains from the first minute. Write it down: nobody can erase it.",
       "first_seen_utc": "2026-10-30T03:33:19+00:00",
       "last_seen_utc": "2026-10-30T03:33:19+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Token Guardian",
+      "x_account": "TokenGuardianAI",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "well"
+      ],
+      "description": "AI-powered on-chain due diligence for any token. Assess bundles, linked wallets and potential risks. We do not have a token.",
+      "first_seen_utc": "2026-11-11T01:59:34+00:00",
+      "last_seen_utc": "2026-11-11T01:59:34+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -27761,20 +28044,6 @@
       "description": "The first mining protocol on Elysium.",
       "first_seen_utc": "2026-11-02T16:43:33+00:00",
       "last_seen_utc": "2026-11-02T16:43:33+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Versine",
-      "x_account": "VersineApp",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "unsynned"
-      ],
-      "description": "Let your agent send and receive money for you",
-      "first_seen_utc": "2026-11-10T18:56:47+00:00",
-      "last_seen_utc": "2026-11-10T18:56:47+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -28031,6 +28300,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "小玖在撸毛",
+      "x_account": "Nftlumx9",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "苦瓜大王"
+      ],
+      "description": "采篱下野菊，揽清风半袖\n\n顺道薅几缕世间温柔",
+      "first_seen_utc": "2026-11-11T05:35:47+00:00",
+      "last_seen_utc": "2026-11-11T05:35:47+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "币安人",
       "x_account": "BiAnRen_AI",
       "total_mentions": 1,
@@ -28118,14 +28401,132 @@
   "daily": [
     {
       "date": "2026-11-11",
-      "totalRows": 14,
-      "projectCount": 14,
-      "focusCount": 0,
-      "candidateCount": 14,
+      "totalRows": 25,
+      "projectCount": 19,
+      "focusCount": 4,
+      "candidateCount": 15,
       "crossSource": 0,
-      "newCount": 9,
-      "repeatCount": 5,
+      "newCount": 13,
+      "repeatCount": 6,
       "projects": [
+        {
+          "project": "Tick",
+          "account": "tick_fivebar",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BearzVerse",
+            "unsynned",
+            "well"
+          ],
+          "tgAlphas": [
+            "BearzVerse",
+            "unsynned",
+            "well"
+          ],
+          "xAlphas": [],
+          "mentions": 3,
+          "firstSeen": "2026-11-10T21:44:42+00:00",
+          "lastSeen": "2026-11-11T05:48:24+00:00",
+          "description": "Im Tick, im @fivebar_xyz Agent in Charge",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Tick",
+              "account": "tick_fivebar",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-10T21:44:42+00:00",
+              "messageId": "dodtwitterbot/40582",
+              "description": "Im Tick, im @fivebar_xyz Agent in Charge",
+              "text": "Im Tick, im @fivebar_xyz Agent in Charge"
+            },
+            {
+              "source": "TG",
+              "project": "Tick",
+              "account": "tick_fivebar",
+              "alpha": "well",
+              "seenAt": "2026-11-11T01:46:57+00:00",
+              "messageId": "dodtwitterbot/40588",
+              "description": "Im Tick, im @fivebar_xyz Agent in Charge",
+              "text": "Im Tick, im @fivebar_xyz Agent in Charge"
+            },
+            {
+              "source": "TG",
+              "project": "Tick",
+              "account": "tick_fivebar",
+              "alpha": "BearzVerse",
+              "seenAt": "2026-11-11T05:48:24+00:00",
+              "messageId": "dodtwitterbot/40599",
+              "description": "Im Tick, im @fivebar_xyz Agent in Charge",
+              "text": "Im Tick, im @fivebar_xyz Agent in Charge"
+            }
+          ],
+          "text": " Tick tick_fivebar Im Tick, im @fivebar_xyz Agent in Charge Tick tick_fivebar Im Tick, im @fivebar_xyz Agent in Charge Tick tick_fivebar Im Tick, im @fivebar_xyz Agent in Charge",
+          "score": 6,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Versine",
+          "account": "VersineApp",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BearzVerse",
+            "unsynned",
+            "well"
+          ],
+          "tgAlphas": [
+            "BearzVerse",
+            "unsynned",
+            "well"
+          ],
+          "xAlphas": [],
+          "mentions": 3,
+          "firstSeen": "2026-11-10T18:56:47+00:00",
+          "lastSeen": "2026-11-11T05:48:24+00:00",
+          "description": "Let your AI agent send and receive money for you.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Versine",
+              "account": "VersineApp",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-10T18:56:47+00:00",
+              "messageId": "dodtwitterbot/40562",
+              "description": "Let your agent send and receive money for you",
+              "text": "Let your agent send and receive money for you"
+            },
+            {
+              "source": "TG",
+              "project": "Versine",
+              "account": "VersineApp",
+              "alpha": "well",
+              "seenAt": "2026-11-11T01:49:40+00:00",
+              "messageId": "dodtwitterbot/40589",
+              "description": "Let your AI agent send and receive money for you.",
+              "text": "Let your AI agent send and receive money for you."
+            },
+            {
+              "source": "TG",
+              "project": "Versine",
+              "account": "VersineApp",
+              "alpha": "BearzVerse",
+              "seenAt": "2026-11-11T05:48:24+00:00",
+              "messageId": "dodtwitterbot/40598",
+              "description": "Let your AI agent send and receive money for you.",
+              "text": "Let your AI agent send and receive money for you."
+            }
+          ],
+          "text": " Versine VersineApp Let your agent send and receive money for you Versine VersineApp Let your AI agent send and receive money for you. Versine VersineApp Let your AI agent send and receive money for you.",
+          "score": 6,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
         {
           "project": "ChainChomp131",
           "account": "ChainChomp131",
@@ -28133,15 +28534,17 @@
             "TG"
           ],
           "alphas": [
-            "speest 💎"
+            "speest 💎",
+            "地推雷氏"
           ],
           "tgAlphas": [
-            "speest 💎"
+            "speest 💎",
+            "地推雷氏"
           ],
           "xAlphas": [],
-          "mentions": 1,
+          "mentions": 2,
           "firstSeen": "2026-11-10T17:35:08+00:00",
-          "lastSeen": "2026-11-10T17:35:08+00:00",
+          "lastSeen": "2026-11-11T06:04:36+00:00",
           "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
           "rows": [
             {
@@ -28153,13 +28556,175 @@
               "messageId": "dodtwitterbot/40557",
               "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
               "text": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him"
+            },
+            {
+              "source": "TG",
+              "project": "ChainChomp131",
+              "account": "ChainChomp131",
+              "alpha": "地推雷氏",
+              "seenAt": "2026-11-11T06:04:36+00:00",
+              "messageId": "dodtwitterbot/40600",
+              "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+              "text": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him"
             }
           ],
-          "text": " ChainChomp131 ChainChomp131 20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+          "text": " ChainChomp131 ChainChomp131 20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him ChainChomp131 ChainChomp131 20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Peak Deploy",
+          "account": "peakdeploy",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned",
+            "well"
+          ],
+          "tgAlphas": [
+            "unsynned",
+            "well"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-11-10T18:56:46+00:00",
+          "lastSeen": "2026-11-11T07:58:50+00:00",
+          "description": "Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Peak Deploy",
+              "account": "peakdeploy",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-10T18:56:46+00:00",
+              "messageId": "dodtwitterbot/40561",
+              "description": "Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade",
+              "text": "Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade"
+            },
+            {
+              "source": "TG",
+              "project": "Peak Deploy",
+              "account": "peakdeploy",
+              "alpha": "well",
+              "seenAt": "2026-11-11T07:58:50+00:00",
+              "messageId": "dodtwitterbot/40609",
+              "description": "Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade",
+              "text": "Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade"
+            }
+          ],
+          "text": " Peak Deploy peakdeploy Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade Peak Deploy peakdeploy Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "000.fun",
+          "account": "000dotfun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "well"
+          ],
+          "tgAlphas": [
+            "well"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-11T04:49:41+00:00",
+          "lastSeen": "2026-11-11T04:49:41+00:00",
+          "description": "From zero to FUN. A token launchpad built on @LayerZero_Core",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "000.fun",
+              "account": "000dotfun",
+              "alpha": "well",
+              "seenAt": "2026-11-11T04:49:41+00:00",
+              "messageId": "dodtwitterbot/40592",
+              "description": "From zero to FUN. A token launchpad built on @LayerZero_Core",
+              "text": "From zero to FUN. A token launchpad built on @LayerZero_Core"
+            }
+          ],
+          "text": " 000.fun 000dotfun From zero to FUN. A token launchpad built on @LayerZero_Core",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
           "dayStatus": "repeat"
+        },
+        {
+          "project": "Flop Labs",
+          "account": "flop_labs",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-11T07:57:04+00:00",
+          "lastSeen": "2026-11-11T07:57:04+00:00",
+          "description": "Building the currency for the agentic economy.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Flop Labs",
+              "account": "flop_labs",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-11T07:57:04+00:00",
+              "messageId": "dodtwitterbot/40608",
+              "description": "Building the currency for the agentic economy.",
+              "text": "Building the currency for the agentic economy."
+            }
+          ],
+          "text": " Flop Labs flop_labs Building the currency for the agentic economy.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Hive Desk",
+          "account": "thehivedesk",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "A佬"
+          ],
+          "tgAlphas": [
+            "A佬"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-11T07:08:18+00:00",
+          "lastSeen": "2026-11-11T07:08:18+00:00",
+          "description": "AI trading floor on OKX.\n\nFour agents. They plan. You place the order.\n\nNo exchange keys.\n\nBuilt by @Loydethecreator & @blueomegadawn\n\nPowered by @OKX Agents",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Hive Desk",
+              "account": "thehivedesk",
+              "alpha": "A佬",
+              "seenAt": "2026-11-11T07:08:18+00:00",
+              "messageId": "dodtwitterbot/40605",
+              "description": "AI trading floor on OKX.\n\nFour agents. They plan. You place the order.\n\nNo exchange keys.\n\nBuilt by @Loydethecreator & @blueomegadawn\n\nPowered by @OKX Agents",
+              "text": "AI trading floor on OKX.\n\nFour agents. They plan. You place the order.\n\nNo exchange keys.\n\nBuilt by @Loydethecreator & @blueomegadawn\n\nPowered by @OKX Agents"
+            }
+          ],
+          "text": " Hive Desk thehivedesk AI trading floor on OKX.\n\nFour agents. They plan. You place the order.\n\nNo exchange keys.\n\nBuilt by @Loydethecreator & @blueomegadawn\n\nPowered by @OKX Agents",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
         },
         {
           "project": "IMPRINT",
@@ -28372,41 +28937,6 @@
           "dayStatus": "repeat"
         },
         {
-          "project": "Peak Deploy",
-          "account": "peakdeploy",
-          "sources": [
-            "TG"
-          ],
-          "alphas": [
-            "unsynned"
-          ],
-          "tgAlphas": [
-            "unsynned"
-          ],
-          "xAlphas": [],
-          "mentions": 1,
-          "firstSeen": "2026-11-10T18:56:46+00:00",
-          "lastSeen": "2026-11-10T18:56:46+00:00",
-          "description": "Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade",
-          "rows": [
-            {
-              "source": "TG",
-              "project": "Peak Deploy",
-              "account": "peakdeploy",
-              "alpha": "unsynned",
-              "seenAt": "2026-11-10T18:56:46+00:00",
-              "messageId": "dodtwitterbot/40561",
-              "description": "Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade",
-              "text": "Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade"
-            }
-          ],
-          "text": " Peak Deploy peakdeploy Turn a tweet into a token on Avalanche.\n\nPowered by @peakfuntrade",
-          "score": 2,
-          "displayTier": "candidate",
-          "avatarUrl": "",
-          "dayStatus": "repeat"
-        },
-        {
           "project": "Pocket Perps",
           "account": "pocketperps",
           "sources": [
@@ -28512,70 +29042,35 @@
           "dayStatus": "new"
         },
         {
-          "project": "Tick",
-          "account": "tick_fivebar",
+          "project": "Token Guardian",
+          "account": "TokenGuardianAI",
           "sources": [
             "TG"
           ],
           "alphas": [
-            "unsynned"
+            "well"
           ],
           "tgAlphas": [
-            "unsynned"
+            "well"
           ],
           "xAlphas": [],
           "mentions": 1,
-          "firstSeen": "2026-11-10T21:44:42+00:00",
-          "lastSeen": "2026-11-10T21:44:42+00:00",
-          "description": "Im Tick, im @fivebar_xyz Agent in Charge",
+          "firstSeen": "2026-11-11T01:59:34+00:00",
+          "lastSeen": "2026-11-11T01:59:34+00:00",
+          "description": "AI-powered on-chain due diligence for any token. Assess bundles, linked wallets and potential risks. We do not have a token.",
           "rows": [
             {
               "source": "TG",
-              "project": "Tick",
-              "account": "tick_fivebar",
-              "alpha": "unsynned",
-              "seenAt": "2026-11-10T21:44:42+00:00",
-              "messageId": "dodtwitterbot/40582",
-              "description": "Im Tick, im @fivebar_xyz Agent in Charge",
-              "text": "Im Tick, im @fivebar_xyz Agent in Charge"
+              "project": "Token Guardian",
+              "account": "TokenGuardianAI",
+              "alpha": "well",
+              "seenAt": "2026-11-11T01:59:34+00:00",
+              "messageId": "dodtwitterbot/40590",
+              "description": "AI-powered on-chain due diligence for any token. Assess bundles, linked wallets and potential risks. We do not have a token.",
+              "text": "AI-powered on-chain due diligence for any token. Assess bundles, linked wallets and potential risks. We do not have a token."
             }
           ],
-          "text": " Tick tick_fivebar Im Tick, im @fivebar_xyz Agent in Charge",
-          "score": 2,
-          "displayTier": "candidate",
-          "avatarUrl": "",
-          "dayStatus": "new"
-        },
-        {
-          "project": "Versine",
-          "account": "VersineApp",
-          "sources": [
-            "TG"
-          ],
-          "alphas": [
-            "unsynned"
-          ],
-          "tgAlphas": [
-            "unsynned"
-          ],
-          "xAlphas": [],
-          "mentions": 1,
-          "firstSeen": "2026-11-10T18:56:47+00:00",
-          "lastSeen": "2026-11-10T18:56:47+00:00",
-          "description": "Let your agent send and receive money for you",
-          "rows": [
-            {
-              "source": "TG",
-              "project": "Versine",
-              "account": "VersineApp",
-              "alpha": "unsynned",
-              "seenAt": "2026-11-10T18:56:47+00:00",
-              "messageId": "dodtwitterbot/40562",
-              "description": "Let your agent send and receive money for you",
-              "text": "Let your agent send and receive money for you"
-            }
-          ],
-          "text": " Versine VersineApp Let your agent send and receive money for you",
+          "text": " Token Guardian TokenGuardianAI AI-powered on-chain due diligence for any token. Assess bundles, linked wallets and potential risks. We do not have a token.",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -28611,6 +29106,41 @@
             }
           ],
           "text": " Yums yumsdotfun Direct token fees to X users. Pair any token to a handle and let them claim.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "小玖在撸毛",
+          "account": "Nftlumx9",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "苦瓜大王"
+          ],
+          "tgAlphas": [
+            "苦瓜大王"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-11T05:35:47+00:00",
+          "lastSeen": "2026-11-11T05:35:47+00:00",
+          "description": "采篱下野菊，揽清风半袖\n\n顺道薅几缕世间温柔",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "小玖在撸毛",
+              "account": "Nftlumx9",
+              "alpha": "苦瓜大王",
+              "seenAt": "2026-11-11T05:35:47+00:00",
+              "messageId": "dodtwitterbot/40595",
+              "description": "采篱下野菊，揽清风半袖\n\n顺道薅几缕世间温柔",
+              "text": "采篱下野菊，揽清风半袖\n\n顺道薅几缕世间温柔"
+            }
+          ],
+          "text": " 小玖在撸毛 Nftlumx9 采篱下野菊，揽清风半袖\n\n顺道薅几缕世间温柔",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -53108,239 +53638,244 @@
   ],
   "reports": [
     {
+      "file": "2026-11-11-0828-telegram-update.md",
+      "title": "2026-11-11-0828-telegram-update",
+      "updatedAt": "2026-11-11T08:28:25.772Z"
+    },
+    {
       "file": "2026-11-11-0130-telegram-update.md",
       "title": "2026-11-11-0130-telegram-update",
-      "updatedAt": "2026-11-11T01:30:07.504Z"
+      "updatedAt": "2026-11-11T08:28:23.931Z"
     },
     {
       "file": "2026-11-10-2037-telegram-update.md",
       "title": "2026-11-10-2037-telegram-update",
-      "updatedAt": "2026-11-11T01:30:05.383Z"
+      "updatedAt": "2026-11-11T08:28:23.931Z"
     },
     {
       "file": "2026-11-10-1348-telegram-update.md",
       "title": "2026-11-10-1348-telegram-update",
-      "updatedAt": "2026-11-11T01:30:05.383Z"
+      "updatedAt": "2026-11-11T08:28:23.931Z"
     },
     {
       "file": "2026-11-10-0351-telegram-update.md",
       "title": "2026-11-10-0351-telegram-update",
-      "updatedAt": "2026-11-11T01:30:05.382Z"
+      "updatedAt": "2026-11-11T08:28:23.931Z"
     },
     {
       "file": "2026-11-09-2013-telegram-update.md",
       "title": "2026-11-09-2013-telegram-update",
-      "updatedAt": "2026-11-11T01:30:05.382Z"
+      "updatedAt": "2026-11-11T08:28:23.931Z"
     },
     {
       "file": "2026-11-09-0844-telegram-update.md",
       "title": "2026-11-09-0844-telegram-update",
-      "updatedAt": "2026-11-11T01:30:05.382Z"
+      "updatedAt": "2026-11-11T08:28:23.931Z"
     },
     {
       "file": "2026-11-08-2123-telegram-update.md",
       "title": "2026-11-08-2123-telegram-update",
-      "updatedAt": "2026-11-11T01:30:05.382Z"
+      "updatedAt": "2026-11-11T08:28:23.931Z"
     },
     {
       "file": "2026-11-08-1623-telegram-update.md",
       "title": "2026-11-08-1623-telegram-update",
-      "updatedAt": "2026-11-11T01:30:05.382Z"
+      "updatedAt": "2026-11-11T08:28:23.931Z"
     },
     {
       "file": "2026-11-08-0804-telegram-update.md",
       "title": "2026-11-08-0804-telegram-update",
-      "updatedAt": "2026-11-11T01:30:05.382Z"
+      "updatedAt": "2026-11-11T08:28:23.931Z"
     },
     {
       "file": "2026-11-07-2106-telegram-update.md",
       "title": "2026-11-07-2106-telegram-update",
-      "updatedAt": "2026-11-11T01:30:05.382Z"
+      "updatedAt": "2026-11-11T08:28:23.931Z"
     },
     {
       "file": "2026-11-07-1556-telegram-update.md",
       "title": "2026-11-07-1556-telegram-update",
-      "updatedAt": "2026-11-11T01:30:05.382Z"
+      "updatedAt": "2026-11-11T08:28:23.931Z"
     },
     {
       "file": "2026-11-07-0751-telegram-update.md",
       "title": "2026-11-07-0751-telegram-update",
-      "updatedAt": "2026-11-11T01:30:05.382Z"
+      "updatedAt": "2026-11-11T08:28:23.931Z"
     },
     {
       "file": "2026-11-06-2226-telegram-update.md",
       "title": "2026-11-06-2226-telegram-update",
-      "updatedAt": "2026-11-11T01:30:05.382Z"
+      "updatedAt": "2026-11-11T08:28:23.931Z"
     },
     {
       "file": "2026-11-06-1658-telegram-update.md",
       "title": "2026-11-06-1658-telegram-update",
-      "updatedAt": "2026-11-11T01:30:05.382Z"
+      "updatedAt": "2026-11-11T08:28:23.931Z"
     },
     {
       "file": "2026-11-06-0835-telegram-update.md",
       "title": "2026-11-06-0835-telegram-update",
-      "updatedAt": "2026-11-11T01:30:05.382Z"
+      "updatedAt": "2026-11-11T08:28:23.931Z"
     },
     {
       "file": "2026-11-05-2256-telegram-update.md",
       "title": "2026-11-05-2256-telegram-update",
-      "updatedAt": "2026-11-11T01:30:05.382Z"
+      "updatedAt": "2026-11-11T08:28:23.931Z"
     },
     {
       "file": "2026-11-05-1742-telegram-update.md",
       "title": "2026-11-05-1742-telegram-update",
-      "updatedAt": "2026-11-11T01:30:05.382Z"
+      "updatedAt": "2026-11-11T08:28:23.931Z"
     },
     {
       "file": "2026-11-05-0836-telegram-update.md",
       "title": "2026-11-05-0836-telegram-update",
-      "updatedAt": "2026-11-11T01:30:05.382Z"
+      "updatedAt": "2026-11-11T08:28:23.931Z"
     },
     {
       "file": "2026-11-04-2255-telegram-update.md",
       "title": "2026-11-04-2255-telegram-update",
-      "updatedAt": "2026-11-11T01:30:05.382Z"
+      "updatedAt": "2026-11-11T08:28:23.931Z"
     },
     {
       "file": "2026-11-04-1737-telegram-update.md",
       "title": "2026-11-04-1737-telegram-update",
-      "updatedAt": "2026-11-11T01:30:05.382Z"
+      "updatedAt": "2026-11-11T08:28:23.931Z"
     },
     {
       "file": "2026-11-04-0810-telegram-update.md",
       "title": "2026-11-04-0810-telegram-update",
-      "updatedAt": "2026-11-11T01:30:05.382Z"
+      "updatedAt": "2026-11-11T08:28:23.931Z"
     },
     {
       "file": "2026-11-04-0143-telegram-update.md",
       "title": "2026-11-04-0143-telegram-update",
-      "updatedAt": "2026-11-11T01:30:05.382Z"
+      "updatedAt": "2026-11-11T08:28:23.931Z"
     },
     {
       "file": "2026-11-03-2018-telegram-update.md",
       "title": "2026-11-03-2018-telegram-update",
-      "updatedAt": "2026-11-11T01:30:05.382Z"
+      "updatedAt": "2026-11-11T08:28:23.931Z"
     },
     {
       "file": "2026-11-03-1302-telegram-update.md",
       "title": "2026-11-03-1302-telegram-update",
-      "updatedAt": "2026-11-11T01:30:05.382Z"
+      "updatedAt": "2026-11-11T08:28:23.931Z"
     },
     {
       "file": "2026-11-03-0306-telegram-update.md",
       "title": "2026-11-03-0306-telegram-update",
-      "updatedAt": "2026-11-11T01:30:05.382Z"
+      "updatedAt": "2026-11-11T08:28:23.931Z"
     },
     {
       "file": "2026-11-02-1950-telegram-update.md",
       "title": "2026-11-02-1950-telegram-update",
-      "updatedAt": "2026-11-11T01:30:05.382Z"
+      "updatedAt": "2026-11-11T08:28:23.931Z"
     },
     {
       "file": "2026-11-02-0826-telegram-update.md",
       "title": "2026-11-02-0826-telegram-update",
-      "updatedAt": "2026-11-11T01:30:05.382Z"
+      "updatedAt": "2026-11-11T08:28:23.931Z"
     },
     {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-11T01:30:05.382Z"
+      "updatedAt": "2026-11-11T08:28:23.931Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-11T01:30:05.382Z"
+      "updatedAt": "2026-11-11T08:28:23.931Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-11T01:30:05.382Z"
+      "updatedAt": "2026-11-11T08:28:23.931Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-11T01:30:05.382Z"
+      "updatedAt": "2026-11-11T08:28:23.931Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-11T01:30:05.382Z"
+      "updatedAt": "2026-11-11T08:28:23.931Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-11T01:30:05.382Z"
+      "updatedAt": "2026-11-11T08:28:23.931Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-11T01:30:05.382Z"
+      "updatedAt": "2026-11-11T08:28:23.931Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-11T01:30:05.382Z"
+      "updatedAt": "2026-11-11T08:28:23.931Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-11T01:30:05.382Z"
+      "updatedAt": "2026-11-11T08:28:23.931Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-11T01:30:05.382Z"
+      "updatedAt": "2026-11-11T08:28:23.931Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-11T01:30:05.382Z"
+      "updatedAt": "2026-11-11T08:28:23.931Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-11T01:30:05.382Z"
+      "updatedAt": "2026-11-11T08:28:23.931Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-11T01:30:05.382Z"
+      "updatedAt": "2026-11-11T08:28:23.931Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-11T01:30:05.382Z"
+      "updatedAt": "2026-11-11T08:28:23.931Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-11T01:30:05.382Z"
+      "updatedAt": "2026-11-11T08:28:23.931Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-11T01:30:05.382Z"
+      "updatedAt": "2026-11-11T08:28:23.931Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-11T01:30:05.382Z"
+      "updatedAt": "2026-11-11T08:28:23.931Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-11T01:30:05.382Z"
+      "updatedAt": "2026-11-11T08:28:23.931Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-11T01:30:05.382Z"
+      "updatedAt": "2026-11-11T08:28:23.931Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-11T01:30:05.381Z"
+      "updatedAt": "2026-11-11T08:28:23.930Z"
     }
   ]
 }
