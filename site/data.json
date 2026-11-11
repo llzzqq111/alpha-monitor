@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-10T20:37:55.726Z",
+  "generatedAt": "2026-11-11T01:30:07.638Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 40570,
-    "lastMessageAt": "2026-11-10T20:28:42+00:00",
-    "lastCheckedAt": "2026-11-10T20:37:55.469Z",
-    "previousMessageId": 40527,
-    "pagesRead": 3,
-    "messagesRead": 43,
-    "newProjectRecords": 14,
+    "lastMessageId": 40587,
+    "lastMessageAt": "2026-11-10T23:58:01+00:00",
+    "lastCheckedAt": "2026-11-11T01:30:07.504Z",
+    "previousMessageId": 40570,
+    "pagesRead": 1,
+    "messagesRead": 17,
+    "newProjectRecords": 6,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 806,
+    "telegramRows": 812,
     "xRows": 0,
-    "projects": 496,
+    "projects": 501,
     "crossSource": 0
   },
   "projects": [
@@ -7680,6 +7680,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "LayerZero",
+      "account": "LayerZero_Core",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "CSR",
+        "zyy"
+      ],
+      "tgAlphas": [
+        "CSR",
+        "zyy"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-02T11:33:32+00:00",
+      "lastSeen": "2026-11-10T21:34:35+00:00",
+      "description": "Better Money Technology. Better Markets Technology. // @LayerZero_Fndn ㅤ",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "LayerZero",
+          "account": "LayerZero_Core",
+          "alpha": "zyy",
+          "seenAt": "2026-11-02T11:33:32+00:00",
+          "messageId": "dodtwitterbot/39228",
+          "description": "Better Money Technology. Better Markets Technology. // @LayerZero_Fndn ㅤ",
+          "text": "Better Money Technology. Better Markets Technology. // @LayerZero_Fndn ㅤ"
+        },
+        {
+          "source": "TG",
+          "project": "LayerZero",
+          "account": "LayerZero_Core",
+          "alpha": "CSR",
+          "seenAt": "2026-11-10T21:34:35+00:00",
+          "messageId": "dodtwitterbot/40576",
+          "description": "Better Money Technology. Better Markets Technology. // @LayerZero_Fndn ㅤ",
+          "text": "Better Money Technology. Better Markets Technology. // @LayerZero_Fndn ㅤ"
+        }
+      ],
+      "text": " LayerZero LayerZero_Core Better Money Technology. Better Markets Technology. // @LayerZero_Fndn ㅤ LayerZero LayerZero_Core Better Money Technology. Better Markets Technology. // @LayerZero_Fndn ㅤ",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "LiGuRR",
       "account": "LigurrNFT",
       "sources": [
@@ -14314,6 +14360,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Index Industries",
+      "account": "Index_inds",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-10T21:42:48+00:00",
+      "lastSeen": "2026-11-10T21:42:48+00:00",
+      "description": "Index Industries creates infrastructure that reshapes how the world accesses and invests in real estate.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Index Industries",
+          "account": "Index_inds",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-10T21:42:48+00:00",
+          "messageId": "dodtwitterbot/40577",
+          "description": "Index Industries creates infrastructure that reshapes how the world accesses and invests in real estate.",
+          "text": "Index Industries creates infrastructure that reshapes how the world accesses and invests in real estate."
+        }
+      ],
+      "text": " Index Industries Index_inds Index Industries creates infrastructure that reshapes how the world accesses and invests in real estate.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Injective 🥷",
       "account": "injective",
       "sources": [
@@ -14819,40 +14899,6 @@
         }
       ],
       "text": " Lampos lamposxyz A world for your next idea. Launch and trade tokens on Elysium. Creator fees, shared your way.",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
-      "project": "LayerZero",
-      "account": "LayerZero_Core",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "zyy"
-      ],
-      "tgAlphas": [
-        "zyy"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-02T11:33:32+00:00",
-      "lastSeen": "2026-11-02T11:33:32+00:00",
-      "description": "Better Money Technology. Better Markets Technology. // @LayerZero_Fndn ㅤ",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "LayerZero",
-          "account": "LayerZero_Core",
-          "alpha": "zyy",
-          "seenAt": "2026-11-02T11:33:32+00:00",
-          "messageId": "dodtwitterbot/39228",
-          "description": "Better Money Technology. Better Markets Technology. // @LayerZero_Fndn ㅤ",
-          "text": "Better Money Technology. Better Markets Technology. // @LayerZero_Fndn ㅤ"
-        }
-      ],
-      "text": " LayerZero LayerZero_Core Better Money Technology. Better Markets Technology. // @LayerZero_Fndn ㅤ",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -15431,6 +15477,40 @@
         }
       ],
       "text": " Mehmski Mehmski Corporate Tax Lawyer tuned into crypto / Game is game",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Meron",
+      "account": "MeronElysium",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Mutu 🕸️"
+      ],
+      "tgAlphas": [
+        "Mutu 🕸️"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-10T21:20:41+00:00",
+      "lastSeen": "2026-11-10T21:20:41+00:00",
+      "description": "Launch a coin on @Enter_Elysium and choose where every trade fee goes: you, holders, buyback and burn, or a @Hyperliquidx perp.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Meron",
+          "account": "MeronElysium",
+          "alpha": "Mutu 🕸️",
+          "seenAt": "2026-11-10T21:20:41+00:00",
+          "messageId": "dodtwitterbot/40574",
+          "description": "Launch a coin on @Enter_Elysium and choose where every trade fee goes: you, holders, buyback and burn, or a @Hyperliquidx perp.",
+          "text": "Launch a coin on @Enter_Elysium and choose where every trade fee goes: you, holders, buyback and burn, or a @Hyperliquidx perp."
+        }
+      ],
+      "text": " Meron MeronElysium Launch a coin on @Enter_Elysium and choose where every trade fee goes: you, holders, buyback and burn, or a @Hyperliquidx perp.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -17748,6 +17828,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Rings Pad",
+      "account": "ringspadsol",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Mutu 🕸️"
+      ],
+      "tgAlphas": [
+        "Mutu 🕸️"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-10T20:52:50+00:00",
+      "lastSeen": "2026-11-10T20:52:50+00:00",
+      "description": "Bringing Helius Privacy Rings to token launches on Solana. Seal your request. Get your share at a fixed price.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Rings Pad",
+          "account": "ringspadsol",
+          "alpha": "Mutu 🕸️",
+          "seenAt": "2026-11-10T20:52:50+00:00",
+          "messageId": "dodtwitterbot/40571",
+          "description": "Bringing Helius Privacy Rings to token launches on Solana. Seal your request. Get your share at a fixed price.",
+          "text": "Bringing Helius Privacy Rings to token launches on Solana. Seal your request. Get your share at a fixed price."
+        }
+      ],
+      "text": " Rings Pad ringspadsol Bringing Helius Privacy Rings to token launches on Solana. Seal your request. Get your share at a fixed price.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "RINSED",
       "account": "rinseddotfun",
       "sources": [
@@ -19142,6 +19256,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Tero",
+      "account": "LaunchOnTero",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-10T21:44:41+00:00",
+      "lastSeen": "2026-11-10T21:44:41+00:00",
+      "description": "A new era of token creation",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Tero",
+          "account": "LaunchOnTero",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-10T21:44:41+00:00",
+          "messageId": "dodtwitterbot/40581",
+          "description": "A new era of token creation",
+          "text": "A new era of token creation"
+        }
+      ],
+      "text": " Tero LaunchOnTero A new era of token creation",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "The Agentic Economist",
       "account": "agentic_economy",
       "sources": [
@@ -19273,6 +19421,40 @@
         }
       ],
       "text": " THE PODS thepodnft 111 ai slops coming soon on @Enter_Elysium",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Tick",
+      "account": "tick_fivebar",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-10T21:44:42+00:00",
+      "lastSeen": "2026-11-10T21:44:42+00:00",
+      "description": "Im Tick, im @fivebar_xyz Agent in Charge",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Tick",
+          "account": "tick_fivebar",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-10T21:44:42+00:00",
+          "messageId": "dodtwitterbot/40582",
+          "description": "Im Tick, im @fivebar_xyz Agent in Charge",
+          "text": "Im Tick, im @fivebar_xyz Agent in Charge"
+        }
+      ],
+      "text": " Tick tick_fivebar Im Tick, im @fivebar_xyz Agent in Charge",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -22698,6 +22880,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "LayerZero",
+      "x_account": "LayerZero_Core",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "CSR",
+        "zyy"
+      ],
+      "description": "Better Money Technology. Better Markets Technology. // @LayerZero_Fndn ㅤ",
+      "first_seen_utc": "2026-11-02T11:33:32+00:00",
+      "last_seen_utc": "2026-11-10T21:34:35+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "LiGuRR",
       "x_account": "LigurrNFT",
       "total_mentions": 2,
@@ -25272,6 +25469,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Index Industries",
+      "x_account": "Index_inds",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "unsynned"
+      ],
+      "description": "Index Industries creates infrastructure that reshapes how the world accesses and invests in real estate.",
+      "first_seen_utc": "2026-11-10T21:42:48+00:00",
+      "last_seen_utc": "2026-11-10T21:42:48+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Injective 🥷",
       "x_account": "injective",
       "total_mentions": 1,
@@ -25478,20 +25689,6 @@
       "description": "A world for your next idea. Launch and trade tokens on Elysium. Creator fees, shared your way.",
       "first_seen_utc": "2026-11-09T09:24:12+00:00",
       "last_seen_utc": "2026-11-09T09:24:12+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "LayerZero",
-      "x_account": "LayerZero_Core",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "zyy"
-      ],
-      "description": "Better Money Technology. Better Markets Technology. // @LayerZero_Fndn ㅤ",
-      "first_seen_utc": "2026-11-02T11:33:32+00:00",
-      "last_seen_utc": "2026-11-02T11:33:32+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -25730,6 +25927,20 @@
       "description": "Corporate Tax Lawyer tuned into crypto / Game is game",
       "first_seen_utc": "2026-10-28T20:38:57+00:00",
       "last_seen_utc": "2026-10-28T20:38:57+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Meron",
+      "x_account": "MeronElysium",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "Mutu 🕸️"
+      ],
+      "description": "Launch a coin on @Enter_Elysium and choose where every trade fee goes: you, holders, buyback and burn, or a @Hyperliquidx perp.",
+      "first_seen_utc": "2026-11-10T21:20:41+00:00",
+      "last_seen_utc": "2026-11-10T21:20:41+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -26686,6 +26897,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Rings Pad",
+      "x_account": "ringspadsol",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "Mutu 🕸️"
+      ],
+      "description": "Bringing Helius Privacy Rings to token launches on Solana. Seal your request. Get your share at a fixed price.",
+      "first_seen_utc": "2026-11-10T20:52:50+00:00",
+      "last_seen_utc": "2026-11-10T20:52:50+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "RINSED",
       "x_account": "rinseddotfun",
       "total_mentions": 1,
@@ -27260,6 +27485,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Tero",
+      "x_account": "LaunchOnTero",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "unsynned"
+      ],
+      "description": "A new era of token creation",
+      "first_seen_utc": "2026-11-10T21:44:41+00:00",
+      "last_seen_utc": "2026-11-10T21:44:41+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "The Agentic Economist",
       "x_account": "agentic_economy",
       "total_mentions": 1,
@@ -27312,6 +27551,20 @@
       "description": "111 ai slops coming soon on @Enter_Elysium",
       "first_seen_utc": "2026-11-06T11:05:21+00:00",
       "last_seen_utc": "2026-11-06T11:05:21+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Tick",
+      "x_account": "tick_fivebar",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "unsynned"
+      ],
+      "description": "Im Tick, im @fivebar_xyz Agent in Charge",
+      "first_seen_utc": "2026-11-10T21:44:42+00:00",
+      "last_seen_utc": "2026-11-10T21:44:42+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -27865,13 +28118,13 @@
   "daily": [
     {
       "date": "2026-11-11",
-      "totalRows": 8,
-      "projectCount": 8,
+      "totalRows": 14,
+      "projectCount": 14,
       "focusCount": 0,
-      "candidateCount": 8,
+      "candidateCount": 14,
       "crossSource": 0,
-      "newCount": 4,
-      "repeatCount": 4,
+      "newCount": 9,
+      "repeatCount": 5,
       "projects": [
         {
           "project": "ChainChomp131",
@@ -27942,6 +28195,111 @@
           "displayTier": "candidate",
           "avatarUrl": "",
           "dayStatus": "repeat"
+        },
+        {
+          "project": "Index Industries",
+          "account": "Index_inds",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-10T21:42:48+00:00",
+          "lastSeen": "2026-11-10T21:42:48+00:00",
+          "description": "Index Industries creates infrastructure that reshapes how the world accesses and invests in real estate.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Index Industries",
+              "account": "Index_inds",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-10T21:42:48+00:00",
+              "messageId": "dodtwitterbot/40577",
+              "description": "Index Industries creates infrastructure that reshapes how the world accesses and invests in real estate.",
+              "text": "Index Industries creates infrastructure that reshapes how the world accesses and invests in real estate."
+            }
+          ],
+          "text": " Index Industries Index_inds Index Industries creates infrastructure that reshapes how the world accesses and invests in real estate.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "LayerZero",
+          "account": "LayerZero_Core",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "CSR"
+          ],
+          "tgAlphas": [
+            "CSR"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-10T21:34:35+00:00",
+          "lastSeen": "2026-11-10T21:34:35+00:00",
+          "description": "Better Money Technology. Better Markets Technology. // @LayerZero_Fndn ㅤ",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "LayerZero",
+              "account": "LayerZero_Core",
+              "alpha": "CSR",
+              "seenAt": "2026-11-10T21:34:35+00:00",
+              "messageId": "dodtwitterbot/40576",
+              "description": "Better Money Technology. Better Markets Technology. // @LayerZero_Fndn ㅤ",
+              "text": "Better Money Technology. Better Markets Technology. // @LayerZero_Fndn ㅤ"
+            }
+          ],
+          "text": " LayerZero LayerZero_Core Better Money Technology. Better Markets Technology. // @LayerZero_Fndn ㅤ",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Meron",
+          "account": "MeronElysium",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Mutu 🕸️"
+          ],
+          "tgAlphas": [
+            "Mutu 🕸️"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-10T21:20:41+00:00",
+          "lastSeen": "2026-11-10T21:20:41+00:00",
+          "description": "Launch a coin on @Enter_Elysium and choose where every trade fee goes: you, holders, buyback and burn, or a @Hyperliquidx perp.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Meron",
+              "account": "MeronElysium",
+              "alpha": "Mutu 🕸️",
+              "seenAt": "2026-11-10T21:20:41+00:00",
+              "messageId": "dodtwitterbot/40574",
+              "description": "Launch a coin on @Enter_Elysium and choose where every trade fee goes: you, holders, buyback and burn, or a @Hyperliquidx perp.",
+              "text": "Launch a coin on @Enter_Elysium and choose where every trade fee goes: you, holders, buyback and burn, or a @Hyperliquidx perp."
+            }
+          ],
+          "text": " Meron MeronElysium Launch a coin on @Enter_Elysium and choose where every trade fee goes: you, holders, buyback and burn, or a @Hyperliquidx perp.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
         },
         {
           "project": "Modulyn",
@@ -28078,6 +28436,111 @@
             }
           ],
           "text": " Pocket Perps pocketperps Perps for the People | Powered by Hyperliquid",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Rings Pad",
+          "account": "ringspadsol",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Mutu 🕸️"
+          ],
+          "tgAlphas": [
+            "Mutu 🕸️"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-10T20:52:50+00:00",
+          "lastSeen": "2026-11-10T20:52:50+00:00",
+          "description": "Bringing Helius Privacy Rings to token launches on Solana. Seal your request. Get your share at a fixed price.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Rings Pad",
+              "account": "ringspadsol",
+              "alpha": "Mutu 🕸️",
+              "seenAt": "2026-11-10T20:52:50+00:00",
+              "messageId": "dodtwitterbot/40571",
+              "description": "Bringing Helius Privacy Rings to token launches on Solana. Seal your request. Get your share at a fixed price.",
+              "text": "Bringing Helius Privacy Rings to token launches on Solana. Seal your request. Get your share at a fixed price."
+            }
+          ],
+          "text": " Rings Pad ringspadsol Bringing Helius Privacy Rings to token launches on Solana. Seal your request. Get your share at a fixed price.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Tero",
+          "account": "LaunchOnTero",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-10T21:44:41+00:00",
+          "lastSeen": "2026-11-10T21:44:41+00:00",
+          "description": "A new era of token creation",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Tero",
+              "account": "LaunchOnTero",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-10T21:44:41+00:00",
+              "messageId": "dodtwitterbot/40581",
+              "description": "A new era of token creation",
+              "text": "A new era of token creation"
+            }
+          ],
+          "text": " Tero LaunchOnTero A new era of token creation",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Tick",
+          "account": "tick_fivebar",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-10T21:44:42+00:00",
+          "lastSeen": "2026-11-10T21:44:42+00:00",
+          "description": "Im Tick, im @fivebar_xyz Agent in Charge",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Tick",
+              "account": "tick_fivebar",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-10T21:44:42+00:00",
+              "messageId": "dodtwitterbot/40582",
+              "description": "Im Tick, im @fivebar_xyz Agent in Charge",
+              "text": "Im Tick, im @fivebar_xyz Agent in Charge"
+            }
+          ],
+          "text": " Tick tick_fivebar Im Tick, im @fivebar_xyz Agent in Charge",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -52645,234 +53108,239 @@
   ],
   "reports": [
     {
+      "file": "2026-11-11-0130-telegram-update.md",
+      "title": "2026-11-11-0130-telegram-update",
+      "updatedAt": "2026-11-11T01:30:07.504Z"
+    },
+    {
       "file": "2026-11-10-2037-telegram-update.md",
       "title": "2026-11-10-2037-telegram-update",
-      "updatedAt": "2026-11-10T20:37:55.469Z"
+      "updatedAt": "2026-11-11T01:30:05.383Z"
     },
     {
       "file": "2026-11-10-1348-telegram-update.md",
       "title": "2026-11-10-1348-telegram-update",
-      "updatedAt": "2026-11-10T20:37:49.554Z"
+      "updatedAt": "2026-11-11T01:30:05.383Z"
     },
     {
       "file": "2026-11-10-0351-telegram-update.md",
       "title": "2026-11-10-0351-telegram-update",
-      "updatedAt": "2026-11-10T20:37:49.554Z"
+      "updatedAt": "2026-11-11T01:30:05.382Z"
     },
     {
       "file": "2026-11-09-2013-telegram-update.md",
       "title": "2026-11-09-2013-telegram-update",
-      "updatedAt": "2026-11-10T20:37:49.554Z"
+      "updatedAt": "2026-11-11T01:30:05.382Z"
     },
     {
       "file": "2026-11-09-0844-telegram-update.md",
       "title": "2026-11-09-0844-telegram-update",
-      "updatedAt": "2026-11-10T20:37:49.554Z"
+      "updatedAt": "2026-11-11T01:30:05.382Z"
     },
     {
       "file": "2026-11-08-2123-telegram-update.md",
       "title": "2026-11-08-2123-telegram-update",
-      "updatedAt": "2026-11-10T20:37:49.554Z"
+      "updatedAt": "2026-11-11T01:30:05.382Z"
     },
     {
       "file": "2026-11-08-1623-telegram-update.md",
       "title": "2026-11-08-1623-telegram-update",
-      "updatedAt": "2026-11-10T20:37:49.554Z"
+      "updatedAt": "2026-11-11T01:30:05.382Z"
     },
     {
       "file": "2026-11-08-0804-telegram-update.md",
       "title": "2026-11-08-0804-telegram-update",
-      "updatedAt": "2026-11-10T20:37:49.553Z"
+      "updatedAt": "2026-11-11T01:30:05.382Z"
     },
     {
       "file": "2026-11-07-2106-telegram-update.md",
       "title": "2026-11-07-2106-telegram-update",
-      "updatedAt": "2026-11-10T20:37:49.553Z"
+      "updatedAt": "2026-11-11T01:30:05.382Z"
     },
     {
       "file": "2026-11-07-1556-telegram-update.md",
       "title": "2026-11-07-1556-telegram-update",
-      "updatedAt": "2026-11-10T20:37:49.553Z"
+      "updatedAt": "2026-11-11T01:30:05.382Z"
     },
     {
       "file": "2026-11-07-0751-telegram-update.md",
       "title": "2026-11-07-0751-telegram-update",
-      "updatedAt": "2026-11-10T20:37:49.553Z"
+      "updatedAt": "2026-11-11T01:30:05.382Z"
     },
     {
       "file": "2026-11-06-2226-telegram-update.md",
       "title": "2026-11-06-2226-telegram-update",
-      "updatedAt": "2026-11-10T20:37:49.553Z"
+      "updatedAt": "2026-11-11T01:30:05.382Z"
     },
     {
       "file": "2026-11-06-1658-telegram-update.md",
       "title": "2026-11-06-1658-telegram-update",
-      "updatedAt": "2026-11-10T20:37:49.553Z"
+      "updatedAt": "2026-11-11T01:30:05.382Z"
     },
     {
       "file": "2026-11-06-0835-telegram-update.md",
       "title": "2026-11-06-0835-telegram-update",
-      "updatedAt": "2026-11-10T20:37:49.553Z"
+      "updatedAt": "2026-11-11T01:30:05.382Z"
     },
     {
       "file": "2026-11-05-2256-telegram-update.md",
       "title": "2026-11-05-2256-telegram-update",
-      "updatedAt": "2026-11-10T20:37:49.553Z"
+      "updatedAt": "2026-11-11T01:30:05.382Z"
     },
     {
       "file": "2026-11-05-1742-telegram-update.md",
       "title": "2026-11-05-1742-telegram-update",
-      "updatedAt": "2026-11-10T20:37:49.553Z"
+      "updatedAt": "2026-11-11T01:30:05.382Z"
     },
     {
       "file": "2026-11-05-0836-telegram-update.md",
       "title": "2026-11-05-0836-telegram-update",
-      "updatedAt": "2026-11-10T20:37:49.553Z"
+      "updatedAt": "2026-11-11T01:30:05.382Z"
     },
     {
       "file": "2026-11-04-2255-telegram-update.md",
       "title": "2026-11-04-2255-telegram-update",
-      "updatedAt": "2026-11-10T20:37:49.553Z"
+      "updatedAt": "2026-11-11T01:30:05.382Z"
     },
     {
       "file": "2026-11-04-1737-telegram-update.md",
       "title": "2026-11-04-1737-telegram-update",
-      "updatedAt": "2026-11-10T20:37:49.553Z"
+      "updatedAt": "2026-11-11T01:30:05.382Z"
     },
     {
       "file": "2026-11-04-0810-telegram-update.md",
       "title": "2026-11-04-0810-telegram-update",
-      "updatedAt": "2026-11-10T20:37:49.553Z"
+      "updatedAt": "2026-11-11T01:30:05.382Z"
     },
     {
       "file": "2026-11-04-0143-telegram-update.md",
       "title": "2026-11-04-0143-telegram-update",
-      "updatedAt": "2026-11-10T20:37:49.553Z"
+      "updatedAt": "2026-11-11T01:30:05.382Z"
     },
     {
       "file": "2026-11-03-2018-telegram-update.md",
       "title": "2026-11-03-2018-telegram-update",
-      "updatedAt": "2026-11-10T20:37:49.553Z"
+      "updatedAt": "2026-11-11T01:30:05.382Z"
     },
     {
       "file": "2026-11-03-1302-telegram-update.md",
       "title": "2026-11-03-1302-telegram-update",
-      "updatedAt": "2026-11-10T20:37:49.553Z"
+      "updatedAt": "2026-11-11T01:30:05.382Z"
     },
     {
       "file": "2026-11-03-0306-telegram-update.md",
       "title": "2026-11-03-0306-telegram-update",
-      "updatedAt": "2026-11-10T20:37:49.553Z"
+      "updatedAt": "2026-11-11T01:30:05.382Z"
     },
     {
       "file": "2026-11-02-1950-telegram-update.md",
       "title": "2026-11-02-1950-telegram-update",
-      "updatedAt": "2026-11-10T20:37:49.553Z"
+      "updatedAt": "2026-11-11T01:30:05.382Z"
     },
     {
       "file": "2026-11-02-0826-telegram-update.md",
       "title": "2026-11-02-0826-telegram-update",
-      "updatedAt": "2026-11-10T20:37:49.553Z"
+      "updatedAt": "2026-11-11T01:30:05.382Z"
     },
     {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-10T20:37:49.553Z"
+      "updatedAt": "2026-11-11T01:30:05.382Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-10T20:37:49.553Z"
+      "updatedAt": "2026-11-11T01:30:05.382Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-10T20:37:49.553Z"
+      "updatedAt": "2026-11-11T01:30:05.382Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-10T20:37:49.553Z"
+      "updatedAt": "2026-11-11T01:30:05.382Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-10T20:37:49.553Z"
+      "updatedAt": "2026-11-11T01:30:05.382Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-10T20:37:49.553Z"
+      "updatedAt": "2026-11-11T01:30:05.382Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-10T20:37:49.553Z"
+      "updatedAt": "2026-11-11T01:30:05.382Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-10T20:37:49.552Z"
+      "updatedAt": "2026-11-11T01:30:05.382Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-10T20:37:49.552Z"
+      "updatedAt": "2026-11-11T01:30:05.382Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-10T20:37:49.552Z"
+      "updatedAt": "2026-11-11T01:30:05.382Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-10T20:37:49.552Z"
+      "updatedAt": "2026-11-11T01:30:05.382Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-10T20:37:49.552Z"
+      "updatedAt": "2026-11-11T01:30:05.382Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-10T20:37:49.552Z"
+      "updatedAt": "2026-11-11T01:30:05.382Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-10T20:37:49.552Z"
+      "updatedAt": "2026-11-11T01:30:05.382Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-10T20:37:49.552Z"
+      "updatedAt": "2026-11-11T01:30:05.382Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-10T20:37:49.552Z"
+      "updatedAt": "2026-11-11T01:30:05.382Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-10T20:37:49.552Z"
+      "updatedAt": "2026-11-11T01:30:05.382Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-10T20:37:49.552Z"
+      "updatedAt": "2026-11-11T01:30:05.382Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-10T20:37:49.552Z"
+      "updatedAt": "2026-11-11T01:30:05.382Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-10T20:37:49.552Z"
+      "updatedAt": "2026-11-11T01:30:05.381Z"
     }
   ]
 }
