@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-11T08:28:25.947Z",
+  "generatedAt": "2026-11-11T17:29:01.105Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 40613,
-    "lastMessageAt": "2026-11-11T08:24:44+00:00",
-    "lastCheckedAt": "2026-11-11T08:28:25.773Z",
-    "previousMessageId": 40587,
+    "lastMessageId": 40652,
+    "lastMessageAt": "2026-11-11T17:20:27+00:00",
+    "lastCheckedAt": "2026-11-11T17:29:00.852Z",
+    "previousMessageId": 40613,
     "pagesRead": 2,
-    "messagesRead": 26,
-    "newProjectRecords": 11,
+    "messagesRead": 39,
+    "newProjectRecords": 9,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 823,
+    "telegramRows": 832,
     "xRows": 0,
-    "projects": 505,
+    "projects": 511,
     "crossSource": 0
   },
   "projects": [
@@ -1172,6 +1172,88 @@
       "avatarUrl": ""
     },
     {
+      "project": "ChainChomp131",
+      "account": "ChainChomp131",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Skrchen666(钻石手伤心版 绝对纸手之人）",
+        "poet",
+        "speest 💎",
+        "地推雷氏",
+        "雷氏"
+      ],
+      "tgAlphas": [
+        "Skrchen666(钻石手伤心版 绝对纸手之人）",
+        "poet",
+        "speest 💎",
+        "地推雷氏",
+        "雷氏"
+      ],
+      "xAlphas": [],
+      "mentions": 5,
+      "firstSeen": "2026-11-09T15:22:59+00:00",
+      "lastSeen": "2026-11-11T10:21:05+00:00",
+      "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "ChainChomp131",
+          "account": "ChainChomp131",
+          "alpha": "poet",
+          "seenAt": "2026-11-09T15:22:59+00:00",
+          "messageId": "dodtwitterbot/40442",
+          "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+          "text": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him"
+        },
+        {
+          "source": "TG",
+          "project": "ChainChomp131",
+          "account": "ChainChomp131",
+          "alpha": "雷氏",
+          "seenAt": "2026-11-10T05:25:48+00:00",
+          "messageId": "dodtwitterbot/40483",
+          "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+          "text": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him"
+        },
+        {
+          "source": "TG",
+          "project": "ChainChomp131",
+          "account": "ChainChomp131",
+          "alpha": "speest 💎",
+          "seenAt": "2026-11-10T17:35:08+00:00",
+          "messageId": "dodtwitterbot/40557",
+          "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+          "text": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him"
+        },
+        {
+          "source": "TG",
+          "project": "ChainChomp131",
+          "account": "ChainChomp131",
+          "alpha": "地推雷氏",
+          "seenAt": "2026-11-11T06:04:36+00:00",
+          "messageId": "dodtwitterbot/40600",
+          "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+          "text": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him"
+        },
+        {
+          "source": "TG",
+          "project": "ChainChomp131",
+          "account": "ChainChomp131",
+          "alpha": "Skrchen666(钻石手伤心版 绝对纸手之人）",
+          "seenAt": "2026-11-11T10:21:05+00:00",
+          "messageId": "dodtwitterbot/40620",
+          "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+          "text": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him"
+        }
+      ],
+      "text": " ChainChomp131 ChainChomp131 20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him ChainChomp131 ChainChomp131 20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him ChainChomp131 ChainChomp131 20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him ChainChomp131 ChainChomp131 20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him ChainChomp131 ChainChomp131 20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+      "score": 10,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Drachma",
       "account": "drachma_elysium",
       "sources": [
@@ -1874,76 +1956,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "ChainChomp131",
-      "account": "ChainChomp131",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "poet",
-        "speest 💎",
-        "地推雷氏",
-        "雷氏"
-      ],
-      "tgAlphas": [
-        "poet",
-        "speest 💎",
-        "地推雷氏",
-        "雷氏"
-      ],
-      "xAlphas": [],
-      "mentions": 4,
-      "firstSeen": "2026-11-09T15:22:59+00:00",
-      "lastSeen": "2026-11-11T06:04:36+00:00",
-      "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "ChainChomp131",
-          "account": "ChainChomp131",
-          "alpha": "poet",
-          "seenAt": "2026-11-09T15:22:59+00:00",
-          "messageId": "dodtwitterbot/40442",
-          "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
-          "text": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him"
-        },
-        {
-          "source": "TG",
-          "project": "ChainChomp131",
-          "account": "ChainChomp131",
-          "alpha": "雷氏",
-          "seenAt": "2026-11-10T05:25:48+00:00",
-          "messageId": "dodtwitterbot/40483",
-          "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
-          "text": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him"
-        },
-        {
-          "source": "TG",
-          "project": "ChainChomp131",
-          "account": "ChainChomp131",
-          "alpha": "speest 💎",
-          "seenAt": "2026-11-10T17:35:08+00:00",
-          "messageId": "dodtwitterbot/40557",
-          "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
-          "text": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him"
-        },
-        {
-          "source": "TG",
-          "project": "ChainChomp131",
-          "account": "ChainChomp131",
-          "alpha": "地推雷氏",
-          "seenAt": "2026-11-11T06:04:36+00:00",
-          "messageId": "dodtwitterbot/40600",
-          "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
-          "text": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him"
-        }
-      ],
-      "text": " ChainChomp131 ChainChomp131 20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him ChainChomp131 ChainChomp131 20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him ChainChomp131 ChainChomp131 20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him ChainChomp131 ChainChomp131 20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
-      "score": 8,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
       "project": "Elysium Pump",
       "account": "ElysiumPump",
       "sources": [
@@ -2079,6 +2091,76 @@
         }
       ],
       "text": " EQX Labs eqxlabs Tokenized spot U.S. equities built natively for @HyperliquidX .\n\n1:1 Backed. Institutional Custody. Permissionless trading. 24/7/365. EQX Labs eqxlabs Tokenized spot U.S. equities built natively for @HyperliquidX .\n\n1:1 Backed. Institutional Custody. Permissionless trading. 24/7/365. EQX Labs eqxlabs Tokenized spot U.S. equities built natively for @HyperliquidX .\n\n1:1 Backed. Institutional Custody. Permissionless trading. 24/7/365. EQX Labs eqxlabs Tokenized spot U.S. equities built natively for @HyperliquidX .\n\n1:1 Backed. Institutional Custody. Permissionless trading. 24/7/365.",
+      "score": 8,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "forks wiki",
+      "account": "wikifork",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Mutu 🕸️",
+        "speest 💎",
+        "发誓要做永赚大师",
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "Mutu 🕸️",
+        "speest 💎",
+        "发誓要做永赚大师",
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 4,
+      "firstSeen": "2026-11-10T03:31:59+00:00",
+      "lastSeen": "2026-11-11T12:41:55+00:00",
+      "description": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork\n\nCA: not live yet",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "forks wiki",
+          "account": "wikifork",
+          "alpha": "发誓要做永赚大师",
+          "seenAt": "2026-11-10T03:31:59+00:00",
+          "messageId": "dodtwitterbot/40481",
+          "description": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork",
+          "text": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork"
+        },
+        {
+          "source": "TG",
+          "project": "forks wiki",
+          "account": "wikifork",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-10T06:07:46+00:00",
+          "messageId": "dodtwitterbot/40488",
+          "description": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork",
+          "text": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork"
+        },
+        {
+          "source": "TG",
+          "project": "forks wiki",
+          "account": "wikifork",
+          "alpha": "speest 💎",
+          "seenAt": "2026-11-10T08:25:44+00:00",
+          "messageId": "dodtwitterbot/40507",
+          "description": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork",
+          "text": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork"
+        },
+        {
+          "source": "TG",
+          "project": "forks wiki",
+          "account": "wikifork",
+          "alpha": "Mutu 🕸️",
+          "seenAt": "2026-11-11T12:41:55+00:00",
+          "messageId": "dodtwitterbot/40629",
+          "description": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork\n\nCA: not live yet",
+          "text": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork\n\nCA: not live yet"
+        }
+      ],
+      "text": " forks wiki wikifork the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork forks wiki wikifork the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork forks wiki wikifork the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork forks wiki wikifork the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork\n\nCA: not live yet",
       "score": 8,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -3613,64 +3695,6 @@
         }
       ],
       "text": " FiatDesk fiatdesk We make high-risk stablecoin flows bankable. FiatDesk fiatdesk We make high-risk stablecoin flows bankable. FiatDesk fiatdesk We make high-risk stablecoin flows bankable.",
-      "score": 6,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
-      "project": "forks wiki",
-      "account": "wikifork",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "speest 💎",
-        "发誓要做永赚大师",
-        "蛋总"
-      ],
-      "tgAlphas": [
-        "speest 💎",
-        "发誓要做永赚大师",
-        "蛋总"
-      ],
-      "xAlphas": [],
-      "mentions": 3,
-      "firstSeen": "2026-11-10T03:31:59+00:00",
-      "lastSeen": "2026-11-10T08:25:44+00:00",
-      "description": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "forks wiki",
-          "account": "wikifork",
-          "alpha": "发誓要做永赚大师",
-          "seenAt": "2026-11-10T03:31:59+00:00",
-          "messageId": "dodtwitterbot/40481",
-          "description": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork",
-          "text": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork"
-        },
-        {
-          "source": "TG",
-          "project": "forks wiki",
-          "account": "wikifork",
-          "alpha": "蛋总",
-          "seenAt": "2026-11-10T06:07:46+00:00",
-          "messageId": "dodtwitterbot/40488",
-          "description": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork",
-          "text": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork"
-        },
-        {
-          "source": "TG",
-          "project": "forks wiki",
-          "account": "wikifork",
-          "alpha": "speest 💎",
-          "seenAt": "2026-11-10T08:25:44+00:00",
-          "messageId": "dodtwitterbot/40507",
-          "description": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork",
-          "text": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork"
-        }
-      ],
-      "text": " forks wiki wikifork the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork forks wiki wikifork the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork forks wiki wikifork the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork",
       "score": 6,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -8844,6 +8868,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "Revvy",
+      "account": "tryrevvy",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Mutu 🕸️",
+        "lakka"
+      ],
+      "tgAlphas": [
+        "Mutu 🕸️",
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-04T21:55:06+00:00",
+      "lastSeen": "2026-11-11T17:15:54+00:00",
+      "description": "The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Revvy",
+          "account": "tryrevvy",
+          "alpha": "lakka",
+          "seenAt": "2026-11-04T21:55:06+00:00",
+          "messageId": "dodtwitterbot/39684",
+          "description": "The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world",
+          "text": "The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world"
+        },
+        {
+          "source": "TG",
+          "project": "Revvy",
+          "account": "tryrevvy",
+          "alpha": "Mutu 🕸️",
+          "seenAt": "2026-11-11T17:15:54+00:00",
+          "messageId": "dodtwitterbot/40651",
+          "description": "The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world",
+          "text": "The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world"
+        }
+      ],
+      "text": " Revvy tryrevvy The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world Revvy tryrevvy The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "ripe",
       "account": "ripe0x",
       "sources": [
@@ -10058,6 +10128,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Agent Mining",
+      "account": "Agent_mining",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "八九"
+      ],
+      "tgAlphas": [
+        "八九"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-11T12:36:24+00:00",
+      "lastSeen": "2026-11-11T12:36:24+00:00",
+      "description": "PROOF OF WORK · MINED BY AI AGENTS\n\nAgent Mining is an independent on-chain experiment built around the Binance Agent ID (.ai)",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Agent Mining",
+          "account": "Agent_mining",
+          "alpha": "八九",
+          "seenAt": "2026-11-11T12:36:24+00:00",
+          "messageId": "dodtwitterbot/40628",
+          "description": "PROOF OF WORK · MINED BY AI AGENTS\n\nAgent Mining is an independent on-chain experiment built around the Binance Agent ID (.ai)",
+          "text": "PROOF OF WORK · MINED BY AI AGENTS\n\nAgent Mining is an independent on-chain experiment built around the Binance Agent ID (.ai)"
+        }
+      ],
+      "text": " Agent Mining Agent_mining PROOF OF WORK · MINED BY AI AGENTS\n\nAgent Mining is an independent on-chain experiment built around the Binance Agent ID (.ai)",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Agentic Digger ⛏ AGD",
       "account": "Agentic_Digger",
       "sources": [
@@ -10529,6 +10633,40 @@
         }
       ],
       "text": " Atrium Protocol AtriumProtocol Liquidity layer on @Enter_Elysium\n&#036;ATRM",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Avax Hook",
+      "account": "avaxhookfun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "A佬"
+      ],
+      "tgAlphas": [
+        "A佬"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-11T12:51:15+00:00",
+      "lastSeen": "2026-11-11T12:51:15+00:00",
+      "description": "Building the hook-powered launchpad for Avalanche C-Chain.\nLaunch. Trade. Go onchain. 🔺 🪝",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Avax Hook",
+          "account": "avaxhookfun",
+          "alpha": "A佬",
+          "seenAt": "2026-11-11T12:51:15+00:00",
+          "messageId": "dodtwitterbot/40631",
+          "description": "Building the hook-powered launchpad for Avalanche C-Chain.\nLaunch. Trade. Go onchain. 🔺 🪝",
+          "text": "Building the hook-powered launchpad for Avalanche C-Chain.\nLaunch. Trade. Go onchain. 🔺 🪝"
+        }
+      ],
+      "text": " Avax Hook avaxhookfun Building the hook-powered launchpad for Avalanche C-Chain.\nLaunch. Trade. Go onchain. 🔺 🪝",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -13628,6 +13766,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "HARDCORE",
+      "account": "JoinHARDCORE",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Mutu 🕸️"
+      ],
+      "tgAlphas": [
+        "Mutu 🕸️"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-11T14:05:54+00:00",
+      "lastSeen": "2026-11-11T14:05:54+00:00",
+      "description": "Join HARDCORE: https://t.co/8vqGBuqXrT An automated vault that buys far out-of-the-money options and holds them for extreme market moves, up or down. &#036;HARD",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "HARDCORE",
+          "account": "JoinHARDCORE",
+          "alpha": "Mutu 🕸️",
+          "seenAt": "2026-11-11T14:05:54+00:00",
+          "messageId": "dodtwitterbot/40640",
+          "description": "Join HARDCORE: https://t.co/8vqGBuqXrT An automated vault that buys far out-of-the-money options and holds them for extreme market moves, up or down. &#036;HARD",
+          "text": "Join HARDCORE: https://t.co/8vqGBuqXrT An automated vault that buys far out-of-the-money options and holds them for extreme market moves, up or down. &#036;HARD"
+        }
+      ],
+      "text": " HARDCORE JoinHARDCORE Join HARDCORE: https://t.co/8vqGBuqXrT An automated vault that buys far out-of-the-money options and holds them for extreme market moves, up or down. &#036;HARD",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "HashDoge",
       "account": "HashDogeIO",
       "sources": [
@@ -16076,6 +16248,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Morse Launch",
+      "account": "morselaunchxyz",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Mutu 🕸️"
+      ],
+      "tgAlphas": [
+        "Mutu 🕸️"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-11T12:13:07+00:00",
+      "lastSeen": "2026-11-11T12:13:07+00:00",
+      "description": "Morselaunch is the free, open-source launchpad on Bsc, Base, Robinhood, Arc, and Elysium.\n\nCA:0x7a3741c829ec2aee3313f314b0eadb743e8e7777",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Morse Launch",
+          "account": "morselaunchxyz",
+          "alpha": "Mutu 🕸️",
+          "seenAt": "2026-11-11T12:13:07+00:00",
+          "messageId": "dodtwitterbot/40626",
+          "description": "Morselaunch is the free, open-source launchpad on Bsc, Base, Robinhood, Arc, and Elysium.\n\nCA:0x7a3741c829ec2aee3313f314b0eadb743e8e7777",
+          "text": "Morselaunch is the free, open-source launchpad on Bsc, Base, Robinhood, Arc, and Elysium.\n\nCA:0x7a3741c829ec2aee3313f314b0eadb743e8e7777"
+        }
+      ],
+      "text": " Morse Launch morselaunchxyz Morselaunch is the free, open-source launchpad on Bsc, Base, Robinhood, Arc, and Elysium.\n\nCA:0x7a3741c829ec2aee3313f314b0eadb743e8e7777",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Motion",
       "account": "motiongame_",
       "sources": [
@@ -16479,6 +16685,40 @@
         }
       ],
       "text": " Nymra Nymrasi Privacy superintelligence for users, apps & security teams. See what the chain reveals and prevent it.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Offworld Privacy",
+      "account": "OffworldPrivacy",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "well"
+      ],
+      "tgAlphas": [
+        "well"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-11T15:35:19+00:00",
+      "lastSeen": "2026-11-11T15:35:19+00:00",
+      "description": "Building private DeFi with shielded Zcash",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Offworld Privacy",
+          "account": "OffworldPrivacy",
+          "alpha": "well",
+          "seenAt": "2026-11-11T15:35:19+00:00",
+          "messageId": "dodtwitterbot/40645",
+          "description": "Building private DeFi with shielded Zcash",
+          "text": "Building private DeFi with shielded Zcash"
+        }
+      ],
+      "text": " Offworld Privacy OffworldPrivacy Building private DeFi with shielded Zcash",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -17946,40 +18186,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Revvy",
-      "account": "tryrevvy",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "lakka"
-      ],
-      "tgAlphas": [
-        "lakka"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-04T21:55:06+00:00",
-      "lastSeen": "2026-11-04T21:55:06+00:00",
-      "description": "The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Revvy",
-          "account": "tryrevvy",
-          "alpha": "lakka",
-          "seenAt": "2026-11-04T21:55:06+00:00",
-          "messageId": "dodtwitterbot/39684",
-          "description": "The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world",
-          "text": "The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world"
-        }
-      ],
-      "text": " Revvy tryrevvy The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
       "project": "Rexis Launchpad",
       "account": "Rexisdotfun",
       "sources": [
@@ -19029,6 +19235,40 @@
         }
       ],
       "text": " SuppFun suppdotfun Fair-launch your token on Elysium, the Hype L2, in one transaction - no liquidity to seed, just a small launch fee and gas. 100% of the supply goes into pool",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Sway",
+      "account": "swaydotfun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "speest 💎"
+      ],
+      "tgAlphas": [
+        "speest 💎"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-11T17:20:27+00:00",
+      "lastSeen": "2026-11-11T17:20:27+00:00",
+      "description": "The First Narrative Market. Where ideas become positions.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Sway",
+          "account": "swaydotfun",
+          "alpha": "speest 💎",
+          "seenAt": "2026-11-11T17:20:27+00:00",
+          "messageId": "dodtwitterbot/40652",
+          "description": "The First Narrative Market. Where ideas become positions.",
+          "text": "The First Narrative Market. Where ideas become positions."
+        }
+      ],
+      "text": " Sway swaydotfun The First Narrative Market. Where ideas become positions.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -21240,6 +21480,24 @@
       "avatarUrl": ""
     },
     {
+      "project": "ChainChomp131",
+      "x_account": "ChainChomp131",
+      "total_mentions": 5,
+      "unique_alphas": 5,
+      "alphas": [
+        "Skrchen666(钻石手伤心版 绝对纸手之人）",
+        "poet",
+        "speest 💎",
+        "地推雷氏",
+        "雷氏"
+      ],
+      "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+      "first_seen_utc": "2026-11-09T15:22:59+00:00",
+      "last_seen_utc": "2026-11-11T10:21:05+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
       "project": "Drachma",
       "x_account": "drachma_elysium",
       "total_mentions": 5,
@@ -21399,23 +21657,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "ChainChomp131",
-      "x_account": "ChainChomp131",
-      "total_mentions": 4,
-      "unique_alphas": 4,
-      "alphas": [
-        "poet",
-        "speest 💎",
-        "地推雷氏",
-        "雷氏"
-      ],
-      "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
-      "first_seen_utc": "2026-11-09T15:22:59+00:00",
-      "last_seen_utc": "2026-11-11T06:04:36+00:00",
-      "status": "priority",
-      "avatarUrl": ""
-    },
-    {
       "project": "Elysium Pump",
       "x_account": "ElysiumPump",
       "total_mentions": 4,
@@ -21446,6 +21687,23 @@
       "description": "Tokenized spot U.S. equities built natively for @HyperliquidX .\n\n1:1 Backed. Institutional Custody. Permissionless trading. 24/7/365.",
       "first_seen_utc": "2026-10-30T15:10:48+00:00",
       "last_seen_utc": "2026-11-05T11:54:33+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
+      "project": "forks wiki",
+      "x_account": "wikifork",
+      "total_mentions": 4,
+      "unique_alphas": 4,
+      "alphas": [
+        "Mutu 🕸️",
+        "speest 💎",
+        "发誓要做永赚大师",
+        "蛋总"
+      ],
+      "description": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork\n\nCA: not live yet",
+      "first_seen_utc": "2026-11-10T03:31:59+00:00",
+      "last_seen_utc": "2026-11-11T12:41:55+00:00",
       "status": "priority",
       "avatarUrl": ""
     },
@@ -21853,22 +22111,6 @@
       "description": "We make high-risk stablecoin flows bankable.",
       "first_seen_utc": "2026-10-29T14:52:03+00:00",
       "last_seen_utc": "2026-10-29T19:42:43+00:00",
-      "status": "priority",
-      "avatarUrl": ""
-    },
-    {
-      "project": "forks wiki",
-      "x_account": "wikifork",
-      "total_mentions": 3,
-      "unique_alphas": 3,
-      "alphas": [
-        "speest 💎",
-        "发誓要做永赚大师",
-        "蛋总"
-      ],
-      "description": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork",
-      "first_seen_utc": "2026-11-10T03:31:59+00:00",
-      "last_seen_utc": "2026-11-10T08:25:44+00:00",
       "status": "priority",
       "avatarUrl": ""
     },
@@ -23465,6 +23707,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "Revvy",
+      "x_account": "tryrevvy",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "Mutu 🕸️",
+        "lakka"
+      ],
+      "description": "The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world",
+      "first_seen_utc": "2026-11-04T21:55:06+00:00",
+      "last_seen_utc": "2026-11-11T17:15:54+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "ripe",
       "x_account": "ripe0x",
       "total_mentions": 2,
@@ -23890,6 +24147,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Agent Mining",
+      "x_account": "Agent_mining",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "八九"
+      ],
+      "description": "PROOF OF WORK · MINED BY AI AGENTS\n\nAgent Mining is an independent on-chain experiment built around the Binance Agent ID (.ai)",
+      "first_seen_utc": "2026-11-11T12:36:24+00:00",
+      "last_seen_utc": "2026-11-11T12:36:24+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Agentic Digger ⛏ AGD",
       "x_account": "Agentic_Digger",
       "total_mentions": 1,
@@ -24082,6 +24353,20 @@
       "description": "Liquidity layer on @Enter_Elysium\n&#036;ATRM",
       "first_seen_utc": "2026-11-08T19:09:43+00:00",
       "last_seen_utc": "2026-11-08T19:09:43+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Avax Hook",
+      "x_account": "avaxhookfun",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "A佬"
+      ],
+      "description": "Building the hook-powered launchpad for Avalanche C-Chain.\nLaunch. Trade. Go onchain. 🔺 🪝",
+      "first_seen_utc": "2026-11-11T12:51:15+00:00",
+      "last_seen_utc": "2026-11-11T12:51:15+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -25360,6 +25645,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "HARDCORE",
+      "x_account": "JoinHARDCORE",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "Mutu 🕸️"
+      ],
+      "description": "Join HARDCORE: https://t.co/8vqGBuqXrT An automated vault that buys far out-of-the-money options and holds them for extreme market moves, up or down. &#036;HARD",
+      "first_seen_utc": "2026-11-11T14:05:54+00:00",
+      "last_seen_utc": "2026-11-11T14:05:54+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "HashDoge",
       "x_account": "HashDogeIO",
       "total_mentions": 1,
@@ -26368,6 +26667,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Morse Launch",
+      "x_account": "morselaunchxyz",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "Mutu 🕸️"
+      ],
+      "description": "Morselaunch is the free, open-source launchpad on Bsc, Base, Robinhood, Arc, and Elysium.\n\nCA:0x7a3741c829ec2aee3313f314b0eadb743e8e7777",
+      "first_seen_utc": "2026-11-11T12:13:07+00:00",
+      "last_seen_utc": "2026-11-11T12:13:07+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Motion",
       "x_account": "motiongame_",
       "total_mentions": 1,
@@ -26532,6 +26845,20 @@
       "description": "Privacy superintelligence for users, apps & security teams. See what the chain reveals and prevent it.",
       "first_seen_utc": "2026-11-05T10:03:52+00:00",
       "last_seen_utc": "2026-11-05T10:03:52+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Offworld Privacy",
+      "x_account": "OffworldPrivacy",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "well"
+      ],
+      "description": "Building private DeFi with shielded Zcash",
+      "first_seen_utc": "2026-11-11T15:35:19+00:00",
+      "last_seen_utc": "2026-11-11T15:35:19+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -27138,20 +27465,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Revvy",
-      "x_account": "tryrevvy",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "lakka"
-      ],
-      "description": "The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world",
-      "first_seen_utc": "2026-11-04T21:55:06+00:00",
-      "last_seen_utc": "2026-11-04T21:55:06+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "Rexis Launchpad",
       "x_account": "Rexisdotfun",
       "total_mentions": 1,
@@ -27582,6 +27895,20 @@
       "description": "Fair-launch your token on Elysium, the Hype L2, in one transaction - no liquidity to seed, just a small launch fee and gas. 100% of the supply goes into pool",
       "first_seen_utc": "2026-11-06T09:11:19+00:00",
       "last_seen_utc": "2026-11-06T09:11:19+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Sway",
+      "x_account": "swaydotfun",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "speest 💎"
+      ],
+      "description": "The First Narrative Market. Where ideas become positions.",
+      "first_seen_utc": "2026-11-11T17:20:27+00:00",
+      "last_seen_utc": "2026-11-11T17:20:27+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -28400,15 +28727,156 @@
   ],
   "daily": [
     {
-      "date": "2026-11-11",
-      "totalRows": 25,
-      "projectCount": 19,
-      "focusCount": 4,
-      "candidateCount": 15,
+      "date": "2026-11-12",
+      "totalRows": 2,
+      "projectCount": 2,
+      "focusCount": 0,
+      "candidateCount": 2,
       "crossSource": 0,
-      "newCount": 13,
-      "repeatCount": 6,
+      "newCount": 1,
+      "repeatCount": 1,
       "projects": [
+        {
+          "project": "Revvy",
+          "account": "tryrevvy",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Mutu 🕸️"
+          ],
+          "tgAlphas": [
+            "Mutu 🕸️"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-11T17:15:54+00:00",
+          "lastSeen": "2026-11-11T17:15:54+00:00",
+          "description": "The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Revvy",
+              "account": "tryrevvy",
+              "alpha": "Mutu 🕸️",
+              "seenAt": "2026-11-11T17:15:54+00:00",
+              "messageId": "dodtwitterbot/40651",
+              "description": "The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world",
+              "text": "The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world"
+            }
+          ],
+          "text": " Revvy tryrevvy The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Sway",
+          "account": "swaydotfun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "speest 💎"
+          ],
+          "tgAlphas": [
+            "speest 💎"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-11T17:20:27+00:00",
+          "lastSeen": "2026-11-11T17:20:27+00:00",
+          "description": "The First Narrative Market. Where ideas become positions.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Sway",
+              "account": "swaydotfun",
+              "alpha": "speest 💎",
+              "seenAt": "2026-11-11T17:20:27+00:00",
+              "messageId": "dodtwitterbot/40652",
+              "description": "The First Narrative Market. Where ideas become positions.",
+              "text": "The First Narrative Market. Where ideas become positions."
+            }
+          ],
+          "text": " Sway swaydotfun The First Narrative Market. Where ideas become positions.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "totalRows": 32,
+      "projectCount": 25,
+      "focusCount": 4,
+      "candidateCount": 21,
+      "crossSource": 0,
+      "newCount": 18,
+      "repeatCount": 7,
+      "projects": [
+        {
+          "project": "ChainChomp131",
+          "account": "ChainChomp131",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Skrchen666(钻石手伤心版 绝对纸手之人）",
+            "speest 💎",
+            "地推雷氏"
+          ],
+          "tgAlphas": [
+            "Skrchen666(钻石手伤心版 绝对纸手之人）",
+            "speest 💎",
+            "地推雷氏"
+          ],
+          "xAlphas": [],
+          "mentions": 3,
+          "firstSeen": "2026-11-10T17:35:08+00:00",
+          "lastSeen": "2026-11-11T10:21:05+00:00",
+          "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "ChainChomp131",
+              "account": "ChainChomp131",
+              "alpha": "speest 💎",
+              "seenAt": "2026-11-10T17:35:08+00:00",
+              "messageId": "dodtwitterbot/40557",
+              "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+              "text": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him"
+            },
+            {
+              "source": "TG",
+              "project": "ChainChomp131",
+              "account": "ChainChomp131",
+              "alpha": "地推雷氏",
+              "seenAt": "2026-11-11T06:04:36+00:00",
+              "messageId": "dodtwitterbot/40600",
+              "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+              "text": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him"
+            },
+            {
+              "source": "TG",
+              "project": "ChainChomp131",
+              "account": "ChainChomp131",
+              "alpha": "Skrchen666(钻石手伤心版 绝对纸手之人）",
+              "seenAt": "2026-11-11T10:21:05+00:00",
+              "messageId": "dodtwitterbot/40620",
+              "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+              "text": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him"
+            }
+          ],
+          "text": " ChainChomp131 ChainChomp131 20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him ChainChomp131 ChainChomp131 20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him ChainChomp131 ChainChomp131 20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+          "score": 6,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
         {
           "project": "Tick",
           "account": "tick_fivebar",
@@ -28528,53 +28996,6 @@
           "dayStatus": "new"
         },
         {
-          "project": "ChainChomp131",
-          "account": "ChainChomp131",
-          "sources": [
-            "TG"
-          ],
-          "alphas": [
-            "speest 💎",
-            "地推雷氏"
-          ],
-          "tgAlphas": [
-            "speest 💎",
-            "地推雷氏"
-          ],
-          "xAlphas": [],
-          "mentions": 2,
-          "firstSeen": "2026-11-10T17:35:08+00:00",
-          "lastSeen": "2026-11-11T06:04:36+00:00",
-          "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
-          "rows": [
-            {
-              "source": "TG",
-              "project": "ChainChomp131",
-              "account": "ChainChomp131",
-              "alpha": "speest 💎",
-              "seenAt": "2026-11-10T17:35:08+00:00",
-              "messageId": "dodtwitterbot/40557",
-              "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
-              "text": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him"
-            },
-            {
-              "source": "TG",
-              "project": "ChainChomp131",
-              "account": "ChainChomp131",
-              "alpha": "地推雷氏",
-              "seenAt": "2026-11-11T06:04:36+00:00",
-              "messageId": "dodtwitterbot/40600",
-              "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
-              "text": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him"
-            }
-          ],
-          "text": " ChainChomp131 ChainChomp131 20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him ChainChomp131 ChainChomp131 20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
-          "score": 4,
-          "displayTier": "focus",
-          "avatarUrl": "",
-          "dayStatus": "repeat"
-        },
-        {
           "project": "Peak Deploy",
           "account": "peakdeploy",
           "sources": [
@@ -28657,6 +29078,76 @@
           "dayStatus": "repeat"
         },
         {
+          "project": "Agent Mining",
+          "account": "Agent_mining",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "八九"
+          ],
+          "tgAlphas": [
+            "八九"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-11T12:36:24+00:00",
+          "lastSeen": "2026-11-11T12:36:24+00:00",
+          "description": "PROOF OF WORK · MINED BY AI AGENTS\n\nAgent Mining is an independent on-chain experiment built around the Binance Agent ID (.ai)",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Agent Mining",
+              "account": "Agent_mining",
+              "alpha": "八九",
+              "seenAt": "2026-11-11T12:36:24+00:00",
+              "messageId": "dodtwitterbot/40628",
+              "description": "PROOF OF WORK · MINED BY AI AGENTS\n\nAgent Mining is an independent on-chain experiment built around the Binance Agent ID (.ai)",
+              "text": "PROOF OF WORK · MINED BY AI AGENTS\n\nAgent Mining is an independent on-chain experiment built around the Binance Agent ID (.ai)"
+            }
+          ],
+          "text": " Agent Mining Agent_mining PROOF OF WORK · MINED BY AI AGENTS\n\nAgent Mining is an independent on-chain experiment built around the Binance Agent ID (.ai)",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Avax Hook",
+          "account": "avaxhookfun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "A佬"
+          ],
+          "tgAlphas": [
+            "A佬"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-11T12:51:15+00:00",
+          "lastSeen": "2026-11-11T12:51:15+00:00",
+          "description": "Building the hook-powered launchpad for Avalanche C-Chain.\nLaunch. Trade. Go onchain. 🔺 🪝",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Avax Hook",
+              "account": "avaxhookfun",
+              "alpha": "A佬",
+              "seenAt": "2026-11-11T12:51:15+00:00",
+              "messageId": "dodtwitterbot/40631",
+              "description": "Building the hook-powered launchpad for Avalanche C-Chain.\nLaunch. Trade. Go onchain. 🔺 🪝",
+              "text": "Building the hook-powered launchpad for Avalanche C-Chain.\nLaunch. Trade. Go onchain. 🔺 🪝"
+            }
+          ],
+          "text": " Avax Hook avaxhookfun Building the hook-powered launchpad for Avalanche C-Chain.\nLaunch. Trade. Go onchain. 🔺 🪝",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
           "project": "Flop Labs",
           "account": "flop_labs",
           "sources": [
@@ -28686,6 +29177,76 @@
             }
           ],
           "text": " Flop Labs flop_labs Building the currency for the agentic economy.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "forks wiki",
+          "account": "wikifork",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Mutu 🕸️"
+          ],
+          "tgAlphas": [
+            "Mutu 🕸️"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-11T12:41:55+00:00",
+          "lastSeen": "2026-11-11T12:41:55+00:00",
+          "description": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork\n\nCA: not live yet",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "forks wiki",
+              "account": "wikifork",
+              "alpha": "Mutu 🕸️",
+              "seenAt": "2026-11-11T12:41:55+00:00",
+              "messageId": "dodtwitterbot/40629",
+              "description": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork\n\nCA: not live yet",
+              "text": "the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork\n\nCA: not live yet"
+            }
+          ],
+          "text": " forks wiki wikifork the first token launchpad on @github\n\nlaunch any meme on any repo and get &#036;fork\n\nCA: not live yet",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "HARDCORE",
+          "account": "JoinHARDCORE",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Mutu 🕸️"
+          ],
+          "tgAlphas": [
+            "Mutu 🕸️"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-11T14:05:54+00:00",
+          "lastSeen": "2026-11-11T14:05:54+00:00",
+          "description": "Join HARDCORE: https://t.co/8vqGBuqXrT An automated vault that buys far out-of-the-money options and holds them for extreme market moves, up or down. &#036;HARD",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "HARDCORE",
+              "account": "JoinHARDCORE",
+              "alpha": "Mutu 🕸️",
+              "seenAt": "2026-11-11T14:05:54+00:00",
+              "messageId": "dodtwitterbot/40640",
+              "description": "Join HARDCORE: https://t.co/8vqGBuqXrT An automated vault that buys far out-of-the-money options and holds them for extreme market moves, up or down. &#036;HARD",
+              "text": "Join HARDCORE: https://t.co/8vqGBuqXrT An automated vault that buys far out-of-the-money options and holds them for extreme market moves, up or down. &#036;HARD"
+            }
+          ],
+          "text": " HARDCORE JoinHARDCORE Join HARDCORE: https://t.co/8vqGBuqXrT An automated vault that buys far out-of-the-money options and holds them for extreme market moves, up or down. &#036;HARD",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -28896,6 +29457,76 @@
             }
           ],
           "text": " Modulyn Modulynhq Programmable markets on Elysium.\n\nToken launches, liquidity and custom trading rules powered by Uniswap v4 hooks.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Morse Launch",
+          "account": "morselaunchxyz",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Mutu 🕸️"
+          ],
+          "tgAlphas": [
+            "Mutu 🕸️"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-11T12:13:07+00:00",
+          "lastSeen": "2026-11-11T12:13:07+00:00",
+          "description": "Morselaunch is the free, open-source launchpad on Bsc, Base, Robinhood, Arc, and Elysium.\n\nCA:0x7a3741c829ec2aee3313f314b0eadb743e8e7777",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Morse Launch",
+              "account": "morselaunchxyz",
+              "alpha": "Mutu 🕸️",
+              "seenAt": "2026-11-11T12:13:07+00:00",
+              "messageId": "dodtwitterbot/40626",
+              "description": "Morselaunch is the free, open-source launchpad on Bsc, Base, Robinhood, Arc, and Elysium.\n\nCA:0x7a3741c829ec2aee3313f314b0eadb743e8e7777",
+              "text": "Morselaunch is the free, open-source launchpad on Bsc, Base, Robinhood, Arc, and Elysium.\n\nCA:0x7a3741c829ec2aee3313f314b0eadb743e8e7777"
+            }
+          ],
+          "text": " Morse Launch morselaunchxyz Morselaunch is the free, open-source launchpad on Bsc, Base, Robinhood, Arc, and Elysium.\n\nCA:0x7a3741c829ec2aee3313f314b0eadb743e8e7777",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Offworld Privacy",
+          "account": "OffworldPrivacy",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "well"
+          ],
+          "tgAlphas": [
+            "well"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-11T15:35:19+00:00",
+          "lastSeen": "2026-11-11T15:35:19+00:00",
+          "description": "Building private DeFi with shielded Zcash",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Offworld Privacy",
+              "account": "OffworldPrivacy",
+              "alpha": "well",
+              "seenAt": "2026-11-11T15:35:19+00:00",
+              "messageId": "dodtwitterbot/40645",
+              "description": "Building private DeFi with shielded Zcash",
+              "text": "Building private DeFi with shielded Zcash"
+            }
+          ],
+          "text": " Offworld Privacy OffworldPrivacy Building private DeFi with shielded Zcash",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -53638,244 +54269,249 @@
   ],
   "reports": [
     {
+      "file": "2026-11-11-1729-telegram-update.md",
+      "title": "2026-11-11-1729-telegram-update",
+      "updatedAt": "2026-11-11T17:29:00.852Z"
+    },
+    {
       "file": "2026-11-11-0828-telegram-update.md",
       "title": "2026-11-11-0828-telegram-update",
-      "updatedAt": "2026-11-11T08:28:25.772Z"
+      "updatedAt": "2026-11-11T17:28:58.475Z"
     },
     {
       "file": "2026-11-11-0130-telegram-update.md",
       "title": "2026-11-11-0130-telegram-update",
-      "updatedAt": "2026-11-11T08:28:23.931Z"
+      "updatedAt": "2026-11-11T17:28:58.475Z"
     },
     {
       "file": "2026-11-10-2037-telegram-update.md",
       "title": "2026-11-10-2037-telegram-update",
-      "updatedAt": "2026-11-11T08:28:23.931Z"
+      "updatedAt": "2026-11-11T17:28:58.475Z"
     },
     {
       "file": "2026-11-10-1348-telegram-update.md",
       "title": "2026-11-10-1348-telegram-update",
-      "updatedAt": "2026-11-11T08:28:23.931Z"
+      "updatedAt": "2026-11-11T17:28:58.475Z"
     },
     {
       "file": "2026-11-10-0351-telegram-update.md",
       "title": "2026-11-10-0351-telegram-update",
-      "updatedAt": "2026-11-11T08:28:23.931Z"
+      "updatedAt": "2026-11-11T17:28:58.475Z"
     },
     {
       "file": "2026-11-09-2013-telegram-update.md",
       "title": "2026-11-09-2013-telegram-update",
-      "updatedAt": "2026-11-11T08:28:23.931Z"
+      "updatedAt": "2026-11-11T17:28:58.475Z"
     },
     {
       "file": "2026-11-09-0844-telegram-update.md",
       "title": "2026-11-09-0844-telegram-update",
-      "updatedAt": "2026-11-11T08:28:23.931Z"
+      "updatedAt": "2026-11-11T17:28:58.475Z"
     },
     {
       "file": "2026-11-08-2123-telegram-update.md",
       "title": "2026-11-08-2123-telegram-update",
-      "updatedAt": "2026-11-11T08:28:23.931Z"
+      "updatedAt": "2026-11-11T17:28:58.475Z"
     },
     {
       "file": "2026-11-08-1623-telegram-update.md",
       "title": "2026-11-08-1623-telegram-update",
-      "updatedAt": "2026-11-11T08:28:23.931Z"
+      "updatedAt": "2026-11-11T17:28:58.475Z"
     },
     {
       "file": "2026-11-08-0804-telegram-update.md",
       "title": "2026-11-08-0804-telegram-update",
-      "updatedAt": "2026-11-11T08:28:23.931Z"
+      "updatedAt": "2026-11-11T17:28:58.475Z"
     },
     {
       "file": "2026-11-07-2106-telegram-update.md",
       "title": "2026-11-07-2106-telegram-update",
-      "updatedAt": "2026-11-11T08:28:23.931Z"
+      "updatedAt": "2026-11-11T17:28:58.475Z"
     },
     {
       "file": "2026-11-07-1556-telegram-update.md",
       "title": "2026-11-07-1556-telegram-update",
-      "updatedAt": "2026-11-11T08:28:23.931Z"
+      "updatedAt": "2026-11-11T17:28:58.475Z"
     },
     {
       "file": "2026-11-07-0751-telegram-update.md",
       "title": "2026-11-07-0751-telegram-update",
-      "updatedAt": "2026-11-11T08:28:23.931Z"
+      "updatedAt": "2026-11-11T17:28:58.475Z"
     },
     {
       "file": "2026-11-06-2226-telegram-update.md",
       "title": "2026-11-06-2226-telegram-update",
-      "updatedAt": "2026-11-11T08:28:23.931Z"
+      "updatedAt": "2026-11-11T17:28:58.475Z"
     },
     {
       "file": "2026-11-06-1658-telegram-update.md",
       "title": "2026-11-06-1658-telegram-update",
-      "updatedAt": "2026-11-11T08:28:23.931Z"
+      "updatedAt": "2026-11-11T17:28:58.475Z"
     },
     {
       "file": "2026-11-06-0835-telegram-update.md",
       "title": "2026-11-06-0835-telegram-update",
-      "updatedAt": "2026-11-11T08:28:23.931Z"
+      "updatedAt": "2026-11-11T17:28:58.475Z"
     },
     {
       "file": "2026-11-05-2256-telegram-update.md",
       "title": "2026-11-05-2256-telegram-update",
-      "updatedAt": "2026-11-11T08:28:23.931Z"
+      "updatedAt": "2026-11-11T17:28:58.475Z"
     },
     {
       "file": "2026-11-05-1742-telegram-update.md",
       "title": "2026-11-05-1742-telegram-update",
-      "updatedAt": "2026-11-11T08:28:23.931Z"
+      "updatedAt": "2026-11-11T17:28:58.474Z"
     },
     {
       "file": "2026-11-05-0836-telegram-update.md",
       "title": "2026-11-05-0836-telegram-update",
-      "updatedAt": "2026-11-11T08:28:23.931Z"
+      "updatedAt": "2026-11-11T17:28:58.474Z"
     },
     {
       "file": "2026-11-04-2255-telegram-update.md",
       "title": "2026-11-04-2255-telegram-update",
-      "updatedAt": "2026-11-11T08:28:23.931Z"
+      "updatedAt": "2026-11-11T17:28:58.474Z"
     },
     {
       "file": "2026-11-04-1737-telegram-update.md",
       "title": "2026-11-04-1737-telegram-update",
-      "updatedAt": "2026-11-11T08:28:23.931Z"
+      "updatedAt": "2026-11-11T17:28:58.474Z"
     },
     {
       "file": "2026-11-04-0810-telegram-update.md",
       "title": "2026-11-04-0810-telegram-update",
-      "updatedAt": "2026-11-11T08:28:23.931Z"
+      "updatedAt": "2026-11-11T17:28:58.474Z"
     },
     {
       "file": "2026-11-04-0143-telegram-update.md",
       "title": "2026-11-04-0143-telegram-update",
-      "updatedAt": "2026-11-11T08:28:23.931Z"
+      "updatedAt": "2026-11-11T17:28:58.474Z"
     },
     {
       "file": "2026-11-03-2018-telegram-update.md",
       "title": "2026-11-03-2018-telegram-update",
-      "updatedAt": "2026-11-11T08:28:23.931Z"
+      "updatedAt": "2026-11-11T17:28:58.474Z"
     },
     {
       "file": "2026-11-03-1302-telegram-update.md",
       "title": "2026-11-03-1302-telegram-update",
-      "updatedAt": "2026-11-11T08:28:23.931Z"
+      "updatedAt": "2026-11-11T17:28:58.474Z"
     },
     {
       "file": "2026-11-03-0306-telegram-update.md",
       "title": "2026-11-03-0306-telegram-update",
-      "updatedAt": "2026-11-11T08:28:23.931Z"
+      "updatedAt": "2026-11-11T17:28:58.474Z"
     },
     {
       "file": "2026-11-02-1950-telegram-update.md",
       "title": "2026-11-02-1950-telegram-update",
-      "updatedAt": "2026-11-11T08:28:23.931Z"
+      "updatedAt": "2026-11-11T17:28:58.474Z"
     },
     {
       "file": "2026-11-02-0826-telegram-update.md",
       "title": "2026-11-02-0826-telegram-update",
-      "updatedAt": "2026-11-11T08:28:23.931Z"
+      "updatedAt": "2026-11-11T17:28:58.474Z"
     },
     {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-11T08:28:23.931Z"
+      "updatedAt": "2026-11-11T17:28:58.474Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-11T08:28:23.931Z"
+      "updatedAt": "2026-11-11T17:28:58.474Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-11T08:28:23.931Z"
+      "updatedAt": "2026-11-11T17:28:58.474Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-11T08:28:23.931Z"
+      "updatedAt": "2026-11-11T17:28:58.474Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-11T08:28:23.931Z"
+      "updatedAt": "2026-11-11T17:28:58.474Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-11T08:28:23.931Z"
+      "updatedAt": "2026-11-11T17:28:58.474Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-11T08:28:23.931Z"
+      "updatedAt": "2026-11-11T17:28:58.474Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-11T08:28:23.931Z"
+      "updatedAt": "2026-11-11T17:28:58.474Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-11T08:28:23.931Z"
+      "updatedAt": "2026-11-11T17:28:58.474Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-11T08:28:23.931Z"
+      "updatedAt": "2026-11-11T17:28:58.474Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-11T08:28:23.931Z"
+      "updatedAt": "2026-11-11T17:28:58.474Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-11T08:28:23.931Z"
+      "updatedAt": "2026-11-11T17:28:58.474Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-11T08:28:23.931Z"
+      "updatedAt": "2026-11-11T17:28:58.474Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-11T08:28:23.931Z"
+      "updatedAt": "2026-11-11T17:28:58.474Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-11T08:28:23.931Z"
+      "updatedAt": "2026-11-11T17:28:58.474Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-11T08:28:23.931Z"
+      "updatedAt": "2026-11-11T17:28:58.474Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-11T08:28:23.931Z"
+      "updatedAt": "2026-11-11T17:28:58.474Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-11T08:28:23.931Z"
+      "updatedAt": "2026-11-11T17:28:58.474Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-11T08:28:23.931Z"
+      "updatedAt": "2026-11-11T17:28:58.474Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-11T08:28:23.930Z"
+      "updatedAt": "2026-11-11T17:28:58.473Z"
     }
   ]
 }
