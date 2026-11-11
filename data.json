@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-11T17:29:01.105Z",
+  "generatedAt": "2026-11-11T23:44:09.762Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 40652,
-    "lastMessageAt": "2026-11-11T17:20:27+00:00",
-    "lastCheckedAt": "2026-11-11T17:29:00.852Z",
-    "previousMessageId": 40613,
+    "lastMessageId": 40685,
+    "lastMessageAt": "2026-11-11T23:20:26+00:00",
+    "lastCheckedAt": "2026-11-11T23:44:09.596Z",
+    "previousMessageId": 40652,
     "pagesRead": 2,
-    "messagesRead": 39,
-    "newProjectRecords": 9,
+    "messagesRead": 33,
+    "newProjectRecords": 11,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 832,
+    "telegramRows": 843,
     "xRows": 0,
-    "projects": 511,
+    "projects": 517,
     "crossSource": 0
   },
   "projects": [
@@ -632,6 +632,100 @@
       "avatarUrl": ""
     },
     {
+      "project": "ChainChomp131",
+      "account": "ChainChomp131",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "NΞO",
+        "Skrchen666(钻石手伤心版 绝对纸手之人）",
+        "poet",
+        "speest 💎",
+        "地推雷氏",
+        "雷氏"
+      ],
+      "tgAlphas": [
+        "NΞO",
+        "Skrchen666(钻石手伤心版 绝对纸手之人）",
+        "poet",
+        "speest 💎",
+        "地推雷氏",
+        "雷氏"
+      ],
+      "xAlphas": [],
+      "mentions": 6,
+      "firstSeen": "2026-11-09T15:22:59+00:00",
+      "lastSeen": "2026-11-11T20:58:23+00:00",
+      "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "ChainChomp131",
+          "account": "ChainChomp131",
+          "alpha": "poet",
+          "seenAt": "2026-11-09T15:22:59+00:00",
+          "messageId": "dodtwitterbot/40442",
+          "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+          "text": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him"
+        },
+        {
+          "source": "TG",
+          "project": "ChainChomp131",
+          "account": "ChainChomp131",
+          "alpha": "雷氏",
+          "seenAt": "2026-11-10T05:25:48+00:00",
+          "messageId": "dodtwitterbot/40483",
+          "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+          "text": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him"
+        },
+        {
+          "source": "TG",
+          "project": "ChainChomp131",
+          "account": "ChainChomp131",
+          "alpha": "speest 💎",
+          "seenAt": "2026-11-10T17:35:08+00:00",
+          "messageId": "dodtwitterbot/40557",
+          "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+          "text": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him"
+        },
+        {
+          "source": "TG",
+          "project": "ChainChomp131",
+          "account": "ChainChomp131",
+          "alpha": "地推雷氏",
+          "seenAt": "2026-11-11T06:04:36+00:00",
+          "messageId": "dodtwitterbot/40600",
+          "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+          "text": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him"
+        },
+        {
+          "source": "TG",
+          "project": "ChainChomp131",
+          "account": "ChainChomp131",
+          "alpha": "Skrchen666(钻石手伤心版 绝对纸手之人）",
+          "seenAt": "2026-11-11T10:21:05+00:00",
+          "messageId": "dodtwitterbot/40620",
+          "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+          "text": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him"
+        },
+        {
+          "source": "TG",
+          "project": "ChainChomp131",
+          "account": "ChainChomp131",
+          "alpha": "NΞO",
+          "seenAt": "2026-11-11T20:58:23+00:00",
+          "messageId": "dodtwitterbot/40680",
+          "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+          "text": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him"
+        }
+      ],
+      "text": " ChainChomp131 ChainChomp131 20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him ChainChomp131 ChainChomp131 20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him ChainChomp131 ChainChomp131 20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him ChainChomp131 ChainChomp131 20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him ChainChomp131 ChainChomp131 20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him ChainChomp131 ChainChomp131 20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+      "score": 12,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Mobster",
       "account": "mobster_meme",
       "sources": [
@@ -1167,88 +1261,6 @@
         }
       ],
       "text": " Bootr bootrfun Launch a coin with an agent that runs it. Every coin gets its own treasury and its own X account. Fees split on-chain, locked at launch. Bootr bootrfun Launch a coin with an agent that runs it. Every coin gets its own treasury and its own X account. Fees split on-chain, locked at launch. Bootr bootrfun Launch a coin with an agent that runs it. Every coin gets its own treasury and its own X account. Fees split on-chain, locked at launch. Bootr bootrfun Launch a coin with an agent that runs it. Every coin gets its own treasury and its own X account. Fees split on-chain, locked at launch. Bootr bootrfun Launch a coin with an agent that runs it. Every coin gets its own treasury and its own X account. Fees split on-chain, locked at launch.",
-      "score": 10,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
-      "project": "ChainChomp131",
-      "account": "ChainChomp131",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "Skrchen666(钻石手伤心版 绝对纸手之人）",
-        "poet",
-        "speest 💎",
-        "地推雷氏",
-        "雷氏"
-      ],
-      "tgAlphas": [
-        "Skrchen666(钻石手伤心版 绝对纸手之人）",
-        "poet",
-        "speest 💎",
-        "地推雷氏",
-        "雷氏"
-      ],
-      "xAlphas": [],
-      "mentions": 5,
-      "firstSeen": "2026-11-09T15:22:59+00:00",
-      "lastSeen": "2026-11-11T10:21:05+00:00",
-      "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "ChainChomp131",
-          "account": "ChainChomp131",
-          "alpha": "poet",
-          "seenAt": "2026-11-09T15:22:59+00:00",
-          "messageId": "dodtwitterbot/40442",
-          "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
-          "text": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him"
-        },
-        {
-          "source": "TG",
-          "project": "ChainChomp131",
-          "account": "ChainChomp131",
-          "alpha": "雷氏",
-          "seenAt": "2026-11-10T05:25:48+00:00",
-          "messageId": "dodtwitterbot/40483",
-          "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
-          "text": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him"
-        },
-        {
-          "source": "TG",
-          "project": "ChainChomp131",
-          "account": "ChainChomp131",
-          "alpha": "speest 💎",
-          "seenAt": "2026-11-10T17:35:08+00:00",
-          "messageId": "dodtwitterbot/40557",
-          "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
-          "text": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him"
-        },
-        {
-          "source": "TG",
-          "project": "ChainChomp131",
-          "account": "ChainChomp131",
-          "alpha": "地推雷氏",
-          "seenAt": "2026-11-11T06:04:36+00:00",
-          "messageId": "dodtwitterbot/40600",
-          "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
-          "text": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him"
-        },
-        {
-          "source": "TG",
-          "project": "ChainChomp131",
-          "account": "ChainChomp131",
-          "alpha": "Skrchen666(钻石手伤心版 绝对纸手之人）",
-          "seenAt": "2026-11-11T10:21:05+00:00",
-          "messageId": "dodtwitterbot/40620",
-          "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
-          "text": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him"
-        }
-      ],
-      "text": " ChainChomp131 ChainChomp131 20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him ChainChomp131 ChainChomp131 20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him ChainChomp131 ChainChomp131 20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him ChainChomp131 ChainChomp131 20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him ChainChomp131 ChainChomp131 20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
       "score": 10,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -7810,6 +7822,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "Kalmia",
+      "account": "kalmiadev",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse",
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "BearzVerse",
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-11T18:09:40+00:00",
+      "lastSeen": "2026-11-11T23:20:26+00:00",
+      "description": "We find issues in your agent traces\na16z @speedrun Alpha 001",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Kalmia",
+          "account": "kalmiadev",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-11T18:09:40+00:00",
+          "messageId": "dodtwitterbot/40660",
+          "description": "We find issues in your agent traces\na16z @speedrun Alpha 001",
+          "text": "We find issues in your agent traces\na16z @speedrun Alpha 001"
+        },
+        {
+          "source": "TG",
+          "project": "Kalmia",
+          "account": "kalmiadev",
+          "alpha": "BearzVerse",
+          "seenAt": "2026-11-11T23:20:26+00:00",
+          "messageId": "dodtwitterbot/40685",
+          "description": "We find issues in your agent traces\na16z @speedrun Alpha 001",
+          "text": "We find issues in your agent traces\na16z @speedrun Alpha 001"
+        }
+      ],
+      "text": " Kalmia kalmiadev We find issues in your agent traces\na16z @speedrun Alpha 001 Kalmia kalmiadev We find issues in your agent traces\na16z @speedrun Alpha 001",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Kinetiq",
       "account": "Kinetiq_xyz",
       "sources": [
@@ -8500,6 +8558,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "Offworld Privacy",
+      "account": "OffworldPrivacy",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Mutu 🕸️",
+        "well"
+      ],
+      "tgAlphas": [
+        "Mutu 🕸️",
+        "well"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-11T15:35:19+00:00",
+      "lastSeen": "2026-11-11T20:40:12+00:00",
+      "description": "Building private DeFi with shielded Zcash",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Offworld Privacy",
+          "account": "OffworldPrivacy",
+          "alpha": "well",
+          "seenAt": "2026-11-11T15:35:19+00:00",
+          "messageId": "dodtwitterbot/40645",
+          "description": "Building private DeFi with shielded Zcash",
+          "text": "Building private DeFi with shielded Zcash"
+        },
+        {
+          "source": "TG",
+          "project": "Offworld Privacy",
+          "account": "OffworldPrivacy",
+          "alpha": "Mutu 🕸️",
+          "seenAt": "2026-11-11T20:40:12+00:00",
+          "messageId": "dodtwitterbot/40676",
+          "description": "Building private DeFi with shielded Zcash",
+          "text": "Building private DeFi with shielded Zcash"
+        }
+      ],
+      "text": " Offworld Privacy OffworldPrivacy Building private DeFi with shielded Zcash Offworld Privacy OffworldPrivacy Building private DeFi with shielded Zcash",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Open Teleport",
       "account": "open_teleport",
       "sources": [
@@ -8587,6 +8691,52 @@
         }
       ],
       "text": " orphic orphicfi Agentic USDC vaults on Elysium. Built on Morpho and Hyperliquid. orphic orphicfi Agentic USDC vaults on Elysium. Built on Morpho and Hyperliquid.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Outworld Labs",
+      "account": "outworldlabs",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse",
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "BearzVerse",
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-11T18:09:41+00:00",
+      "lastSeen": "2026-11-11T23:19:31+00:00",
+      "description": "Building a robotics simulator indistinguishable from reality",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Outworld Labs",
+          "account": "outworldlabs",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-11T18:09:41+00:00",
+          "messageId": "dodtwitterbot/40662",
+          "description": "Building a robotics simulator indistinguishable from reality",
+          "text": "Building a robotics simulator indistinguishable from reality"
+        },
+        {
+          "source": "TG",
+          "project": "Outworld Labs",
+          "account": "outworldlabs",
+          "alpha": "BearzVerse",
+          "seenAt": "2026-11-11T23:19:31+00:00",
+          "messageId": "dodtwitterbot/40682",
+          "description": "Building a robotics simulator indistinguishable from reality",
+          "text": "Building a robotics simulator indistinguishable from reality"
+        }
+      ],
+      "text": " Outworld Labs outworldlabs Building a robotics simulator indistinguishable from reality Outworld Labs outworldlabs Building a robotics simulator indistinguishable from reality",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -9737,6 +9887,52 @@
         }
       ],
       "text": " Yeetr Yeetr_fun Onchain options for the tokens you hold. Yeetr Yeetr_fun Onchain options for the tokens you hold.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Zynoptes",
+      "account": "Zynoptes",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse",
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "BearzVerse",
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-11T20:31:04+00:00",
+      "lastSeen": "2026-11-11T23:20:25+00:00",
+      "description": "Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Zynoptes",
+          "account": "Zynoptes",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-11T20:31:04+00:00",
+          "messageId": "dodtwitterbot/40669",
+          "description": "Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance",
+          "text": "Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance"
+        },
+        {
+          "source": "TG",
+          "project": "Zynoptes",
+          "account": "Zynoptes",
+          "alpha": "BearzVerse",
+          "seenAt": "2026-11-11T23:20:25+00:00",
+          "messageId": "dodtwitterbot/40683",
+          "description": "Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance",
+          "text": "Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance"
+        }
+      ],
+      "text": " Zynoptes Zynoptes Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance Zynoptes Zynoptes Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -16180,6 +16376,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Moon 🌙",
+      "account": "PlayMoonHL",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka"
+      ],
+      "tgAlphas": [
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-11T20:42:59+00:00",
+      "lastSeen": "2026-11-11T20:42:59+00:00",
+      "description": "If you want to reach the stars, perhaps you should begin with a tour of the moon.\n\nFirst GameFi on @Enter_Elysium .",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Moon 🌙",
+          "account": "PlayMoonHL",
+          "alpha": "lakka",
+          "seenAt": "2026-11-11T20:42:59+00:00",
+          "messageId": "dodtwitterbot/40678",
+          "description": "If you want to reach the stars, perhaps you should begin with a tour of the moon.\n\nFirst GameFi on @Enter_Elysium .",
+          "text": "If you want to reach the stars, perhaps you should begin with a tour of the moon.\n\nFirst GameFi on @Enter_Elysium ."
+        }
+      ],
+      "text": " Moon 🌙 PlayMoonHL If you want to reach the stars, perhaps you should begin with a tour of the moon.\n\nFirst GameFi on @Enter_Elysium .",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Mori Finance",
       "account": "morifinance_",
       "sources": [
@@ -16690,40 +16920,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Offworld Privacy",
-      "account": "OffworldPrivacy",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "well"
-      ],
-      "tgAlphas": [
-        "well"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-11T15:35:19+00:00",
-      "lastSeen": "2026-11-11T15:35:19+00:00",
-      "description": "Building private DeFi with shielded Zcash",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Offworld Privacy",
-          "account": "OffworldPrivacy",
-          "alpha": "well",
-          "seenAt": "2026-11-11T15:35:19+00:00",
-          "messageId": "dodtwitterbot/40645",
-          "description": "Building private DeFi with shielded Zcash",
-          "text": "Building private DeFi with shielded Zcash"
-        }
-      ],
-      "text": " Offworld Privacy OffworldPrivacy Building private DeFi with shielded Zcash",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
       "project": "Olysium",
       "account": "Olysium_xyz",
       "sources": [
@@ -17195,6 +17391,40 @@
         }
       ],
       "text": " PANTHEON Pantheonindex The index of Ascend. Stake $PNTH, earn the best of Ascend. Stakers choose who enters. Launching on @AscendLaunch day one.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Parabola",
+      "account": "ParabolaMarkets",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-11T20:31:04+00:00",
+      "lastSeen": "2026-11-11T20:31:04+00:00",
+      "description": "Electricity price risk management, available for everyone.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Parabola",
+          "account": "ParabolaMarkets",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-11T20:31:04+00:00",
+          "messageId": "dodtwitterbot/40670",
+          "description": "Electricity price risk management, available for everyone.",
+          "text": "Electricity price risk management, available for everyone."
+        }
+      ],
+      "text": " Parabola ParabolaMarkets Electricity price risk management, available for everyone.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -20192,6 +20422,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "tryCorpusAI",
+      "account": "tryCorpusAI",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-11T20:31:04+00:00",
+      "lastSeen": "2026-11-11T20:31:04+00:00",
+      "description": "Perpetual Compute -- x402 Compute Price Feeds -- Tokenized Compute Ownership, Yield Generation, and Speculation",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "tryCorpusAI",
+          "account": "tryCorpusAI",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-11T20:31:04+00:00",
+          "messageId": "dodtwitterbot/40672",
+          "description": "Perpetual Compute -- x402 Compute Price Feeds -- Tokenized Compute Ownership, Yield Generation, and Speculation",
+          "text": "Perpetual Compute -- x402 Compute Price Feeds -- Tokenized Compute Ownership, Yield Generation, and Speculation"
+        }
+      ],
+      "text": " tryCorpusAI tryCorpusAI Perpetual Compute -- x402 Compute Price Feeds -- Tokenized Compute Ownership, Yield Generation, and Speculation",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "TurtleFren",
       "account": "TurtleFrenGame",
       "sources": [
@@ -21368,6 +21632,25 @@
       "avatarUrl": ""
     },
     {
+      "project": "ChainChomp131",
+      "x_account": "ChainChomp131",
+      "total_mentions": 6,
+      "unique_alphas": 6,
+      "alphas": [
+        "NΞO",
+        "Skrchen666(钻石手伤心版 绝对纸手之人）",
+        "poet",
+        "speest 💎",
+        "地推雷氏",
+        "雷氏"
+      ],
+      "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+      "first_seen_utc": "2026-11-09T15:22:59+00:00",
+      "last_seen_utc": "2026-11-11T20:58:23+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
       "project": "Mobster",
       "x_account": "mobster_meme",
       "total_mentions": 6,
@@ -21476,24 +21759,6 @@
       "description": "Launch a coin with an agent that runs it. Every coin gets its own treasury and its own X account. Fees split on-chain, locked at launch.",
       "first_seen_utc": "2026-11-01T16:52:34+00:00",
       "last_seen_utc": "2026-11-04T14:25:10+00:00",
-      "status": "priority",
-      "avatarUrl": ""
-    },
-    {
-      "project": "ChainChomp131",
-      "x_account": "ChainChomp131",
-      "total_mentions": 5,
-      "unique_alphas": 5,
-      "alphas": [
-        "Skrchen666(钻石手伤心版 绝对纸手之人）",
-        "poet",
-        "speest 💎",
-        "地推雷氏",
-        "雷氏"
-      ],
-      "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
-      "first_seen_utc": "2026-11-09T15:22:59+00:00",
-      "last_seen_utc": "2026-11-11T10:21:05+00:00",
       "status": "priority",
       "avatarUrl": ""
     },
@@ -23362,6 +23627,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "Kalmia",
+      "x_account": "kalmiadev",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "BearzVerse",
+        "unsynned"
+      ],
+      "description": "We find issues in your agent traces\na16z @speedrun Alpha 001",
+      "first_seen_utc": "2026-11-11T18:09:40+00:00",
+      "last_seen_utc": "2026-11-11T23:20:26+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Kinetiq",
       "x_account": "Kinetiq_xyz",
       "total_mentions": 2,
@@ -23587,6 +23867,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "Offworld Privacy",
+      "x_account": "OffworldPrivacy",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "Mutu 🕸️",
+        "well"
+      ],
+      "description": "Building private DeFi with shielded Zcash",
+      "first_seen_utc": "2026-11-11T15:35:19+00:00",
+      "last_seen_utc": "2026-11-11T20:40:12+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Open Teleport",
       "x_account": "open_teleport",
       "total_mentions": 2,
@@ -23613,6 +23908,21 @@
       "description": "Agentic USDC vaults on Elysium. Built on Morpho and Hyperliquid.",
       "first_seen_utc": "2026-11-09T18:46:48+00:00",
       "last_seen_utc": "2026-11-10T16:44:29+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Outworld Labs",
+      "x_account": "outworldlabs",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "BearzVerse",
+        "unsynned"
+      ],
+      "description": "Building a robotics simulator indistinguishable from reality",
+      "first_seen_utc": "2026-11-11T18:09:41+00:00",
+      "last_seen_utc": "2026-11-11T23:19:31+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -23988,6 +24298,21 @@
       "description": "Onchain options for the tokens you hold.",
       "first_seen_utc": "2026-10-30T18:13:41+00:00",
       "last_seen_utc": "2026-10-31T04:35:06+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Zynoptes",
+      "x_account": "Zynoptes",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "BearzVerse",
+        "unsynned"
+      ],
+      "description": "Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance",
+      "first_seen_utc": "2026-11-11T20:31:04+00:00",
+      "last_seen_utc": "2026-11-11T23:20:25+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -26639,6 +26964,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Moon 🌙",
+      "x_account": "PlayMoonHL",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "lakka"
+      ],
+      "description": "If you want to reach the stars, perhaps you should begin with a tour of the moon.\n\nFirst GameFi on @Enter_Elysium .",
+      "first_seen_utc": "2026-11-11T20:42:59+00:00",
+      "last_seen_utc": "2026-11-11T20:42:59+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Mori Finance",
       "x_account": "morifinance_",
       "total_mentions": 1,
@@ -26849,20 +27188,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Offworld Privacy",
-      "x_account": "OffworldPrivacy",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "well"
-      ],
-      "description": "Building private DeFi with shielded Zcash",
-      "first_seen_utc": "2026-11-11T15:35:19+00:00",
-      "last_seen_utc": "2026-11-11T15:35:19+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "Olysium",
       "x_account": "Olysium_xyz",
       "total_mentions": 1,
@@ -27055,6 +27380,20 @@
       "description": "The index of Ascend. Stake $PNTH, earn the best of Ascend. Stakers choose who enters. Launching on @AscendLaunch day one.",
       "first_seen_utc": "2026-10-28T22:15:00+08:00",
       "last_seen_utc": "2026-10-28T22:15:00+08:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Parabola",
+      "x_account": "ParabolaMarkets",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "unsynned"
+      ],
+      "description": "Electricity price risk management, available for everyone.",
+      "first_seen_utc": "2026-11-11T20:31:04+00:00",
+      "last_seen_utc": "2026-11-11T20:31:04+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -28291,6 +28630,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "tryCorpusAI",
+      "x_account": "tryCorpusAI",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "unsynned"
+      ],
+      "description": "Perpetual Compute -- x402 Compute Price Feeds -- Tokenized Compute Ownership, Yield Generation, and Speculation",
+      "first_seen_utc": "2026-11-11T20:31:04+00:00",
+      "last_seen_utc": "2026-11-11T20:31:04+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "TurtleFren",
       "x_account": "TurtleFrenGame",
       "total_mentions": 1,
@@ -28728,14 +29081,295 @@
   "daily": [
     {
       "date": "2026-11-12",
-      "totalRows": 2,
-      "projectCount": 2,
-      "focusCount": 0,
-      "candidateCount": 2,
+      "totalRows": 13,
+      "projectCount": 10,
+      "focusCount": 3,
+      "candidateCount": 7,
       "crossSource": 0,
-      "newCount": 1,
-      "repeatCount": 1,
+      "newCount": 7,
+      "repeatCount": 3,
       "projects": [
+        {
+          "project": "Kalmia",
+          "account": "kalmiadev",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BearzVerse",
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "BearzVerse",
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-11-11T18:09:40+00:00",
+          "lastSeen": "2026-11-11T23:20:26+00:00",
+          "description": "We find issues in your agent traces\na16z @speedrun Alpha 001",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Kalmia",
+              "account": "kalmiadev",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-11T18:09:40+00:00",
+              "messageId": "dodtwitterbot/40660",
+              "description": "We find issues in your agent traces\na16z @speedrun Alpha 001",
+              "text": "We find issues in your agent traces\na16z @speedrun Alpha 001"
+            },
+            {
+              "source": "TG",
+              "project": "Kalmia",
+              "account": "kalmiadev",
+              "alpha": "BearzVerse",
+              "seenAt": "2026-11-11T23:20:26+00:00",
+              "messageId": "dodtwitterbot/40685",
+              "description": "We find issues in your agent traces\na16z @speedrun Alpha 001",
+              "text": "We find issues in your agent traces\na16z @speedrun Alpha 001"
+            }
+          ],
+          "text": " Kalmia kalmiadev We find issues in your agent traces\na16z @speedrun Alpha 001 Kalmia kalmiadev We find issues in your agent traces\na16z @speedrun Alpha 001",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Outworld Labs",
+          "account": "outworldlabs",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BearzVerse",
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "BearzVerse",
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-11-11T18:09:41+00:00",
+          "lastSeen": "2026-11-11T23:19:31+00:00",
+          "description": "Building a robotics simulator indistinguishable from reality",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Outworld Labs",
+              "account": "outworldlabs",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-11T18:09:41+00:00",
+              "messageId": "dodtwitterbot/40662",
+              "description": "Building a robotics simulator indistinguishable from reality",
+              "text": "Building a robotics simulator indistinguishable from reality"
+            },
+            {
+              "source": "TG",
+              "project": "Outworld Labs",
+              "account": "outworldlabs",
+              "alpha": "BearzVerse",
+              "seenAt": "2026-11-11T23:19:31+00:00",
+              "messageId": "dodtwitterbot/40682",
+              "description": "Building a robotics simulator indistinguishable from reality",
+              "text": "Building a robotics simulator indistinguishable from reality"
+            }
+          ],
+          "text": " Outworld Labs outworldlabs Building a robotics simulator indistinguishable from reality Outworld Labs outworldlabs Building a robotics simulator indistinguishable from reality",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Zynoptes",
+          "account": "Zynoptes",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BearzVerse",
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "BearzVerse",
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-11-11T20:31:04+00:00",
+          "lastSeen": "2026-11-11T23:20:25+00:00",
+          "description": "Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Zynoptes",
+              "account": "Zynoptes",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-11T20:31:04+00:00",
+              "messageId": "dodtwitterbot/40669",
+              "description": "Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance",
+              "text": "Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance"
+            },
+            {
+              "source": "TG",
+              "project": "Zynoptes",
+              "account": "Zynoptes",
+              "alpha": "BearzVerse",
+              "seenAt": "2026-11-11T23:20:25+00:00",
+              "messageId": "dodtwitterbot/40683",
+              "description": "Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance",
+              "text": "Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance"
+            }
+          ],
+          "text": " Zynoptes Zynoptes Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance Zynoptes Zynoptes Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "ChainChomp131",
+          "account": "ChainChomp131",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "NΞO"
+          ],
+          "tgAlphas": [
+            "NΞO"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-11T20:58:23+00:00",
+          "lastSeen": "2026-11-11T20:58:23+00:00",
+          "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "ChainChomp131",
+              "account": "ChainChomp131",
+              "alpha": "NΞO",
+              "seenAt": "2026-11-11T20:58:23+00:00",
+              "messageId": "dodtwitterbot/40680",
+              "description": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+              "text": "20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him"
+            }
+          ],
+          "text": " ChainChomp131 ChainChomp131 20| Saxon James Musk| Occasional meme maker | Platform & Fighting game enthusiast | He/Him",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Moon 🌙",
+          "account": "PlayMoonHL",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-11T20:42:59+00:00",
+          "lastSeen": "2026-11-11T20:42:59+00:00",
+          "description": "If you want to reach the stars, perhaps you should begin with a tour of the moon.\n\nFirst GameFi on @Enter_Elysium .",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Moon 🌙",
+              "account": "PlayMoonHL",
+              "alpha": "lakka",
+              "seenAt": "2026-11-11T20:42:59+00:00",
+              "messageId": "dodtwitterbot/40678",
+              "description": "If you want to reach the stars, perhaps you should begin with a tour of the moon.\n\nFirst GameFi on @Enter_Elysium .",
+              "text": "If you want to reach the stars, perhaps you should begin with a tour of the moon.\n\nFirst GameFi on @Enter_Elysium ."
+            }
+          ],
+          "text": " Moon 🌙 PlayMoonHL If you want to reach the stars, perhaps you should begin with a tour of the moon.\n\nFirst GameFi on @Enter_Elysium .",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Offworld Privacy",
+          "account": "OffworldPrivacy",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Mutu 🕸️"
+          ],
+          "tgAlphas": [
+            "Mutu 🕸️"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-11T20:40:12+00:00",
+          "lastSeen": "2026-11-11T20:40:12+00:00",
+          "description": "Building private DeFi with shielded Zcash",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Offworld Privacy",
+              "account": "OffworldPrivacy",
+              "alpha": "Mutu 🕸️",
+              "seenAt": "2026-11-11T20:40:12+00:00",
+              "messageId": "dodtwitterbot/40676",
+              "description": "Building private DeFi with shielded Zcash",
+              "text": "Building private DeFi with shielded Zcash"
+            }
+          ],
+          "text": " Offworld Privacy OffworldPrivacy Building private DeFi with shielded Zcash",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Parabola",
+          "account": "ParabolaMarkets",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-11T20:31:04+00:00",
+          "lastSeen": "2026-11-11T20:31:04+00:00",
+          "description": "Electricity price risk management, available for everyone.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Parabola",
+              "account": "ParabolaMarkets",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-11T20:31:04+00:00",
+              "messageId": "dodtwitterbot/40670",
+              "description": "Electricity price risk management, available for everyone.",
+              "text": "Electricity price risk management, available for everyone."
+            }
+          ],
+          "text": " Parabola ParabolaMarkets Electricity price risk management, available for everyone.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
         {
           "project": "Revvy",
           "account": "tryrevvy",
@@ -28801,6 +29435,41 @@
             }
           ],
           "text": " Sway swaydotfun The First Narrative Market. Where ideas become positions.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "tryCorpusAI",
+          "account": "tryCorpusAI",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-11T20:31:04+00:00",
+          "lastSeen": "2026-11-11T20:31:04+00:00",
+          "description": "Perpetual Compute -- x402 Compute Price Feeds -- Tokenized Compute Ownership, Yield Generation, and Speculation",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "tryCorpusAI",
+              "account": "tryCorpusAI",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-11T20:31:04+00:00",
+              "messageId": "dodtwitterbot/40672",
+              "description": "Perpetual Compute -- x402 Compute Price Feeds -- Tokenized Compute Ownership, Yield Generation, and Speculation",
+              "text": "Perpetual Compute -- x402 Compute Price Feeds -- Tokenized Compute Ownership, Yield Generation, and Speculation"
+            }
+          ],
+          "text": " tryCorpusAI tryCorpusAI Perpetual Compute -- x402 Compute Price Feeds -- Tokenized Compute Ownership, Yield Generation, and Speculation",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -54269,249 +54938,254 @@
   ],
   "reports": [
     {
+      "file": "2026-11-11-2344-telegram-update.md",
+      "title": "2026-11-11-2344-telegram-update",
+      "updatedAt": "2026-11-11T23:44:09.596Z"
+    },
+    {
       "file": "2026-11-11-1729-telegram-update.md",
       "title": "2026-11-11-1729-telegram-update",
-      "updatedAt": "2026-11-11T17:29:00.852Z"
+      "updatedAt": "2026-11-11T23:44:07.671Z"
     },
     {
       "file": "2026-11-11-0828-telegram-update.md",
       "title": "2026-11-11-0828-telegram-update",
-      "updatedAt": "2026-11-11T17:28:58.475Z"
+      "updatedAt": "2026-11-11T23:44:07.671Z"
     },
     {
       "file": "2026-11-11-0130-telegram-update.md",
       "title": "2026-11-11-0130-telegram-update",
-      "updatedAt": "2026-11-11T17:28:58.475Z"
+      "updatedAt": "2026-11-11T23:44:07.671Z"
     },
     {
       "file": "2026-11-10-2037-telegram-update.md",
       "title": "2026-11-10-2037-telegram-update",
-      "updatedAt": "2026-11-11T17:28:58.475Z"
+      "updatedAt": "2026-11-11T23:44:07.671Z"
     },
     {
       "file": "2026-11-10-1348-telegram-update.md",
       "title": "2026-11-10-1348-telegram-update",
-      "updatedAt": "2026-11-11T17:28:58.475Z"
+      "updatedAt": "2026-11-11T23:44:07.671Z"
     },
     {
       "file": "2026-11-10-0351-telegram-update.md",
       "title": "2026-11-10-0351-telegram-update",
-      "updatedAt": "2026-11-11T17:28:58.475Z"
+      "updatedAt": "2026-11-11T23:44:07.671Z"
     },
     {
       "file": "2026-11-09-2013-telegram-update.md",
       "title": "2026-11-09-2013-telegram-update",
-      "updatedAt": "2026-11-11T17:28:58.475Z"
+      "updatedAt": "2026-11-11T23:44:07.671Z"
     },
     {
       "file": "2026-11-09-0844-telegram-update.md",
       "title": "2026-11-09-0844-telegram-update",
-      "updatedAt": "2026-11-11T17:28:58.475Z"
+      "updatedAt": "2026-11-11T23:44:07.671Z"
     },
     {
       "file": "2026-11-08-2123-telegram-update.md",
       "title": "2026-11-08-2123-telegram-update",
-      "updatedAt": "2026-11-11T17:28:58.475Z"
+      "updatedAt": "2026-11-11T23:44:07.671Z"
     },
     {
       "file": "2026-11-08-1623-telegram-update.md",
       "title": "2026-11-08-1623-telegram-update",
-      "updatedAt": "2026-11-11T17:28:58.475Z"
+      "updatedAt": "2026-11-11T23:44:07.671Z"
     },
     {
       "file": "2026-11-08-0804-telegram-update.md",
       "title": "2026-11-08-0804-telegram-update",
-      "updatedAt": "2026-11-11T17:28:58.475Z"
+      "updatedAt": "2026-11-11T23:44:07.671Z"
     },
     {
       "file": "2026-11-07-2106-telegram-update.md",
       "title": "2026-11-07-2106-telegram-update",
-      "updatedAt": "2026-11-11T17:28:58.475Z"
+      "updatedAt": "2026-11-11T23:44:07.671Z"
     },
     {
       "file": "2026-11-07-1556-telegram-update.md",
       "title": "2026-11-07-1556-telegram-update",
-      "updatedAt": "2026-11-11T17:28:58.475Z"
+      "updatedAt": "2026-11-11T23:44:07.671Z"
     },
     {
       "file": "2026-11-07-0751-telegram-update.md",
       "title": "2026-11-07-0751-telegram-update",
-      "updatedAt": "2026-11-11T17:28:58.475Z"
+      "updatedAt": "2026-11-11T23:44:07.671Z"
     },
     {
       "file": "2026-11-06-2226-telegram-update.md",
       "title": "2026-11-06-2226-telegram-update",
-      "updatedAt": "2026-11-11T17:28:58.475Z"
+      "updatedAt": "2026-11-11T23:44:07.671Z"
     },
     {
       "file": "2026-11-06-1658-telegram-update.md",
       "title": "2026-11-06-1658-telegram-update",
-      "updatedAt": "2026-11-11T17:28:58.475Z"
+      "updatedAt": "2026-11-11T23:44:07.671Z"
     },
     {
       "file": "2026-11-06-0835-telegram-update.md",
       "title": "2026-11-06-0835-telegram-update",
-      "updatedAt": "2026-11-11T17:28:58.475Z"
+      "updatedAt": "2026-11-11T23:44:07.671Z"
     },
     {
       "file": "2026-11-05-2256-telegram-update.md",
       "title": "2026-11-05-2256-telegram-update",
-      "updatedAt": "2026-11-11T17:28:58.475Z"
+      "updatedAt": "2026-11-11T23:44:07.671Z"
     },
     {
       "file": "2026-11-05-1742-telegram-update.md",
       "title": "2026-11-05-1742-telegram-update",
-      "updatedAt": "2026-11-11T17:28:58.474Z"
+      "updatedAt": "2026-11-11T23:44:07.671Z"
     },
     {
       "file": "2026-11-05-0836-telegram-update.md",
       "title": "2026-11-05-0836-telegram-update",
-      "updatedAt": "2026-11-11T17:28:58.474Z"
+      "updatedAt": "2026-11-11T23:44:07.671Z"
     },
     {
       "file": "2026-11-04-2255-telegram-update.md",
       "title": "2026-11-04-2255-telegram-update",
-      "updatedAt": "2026-11-11T17:28:58.474Z"
+      "updatedAt": "2026-11-11T23:44:07.671Z"
     },
     {
       "file": "2026-11-04-1737-telegram-update.md",
       "title": "2026-11-04-1737-telegram-update",
-      "updatedAt": "2026-11-11T17:28:58.474Z"
+      "updatedAt": "2026-11-11T23:44:07.671Z"
     },
     {
       "file": "2026-11-04-0810-telegram-update.md",
       "title": "2026-11-04-0810-telegram-update",
-      "updatedAt": "2026-11-11T17:28:58.474Z"
+      "updatedAt": "2026-11-11T23:44:07.671Z"
     },
     {
       "file": "2026-11-04-0143-telegram-update.md",
       "title": "2026-11-04-0143-telegram-update",
-      "updatedAt": "2026-11-11T17:28:58.474Z"
+      "updatedAt": "2026-11-11T23:44:07.671Z"
     },
     {
       "file": "2026-11-03-2018-telegram-update.md",
       "title": "2026-11-03-2018-telegram-update",
-      "updatedAt": "2026-11-11T17:28:58.474Z"
+      "updatedAt": "2026-11-11T23:44:07.671Z"
     },
     {
       "file": "2026-11-03-1302-telegram-update.md",
       "title": "2026-11-03-1302-telegram-update",
-      "updatedAt": "2026-11-11T17:28:58.474Z"
+      "updatedAt": "2026-11-11T23:44:07.671Z"
     },
     {
       "file": "2026-11-03-0306-telegram-update.md",
       "title": "2026-11-03-0306-telegram-update",
-      "updatedAt": "2026-11-11T17:28:58.474Z"
+      "updatedAt": "2026-11-11T23:44:07.671Z"
     },
     {
       "file": "2026-11-02-1950-telegram-update.md",
       "title": "2026-11-02-1950-telegram-update",
-      "updatedAt": "2026-11-11T17:28:58.474Z"
+      "updatedAt": "2026-11-11T23:44:07.671Z"
     },
     {
       "file": "2026-11-02-0826-telegram-update.md",
       "title": "2026-11-02-0826-telegram-update",
-      "updatedAt": "2026-11-11T17:28:58.474Z"
+      "updatedAt": "2026-11-11T23:44:07.671Z"
     },
     {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-11T17:28:58.474Z"
+      "updatedAt": "2026-11-11T23:44:07.671Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-11T17:28:58.474Z"
+      "updatedAt": "2026-11-11T23:44:07.671Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-11T17:28:58.474Z"
+      "updatedAt": "2026-11-11T23:44:07.671Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-11T17:28:58.474Z"
+      "updatedAt": "2026-11-11T23:44:07.671Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-11T17:28:58.474Z"
+      "updatedAt": "2026-11-11T23:44:07.671Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-11T17:28:58.474Z"
+      "updatedAt": "2026-11-11T23:44:07.671Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-11T17:28:58.474Z"
+      "updatedAt": "2026-11-11T23:44:07.671Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-11T17:28:58.474Z"
+      "updatedAt": "2026-11-11T23:44:07.671Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-11T17:28:58.474Z"
+      "updatedAt": "2026-11-11T23:44:07.671Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-11T17:28:58.474Z"
+      "updatedAt": "2026-11-11T23:44:07.671Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-11T17:28:58.474Z"
+      "updatedAt": "2026-11-11T23:44:07.671Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-11T17:28:58.474Z"
+      "updatedAt": "2026-11-11T23:44:07.671Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-11T17:28:58.474Z"
+      "updatedAt": "2026-11-11T23:44:07.671Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-11T17:28:58.474Z"
+      "updatedAt": "2026-11-11T23:44:07.671Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-11T17:28:58.474Z"
+      "updatedAt": "2026-11-11T23:44:07.671Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-11T17:28:58.474Z"
+      "updatedAt": "2026-11-11T23:44:07.671Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-11T17:28:58.474Z"
+      "updatedAt": "2026-11-11T23:44:07.671Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-11T17:28:58.474Z"
+      "updatedAt": "2026-11-11T23:44:07.671Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-11T17:28:58.474Z"
+      "updatedAt": "2026-11-11T23:44:07.671Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-11T17:28:58.473Z"
+      "updatedAt": "2026-11-11T23:44:07.670Z"
     }
   ]
 }
