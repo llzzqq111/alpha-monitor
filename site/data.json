@@ -1,24 +1,142 @@
 {
-  "generatedAt": "2026-11-12T08:53:27.104Z",
+  "generatedAt": "2026-11-12T17:46:24.837Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 40710,
-    "lastMessageAt": "2026-11-12T08:43:05+00:00",
-    "lastCheckedAt": "2026-11-12T08:53:26.861Z",
-    "previousMessageId": 40685,
-    "pagesRead": 2,
-    "messagesRead": 25,
-    "newProjectRecords": 8,
+    "lastMessageId": 40756,
+    "lastMessageAt": "2026-11-12T17:30:08+00:00",
+    "lastCheckedAt": "2026-11-12T17:46:24.656Z",
+    "previousMessageId": 40710,
+    "pagesRead": 3,
+    "messagesRead": 46,
+    "newProjectRecords": 12,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 851,
+    "telegramRows": 863,
     "xRows": 0,
-    "projects": 521,
+    "projects": 530,
     "crossSource": 0
   },
   "projects": [
+    {
+      "project": "Ascend",
+      "account": "AscendLaunch",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "CSR",
+        "Mutu",
+        "flaxsed",
+        "speest",
+        "unsynned",
+        "zyy",
+        "叶子君Foliage ◎ 🔶",
+        "黑客fa1r"
+      ],
+      "tgAlphas": [
+        "CSR",
+        "Mutu",
+        "flaxsed",
+        "speest",
+        "unsynned",
+        "zyy",
+        "叶子君Foliage ◎ 🔶",
+        "黑客fa1r"
+      ],
+      "xAlphas": [],
+      "mentions": 8,
+      "firstSeen": "2026-10-28T21:55:00+08:00",
+      "lastSeen": "2026-11-12T12:53:30+00:00",
+      "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Ascend",
+          "account": "AscendLaunch",
+          "alpha": "叶子君Foliage ◎ 🔶",
+          "seenAt": "2026-10-29T05:15:48+00:00",
+          "messageId": "dodtwitterbot/38389",
+          "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
+          "text": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects"
+        },
+        {
+          "source": "TG",
+          "project": "Ascend",
+          "account": "AscendLaunch",
+          "alpha": "flaxsed",
+          "seenAt": "2026-10-29T18:02:31+00:00",
+          "messageId": "dodtwitterbot/38564",
+          "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
+          "text": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects"
+        },
+        {
+          "source": "TG",
+          "project": "Ascend",
+          "account": "AscendLaunch",
+          "alpha": "黑客fa1r",
+          "seenAt": "2026-11-01T12:09:05+00:00",
+          "messageId": "dodtwitterbot/39004",
+          "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
+          "text": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects"
+        },
+        {
+          "source": "TG",
+          "project": "Ascend",
+          "account": "AscendLaunch",
+          "alpha": "CSR",
+          "seenAt": "2026-11-03T05:37:19+00:00",
+          "messageId": "dodtwitterbot/39373",
+          "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
+          "text": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects"
+        },
+        {
+          "source": "TG",
+          "project": "Ascend",
+          "account": "AscendLaunch",
+          "alpha": "zyy",
+          "seenAt": "2026-11-04T16:24:39+00:00",
+          "messageId": "dodtwitterbot/39638",
+          "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
+          "text": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects"
+        },
+        {
+          "source": "TG",
+          "project": "Ascend",
+          "account": "AscendLaunch",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-12T12:53:30+00:00",
+          "messageId": "dodtwitterbot/40727",
+          "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
+          "text": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects"
+        },
+        {
+          "source": "TG",
+          "project": "Ascend",
+          "account": "AscendLaunch",
+          "alpha": "Mutu",
+          "seenAt": "2026-10-28T21:55:00+08:00",
+          "messageId": "dodtwitterbot/38251",
+          "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
+          "text": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects"
+        },
+        {
+          "source": "TG",
+          "project": "Ascend",
+          "account": "AscendLaunch",
+          "alpha": "speest",
+          "seenAt": "2026-10-28T22:19:00+08:00",
+          "messageId": "dodtwitterbot/38257",
+          "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
+          "text": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects"
+        }
+      ],
+      "text": " Ascend AscendLaunch Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects Ascend AscendLaunch Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects Ascend AscendLaunch Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects Ascend AscendLaunch Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects Ascend AscendLaunch Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects Ascend AscendLaunch Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects Ascend AscendLaunch Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects Ascend AscendLaunch Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
+      "score": 16,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
     {
       "project": "eleos",
       "account": "eleosfun",
@@ -134,112 +252,6 @@
       ],
       "text": " eleos eleosfun elysium's launchpad with teeth.\n\nlaunch and trade coins on Elysium. eleos eleosfun elysium's launchpad with teeth.\n\nlaunch and trade coins on Elysium. eleos eleosfun elysium's launchpad with teeth.\n\nlaunch and trade coins on Elysium. eleos eleosfun elysium's launchpad with teeth.\n\nlaunch and trade coins on Elysium. eleos eleosfun elysium's launchpad with teeth.\n\nlaunch and trade coins on Elysium. eleos eleosfun elysium's launchpad with teeth.\n\nlaunch and trade coins on Elysium. eleos eleosfun elysium's launchpad with teeth.\n\nlaunch and trade coins on Elysium. eleos eleosfun elysium's launchpad with teeth.\n\nlaunch and trade coins on Elysium.",
       "score": 16,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Ascend",
-      "account": "AscendLaunch",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "CSR",
-        "Mutu",
-        "flaxsed",
-        "speest",
-        "zyy",
-        "叶子君Foliage ◎ 🔶",
-        "黑客fa1r"
-      ],
-      "tgAlphas": [
-        "CSR",
-        "Mutu",
-        "flaxsed",
-        "speest",
-        "zyy",
-        "叶子君Foliage ◎ 🔶",
-        "黑客fa1r"
-      ],
-      "xAlphas": [],
-      "mentions": 7,
-      "firstSeen": "2026-10-28T21:55:00+08:00",
-      "lastSeen": "2026-11-04T16:24:39+00:00",
-      "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Ascend",
-          "account": "AscendLaunch",
-          "alpha": "叶子君Foliage ◎ 🔶",
-          "seenAt": "2026-10-29T05:15:48+00:00",
-          "messageId": "dodtwitterbot/38389",
-          "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
-          "text": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects"
-        },
-        {
-          "source": "TG",
-          "project": "Ascend",
-          "account": "AscendLaunch",
-          "alpha": "flaxsed",
-          "seenAt": "2026-10-29T18:02:31+00:00",
-          "messageId": "dodtwitterbot/38564",
-          "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
-          "text": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects"
-        },
-        {
-          "source": "TG",
-          "project": "Ascend",
-          "account": "AscendLaunch",
-          "alpha": "黑客fa1r",
-          "seenAt": "2026-11-01T12:09:05+00:00",
-          "messageId": "dodtwitterbot/39004",
-          "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
-          "text": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects"
-        },
-        {
-          "source": "TG",
-          "project": "Ascend",
-          "account": "AscendLaunch",
-          "alpha": "CSR",
-          "seenAt": "2026-11-03T05:37:19+00:00",
-          "messageId": "dodtwitterbot/39373",
-          "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
-          "text": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects"
-        },
-        {
-          "source": "TG",
-          "project": "Ascend",
-          "account": "AscendLaunch",
-          "alpha": "zyy",
-          "seenAt": "2026-11-04T16:24:39+00:00",
-          "messageId": "dodtwitterbot/39638",
-          "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
-          "text": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects"
-        },
-        {
-          "source": "TG",
-          "project": "Ascend",
-          "account": "AscendLaunch",
-          "alpha": "Mutu",
-          "seenAt": "2026-10-28T21:55:00+08:00",
-          "messageId": "dodtwitterbot/38251",
-          "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
-          "text": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects"
-        },
-        {
-          "source": "TG",
-          "project": "Ascend",
-          "account": "AscendLaunch",
-          "alpha": "speest",
-          "seenAt": "2026-10-28T22:19:00+08:00",
-          "messageId": "dodtwitterbot/38257",
-          "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
-          "text": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects"
-        }
-      ],
-      "text": " Ascend AscendLaunch Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects Ascend AscendLaunch Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects Ascend AscendLaunch Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects Ascend AscendLaunch Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects Ascend AscendLaunch Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects Ascend AscendLaunch Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects Ascend AscendLaunch Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
-      "score": 14,
       "displayTier": "focus",
       "avatarUrl": ""
     },
@@ -4403,6 +4415,64 @@
         }
       ],
       "text": " Nummo NummoHQ One app for on-chain trading and lending. Built on @SonicLabs Nummo NummoHQ One app for on-chain trading and lending. Built on @SonicLabs Nummo NummoHQ One app for on-chain trading and lending. Built on @SonicLabs",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Offworld Privacy",
+      "account": "OffworldPrivacy",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Mutu 🕸️",
+        "lakka",
+        "well"
+      ],
+      "tgAlphas": [
+        "Mutu 🕸️",
+        "lakka",
+        "well"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-11-11T15:35:19+00:00",
+      "lastSeen": "2026-11-12T13:17:57+00:00",
+      "description": "Building private DeFi with shielded Zcash",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Offworld Privacy",
+          "account": "OffworldPrivacy",
+          "alpha": "well",
+          "seenAt": "2026-11-11T15:35:19+00:00",
+          "messageId": "dodtwitterbot/40645",
+          "description": "Building private DeFi with shielded Zcash",
+          "text": "Building private DeFi with shielded Zcash"
+        },
+        {
+          "source": "TG",
+          "project": "Offworld Privacy",
+          "account": "OffworldPrivacy",
+          "alpha": "Mutu 🕸️",
+          "seenAt": "2026-11-11T20:40:12+00:00",
+          "messageId": "dodtwitterbot/40676",
+          "description": "Building private DeFi with shielded Zcash",
+          "text": "Building private DeFi with shielded Zcash"
+        },
+        {
+          "source": "TG",
+          "project": "Offworld Privacy",
+          "account": "OffworldPrivacy",
+          "alpha": "lakka",
+          "seenAt": "2026-11-12T13:17:57+00:00",
+          "messageId": "dodtwitterbot/40731",
+          "description": "Building private DeFi with shielded Zcash",
+          "text": "Building private DeFi with shielded Zcash"
+        }
+      ],
+      "text": " Offworld Privacy OffworldPrivacy Building private DeFi with shielded Zcash Offworld Privacy OffworldPrivacy Building private DeFi with shielded Zcash Offworld Privacy OffworldPrivacy Building private DeFi with shielded Zcash",
       "score": 6,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -8674,52 +8744,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Offworld Privacy",
-      "account": "OffworldPrivacy",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "Mutu 🕸️",
-        "well"
-      ],
-      "tgAlphas": [
-        "Mutu 🕸️",
-        "well"
-      ],
-      "xAlphas": [],
-      "mentions": 2,
-      "firstSeen": "2026-11-11T15:35:19+00:00",
-      "lastSeen": "2026-11-11T20:40:12+00:00",
-      "description": "Building private DeFi with shielded Zcash",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Offworld Privacy",
-          "account": "OffworldPrivacy",
-          "alpha": "well",
-          "seenAt": "2026-11-11T15:35:19+00:00",
-          "messageId": "dodtwitterbot/40645",
-          "description": "Building private DeFi with shielded Zcash",
-          "text": "Building private DeFi with shielded Zcash"
-        },
-        {
-          "source": "TG",
-          "project": "Offworld Privacy",
-          "account": "OffworldPrivacy",
-          "alpha": "Mutu 🕸️",
-          "seenAt": "2026-11-11T20:40:12+00:00",
-          "messageId": "dodtwitterbot/40676",
-          "description": "Building private DeFi with shielded Zcash",
-          "text": "Building private DeFi with shielded Zcash"
-        }
-      ],
-      "text": " Offworld Privacy OffworldPrivacy Building private DeFi with shielded Zcash Offworld Privacy OffworldPrivacy Building private DeFi with shielded Zcash",
-      "score": 4,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
       "project": "Open Teleport",
       "account": "open_teleport",
       "sources": [
@@ -9543,6 +9567,52 @@
         }
       ],
       "text": " Squadz Protocol Squadzdotfun Decentralized fair launch protocol on Solana Squadz Protocol Squadzdotfun Decentralized fair launch protocol on Solana",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Stars",
+      "account": "StarsAI_BSC",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "八九",
+        "枫叶"
+      ],
+      "tgAlphas": [
+        "八九",
+        "枫叶"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-12T09:28:28+00:00",
+      "lastSeen": "2026-11-12T09:49:27+00:00",
+      "description": "A completely new minting launch platform&#33;\nTG: https://t.co/Iu9D8wcJxX",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Stars",
+          "account": "StarsAI_BSC",
+          "alpha": "八九",
+          "seenAt": "2026-11-12T09:28:28+00:00",
+          "messageId": "dodtwitterbot/40713",
+          "description": "A completely new minting launch platform&#33;\nTG: https://t.co/Iu9D8wcJxX",
+          "text": "A completely new minting launch platform&#33;\nTG: https://t.co/Iu9D8wcJxX"
+        },
+        {
+          "source": "TG",
+          "project": "Stars",
+          "account": "StarsAI_BSC",
+          "alpha": "枫叶",
+          "seenAt": "2026-11-12T09:49:27+00:00",
+          "messageId": "dodtwitterbot/40715",
+          "description": "A completely new minting launch platform&#33;\nTG: https://t.co/Iu9D8wcJxX",
+          "text": "A completely new minting launch platform&#33;\nTG: https://t.co/Iu9D8wcJxX"
+        }
+      ],
+      "text": " Stars StarsAI_BSC A completely new minting launch platform&#33;\nTG: https://t.co/Iu9D8wcJxX Stars StarsAI_BSC A completely new minting launch platform&#33;\nTG: https://t.co/Iu9D8wcJxX",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -10707,6 +10777,40 @@
         }
       ],
       "text": " Alignbase alignbase_ai The Agent Operations platform. Automatically align, audit, and improve your team's agents & context.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "APEX | All-in-one DeFi",
+      "account": "apex314_defi",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka"
+      ],
+      "tgAlphas": [
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-12T16:49:46+00:00",
+      "lastSeen": "2026-11-12T16:49:46+00:00",
+      "description": "DEX and Token Launchpad on &#036;AVAX. Reward driven, creator-centric platform with highly customizable token launches.\nTG: https://t.co/POWj8HblX3",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "APEX | All-in-one DeFi",
+          "account": "apex314_defi",
+          "alpha": "lakka",
+          "seenAt": "2026-11-12T16:49:46+00:00",
+          "messageId": "dodtwitterbot/40755",
+          "description": "DEX and Token Launchpad on &#036;AVAX. Reward driven, creator-centric platform with highly customizable token launches.\nTG: https://t.co/POWj8HblX3",
+          "text": "DEX and Token Launchpad on &#036;AVAX. Reward driven, creator-centric platform with highly customizable token launches.\nTG: https://t.co/POWj8HblX3"
+        }
+      ],
+      "text": " APEX | All-in-one DeFi apex314_defi DEX and Token Launchpad on &#036;AVAX. Reward driven, creator-centric platform with highly customizable token launches.\nTG: https://t.co/POWj8HblX3",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -13058,6 +13162,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Elytra",
+      "account": "elytra_capital",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-12T14:30:37+00:00",
+      "lastSeen": "2026-11-12T14:30:37+00:00",
+      "description": "Onchain research and trading.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Elytra",
+          "account": "elytra_capital",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-12T14:30:37+00:00",
+          "messageId": "dodtwitterbot/40739",
+          "description": "Onchain research and trading.",
+          "text": "Onchain research and trading."
+        }
+      ],
+      "text": " Elytra elytra_capital Onchain research and trading.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Elytypes",
       "account": "Elytypess",
       "sources": [
@@ -13257,6 +13395,40 @@
         }
       ],
       "text": " Fantom Troupe TroupeFTM private collective of on-chain chads 🕷️ 🕸️",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Fanz",
+      "account": "Fanzzka",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Mutu 🕸️"
+      ],
+      "tgAlphas": [
+        "Mutu 🕸️"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-12T16:25:17+00:00",
+      "lastSeen": "2026-11-12T16:25:17+00:00",
+      "description": "AI web3 两性 问题大王\n梦想领上老马的低保\n有关必回",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Fanz",
+          "account": "Fanzzka",
+          "alpha": "Mutu 🕸️",
+          "seenAt": "2026-11-12T16:25:17+00:00",
+          "messageId": "dodtwitterbot/40751",
+          "description": "AI web3 两性 问题大王\n梦想领上老马的低保\n有关必回",
+          "text": "AI web3 两性 问题大王\n梦想领上老马的低保\n有关必回"
+        }
+      ],
+      "text": " Fanz Fanzzka AI web3 两性 问题大王\n梦想领上老马的低保\n有关必回",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -16016,6 +16188,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "lowkey",
+      "account": "useLowkeyXYZ",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "枫叶"
+      ],
+      "tgAlphas": [
+        "枫叶"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-12T11:55:50+00:00",
+      "lastSeen": "2026-11-12T11:55:50+00:00",
+      "description": "Launch → Swap → Stash → Card. One privacy suite on Solana; swap and card coming soon. Your keys never leave your device. Stay lowkey.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "lowkey",
+          "account": "useLowkeyXYZ",
+          "alpha": "枫叶",
+          "seenAt": "2026-11-12T11:55:50+00:00",
+          "messageId": "dodtwitterbot/40724",
+          "description": "Launch → Swap → Stash → Card. One privacy suite on Solana; swap and card coming soon. Your keys never leave your device. Stay lowkey.",
+          "text": "Launch → Swap → Stash → Card. One privacy suite on Solana; swap and card coming soon. Your keys never leave your device. Stay lowkey."
+        }
+      ],
+      "text": " lowkey useLowkeyXYZ Launch → Swap → Stash → Card. One privacy suite on Solana; swap and card coming soon. Your keys never leave your device. Stay lowkey.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "madang / 마당 - A launchpad on GIWA",
       "account": "madang_fun",
       "sources": [
@@ -16589,6 +16795,40 @@
         }
       ],
       "text": " MOJO MojoAI_HQ The all-in-one agentic trading OS.\n\nInvest with taste mode.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Monke",
+      "account": "monketrade_",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-12T15:54:26+00:00",
+      "lastSeen": "2026-11-12T15:54:26+00:00",
+      "description": "News trading, prediction markets, advanced terminal.\n\nReturn to tradition, Return to winning.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Monke",
+          "account": "monketrade_",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-12T15:54:26+00:00",
+          "messageId": "dodtwitterbot/40747",
+          "description": "News trading, prediction markets, advanced terminal.\n\nReturn to tradition, Return to winning.",
+          "text": "News trading, prediction markets, advanced terminal.\n\nReturn to tradition, Return to winning."
+        }
+      ],
+      "text": " Monke monketrade_ News trading, prediction markets, advanced terminal.\n\nReturn to tradition, Return to winning.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -17954,6 +18194,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Ponx",
+      "account": "Ponxter",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka"
+      ],
+      "tgAlphas": [
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-12T13:09:49+00:00",
+      "lastSeen": "2026-11-12T13:09:49+00:00",
+      "description": "Crypto, market structure, and intermittent transmissions. Occasionally seaworthy.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Ponx",
+          "account": "Ponxter",
+          "alpha": "lakka",
+          "seenAt": "2026-11-12T13:09:49+00:00",
+          "messageId": "dodtwitterbot/40730",
+          "description": "Crypto, market structure, and intermittent transmissions. Occasionally seaworthy.",
+          "text": "Crypto, market structure, and intermittent transmissions. Occasionally seaworthy."
+        }
+      ],
+      "text": " Ponx Ponxter Crypto, market structure, and intermittent transmissions. Occasionally seaworthy.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "poonks",
       "account": "poonksdotfun",
       "sources": [
@@ -18765,6 +19039,40 @@
         }
       ],
       "text": " Ripcord | Ascend getripcordxyz Automated exit protection for @AscendLaunch tokens.\nSet your rules. Let Ripcord handle the exit.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "River One",
+      "account": "RiverOneHQ",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka"
+      ],
+      "tgAlphas": [
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-12T13:07:05+00:00",
+      "lastSeen": "2026-11-12T13:07:05+00:00",
+      "description": "Institutional asset-backed finance for the stablecoin economy",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "River One",
+          "account": "RiverOneHQ",
+          "alpha": "lakka",
+          "seenAt": "2026-11-12T13:07:05+00:00",
+          "messageId": "dodtwitterbot/40729",
+          "description": "Institutional asset-backed finance for the stablecoin economy",
+          "text": "Institutional asset-backed finance for the stablecoin economy"
+        }
+      ],
+      "text": " River One RiverOneHQ Institutional asset-backed finance for the stablecoin economy",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -20091,6 +20399,40 @@
         }
       ],
       "text": " TARS tars_Agentic Hello, world. This is TARS.\n\n++ The agentic launchpad on @Solana .\n++ Ask your agent to install TARS.\n++ Create or trade tokens.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Tenjo",
+      "account": "tenjofinance",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-12T15:57:12+00:00",
+      "lastSeen": "2026-11-12T15:57:12+00:00",
+      "description": "Upside loans on tokenized stocks",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Tenjo",
+          "account": "tenjofinance",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-12T15:57:12+00:00",
+          "messageId": "dodtwitterbot/40749",
+          "description": "Upside loans on tokenized stocks",
+          "text": "Upside loans on tokenized stocks"
+        }
+      ],
+      "text": " Tenjo tenjofinance Upside loans on tokenized stocks",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -21698,6 +22040,27 @@
   "xMultiAlpha": [],
   "tgPriority": [
     {
+      "project": "Ascend",
+      "x_account": "AscendLaunch",
+      "total_mentions": 8,
+      "unique_alphas": 8,
+      "alphas": [
+        "CSR",
+        "Mutu",
+        "flaxsed",
+        "speest",
+        "unsynned",
+        "zyy",
+        "叶子君Foliage ◎ 🔶",
+        "黑客fa1r"
+      ],
+      "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
+      "first_seen_utc": "2026-10-28T21:55:00+08:00",
+      "last_seen_utc": "2026-11-12T12:53:30+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
       "project": "eleos",
       "x_account": "eleosfun",
       "total_mentions": 8,
@@ -21715,26 +22078,6 @@
       "description": "elysium's launchpad with teeth.\n\nlaunch and trade coins on Elysium.",
       "first_seen_utc": "2026-10-30T14:03:48+00:00",
       "last_seen_utc": "2026-11-06T17:13:21+00:00",
-      "status": "priority",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Ascend",
-      "x_account": "AscendLaunch",
-      "total_mentions": 7,
-      "unique_alphas": 7,
-      "alphas": [
-        "CSR",
-        "Mutu",
-        "flaxsed",
-        "speest",
-        "zyy",
-        "叶子君Foliage ◎ 🔶",
-        "黑客fa1r"
-      ],
-      "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
-      "first_seen_utc": "2026-10-28T21:55:00+08:00",
-      "last_seen_utc": "2026-11-04T16:24:39+00:00",
       "status": "priority",
       "avatarUrl": ""
     },
@@ -22752,6 +23095,22 @@
       "description": "One app for on-chain trading and lending. Built on @SonicLabs",
       "first_seen_utc": "2026-10-31T17:26:01+00:00",
       "last_seen_utc": "2026-11-02T16:20:44+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Offworld Privacy",
+      "x_account": "OffworldPrivacy",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "Mutu 🕸️",
+        "lakka",
+        "well"
+      ],
+      "description": "Building private DeFi with shielded Zcash",
+      "first_seen_utc": "2026-11-11T15:35:19+00:00",
+      "last_seen_utc": "2026-11-12T13:17:57+00:00",
       "status": "priority",
       "avatarUrl": ""
     },
@@ -24083,21 +24442,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Offworld Privacy",
-      "x_account": "OffworldPrivacy",
-      "total_mentions": 2,
-      "unique_alphas": 2,
-      "alphas": [
-        "Mutu 🕸️",
-        "well"
-      ],
-      "description": "Building private DeFi with shielded Zcash",
-      "first_seen_utc": "2026-11-11T15:35:19+00:00",
-      "last_seen_utc": "2026-11-11T20:40:12+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "Open Teleport",
       "x_account": "open_teleport",
       "total_mentions": 2,
@@ -24364,6 +24708,21 @@
       "description": "Decentralized fair launch protocol on Solana",
       "first_seen_utc": "2026-10-28T21:22:01+00:00",
       "last_seen_utc": "2026-11-06T12:10:20+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Stars",
+      "x_account": "StarsAI_BSC",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "八九",
+        "枫叶"
+      ],
+      "description": "A completely new minting launch platform&#33;\nTG: https://t.co/Iu9D8wcJxX",
+      "first_seen_utc": "2026-11-12T09:28:28+00:00",
+      "last_seen_utc": "2026-11-12T09:49:27+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -24796,6 +25155,20 @@
       "description": "The Agent Operations platform. Automatically align, audit, and improve your team's agents & context.",
       "first_seen_utc": "2026-11-06T10:33:16+00:00",
       "last_seen_utc": "2026-11-06T10:33:16+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "APEX | All-in-one DeFi",
+      "x_account": "apex314_defi",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "lakka"
+      ],
+      "description": "DEX and Token Launchpad on &#036;AVAX. Reward driven, creator-centric platform with highly customizable token launches.\nTG: https://t.co/POWj8HblX3",
+      "first_seen_utc": "2026-11-12T16:49:46+00:00",
+      "last_seen_utc": "2026-11-12T16:49:46+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -25766,6 +26139,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Elytra",
+      "x_account": "elytra_capital",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "unsynned"
+      ],
+      "description": "Onchain research and trading.",
+      "first_seen_utc": "2026-11-12T14:30:37+00:00",
+      "last_seen_utc": "2026-11-12T14:30:37+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Elytypes",
       "x_account": "Elytypess",
       "total_mentions": 1,
@@ -25846,6 +26233,20 @@
       "description": "private collective of on-chain chads 🕷️ 🕸️",
       "first_seen_utc": "2026-11-08T17:50:17+00:00",
       "last_seen_utc": "2026-11-08T17:50:17+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Fanz",
+      "x_account": "Fanzzka",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "Mutu 🕸️"
+      ],
+      "description": "AI web3 两性 问题大王\n梦想领上老马的低保\n有关必回",
+      "first_seen_utc": "2026-11-12T16:25:17+00:00",
+      "last_seen_utc": "2026-11-12T16:25:17+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -26984,6 +27385,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "lowkey",
+      "x_account": "useLowkeyXYZ",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "枫叶"
+      ],
+      "description": "Launch → Swap → Stash → Card. One privacy suite on Solana; swap and card coming soon. Your keys never leave your device. Stay lowkey.",
+      "first_seen_utc": "2026-11-12T11:55:50+00:00",
+      "last_seen_utc": "2026-11-12T11:55:50+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "madang / 마당 - A launchpad on GIWA",
       "x_account": "madang_fun",
       "total_mentions": 1,
@@ -27218,6 +27633,20 @@
       "description": "The all-in-one agentic trading OS.\n\nInvest with taste mode.",
       "first_seen_utc": "2026-10-29T04:17:40+00:00",
       "last_seen_utc": "2026-10-29T04:17:40+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Monke",
+      "x_account": "monketrade_",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "unsynned"
+      ],
+      "description": "News trading, prediction markets, advanced terminal.\n\nReturn to tradition, Return to winning.",
+      "first_seen_utc": "2026-11-12T15:54:26+00:00",
+      "last_seen_utc": "2026-11-12T15:54:26+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -27782,6 +28211,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Ponx",
+      "x_account": "Ponxter",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "lakka"
+      ],
+      "description": "Crypto, market structure, and intermittent transmissions. Occasionally seaworthy.",
+      "first_seen_utc": "2026-11-12T13:09:49+00:00",
+      "last_seen_utc": "2026-11-12T13:09:49+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "poonks",
       "x_account": "poonksdotfun",
       "total_mentions": 1,
@@ -28114,6 +28557,20 @@
       "description": "Automated exit protection for @AscendLaunch tokens.\nSet your rules. Let Ripcord handle the exit.",
       "first_seen_utc": "2026-11-05T04:24:34+00:00",
       "last_seen_utc": "2026-11-05T04:24:34+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "River One",
+      "x_account": "RiverOneHQ",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "lakka"
+      ],
+      "description": "Institutional asset-backed finance for the stablecoin economy",
+      "first_seen_utc": "2026-11-12T13:07:05+00:00",
+      "last_seen_utc": "2026-11-12T13:07:05+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -28660,6 +29117,20 @@
       "description": "Hello, world. This is TARS.\n\n++ The agentic launchpad on @Solana .\n++ Ask your agent to install TARS.\n++ Create or trade tokens.",
       "first_seen_utc": "2026-11-01T11:11:23+00:00",
       "last_seen_utc": "2026-11-01T11:11:23+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Tenjo",
+      "x_account": "tenjofinance",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "unsynned"
+      ],
+      "description": "Upside loans on tokenized stocks",
+      "first_seen_utc": "2026-11-12T15:57:12+00:00",
+      "last_seen_utc": "2026-11-12T15:57:12+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -29324,14 +29795,96 @@
   ],
   "daily": [
     {
-      "date": "2026-11-12",
-      "totalRows": 21,
-      "projectCount": 14,
-      "focusCount": 5,
-      "candidateCount": 9,
+      "date": "2026-11-13",
+      "totalRows": 2,
+      "projectCount": 2,
+      "focusCount": 0,
+      "candidateCount": 2,
       "crossSource": 0,
-      "newCount": 11,
-      "repeatCount": 3,
+      "newCount": 2,
+      "repeatCount": 0,
+      "projects": [
+        {
+          "project": "APEX | All-in-one DeFi",
+          "account": "apex314_defi",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-12T16:49:46+00:00",
+          "lastSeen": "2026-11-12T16:49:46+00:00",
+          "description": "DEX and Token Launchpad on &#036;AVAX. Reward driven, creator-centric platform with highly customizable token launches.\nTG: https://t.co/POWj8HblX3",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "APEX | All-in-one DeFi",
+              "account": "apex314_defi",
+              "alpha": "lakka",
+              "seenAt": "2026-11-12T16:49:46+00:00",
+              "messageId": "dodtwitterbot/40755",
+              "description": "DEX and Token Launchpad on &#036;AVAX. Reward driven, creator-centric platform with highly customizable token launches.\nTG: https://t.co/POWj8HblX3",
+              "text": "DEX and Token Launchpad on &#036;AVAX. Reward driven, creator-centric platform with highly customizable token launches.\nTG: https://t.co/POWj8HblX3"
+            }
+          ],
+          "text": " APEX | All-in-one DeFi apex314_defi DEX and Token Launchpad on &#036;AVAX. Reward driven, creator-centric platform with highly customizable token launches.\nTG: https://t.co/POWj8HblX3",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Fanz",
+          "account": "Fanzzka",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Mutu 🕸️"
+          ],
+          "tgAlphas": [
+            "Mutu 🕸️"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-12T16:25:17+00:00",
+          "lastSeen": "2026-11-12T16:25:17+00:00",
+          "description": "AI web3 两性 问题大王\n梦想领上老马的低保\n有关必回",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Fanz",
+              "account": "Fanzzka",
+              "alpha": "Mutu 🕸️",
+              "seenAt": "2026-11-12T16:25:17+00:00",
+              "messageId": "dodtwitterbot/40751",
+              "description": "AI web3 两性 问题大王\n梦想领上老马的低保\n有关必回",
+              "text": "AI web3 两性 问题大王\n梦想领上老马的低保\n有关必回"
+            }
+          ],
+          "text": " Fanz Fanzzka AI web3 两性 问题大王\n梦想领上老马的低保\n有关必回",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "totalRows": 31,
+      "projectCount": 22,
+      "focusCount": 7,
+      "candidateCount": 15,
+      "crossSource": 0,
+      "newCount": 18,
+      "repeatCount": 4,
       "projects": [
         {
           "project": "Kalmia",
@@ -29499,6 +30052,53 @@
           "dayStatus": "new"
         },
         {
+          "project": "Offworld Privacy",
+          "account": "OffworldPrivacy",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Mutu 🕸️",
+            "lakka"
+          ],
+          "tgAlphas": [
+            "Mutu 🕸️",
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-11-11T20:40:12+00:00",
+          "lastSeen": "2026-11-12T13:17:57+00:00",
+          "description": "Building private DeFi with shielded Zcash",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Offworld Privacy",
+              "account": "OffworldPrivacy",
+              "alpha": "Mutu 🕸️",
+              "seenAt": "2026-11-11T20:40:12+00:00",
+              "messageId": "dodtwitterbot/40676",
+              "description": "Building private DeFi with shielded Zcash",
+              "text": "Building private DeFi with shielded Zcash"
+            },
+            {
+              "source": "TG",
+              "project": "Offworld Privacy",
+              "account": "OffworldPrivacy",
+              "alpha": "lakka",
+              "seenAt": "2026-11-12T13:17:57+00:00",
+              "messageId": "dodtwitterbot/40731",
+              "description": "Building private DeFi with shielded Zcash",
+              "text": "Building private DeFi with shielded Zcash"
+            }
+          ],
+          "text": " Offworld Privacy OffworldPrivacy Building private DeFi with shielded Zcash Offworld Privacy OffworldPrivacy Building private DeFi with shielded Zcash",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
           "project": "Outworld Labs",
           "account": "outworldlabs",
           "sources": [
@@ -29593,6 +30193,88 @@
           "dayStatus": "new"
         },
         {
+          "project": "Stars",
+          "account": "StarsAI_BSC",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "八九",
+            "枫叶"
+          ],
+          "tgAlphas": [
+            "八九",
+            "枫叶"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-11-12T09:28:28+00:00",
+          "lastSeen": "2026-11-12T09:49:27+00:00",
+          "description": "A completely new minting launch platform&#33;\nTG: https://t.co/Iu9D8wcJxX",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Stars",
+              "account": "StarsAI_BSC",
+              "alpha": "八九",
+              "seenAt": "2026-11-12T09:28:28+00:00",
+              "messageId": "dodtwitterbot/40713",
+              "description": "A completely new minting launch platform&#33;\nTG: https://t.co/Iu9D8wcJxX",
+              "text": "A completely new minting launch platform&#33;\nTG: https://t.co/Iu9D8wcJxX"
+            },
+            {
+              "source": "TG",
+              "project": "Stars",
+              "account": "StarsAI_BSC",
+              "alpha": "枫叶",
+              "seenAt": "2026-11-12T09:49:27+00:00",
+              "messageId": "dodtwitterbot/40715",
+              "description": "A completely new minting launch platform&#33;\nTG: https://t.co/Iu9D8wcJxX",
+              "text": "A completely new minting launch platform&#33;\nTG: https://t.co/Iu9D8wcJxX"
+            }
+          ],
+          "text": " Stars StarsAI_BSC A completely new minting launch platform&#33;\nTG: https://t.co/Iu9D8wcJxX Stars StarsAI_BSC A completely new minting launch platform&#33;\nTG: https://t.co/Iu9D8wcJxX",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Ascend",
+          "account": "AscendLaunch",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-12T12:53:30+00:00",
+          "lastSeen": "2026-11-12T12:53:30+00:00",
+          "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Ascend",
+              "account": "AscendLaunch",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-12T12:53:30+00:00",
+              "messageId": "dodtwitterbot/40727",
+              "description": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
+              "text": "Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects"
+            }
+          ],
+          "text": " Ascend AscendLaunch Hold your HYPE. Ascend anyway.\n\nThe launchpad for @Enter_Elysium next generation of projects",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
           "project": "ChainChomp131",
           "account": "ChainChomp131",
           "sources": [
@@ -29626,6 +30308,41 @@
           "displayTier": "candidate",
           "avatarUrl": "",
           "dayStatus": "repeat"
+        },
+        {
+          "project": "Elytra",
+          "account": "elytra_capital",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-12T14:30:37+00:00",
+          "lastSeen": "2026-11-12T14:30:37+00:00",
+          "description": "Onchain research and trading.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Elytra",
+              "account": "elytra_capital",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-12T14:30:37+00:00",
+              "messageId": "dodtwitterbot/40739",
+              "description": "Onchain research and trading.",
+              "text": "Onchain research and trading."
+            }
+          ],
+          "text": " Elytra elytra_capital Onchain research and trading.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
         },
         {
           "project": "Feather Games",
@@ -29733,6 +30450,76 @@
           "dayStatus": "new"
         },
         {
+          "project": "lowkey",
+          "account": "useLowkeyXYZ",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "枫叶"
+          ],
+          "tgAlphas": [
+            "枫叶"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-12T11:55:50+00:00",
+          "lastSeen": "2026-11-12T11:55:50+00:00",
+          "description": "Launch → Swap → Stash → Card. One privacy suite on Solana; swap and card coming soon. Your keys never leave your device. Stay lowkey.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "lowkey",
+              "account": "useLowkeyXYZ",
+              "alpha": "枫叶",
+              "seenAt": "2026-11-12T11:55:50+00:00",
+              "messageId": "dodtwitterbot/40724",
+              "description": "Launch → Swap → Stash → Card. One privacy suite on Solana; swap and card coming soon. Your keys never leave your device. Stay lowkey.",
+              "text": "Launch → Swap → Stash → Card. One privacy suite on Solana; swap and card coming soon. Your keys never leave your device. Stay lowkey."
+            }
+          ],
+          "text": " lowkey useLowkeyXYZ Launch → Swap → Stash → Card. One privacy suite on Solana; swap and card coming soon. Your keys never leave your device. Stay lowkey.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Monke",
+          "account": "monketrade_",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-12T15:54:26+00:00",
+          "lastSeen": "2026-11-12T15:54:26+00:00",
+          "description": "News trading, prediction markets, advanced terminal.\n\nReturn to tradition, Return to winning.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Monke",
+              "account": "monketrade_",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-12T15:54:26+00:00",
+              "messageId": "dodtwitterbot/40747",
+              "description": "News trading, prediction markets, advanced terminal.\n\nReturn to tradition, Return to winning.",
+              "text": "News trading, prediction markets, advanced terminal.\n\nReturn to tradition, Return to winning."
+            }
+          ],
+          "text": " Monke monketrade_ News trading, prediction markets, advanced terminal.\n\nReturn to tradition, Return to winning.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
           "project": "Moon 🌙",
           "account": "PlayMoonHL",
           "sources": [
@@ -29768,39 +30555,39 @@
           "dayStatus": "new"
         },
         {
-          "project": "Offworld Privacy",
-          "account": "OffworldPrivacy",
+          "project": "Ponx",
+          "account": "Ponxter",
           "sources": [
             "TG"
           ],
           "alphas": [
-            "Mutu 🕸️"
+            "lakka"
           ],
           "tgAlphas": [
-            "Mutu 🕸️"
+            "lakka"
           ],
           "xAlphas": [],
           "mentions": 1,
-          "firstSeen": "2026-11-11T20:40:12+00:00",
-          "lastSeen": "2026-11-11T20:40:12+00:00",
-          "description": "Building private DeFi with shielded Zcash",
+          "firstSeen": "2026-11-12T13:09:49+00:00",
+          "lastSeen": "2026-11-12T13:09:49+00:00",
+          "description": "Crypto, market structure, and intermittent transmissions. Occasionally seaworthy.",
           "rows": [
             {
               "source": "TG",
-              "project": "Offworld Privacy",
-              "account": "OffworldPrivacy",
-              "alpha": "Mutu 🕸️",
-              "seenAt": "2026-11-11T20:40:12+00:00",
-              "messageId": "dodtwitterbot/40676",
-              "description": "Building private DeFi with shielded Zcash",
-              "text": "Building private DeFi with shielded Zcash"
+              "project": "Ponx",
+              "account": "Ponxter",
+              "alpha": "lakka",
+              "seenAt": "2026-11-12T13:09:49+00:00",
+              "messageId": "dodtwitterbot/40730",
+              "description": "Crypto, market structure, and intermittent transmissions. Occasionally seaworthy.",
+              "text": "Crypto, market structure, and intermittent transmissions. Occasionally seaworthy."
             }
           ],
-          "text": " Offworld Privacy OffworldPrivacy Building private DeFi with shielded Zcash",
+          "text": " Ponx Ponxter Crypto, market structure, and intermittent transmissions. Occasionally seaworthy.",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
-          "dayStatus": "repeat"
+          "dayStatus": "new"
         },
         {
           "project": "Revvy",
@@ -29838,6 +30625,41 @@
           "dayStatus": "repeat"
         },
         {
+          "project": "River One",
+          "account": "RiverOneHQ",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-12T13:07:05+00:00",
+          "lastSeen": "2026-11-12T13:07:05+00:00",
+          "description": "Institutional asset-backed finance for the stablecoin economy",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "River One",
+              "account": "RiverOneHQ",
+              "alpha": "lakka",
+              "seenAt": "2026-11-12T13:07:05+00:00",
+              "messageId": "dodtwitterbot/40729",
+              "description": "Institutional asset-backed finance for the stablecoin economy",
+              "text": "Institutional asset-backed finance for the stablecoin economy"
+            }
+          ],
+          "text": " River One RiverOneHQ Institutional asset-backed finance for the stablecoin economy",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
           "project": "Sway",
           "account": "swaydotfun",
           "sources": [
@@ -29867,6 +30689,41 @@
             }
           ],
           "text": " Sway swaydotfun The First Narrative Market. Where ideas become positions.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Tenjo",
+          "account": "tenjofinance",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-12T15:57:12+00:00",
+          "lastSeen": "2026-11-12T15:57:12+00:00",
+          "description": "Upside loans on tokenized stocks",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Tenjo",
+              "account": "tenjofinance",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-12T15:57:12+00:00",
+              "messageId": "dodtwitterbot/40749",
+              "description": "Upside loans on tokenized stocks",
+              "text": "Upside loans on tokenized stocks"
+            }
+          ],
+          "text": " Tenjo tenjofinance Upside loans on tokenized stocks",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -55370,259 +56227,264 @@
   ],
   "reports": [
     {
+      "file": "2026-11-12-1746-telegram-update.md",
+      "title": "2026-11-12-1746-telegram-update",
+      "updatedAt": "2026-11-12T17:46:24.655Z"
+    },
+    {
       "file": "2026-11-12-0853-telegram-update.md",
       "title": "2026-11-12-0853-telegram-update",
-      "updatedAt": "2026-11-12T08:53:26.861Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-11-11-2344-telegram-update.md",
       "title": "2026-11-11-2344-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.625Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-11-11-1729-telegram-update.md",
       "title": "2026-11-11-1729-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.625Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-11-11-0828-telegram-update.md",
       "title": "2026-11-11-0828-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.625Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-11-11-0130-telegram-update.md",
       "title": "2026-11-11-0130-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.624Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-11-10-2037-telegram-update.md",
       "title": "2026-11-10-2037-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.624Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-11-10-1348-telegram-update.md",
       "title": "2026-11-10-1348-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.624Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-11-10-0351-telegram-update.md",
       "title": "2026-11-10-0351-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.624Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-11-09-2013-telegram-update.md",
       "title": "2026-11-09-2013-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.624Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-11-09-0844-telegram-update.md",
       "title": "2026-11-09-0844-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.624Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-11-08-2123-telegram-update.md",
       "title": "2026-11-08-2123-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.624Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-11-08-1623-telegram-update.md",
       "title": "2026-11-08-1623-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.624Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-11-08-0804-telegram-update.md",
       "title": "2026-11-08-0804-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.624Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-11-07-2106-telegram-update.md",
       "title": "2026-11-07-2106-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.624Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-11-07-1556-telegram-update.md",
       "title": "2026-11-07-1556-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.624Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-11-07-0751-telegram-update.md",
       "title": "2026-11-07-0751-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.624Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-11-06-2226-telegram-update.md",
       "title": "2026-11-06-2226-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.624Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-11-06-1658-telegram-update.md",
       "title": "2026-11-06-1658-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.624Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-11-06-0835-telegram-update.md",
       "title": "2026-11-06-0835-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.624Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-11-05-2256-telegram-update.md",
       "title": "2026-11-05-2256-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.624Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-11-05-1742-telegram-update.md",
       "title": "2026-11-05-1742-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.624Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-11-05-0836-telegram-update.md",
       "title": "2026-11-05-0836-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.624Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-11-04-2255-telegram-update.md",
       "title": "2026-11-04-2255-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.624Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-11-04-1737-telegram-update.md",
       "title": "2026-11-04-1737-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.624Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-11-04-0810-telegram-update.md",
       "title": "2026-11-04-0810-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.624Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-11-04-0143-telegram-update.md",
       "title": "2026-11-04-0143-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.624Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-11-03-2018-telegram-update.md",
       "title": "2026-11-03-2018-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.624Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-11-03-1302-telegram-update.md",
       "title": "2026-11-03-1302-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.624Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-11-03-0306-telegram-update.md",
       "title": "2026-11-03-0306-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.624Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-11-02-1950-telegram-update.md",
       "title": "2026-11-02-1950-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.624Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-11-02-0826-telegram-update.md",
       "title": "2026-11-02-0826-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.623Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.623Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.623Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.623Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.623Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.623Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.623Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.623Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.623Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.623Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.623Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.623Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.623Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.623Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.623Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.623Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.623Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.623Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.623Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-12T08:53:24.623Z"
+      "updatedAt": "2026-11-12T17:46:22.369Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-12T08:53:24.623Z"
+      "updatedAt": "2026-11-12T17:46:22.367Z"
     }
   ]
 }
