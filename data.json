@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-12T17:46:24.837Z",
+  "generatedAt": "2026-11-12T22:54:16.696Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 40756,
-    "lastMessageAt": "2026-11-12T17:30:08+00:00",
-    "lastCheckedAt": "2026-11-12T17:46:24.656Z",
-    "previousMessageId": 40710,
-    "pagesRead": 3,
-    "messagesRead": 46,
-    "newProjectRecords": 12,
+    "lastMessageId": 40773,
+    "lastMessageAt": "2026-11-12T21:42:55+00:00",
+    "lastCheckedAt": "2026-11-12T22:54:16.500Z",
+    "previousMessageId": 40756,
+    "pagesRead": 1,
+    "messagesRead": 17,
+    "newProjectRecords": 6,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 863,
+    "telegramRows": 869,
     "xRows": 0,
-    "projects": 530,
+    "projects": 535,
     "crossSource": 0
   },
   "projects": [
@@ -3492,6 +3492,64 @@
       "avatarUrl": ""
     },
     {
+      "project": "Eloscape",
+      "account": "eloscapeHQ",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "CSR",
+        "speest 💎",
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "CSR",
+        "speest 💎",
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-11-05T04:24:34+00:00",
+      "lastSeen": "2026-11-12T21:18:16+00:00",
+      "description": "Virtual mining protocol on @Enter_Elysium\n\nNo token is live yet. Beware of scams.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Eloscape",
+          "account": "eloscapeHQ",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-05T04:24:34+00:00",
+          "messageId": "dodtwitterbot/39697",
+          "description": "Virtual mining protocol on @Enter_Elysium\n\nNo token is live yet. Beware of scams.",
+          "text": "Virtual mining protocol on @Enter_Elysium\n\nNo token is live yet. Beware of scams."
+        },
+        {
+          "source": "TG",
+          "project": "Eloscape",
+          "account": "eloscapeHQ",
+          "alpha": "speest 💎",
+          "seenAt": "2026-11-06T18:01:09+00:00",
+          "messageId": "dodtwitterbot/39965",
+          "description": "Virtual mining protocol on @Enter_Elysium\n\nNo token is live yet. Beware of scams.",
+          "text": "Virtual mining protocol on @Enter_Elysium\n\nNo token is live yet. Beware of scams."
+        },
+        {
+          "source": "TG",
+          "project": "Eloscape",
+          "account": "eloscapeHQ",
+          "alpha": "CSR",
+          "seenAt": "2026-11-12T21:18:16+00:00",
+          "messageId": "dodtwitterbot/40771",
+          "description": "Virtual mining protocol on @Enter_Elysium",
+          "text": "Virtual mining protocol on @Enter_Elysium"
+        }
+      ],
+      "text": " Eloscape eloscapeHQ Virtual mining protocol on @Enter_Elysium\n\nNo token is live yet. Beware of scams. Eloscape eloscapeHQ Virtual mining protocol on @Enter_Elysium\n\nNo token is live yet. Beware of scams. Eloscape eloscapeHQ Virtual mining protocol on @Enter_Elysium",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Elysian Agents",
       "account": "elysianagents",
       "sources": [
@@ -6807,52 +6865,6 @@
         }
       ],
       "text": " Elixirpad elixirpad ElixirPad is a fair-launch token launchpad on Elysium Testnet.\n\ncoming soon on @Enter_Elysium Elixirpad elixirpad ElixirPad is a fair-launch token launchpad on Elysium Testnet.\n\ncoming soon on @Enter_Elysium",
-      "score": 4,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Eloscape",
-      "account": "eloscapeHQ",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "speest 💎",
-        "蛋总"
-      ],
-      "tgAlphas": [
-        "speest 💎",
-        "蛋总"
-      ],
-      "xAlphas": [],
-      "mentions": 2,
-      "firstSeen": "2026-11-05T04:24:34+00:00",
-      "lastSeen": "2026-11-06T18:01:09+00:00",
-      "description": "Virtual mining protocol on @Enter_Elysium\n\nNo token is live yet. Beware of scams.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Eloscape",
-          "account": "eloscapeHQ",
-          "alpha": "蛋总",
-          "seenAt": "2026-11-05T04:24:34+00:00",
-          "messageId": "dodtwitterbot/39697",
-          "description": "Virtual mining protocol on @Enter_Elysium\n\nNo token is live yet. Beware of scams.",
-          "text": "Virtual mining protocol on @Enter_Elysium\n\nNo token is live yet. Beware of scams."
-        },
-        {
-          "source": "TG",
-          "project": "Eloscape",
-          "account": "eloscapeHQ",
-          "alpha": "speest 💎",
-          "seenAt": "2026-11-06T18:01:09+00:00",
-          "messageId": "dodtwitterbot/39965",
-          "description": "Virtual mining protocol on @Enter_Elysium\n\nNo token is live yet. Beware of scams.",
-          "text": "Virtual mining protocol on @Enter_Elysium\n\nNo token is live yet. Beware of scams."
-        }
-      ],
-      "text": " Eloscape eloscapeHQ Virtual mining protocol on @Enter_Elysium\n\nNo token is live yet. Beware of scams. Eloscape eloscapeHQ Virtual mining protocol on @Enter_Elysium\n\nNo token is live yet. Beware of scams.",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -10306,6 +10318,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "A Game About Fishing",
+      "account": "boutfishing",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Mutu 🕸️"
+      ],
+      "tgAlphas": [
+        "Mutu 🕸️"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-12T21:03:49+00:00",
+      "lastSeen": "2026-11-12T21:03:49+00:00",
+      "description": "A game about fishing, oh, and also collectibles we call \"fish\"\n\nGvP4qyjTm84TMhiHeDVPSc5MjkJAHRx6iAD5KNdk4GRT",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "A Game About Fishing",
+          "account": "boutfishing",
+          "alpha": "Mutu 🕸️",
+          "seenAt": "2026-11-12T21:03:49+00:00",
+          "messageId": "dodtwitterbot/40768",
+          "description": "A game about fishing, oh, and also collectibles we call \"fish\"\n\nGvP4qyjTm84TMhiHeDVPSc5MjkJAHRx6iAD5KNdk4GRT",
+          "text": "A game about fishing, oh, and also collectibles we call \"fish\"\n\nGvP4qyjTm84TMhiHeDVPSc5MjkJAHRx6iAD5KNdk4GRT"
+        }
+      ],
+      "text": " A Game About Fishing boutfishing A game about fishing, oh, and also collectibles we call \"fish\"\n\nGvP4qyjTm84TMhiHeDVPSc5MjkJAHRx6iAD5KNdk4GRT",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "abstract",
       "account": "abstractpbc",
       "sources": [
@@ -11700,6 +11746,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Burn Baby Burn CC",
+      "account": "burnbabyburncc",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "speest 💎"
+      ],
+      "tgAlphas": [
+        "speest 💎"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-12T21:42:55+00:00",
+      "lastSeen": "2026-11-12T21:42:55+00:00",
+      "description": "&#036;burn (Burn Baby Burn) Canton Network-based meme coin created by One Pump\n(Comming Soon 🔥 )",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Burn Baby Burn CC",
+          "account": "burnbabyburncc",
+          "alpha": "speest 💎",
+          "seenAt": "2026-11-12T21:42:55+00:00",
+          "messageId": "dodtwitterbot/40773",
+          "description": "&#036;burn (Burn Baby Burn) Canton Network-based meme coin created by One Pump\n(Comming Soon 🔥 )",
+          "text": "&#036;burn (Burn Baby Burn) Canton Network-based meme coin created by One Pump\n(Comming Soon 🔥 )"
+        }
+      ],
+      "text": " Burn Baby Burn CC burnbabyburncc &#036;burn (Burn Baby Burn) Canton Network-based meme coin created by One Pump\n(Comming Soon 🔥 )",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Calyx",
       "account": "Calyx_elysium",
       "sources": [
@@ -11899,6 +11979,40 @@
         }
       ],
       "text": " Chimeranft Cimeranft Coming soon to @Enter_elysium\n\n........",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Cinft",
+      "account": "0xCiNFT",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-12T18:36:57+00:00",
+      "lastSeen": "2026-11-12T18:36:57+00:00",
+      "description": "鬼滅の刃Cult/星街彗星是我活下去的动力/金蛙集团大厨/每个人都有自己的黄金期/不要哀求，学会争取/同时追两只兔子，一只也抓不到/ 🪶 💚 Robinhood 💚 🪶",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Cinft",
+          "account": "0xCiNFT",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-12T18:36:57+00:00",
+          "messageId": "dodtwitterbot/40762",
+          "description": "鬼滅の刃Cult/星街彗星是我活下去的动力/金蛙集团大厨/每个人都有自己的黄金期/不要哀求，学会争取/同时追两只兔子，一只也抓不到/ 🪶 💚 Robinhood 💚 🪶",
+          "text": "鬼滅の刃Cult/星街彗星是我活下去的动力/金蛙集团大厨/每个人都有自己的黄金期/不要哀求，学会争取/同时追两只兔子，一只也抓不到/ 🪶 💚 Robinhood 💚 🪶"
+        }
+      ],
+      "text": " Cinft 0xCiNFT 鬼滅の刃Cult/星街彗星是我活下去的动力/金蛙集团大厨/每个人都有自己的黄金期/不要哀求，学会争取/同时追两只兔子，一只也抓不到/ 🪶 💚 Robinhood 💚 🪶",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -15542,6 +15656,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "José",
+      "account": "JoseOnCanton",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka"
+      ],
+      "tgAlphas": [
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-12T21:14:40+00:00",
+      "lastSeen": "2026-11-12T21:14:40+00:00",
+      "description": "I keep digging. People ask me, José, when do you stop? ...I don't. Every shovel is one step closer. Be like José. Keep digging.\n\nFirst token digging on ...",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "José",
+          "account": "JoseOnCanton",
+          "alpha": "lakka",
+          "seenAt": "2026-11-12T21:14:40+00:00",
+          "messageId": "dodtwitterbot/40770",
+          "description": "I keep digging. People ask me, José, when do you stop? ...I don't. Every shovel is one step closer. Be like José. Keep digging.\n\nFirst token digging on ...",
+          "text": "I keep digging. People ask me, José, when do you stop? ...I don't. Every shovel is one step closer. Be like José. Keep digging.\n\nFirst token digging on ..."
+        }
+      ],
+      "text": " José JoseOnCanton I keep digging. People ask me, José, when do you stop? ...I don't. Every shovel is one step closer. Be like José. Keep digging.\n\nFirst token digging on ...",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Kairos",
       "account": "Kairos_ve33",
       "sources": [
@@ -16149,6 +16297,40 @@
         }
       ],
       "text": " LitVM LitecoinVM Litecoin’s Virtual Machine \n\nHard Money Web3, powered by @litecoin.\n\nJoin the convo: https://t.co/o7ehGt5nQs",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "LOBO•THE•WOLF•PUP",
+      "account": "lobothewolfpup",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "speest 💎"
+      ],
+      "tgAlphas": [
+        "speest 💎"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-12T21:42:55+00:00",
+      "lastSeen": "2026-11-12T21:42:55+00:00",
+      "description": "&#036;LOBO Rune 9 Meme coin on Bitcoin.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "LOBO•THE•WOLF•PUP",
+          "account": "lobothewolfpup",
+          "alpha": "speest 💎",
+          "seenAt": "2026-11-12T21:42:55+00:00",
+          "messageId": "dodtwitterbot/40772",
+          "description": "&#036;LOBO Rune 9 Meme coin on Bitcoin.",
+          "text": "&#036;LOBO Rune 9 Meme coin on Bitcoin."
+        }
+      ],
+      "text": " LOBO•THE•WOLF•PUP lobothewolfpup &#036;LOBO Rune 9 Meme coin on Bitcoin.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -22843,6 +23025,22 @@
       "avatarUrl": ""
     },
     {
+      "project": "Eloscape",
+      "x_account": "eloscapeHQ",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "CSR",
+        "speest 💎",
+        "蛋总"
+      ],
+      "description": "Virtual mining protocol on @Enter_Elysium\n\nNo token is live yet. Beware of scams.",
+      "first_seen_utc": "2026-11-05T04:24:34+00:00",
+      "last_seen_utc": "2026-11-12T21:18:16+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
       "project": "Elysian Agents",
       "x_account": "elysianagents",
       "total_mentions": 3,
@@ -23808,21 +24006,6 @@
       "description": "ElixirPad is a fair-launch token launchpad on Elysium Testnet.\n\ncoming soon on @Enter_Elysium",
       "first_seen_utc": "2026-11-01T06:00:37+00:00",
       "last_seen_utc": "2026-11-01T11:11:31+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Eloscape",
-      "x_account": "eloscapeHQ",
-      "total_mentions": 2,
-      "unique_alphas": 2,
-      "alphas": [
-        "speest 💎",
-        "蛋总"
-      ],
-      "description": "Virtual mining protocol on @Enter_Elysium\n\nNo token is live yet. Beware of scams.",
-      "first_seen_utc": "2026-11-05T04:24:34+00:00",
-      "last_seen_utc": "2026-11-06T18:01:09+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -24963,6 +25146,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "A Game About Fishing",
+      "x_account": "boutfishing",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "Mutu 🕸️"
+      ],
+      "description": "A game about fishing, oh, and also collectibles we call \"fish\"\n\nGvP4qyjTm84TMhiHeDVPSc5MjkJAHRx6iAD5KNdk4GRT",
+      "first_seen_utc": "2026-11-12T21:03:49+00:00",
+      "last_seen_utc": "2026-11-12T21:03:49+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "abstract",
       "x_account": "abstractpbc",
       "total_mentions": 1,
@@ -25537,6 +25734,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Burn Baby Burn CC",
+      "x_account": "burnbabyburncc",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "speest 💎"
+      ],
+      "description": "&#036;burn (Burn Baby Burn) Canton Network-based meme coin created by One Pump\n(Comming Soon 🔥 )",
+      "first_seen_utc": "2026-11-12T21:42:55+00:00",
+      "last_seen_utc": "2026-11-12T21:42:55+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Calyx",
       "x_account": "Calyx_elysium",
       "total_mentions": 1,
@@ -25617,6 +25828,20 @@
       "description": "Coming soon to @Enter_elysium\n\n........",
       "first_seen_utc": "2026-11-06T09:27:42+00:00",
       "last_seen_utc": "2026-11-06T09:27:42+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Cinft",
+      "x_account": "0xCiNFT",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "鬼滅の刃Cult/星街彗星是我活下去的动力/金蛙集团大厨/每个人都有自己的黄金期/不要哀求，学会争取/同时追两只兔子，一只也抓不到/ 🪶 💚 Robinhood 💚 🪶",
+      "first_seen_utc": "2026-11-12T18:36:57+00:00",
+      "last_seen_utc": "2026-11-12T18:36:57+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -27119,6 +27344,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "José",
+      "x_account": "JoseOnCanton",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "lakka"
+      ],
+      "description": "I keep digging. People ask me, José, when do you stop? ...I don't. Every shovel is one step closer. Be like José. Keep digging.\n\nFirst token digging on ...",
+      "first_seen_utc": "2026-11-12T21:14:40+00:00",
+      "last_seen_utc": "2026-11-12T21:14:40+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Kairos",
       "x_account": "Kairos_ve33",
       "total_mentions": 1,
@@ -27367,6 +27606,20 @@
       "description": "Litecoin’s Virtual Machine \n\nHard Money Web3, powered by @litecoin.\n\nJoin the convo: https://t.co/o7ehGt5nQs",
       "first_seen_utc": "2026-10-28T04:55:00+08:00",
       "last_seen_utc": "2026-10-28T04:55:00+08:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "LOBO•THE•WOLF•PUP",
+      "x_account": "lobothewolfpup",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "speest 💎"
+      ],
+      "description": "&#036;LOBO Rune 9 Meme coin on Bitcoin.",
+      "first_seen_utc": "2026-11-12T21:42:55+00:00",
+      "last_seen_utc": "2026-11-12T21:42:55+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -29796,14 +30049,49 @@
   "daily": [
     {
       "date": "2026-11-13",
-      "totalRows": 2,
-      "projectCount": 2,
+      "totalRows": 8,
+      "projectCount": 8,
       "focusCount": 0,
-      "candidateCount": 2,
+      "candidateCount": 8,
       "crossSource": 0,
-      "newCount": 2,
-      "repeatCount": 0,
+      "newCount": 7,
+      "repeatCount": 1,
       "projects": [
+        {
+          "project": "A Game About Fishing",
+          "account": "boutfishing",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Mutu 🕸️"
+          ],
+          "tgAlphas": [
+            "Mutu 🕸️"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-12T21:03:49+00:00",
+          "lastSeen": "2026-11-12T21:03:49+00:00",
+          "description": "A game about fishing, oh, and also collectibles we call \"fish\"\n\nGvP4qyjTm84TMhiHeDVPSc5MjkJAHRx6iAD5KNdk4GRT",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "A Game About Fishing",
+              "account": "boutfishing",
+              "alpha": "Mutu 🕸️",
+              "seenAt": "2026-11-12T21:03:49+00:00",
+              "messageId": "dodtwitterbot/40768",
+              "description": "A game about fishing, oh, and also collectibles we call \"fish\"\n\nGvP4qyjTm84TMhiHeDVPSc5MjkJAHRx6iAD5KNdk4GRT",
+              "text": "A game about fishing, oh, and also collectibles we call \"fish\"\n\nGvP4qyjTm84TMhiHeDVPSc5MjkJAHRx6iAD5KNdk4GRT"
+            }
+          ],
+          "text": " A Game About Fishing boutfishing A game about fishing, oh, and also collectibles we call \"fish\"\n\nGvP4qyjTm84TMhiHeDVPSc5MjkJAHRx6iAD5KNdk4GRT",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
         {
           "project": "APEX | All-in-one DeFi",
           "account": "apex314_defi",
@@ -29840,6 +30128,111 @@
           "dayStatus": "new"
         },
         {
+          "project": "Burn Baby Burn CC",
+          "account": "burnbabyburncc",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "speest 💎"
+          ],
+          "tgAlphas": [
+            "speest 💎"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-12T21:42:55+00:00",
+          "lastSeen": "2026-11-12T21:42:55+00:00",
+          "description": "&#036;burn (Burn Baby Burn) Canton Network-based meme coin created by One Pump\n(Comming Soon 🔥 )",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Burn Baby Burn CC",
+              "account": "burnbabyburncc",
+              "alpha": "speest 💎",
+              "seenAt": "2026-11-12T21:42:55+00:00",
+              "messageId": "dodtwitterbot/40773",
+              "description": "&#036;burn (Burn Baby Burn) Canton Network-based meme coin created by One Pump\n(Comming Soon 🔥 )",
+              "text": "&#036;burn (Burn Baby Burn) Canton Network-based meme coin created by One Pump\n(Comming Soon 🔥 )"
+            }
+          ],
+          "text": " Burn Baby Burn CC burnbabyburncc &#036;burn (Burn Baby Burn) Canton Network-based meme coin created by One Pump\n(Comming Soon 🔥 )",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Cinft",
+          "account": "0xCiNFT",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-12T18:36:57+00:00",
+          "lastSeen": "2026-11-12T18:36:57+00:00",
+          "description": "鬼滅の刃Cult/星街彗星是我活下去的动力/金蛙集团大厨/每个人都有自己的黄金期/不要哀求，学会争取/同时追两只兔子，一只也抓不到/ 🪶 💚 Robinhood 💚 🪶",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Cinft",
+              "account": "0xCiNFT",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-12T18:36:57+00:00",
+              "messageId": "dodtwitterbot/40762",
+              "description": "鬼滅の刃Cult/星街彗星是我活下去的动力/金蛙集团大厨/每个人都有自己的黄金期/不要哀求，学会争取/同时追两只兔子，一只也抓不到/ 🪶 💚 Robinhood 💚 🪶",
+              "text": "鬼滅の刃Cult/星街彗星是我活下去的动力/金蛙集团大厨/每个人都有自己的黄金期/不要哀求，学会争取/同时追两只兔子，一只也抓不到/ 🪶 💚 Robinhood 💚 🪶"
+            }
+          ],
+          "text": " Cinft 0xCiNFT 鬼滅の刃Cult/星街彗星是我活下去的动力/金蛙集团大厨/每个人都有自己的黄金期/不要哀求，学会争取/同时追两只兔子，一只也抓不到/ 🪶 💚 Robinhood 💚 🪶",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Eloscape",
+          "account": "eloscapeHQ",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "CSR"
+          ],
+          "tgAlphas": [
+            "CSR"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-12T21:18:16+00:00",
+          "lastSeen": "2026-11-12T21:18:16+00:00",
+          "description": "Virtual mining protocol on @Enter_Elysium",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Eloscape",
+              "account": "eloscapeHQ",
+              "alpha": "CSR",
+              "seenAt": "2026-11-12T21:18:16+00:00",
+              "messageId": "dodtwitterbot/40771",
+              "description": "Virtual mining protocol on @Enter_Elysium",
+              "text": "Virtual mining protocol on @Enter_Elysium"
+            }
+          ],
+          "text": " Eloscape eloscapeHQ Virtual mining protocol on @Enter_Elysium",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
           "project": "Fanz",
           "account": "Fanzzka",
           "sources": [
@@ -29869,6 +30262,76 @@
             }
           ],
           "text": " Fanz Fanzzka AI web3 两性 问题大王\n梦想领上老马的低保\n有关必回",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "José",
+          "account": "JoseOnCanton",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-12T21:14:40+00:00",
+          "lastSeen": "2026-11-12T21:14:40+00:00",
+          "description": "I keep digging. People ask me, José, when do you stop? ...I don't. Every shovel is one step closer. Be like José. Keep digging.\n\nFirst token digging on ...",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "José",
+              "account": "JoseOnCanton",
+              "alpha": "lakka",
+              "seenAt": "2026-11-12T21:14:40+00:00",
+              "messageId": "dodtwitterbot/40770",
+              "description": "I keep digging. People ask me, José, when do you stop? ...I don't. Every shovel is one step closer. Be like José. Keep digging.\n\nFirst token digging on ...",
+              "text": "I keep digging. People ask me, José, when do you stop? ...I don't. Every shovel is one step closer. Be like José. Keep digging.\n\nFirst token digging on ..."
+            }
+          ],
+          "text": " José JoseOnCanton I keep digging. People ask me, José, when do you stop? ...I don't. Every shovel is one step closer. Be like José. Keep digging.\n\nFirst token digging on ...",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "LOBO•THE•WOLF•PUP",
+          "account": "lobothewolfpup",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "speest 💎"
+          ],
+          "tgAlphas": [
+            "speest 💎"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-12T21:42:55+00:00",
+          "lastSeen": "2026-11-12T21:42:55+00:00",
+          "description": "&#036;LOBO Rune 9 Meme coin on Bitcoin.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "LOBO•THE•WOLF•PUP",
+              "account": "lobothewolfpup",
+              "alpha": "speest 💎",
+              "seenAt": "2026-11-12T21:42:55+00:00",
+              "messageId": "dodtwitterbot/40772",
+              "description": "&#036;LOBO Rune 9 Meme coin on Bitcoin.",
+              "text": "&#036;LOBO Rune 9 Meme coin on Bitcoin."
+            }
+          ],
+          "text": " LOBO•THE•WOLF•PUP lobothewolfpup &#036;LOBO Rune 9 Meme coin on Bitcoin.",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -56227,264 +56690,269 @@
   ],
   "reports": [
     {
+      "file": "2026-11-12-2254-telegram-update.md",
+      "title": "2026-11-12-2254-telegram-update",
+      "updatedAt": "2026-11-12T22:54:16.499Z"
+    },
+    {
       "file": "2026-11-12-1746-telegram-update.md",
       "title": "2026-11-12-1746-telegram-update",
-      "updatedAt": "2026-11-12T17:46:24.655Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-11-12-0853-telegram-update.md",
       "title": "2026-11-12-0853-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-11-11-2344-telegram-update.md",
       "title": "2026-11-11-2344-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-11-11-1729-telegram-update.md",
       "title": "2026-11-11-1729-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-11-11-0828-telegram-update.md",
       "title": "2026-11-11-0828-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-11-11-0130-telegram-update.md",
       "title": "2026-11-11-0130-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-11-10-2037-telegram-update.md",
       "title": "2026-11-10-2037-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-11-10-1348-telegram-update.md",
       "title": "2026-11-10-1348-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-11-10-0351-telegram-update.md",
       "title": "2026-11-10-0351-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-11-09-2013-telegram-update.md",
       "title": "2026-11-09-2013-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-11-09-0844-telegram-update.md",
       "title": "2026-11-09-0844-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-11-08-2123-telegram-update.md",
       "title": "2026-11-08-2123-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-11-08-1623-telegram-update.md",
       "title": "2026-11-08-1623-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-11-08-0804-telegram-update.md",
       "title": "2026-11-08-0804-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-11-07-2106-telegram-update.md",
       "title": "2026-11-07-2106-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-11-07-1556-telegram-update.md",
       "title": "2026-11-07-1556-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-11-07-0751-telegram-update.md",
       "title": "2026-11-07-0751-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-11-06-2226-telegram-update.md",
       "title": "2026-11-06-2226-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-11-06-1658-telegram-update.md",
       "title": "2026-11-06-1658-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-11-06-0835-telegram-update.md",
       "title": "2026-11-06-0835-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-11-05-2256-telegram-update.md",
       "title": "2026-11-05-2256-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-11-05-1742-telegram-update.md",
       "title": "2026-11-05-1742-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-11-05-0836-telegram-update.md",
       "title": "2026-11-05-0836-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-11-04-2255-telegram-update.md",
       "title": "2026-11-04-2255-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-11-04-1737-telegram-update.md",
       "title": "2026-11-04-1737-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-11-04-0810-telegram-update.md",
       "title": "2026-11-04-0810-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-11-04-0143-telegram-update.md",
       "title": "2026-11-04-0143-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-11-03-2018-telegram-update.md",
       "title": "2026-11-03-2018-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-11-03-1302-telegram-update.md",
       "title": "2026-11-03-1302-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-11-03-0306-telegram-update.md",
       "title": "2026-11-03-0306-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-11-02-1950-telegram-update.md",
       "title": "2026-11-02-1950-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-11-02-0826-telegram-update.md",
       "title": "2026-11-02-0826-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-12T17:46:22.369Z"
+      "updatedAt": "2026-11-12T22:54:14.713Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-12T17:46:22.367Z"
+      "updatedAt": "2026-11-12T22:54:14.712Z"
     }
   ]
 }
