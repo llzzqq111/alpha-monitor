@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-11T23:44:09.762Z",
+  "generatedAt": "2026-11-12T08:53:27.104Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 40685,
-    "lastMessageAt": "2026-11-11T23:20:26+00:00",
-    "lastCheckedAt": "2026-11-11T23:44:09.596Z",
-    "previousMessageId": 40652,
+    "lastMessageId": 40710,
+    "lastMessageAt": "2026-11-12T08:43:05+00:00",
+    "lastCheckedAt": "2026-11-12T08:53:26.861Z",
+    "previousMessageId": 40685,
     "pagesRead": 2,
-    "messagesRead": 33,
-    "newProjectRecords": 11,
+    "messagesRead": 25,
+    "newProjectRecords": 8,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 843,
+    "telegramRows": 851,
     "xRows": 0,
-    "projects": 517,
+    "projects": 521,
     "crossSource": 0
   },
   "projects": [
@@ -3944,6 +3944,64 @@
       "avatarUrl": ""
     },
     {
+      "project": "Kalmia",
+      "account": "kalmiadev",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse",
+        "unsynned",
+        "well"
+      ],
+      "tgAlphas": [
+        "BearzVerse",
+        "unsynned",
+        "well"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-11-11T18:09:40+00:00",
+      "lastSeen": "2026-11-12T05:37:42+00:00",
+      "description": "We find issues in your agent traces\na16z @speedrun Alpha 001",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Kalmia",
+          "account": "kalmiadev",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-11T18:09:40+00:00",
+          "messageId": "dodtwitterbot/40660",
+          "description": "We find issues in your agent traces\na16z @speedrun Alpha 001",
+          "text": "We find issues in your agent traces\na16z @speedrun Alpha 001"
+        },
+        {
+          "source": "TG",
+          "project": "Kalmia",
+          "account": "kalmiadev",
+          "alpha": "BearzVerse",
+          "seenAt": "2026-11-11T23:20:26+00:00",
+          "messageId": "dodtwitterbot/40685",
+          "description": "We find issues in your agent traces\na16z @speedrun Alpha 001",
+          "text": "We find issues in your agent traces\na16z @speedrun Alpha 001"
+        },
+        {
+          "source": "TG",
+          "project": "Kalmia",
+          "account": "kalmiadev",
+          "alpha": "well",
+          "seenAt": "2026-11-12T05:37:42+00:00",
+          "messageId": "dodtwitterbot/40698",
+          "description": "We find issues in your agent traces\na16z @speedrun Alpha 001",
+          "text": "We find issues in your agent traces\na16z @speedrun Alpha 001"
+        }
+      ],
+      "text": " Kalmia kalmiadev We find issues in your agent traces\na16z @speedrun Alpha 001 Kalmia kalmiadev We find issues in your agent traces\na16z @speedrun Alpha 001 Kalmia kalmiadev We find issues in your agent traces\na16z @speedrun Alpha 001",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Kuip",
       "account": "KuipFun",
       "sources": [
@@ -5568,6 +5626,64 @@
       "avatarUrl": ""
     },
     {
+      "project": "Zynoptes",
+      "account": "Zynoptes",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse",
+        "unsynned",
+        "well"
+      ],
+      "tgAlphas": [
+        "BearzVerse",
+        "unsynned",
+        "well"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-11-11T20:31:04+00:00",
+      "lastSeen": "2026-11-12T05:36:50+00:00",
+      "description": "Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Zynoptes",
+          "account": "Zynoptes",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-11T20:31:04+00:00",
+          "messageId": "dodtwitterbot/40669",
+          "description": "Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance",
+          "text": "Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance"
+        },
+        {
+          "source": "TG",
+          "project": "Zynoptes",
+          "account": "Zynoptes",
+          "alpha": "BearzVerse",
+          "seenAt": "2026-11-11T23:20:25+00:00",
+          "messageId": "dodtwitterbot/40683",
+          "description": "Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance",
+          "text": "Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance"
+        },
+        {
+          "source": "TG",
+          "project": "Zynoptes",
+          "account": "Zynoptes",
+          "alpha": "well",
+          "seenAt": "2026-11-12T05:36:50+00:00",
+          "messageId": "dodtwitterbot/40696",
+          "description": "Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance",
+          "text": "Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance"
+        }
+      ],
+      "text": " Zynoptes Zynoptes Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance Zynoptes Zynoptes Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance Zynoptes Zynoptes Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "&#036;LEND",
       "account": "elylend",
       "sources": [
@@ -6115,6 +6231,52 @@
         }
       ],
       "text": " Bond Agent Bagent_binance A charity memecoin launched on BNB Chain, deeply tied to Binance Agentic Wallet ID with a fair bonding-curve mint mechanism.\nTelegram: https://t.co/DRCeGjM6pn Bond Agent Bagent_binance A charity memecoin launched on BNB Chain, deeply tied to Binance Agentic Wallet ID with a fair bonding-curve mint mechanism.\nTelegram: https://t.co/DRCeGjM6pn",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Bubble",
+      "account": "BubbleonTg",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "speest 💎",
+        "苦瓜大王"
+      ],
+      "tgAlphas": [
+        "speest 💎",
+        "苦瓜大王"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-12T06:38:39+00:00",
+      "lastSeen": "2026-11-12T06:49:07+00:00",
+      "description": "The Telegram native meme launchpad.\nPowered by @Telegram Widgets.\n\nOnly verified wallets.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Bubble",
+          "account": "BubbleonTg",
+          "alpha": "speest 💎",
+          "seenAt": "2026-11-12T06:38:39+00:00",
+          "messageId": "dodtwitterbot/40706",
+          "description": "The Telegram native meme launchpad.\nPowered by @Telegram Widgets.\n\nOnly verified wallets.",
+          "text": "The Telegram native meme launchpad.\nPowered by @Telegram Widgets.\n\nOnly verified wallets."
+        },
+        {
+          "source": "TG",
+          "project": "Bubble",
+          "account": "BubbleonTg",
+          "alpha": "苦瓜大王",
+          "seenAt": "2026-11-12T06:49:07+00:00",
+          "messageId": "dodtwitterbot/40707",
+          "description": "The Telegram native meme launchpad.\nPowered by @Telegram Widgets.\n\nOnly verified wallets.",
+          "text": "The Telegram native meme launchpad.\nPowered by @Telegram Widgets.\n\nOnly verified wallets."
+        }
+      ],
+      "text": " Bubble BubbleonTg The Telegram native meme launchpad.\nPowered by @Telegram Widgets.\n\nOnly verified wallets. Bubble BubbleonTg The Telegram native meme launchpad.\nPowered by @Telegram Widgets.\n\nOnly verified wallets.",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -7822,52 +7984,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Kalmia",
-      "account": "kalmiadev",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "BearzVerse",
-        "unsynned"
-      ],
-      "tgAlphas": [
-        "BearzVerse",
-        "unsynned"
-      ],
-      "xAlphas": [],
-      "mentions": 2,
-      "firstSeen": "2026-11-11T18:09:40+00:00",
-      "lastSeen": "2026-11-11T23:20:26+00:00",
-      "description": "We find issues in your agent traces\na16z @speedrun Alpha 001",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Kalmia",
-          "account": "kalmiadev",
-          "alpha": "unsynned",
-          "seenAt": "2026-11-11T18:09:40+00:00",
-          "messageId": "dodtwitterbot/40660",
-          "description": "We find issues in your agent traces\na16z @speedrun Alpha 001",
-          "text": "We find issues in your agent traces\na16z @speedrun Alpha 001"
-        },
-        {
-          "source": "TG",
-          "project": "Kalmia",
-          "account": "kalmiadev",
-          "alpha": "BearzVerse",
-          "seenAt": "2026-11-11T23:20:26+00:00",
-          "messageId": "dodtwitterbot/40685",
-          "description": "We find issues in your agent traces\na16z @speedrun Alpha 001",
-          "text": "We find issues in your agent traces\na16z @speedrun Alpha 001"
-        }
-      ],
-      "text": " Kalmia kalmiadev We find issues in your agent traces\na16z @speedrun Alpha 001 Kalmia kalmiadev We find issues in your agent traces\na16z @speedrun Alpha 001",
-      "score": 4,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
       "project": "Kinetiq",
       "account": "Kinetiq_xyz",
       "sources": [
@@ -8737,6 +8853,52 @@
         }
       ],
       "text": " Outworld Labs outworldlabs Building a robotics simulator indistinguishable from reality Outworld Labs outworldlabs Building a robotics simulator indistinguishable from reality",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Parabola",
+      "account": "ParabolaMarkets",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned",
+        "well"
+      ],
+      "tgAlphas": [
+        "unsynned",
+        "well"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-11T20:31:04+00:00",
+      "lastSeen": "2026-11-12T05:37:42+00:00",
+      "description": "Electricity price risk management, available for everyone.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Parabola",
+          "account": "ParabolaMarkets",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-11T20:31:04+00:00",
+          "messageId": "dodtwitterbot/40670",
+          "description": "Electricity price risk management, available for everyone.",
+          "text": "Electricity price risk management, available for everyone."
+        },
+        {
+          "source": "TG",
+          "project": "Parabola",
+          "account": "ParabolaMarkets",
+          "alpha": "well",
+          "seenAt": "2026-11-12T05:37:42+00:00",
+          "messageId": "dodtwitterbot/40699",
+          "description": "Electricity price risk management, available for everyone.",
+          "text": "Electricity price risk management, available for everyone."
+        }
+      ],
+      "text": " Parabola ParabolaMarkets Electricity price risk management, available for everyone. Parabola ParabolaMarkets Electricity price risk management, available for everyone.",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -9887,52 +10049,6 @@
         }
       ],
       "text": " Yeetr Yeetr_fun Onchain options for the tokens you hold. Yeetr Yeetr_fun Onchain options for the tokens you hold.",
-      "score": 4,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Zynoptes",
-      "account": "Zynoptes",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "BearzVerse",
-        "unsynned"
-      ],
-      "tgAlphas": [
-        "BearzVerse",
-        "unsynned"
-      ],
-      "xAlphas": [],
-      "mentions": 2,
-      "firstSeen": "2026-11-11T20:31:04+00:00",
-      "lastSeen": "2026-11-11T23:20:25+00:00",
-      "description": "Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Zynoptes",
-          "account": "Zynoptes",
-          "alpha": "unsynned",
-          "seenAt": "2026-11-11T20:31:04+00:00",
-          "messageId": "dodtwitterbot/40669",
-          "description": "Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance",
-          "text": "Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance"
-        },
-        {
-          "source": "TG",
-          "project": "Zynoptes",
-          "account": "Zynoptes",
-          "alpha": "BearzVerse",
-          "seenAt": "2026-11-11T23:20:25+00:00",
-          "messageId": "dodtwitterbot/40683",
-          "description": "Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance",
-          "text": "Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance"
-        }
-      ],
-      "text": " Zynoptes Zynoptes Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance Zynoptes Zynoptes Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -13146,6 +13262,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Feather Games",
+      "account": "FeatherGms",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "well"
+      ],
+      "tgAlphas": [
+        "well"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-12T05:36:50+00:00",
+      "lastSeen": "2026-11-12T05:36:50+00:00",
+      "description": "A home for games onchain. Play, compete and explore a growing world of games.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Feather Games",
+          "account": "FeatherGms",
+          "alpha": "well",
+          "seenAt": "2026-11-12T05:36:50+00:00",
+          "messageId": "dodtwitterbot/40697",
+          "description": "A home for games onchain. Play, compete and explore a growing world of games.",
+          "text": "A home for games onchain. Play, compete and explore a growing world of games."
+        }
+      ],
+      "text": " Feather Games FeatherGms A home for games onchain. Play, compete and explore a growing world of games.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Fishesrh",
       "account": "Fishesrh",
       "sources": [
@@ -13515,6 +13665,40 @@
         }
       ],
       "text": " Forest Pixel playforestpixel A Web3 pixel adventure game with multiplayer, boss fights, rare drops, FPX Token and NFT items.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "forge",
+      "account": "avaxforge_etf",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-12T04:31:02+00:00",
+      "lastSeen": "2026-11-12T04:31:02+00:00",
+      "description": "The ETF launchpad of @avax . Your stocks, your hooks, your fees.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "forge",
+          "account": "avaxforge_etf",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-12T04:31:02+00:00",
+          "messageId": "dodtwitterbot/40691",
+          "description": "The ETF launchpad of @avax . Your stocks, your hooks, your fees.",
+          "text": "The ETF launchpad of @avax . Your stocks, your hooks, your fees."
+        }
+      ],
+      "text": " forge avaxforge_etf The ETF launchpad of @avax . Your stocks, your hooks, your fees.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -14977,6 +15161,40 @@
         }
       ],
       "text": " Index Industries Index_inds Index Industries creates infrastructure that reshapes how the world accesses and invests in real estate.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Index Maxi",
+      "account": "IndexMaxi",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "poet"
+      ],
+      "tgAlphas": [
+        "poet"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-11T23:47:52+00:00",
+      "lastSeen": "2026-11-11T23:47:52+00:00",
+      "description": "Index maxi. Baskets over bags. Deploying onchain index tokens, degen energy with risk management. Automated account. NFA, DYOR.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Index Maxi",
+          "account": "IndexMaxi",
+          "alpha": "poet",
+          "seenAt": "2026-11-11T23:47:52+00:00",
+          "messageId": "dodtwitterbot/40686",
+          "description": "Index maxi. Baskets over bags. Deploying onchain index tokens, degen energy with risk management. Automated account. NFA, DYOR.",
+          "text": "Index maxi. Baskets over bags. Deploying onchain index tokens, degen energy with risk management. Automated account. NFA, DYOR."
+        }
+      ],
+      "text": " Index Maxi IndexMaxi Index maxi. Baskets over bags. Deploying onchain index tokens, degen energy with risk management. Automated account. NFA, DYOR.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -17391,40 +17609,6 @@
         }
       ],
       "text": " PANTHEON Pantheonindex The index of Ascend. Stake $PNTH, earn the best of Ascend. Stakers choose who enters. Launching on @AscendLaunch day one.",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Parabola",
-      "account": "ParabolaMarkets",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "unsynned"
-      ],
-      "tgAlphas": [
-        "unsynned"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-11T20:31:04+00:00",
-      "lastSeen": "2026-11-11T20:31:04+00:00",
-      "description": "Electricity price risk management, available for everyone.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Parabola",
-          "account": "ParabolaMarkets",
-          "alpha": "unsynned",
-          "seenAt": "2026-11-11T20:31:04+00:00",
-          "messageId": "dodtwitterbot/40670",
-          "description": "Electricity price risk management, available for everyone.",
-          "text": "Electricity price risk management, available for everyone."
-        }
-      ],
-      "text": " Parabola ParabolaMarkets Electricity price risk management, available for everyone.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -22444,6 +22628,22 @@
       "avatarUrl": ""
     },
     {
+      "project": "Kalmia",
+      "x_account": "kalmiadev",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "BearzVerse",
+        "unsynned",
+        "well"
+      ],
+      "description": "We find issues in your agent traces\na16z @speedrun Alpha 001",
+      "first_seen_utc": "2026-11-11T18:09:40+00:00",
+      "last_seen_utc": "2026-11-12T05:37:42+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
       "project": "Kuip",
       "x_account": "KuipFun",
       "total_mentions": 3,
@@ -22892,6 +23092,22 @@
       "avatarUrl": ""
     },
     {
+      "project": "Zynoptes",
+      "x_account": "Zynoptes",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "BearzVerse",
+        "unsynned",
+        "well"
+      ],
+      "description": "Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance",
+      "first_seen_utc": "2026-11-11T20:31:04+00:00",
+      "last_seen_utc": "2026-11-12T05:36:50+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
       "project": "&#036;LEND",
       "x_account": "elylend",
       "total_mentions": 2,
@@ -23068,6 +23284,21 @@
       "description": "A charity memecoin launched on BNB Chain, deeply tied to Binance Agentic Wallet ID with a fair bonding-curve mint mechanism.\nTelegram: https://t.co/DRCeGjM6pn",
       "first_seen_utc": "2026-11-08T12:18:57+00:00",
       "last_seen_utc": "2026-11-08T14:31:19+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Bubble",
+      "x_account": "BubbleonTg",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "speest 💎",
+        "苦瓜大王"
+      ],
+      "description": "The Telegram native meme launchpad.\nPowered by @Telegram Widgets.\n\nOnly verified wallets.",
+      "first_seen_utc": "2026-11-12T06:38:39+00:00",
+      "last_seen_utc": "2026-11-12T06:49:07+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -23627,21 +23858,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Kalmia",
-      "x_account": "kalmiadev",
-      "total_mentions": 2,
-      "unique_alphas": 2,
-      "alphas": [
-        "BearzVerse",
-        "unsynned"
-      ],
-      "description": "We find issues in your agent traces\na16z @speedrun Alpha 001",
-      "first_seen_utc": "2026-11-11T18:09:40+00:00",
-      "last_seen_utc": "2026-11-11T23:20:26+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "Kinetiq",
       "x_account": "Kinetiq_xyz",
       "total_mentions": 2,
@@ -23923,6 +24139,21 @@
       "description": "Building a robotics simulator indistinguishable from reality",
       "first_seen_utc": "2026-11-11T18:09:41+00:00",
       "last_seen_utc": "2026-11-11T23:19:31+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Parabola",
+      "x_account": "ParabolaMarkets",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "unsynned",
+        "well"
+      ],
+      "description": "Electricity price risk management, available for everyone.",
+      "first_seen_utc": "2026-11-11T20:31:04+00:00",
+      "last_seen_utc": "2026-11-12T05:37:42+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -24298,21 +24529,6 @@
       "description": "Onchain options for the tokens you hold.",
       "first_seen_utc": "2026-10-30T18:13:41+00:00",
       "last_seen_utc": "2026-10-31T04:35:06+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Zynoptes",
-      "x_account": "Zynoptes",
-      "total_mentions": 2,
-      "unique_alphas": 2,
-      "alphas": [
-        "BearzVerse",
-        "unsynned"
-      ],
-      "description": "Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance",
-      "first_seen_utc": "2026-11-11T20:31:04+00:00",
-      "last_seen_utc": "2026-11-11T23:20:25+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -25634,6 +25850,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Feather Games",
+      "x_account": "FeatherGms",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "well"
+      ],
+      "description": "A home for games onchain. Play, compete and explore a growing world of games.",
+      "first_seen_utc": "2026-11-12T05:36:50+00:00",
+      "last_seen_utc": "2026-11-12T05:36:50+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Fishesrh",
       "x_account": "Fishesrh",
       "total_mentions": 1,
@@ -25784,6 +26014,20 @@
       "description": "A Web3 pixel adventure game with multiplayer, boss fights, rare drops, FPX Token and NFT items.",
       "first_seen_utc": "2026-11-04T12:20:11+00:00",
       "last_seen_utc": "2026-11-04T12:20:11+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "forge",
+      "x_account": "avaxforge_etf",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "阿宏"
+      ],
+      "description": "The ETF launchpad of @avax . Your stocks, your hooks, your fees.",
+      "first_seen_utc": "2026-11-12T04:31:02+00:00",
+      "last_seen_utc": "2026-11-12T04:31:02+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -26386,6 +26630,20 @@
       "description": "Index Industries creates infrastructure that reshapes how the world accesses and invests in real estate.",
       "first_seen_utc": "2026-11-10T21:42:48+00:00",
       "last_seen_utc": "2026-11-10T21:42:48+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Index Maxi",
+      "x_account": "IndexMaxi",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "poet"
+      ],
+      "description": "Index maxi. Baskets over bags. Deploying onchain index tokens, degen energy with risk management. Automated account. NFA, DYOR.",
+      "first_seen_utc": "2026-11-11T23:47:52+00:00",
+      "last_seen_utc": "2026-11-11T23:47:52+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -27380,20 +27638,6 @@
       "description": "The index of Ascend. Stake $PNTH, earn the best of Ascend. Stakers choose who enters. Launching on @AscendLaunch day one.",
       "first_seen_utc": "2026-10-28T22:15:00+08:00",
       "last_seen_utc": "2026-10-28T22:15:00+08:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Parabola",
-      "x_account": "ParabolaMarkets",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "unsynned"
-      ],
-      "description": "Electricity price risk management, available for everyone.",
-      "first_seen_utc": "2026-11-11T20:31:04+00:00",
-      "last_seen_utc": "2026-11-11T20:31:04+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -29081,12 +29325,12 @@
   "daily": [
     {
       "date": "2026-11-12",
-      "totalRows": 13,
-      "projectCount": 10,
-      "focusCount": 3,
-      "candidateCount": 7,
+      "totalRows": 21,
+      "projectCount": 14,
+      "focusCount": 5,
+      "candidateCount": 9,
       "crossSource": 0,
-      "newCount": 7,
+      "newCount": 11,
       "repeatCount": 3,
       "projects": [
         {
@@ -29097,16 +29341,18 @@
           ],
           "alphas": [
             "BearzVerse",
-            "unsynned"
+            "unsynned",
+            "well"
           ],
           "tgAlphas": [
             "BearzVerse",
-            "unsynned"
+            "unsynned",
+            "well"
           ],
           "xAlphas": [],
-          "mentions": 2,
+          "mentions": 3,
           "firstSeen": "2026-11-11T18:09:40+00:00",
-          "lastSeen": "2026-11-11T23:20:26+00:00",
+          "lastSeen": "2026-11-12T05:37:42+00:00",
           "description": "We find issues in your agent traces\na16z @speedrun Alpha 001",
           "rows": [
             {
@@ -29128,9 +29374,125 @@
               "messageId": "dodtwitterbot/40685",
               "description": "We find issues in your agent traces\na16z @speedrun Alpha 001",
               "text": "We find issues in your agent traces\na16z @speedrun Alpha 001"
+            },
+            {
+              "source": "TG",
+              "project": "Kalmia",
+              "account": "kalmiadev",
+              "alpha": "well",
+              "seenAt": "2026-11-12T05:37:42+00:00",
+              "messageId": "dodtwitterbot/40698",
+              "description": "We find issues in your agent traces\na16z @speedrun Alpha 001",
+              "text": "We find issues in your agent traces\na16z @speedrun Alpha 001"
             }
           ],
-          "text": " Kalmia kalmiadev We find issues in your agent traces\na16z @speedrun Alpha 001 Kalmia kalmiadev We find issues in your agent traces\na16z @speedrun Alpha 001",
+          "text": " Kalmia kalmiadev We find issues in your agent traces\na16z @speedrun Alpha 001 Kalmia kalmiadev We find issues in your agent traces\na16z @speedrun Alpha 001 Kalmia kalmiadev We find issues in your agent traces\na16z @speedrun Alpha 001",
+          "score": 6,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Zynoptes",
+          "account": "Zynoptes",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BearzVerse",
+            "unsynned",
+            "well"
+          ],
+          "tgAlphas": [
+            "BearzVerse",
+            "unsynned",
+            "well"
+          ],
+          "xAlphas": [],
+          "mentions": 3,
+          "firstSeen": "2026-11-11T20:31:04+00:00",
+          "lastSeen": "2026-11-12T05:36:50+00:00",
+          "description": "Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Zynoptes",
+              "account": "Zynoptes",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-11T20:31:04+00:00",
+              "messageId": "dodtwitterbot/40669",
+              "description": "Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance",
+              "text": "Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance"
+            },
+            {
+              "source": "TG",
+              "project": "Zynoptes",
+              "account": "Zynoptes",
+              "alpha": "BearzVerse",
+              "seenAt": "2026-11-11T23:20:25+00:00",
+              "messageId": "dodtwitterbot/40683",
+              "description": "Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance",
+              "text": "Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance"
+            },
+            {
+              "source": "TG",
+              "project": "Zynoptes",
+              "account": "Zynoptes",
+              "alpha": "well",
+              "seenAt": "2026-11-12T05:36:50+00:00",
+              "messageId": "dodtwitterbot/40696",
+              "description": "Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance",
+              "text": "Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance"
+            }
+          ],
+          "text": " Zynoptes Zynoptes Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance Zynoptes Zynoptes Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance Zynoptes Zynoptes Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance",
+          "score": 6,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Bubble",
+          "account": "BubbleonTg",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "speest 💎",
+            "苦瓜大王"
+          ],
+          "tgAlphas": [
+            "speest 💎",
+            "苦瓜大王"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-11-12T06:38:39+00:00",
+          "lastSeen": "2026-11-12T06:49:07+00:00",
+          "description": "The Telegram native meme launchpad.\nPowered by @Telegram Widgets.\n\nOnly verified wallets.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Bubble",
+              "account": "BubbleonTg",
+              "alpha": "speest 💎",
+              "seenAt": "2026-11-12T06:38:39+00:00",
+              "messageId": "dodtwitterbot/40706",
+              "description": "The Telegram native meme launchpad.\nPowered by @Telegram Widgets.\n\nOnly verified wallets.",
+              "text": "The Telegram native meme launchpad.\nPowered by @Telegram Widgets.\n\nOnly verified wallets."
+            },
+            {
+              "source": "TG",
+              "project": "Bubble",
+              "account": "BubbleonTg",
+              "alpha": "苦瓜大王",
+              "seenAt": "2026-11-12T06:49:07+00:00",
+              "messageId": "dodtwitterbot/40707",
+              "description": "The Telegram native meme launchpad.\nPowered by @Telegram Widgets.\n\nOnly verified wallets.",
+              "text": "The Telegram native meme launchpad.\nPowered by @Telegram Widgets.\n\nOnly verified wallets."
+            }
+          ],
+          "text": " Bubble BubbleonTg The Telegram native meme launchpad.\nPowered by @Telegram Widgets.\n\nOnly verified wallets. Bubble BubbleonTg The Telegram native meme launchpad.\nPowered by @Telegram Widgets.\n\nOnly verified wallets.",
           "score": 4,
           "displayTier": "focus",
           "avatarUrl": "",
@@ -29184,47 +29546,47 @@
           "dayStatus": "new"
         },
         {
-          "project": "Zynoptes",
-          "account": "Zynoptes",
+          "project": "Parabola",
+          "account": "ParabolaMarkets",
           "sources": [
             "TG"
           ],
           "alphas": [
-            "BearzVerse",
-            "unsynned"
+            "unsynned",
+            "well"
           ],
           "tgAlphas": [
-            "BearzVerse",
-            "unsynned"
+            "unsynned",
+            "well"
           ],
           "xAlphas": [],
           "mentions": 2,
           "firstSeen": "2026-11-11T20:31:04+00:00",
-          "lastSeen": "2026-11-11T23:20:25+00:00",
-          "description": "Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance",
+          "lastSeen": "2026-11-12T05:37:42+00:00",
+          "description": "Electricity price risk management, available for everyone.",
           "rows": [
             {
               "source": "TG",
-              "project": "Zynoptes",
-              "account": "Zynoptes",
+              "project": "Parabola",
+              "account": "ParabolaMarkets",
               "alpha": "unsynned",
               "seenAt": "2026-11-11T20:31:04+00:00",
-              "messageId": "dodtwitterbot/40669",
-              "description": "Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance",
-              "text": "Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance"
+              "messageId": "dodtwitterbot/40670",
+              "description": "Electricity price risk management, available for everyone.",
+              "text": "Electricity price risk management, available for everyone."
             },
             {
               "source": "TG",
-              "project": "Zynoptes",
-              "account": "Zynoptes",
-              "alpha": "BearzVerse",
-              "seenAt": "2026-11-11T23:20:25+00:00",
-              "messageId": "dodtwitterbot/40683",
-              "description": "Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance",
-              "text": "Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance"
+              "project": "Parabola",
+              "account": "ParabolaMarkets",
+              "alpha": "well",
+              "seenAt": "2026-11-12T05:37:42+00:00",
+              "messageId": "dodtwitterbot/40699",
+              "description": "Electricity price risk management, available for everyone.",
+              "text": "Electricity price risk management, available for everyone."
             }
           ],
-          "text": " Zynoptes Zynoptes Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance Zynoptes Zynoptes Devin for Robotics Testing\nFounded by @theOwenBales & Max Kern\nbacked by @alliance",
+          "text": " Parabola ParabolaMarkets Electricity price risk management, available for everyone. Parabola ParabolaMarkets Electricity price risk management, available for everyone.",
           "score": 4,
           "displayTier": "focus",
           "avatarUrl": "",
@@ -29264,6 +29626,111 @@
           "displayTier": "candidate",
           "avatarUrl": "",
           "dayStatus": "repeat"
+        },
+        {
+          "project": "Feather Games",
+          "account": "FeatherGms",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "well"
+          ],
+          "tgAlphas": [
+            "well"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-12T05:36:50+00:00",
+          "lastSeen": "2026-11-12T05:36:50+00:00",
+          "description": "A home for games onchain. Play, compete and explore a growing world of games.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Feather Games",
+              "account": "FeatherGms",
+              "alpha": "well",
+              "seenAt": "2026-11-12T05:36:50+00:00",
+              "messageId": "dodtwitterbot/40697",
+              "description": "A home for games onchain. Play, compete and explore a growing world of games.",
+              "text": "A home for games onchain. Play, compete and explore a growing world of games."
+            }
+          ],
+          "text": " Feather Games FeatherGms A home for games onchain. Play, compete and explore a growing world of games.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "forge",
+          "account": "avaxforge_etf",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-12T04:31:02+00:00",
+          "lastSeen": "2026-11-12T04:31:02+00:00",
+          "description": "The ETF launchpad of @avax . Your stocks, your hooks, your fees.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "forge",
+              "account": "avaxforge_etf",
+              "alpha": "阿宏",
+              "seenAt": "2026-11-12T04:31:02+00:00",
+              "messageId": "dodtwitterbot/40691",
+              "description": "The ETF launchpad of @avax . Your stocks, your hooks, your fees.",
+              "text": "The ETF launchpad of @avax . Your stocks, your hooks, your fees."
+            }
+          ],
+          "text": " forge avaxforge_etf The ETF launchpad of @avax . Your stocks, your hooks, your fees.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Index Maxi",
+          "account": "IndexMaxi",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "poet"
+          ],
+          "tgAlphas": [
+            "poet"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-11T23:47:52+00:00",
+          "lastSeen": "2026-11-11T23:47:52+00:00",
+          "description": "Index maxi. Baskets over bags. Deploying onchain index tokens, degen energy with risk management. Automated account. NFA, DYOR.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Index Maxi",
+              "account": "IndexMaxi",
+              "alpha": "poet",
+              "seenAt": "2026-11-11T23:47:52+00:00",
+              "messageId": "dodtwitterbot/40686",
+              "description": "Index maxi. Baskets over bags. Deploying onchain index tokens, degen energy with risk management. Automated account. NFA, DYOR.",
+              "text": "Index maxi. Baskets over bags. Deploying onchain index tokens, degen energy with risk management. Automated account. NFA, DYOR."
+            }
+          ],
+          "text": " Index Maxi IndexMaxi Index maxi. Baskets over bags. Deploying onchain index tokens, degen energy with risk management. Automated account. NFA, DYOR.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
         },
         {
           "project": "Moon 🌙",
@@ -29334,41 +29801,6 @@
           "displayTier": "candidate",
           "avatarUrl": "",
           "dayStatus": "repeat"
-        },
-        {
-          "project": "Parabola",
-          "account": "ParabolaMarkets",
-          "sources": [
-            "TG"
-          ],
-          "alphas": [
-            "unsynned"
-          ],
-          "tgAlphas": [
-            "unsynned"
-          ],
-          "xAlphas": [],
-          "mentions": 1,
-          "firstSeen": "2026-11-11T20:31:04+00:00",
-          "lastSeen": "2026-11-11T20:31:04+00:00",
-          "description": "Electricity price risk management, available for everyone.",
-          "rows": [
-            {
-              "source": "TG",
-              "project": "Parabola",
-              "account": "ParabolaMarkets",
-              "alpha": "unsynned",
-              "seenAt": "2026-11-11T20:31:04+00:00",
-              "messageId": "dodtwitterbot/40670",
-              "description": "Electricity price risk management, available for everyone.",
-              "text": "Electricity price risk management, available for everyone."
-            }
-          ],
-          "text": " Parabola ParabolaMarkets Electricity price risk management, available for everyone.",
-          "score": 2,
-          "displayTier": "candidate",
-          "avatarUrl": "",
-          "dayStatus": "new"
         },
         {
           "project": "Revvy",
@@ -54938,254 +55370,259 @@
   ],
   "reports": [
     {
+      "file": "2026-11-12-0853-telegram-update.md",
+      "title": "2026-11-12-0853-telegram-update",
+      "updatedAt": "2026-11-12T08:53:26.861Z"
+    },
+    {
       "file": "2026-11-11-2344-telegram-update.md",
       "title": "2026-11-11-2344-telegram-update",
-      "updatedAt": "2026-11-11T23:44:09.596Z"
+      "updatedAt": "2026-11-12T08:53:24.625Z"
     },
     {
       "file": "2026-11-11-1729-telegram-update.md",
       "title": "2026-11-11-1729-telegram-update",
-      "updatedAt": "2026-11-11T23:44:07.671Z"
+      "updatedAt": "2026-11-12T08:53:24.625Z"
     },
     {
       "file": "2026-11-11-0828-telegram-update.md",
       "title": "2026-11-11-0828-telegram-update",
-      "updatedAt": "2026-11-11T23:44:07.671Z"
+      "updatedAt": "2026-11-12T08:53:24.625Z"
     },
     {
       "file": "2026-11-11-0130-telegram-update.md",
       "title": "2026-11-11-0130-telegram-update",
-      "updatedAt": "2026-11-11T23:44:07.671Z"
+      "updatedAt": "2026-11-12T08:53:24.624Z"
     },
     {
       "file": "2026-11-10-2037-telegram-update.md",
       "title": "2026-11-10-2037-telegram-update",
-      "updatedAt": "2026-11-11T23:44:07.671Z"
+      "updatedAt": "2026-11-12T08:53:24.624Z"
     },
     {
       "file": "2026-11-10-1348-telegram-update.md",
       "title": "2026-11-10-1348-telegram-update",
-      "updatedAt": "2026-11-11T23:44:07.671Z"
+      "updatedAt": "2026-11-12T08:53:24.624Z"
     },
     {
       "file": "2026-11-10-0351-telegram-update.md",
       "title": "2026-11-10-0351-telegram-update",
-      "updatedAt": "2026-11-11T23:44:07.671Z"
+      "updatedAt": "2026-11-12T08:53:24.624Z"
     },
     {
       "file": "2026-11-09-2013-telegram-update.md",
       "title": "2026-11-09-2013-telegram-update",
-      "updatedAt": "2026-11-11T23:44:07.671Z"
+      "updatedAt": "2026-11-12T08:53:24.624Z"
     },
     {
       "file": "2026-11-09-0844-telegram-update.md",
       "title": "2026-11-09-0844-telegram-update",
-      "updatedAt": "2026-11-11T23:44:07.671Z"
+      "updatedAt": "2026-11-12T08:53:24.624Z"
     },
     {
       "file": "2026-11-08-2123-telegram-update.md",
       "title": "2026-11-08-2123-telegram-update",
-      "updatedAt": "2026-11-11T23:44:07.671Z"
+      "updatedAt": "2026-11-12T08:53:24.624Z"
     },
     {
       "file": "2026-11-08-1623-telegram-update.md",
       "title": "2026-11-08-1623-telegram-update",
-      "updatedAt": "2026-11-11T23:44:07.671Z"
+      "updatedAt": "2026-11-12T08:53:24.624Z"
     },
     {
       "file": "2026-11-08-0804-telegram-update.md",
       "title": "2026-11-08-0804-telegram-update",
-      "updatedAt": "2026-11-11T23:44:07.671Z"
+      "updatedAt": "2026-11-12T08:53:24.624Z"
     },
     {
       "file": "2026-11-07-2106-telegram-update.md",
       "title": "2026-11-07-2106-telegram-update",
-      "updatedAt": "2026-11-11T23:44:07.671Z"
+      "updatedAt": "2026-11-12T08:53:24.624Z"
     },
     {
       "file": "2026-11-07-1556-telegram-update.md",
       "title": "2026-11-07-1556-telegram-update",
-      "updatedAt": "2026-11-11T23:44:07.671Z"
+      "updatedAt": "2026-11-12T08:53:24.624Z"
     },
     {
       "file": "2026-11-07-0751-telegram-update.md",
       "title": "2026-11-07-0751-telegram-update",
-      "updatedAt": "2026-11-11T23:44:07.671Z"
+      "updatedAt": "2026-11-12T08:53:24.624Z"
     },
     {
       "file": "2026-11-06-2226-telegram-update.md",
       "title": "2026-11-06-2226-telegram-update",
-      "updatedAt": "2026-11-11T23:44:07.671Z"
+      "updatedAt": "2026-11-12T08:53:24.624Z"
     },
     {
       "file": "2026-11-06-1658-telegram-update.md",
       "title": "2026-11-06-1658-telegram-update",
-      "updatedAt": "2026-11-11T23:44:07.671Z"
+      "updatedAt": "2026-11-12T08:53:24.624Z"
     },
     {
       "file": "2026-11-06-0835-telegram-update.md",
       "title": "2026-11-06-0835-telegram-update",
-      "updatedAt": "2026-11-11T23:44:07.671Z"
+      "updatedAt": "2026-11-12T08:53:24.624Z"
     },
     {
       "file": "2026-11-05-2256-telegram-update.md",
       "title": "2026-11-05-2256-telegram-update",
-      "updatedAt": "2026-11-11T23:44:07.671Z"
+      "updatedAt": "2026-11-12T08:53:24.624Z"
     },
     {
       "file": "2026-11-05-1742-telegram-update.md",
       "title": "2026-11-05-1742-telegram-update",
-      "updatedAt": "2026-11-11T23:44:07.671Z"
+      "updatedAt": "2026-11-12T08:53:24.624Z"
     },
     {
       "file": "2026-11-05-0836-telegram-update.md",
       "title": "2026-11-05-0836-telegram-update",
-      "updatedAt": "2026-11-11T23:44:07.671Z"
+      "updatedAt": "2026-11-12T08:53:24.624Z"
     },
     {
       "file": "2026-11-04-2255-telegram-update.md",
       "title": "2026-11-04-2255-telegram-update",
-      "updatedAt": "2026-11-11T23:44:07.671Z"
+      "updatedAt": "2026-11-12T08:53:24.624Z"
     },
     {
       "file": "2026-11-04-1737-telegram-update.md",
       "title": "2026-11-04-1737-telegram-update",
-      "updatedAt": "2026-11-11T23:44:07.671Z"
+      "updatedAt": "2026-11-12T08:53:24.624Z"
     },
     {
       "file": "2026-11-04-0810-telegram-update.md",
       "title": "2026-11-04-0810-telegram-update",
-      "updatedAt": "2026-11-11T23:44:07.671Z"
+      "updatedAt": "2026-11-12T08:53:24.624Z"
     },
     {
       "file": "2026-11-04-0143-telegram-update.md",
       "title": "2026-11-04-0143-telegram-update",
-      "updatedAt": "2026-11-11T23:44:07.671Z"
+      "updatedAt": "2026-11-12T08:53:24.624Z"
     },
     {
       "file": "2026-11-03-2018-telegram-update.md",
       "title": "2026-11-03-2018-telegram-update",
-      "updatedAt": "2026-11-11T23:44:07.671Z"
+      "updatedAt": "2026-11-12T08:53:24.624Z"
     },
     {
       "file": "2026-11-03-1302-telegram-update.md",
       "title": "2026-11-03-1302-telegram-update",
-      "updatedAt": "2026-11-11T23:44:07.671Z"
+      "updatedAt": "2026-11-12T08:53:24.624Z"
     },
     {
       "file": "2026-11-03-0306-telegram-update.md",
       "title": "2026-11-03-0306-telegram-update",
-      "updatedAt": "2026-11-11T23:44:07.671Z"
+      "updatedAt": "2026-11-12T08:53:24.624Z"
     },
     {
       "file": "2026-11-02-1950-telegram-update.md",
       "title": "2026-11-02-1950-telegram-update",
-      "updatedAt": "2026-11-11T23:44:07.671Z"
+      "updatedAt": "2026-11-12T08:53:24.624Z"
     },
     {
       "file": "2026-11-02-0826-telegram-update.md",
       "title": "2026-11-02-0826-telegram-update",
-      "updatedAt": "2026-11-11T23:44:07.671Z"
+      "updatedAt": "2026-11-12T08:53:24.623Z"
     },
     {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-11T23:44:07.671Z"
+      "updatedAt": "2026-11-12T08:53:24.623Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-11T23:44:07.671Z"
+      "updatedAt": "2026-11-12T08:53:24.623Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-11T23:44:07.671Z"
+      "updatedAt": "2026-11-12T08:53:24.623Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-11T23:44:07.671Z"
+      "updatedAt": "2026-11-12T08:53:24.623Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-11T23:44:07.671Z"
+      "updatedAt": "2026-11-12T08:53:24.623Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-11T23:44:07.671Z"
+      "updatedAt": "2026-11-12T08:53:24.623Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-11T23:44:07.671Z"
+      "updatedAt": "2026-11-12T08:53:24.623Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-11T23:44:07.671Z"
+      "updatedAt": "2026-11-12T08:53:24.623Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-11T23:44:07.671Z"
+      "updatedAt": "2026-11-12T08:53:24.623Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-11T23:44:07.671Z"
+      "updatedAt": "2026-11-12T08:53:24.623Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-11T23:44:07.671Z"
+      "updatedAt": "2026-11-12T08:53:24.623Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-11T23:44:07.671Z"
+      "updatedAt": "2026-11-12T08:53:24.623Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-11T23:44:07.671Z"
+      "updatedAt": "2026-11-12T08:53:24.623Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-11T23:44:07.671Z"
+      "updatedAt": "2026-11-12T08:53:24.623Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-11T23:44:07.671Z"
+      "updatedAt": "2026-11-12T08:53:24.623Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-11T23:44:07.671Z"
+      "updatedAt": "2026-11-12T08:53:24.623Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-11T23:44:07.671Z"
+      "updatedAt": "2026-11-12T08:53:24.623Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-11T23:44:07.671Z"
+      "updatedAt": "2026-11-12T08:53:24.623Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-11T23:44:07.671Z"
+      "updatedAt": "2026-11-12T08:53:24.623Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-11T23:44:07.670Z"
+      "updatedAt": "2026-11-12T08:53:24.623Z"
     }
   ]
 }
