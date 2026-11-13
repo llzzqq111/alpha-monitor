@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-13T08:49:43.636Z",
+  "generatedAt": "2026-11-13T17:24:07.324Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 40797,
-    "lastMessageAt": "2026-11-13T08:49:21+00:00",
-    "lastCheckedAt": "2026-11-13T08:49:43.293Z",
-    "previousMessageId": 40773,
+    "lastMessageId": 40823,
+    "lastMessageAt": "2026-11-13T16:18:12+00:00",
+    "lastCheckedAt": "2026-11-13T17:24:07.130Z",
+    "previousMessageId": 40797,
     "pagesRead": 2,
-    "messagesRead": 24,
-    "newProjectRecords": 3,
+    "messagesRead": 26,
+    "newProjectRecords": 6,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 872,
+    "telegramRows": 878,
     "xRows": 0,
-    "projects": 535,
+    "projects": 541,
     "crossSource": 0
   },
   "projects": [
@@ -11782,6 +11782,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Bullish",
+      "account": "Bullish",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-13T11:48:59+00:00",
+      "lastSeen": "2026-11-13T11:48:59+00:00",
+      "description": "Bullish digital asset exchange offers market-leading order depth & consistently tight spreads all in a regulated environment.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Bullish",
+          "account": "Bullish",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-13T11:48:59+00:00",
+          "messageId": "dodtwitterbot/40802",
+          "description": "Bullish digital asset exchange offers market-leading order depth & consistently tight spreads all in a regulated environment.",
+          "text": "Bullish digital asset exchange offers market-leading order depth & consistently tight spreads all in a regulated environment."
+        }
+      ],
+      "text": " Bullish Bullish Bullish digital asset exchange offers market-leading order depth & consistently tight spreads all in a regulated environment.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Bullshot",
       "account": "Bullshot911",
       "sources": [
@@ -12763,6 +12797,40 @@
         }
       ],
       "text": " Deanone 💎 Deanoneqq degen @solana | dev ops | deadlock top 100 ASIA · fulltime shitposter · printing at https://t.co/SYXxswud0W",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Defined",
+      "account": "definedfi",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-13T11:48:59+00:00",
+      "lastSeen": "2026-11-13T11:48:59+00:00",
+      "description": "Tokens. Predictions. Perps. Sports. All in one, lightning-fast UI.\n\nNo paid trending. Purely organic.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Defined",
+          "account": "definedfi",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-13T11:48:59+00:00",
+          "messageId": "dodtwitterbot/40803",
+          "description": "Tokens. Predictions. Perps. Sports. All in one, lightning-fast UI.\n\nNo paid trending. Purely organic.",
+          "text": "Tokens. Predictions. Perps. Sports. All in one, lightning-fast UI.\n\nNo paid trending. Purely organic."
+        }
+      ],
+      "text": " Defined definedfi Tokens. Predictions. Perps. Sports. All in one, lightning-fast UI.\n\nNo paid trending. Purely organic.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -13754,6 +13822,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Flare ☀️",
+      "account": "FlareNetworks",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-13T11:11:37+00:00",
+      "lastSeen": "2026-11-13T11:11:37+00:00",
+      "description": "Put your XRP to work in DEFI ON FLARE: Non-custodial, secure, on-chain.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Flare ☀️",
+          "account": "FlareNetworks",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-13T11:11:37+00:00",
+          "messageId": "dodtwitterbot/40801",
+          "description": "Put your XRP to work in DEFI ON FLARE: Non-custodial, secure, on-chain.",
+          "text": "Put your XRP to work in DEFI ON FLARE: Non-custodial, secure, on-chain."
+        }
+      ],
+      "text": " Flare ☀️ FlareNetworks Put your XRP to work in DEFI ON FLARE: Non-custodial, secure, on-chain.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Flint Trade",
       "account": "flint_trade_",
       "sources": [
@@ -14463,6 +14565,40 @@
         }
       ],
       "text": " greenz greenbergz @kinetiq_xyz · @markets_xyz · @enter_elysium",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Grid",
+      "account": "grid_arena",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka"
+      ],
+      "tgAlphas": [
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-13T14:12:57+00:00",
+      "lastSeen": "2026-11-13T14:12:57+00:00",
+      "description": "Every market, One Grid.\nEarn, Trade, Predict.\nEnter the Grid.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Grid",
+          "account": "grid_arena",
+          "alpha": "lakka",
+          "seenAt": "2026-11-13T14:12:57+00:00",
+          "messageId": "dodtwitterbot/40818",
+          "description": "Every market, One Grid.\nEarn, Trade, Predict.\nEnter the Grid.",
+          "text": "Every market, One Grid.\nEarn, Trade, Predict.\nEnter the Grid."
+        }
+      ],
+      "text": " Grid grid_arena Every market, One Grid.\nEarn, Trade, Predict.\nEnter the Grid.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -18004,6 +18140,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "PAIR",
+      "account": "pairdotfund",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "speest 💎"
+      ],
+      "tgAlphas": [
+        "speest 💎"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-13T14:16:36+00:00",
+      "lastSeen": "2026-11-13T14:16:36+00:00",
+      "description": "First multipool launchpad that enables token deployment paired with a basket of any digital asset and canonical stock tokens via @Uniswap v4 hooks.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "PAIR",
+          "account": "pairdotfund",
+          "alpha": "speest 💎",
+          "seenAt": "2026-11-13T14:16:36+00:00",
+          "messageId": "dodtwitterbot/40819",
+          "description": "First multipool launchpad that enables token deployment paired with a basket of any digital asset and canonical stock tokens via @Uniswap v4 hooks.",
+          "text": "First multipool launchpad that enables token deployment paired with a basket of any digital asset and canonical stock tokens via @Uniswap v4 hooks."
+        }
+      ],
+      "text": " PAIR pairdotfund First multipool launchpad that enables token deployment paired with a basket of any digital asset and canonical stock tokens via @Uniswap v4 hooks.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "PalaTrade",
       "account": "Tradeonpala",
       "sources": [
@@ -19325,6 +19495,40 @@
         }
       ],
       "text": " River One RiverOneHQ Institutional asset-backed finance for the stablecoin economy",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "RocketPad",
+      "account": "RocketPad_flap",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "A佬"
+      ],
+      "tgAlphas": [
+        "A佬"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-13T13:29:37+00:00",
+      "lastSeen": "2026-11-13T13:29:37+00:00",
+      "description": "The MEME Launchpad with 9 Boosters.\nPowered by @flapdotsh",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "RocketPad",
+          "account": "RocketPad_flap",
+          "alpha": "A佬",
+          "seenAt": "2026-11-13T13:29:37+00:00",
+          "messageId": "dodtwitterbot/40808",
+          "description": "The MEME Launchpad with 9 Boosters.\nPowered by @flapdotsh",
+          "text": "The MEME Launchpad with 9 Boosters.\nPowered by @flapdotsh"
+        }
+      ],
+      "text": " RocketPad RocketPad_flap The MEME Launchpad with 9 Boosters.\nPowered by @flapdotsh",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -25773,6 +25977,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Bullish",
+      "x_account": "Bullish",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "unsynned"
+      ],
+      "description": "Bullish digital asset exchange offers market-leading order depth & consistently tight spreads all in a regulated environment.",
+      "first_seen_utc": "2026-11-13T11:48:59+00:00",
+      "last_seen_utc": "2026-11-13T11:48:59+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Bullshot",
       "x_account": "Bullshot911",
       "total_mentions": 1,
@@ -26175,6 +26393,20 @@
       "description": "degen @solana | dev ops | deadlock top 100 ASIA · fulltime shitposter · printing at https://t.co/SYXxswud0W",
       "first_seen_utc": "2026-11-04T19:50:25+00:00",
       "last_seen_utc": "2026-11-04T19:50:25+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Defined",
+      "x_account": "definedfi",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "unsynned"
+      ],
+      "description": "Tokens. Predictions. Perps. Sports. All in one, lightning-fast UI.\n\nNo paid trending. Purely organic.",
+      "first_seen_utc": "2026-11-13T11:48:59+00:00",
+      "last_seen_utc": "2026-11-13T11:48:59+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -26585,6 +26817,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Flare ☀️",
+      "x_account": "FlareNetworks",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "unsynned"
+      ],
+      "description": "Put your XRP to work in DEFI ON FLARE: Non-custodial, secure, on-chain.",
+      "first_seen_utc": "2026-11-13T11:11:37+00:00",
+      "last_seen_utc": "2026-11-13T11:11:37+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Flint Trade",
       "x_account": "flint_trade_",
       "total_mentions": 1,
@@ -26875,6 +27121,20 @@
       "description": "@kinetiq_xyz · @markets_xyz · @enter_elysium",
       "first_seen_utc": "2026-11-01T03:52:22+00:00",
       "last_seen_utc": "2026-11-01T03:52:22+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Grid",
+      "x_account": "grid_arena",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "lakka"
+      ],
+      "description": "Every market, One Grid.\nEarn, Trade, Predict.\nEnter the Grid.",
+      "first_seen_utc": "2026-11-13T14:12:57+00:00",
+      "last_seen_utc": "2026-11-13T14:12:57+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -28335,6 +28595,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "PAIR",
+      "x_account": "pairdotfund",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "speest 💎"
+      ],
+      "description": "First multipool launchpad that enables token deployment paired with a basket of any digital asset and canonical stock tokens via @Uniswap v4 hooks.",
+      "first_seen_utc": "2026-11-13T14:16:36+00:00",
+      "last_seen_utc": "2026-11-13T14:16:36+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "PalaTrade",
       "x_account": "Tradeonpala",
       "total_mentions": 1,
@@ -28877,6 +29151,20 @@
       "description": "Institutional asset-backed finance for the stablecoin economy",
       "first_seen_utc": "2026-11-12T13:07:05+00:00",
       "last_seen_utc": "2026-11-12T13:07:05+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "RocketPad",
+      "x_account": "RocketPad_flap",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "A佬"
+      ],
+      "description": "The MEME Launchpad with 9 Boosters.\nPowered by @flapdotsh",
+      "first_seen_utc": "2026-11-13T13:29:37+00:00",
+      "last_seen_utc": "2026-11-13T13:29:37+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -30087,13 +30375,24 @@
   ],
   "daily": [
     {
-      "date": "2026-11-13",
-      "totalRows": 11,
-      "projectCount": 11,
+      "date": "2026-11-14",
+      "totalRows": 0,
+      "projectCount": 0,
       "focusCount": 0,
-      "candidateCount": 11,
+      "candidateCount": 0,
       "crossSource": 0,
-      "newCount": 7,
+      "newCount": 0,
+      "repeatCount": 0,
+      "projects": []
+    },
+    {
+      "date": "2026-11-13",
+      "totalRows": 17,
+      "projectCount": 17,
+      "focusCount": 0,
+      "candidateCount": 17,
+      "crossSource": 0,
+      "newCount": 13,
       "repeatCount": 4,
       "projects": [
         {
@@ -30167,6 +30466,41 @@
           "dayStatus": "new"
         },
         {
+          "project": "Bullish",
+          "account": "Bullish",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-13T11:48:59+00:00",
+          "lastSeen": "2026-11-13T11:48:59+00:00",
+          "description": "Bullish digital asset exchange offers market-leading order depth & consistently tight spreads all in a regulated environment.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Bullish",
+              "account": "Bullish",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-13T11:48:59+00:00",
+              "messageId": "dodtwitterbot/40802",
+              "description": "Bullish digital asset exchange offers market-leading order depth & consistently tight spreads all in a regulated environment.",
+              "text": "Bullish digital asset exchange offers market-leading order depth & consistently tight spreads all in a regulated environment."
+            }
+          ],
+          "text": " Bullish Bullish Bullish digital asset exchange offers market-leading order depth & consistently tight spreads all in a regulated environment.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
           "project": "Burn Baby Burn CC",
           "account": "burnbabyburncc",
           "sources": [
@@ -30231,6 +30565,41 @@
             }
           ],
           "text": " Cinft 0xCiNFT 鬼滅の刃Cult/星街彗星是我活下去的动力/金蛙集团大厨/每个人都有自己的黄金期/不要哀求，学会争取/同时追两只兔子，一只也抓不到/ 🪶 💚 Robinhood 💚 🪶",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Defined",
+          "account": "definedfi",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-13T11:48:59+00:00",
+          "lastSeen": "2026-11-13T11:48:59+00:00",
+          "description": "Tokens. Predictions. Perps. Sports. All in one, lightning-fast UI.\n\nNo paid trending. Purely organic.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Defined",
+              "account": "definedfi",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-13T11:48:59+00:00",
+              "messageId": "dodtwitterbot/40803",
+              "description": "Tokens. Predictions. Perps. Sports. All in one, lightning-fast UI.\n\nNo paid trending. Purely organic.",
+              "text": "Tokens. Predictions. Perps. Sports. All in one, lightning-fast UI.\n\nNo paid trending. Purely organic."
+            }
+          ],
+          "text": " Defined definedfi Tokens. Predictions. Perps. Sports. All in one, lightning-fast UI.\n\nNo paid trending. Purely organic.",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -30342,6 +30711,76 @@
           "dayStatus": "new"
         },
         {
+          "project": "Flare ☀️",
+          "account": "FlareNetworks",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-13T11:11:37+00:00",
+          "lastSeen": "2026-11-13T11:11:37+00:00",
+          "description": "Put your XRP to work in DEFI ON FLARE: Non-custodial, secure, on-chain.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Flare ☀️",
+              "account": "FlareNetworks",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-13T11:11:37+00:00",
+              "messageId": "dodtwitterbot/40801",
+              "description": "Put your XRP to work in DEFI ON FLARE: Non-custodial, secure, on-chain.",
+              "text": "Put your XRP to work in DEFI ON FLARE: Non-custodial, secure, on-chain."
+            }
+          ],
+          "text": " Flare ☀️ FlareNetworks Put your XRP to work in DEFI ON FLARE: Non-custodial, secure, on-chain.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Grid",
+          "account": "grid_arena",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-13T14:12:57+00:00",
+          "lastSeen": "2026-11-13T14:12:57+00:00",
+          "description": "Every market, One Grid.\nEarn, Trade, Predict.\nEnter the Grid.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Grid",
+              "account": "grid_arena",
+              "alpha": "lakka",
+              "seenAt": "2026-11-13T14:12:57+00:00",
+              "messageId": "dodtwitterbot/40818",
+              "description": "Every market, One Grid.\nEarn, Trade, Predict.\nEnter the Grid.",
+              "text": "Every market, One Grid.\nEarn, Trade, Predict.\nEnter the Grid."
+            }
+          ],
+          "text": " Grid grid_arena Every market, One Grid.\nEarn, Trade, Predict.\nEnter the Grid.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
           "project": "José",
           "account": "JoseOnCanton",
           "sources": [
@@ -30445,6 +30884,76 @@
           "displayTier": "candidate",
           "avatarUrl": "",
           "dayStatus": "repeat"
+        },
+        {
+          "project": "PAIR",
+          "account": "pairdotfund",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "speest 💎"
+          ],
+          "tgAlphas": [
+            "speest 💎"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-13T14:16:36+00:00",
+          "lastSeen": "2026-11-13T14:16:36+00:00",
+          "description": "First multipool launchpad that enables token deployment paired with a basket of any digital asset and canonical stock tokens via @Uniswap v4 hooks.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "PAIR",
+              "account": "pairdotfund",
+              "alpha": "speest 💎",
+              "seenAt": "2026-11-13T14:16:36+00:00",
+              "messageId": "dodtwitterbot/40819",
+              "description": "First multipool launchpad that enables token deployment paired with a basket of any digital asset and canonical stock tokens via @Uniswap v4 hooks.",
+              "text": "First multipool launchpad that enables token deployment paired with a basket of any digital asset and canonical stock tokens via @Uniswap v4 hooks."
+            }
+          ],
+          "text": " PAIR pairdotfund First multipool launchpad that enables token deployment paired with a basket of any digital asset and canonical stock tokens via @Uniswap v4 hooks.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "RocketPad",
+          "account": "RocketPad_flap",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "A佬"
+          ],
+          "tgAlphas": [
+            "A佬"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-13T13:29:37+00:00",
+          "lastSeen": "2026-11-13T13:29:37+00:00",
+          "description": "The MEME Launchpad with 9 Boosters.\nPowered by @flapdotsh",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "RocketPad",
+              "account": "RocketPad_flap",
+              "alpha": "A佬",
+              "seenAt": "2026-11-13T13:29:37+00:00",
+              "messageId": "dodtwitterbot/40808",
+              "description": "The MEME Launchpad with 9 Boosters.\nPowered by @flapdotsh",
+              "text": "The MEME Launchpad with 9 Boosters.\nPowered by @flapdotsh"
+            }
+          ],
+          "text": " RocketPad RocketPad_flap The MEME Launchpad with 9 Boosters.\nPowered by @flapdotsh",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
         },
         {
           "project": "Tenjo",
@@ -56834,274 +57343,279 @@
   ],
   "reports": [
     {
+      "file": "2026-11-13-1724-telegram-update.md",
+      "title": "2026-11-13-1724-telegram-update",
+      "updatedAt": "2026-11-13T17:24:07.129Z"
+    },
+    {
       "file": "2026-11-13-0849-telegram-update.md",
       "title": "2026-11-13-0849-telegram-update",
-      "updatedAt": "2026-11-13T08:49:43.292Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-11-12-2254-telegram-update.md",
       "title": "2026-11-12-2254-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.458Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-11-12-1746-telegram-update.md",
       "title": "2026-11-12-1746-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.458Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-11-12-0853-telegram-update.md",
       "title": "2026-11-12-0853-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.458Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-11-11-2344-telegram-update.md",
       "title": "2026-11-11-2344-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.458Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-11-11-1729-telegram-update.md",
       "title": "2026-11-11-1729-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.458Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-11-11-0828-telegram-update.md",
       "title": "2026-11-11-0828-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.458Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-11-11-0130-telegram-update.md",
       "title": "2026-11-11-0130-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.458Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-11-10-2037-telegram-update.md",
       "title": "2026-11-10-2037-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.458Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-11-10-1348-telegram-update.md",
       "title": "2026-11-10-1348-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.458Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-11-10-0351-telegram-update.md",
       "title": "2026-11-10-0351-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.457Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-11-09-2013-telegram-update.md",
       "title": "2026-11-09-2013-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.457Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-11-09-0844-telegram-update.md",
       "title": "2026-11-09-0844-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.457Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-11-08-2123-telegram-update.md",
       "title": "2026-11-08-2123-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.457Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-11-08-1623-telegram-update.md",
       "title": "2026-11-08-1623-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.457Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-11-08-0804-telegram-update.md",
       "title": "2026-11-08-0804-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.457Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-11-07-2106-telegram-update.md",
       "title": "2026-11-07-2106-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.457Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-11-07-1556-telegram-update.md",
       "title": "2026-11-07-1556-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.457Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-11-07-0751-telegram-update.md",
       "title": "2026-11-07-0751-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.457Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-11-06-2226-telegram-update.md",
       "title": "2026-11-06-2226-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.457Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-11-06-1658-telegram-update.md",
       "title": "2026-11-06-1658-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.457Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-11-06-0835-telegram-update.md",
       "title": "2026-11-06-0835-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.457Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-11-05-2256-telegram-update.md",
       "title": "2026-11-05-2256-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.457Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-11-05-1742-telegram-update.md",
       "title": "2026-11-05-1742-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.457Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-11-05-0836-telegram-update.md",
       "title": "2026-11-05-0836-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.457Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-11-04-2255-telegram-update.md",
       "title": "2026-11-04-2255-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.457Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-11-04-1737-telegram-update.md",
       "title": "2026-11-04-1737-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.457Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-11-04-0810-telegram-update.md",
       "title": "2026-11-04-0810-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.457Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-11-04-0143-telegram-update.md",
       "title": "2026-11-04-0143-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.457Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-11-03-2018-telegram-update.md",
       "title": "2026-11-03-2018-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.457Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-11-03-1302-telegram-update.md",
       "title": "2026-11-03-1302-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.457Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-11-03-0306-telegram-update.md",
       "title": "2026-11-03-0306-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.457Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-11-02-1950-telegram-update.md",
       "title": "2026-11-02-1950-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.457Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-11-02-0826-telegram-update.md",
       "title": "2026-11-02-0826-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.457Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.457Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.457Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.457Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.457Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.457Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.457Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.457Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.457Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.457Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.457Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.457Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.457Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.457Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.457Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.457Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.457Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.457Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.457Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-13T08:49:40.457Z"
+      "updatedAt": "2026-11-13T17:24:03.726Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-13T08:49:40.456Z"
+      "updatedAt": "2026-11-13T17:24:03.725Z"
     }
   ]
 }
