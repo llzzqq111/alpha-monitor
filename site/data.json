@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-11-12T22:54:16.696Z",
+  "generatedAt": "2026-11-13T08:49:43.636Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 40773,
-    "lastMessageAt": "2026-11-12T21:42:55+00:00",
-    "lastCheckedAt": "2026-11-12T22:54:16.500Z",
-    "previousMessageId": 40756,
-    "pagesRead": 1,
-    "messagesRead": 17,
-    "newProjectRecords": 6,
+    "lastMessageId": 40797,
+    "lastMessageAt": "2026-11-13T08:49:21+00:00",
+    "lastCheckedAt": "2026-11-13T08:49:43.293Z",
+    "previousMessageId": 40773,
+    "pagesRead": 2,
+    "messagesRead": 24,
+    "newProjectRecords": 3,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 869,
+    "telegramRows": 872,
     "xRows": 0,
     "projects": 535,
     "crossSource": 0
@@ -7284,6 +7284,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "Elytra",
+      "account": "elytra_capital",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned",
+        "well"
+      ],
+      "tgAlphas": [
+        "unsynned",
+        "well"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-12T14:30:37+00:00",
+      "lastSeen": "2026-11-13T08:49:21+00:00",
+      "description": "Onchain research and trading.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Elytra",
+          "account": "elytra_capital",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-12T14:30:37+00:00",
+          "messageId": "dodtwitterbot/40739",
+          "description": "Onchain research and trading.",
+          "text": "Onchain research and trading."
+        },
+        {
+          "source": "TG",
+          "project": "Elytra",
+          "account": "elytra_capital",
+          "alpha": "well",
+          "seenAt": "2026-11-13T08:49:21+00:00",
+          "messageId": "dodtwitterbot/40797",
+          "description": "Onchain research and trading.",
+          "text": "Onchain research and trading."
+        }
+      ],
+      "text": " Elytra elytra_capital Onchain research and trading. Elytra elytra_capital Onchain research and trading.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "elytrack",
       "account": "elytrack_io",
       "sources": [
@@ -8526,6 +8572,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "Monke",
+      "account": "monketrade_",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned",
+        "well"
+      ],
+      "tgAlphas": [
+        "unsynned",
+        "well"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-12T15:54:26+00:00",
+      "lastSeen": "2026-11-13T08:49:21+00:00",
+      "description": "News trading, prediction markets, advanced terminal.\n\nReturn to tradition, Return to winning.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Monke",
+          "account": "monketrade_",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-12T15:54:26+00:00",
+          "messageId": "dodtwitterbot/40747",
+          "description": "News trading, prediction markets, advanced terminal.\n\nReturn to tradition, Return to winning.",
+          "text": "News trading, prediction markets, advanced terminal.\n\nReturn to tradition, Return to winning."
+        },
+        {
+          "source": "TG",
+          "project": "Monke",
+          "account": "monketrade_",
+          "alpha": "well",
+          "seenAt": "2026-11-13T08:49:21+00:00",
+          "messageId": "dodtwitterbot/40796",
+          "description": "News trading, prediction markets, advanced terminal.\n\nReturn to tradition, Return to winning.",
+          "text": "News trading, prediction markets, advanced terminal.\n\nReturn to tradition, Return to winning."
+        }
+      ],
+      "text": " Monke monketrade_ News trading, prediction markets, advanced terminal.\n\nReturn to tradition, Return to winning. Monke monketrade_ News trading, prediction markets, advanced terminal.\n\nReturn to tradition, Return to winning.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "MontraStocks",
       "account": "MontraStocks",
       "sources": [
@@ -9671,6 +9763,52 @@
         }
       ],
       "text": " Syntropic Agent SyntropicAgent An agent, developing & powering Real World Flywheels via Syntropic Farming, leveraging the @KokonutNetwork Framework. Syntropic Agent SyntropicAgent An agent, developing & powering Real World Flywheels via Syntropic Farming, leveraging the @KokonutNetwork Framework.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Tenjo",
+      "account": "tenjofinance",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse",
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "BearzVerse",
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-12T15:57:12+00:00",
+      "lastSeen": "2026-11-13T03:43:55+00:00",
+      "description": "Upside loans on tokenized stocks",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Tenjo",
+          "account": "tenjofinance",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-12T15:57:12+00:00",
+          "messageId": "dodtwitterbot/40749",
+          "description": "Upside loans on tokenized stocks",
+          "text": "Upside loans on tokenized stocks"
+        },
+        {
+          "source": "TG",
+          "project": "Tenjo",
+          "account": "tenjofinance",
+          "alpha": "BearzVerse",
+          "seenAt": "2026-11-13T03:43:55+00:00",
+          "messageId": "dodtwitterbot/40779",
+          "description": "Upside loans on tokenized stocks",
+          "text": "Upside loans on tokenized stocks"
+        }
+      ],
+      "text": " Tenjo tenjofinance Upside loans on tokenized stocks Tenjo tenjofinance Upside loans on tokenized stocks",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -13271,40 +13409,6 @@
         }
       ],
       "text": " elysiumrwa elysiumrwa Anything can be tokenized",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Elytra",
-      "account": "elytra_capital",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "unsynned"
-      ],
-      "tgAlphas": [
-        "unsynned"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-12T14:30:37+00:00",
-      "lastSeen": "2026-11-12T14:30:37+00:00",
-      "description": "Onchain research and trading.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Elytra",
-          "account": "elytra_capital",
-          "alpha": "unsynned",
-          "seenAt": "2026-11-12T14:30:37+00:00",
-          "messageId": "dodtwitterbot/40739",
-          "description": "Onchain research and trading.",
-          "text": "Onchain research and trading."
-        }
-      ],
-      "text": " Elytra elytra_capital Onchain research and trading.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -16982,40 +17086,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Monke",
-      "account": "monketrade_",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "unsynned"
-      ],
-      "tgAlphas": [
-        "unsynned"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-12T15:54:26+00:00",
-      "lastSeen": "2026-11-12T15:54:26+00:00",
-      "description": "News trading, prediction markets, advanced terminal.\n\nReturn to tradition, Return to winning.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Monke",
-          "account": "monketrade_",
-          "alpha": "unsynned",
-          "seenAt": "2026-11-12T15:54:26+00:00",
-          "messageId": "dodtwitterbot/40747",
-          "description": "News trading, prediction markets, advanced terminal.\n\nReturn to tradition, Return to winning.",
-          "text": "News trading, prediction markets, advanced terminal.\n\nReturn to tradition, Return to winning."
-        }
-      ],
-      "text": " Monke monketrade_ News trading, prediction markets, advanced terminal.\n\nReturn to tradition, Return to winning.",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
       "project": "Moon 🌙",
       "account": "PlayMoonHL",
       "sources": [
@@ -20586,40 +20656,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Tenjo",
-      "account": "tenjofinance",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "unsynned"
-      ],
-      "tgAlphas": [
-        "unsynned"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-12T15:57:12+00:00",
-      "lastSeen": "2026-11-12T15:57:12+00:00",
-      "description": "Upside loans on tokenized stocks",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Tenjo",
-          "account": "tenjofinance",
-          "alpha": "unsynned",
-          "seenAt": "2026-11-12T15:57:12+00:00",
-          "messageId": "dodtwitterbot/40749",
-          "description": "Upside loans on tokenized stocks",
-          "text": "Upside loans on tokenized stocks"
-        }
-      ],
-      "text": " Tenjo tenjofinance Upside loans on tokenized stocks",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
       "project": "TermiX",
       "account": "termix_ai",
       "sources": [
@@ -24145,6 +24181,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "Elytra",
+      "x_account": "elytra_capital",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "unsynned",
+        "well"
+      ],
+      "description": "Onchain research and trading.",
+      "first_seen_utc": "2026-11-12T14:30:37+00:00",
+      "last_seen_utc": "2026-11-13T08:49:21+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "elytrack",
       "x_account": "elytrack_io",
       "total_mentions": 2,
@@ -24550,6 +24601,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "Monke",
+      "x_account": "monketrade_",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "unsynned",
+        "well"
+      ],
+      "description": "News trading, prediction markets, advanced terminal.\n\nReturn to tradition, Return to winning.",
+      "first_seen_utc": "2026-11-12T15:54:26+00:00",
+      "last_seen_utc": "2026-11-13T08:49:21+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "MontraStocks",
       "x_account": "MontraStocks",
       "total_mentions": 2,
@@ -24921,6 +24987,21 @@
       "description": "An agent, developing & powering Real World Flywheels via Syntropic Farming, leveraging the @KokonutNetwork Framework.",
       "first_seen_utc": "2026-11-03T21:43:31+00:00",
       "last_seen_utc": "2026-11-04T02:48:46+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Tenjo",
+      "x_account": "tenjofinance",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "BearzVerse",
+        "unsynned"
+      ],
+      "description": "Upside loans on tokenized stocks",
+      "first_seen_utc": "2026-11-12T15:57:12+00:00",
+      "last_seen_utc": "2026-11-13T03:43:55+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -26360,20 +26441,6 @@
       "description": "Anything can be tokenized",
       "first_seen_utc": "2026-11-09T14:07:10+00:00",
       "last_seen_utc": "2026-11-09T14:07:10+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Elytra",
-      "x_account": "elytra_capital",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "unsynned"
-      ],
-      "description": "Onchain research and trading.",
-      "first_seen_utc": "2026-11-12T14:30:37+00:00",
-      "last_seen_utc": "2026-11-12T14:30:37+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -27890,20 +27957,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Monke",
-      "x_account": "monketrade_",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "unsynned"
-      ],
-      "description": "News trading, prediction markets, advanced terminal.\n\nReturn to tradition, Return to winning.",
-      "first_seen_utc": "2026-11-12T15:54:26+00:00",
-      "last_seen_utc": "2026-11-12T15:54:26+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "Moon 🌙",
       "x_account": "PlayMoonHL",
       "total_mentions": 1,
@@ -29374,20 +29427,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Tenjo",
-      "x_account": "tenjofinance",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "unsynned"
-      ],
-      "description": "Upside loans on tokenized stocks",
-      "first_seen_utc": "2026-11-12T15:57:12+00:00",
-      "last_seen_utc": "2026-11-12T15:57:12+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "TermiX",
       "x_account": "termix_ai",
       "total_mentions": 1,
@@ -30049,13 +30088,13 @@
   "daily": [
     {
       "date": "2026-11-13",
-      "totalRows": 8,
-      "projectCount": 8,
+      "totalRows": 11,
+      "projectCount": 11,
       "focusCount": 0,
-      "candidateCount": 8,
+      "candidateCount": 11,
       "crossSource": 0,
       "newCount": 7,
-      "repeatCount": 1,
+      "repeatCount": 4,
       "projects": [
         {
           "project": "A Game About Fishing",
@@ -30233,6 +30272,41 @@
           "dayStatus": "repeat"
         },
         {
+          "project": "Elytra",
+          "account": "elytra_capital",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "well"
+          ],
+          "tgAlphas": [
+            "well"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-13T08:49:21+00:00",
+          "lastSeen": "2026-11-13T08:49:21+00:00",
+          "description": "Onchain research and trading.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Elytra",
+              "account": "elytra_capital",
+              "alpha": "well",
+              "seenAt": "2026-11-13T08:49:21+00:00",
+              "messageId": "dodtwitterbot/40797",
+              "description": "Onchain research and trading.",
+              "text": "Onchain research and trading."
+            }
+          ],
+          "text": " Elytra elytra_capital Onchain research and trading.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
           "project": "Fanz",
           "account": "Fanzzka",
           "sources": [
@@ -30336,6 +30410,76 @@
           "displayTier": "candidate",
           "avatarUrl": "",
           "dayStatus": "new"
+        },
+        {
+          "project": "Monke",
+          "account": "monketrade_",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "well"
+          ],
+          "tgAlphas": [
+            "well"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-13T08:49:21+00:00",
+          "lastSeen": "2026-11-13T08:49:21+00:00",
+          "description": "News trading, prediction markets, advanced terminal.\n\nReturn to tradition, Return to winning.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Monke",
+              "account": "monketrade_",
+              "alpha": "well",
+              "seenAt": "2026-11-13T08:49:21+00:00",
+              "messageId": "dodtwitterbot/40796",
+              "description": "News trading, prediction markets, advanced terminal.\n\nReturn to tradition, Return to winning.",
+              "text": "News trading, prediction markets, advanced terminal.\n\nReturn to tradition, Return to winning."
+            }
+          ],
+          "text": " Monke monketrade_ News trading, prediction markets, advanced terminal.\n\nReturn to tradition, Return to winning.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Tenjo",
+          "account": "tenjofinance",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BearzVerse"
+          ],
+          "tgAlphas": [
+            "BearzVerse"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-13T03:43:55+00:00",
+          "lastSeen": "2026-11-13T03:43:55+00:00",
+          "description": "Upside loans on tokenized stocks",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Tenjo",
+              "account": "tenjofinance",
+              "alpha": "BearzVerse",
+              "seenAt": "2026-11-13T03:43:55+00:00",
+              "messageId": "dodtwitterbot/40779",
+              "description": "Upside loans on tokenized stocks",
+              "text": "Upside loans on tokenized stocks"
+            }
+          ],
+          "text": " Tenjo tenjofinance Upside loans on tokenized stocks",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
         }
       ]
     },
@@ -56690,269 +56834,274 @@
   ],
   "reports": [
     {
+      "file": "2026-11-13-0849-telegram-update.md",
+      "title": "2026-11-13-0849-telegram-update",
+      "updatedAt": "2026-11-13T08:49:43.292Z"
+    },
+    {
       "file": "2026-11-12-2254-telegram-update.md",
       "title": "2026-11-12-2254-telegram-update",
-      "updatedAt": "2026-11-12T22:54:16.499Z"
+      "updatedAt": "2026-11-13T08:49:40.458Z"
     },
     {
       "file": "2026-11-12-1746-telegram-update.md",
       "title": "2026-11-12-1746-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.458Z"
     },
     {
       "file": "2026-11-12-0853-telegram-update.md",
       "title": "2026-11-12-0853-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.458Z"
     },
     {
       "file": "2026-11-11-2344-telegram-update.md",
       "title": "2026-11-11-2344-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.458Z"
     },
     {
       "file": "2026-11-11-1729-telegram-update.md",
       "title": "2026-11-11-1729-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.458Z"
     },
     {
       "file": "2026-11-11-0828-telegram-update.md",
       "title": "2026-11-11-0828-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.458Z"
     },
     {
       "file": "2026-11-11-0130-telegram-update.md",
       "title": "2026-11-11-0130-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.458Z"
     },
     {
       "file": "2026-11-10-2037-telegram-update.md",
       "title": "2026-11-10-2037-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.458Z"
     },
     {
       "file": "2026-11-10-1348-telegram-update.md",
       "title": "2026-11-10-1348-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.458Z"
     },
     {
       "file": "2026-11-10-0351-telegram-update.md",
       "title": "2026-11-10-0351-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.457Z"
     },
     {
       "file": "2026-11-09-2013-telegram-update.md",
       "title": "2026-11-09-2013-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.457Z"
     },
     {
       "file": "2026-11-09-0844-telegram-update.md",
       "title": "2026-11-09-0844-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.457Z"
     },
     {
       "file": "2026-11-08-2123-telegram-update.md",
       "title": "2026-11-08-2123-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.457Z"
     },
     {
       "file": "2026-11-08-1623-telegram-update.md",
       "title": "2026-11-08-1623-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.457Z"
     },
     {
       "file": "2026-11-08-0804-telegram-update.md",
       "title": "2026-11-08-0804-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.457Z"
     },
     {
       "file": "2026-11-07-2106-telegram-update.md",
       "title": "2026-11-07-2106-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.457Z"
     },
     {
       "file": "2026-11-07-1556-telegram-update.md",
       "title": "2026-11-07-1556-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.457Z"
     },
     {
       "file": "2026-11-07-0751-telegram-update.md",
       "title": "2026-11-07-0751-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.457Z"
     },
     {
       "file": "2026-11-06-2226-telegram-update.md",
       "title": "2026-11-06-2226-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.457Z"
     },
     {
       "file": "2026-11-06-1658-telegram-update.md",
       "title": "2026-11-06-1658-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.457Z"
     },
     {
       "file": "2026-11-06-0835-telegram-update.md",
       "title": "2026-11-06-0835-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.457Z"
     },
     {
       "file": "2026-11-05-2256-telegram-update.md",
       "title": "2026-11-05-2256-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.457Z"
     },
     {
       "file": "2026-11-05-1742-telegram-update.md",
       "title": "2026-11-05-1742-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.457Z"
     },
     {
       "file": "2026-11-05-0836-telegram-update.md",
       "title": "2026-11-05-0836-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.457Z"
     },
     {
       "file": "2026-11-04-2255-telegram-update.md",
       "title": "2026-11-04-2255-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.457Z"
     },
     {
       "file": "2026-11-04-1737-telegram-update.md",
       "title": "2026-11-04-1737-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.457Z"
     },
     {
       "file": "2026-11-04-0810-telegram-update.md",
       "title": "2026-11-04-0810-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.457Z"
     },
     {
       "file": "2026-11-04-0143-telegram-update.md",
       "title": "2026-11-04-0143-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.457Z"
     },
     {
       "file": "2026-11-03-2018-telegram-update.md",
       "title": "2026-11-03-2018-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.457Z"
     },
     {
       "file": "2026-11-03-1302-telegram-update.md",
       "title": "2026-11-03-1302-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.457Z"
     },
     {
       "file": "2026-11-03-0306-telegram-update.md",
       "title": "2026-11-03-0306-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.457Z"
     },
     {
       "file": "2026-11-02-1950-telegram-update.md",
       "title": "2026-11-02-1950-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.457Z"
     },
     {
       "file": "2026-11-02-0826-telegram-update.md",
       "title": "2026-11-02-0826-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.457Z"
     },
     {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.457Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.457Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.457Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.457Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.457Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.457Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.457Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.457Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.457Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.457Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.457Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.457Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.457Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.457Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.457Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.457Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.457Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.457Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-12T22:54:14.713Z"
+      "updatedAt": "2026-11-13T08:49:40.457Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-12T22:54:14.712Z"
+      "updatedAt": "2026-11-13T08:49:40.456Z"
     }
   ]
 }
