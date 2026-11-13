@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-13T17:24:07.324Z",
+  "generatedAt": "2026-11-13T22:55:50.986Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 40823,
-    "lastMessageAt": "2026-11-13T16:18:12+00:00",
-    "lastCheckedAt": "2026-11-13T17:24:07.130Z",
-    "previousMessageId": 40797,
-    "pagesRead": 2,
-    "messagesRead": 26,
-    "newProjectRecords": 6,
+    "lastMessageId": 40842,
+    "lastMessageAt": "2026-11-13T21:54:47+00:00",
+    "lastCheckedAt": "2026-11-13T22:55:50.824Z",
+    "previousMessageId": 40823,
+    "pagesRead": 1,
+    "messagesRead": 19,
+    "newProjectRecords": 1,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 878,
+    "telegramRows": 879,
     "xRows": 0,
-    "projects": 541,
+    "projects": 542,
     "crossSource": 0
   },
   "projects": [
@@ -14332,6 +14332,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Gangstaz Taking All",
+      "account": "Gangstazfun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BTC alpha"
+      ],
+      "tgAlphas": [
+        "BTC alpha"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-13T19:51:11+00:00",
+      "lastSeen": "2026-11-13T19:51:11+00:00",
+      "description": "RWA gaming meets gangster life on @RobinhoodApp 👑\nGold. Silver. Oil.\nBuild your empire\n\nNFT: https://t.co/GXGCcejqjl",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Gangstaz Taking All",
+          "account": "Gangstazfun",
+          "alpha": "BTC alpha",
+          "seenAt": "2026-11-13T19:51:11+00:00",
+          "messageId": "dodtwitterbot/40839",
+          "description": "RWA gaming meets gangster life on @RobinhoodApp 👑\nGold. Silver. Oil.\nBuild your empire\n\nNFT: https://t.co/GXGCcejqjl",
+          "text": "RWA gaming meets gangster life on @RobinhoodApp 👑\nGold. Silver. Oil.\nBuild your empire\n\nNFT: https://t.co/GXGCcejqjl"
+        }
+      ],
+      "text": " Gangstaz Taking All Gangstazfun RWA gaming meets gangster life on @RobinhoodApp 👑\nGold. Silver. Oil.\nBuild your empire\n\nNFT: https://t.co/GXGCcejqjl",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "ghostonelysium",
       "account": "ghostonelysium",
       "sources": [
@@ -27027,6 +27061,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Gangstaz Taking All",
+      "x_account": "Gangstazfun",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "BTC alpha"
+      ],
+      "description": "RWA gaming meets gangster life on @RobinhoodApp 👑\nGold. Silver. Oil.\nBuild your empire\n\nNFT: https://t.co/GXGCcejqjl",
+      "first_seen_utc": "2026-11-13T19:51:11+00:00",
+      "last_seen_utc": "2026-11-13T19:51:11+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "ghostonelysium",
       "x_account": "ghostonelysium",
       "total_mentions": 1,
@@ -30376,14 +30424,50 @@
   "daily": [
     {
       "date": "2026-11-14",
-      "totalRows": 0,
-      "projectCount": 0,
+      "totalRows": 1,
+      "projectCount": 1,
       "focusCount": 0,
-      "candidateCount": 0,
+      "candidateCount": 1,
       "crossSource": 0,
-      "newCount": 0,
+      "newCount": 1,
       "repeatCount": 0,
-      "projects": []
+      "projects": [
+        {
+          "project": "Gangstaz Taking All",
+          "account": "Gangstazfun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BTC alpha"
+          ],
+          "tgAlphas": [
+            "BTC alpha"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-13T19:51:11+00:00",
+          "lastSeen": "2026-11-13T19:51:11+00:00",
+          "description": "RWA gaming meets gangster life on @RobinhoodApp 👑\nGold. Silver. Oil.\nBuild your empire\n\nNFT: https://t.co/GXGCcejqjl",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Gangstaz Taking All",
+              "account": "Gangstazfun",
+              "alpha": "BTC alpha",
+              "seenAt": "2026-11-13T19:51:11+00:00",
+              "messageId": "dodtwitterbot/40839",
+              "description": "RWA gaming meets gangster life on @RobinhoodApp 👑\nGold. Silver. Oil.\nBuild your empire\n\nNFT: https://t.co/GXGCcejqjl",
+              "text": "RWA gaming meets gangster life on @RobinhoodApp 👑\nGold. Silver. Oil.\nBuild your empire\n\nNFT: https://t.co/GXGCcejqjl"
+            }
+          ],
+          "text": " Gangstaz Taking All Gangstazfun RWA gaming meets gangster life on @RobinhoodApp 👑\nGold. Silver. Oil.\nBuild your empire\n\nNFT: https://t.co/GXGCcejqjl",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        }
+      ]
     },
     {
       "date": "2026-11-13",
@@ -57343,279 +57427,284 @@
   ],
   "reports": [
     {
+      "file": "2026-11-13-2255-telegram-update.md",
+      "title": "2026-11-13-2255-telegram-update",
+      "updatedAt": "2026-11-13T22:55:50.823Z"
+    },
+    {
       "file": "2026-11-13-1724-telegram-update.md",
       "title": "2026-11-13-1724-telegram-update",
-      "updatedAt": "2026-11-13T17:24:07.129Z"
+      "updatedAt": "2026-11-13T22:55:45.385Z"
     },
     {
       "file": "2026-11-13-0849-telegram-update.md",
       "title": "2026-11-13-0849-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.385Z"
     },
     {
       "file": "2026-11-12-2254-telegram-update.md",
       "title": "2026-11-12-2254-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.385Z"
     },
     {
       "file": "2026-11-12-1746-telegram-update.md",
       "title": "2026-11-12-1746-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.385Z"
     },
     {
       "file": "2026-11-12-0853-telegram-update.md",
       "title": "2026-11-12-0853-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.385Z"
     },
     {
       "file": "2026-11-11-2344-telegram-update.md",
       "title": "2026-11-11-2344-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.385Z"
     },
     {
       "file": "2026-11-11-1729-telegram-update.md",
       "title": "2026-11-11-1729-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.385Z"
     },
     {
       "file": "2026-11-11-0828-telegram-update.md",
       "title": "2026-11-11-0828-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.385Z"
     },
     {
       "file": "2026-11-11-0130-telegram-update.md",
       "title": "2026-11-11-0130-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.385Z"
     },
     {
       "file": "2026-11-10-2037-telegram-update.md",
       "title": "2026-11-10-2037-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.385Z"
     },
     {
       "file": "2026-11-10-1348-telegram-update.md",
       "title": "2026-11-10-1348-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.385Z"
     },
     {
       "file": "2026-11-10-0351-telegram-update.md",
       "title": "2026-11-10-0351-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.385Z"
     },
     {
       "file": "2026-11-09-2013-telegram-update.md",
       "title": "2026-11-09-2013-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.385Z"
     },
     {
       "file": "2026-11-09-0844-telegram-update.md",
       "title": "2026-11-09-0844-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.385Z"
     },
     {
       "file": "2026-11-08-2123-telegram-update.md",
       "title": "2026-11-08-2123-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.385Z"
     },
     {
       "file": "2026-11-08-1623-telegram-update.md",
       "title": "2026-11-08-1623-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.385Z"
     },
     {
       "file": "2026-11-08-0804-telegram-update.md",
       "title": "2026-11-08-0804-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.385Z"
     },
     {
       "file": "2026-11-07-2106-telegram-update.md",
       "title": "2026-11-07-2106-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.384Z"
     },
     {
       "file": "2026-11-07-1556-telegram-update.md",
       "title": "2026-11-07-1556-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.384Z"
     },
     {
       "file": "2026-11-07-0751-telegram-update.md",
       "title": "2026-11-07-0751-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.384Z"
     },
     {
       "file": "2026-11-06-2226-telegram-update.md",
       "title": "2026-11-06-2226-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.384Z"
     },
     {
       "file": "2026-11-06-1658-telegram-update.md",
       "title": "2026-11-06-1658-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.384Z"
     },
     {
       "file": "2026-11-06-0835-telegram-update.md",
       "title": "2026-11-06-0835-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.384Z"
     },
     {
       "file": "2026-11-05-2256-telegram-update.md",
       "title": "2026-11-05-2256-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.384Z"
     },
     {
       "file": "2026-11-05-1742-telegram-update.md",
       "title": "2026-11-05-1742-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.384Z"
     },
     {
       "file": "2026-11-05-0836-telegram-update.md",
       "title": "2026-11-05-0836-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.384Z"
     },
     {
       "file": "2026-11-04-2255-telegram-update.md",
       "title": "2026-11-04-2255-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.384Z"
     },
     {
       "file": "2026-11-04-1737-telegram-update.md",
       "title": "2026-11-04-1737-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.384Z"
     },
     {
       "file": "2026-11-04-0810-telegram-update.md",
       "title": "2026-11-04-0810-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.384Z"
     },
     {
       "file": "2026-11-04-0143-telegram-update.md",
       "title": "2026-11-04-0143-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.384Z"
     },
     {
       "file": "2026-11-03-2018-telegram-update.md",
       "title": "2026-11-03-2018-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.384Z"
     },
     {
       "file": "2026-11-03-1302-telegram-update.md",
       "title": "2026-11-03-1302-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.384Z"
     },
     {
       "file": "2026-11-03-0306-telegram-update.md",
       "title": "2026-11-03-0306-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.384Z"
     },
     {
       "file": "2026-11-02-1950-telegram-update.md",
       "title": "2026-11-02-1950-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.384Z"
     },
     {
       "file": "2026-11-02-0826-telegram-update.md",
       "title": "2026-11-02-0826-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.384Z"
     },
     {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.384Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.384Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.384Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.384Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.384Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.384Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.384Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.384Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.384Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.384Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.384Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.384Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.384Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.384Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.384Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.384Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.384Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.384Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-13T17:24:03.726Z"
+      "updatedAt": "2026-11-13T22:55:45.384Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-13T17:24:03.725Z"
+      "updatedAt": "2026-11-13T22:55:45.383Z"
     }
   ]
 }
