@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-14T08:09:10.534Z",
+  "generatedAt": "2026-11-14T16:10:14.171Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 40890,
-    "lastMessageAt": "2026-11-14T07:09:58+00:00",
-    "lastCheckedAt": "2026-11-14T08:09:10.337Z",
-    "previousMessageId": 40842,
+    "lastMessageId": 40939,
+    "lastMessageAt": "2026-11-14T15:51:13+00:00",
+    "lastCheckedAt": "2026-11-14T16:10:14.035Z",
+    "previousMessageId": 40890,
     "pagesRead": 3,
-    "messagesRead": 48,
-    "newProjectRecords": 3,
+    "messagesRead": 49,
+    "newProjectRecords": 14,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 882,
+    "telegramRows": 896,
     "xRows": 0,
-    "projects": 544,
+    "projects": 553,
     "crossSource": 0
   },
   "projects": [
@@ -2540,6 +2540,76 @@
       "avatarUrl": ""
     },
     {
+      "project": "Offworld Privacy",
+      "account": "OffworldPrivacy",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Mutu 🕸️",
+        "hit.ink",
+        "lakka",
+        "well"
+      ],
+      "tgAlphas": [
+        "Mutu 🕸️",
+        "hit.ink",
+        "lakka",
+        "well"
+      ],
+      "xAlphas": [],
+      "mentions": 4,
+      "firstSeen": "2026-11-11T15:35:19+00:00",
+      "lastSeen": "2026-11-14T14:38:43+00:00",
+      "description": "Building private DeFi with shielded Zcash",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Offworld Privacy",
+          "account": "OffworldPrivacy",
+          "alpha": "well",
+          "seenAt": "2026-11-11T15:35:19+00:00",
+          "messageId": "dodtwitterbot/40645",
+          "description": "Building private DeFi with shielded Zcash",
+          "text": "Building private DeFi with shielded Zcash"
+        },
+        {
+          "source": "TG",
+          "project": "Offworld Privacy",
+          "account": "OffworldPrivacy",
+          "alpha": "Mutu 🕸️",
+          "seenAt": "2026-11-11T20:40:12+00:00",
+          "messageId": "dodtwitterbot/40676",
+          "description": "Building private DeFi with shielded Zcash",
+          "text": "Building private DeFi with shielded Zcash"
+        },
+        {
+          "source": "TG",
+          "project": "Offworld Privacy",
+          "account": "OffworldPrivacy",
+          "alpha": "lakka",
+          "seenAt": "2026-11-12T13:17:57+00:00",
+          "messageId": "dodtwitterbot/40731",
+          "description": "Building private DeFi with shielded Zcash",
+          "text": "Building private DeFi with shielded Zcash"
+        },
+        {
+          "source": "TG",
+          "project": "Offworld Privacy",
+          "account": "OffworldPrivacy",
+          "alpha": "hit.ink",
+          "seenAt": "2026-11-14T14:38:43+00:00",
+          "messageId": "dodtwitterbot/40916",
+          "description": "Building private DeFi with shielded Zcash",
+          "text": "Building private DeFi with shielded Zcash"
+        }
+      ],
+      "text": " Offworld Privacy OffworldPrivacy Building private DeFi with shielded Zcash Offworld Privacy OffworldPrivacy Building private DeFi with shielded Zcash Offworld Privacy OffworldPrivacy Building private DeFi with shielded Zcash Offworld Privacy OffworldPrivacy Building private DeFi with shielded Zcash",
+      "score": 8,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Omnia π",
       "account": "0xOmnia",
       "sources": [
@@ -3840,6 +3910,64 @@
       "avatarUrl": ""
     },
     {
+      "project": "Globe",
+      "account": "globemkts",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "hit.ink",
+        "speest 💎",
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "hit.ink",
+        "speest 💎",
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-11-09T18:11:14+00:00",
+      "lastSeen": "2026-11-14T08:38:57+00:00",
+      "description": "Your gang calls it. Your agent trades it. Atlas goes live Nov 30. Get early access ↓",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Globe",
+          "account": "globemkts",
+          "alpha": "hit.ink",
+          "seenAt": "2026-11-09T18:11:14+00:00",
+          "messageId": "dodtwitterbot/40452",
+          "description": "Your gang calls it. Your agent trades it. Atlas goes live Nov 30. Get early access ↓",
+          "text": "Your gang calls it. Your agent trades it. Atlas goes live Nov 30. Get early access ↓"
+        },
+        {
+          "source": "TG",
+          "project": "Globe",
+          "account": "globemkts",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-09T20:37:52+00:00",
+          "messageId": "dodtwitterbot/40466",
+          "description": "Your gang calls it. Your agent trades it. Atlas goes live Nov 30. Get early access ↓",
+          "text": "Your gang calls it. Your agent trades it. Atlas goes live Nov 30. Get early access ↓"
+        },
+        {
+          "source": "TG",
+          "project": "Globe",
+          "account": "globemkts",
+          "alpha": "speest 💎",
+          "seenAt": "2026-11-14T08:38:57+00:00",
+          "messageId": "dodtwitterbot/40891",
+          "description": "Your gang calls it. Your agent trades it. Atlas goes live Nov 30. Get early access ↓",
+          "text": "Your gang calls it. Your agent trades it. Atlas goes live Nov 30. Get early access ↓"
+        }
+      ],
+      "text": " Globe globemkts Your gang calls it. Your agent trades it. Atlas goes live Nov 30. Get early access ↓ Globe globemkts Your gang calls it. Your agent trades it. Atlas goes live Nov 30. Get early access ↓ Globe globemkts Your gang calls it. Your agent trades it. Atlas goes live Nov 30. Get early access ↓",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Hegemon",
       "account": "hegemonprotocol",
       "sources": [
@@ -4473,64 +4601,6 @@
         }
       ],
       "text": " Nummo NummoHQ One app for on-chain trading and lending. Built on @SonicLabs Nummo NummoHQ One app for on-chain trading and lending. Built on @SonicLabs Nummo NummoHQ One app for on-chain trading and lending. Built on @SonicLabs",
-      "score": 6,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Offworld Privacy",
-      "account": "OffworldPrivacy",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "Mutu 🕸️",
-        "lakka",
-        "well"
-      ],
-      "tgAlphas": [
-        "Mutu 🕸️",
-        "lakka",
-        "well"
-      ],
-      "xAlphas": [],
-      "mentions": 3,
-      "firstSeen": "2026-11-11T15:35:19+00:00",
-      "lastSeen": "2026-11-12T13:17:57+00:00",
-      "description": "Building private DeFi with shielded Zcash",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Offworld Privacy",
-          "account": "OffworldPrivacy",
-          "alpha": "well",
-          "seenAt": "2026-11-11T15:35:19+00:00",
-          "messageId": "dodtwitterbot/40645",
-          "description": "Building private DeFi with shielded Zcash",
-          "text": "Building private DeFi with shielded Zcash"
-        },
-        {
-          "source": "TG",
-          "project": "Offworld Privacy",
-          "account": "OffworldPrivacy",
-          "alpha": "Mutu 🕸️",
-          "seenAt": "2026-11-11T20:40:12+00:00",
-          "messageId": "dodtwitterbot/40676",
-          "description": "Building private DeFi with shielded Zcash",
-          "text": "Building private DeFi with shielded Zcash"
-        },
-        {
-          "source": "TG",
-          "project": "Offworld Privacy",
-          "account": "OffworldPrivacy",
-          "alpha": "lakka",
-          "seenAt": "2026-11-12T13:17:57+00:00",
-          "messageId": "dodtwitterbot/40731",
-          "description": "Building private DeFi with shielded Zcash",
-          "text": "Building private DeFi with shielded Zcash"
-        }
-      ],
-      "text": " Offworld Privacy OffworldPrivacy Building private DeFi with shielded Zcash Offworld Privacy OffworldPrivacy Building private DeFi with shielded Zcash Offworld Privacy OffworldPrivacy Building private DeFi with shielded Zcash",
       "score": 6,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -7756,52 +7826,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Globe",
-      "account": "globemkts",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "hit.ink",
-        "unsynned"
-      ],
-      "tgAlphas": [
-        "hit.ink",
-        "unsynned"
-      ],
-      "xAlphas": [],
-      "mentions": 2,
-      "firstSeen": "2026-11-09T18:11:14+00:00",
-      "lastSeen": "2026-11-09T20:37:52+00:00",
-      "description": "Your gang calls it. Your agent trades it. Atlas goes live Nov 30. Get early access ↓",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Globe",
-          "account": "globemkts",
-          "alpha": "hit.ink",
-          "seenAt": "2026-11-09T18:11:14+00:00",
-          "messageId": "dodtwitterbot/40452",
-          "description": "Your gang calls it. Your agent trades it. Atlas goes live Nov 30. Get early access ↓",
-          "text": "Your gang calls it. Your agent trades it. Atlas goes live Nov 30. Get early access ↓"
-        },
-        {
-          "source": "TG",
-          "project": "Globe",
-          "account": "globemkts",
-          "alpha": "unsynned",
-          "seenAt": "2026-11-09T20:37:52+00:00",
-          "messageId": "dodtwitterbot/40466",
-          "description": "Your gang calls it. Your agent trades it. Atlas goes live Nov 30. Get early access ↓",
-          "text": "Your gang calls it. Your agent trades it. Atlas goes live Nov 30. Get early access ↓"
-        }
-      ],
-      "text": " Globe globemkts Your gang calls it. Your agent trades it. Atlas goes live Nov 30. Get early access ↓ Globe globemkts Your gang calls it. Your agent trades it. Atlas goes live Nov 30. Get early access ↓",
-      "score": 4,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
       "project": "GreenStreet MMO",
       "account": "GreenStreet_MMO",
       "sources": [
@@ -7889,6 +7913,52 @@
         }
       ],
       "text": " Greywick Digital Greywick_hq Established digital assets on institutional rails. First: cLTC, Litecoin issued 1:1 on Canton Network, endorsed by LTCFoundation. Greywick Digital Greywick_hq Established digital assets on institutional rails. First: cLTC, Litecoin issued 1:1 on Canton Network, endorsed by LTCFoundation.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Grid",
+      "account": "grid_arena",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka",
+        "speest 💎"
+      ],
+      "tgAlphas": [
+        "lakka",
+        "speest 💎"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-13T14:12:57+00:00",
+      "lastSeen": "2026-11-14T08:39:49+00:00",
+      "description": "Every market, One Grid.\nEarn, Trade, Predict.\nEnter the Grid.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Grid",
+          "account": "grid_arena",
+          "alpha": "lakka",
+          "seenAt": "2026-11-13T14:12:57+00:00",
+          "messageId": "dodtwitterbot/40818",
+          "description": "Every market, One Grid.\nEarn, Trade, Predict.\nEnter the Grid.",
+          "text": "Every market, One Grid.\nEarn, Trade, Predict.\nEnter the Grid."
+        },
+        {
+          "source": "TG",
+          "project": "Grid",
+          "account": "grid_arena",
+          "alpha": "speest 💎",
+          "seenAt": "2026-11-14T08:39:49+00:00",
+          "messageId": "dodtwitterbot/40892",
+          "description": "Every market, One Grid.\nEarn, Trade, Predict.\nEnter the Grid.",
+          "text": "Every market, One Grid.\nEarn, Trade, Predict.\nEnter the Grid."
+        }
+      ],
+      "text": " Grid grid_arena Every market, One Grid.\nEarn, Trade, Predict.\nEnter the Grid. Grid grid_arena Every market, One Grid.\nEarn, Trade, Predict.\nEnter the Grid.",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -9872,6 +9942,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "Token Guardian",
+      "account": "TokenGuardianAI",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "hit.ink",
+        "well"
+      ],
+      "tgAlphas": [
+        "hit.ink",
+        "well"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-11T01:59:34+00:00",
+      "lastSeen": "2026-11-14T14:14:22+00:00",
+      "description": "AI-powered on-chain due diligence for any token. Assess bundles, linked wallets and potential risks. We do not have a token.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Token Guardian",
+          "account": "TokenGuardianAI",
+          "alpha": "well",
+          "seenAt": "2026-11-11T01:59:34+00:00",
+          "messageId": "dodtwitterbot/40590",
+          "description": "AI-powered on-chain due diligence for any token. Assess bundles, linked wallets and potential risks. We do not have a token.",
+          "text": "AI-powered on-chain due diligence for any token. Assess bundles, linked wallets and potential risks. We do not have a token."
+        },
+        {
+          "source": "TG",
+          "project": "Token Guardian",
+          "account": "TokenGuardianAI",
+          "alpha": "hit.ink",
+          "seenAt": "2026-11-14T14:14:22+00:00",
+          "messageId": "dodtwitterbot/40909",
+          "description": "AI-powered on-chain due diligence for any token. Assess bundles, linked wallets and potential risks. We do not have a token.",
+          "text": "AI-powered on-chain due diligence for any token. Assess bundles, linked wallets and potential risks. We do not have a token."
+        }
+      ],
+      "text": " Token Guardian TokenGuardianAI AI-powered on-chain due diligence for any token. Assess bundles, linked wallets and potential risks. We do not have a token. Token Guardian TokenGuardianAI AI-powered on-chain due diligence for any token. Assess bundles, linked wallets and potential risks. We do not have a token.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "torpor",
       "account": "torpornet",
       "sources": [
@@ -9913,6 +10029,52 @@
         }
       ],
       "text": " torpor torpornet https://t.co/2bFEMjhiUw is the intelligence layer for Elysium NFTs. apply for wl https://t.co/h7N4CaglIV torpor torpornet https://t.co/2bFEMjhiUw is the intelligence layer for Elysium NFTs. apply for wl https://t.co/h7N4CaglIV",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "tryCorpusAI",
+      "account": "tryCorpusAI",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "hit.ink",
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "hit.ink",
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-11T20:31:04+00:00",
+      "lastSeen": "2026-11-14T14:38:49+00:00",
+      "description": "Perpetual Compute -- x402 Compute Price Feeds -- Tokenized Compute Ownership, Yield Generation, and Speculation",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "tryCorpusAI",
+          "account": "tryCorpusAI",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-11T20:31:04+00:00",
+          "messageId": "dodtwitterbot/40672",
+          "description": "Perpetual Compute -- x402 Compute Price Feeds -- Tokenized Compute Ownership, Yield Generation, and Speculation",
+          "text": "Perpetual Compute -- x402 Compute Price Feeds -- Tokenized Compute Ownership, Yield Generation, and Speculation"
+        },
+        {
+          "source": "TG",
+          "project": "tryCorpusAI",
+          "account": "tryCorpusAI",
+          "alpha": "hit.ink",
+          "seenAt": "2026-11-14T14:38:49+00:00",
+          "messageId": "dodtwitterbot/40921",
+          "description": "Perpetual Compute -- x402 Compute Price Feeds -- Tokenized Compute Ownership, Yield Generation, and Speculation",
+          "text": "Perpetual Compute -- x402 Compute Price Feeds -- Tokenized Compute Ownership, Yield Generation, and Speculation"
+        }
+      ],
+      "text": " tryCorpusAI tryCorpusAI Perpetual Compute -- x402 Compute Price Feeds -- Tokenized Compute Ownership, Yield Generation, and Speculation tryCorpusAI tryCorpusAI Perpetual Compute -- x402 Compute Price Feeds -- Tokenized Compute Ownership, Yield Generation, and Speculation",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -14378,6 +14540,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Garuda Markets",
+      "account": "garuda_markets",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "hit.ink"
+      ],
+      "tgAlphas": [
+        "hit.ink"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-14T14:15:17+00:00",
+      "lastSeen": "2026-11-14T14:15:17+00:00",
+      "description": "The first onchain prop firm on @solana powered by @PhoenixTrade",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Garuda Markets",
+          "account": "garuda_markets",
+          "alpha": "hit.ink",
+          "seenAt": "2026-11-14T14:15:17+00:00",
+          "messageId": "dodtwitterbot/40914",
+          "description": "The first onchain prop firm on @solana powered by @PhoenixTrade",
+          "text": "The first onchain prop firm on @solana powered by @PhoenixTrade"
+        }
+      ],
+      "text": " Garuda Markets garuda_markets The first onchain prop firm on @solana powered by @PhoenixTrade",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "ghostonelysium",
       "account": "ghostonelysium",
       "sources": [
@@ -14611,40 +14807,6 @@
         }
       ],
       "text": " greenz greenbergz @kinetiq_xyz · @markets_xyz · @enter_elysium",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Grid",
-      "account": "grid_arena",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "lakka"
-      ],
-      "tgAlphas": [
-        "lakka"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-13T14:12:57+00:00",
-      "lastSeen": "2026-11-13T14:12:57+00:00",
-      "description": "Every market, One Grid.\nEarn, Trade, Predict.\nEnter the Grid.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Grid",
-          "account": "grid_arena",
-          "alpha": "lakka",
-          "seenAt": "2026-11-13T14:12:57+00:00",
-          "messageId": "dodtwitterbot/40818",
-          "description": "Every market, One Grid.\nEarn, Trade, Predict.\nEnter the Grid.",
-          "text": "Every market, One Grid.\nEarn, Trade, Predict.\nEnter the Grid."
-        }
-      ],
-      "text": " Grid grid_arena Every market, One Grid.\nEarn, Trade, Predict.\nEnter the Grid.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -15631,6 +15793,40 @@
         }
       ],
       "text": " Hypurr Games hypurrgames Play and compete for real prizes. Coming to Elysium",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "ihatecrypto",
+      "account": "ihatehatecrypto",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "hit.ink"
+      ],
+      "tgAlphas": [
+        "hit.ink"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-14T14:43:17+00:00",
+      "lastSeen": "2026-11-14T14:43:17+00:00",
+      "description": "Not the money. Managing it.\n\nSwap, bridge, earn, trade in plain words. Agent plans, only you sign.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "ihatecrypto",
+          "account": "ihatehatecrypto",
+          "alpha": "hit.ink",
+          "seenAt": "2026-11-14T14:43:17+00:00",
+          "messageId": "dodtwitterbot/40924",
+          "description": "Not the money. Managing it.\n\nSwap, bridge, earn, trade in plain words. Agent plans, only you sign.",
+          "text": "Not the money. Managing it.\n\nSwap, bridge, earn, trade in plain words. Agent plans, only you sign."
+        }
+      ],
+      "text": " ihatecrypto ihatehatecrypto Not the money. Managing it.\n\nSwap, bridge, earn, trade in plain words. Agent plans, only you sign.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -16996,6 +17192,74 @@
       "avatarUrl": ""
     },
     {
+      "project": "MERGIT",
+      "account": "MergitonGIWA",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "hit.ink"
+      ],
+      "tgAlphas": [
+        "hit.ink"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-14T14:08:50+00:00",
+      "lastSeen": "2026-11-14T14:08:50+00:00",
+      "description": "An AI agent verifies merged pull requests and pays developer bounties on GIWA Chain.\n\nMerged, tested, paid in seconds.\n\nBuilding in public.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "MERGIT",
+          "account": "MergitonGIWA",
+          "alpha": "hit.ink",
+          "seenAt": "2026-11-14T14:08:50+00:00",
+          "messageId": "dodtwitterbot/40902",
+          "description": "An AI agent verifies merged pull requests and pays developer bounties on GIWA Chain.\n\nMerged, tested, paid in seconds.\n\nBuilding in public.",
+          "text": "An AI agent verifies merged pull requests and pays developer bounties on GIWA Chain.\n\nMerged, tested, paid in seconds.\n\nBuilding in public."
+        }
+      ],
+      "text": " MERGIT MergitonGIWA An AI agent verifies merged pull requests and pays developer bounties on GIWA Chain.\n\nMerged, tested, paid in seconds.\n\nBuilding in public.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "MeridianTown",
+      "account": "meridiantown",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "hit.ink"
+      ],
+      "tgAlphas": [
+        "hit.ink"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-14T14:13:25+00:00",
+      "lastSeen": "2026-11-14T14:13:25+00:00",
+      "description": "A market town that runs itself. AI shopkeepers, a real economy, and shops you can own. Built on NEAR. Coming to mainnet.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "MeridianTown",
+          "account": "meridiantown",
+          "alpha": "hit.ink",
+          "seenAt": "2026-11-14T14:13:25+00:00",
+          "messageId": "dodtwitterbot/40906",
+          "description": "A market town that runs itself. AI shopkeepers, a real economy, and shops you can own. Built on NEAR. Coming to mainnet.",
+          "text": "A market town that runs itself. AI shopkeepers, a real economy, and shops you can own. Built on NEAR. Coming to mainnet."
+        }
+      ],
+      "text": " MeridianTown meridiantown A market town that runs itself. AI shopkeepers, a real economy, and shops you can own. Built on NEAR. Coming to mainnet.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Meron",
       "account": "MeronElysium",
       "sources": [
@@ -17297,6 +17561,40 @@
         }
       ],
       "text": " MOJO MojoAI_HQ The all-in-one agentic trading OS.\n\nInvest with taste mode.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Moka",
+      "account": "MokaPerps",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "hit.ink"
+      ],
+      "tgAlphas": [
+        "hit.ink"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-14T14:13:25+00:00",
+      "lastSeen": "2026-11-14T14:13:25+00:00",
+      "description": "Onchain perpetual markets for the long tail.\nBuilt on @Solana",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Moka",
+          "account": "MokaPerps",
+          "alpha": "hit.ink",
+          "seenAt": "2026-11-14T14:13:25+00:00",
+          "messageId": "dodtwitterbot/40905",
+          "description": "Onchain perpetual markets for the long tail.\nBuilt on @Solana",
+          "text": "Onchain perpetual markets for the long tail.\nBuilt on @Solana"
+        }
+      ],
+      "text": " Moka MokaPerps Onchain perpetual markets for the long tail.\nBuilt on @Solana",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -19852,6 +20150,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Sanctum Exhange",
+      "account": "sanctumexchange",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "hit.ink"
+      ],
+      "tgAlphas": [
+        "hit.ink"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-14T14:14:22+00:00",
+      "lastSeen": "2026-11-14T14:14:22+00:00",
+      "description": "Liquidity, kept private. The institutional exchange on Canton Network.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Sanctum Exhange",
+          "account": "sanctumexchange",
+          "alpha": "hit.ink",
+          "seenAt": "2026-11-14T14:14:22+00:00",
+          "messageId": "dodtwitterbot/40910",
+          "description": "Liquidity, kept private. The institutional exchange on Canton Network.",
+          "text": "Liquidity, kept private. The institutional exchange on Canton Network."
+        }
+      ],
+      "text": " Sanctum Exhange sanctumexchange Liquidity, kept private. The institutional exchange on Canton Network.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "sarn",
       "account": "sarndotfun",
       "sources": [
@@ -20425,6 +20757,40 @@
         }
       ],
       "text": " Stars agent Starsagent_BNB Spells are written into the Ledger. A Solana card battler with Echo, Leylines and Pacts. Earn &#036;Ember by playing. 8B1ehC8qLoFYhqFTueBa1zq8s7uwV2qtsufDp4qapump",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Sudo",
+      "account": "textsudo",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "hit.ink"
+      ],
+      "tgAlphas": [
+        "hit.ink"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-14T14:11:34+00:00",
+      "lastSeen": "2026-11-14T14:11:34+00:00",
+      "description": "Your DeFi agent, research & trade through text.\n\nLive on Telegram & iMessage. No token.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Sudo",
+          "account": "textsudo",
+          "alpha": "hit.ink",
+          "seenAt": "2026-11-14T14:11:34+00:00",
+          "messageId": "dodtwitterbot/40904",
+          "description": "Your DeFi agent, research & trade through text.\n\nLive on Telegram & iMessage. No token.",
+          "text": "Your DeFi agent, research & trade through text.\n\nLive on Telegram & iMessage. No token."
+        }
+      ],
+      "text": " Sudo textsudo Your DeFi agent, research & trade through text.\n\nLive on Telegram & iMessage. No token.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -21178,6 +21544,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Tide",
+      "account": "tide_data",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "hit.ink"
+      ],
+      "tgAlphas": [
+        "hit.ink"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-14T14:38:43+00:00",
+      "lastSeen": "2026-11-14T14:38:43+00:00",
+      "description": "accelerating sui infrastructure",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Tide",
+          "account": "tide_data",
+          "alpha": "hit.ink",
+          "seenAt": "2026-11-14T14:38:43+00:00",
+          "messageId": "dodtwitterbot/40917",
+          "description": "accelerating sui infrastructure",
+          "text": "accelerating sui infrastructure"
+        }
+      ],
+      "text": " Tide tide_data accelerating sui infrastructure",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "TidePerps",
       "account": "tideperps",
       "sources": [
@@ -21314,40 +21714,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Token Guardian",
-      "account": "TokenGuardianAI",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "well"
-      ],
-      "tgAlphas": [
-        "well"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-11T01:59:34+00:00",
-      "lastSeen": "2026-11-11T01:59:34+00:00",
-      "description": "AI-powered on-chain due diligence for any token. Assess bundles, linked wallets and potential risks. We do not have a token.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Token Guardian",
-          "account": "TokenGuardianAI",
-          "alpha": "well",
-          "seenAt": "2026-11-11T01:59:34+00:00",
-          "messageId": "dodtwitterbot/40590",
-          "description": "AI-powered on-chain due diligence for any token. Assess bundles, linked wallets and potential risks. We do not have a token.",
-          "text": "AI-powered on-chain due diligence for any token. Assess bundles, linked wallets and potential risks. We do not have a token."
-        }
-      ],
-      "text": " Token Guardian TokenGuardianAI AI-powered on-chain due diligence for any token. Assess bundles, linked wallets and potential risks. We do not have a token.",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
       "project": "Touchmark",
       "account": "touchmark_ai",
       "sources": [
@@ -21479,40 +21845,6 @@
         }
       ],
       "text": " Trench TrchFi Long or short the Solana memecoin market. One index. Powered by real onchain activity.",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
-      "project": "tryCorpusAI",
-      "account": "tryCorpusAI",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "unsynned"
-      ],
-      "tgAlphas": [
-        "unsynned"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-11T20:31:04+00:00",
-      "lastSeen": "2026-11-11T20:31:04+00:00",
-      "description": "Perpetual Compute -- x402 Compute Price Feeds -- Tokenized Compute Ownership, Yield Generation, and Speculation",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "tryCorpusAI",
-          "account": "tryCorpusAI",
-          "alpha": "unsynned",
-          "seenAt": "2026-11-11T20:31:04+00:00",
-          "messageId": "dodtwitterbot/40672",
-          "description": "Perpetual Compute -- x402 Compute Price Feeds -- Tokenized Compute Ownership, Yield Generation, and Speculation",
-          "text": "Perpetual Compute -- x402 Compute Price Feeds -- Tokenized Compute Ownership, Yield Generation, and Speculation"
-        }
-      ],
-      "text": " tryCorpusAI tryCorpusAI Perpetual Compute -- x402 Compute Price Feeds -- Tokenized Compute Ownership, Yield Generation, and Speculation",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -22193,6 +22525,40 @@
         }
       ],
       "text": " Zero Cool ZeroCool_AI AI + human hybrid security systems for the cyborg era.\n\nTrusted by @Uniswap , @YearnFi , @yAuditDAO and more&#33;",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Zerolotl",
+      "account": "zerolotl",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "CSR"
+      ],
+      "tgAlphas": [
+        "CSR"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-14T10:52:57+00:00",
+      "lastSeen": "2026-11-14T10:52:57+00:00",
+      "description": "Every coin starts at Zero. The token launchpad on Zero: launch in one tx, graduate to locked liquidity, choose who earns 70% of the fees",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Zerolotl",
+          "account": "zerolotl",
+          "alpha": "CSR",
+          "seenAt": "2026-11-14T10:52:57+00:00",
+          "messageId": "dodtwitterbot/40895",
+          "description": "Every coin starts at Zero. The token launchpad on Zero: launch in one tx, graduate to locked liquidity, choose who earns 70% of the fees",
+          "text": "Every coin starts at Zero. The token launchpad on Zero: launch in one tx, graduate to locked liquidity, choose who earns 70% of the fees"
+        }
+      ],
+      "text": " Zerolotl zerolotl Every coin starts at Zero. The token launchpad on Zero: launch in one tx, graduate to locked liquidity, choose who earns 70% of the fees",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -23121,6 +23487,23 @@
       "avatarUrl": ""
     },
     {
+      "project": "Offworld Privacy",
+      "x_account": "OffworldPrivacy",
+      "total_mentions": 4,
+      "unique_alphas": 4,
+      "alphas": [
+        "Mutu 🕸️",
+        "hit.ink",
+        "lakka",
+        "well"
+      ],
+      "description": "Building private DeFi with shielded Zcash",
+      "first_seen_utc": "2026-11-11T15:35:19+00:00",
+      "last_seen_utc": "2026-11-14T14:38:43+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
       "project": "Omnia π",
       "x_account": "0xOmnia",
       "total_mentions": 4,
@@ -23475,6 +23858,22 @@
       "avatarUrl": ""
     },
     {
+      "project": "Globe",
+      "x_account": "globemkts",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "hit.ink",
+        "speest 💎",
+        "unsynned"
+      ],
+      "description": "Your gang calls it. Your agent trades it. Atlas goes live Nov 30. Get early access ↓",
+      "first_seen_utc": "2026-11-09T18:11:14+00:00",
+      "last_seen_utc": "2026-11-14T08:38:57+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
       "project": "Hegemon",
       "x_account": "hegemonprotocol",
       "total_mentions": 3,
@@ -23647,22 +24046,6 @@
       "description": "One app for on-chain trading and lending. Built on @SonicLabs",
       "first_seen_utc": "2026-10-31T17:26:01+00:00",
       "last_seen_utc": "2026-11-02T16:20:44+00:00",
-      "status": "priority",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Offworld Privacy",
-      "x_account": "OffworldPrivacy",
-      "total_mentions": 3,
-      "unique_alphas": 3,
-      "alphas": [
-        "Mutu 🕸️",
-        "lakka",
-        "well"
-      ],
-      "description": "Building private DeFi with shielded Zcash",
-      "first_seen_utc": "2026-11-11T15:35:19+00:00",
-      "last_seen_utc": "2026-11-12T13:17:57+00:00",
       "status": "priority",
       "avatarUrl": ""
     },
@@ -24650,21 +25033,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Globe",
-      "x_account": "globemkts",
-      "total_mentions": 2,
-      "unique_alphas": 2,
-      "alphas": [
-        "hit.ink",
-        "unsynned"
-      ],
-      "description": "Your gang calls it. Your agent trades it. Atlas goes live Nov 30. Get early access ↓",
-      "first_seen_utc": "2026-11-09T18:11:14+00:00",
-      "last_seen_utc": "2026-11-09T20:37:52+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "GreenStreet MMO",
       "x_account": "GreenStreet_MMO",
       "total_mentions": 2,
@@ -24691,6 +25059,21 @@
       "description": "Established digital assets on institutional rails. First: cLTC, Litecoin issued 1:1 on Canton Network, endorsed by LTCFoundation.",
       "first_seen_utc": "2026-10-28T02:37:00+08:00",
       "last_seen_utc": "2026-10-28T03:40:00+08:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Grid",
+      "x_account": "grid_arena",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "lakka",
+        "speest 💎"
+      ],
+      "description": "Every market, One Grid.\nEarn, Trade, Predict.\nEnter the Grid.",
+      "first_seen_utc": "2026-11-13T14:12:57+00:00",
+      "last_seen_utc": "2026-11-14T08:39:49+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -25340,6 +25723,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "Token Guardian",
+      "x_account": "TokenGuardianAI",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "hit.ink",
+        "well"
+      ],
+      "description": "AI-powered on-chain due diligence for any token. Assess bundles, linked wallets and potential risks. We do not have a token.",
+      "first_seen_utc": "2026-11-11T01:59:34+00:00",
+      "last_seen_utc": "2026-11-14T14:14:22+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "torpor",
       "x_account": "torpornet",
       "total_mentions": 2,
@@ -25351,6 +25749,21 @@
       "description": "https://t.co/2bFEMjhiUw is the intelligence layer for Elysium NFTs. apply for wl https://t.co/h7N4CaglIV",
       "first_seen_utc": "2026-11-01T04:43:52+00:00",
       "last_seen_utc": "2026-11-07T12:24:31+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "tryCorpusAI",
+      "x_account": "tryCorpusAI",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "hit.ink",
+        "unsynned"
+      ],
+      "description": "Perpetual Compute -- x402 Compute Price Feeds -- Tokenized Compute Ownership, Yield Generation, and Speculation",
+      "first_seen_utc": "2026-11-11T20:31:04+00:00",
+      "last_seen_utc": "2026-11-14T14:38:49+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -27156,6 +27569,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Garuda Markets",
+      "x_account": "garuda_markets",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "hit.ink"
+      ],
+      "description": "The first onchain prop firm on @solana powered by @PhoenixTrade",
+      "first_seen_utc": "2026-11-14T14:15:17+00:00",
+      "last_seen_utc": "2026-11-14T14:15:17+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "ghostonelysium",
       "x_account": "ghostonelysium",
       "total_mentions": 1,
@@ -27250,20 +27677,6 @@
       "description": "@kinetiq_xyz · @markets_xyz · @enter_elysium",
       "first_seen_utc": "2026-11-01T03:52:22+00:00",
       "last_seen_utc": "2026-11-01T03:52:22+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Grid",
-      "x_account": "grid_arena",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "lakka"
-      ],
-      "description": "Every market, One Grid.\nEarn, Trade, Predict.\nEnter the Grid.",
-      "first_seen_utc": "2026-11-13T14:12:57+00:00",
-      "last_seen_utc": "2026-11-13T14:12:57+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -27670,6 +28083,20 @@
       "description": "Play and compete for real prizes. Coming to Elysium",
       "first_seen_utc": "2026-11-02T11:02:15+00:00",
       "last_seen_utc": "2026-11-02T11:02:15+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "ihatecrypto",
+      "x_account": "ihatehatecrypto",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "hit.ink"
+      ],
+      "description": "Not the money. Managing it.\n\nSwap, bridge, earn, trade in plain words. Agent plans, only you sign.",
+      "first_seen_utc": "2026-11-14T14:43:17+00:00",
+      "last_seen_utc": "2026-11-14T14:43:17+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -28234,6 +28661,34 @@
       "avatarUrl": ""
     },
     {
+      "project": "MERGIT",
+      "x_account": "MergitonGIWA",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "hit.ink"
+      ],
+      "description": "An AI agent verifies merged pull requests and pays developer bounties on GIWA Chain.\n\nMerged, tested, paid in seconds.\n\nBuilding in public.",
+      "first_seen_utc": "2026-11-14T14:08:50+00:00",
+      "last_seen_utc": "2026-11-14T14:08:50+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "MeridianTown",
+      "x_account": "meridiantown",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "hit.ink"
+      ],
+      "description": "A market town that runs itself. AI shopkeepers, a real economy, and shops you can own. Built on NEAR. Coming to mainnet.",
+      "first_seen_utc": "2026-11-14T14:13:25+00:00",
+      "last_seen_utc": "2026-11-14T14:13:25+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Meron",
       "x_account": "MeronElysium",
       "total_mentions": 1,
@@ -28356,6 +28811,20 @@
       "description": "The all-in-one agentic trading OS.\n\nInvest with taste mode.",
       "first_seen_utc": "2026-10-29T04:17:40+00:00",
       "last_seen_utc": "2026-10-29T04:17:40+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Moka",
+      "x_account": "MokaPerps",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "hit.ink"
+      ],
+      "description": "Onchain perpetual markets for the long tail.\nBuilt on @Solana",
+      "first_seen_utc": "2026-11-14T14:13:25+00:00",
+      "last_seen_utc": "2026-11-14T14:13:25+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -29410,6 +29879,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Sanctum Exhange",
+      "x_account": "sanctumexchange",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "hit.ink"
+      ],
+      "description": "Liquidity, kept private. The institutional exchange on Canton Network.",
+      "first_seen_utc": "2026-11-14T14:14:22+00:00",
+      "last_seen_utc": "2026-11-14T14:14:22+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "sarn",
       "x_account": "sarndotfun",
       "total_mentions": 1,
@@ -29644,6 +30127,20 @@
       "description": "Spells are written into the Ledger. A Solana card battler with Echo, Leylines and Pacts. Earn &#036;Ember by playing. 8B1ehC8qLoFYhqFTueBa1zq8s7uwV2qtsufDp4qapump",
       "first_seen_utc": "2026-10-30T15:06:19+00:00",
       "last_seen_utc": "2026-10-30T15:06:19+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Sudo",
+      "x_account": "textsudo",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "hit.ink"
+      ],
+      "description": "Your DeFi agent, research & trade through text.\n\nLive on Telegram & iMessage. No token.",
+      "first_seen_utc": "2026-11-14T14:11:34+00:00",
+      "last_seen_utc": "2026-11-14T14:11:34+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -29956,6 +30453,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Tide",
+      "x_account": "tide_data",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "hit.ink"
+      ],
+      "description": "accelerating sui infrastructure",
+      "first_seen_utc": "2026-11-14T14:38:43+00:00",
+      "last_seen_utc": "2026-11-14T14:38:43+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "TidePerps",
       "x_account": "tideperps",
       "total_mentions": 1,
@@ -30012,20 +30523,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Token Guardian",
-      "x_account": "TokenGuardianAI",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "well"
-      ],
-      "description": "AI-powered on-chain due diligence for any token. Assess bundles, linked wallets and potential risks. We do not have a token.",
-      "first_seen_utc": "2026-11-11T01:59:34+00:00",
-      "last_seen_utc": "2026-11-11T01:59:34+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "Touchmark",
       "x_account": "touchmark_ai",
       "total_mentions": 1,
@@ -30078,20 +30575,6 @@
       "description": "Long or short the Solana memecoin market. One index. Powered by real onchain activity.",
       "first_seen_utc": "2026-11-09T07:13:44+00:00",
       "last_seen_utc": "2026-11-09T07:13:44+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "tryCorpusAI",
-      "x_account": "tryCorpusAI",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "unsynned"
-      ],
-      "description": "Perpetual Compute -- x402 Compute Price Feeds -- Tokenized Compute Ownership, Yield Generation, and Speculation",
-      "first_seen_utc": "2026-11-11T20:31:04+00:00",
-      "last_seen_utc": "2026-11-11T20:31:04+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -30376,6 +30859,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Zerolotl",
+      "x_account": "zerolotl",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "CSR"
+      ],
+      "description": "Every coin starts at Zero. The token launchpad on Zero: launch in one tx, graduate to locked liquidity, choose who earns 70% of the fees",
+      "first_seen_utc": "2026-11-14T10:52:57+00:00",
+      "last_seen_utc": "2026-11-14T10:52:57+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Zillions",
       "x_account": "zillions_app",
       "total_mentions": 1,
@@ -30532,14 +31029,25 @@
   ],
   "daily": [
     {
-      "date": "2026-11-14",
-      "totalRows": 4,
-      "projectCount": 4,
+      "date": "2026-11-15",
+      "totalRows": 0,
+      "projectCount": 0,
       "focusCount": 0,
-      "candidateCount": 4,
+      "candidateCount": 0,
       "crossSource": 0,
-      "newCount": 3,
-      "repeatCount": 1,
+      "newCount": 0,
+      "repeatCount": 0,
+      "projects": []
+    },
+    {
+      "date": "2026-11-14",
+      "totalRows": 18,
+      "projectCount": 18,
+      "focusCount": 0,
+      "candidateCount": 18,
+      "crossSource": 0,
+      "newCount": 12,
+      "repeatCount": 6,
       "projects": [
         {
           "project": "Gangstaz Taking All",
@@ -30571,6 +31079,146 @@
             }
           ],
           "text": " Gangstaz Taking All Gangstazfun RWA gaming meets gangster life on @RobinhoodApp 👑\nGold. Silver. Oil.\nBuild your empire\n\nNFT: https://t.co/GXGCcejqjl",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Garuda Markets",
+          "account": "garuda_markets",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "hit.ink"
+          ],
+          "tgAlphas": [
+            "hit.ink"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-14T14:15:17+00:00",
+          "lastSeen": "2026-11-14T14:15:17+00:00",
+          "description": "The first onchain prop firm on @solana powered by @PhoenixTrade",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Garuda Markets",
+              "account": "garuda_markets",
+              "alpha": "hit.ink",
+              "seenAt": "2026-11-14T14:15:17+00:00",
+              "messageId": "dodtwitterbot/40914",
+              "description": "The first onchain prop firm on @solana powered by @PhoenixTrade",
+              "text": "The first onchain prop firm on @solana powered by @PhoenixTrade"
+            }
+          ],
+          "text": " Garuda Markets garuda_markets The first onchain prop firm on @solana powered by @PhoenixTrade",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Globe",
+          "account": "globemkts",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "speest 💎"
+          ],
+          "tgAlphas": [
+            "speest 💎"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-14T08:38:57+00:00",
+          "lastSeen": "2026-11-14T08:38:57+00:00",
+          "description": "Your gang calls it. Your agent trades it. Atlas goes live Nov 30. Get early access ↓",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Globe",
+              "account": "globemkts",
+              "alpha": "speest 💎",
+              "seenAt": "2026-11-14T08:38:57+00:00",
+              "messageId": "dodtwitterbot/40891",
+              "description": "Your gang calls it. Your agent trades it. Atlas goes live Nov 30. Get early access ↓",
+              "text": "Your gang calls it. Your agent trades it. Atlas goes live Nov 30. Get early access ↓"
+            }
+          ],
+          "text": " Globe globemkts Your gang calls it. Your agent trades it. Atlas goes live Nov 30. Get early access ↓",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Grid",
+          "account": "grid_arena",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "speest 💎"
+          ],
+          "tgAlphas": [
+            "speest 💎"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-14T08:39:49+00:00",
+          "lastSeen": "2026-11-14T08:39:49+00:00",
+          "description": "Every market, One Grid.\nEarn, Trade, Predict.\nEnter the Grid.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Grid",
+              "account": "grid_arena",
+              "alpha": "speest 💎",
+              "seenAt": "2026-11-14T08:39:49+00:00",
+              "messageId": "dodtwitterbot/40892",
+              "description": "Every market, One Grid.\nEarn, Trade, Predict.\nEnter the Grid.",
+              "text": "Every market, One Grid.\nEarn, Trade, Predict.\nEnter the Grid."
+            }
+          ],
+          "text": " Grid grid_arena Every market, One Grid.\nEarn, Trade, Predict.\nEnter the Grid.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "ihatecrypto",
+          "account": "ihatehatecrypto",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "hit.ink"
+          ],
+          "tgAlphas": [
+            "hit.ink"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-14T14:43:17+00:00",
+          "lastSeen": "2026-11-14T14:43:17+00:00",
+          "description": "Not the money. Managing it.\n\nSwap, bridge, earn, trade in plain words. Agent plans, only you sign.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "ihatecrypto",
+              "account": "ihatehatecrypto",
+              "alpha": "hit.ink",
+              "seenAt": "2026-11-14T14:43:17+00:00",
+              "messageId": "dodtwitterbot/40924",
+              "description": "Not the money. Managing it.\n\nSwap, bridge, earn, trade in plain words. Agent plans, only you sign.",
+              "text": "Not the money. Managing it.\n\nSwap, bridge, earn, trade in plain words. Agent plans, only you sign."
+            }
+          ],
+          "text": " ihatecrypto ihatehatecrypto Not the money. Managing it.\n\nSwap, bridge, earn, trade in plain words. Agent plans, only you sign.",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -30612,6 +31260,111 @@
           "dayStatus": "new"
         },
         {
+          "project": "MERGIT",
+          "account": "MergitonGIWA",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "hit.ink"
+          ],
+          "tgAlphas": [
+            "hit.ink"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-14T14:08:50+00:00",
+          "lastSeen": "2026-11-14T14:08:50+00:00",
+          "description": "An AI agent verifies merged pull requests and pays developer bounties on GIWA Chain.\n\nMerged, tested, paid in seconds.\n\nBuilding in public.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "MERGIT",
+              "account": "MergitonGIWA",
+              "alpha": "hit.ink",
+              "seenAt": "2026-11-14T14:08:50+00:00",
+              "messageId": "dodtwitterbot/40902",
+              "description": "An AI agent verifies merged pull requests and pays developer bounties on GIWA Chain.\n\nMerged, tested, paid in seconds.\n\nBuilding in public.",
+              "text": "An AI agent verifies merged pull requests and pays developer bounties on GIWA Chain.\n\nMerged, tested, paid in seconds.\n\nBuilding in public."
+            }
+          ],
+          "text": " MERGIT MergitonGIWA An AI agent verifies merged pull requests and pays developer bounties on GIWA Chain.\n\nMerged, tested, paid in seconds.\n\nBuilding in public.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "MeridianTown",
+          "account": "meridiantown",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "hit.ink"
+          ],
+          "tgAlphas": [
+            "hit.ink"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-14T14:13:25+00:00",
+          "lastSeen": "2026-11-14T14:13:25+00:00",
+          "description": "A market town that runs itself. AI shopkeepers, a real economy, and shops you can own. Built on NEAR. Coming to mainnet.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "MeridianTown",
+              "account": "meridiantown",
+              "alpha": "hit.ink",
+              "seenAt": "2026-11-14T14:13:25+00:00",
+              "messageId": "dodtwitterbot/40906",
+              "description": "A market town that runs itself. AI shopkeepers, a real economy, and shops you can own. Built on NEAR. Coming to mainnet.",
+              "text": "A market town that runs itself. AI shopkeepers, a real economy, and shops you can own. Built on NEAR. Coming to mainnet."
+            }
+          ],
+          "text": " MeridianTown meridiantown A market town that runs itself. AI shopkeepers, a real economy, and shops you can own. Built on NEAR. Coming to mainnet.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Moka",
+          "account": "MokaPerps",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "hit.ink"
+          ],
+          "tgAlphas": [
+            "hit.ink"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-14T14:13:25+00:00",
+          "lastSeen": "2026-11-14T14:13:25+00:00",
+          "description": "Onchain perpetual markets for the long tail.\nBuilt on @Solana",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Moka",
+              "account": "MokaPerps",
+              "alpha": "hit.ink",
+              "seenAt": "2026-11-14T14:13:25+00:00",
+              "messageId": "dodtwitterbot/40905",
+              "description": "Onchain perpetual markets for the long tail.\nBuilt on @Solana",
+              "text": "Onchain perpetual markets for the long tail.\nBuilt on @Solana"
+            }
+          ],
+          "text": " Moka MokaPerps Onchain perpetual markets for the long tail.\nBuilt on @Solana",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
           "project": "Numen Cash",
           "account": "numencash",
           "sources": [
@@ -30641,6 +31394,111 @@
             }
           ],
           "text": " Numen Cash numencash Launch tokens that think on @GIWA_by_Upbit . Each wakes with a mind of its own.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Offworld Privacy",
+          "account": "OffworldPrivacy",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "hit.ink"
+          ],
+          "tgAlphas": [
+            "hit.ink"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-14T14:38:43+00:00",
+          "lastSeen": "2026-11-14T14:38:43+00:00",
+          "description": "Building private DeFi with shielded Zcash",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Offworld Privacy",
+              "account": "OffworldPrivacy",
+              "alpha": "hit.ink",
+              "seenAt": "2026-11-14T14:38:43+00:00",
+              "messageId": "dodtwitterbot/40916",
+              "description": "Building private DeFi with shielded Zcash",
+              "text": "Building private DeFi with shielded Zcash"
+            }
+          ],
+          "text": " Offworld Privacy OffworldPrivacy Building private DeFi with shielded Zcash",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Sanctum Exhange",
+          "account": "sanctumexchange",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "hit.ink"
+          ],
+          "tgAlphas": [
+            "hit.ink"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-14T14:14:22+00:00",
+          "lastSeen": "2026-11-14T14:14:22+00:00",
+          "description": "Liquidity, kept private. The institutional exchange on Canton Network.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Sanctum Exhange",
+              "account": "sanctumexchange",
+              "alpha": "hit.ink",
+              "seenAt": "2026-11-14T14:14:22+00:00",
+              "messageId": "dodtwitterbot/40910",
+              "description": "Liquidity, kept private. The institutional exchange on Canton Network.",
+              "text": "Liquidity, kept private. The institutional exchange on Canton Network."
+            }
+          ],
+          "text": " Sanctum Exhange sanctumexchange Liquidity, kept private. The institutional exchange on Canton Network.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Sudo",
+          "account": "textsudo",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "hit.ink"
+          ],
+          "tgAlphas": [
+            "hit.ink"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-14T14:11:34+00:00",
+          "lastSeen": "2026-11-14T14:11:34+00:00",
+          "description": "Your DeFi agent, research & trade through text.\n\nLive on Telegram & iMessage. No token.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Sudo",
+              "account": "textsudo",
+              "alpha": "hit.ink",
+              "seenAt": "2026-11-14T14:11:34+00:00",
+              "messageId": "dodtwitterbot/40904",
+              "description": "Your DeFi agent, research & trade through text.\n\nLive on Telegram & iMessage. No token.",
+              "text": "Your DeFi agent, research & trade through text.\n\nLive on Telegram & iMessage. No token."
+            }
+          ],
+          "text": " Sudo textsudo Your DeFi agent, research & trade through text.\n\nLive on Telegram & iMessage. No token.",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -30680,6 +31538,146 @@
           "displayTier": "candidate",
           "avatarUrl": "",
           "dayStatus": "repeat"
+        },
+        {
+          "project": "Tide",
+          "account": "tide_data",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "hit.ink"
+          ],
+          "tgAlphas": [
+            "hit.ink"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-14T14:38:43+00:00",
+          "lastSeen": "2026-11-14T14:38:43+00:00",
+          "description": "accelerating sui infrastructure",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Tide",
+              "account": "tide_data",
+              "alpha": "hit.ink",
+              "seenAt": "2026-11-14T14:38:43+00:00",
+              "messageId": "dodtwitterbot/40917",
+              "description": "accelerating sui infrastructure",
+              "text": "accelerating sui infrastructure"
+            }
+          ],
+          "text": " Tide tide_data accelerating sui infrastructure",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Token Guardian",
+          "account": "TokenGuardianAI",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "hit.ink"
+          ],
+          "tgAlphas": [
+            "hit.ink"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-14T14:14:22+00:00",
+          "lastSeen": "2026-11-14T14:14:22+00:00",
+          "description": "AI-powered on-chain due diligence for any token. Assess bundles, linked wallets and potential risks. We do not have a token.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Token Guardian",
+              "account": "TokenGuardianAI",
+              "alpha": "hit.ink",
+              "seenAt": "2026-11-14T14:14:22+00:00",
+              "messageId": "dodtwitterbot/40909",
+              "description": "AI-powered on-chain due diligence for any token. Assess bundles, linked wallets and potential risks. We do not have a token.",
+              "text": "AI-powered on-chain due diligence for any token. Assess bundles, linked wallets and potential risks. We do not have a token."
+            }
+          ],
+          "text": " Token Guardian TokenGuardianAI AI-powered on-chain due diligence for any token. Assess bundles, linked wallets and potential risks. We do not have a token.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "tryCorpusAI",
+          "account": "tryCorpusAI",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "hit.ink"
+          ],
+          "tgAlphas": [
+            "hit.ink"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-14T14:38:49+00:00",
+          "lastSeen": "2026-11-14T14:38:49+00:00",
+          "description": "Perpetual Compute -- x402 Compute Price Feeds -- Tokenized Compute Ownership, Yield Generation, and Speculation",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "tryCorpusAI",
+              "account": "tryCorpusAI",
+              "alpha": "hit.ink",
+              "seenAt": "2026-11-14T14:38:49+00:00",
+              "messageId": "dodtwitterbot/40921",
+              "description": "Perpetual Compute -- x402 Compute Price Feeds -- Tokenized Compute Ownership, Yield Generation, and Speculation",
+              "text": "Perpetual Compute -- x402 Compute Price Feeds -- Tokenized Compute Ownership, Yield Generation, and Speculation"
+            }
+          ],
+          "text": " tryCorpusAI tryCorpusAI Perpetual Compute -- x402 Compute Price Feeds -- Tokenized Compute Ownership, Yield Generation, and Speculation",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Zerolotl",
+          "account": "zerolotl",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "CSR"
+          ],
+          "tgAlphas": [
+            "CSR"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-14T10:52:57+00:00",
+          "lastSeen": "2026-11-14T10:52:57+00:00",
+          "description": "Every coin starts at Zero. The token launchpad on Zero: launch in one tx, graduate to locked liquidity, choose who earns 70% of the fees",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Zerolotl",
+              "account": "zerolotl",
+              "alpha": "CSR",
+              "seenAt": "2026-11-14T10:52:57+00:00",
+              "messageId": "dodtwitterbot/40895",
+              "description": "Every coin starts at Zero. The token launchpad on Zero: launch in one tx, graduate to locked liquidity, choose who earns 70% of the fees",
+              "text": "Every coin starts at Zero. The token launchpad on Zero: launch in one tx, graduate to locked liquidity, choose who earns 70% of the fees"
+            }
+          ],
+          "text": " Zerolotl zerolotl Every coin starts at Zero. The token launchpad on Zero: launch in one tx, graduate to locked liquidity, choose who earns 70% of the fees",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
         }
       ]
     },
@@ -57641,289 +58639,294 @@
   ],
   "reports": [
     {
+      "file": "2026-11-14-1610-telegram-update.md",
+      "title": "2026-11-14-1610-telegram-update",
+      "updatedAt": "2026-11-14T16:10:14.034Z"
+    },
+    {
       "file": "2026-11-14-0809-telegram-update.md",
       "title": "2026-11-14-0809-telegram-update",
-      "updatedAt": "2026-11-14T08:09:10.337Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-11-13-2255-telegram-update.md",
       "title": "2026-11-13-2255-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.299Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-11-13-1724-telegram-update.md",
       "title": "2026-11-13-1724-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.299Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-11-13-0849-telegram-update.md",
       "title": "2026-11-13-0849-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.299Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-11-12-2254-telegram-update.md",
       "title": "2026-11-12-2254-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.299Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-11-12-1746-telegram-update.md",
       "title": "2026-11-12-1746-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.299Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-11-12-0853-telegram-update.md",
       "title": "2026-11-12-0853-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.299Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-11-11-2344-telegram-update.md",
       "title": "2026-11-11-2344-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.299Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-11-11-1729-telegram-update.md",
       "title": "2026-11-11-1729-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.299Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-11-11-0828-telegram-update.md",
       "title": "2026-11-11-0828-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.299Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-11-11-0130-telegram-update.md",
       "title": "2026-11-11-0130-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.299Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-11-10-2037-telegram-update.md",
       "title": "2026-11-10-2037-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.299Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-11-10-1348-telegram-update.md",
       "title": "2026-11-10-1348-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.299Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-11-10-0351-telegram-update.md",
       "title": "2026-11-10-0351-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.299Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-11-09-2013-telegram-update.md",
       "title": "2026-11-09-2013-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.299Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-11-09-0844-telegram-update.md",
       "title": "2026-11-09-0844-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.299Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-11-08-2123-telegram-update.md",
       "title": "2026-11-08-2123-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.299Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-11-08-1623-telegram-update.md",
       "title": "2026-11-08-1623-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.299Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-11-08-0804-telegram-update.md",
       "title": "2026-11-08-0804-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.299Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-11-07-2106-telegram-update.md",
       "title": "2026-11-07-2106-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.299Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-11-07-1556-telegram-update.md",
       "title": "2026-11-07-1556-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.299Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-11-07-0751-telegram-update.md",
       "title": "2026-11-07-0751-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.299Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-11-06-2226-telegram-update.md",
       "title": "2026-11-06-2226-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.299Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-11-06-1658-telegram-update.md",
       "title": "2026-11-06-1658-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.299Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-11-06-0835-telegram-update.md",
       "title": "2026-11-06-0835-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.299Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-11-05-2256-telegram-update.md",
       "title": "2026-11-05-2256-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.299Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-11-05-1742-telegram-update.md",
       "title": "2026-11-05-1742-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.299Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-11-05-0836-telegram-update.md",
       "title": "2026-11-05-0836-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.299Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-11-04-2255-telegram-update.md",
       "title": "2026-11-04-2255-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.299Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-11-04-1737-telegram-update.md",
       "title": "2026-11-04-1737-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.299Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-11-04-0810-telegram-update.md",
       "title": "2026-11-04-0810-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.299Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-11-04-0143-telegram-update.md",
       "title": "2026-11-04-0143-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.299Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-11-03-2018-telegram-update.md",
       "title": "2026-11-03-2018-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.299Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-11-03-1302-telegram-update.md",
       "title": "2026-11-03-1302-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.299Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-11-03-0306-telegram-update.md",
       "title": "2026-11-03-0306-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.299Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-11-02-1950-telegram-update.md",
       "title": "2026-11-02-1950-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.299Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-11-02-0826-telegram-update.md",
       "title": "2026-11-02-0826-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.298Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.298Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.298Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.298Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.298Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.298Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.298Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.298Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.298Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.298Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.298Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.298Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.298Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.298Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.298Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.298Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.298Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.298Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.298Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-14T08:09:07.298Z"
+      "updatedAt": "2026-11-14T16:10:11.677Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-14T08:09:07.298Z"
+      "updatedAt": "2026-11-14T16:10:11.676Z"
     }
   ]
 }
