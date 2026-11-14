@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-14T16:10:14.171Z",
+  "generatedAt": "2026-11-14T21:41:36.746Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 40939,
-    "lastMessageAt": "2026-11-14T15:51:13+00:00",
-    "lastCheckedAt": "2026-11-14T16:10:14.035Z",
-    "previousMessageId": 40890,
-    "pagesRead": 3,
-    "messagesRead": 49,
-    "newProjectRecords": 14,
+    "lastMessageId": 40949,
+    "lastMessageAt": "2026-11-14T21:25:26+00:00",
+    "lastCheckedAt": "2026-11-14T21:41:36.543Z",
+    "previousMessageId": 40939,
+    "pagesRead": 1,
+    "messagesRead": 10,
+    "newProjectRecords": 4,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 896,
+    "telegramRows": 900,
     "xRows": 0,
-    "projects": 553,
+    "projects": 556,
     "crossSource": 0
   },
   "projects": [
@@ -9574,6 +9574,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "Sanctum Exhange",
+      "account": "sanctumexchange",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "hit.ink",
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "hit.ink",
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-14T14:14:22+00:00",
+      "lastSeen": "2026-11-14T17:02:35+00:00",
+      "description": "Liquidity, kept private. The institutional exchange on Canton Network.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Sanctum Exhange",
+          "account": "sanctumexchange",
+          "alpha": "hit.ink",
+          "seenAt": "2026-11-14T14:14:22+00:00",
+          "messageId": "dodtwitterbot/40910",
+          "description": "Liquidity, kept private. The institutional exchange on Canton Network.",
+          "text": "Liquidity, kept private. The institutional exchange on Canton Network."
+        },
+        {
+          "source": "TG",
+          "project": "Sanctum Exhange",
+          "account": "sanctumexchange",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-14T17:02:35+00:00",
+          "messageId": "dodtwitterbot/40941",
+          "description": "Liquidity, kept private. The institutional exchange on Canton Network.",
+          "text": "Liquidity, kept private. The institutional exchange on Canton Network."
+        }
+      ],
+      "text": " Sanctum Exhange sanctumexchange Liquidity, kept private. The institutional exchange on Canton Network. Sanctum Exhange sanctumexchange Liquidity, kept private. The institutional exchange on Canton Network.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "SCRiM",
       "account": "scrimfinance",
       "sources": [
@@ -16546,6 +16592,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Launch For Good",
+      "account": "goodlauncher",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "hit.ink"
+      ],
+      "tgAlphas": [
+        "hit.ink"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-14T17:29:21+00:00",
+      "lastSeen": "2026-11-14T17:29:21+00:00",
+      "description": "Launch a coin. Fund a charity. Fees from every coin on our Raydium launchpad rotate through https://t.co/1fzY2e2ZJB charities every 3 min, on-chain.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Launch For Good",
+          "account": "goodlauncher",
+          "alpha": "hit.ink",
+          "seenAt": "2026-11-14T17:29:21+00:00",
+          "messageId": "dodtwitterbot/40944",
+          "description": "Launch a coin. Fund a charity. Fees from every coin on our Raydium launchpad rotate through https://t.co/1fzY2e2ZJB charities every 3 min, on-chain.",
+          "text": "Launch a coin. Fund a charity. Fees from every coin on our Raydium launchpad rotate through https://t.co/1fzY2e2ZJB charities every 3 min, on-chain."
+        }
+      ],
+      "text": " Launch For Good goodlauncher Launch a coin. Fund a charity. Fees from every coin on our Raydium launchpad rotate through https://t.co/1fzY2e2ZJB charities every 3 min, on-chain.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Lendr",
       "account": "LendrMarkets",
       "sources": [
@@ -19708,6 +19788,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Renaiss.xyz",
+      "account": "renaissxyz",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BTC alpha"
+      ],
+      "tgAlphas": [
+        "BTC alpha"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-14T21:25:26+00:00",
+      "lastSeen": "2026-11-14T21:25:26+00:00",
+      "description": "Liquidity Layer of Physical Collectibles. Only on @BNBCHAIN 🔶 Powered by @RenaissCLTB & @Renaiss_cmty , backed by @yzilabs .",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Renaiss.xyz",
+          "account": "renaissxyz",
+          "alpha": "BTC alpha",
+          "seenAt": "2026-11-14T21:25:26+00:00",
+          "messageId": "dodtwitterbot/40949",
+          "description": "Liquidity Layer of Physical Collectibles. Only on @BNBCHAIN 🔶 Powered by @RenaissCLTB & @Renaiss_cmty , backed by @yzilabs .",
+          "text": "Liquidity Layer of Physical Collectibles. Only on @BNBCHAIN 🔶 Powered by @RenaissCLTB & @Renaiss_cmty , backed by @yzilabs ."
+        }
+      ],
+      "text": " Renaiss.xyz renaissxyz Liquidity Layer of Physical Collectibles. Only on @BNBCHAIN 🔶 Powered by @RenaissCLTB & @Renaiss_cmty , backed by @yzilabs .",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Rexis Launchpad",
       "account": "Rexisdotfun",
       "sources": [
@@ -20150,40 +20264,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Sanctum Exhange",
-      "account": "sanctumexchange",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "hit.ink"
-      ],
-      "tgAlphas": [
-        "hit.ink"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-14T14:14:22+00:00",
-      "lastSeen": "2026-11-14T14:14:22+00:00",
-      "description": "Liquidity, kept private. The institutional exchange on Canton Network.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Sanctum Exhange",
-          "account": "sanctumexchange",
-          "alpha": "hit.ink",
-          "seenAt": "2026-11-14T14:14:22+00:00",
-          "messageId": "dodtwitterbot/40910",
-          "description": "Liquidity, kept private. The institutional exchange on Canton Network.",
-          "text": "Liquidity, kept private. The institutional exchange on Canton Network."
-        }
-      ],
-      "text": " Sanctum Exhange sanctumexchange Liquidity, kept private. The institutional exchange on Canton Network.",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
       "project": "sarn",
       "account": "sarndotfun",
       "sources": [
@@ -20417,6 +20497,40 @@
         }
       ],
       "text": " Shiden ShidenProtocol Advanced Autonomous Defi Protocol on @Enter_Elysium . The most efficient way to supercharge and compound you &#036;HYPE",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Sifr",
+      "account": "sifrswap",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "hit.ink"
+      ],
+      "tgAlphas": [
+        "hit.ink"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-14T17:28:26+00:00",
+      "lastSeen": "2026-11-14T17:28:26+00:00",
+      "description": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Sifr",
+          "account": "sifrswap",
+          "alpha": "hit.ink",
+          "seenAt": "2026-11-14T17:28:26+00:00",
+          "messageId": "dodtwitterbot/40943",
+          "description": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one.",
+          "text": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one."
+        }
+      ],
+      "text": " Sifr sifrswap The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -25603,6 +25717,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "Sanctum Exhange",
+      "x_account": "sanctumexchange",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "hit.ink",
+        "unsynned"
+      ],
+      "description": "Liquidity, kept private. The institutional exchange on Canton Network.",
+      "first_seen_utc": "2026-11-14T14:14:22+00:00",
+      "last_seen_utc": "2026-11-14T17:02:35+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "SCRiM",
       "x_account": "scrimfinance",
       "total_mentions": 2,
@@ -28395,6 +28524,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Launch For Good",
+      "x_account": "goodlauncher",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "hit.ink"
+      ],
+      "description": "Launch a coin. Fund a charity. Fees from every coin on our Raydium launchpad rotate through https://t.co/1fzY2e2ZJB charities every 3 min, on-chain.",
+      "first_seen_utc": "2026-11-14T17:29:21+00:00",
+      "last_seen_utc": "2026-11-14T17:29:21+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Lendr",
       "x_account": "LendrMarkets",
       "total_mentions": 1,
@@ -29697,6 +29840,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Renaiss.xyz",
+      "x_account": "renaissxyz",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "BTC alpha"
+      ],
+      "description": "Liquidity Layer of Physical Collectibles. Only on @BNBCHAIN 🔶 Powered by @RenaissCLTB & @Renaiss_cmty , backed by @yzilabs .",
+      "first_seen_utc": "2026-11-14T21:25:26+00:00",
+      "last_seen_utc": "2026-11-14T21:25:26+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Rexis Launchpad",
       "x_account": "Rexisdotfun",
       "total_mentions": 1,
@@ -29879,20 +30036,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Sanctum Exhange",
-      "x_account": "sanctumexchange",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "hit.ink"
-      ],
-      "description": "Liquidity, kept private. The institutional exchange on Canton Network.",
-      "first_seen_utc": "2026-11-14T14:14:22+00:00",
-      "last_seen_utc": "2026-11-14T14:14:22+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "sarn",
       "x_account": "sarndotfun",
       "total_mentions": 1,
@@ -29987,6 +30130,20 @@
       "description": "Advanced Autonomous Defi Protocol on @Enter_Elysium . The most efficient way to supercharge and compound you &#036;HYPE",
       "first_seen_utc": "2026-11-02T18:23:23+00:00",
       "last_seen_utc": "2026-11-02T18:23:23+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Sifr",
+      "x_account": "sifrswap",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "hit.ink"
+      ],
+      "description": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one.",
+      "first_seen_utc": "2026-11-14T17:28:26+00:00",
+      "last_seen_utc": "2026-11-14T17:28:26+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -31030,14 +31187,155 @@
   "daily": [
     {
       "date": "2026-11-15",
-      "totalRows": 0,
-      "projectCount": 0,
+      "totalRows": 4,
+      "projectCount": 4,
       "focusCount": 0,
-      "candidateCount": 0,
+      "candidateCount": 4,
       "crossSource": 0,
-      "newCount": 0,
-      "repeatCount": 0,
-      "projects": []
+      "newCount": 3,
+      "repeatCount": 1,
+      "projects": [
+        {
+          "project": "Launch For Good",
+          "account": "goodlauncher",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "hit.ink"
+          ],
+          "tgAlphas": [
+            "hit.ink"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-14T17:29:21+00:00",
+          "lastSeen": "2026-11-14T17:29:21+00:00",
+          "description": "Launch a coin. Fund a charity. Fees from every coin on our Raydium launchpad rotate through https://t.co/1fzY2e2ZJB charities every 3 min, on-chain.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Launch For Good",
+              "account": "goodlauncher",
+              "alpha": "hit.ink",
+              "seenAt": "2026-11-14T17:29:21+00:00",
+              "messageId": "dodtwitterbot/40944",
+              "description": "Launch a coin. Fund a charity. Fees from every coin on our Raydium launchpad rotate through https://t.co/1fzY2e2ZJB charities every 3 min, on-chain.",
+              "text": "Launch a coin. Fund a charity. Fees from every coin on our Raydium launchpad rotate through https://t.co/1fzY2e2ZJB charities every 3 min, on-chain."
+            }
+          ],
+          "text": " Launch For Good goodlauncher Launch a coin. Fund a charity. Fees from every coin on our Raydium launchpad rotate through https://t.co/1fzY2e2ZJB charities every 3 min, on-chain.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Renaiss.xyz",
+          "account": "renaissxyz",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BTC alpha"
+          ],
+          "tgAlphas": [
+            "BTC alpha"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-14T21:25:26+00:00",
+          "lastSeen": "2026-11-14T21:25:26+00:00",
+          "description": "Liquidity Layer of Physical Collectibles. Only on @BNBCHAIN 🔶 Powered by @RenaissCLTB & @Renaiss_cmty , backed by @yzilabs .",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Renaiss.xyz",
+              "account": "renaissxyz",
+              "alpha": "BTC alpha",
+              "seenAt": "2026-11-14T21:25:26+00:00",
+              "messageId": "dodtwitterbot/40949",
+              "description": "Liquidity Layer of Physical Collectibles. Only on @BNBCHAIN 🔶 Powered by @RenaissCLTB & @Renaiss_cmty , backed by @yzilabs .",
+              "text": "Liquidity Layer of Physical Collectibles. Only on @BNBCHAIN 🔶 Powered by @RenaissCLTB & @Renaiss_cmty , backed by @yzilabs ."
+            }
+          ],
+          "text": " Renaiss.xyz renaissxyz Liquidity Layer of Physical Collectibles. Only on @BNBCHAIN 🔶 Powered by @RenaissCLTB & @Renaiss_cmty , backed by @yzilabs .",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Sanctum Exhange",
+          "account": "sanctumexchange",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-14T17:02:35+00:00",
+          "lastSeen": "2026-11-14T17:02:35+00:00",
+          "description": "Liquidity, kept private. The institutional exchange on Canton Network.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Sanctum Exhange",
+              "account": "sanctumexchange",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-14T17:02:35+00:00",
+              "messageId": "dodtwitterbot/40941",
+              "description": "Liquidity, kept private. The institutional exchange on Canton Network.",
+              "text": "Liquidity, kept private. The institutional exchange on Canton Network."
+            }
+          ],
+          "text": " Sanctum Exhange sanctumexchange Liquidity, kept private. The institutional exchange on Canton Network.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Sifr",
+          "account": "sifrswap",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "hit.ink"
+          ],
+          "tgAlphas": [
+            "hit.ink"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-14T17:28:26+00:00",
+          "lastSeen": "2026-11-14T17:28:26+00:00",
+          "description": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Sifr",
+              "account": "sifrswap",
+              "alpha": "hit.ink",
+              "seenAt": "2026-11-14T17:28:26+00:00",
+              "messageId": "dodtwitterbot/40943",
+              "description": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one.",
+              "text": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one."
+            }
+          ],
+          "text": " Sifr sifrswap The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        }
+      ]
     },
     {
       "date": "2026-11-14",
@@ -58639,294 +58937,299 @@
   ],
   "reports": [
     {
+      "file": "2026-11-14-2141-telegram-update.md",
+      "title": "2026-11-14-2141-telegram-update",
+      "updatedAt": "2026-11-14T21:41:36.543Z"
+    },
+    {
       "file": "2026-11-14-1610-telegram-update.md",
       "title": "2026-11-14-1610-telegram-update",
-      "updatedAt": "2026-11-14T16:10:14.034Z"
+      "updatedAt": "2026-11-14T21:41:34.805Z"
     },
     {
       "file": "2026-11-14-0809-telegram-update.md",
       "title": "2026-11-14-0809-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.805Z"
     },
     {
       "file": "2026-11-13-2255-telegram-update.md",
       "title": "2026-11-13-2255-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.805Z"
     },
     {
       "file": "2026-11-13-1724-telegram-update.md",
       "title": "2026-11-13-1724-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.805Z"
     },
     {
       "file": "2026-11-13-0849-telegram-update.md",
       "title": "2026-11-13-0849-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.805Z"
     },
     {
       "file": "2026-11-12-2254-telegram-update.md",
       "title": "2026-11-12-2254-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.805Z"
     },
     {
       "file": "2026-11-12-1746-telegram-update.md",
       "title": "2026-11-12-1746-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.805Z"
     },
     {
       "file": "2026-11-12-0853-telegram-update.md",
       "title": "2026-11-12-0853-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.805Z"
     },
     {
       "file": "2026-11-11-2344-telegram-update.md",
       "title": "2026-11-11-2344-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.805Z"
     },
     {
       "file": "2026-11-11-1729-telegram-update.md",
       "title": "2026-11-11-1729-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.804Z"
     },
     {
       "file": "2026-11-11-0828-telegram-update.md",
       "title": "2026-11-11-0828-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.804Z"
     },
     {
       "file": "2026-11-11-0130-telegram-update.md",
       "title": "2026-11-11-0130-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.804Z"
     },
     {
       "file": "2026-11-10-2037-telegram-update.md",
       "title": "2026-11-10-2037-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.804Z"
     },
     {
       "file": "2026-11-10-1348-telegram-update.md",
       "title": "2026-11-10-1348-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.804Z"
     },
     {
       "file": "2026-11-10-0351-telegram-update.md",
       "title": "2026-11-10-0351-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.804Z"
     },
     {
       "file": "2026-11-09-2013-telegram-update.md",
       "title": "2026-11-09-2013-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.804Z"
     },
     {
       "file": "2026-11-09-0844-telegram-update.md",
       "title": "2026-11-09-0844-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.804Z"
     },
     {
       "file": "2026-11-08-2123-telegram-update.md",
       "title": "2026-11-08-2123-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.804Z"
     },
     {
       "file": "2026-11-08-1623-telegram-update.md",
       "title": "2026-11-08-1623-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.804Z"
     },
     {
       "file": "2026-11-08-0804-telegram-update.md",
       "title": "2026-11-08-0804-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.804Z"
     },
     {
       "file": "2026-11-07-2106-telegram-update.md",
       "title": "2026-11-07-2106-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.804Z"
     },
     {
       "file": "2026-11-07-1556-telegram-update.md",
       "title": "2026-11-07-1556-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.804Z"
     },
     {
       "file": "2026-11-07-0751-telegram-update.md",
       "title": "2026-11-07-0751-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.804Z"
     },
     {
       "file": "2026-11-06-2226-telegram-update.md",
       "title": "2026-11-06-2226-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.804Z"
     },
     {
       "file": "2026-11-06-1658-telegram-update.md",
       "title": "2026-11-06-1658-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.804Z"
     },
     {
       "file": "2026-11-06-0835-telegram-update.md",
       "title": "2026-11-06-0835-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.804Z"
     },
     {
       "file": "2026-11-05-2256-telegram-update.md",
       "title": "2026-11-05-2256-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.804Z"
     },
     {
       "file": "2026-11-05-1742-telegram-update.md",
       "title": "2026-11-05-1742-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.804Z"
     },
     {
       "file": "2026-11-05-0836-telegram-update.md",
       "title": "2026-11-05-0836-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.804Z"
     },
     {
       "file": "2026-11-04-2255-telegram-update.md",
       "title": "2026-11-04-2255-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.804Z"
     },
     {
       "file": "2026-11-04-1737-telegram-update.md",
       "title": "2026-11-04-1737-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.804Z"
     },
     {
       "file": "2026-11-04-0810-telegram-update.md",
       "title": "2026-11-04-0810-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.804Z"
     },
     {
       "file": "2026-11-04-0143-telegram-update.md",
       "title": "2026-11-04-0143-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.804Z"
     },
     {
       "file": "2026-11-03-2018-telegram-update.md",
       "title": "2026-11-03-2018-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.804Z"
     },
     {
       "file": "2026-11-03-1302-telegram-update.md",
       "title": "2026-11-03-1302-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.804Z"
     },
     {
       "file": "2026-11-03-0306-telegram-update.md",
       "title": "2026-11-03-0306-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.804Z"
     },
     {
       "file": "2026-11-02-1950-telegram-update.md",
       "title": "2026-11-02-1950-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.804Z"
     },
     {
       "file": "2026-11-02-0826-telegram-update.md",
       "title": "2026-11-02-0826-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.804Z"
     },
     {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.804Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.804Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.804Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.804Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.804Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.804Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.804Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.804Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.804Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.804Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.804Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.804Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.804Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.804Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.804Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.804Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.804Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.804Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-14T16:10:11.677Z"
+      "updatedAt": "2026-11-14T21:41:34.804Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-14T16:10:11.676Z"
+      "updatedAt": "2026-11-14T21:41:34.803Z"
     }
   ]
 }
