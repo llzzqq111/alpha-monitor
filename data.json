@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-13T22:55:50.986Z",
+  "generatedAt": "2026-11-14T08:09:10.534Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 40842,
-    "lastMessageAt": "2026-11-13T21:54:47+00:00",
-    "lastCheckedAt": "2026-11-13T22:55:50.824Z",
-    "previousMessageId": 40823,
-    "pagesRead": 1,
-    "messagesRead": 19,
-    "newProjectRecords": 1,
+    "lastMessageId": 40890,
+    "lastMessageAt": "2026-11-14T07:09:58+00:00",
+    "lastCheckedAt": "2026-11-14T08:09:10.337Z",
+    "previousMessageId": 40842,
+    "pagesRead": 3,
+    "messagesRead": 48,
+    "newProjectRecords": 3,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 879,
+    "telegramRows": 882,
     "xRows": 0,
-    "projects": 542,
+    "projects": 544,
     "crossSource": 0
   },
   "projects": [
@@ -5406,6 +5406,64 @@
       "avatarUrl": ""
     },
     {
+      "project": "Tenjo",
+      "account": "tenjofinance",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse",
+        "unsynned",
+        "well"
+      ],
+      "tgAlphas": [
+        "BearzVerse",
+        "unsynned",
+        "well"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-11-12T15:57:12+00:00",
+      "lastSeen": "2026-11-14T01:07:48+00:00",
+      "description": "Upside loans on tokenized stocks",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Tenjo",
+          "account": "tenjofinance",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-12T15:57:12+00:00",
+          "messageId": "dodtwitterbot/40749",
+          "description": "Upside loans on tokenized stocks",
+          "text": "Upside loans on tokenized stocks"
+        },
+        {
+          "source": "TG",
+          "project": "Tenjo",
+          "account": "tenjofinance",
+          "alpha": "BearzVerse",
+          "seenAt": "2026-11-13T03:43:55+00:00",
+          "messageId": "dodtwitterbot/40779",
+          "description": "Upside loans on tokenized stocks",
+          "text": "Upside loans on tokenized stocks"
+        },
+        {
+          "source": "TG",
+          "project": "Tenjo",
+          "account": "tenjofinance",
+          "alpha": "well",
+          "seenAt": "2026-11-14T01:07:48+00:00",
+          "messageId": "dodtwitterbot/40846",
+          "description": "Upside loans on tokenized stocks",
+          "text": "Upside loans on tokenized stocks"
+        }
+      ],
+      "text": " Tenjo tenjofinance Upside loans on tokenized stocks Tenjo tenjofinance Upside loans on tokenized stocks Tenjo tenjofinance Upside loans on tokenized stocks",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Tick",
       "account": "tick_fivebar",
       "sources": [
@@ -9763,52 +9821,6 @@
         }
       ],
       "text": " Syntropic Agent SyntropicAgent An agent, developing & powering Real World Flywheels via Syntropic Farming, leveraging the @KokonutNetwork Framework. Syntropic Agent SyntropicAgent An agent, developing & powering Real World Flywheels via Syntropic Farming, leveraging the @KokonutNetwork Framework.",
-      "score": 4,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Tenjo",
-      "account": "tenjofinance",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "BearzVerse",
-        "unsynned"
-      ],
-      "tgAlphas": [
-        "BearzVerse",
-        "unsynned"
-      ],
-      "xAlphas": [],
-      "mentions": 2,
-      "firstSeen": "2026-11-12T15:57:12+00:00",
-      "lastSeen": "2026-11-13T03:43:55+00:00",
-      "description": "Upside loans on tokenized stocks",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Tenjo",
-          "account": "tenjofinance",
-          "alpha": "unsynned",
-          "seenAt": "2026-11-12T15:57:12+00:00",
-          "messageId": "dodtwitterbot/40749",
-          "description": "Upside loans on tokenized stocks",
-          "text": "Upside loans on tokenized stocks"
-        },
-        {
-          "source": "TG",
-          "project": "Tenjo",
-          "account": "tenjofinance",
-          "alpha": "BearzVerse",
-          "seenAt": "2026-11-13T03:43:55+00:00",
-          "messageId": "dodtwitterbot/40779",
-          "description": "Upside loans on tokenized stocks",
-          "text": "Upside loans on tokenized stocks"
-        }
-      ],
-      "text": " Tenjo tenjofinance Upside loans on tokenized stocks Tenjo tenjofinance Upside loans on tokenized stocks",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -16100,6 +16112,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "KOSMIK",
+      "account": "kosmikprivacy",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-14T01:30:52+00:00",
+      "lastSeen": "2026-11-14T01:30:52+00:00",
+      "description": "Private AI inference for the masses. Live now.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "KOSMIK",
+          "account": "kosmikprivacy",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-14T01:30:52+00:00",
+          "messageId": "dodtwitterbot/40847",
+          "description": "Private AI inference for the masses. Live now.",
+          "text": "Private AI inference for the masses. Live now."
+        }
+      ],
+      "text": " KOSMIK kosmikprivacy Private AI inference for the masses. Live now.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "KOVIN SEGNOCCHI",
       "account": "kovinsegnocchi",
       "sources": [
@@ -17761,6 +17807,40 @@
         }
       ],
       "text": " NovaPier NovaPierxyz Fair token launches with scheduled bidding, creator earnings, and one token across Robinhood Chain, BNB, Arc & Base",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Numen Cash",
+      "account": "numencash",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "speest 💎"
+      ],
+      "tgAlphas": [
+        "speest 💎"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-14T06:47:53+00:00",
+      "lastSeen": "2026-11-14T06:47:53+00:00",
+      "description": "Launch tokens that think on @GIWA_by_Upbit . Each wakes with a mind of its own.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Numen Cash",
+          "account": "numencash",
+          "alpha": "speest 💎",
+          "seenAt": "2026-11-14T06:47:53+00:00",
+          "messageId": "dodtwitterbot/40887",
+          "description": "Launch tokens that think on @GIWA_by_Upbit . Each wakes with a mind of its own.",
+          "text": "Launch tokens that think on @GIWA_by_Upbit . Each wakes with a mind of its own."
+        }
+      ],
+      "text": " Numen Cash numencash Launch tokens that think on @GIWA_by_Upbit . Each wakes with a mind of its own.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -23827,6 +23907,22 @@
       "avatarUrl": ""
     },
     {
+      "project": "Tenjo",
+      "x_account": "tenjofinance",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "BearzVerse",
+        "unsynned",
+        "well"
+      ],
+      "description": "Upside loans on tokenized stocks",
+      "first_seen_utc": "2026-11-12T15:57:12+00:00",
+      "last_seen_utc": "2026-11-14T01:07:48+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
       "project": "Tick",
       "x_account": "tick_fivebar",
       "total_mentions": 3,
@@ -25225,21 +25321,6 @@
       "description": "An agent, developing & powering Real World Flywheels via Syntropic Farming, leveraging the @KokonutNetwork Framework.",
       "first_seen_utc": "2026-11-03T21:43:31+00:00",
       "last_seen_utc": "2026-11-04T02:48:46+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Tenjo",
-      "x_account": "tenjofinance",
-      "total_mentions": 2,
-      "unique_alphas": 2,
-      "alphas": [
-        "BearzVerse",
-        "unsynned"
-      ],
-      "description": "Upside loans on tokenized stocks",
-      "first_seen_utc": "2026-11-12T15:57:12+00:00",
-      "last_seen_utc": "2026-11-13T03:43:55+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -27789,6 +27870,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "KOSMIK",
+      "x_account": "kosmikprivacy",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "unsynned"
+      ],
+      "description": "Private AI inference for the masses. Live now.",
+      "first_seen_utc": "2026-11-14T01:30:52+00:00",
+      "last_seen_utc": "2026-11-14T01:30:52+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "KOVIN SEGNOCCHI",
       "x_account": "kovinsegnocchi",
       "total_mentions": 1,
@@ -28471,6 +28566,20 @@
       "description": "Fair token launches with scheduled bidding, creator earnings, and one token across Robinhood Chain, BNB, Arc & Base",
       "first_seen_utc": "2026-11-01T16:39:59+00:00",
       "last_seen_utc": "2026-11-01T16:39:59+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Numen Cash",
+      "x_account": "numencash",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "speest 💎"
+      ],
+      "description": "Launch tokens that think on @GIWA_by_Upbit . Each wakes with a mind of its own.",
+      "first_seen_utc": "2026-11-14T06:47:53+00:00",
+      "last_seen_utc": "2026-11-14T06:47:53+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -30424,13 +30533,13 @@
   "daily": [
     {
       "date": "2026-11-14",
-      "totalRows": 1,
-      "projectCount": 1,
+      "totalRows": 4,
+      "projectCount": 4,
       "focusCount": 0,
-      "candidateCount": 1,
+      "candidateCount": 4,
       "crossSource": 0,
-      "newCount": 1,
-      "repeatCount": 0,
+      "newCount": 3,
+      "repeatCount": 1,
       "projects": [
         {
           "project": "Gangstaz Taking All",
@@ -30466,6 +30575,111 @@
           "displayTier": "candidate",
           "avatarUrl": "",
           "dayStatus": "new"
+        },
+        {
+          "project": "KOSMIK",
+          "account": "kosmikprivacy",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-14T01:30:52+00:00",
+          "lastSeen": "2026-11-14T01:30:52+00:00",
+          "description": "Private AI inference for the masses. Live now.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "KOSMIK",
+              "account": "kosmikprivacy",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-14T01:30:52+00:00",
+              "messageId": "dodtwitterbot/40847",
+              "description": "Private AI inference for the masses. Live now.",
+              "text": "Private AI inference for the masses. Live now."
+            }
+          ],
+          "text": " KOSMIK kosmikprivacy Private AI inference for the masses. Live now.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Numen Cash",
+          "account": "numencash",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "speest 💎"
+          ],
+          "tgAlphas": [
+            "speest 💎"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-14T06:47:53+00:00",
+          "lastSeen": "2026-11-14T06:47:53+00:00",
+          "description": "Launch tokens that think on @GIWA_by_Upbit . Each wakes with a mind of its own.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Numen Cash",
+              "account": "numencash",
+              "alpha": "speest 💎",
+              "seenAt": "2026-11-14T06:47:53+00:00",
+              "messageId": "dodtwitterbot/40887",
+              "description": "Launch tokens that think on @GIWA_by_Upbit . Each wakes with a mind of its own.",
+              "text": "Launch tokens that think on @GIWA_by_Upbit . Each wakes with a mind of its own."
+            }
+          ],
+          "text": " Numen Cash numencash Launch tokens that think on @GIWA_by_Upbit . Each wakes with a mind of its own.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Tenjo",
+          "account": "tenjofinance",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "well"
+          ],
+          "tgAlphas": [
+            "well"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-14T01:07:48+00:00",
+          "lastSeen": "2026-11-14T01:07:48+00:00",
+          "description": "Upside loans on tokenized stocks",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Tenjo",
+              "account": "tenjofinance",
+              "alpha": "well",
+              "seenAt": "2026-11-14T01:07:48+00:00",
+              "messageId": "dodtwitterbot/40846",
+              "description": "Upside loans on tokenized stocks",
+              "text": "Upside loans on tokenized stocks"
+            }
+          ],
+          "text": " Tenjo tenjofinance Upside loans on tokenized stocks",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
         }
       ]
     },
@@ -57427,284 +57641,289 @@
   ],
   "reports": [
     {
+      "file": "2026-11-14-0809-telegram-update.md",
+      "title": "2026-11-14-0809-telegram-update",
+      "updatedAt": "2026-11-14T08:09:10.337Z"
+    },
+    {
       "file": "2026-11-13-2255-telegram-update.md",
       "title": "2026-11-13-2255-telegram-update",
-      "updatedAt": "2026-11-13T22:55:50.823Z"
+      "updatedAt": "2026-11-14T08:09:07.299Z"
     },
     {
       "file": "2026-11-13-1724-telegram-update.md",
       "title": "2026-11-13-1724-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.385Z"
+      "updatedAt": "2026-11-14T08:09:07.299Z"
     },
     {
       "file": "2026-11-13-0849-telegram-update.md",
       "title": "2026-11-13-0849-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.385Z"
+      "updatedAt": "2026-11-14T08:09:07.299Z"
     },
     {
       "file": "2026-11-12-2254-telegram-update.md",
       "title": "2026-11-12-2254-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.385Z"
+      "updatedAt": "2026-11-14T08:09:07.299Z"
     },
     {
       "file": "2026-11-12-1746-telegram-update.md",
       "title": "2026-11-12-1746-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.385Z"
+      "updatedAt": "2026-11-14T08:09:07.299Z"
     },
     {
       "file": "2026-11-12-0853-telegram-update.md",
       "title": "2026-11-12-0853-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.385Z"
+      "updatedAt": "2026-11-14T08:09:07.299Z"
     },
     {
       "file": "2026-11-11-2344-telegram-update.md",
       "title": "2026-11-11-2344-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.385Z"
+      "updatedAt": "2026-11-14T08:09:07.299Z"
     },
     {
       "file": "2026-11-11-1729-telegram-update.md",
       "title": "2026-11-11-1729-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.385Z"
+      "updatedAt": "2026-11-14T08:09:07.299Z"
     },
     {
       "file": "2026-11-11-0828-telegram-update.md",
       "title": "2026-11-11-0828-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.385Z"
+      "updatedAt": "2026-11-14T08:09:07.299Z"
     },
     {
       "file": "2026-11-11-0130-telegram-update.md",
       "title": "2026-11-11-0130-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.385Z"
+      "updatedAt": "2026-11-14T08:09:07.299Z"
     },
     {
       "file": "2026-11-10-2037-telegram-update.md",
       "title": "2026-11-10-2037-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.385Z"
+      "updatedAt": "2026-11-14T08:09:07.299Z"
     },
     {
       "file": "2026-11-10-1348-telegram-update.md",
       "title": "2026-11-10-1348-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.385Z"
+      "updatedAt": "2026-11-14T08:09:07.299Z"
     },
     {
       "file": "2026-11-10-0351-telegram-update.md",
       "title": "2026-11-10-0351-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.385Z"
+      "updatedAt": "2026-11-14T08:09:07.299Z"
     },
     {
       "file": "2026-11-09-2013-telegram-update.md",
       "title": "2026-11-09-2013-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.385Z"
+      "updatedAt": "2026-11-14T08:09:07.299Z"
     },
     {
       "file": "2026-11-09-0844-telegram-update.md",
       "title": "2026-11-09-0844-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.385Z"
+      "updatedAt": "2026-11-14T08:09:07.299Z"
     },
     {
       "file": "2026-11-08-2123-telegram-update.md",
       "title": "2026-11-08-2123-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.385Z"
+      "updatedAt": "2026-11-14T08:09:07.299Z"
     },
     {
       "file": "2026-11-08-1623-telegram-update.md",
       "title": "2026-11-08-1623-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.385Z"
+      "updatedAt": "2026-11-14T08:09:07.299Z"
     },
     {
       "file": "2026-11-08-0804-telegram-update.md",
       "title": "2026-11-08-0804-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.385Z"
+      "updatedAt": "2026-11-14T08:09:07.299Z"
     },
     {
       "file": "2026-11-07-2106-telegram-update.md",
       "title": "2026-11-07-2106-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.384Z"
+      "updatedAt": "2026-11-14T08:09:07.299Z"
     },
     {
       "file": "2026-11-07-1556-telegram-update.md",
       "title": "2026-11-07-1556-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.384Z"
+      "updatedAt": "2026-11-14T08:09:07.299Z"
     },
     {
       "file": "2026-11-07-0751-telegram-update.md",
       "title": "2026-11-07-0751-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.384Z"
+      "updatedAt": "2026-11-14T08:09:07.299Z"
     },
     {
       "file": "2026-11-06-2226-telegram-update.md",
       "title": "2026-11-06-2226-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.384Z"
+      "updatedAt": "2026-11-14T08:09:07.299Z"
     },
     {
       "file": "2026-11-06-1658-telegram-update.md",
       "title": "2026-11-06-1658-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.384Z"
+      "updatedAt": "2026-11-14T08:09:07.299Z"
     },
     {
       "file": "2026-11-06-0835-telegram-update.md",
       "title": "2026-11-06-0835-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.384Z"
+      "updatedAt": "2026-11-14T08:09:07.299Z"
     },
     {
       "file": "2026-11-05-2256-telegram-update.md",
       "title": "2026-11-05-2256-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.384Z"
+      "updatedAt": "2026-11-14T08:09:07.299Z"
     },
     {
       "file": "2026-11-05-1742-telegram-update.md",
       "title": "2026-11-05-1742-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.384Z"
+      "updatedAt": "2026-11-14T08:09:07.299Z"
     },
     {
       "file": "2026-11-05-0836-telegram-update.md",
       "title": "2026-11-05-0836-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.384Z"
+      "updatedAt": "2026-11-14T08:09:07.299Z"
     },
     {
       "file": "2026-11-04-2255-telegram-update.md",
       "title": "2026-11-04-2255-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.384Z"
+      "updatedAt": "2026-11-14T08:09:07.299Z"
     },
     {
       "file": "2026-11-04-1737-telegram-update.md",
       "title": "2026-11-04-1737-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.384Z"
+      "updatedAt": "2026-11-14T08:09:07.299Z"
     },
     {
       "file": "2026-11-04-0810-telegram-update.md",
       "title": "2026-11-04-0810-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.384Z"
+      "updatedAt": "2026-11-14T08:09:07.299Z"
     },
     {
       "file": "2026-11-04-0143-telegram-update.md",
       "title": "2026-11-04-0143-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.384Z"
+      "updatedAt": "2026-11-14T08:09:07.299Z"
     },
     {
       "file": "2026-11-03-2018-telegram-update.md",
       "title": "2026-11-03-2018-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.384Z"
+      "updatedAt": "2026-11-14T08:09:07.299Z"
     },
     {
       "file": "2026-11-03-1302-telegram-update.md",
       "title": "2026-11-03-1302-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.384Z"
+      "updatedAt": "2026-11-14T08:09:07.299Z"
     },
     {
       "file": "2026-11-03-0306-telegram-update.md",
       "title": "2026-11-03-0306-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.384Z"
+      "updatedAt": "2026-11-14T08:09:07.299Z"
     },
     {
       "file": "2026-11-02-1950-telegram-update.md",
       "title": "2026-11-02-1950-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.384Z"
+      "updatedAt": "2026-11-14T08:09:07.299Z"
     },
     {
       "file": "2026-11-02-0826-telegram-update.md",
       "title": "2026-11-02-0826-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.384Z"
+      "updatedAt": "2026-11-14T08:09:07.298Z"
     },
     {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.384Z"
+      "updatedAt": "2026-11-14T08:09:07.298Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.384Z"
+      "updatedAt": "2026-11-14T08:09:07.298Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.384Z"
+      "updatedAt": "2026-11-14T08:09:07.298Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.384Z"
+      "updatedAt": "2026-11-14T08:09:07.298Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.384Z"
+      "updatedAt": "2026-11-14T08:09:07.298Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.384Z"
+      "updatedAt": "2026-11-14T08:09:07.298Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.384Z"
+      "updatedAt": "2026-11-14T08:09:07.298Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.384Z"
+      "updatedAt": "2026-11-14T08:09:07.298Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.384Z"
+      "updatedAt": "2026-11-14T08:09:07.298Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.384Z"
+      "updatedAt": "2026-11-14T08:09:07.298Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.384Z"
+      "updatedAt": "2026-11-14T08:09:07.298Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.384Z"
+      "updatedAt": "2026-11-14T08:09:07.298Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.384Z"
+      "updatedAt": "2026-11-14T08:09:07.298Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.384Z"
+      "updatedAt": "2026-11-14T08:09:07.298Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.384Z"
+      "updatedAt": "2026-11-14T08:09:07.298Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.384Z"
+      "updatedAt": "2026-11-14T08:09:07.298Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.384Z"
+      "updatedAt": "2026-11-14T08:09:07.298Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.384Z"
+      "updatedAt": "2026-11-14T08:09:07.298Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-13T22:55:45.384Z"
+      "updatedAt": "2026-11-14T08:09:07.298Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-13T22:55:45.383Z"
+      "updatedAt": "2026-11-14T08:09:07.298Z"
     }
   ]
 }
