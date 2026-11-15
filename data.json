@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-15T08:28:53.597Z",
+  "generatedAt": "2026-11-15T16:39:14.195Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 41013,
-    "lastMessageAt": "2026-11-15T07:51:27+00:00",
-    "lastCheckedAt": "2026-11-15T08:28:53.429Z",
-    "previousMessageId": 40961,
-    "pagesRead": 3,
-    "messagesRead": 52,
-    "newProjectRecords": 21,
+    "lastMessageId": 41045,
+    "lastMessageAt": "2026-11-15T16:21:04+00:00",
+    "lastCheckedAt": "2026-11-15T16:39:13.997Z",
+    "previousMessageId": 41013,
+    "pagesRead": 2,
+    "messagesRead": 32,
+    "newProjectRecords": 6,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 925,
+    "telegramRows": 931,
     "xRows": 0,
-    "projects": 569,
+    "projects": 571,
     "crossSource": 0
   },
   "projects": [
@@ -1934,6 +1934,88 @@
       "avatarUrl": ""
     },
     {
+      "project": "Tzero",
+      "account": "T0dotfun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "speest 💎",
+        "unsynned",
+        "well",
+        "zyy",
+        "黑客fa1r"
+      ],
+      "tgAlphas": [
+        "speest 💎",
+        "unsynned",
+        "well",
+        "zyy",
+        "黑客fa1r"
+      ],
+      "xAlphas": [],
+      "mentions": 5,
+      "firstSeen": "2026-11-02T11:33:42+00:00",
+      "lastSeen": "2026-11-15T15:35:00+00:00",
+      "description": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Tzero",
+          "account": "T0dotfun",
+          "alpha": "zyy",
+          "seenAt": "2026-11-02T11:33:42+00:00",
+          "messageId": "dodtwitterbot/39235",
+          "description": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
+          "text": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet."
+        },
+        {
+          "source": "TG",
+          "project": "Tzero",
+          "account": "T0dotfun",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-09T20:18:14+00:00",
+          "messageId": "dodtwitterbot/40463",
+          "description": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
+          "text": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet."
+        },
+        {
+          "source": "TG",
+          "project": "Tzero",
+          "account": "T0dotfun",
+          "alpha": "speest 💎",
+          "seenAt": "2026-11-15T00:49:01+00:00",
+          "messageId": "dodtwitterbot/40960",
+          "description": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
+          "text": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet."
+        },
+        {
+          "source": "TG",
+          "project": "Tzero",
+          "account": "T0dotfun",
+          "alpha": "well",
+          "seenAt": "2026-11-15T07:34:20+00:00",
+          "messageId": "dodtwitterbot/41006",
+          "description": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
+          "text": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet."
+        },
+        {
+          "source": "TG",
+          "project": "Tzero",
+          "account": "T0dotfun",
+          "alpha": "黑客fa1r",
+          "seenAt": "2026-11-15T15:35:00+00:00",
+          "messageId": "dodtwitterbot/41044",
+          "description": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
+          "text": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet."
+        }
+      ],
+      "text": " Tzero T0dotfun The first launchpad on the last blockchain. Live on Zero Chain at mainnet. Tzero T0dotfun The first launchpad on the last blockchain. Live on Zero Chain at mainnet. Tzero T0dotfun The first launchpad on the last blockchain. Live on Zero Chain at mainnet. Tzero T0dotfun The first launchpad on the last blockchain. Live on Zero Chain at mainnet. Tzero T0dotfun The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
+      "score": 10,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Agora",
       "account": "agora_elysium",
       "sources": [
@@ -2984,71 +3066,71 @@
       "avatarUrl": ""
     },
     {
-      "project": "Tzero",
-      "account": "T0dotfun",
+      "project": "Sifr",
+      "account": "sifrswap",
       "sources": [
         "TG"
       ],
       "alphas": [
-        "speest 💎",
-        "unsynned",
+        "hit.ink",
         "well",
-        "zyy"
+        "发誓要做永赚大师",
+        "阿宏"
       ],
       "tgAlphas": [
-        "speest 💎",
-        "unsynned",
+        "hit.ink",
         "well",
-        "zyy"
+        "发誓要做永赚大师",
+        "阿宏"
       ],
       "xAlphas": [],
       "mentions": 4,
-      "firstSeen": "2026-11-02T11:33:42+00:00",
-      "lastSeen": "2026-11-15T07:34:20+00:00",
-      "description": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
+      "firstSeen": "2026-11-14T17:28:26+00:00",
+      "lastSeen": "2026-11-15T11:25:51+00:00",
+      "description": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one.",
       "rows": [
         {
           "source": "TG",
-          "project": "Tzero",
-          "account": "T0dotfun",
-          "alpha": "zyy",
-          "seenAt": "2026-11-02T11:33:42+00:00",
-          "messageId": "dodtwitterbot/39235",
-          "description": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
-          "text": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet."
+          "project": "Sifr",
+          "account": "sifrswap",
+          "alpha": "hit.ink",
+          "seenAt": "2026-11-14T17:28:26+00:00",
+          "messageId": "dodtwitterbot/40943",
+          "description": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one.",
+          "text": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one."
         },
         {
           "source": "TG",
-          "project": "Tzero",
-          "account": "T0dotfun",
-          "alpha": "unsynned",
-          "seenAt": "2026-11-09T20:18:14+00:00",
-          "messageId": "dodtwitterbot/40463",
-          "description": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
-          "text": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet."
+          "project": "Sifr",
+          "account": "sifrswap",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-15T04:42:47+00:00",
+          "messageId": "dodtwitterbot/40977",
+          "description": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one.",
+          "text": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one."
         },
         {
           "source": "TG",
-          "project": "Tzero",
-          "account": "T0dotfun",
-          "alpha": "speest 💎",
-          "seenAt": "2026-11-15T00:49:01+00:00",
-          "messageId": "dodtwitterbot/40960",
-          "description": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
-          "text": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet."
-        },
-        {
-          "source": "TG",
-          "project": "Tzero",
-          "account": "T0dotfun",
+          "project": "Sifr",
+          "account": "sifrswap",
           "alpha": "well",
-          "seenAt": "2026-11-15T07:34:20+00:00",
-          "messageId": "dodtwitterbot/41006",
-          "description": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
-          "text": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet."
+          "seenAt": "2026-11-15T07:31:29+00:00",
+          "messageId": "dodtwitterbot/41003",
+          "description": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one.",
+          "text": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one."
+        },
+        {
+          "source": "TG",
+          "project": "Sifr",
+          "account": "sifrswap",
+          "alpha": "发誓要做永赚大师",
+          "seenAt": "2026-11-15T11:25:51+00:00",
+          "messageId": "dodtwitterbot/41039",
+          "description": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one.",
+          "text": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one."
         }
       ],
-      "text": " Tzero T0dotfun The first launchpad on the last blockchain. Live on Zero Chain at mainnet. Tzero T0dotfun The first launchpad on the last blockchain. Live on Zero Chain at mainnet. Tzero T0dotfun The first launchpad on the last blockchain. Live on Zero Chain at mainnet. Tzero T0dotfun The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
+      "text": " Sifr sifrswap The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one. Sifr sifrswap The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one. Sifr sifrswap The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one. Sifr sifrswap The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one.",
       "score": 8,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -5374,64 +5456,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Sifr",
-      "account": "sifrswap",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "hit.ink",
-        "well",
-        "阿宏"
-      ],
-      "tgAlphas": [
-        "hit.ink",
-        "well",
-        "阿宏"
-      ],
-      "xAlphas": [],
-      "mentions": 3,
-      "firstSeen": "2026-11-14T17:28:26+00:00",
-      "lastSeen": "2026-11-15T07:31:29+00:00",
-      "description": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Sifr",
-          "account": "sifrswap",
-          "alpha": "hit.ink",
-          "seenAt": "2026-11-14T17:28:26+00:00",
-          "messageId": "dodtwitterbot/40943",
-          "description": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one.",
-          "text": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one."
-        },
-        {
-          "source": "TG",
-          "project": "Sifr",
-          "account": "sifrswap",
-          "alpha": "阿宏",
-          "seenAt": "2026-11-15T04:42:47+00:00",
-          "messageId": "dodtwitterbot/40977",
-          "description": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one.",
-          "text": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one."
-        },
-        {
-          "source": "TG",
-          "project": "Sifr",
-          "account": "sifrswap",
-          "alpha": "well",
-          "seenAt": "2026-11-15T07:31:29+00:00",
-          "messageId": "dodtwitterbot/41003",
-          "description": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one.",
-          "text": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one."
-        }
-      ],
-      "text": " Sifr sifrswap The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one. Sifr sifrswap The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one. Sifr sifrswap The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one.",
-      "score": 6,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
       "project": "squeekchain",
       "account": "squeekchain",
       "sources": [
@@ -6065,6 +6089,64 @@
         }
       ],
       "text": " Wraith WraithPrivacy Hyperliquid made private.\nA shade between HyperCore, HyperEVM, Elysium.\nExpanding @Enter_Elysium\n&#036;WRAITH Wraith WraithPrivacy Hyperliquid made private.\nA shade between HyperCore, HyperEVM, Elysium.\nExpanding @Enter_Elysium\n&#036;WRAITH Wraith WraithPrivacy Hyperliquid made private.\nA shade between HyperCore, HyperEVM, Elysium.\nExpanding @Enter_Elysium\n&#036;WRAITH",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Zerolotl",
+      "account": "zerolotl",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "CSR",
+        "发誓要做永赚大师",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "CSR",
+        "发誓要做永赚大师",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-11-14T10:52:57+00:00",
+      "lastSeen": "2026-11-15T11:25:51+00:00",
+      "description": "Every coin starts at Zero. The token launchpad on Zero: launch in one tx, graduate to locked liquidity, choose who earns 70% of the fees",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Zerolotl",
+          "account": "zerolotl",
+          "alpha": "CSR",
+          "seenAt": "2026-11-14T10:52:57+00:00",
+          "messageId": "dodtwitterbot/40895",
+          "description": "Every coin starts at Zero. The token launchpad on Zero: launch in one tx, graduate to locked liquidity, choose who earns 70% of the fees",
+          "text": "Every coin starts at Zero. The token launchpad on Zero: launch in one tx, graduate to locked liquidity, choose who earns 70% of the fees"
+        },
+        {
+          "source": "TG",
+          "project": "Zerolotl",
+          "account": "zerolotl",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-15T04:37:34+00:00",
+          "messageId": "dodtwitterbot/40969",
+          "description": "Every coin starts at Zero. The token launchpad on Zero: launch in one tx, graduate to locked liquidity, choose who earns 70% of the fees",
+          "text": "Every coin starts at Zero. The token launchpad on Zero: launch in one tx, graduate to locked liquidity, choose who earns 70% of the fees"
+        },
+        {
+          "source": "TG",
+          "project": "Zerolotl",
+          "account": "zerolotl",
+          "alpha": "发誓要做永赚大师",
+          "seenAt": "2026-11-15T11:25:51+00:00",
+          "messageId": "dodtwitterbot/41038",
+          "description": "Every coin starts at Zero. The token launchpad on Zero: launch in one tx, graduate to locked liquidity, choose who earns 70% of the fees",
+          "text": "Every coin starts at Zero. The token launchpad on Zero: launch in one tx, graduate to locked liquidity, choose who earns 70% of the fees"
+        }
+      ],
+      "text": " Zerolotl zerolotl Every coin starts at Zero. The token launchpad on Zero: launch in one tx, graduate to locked liquidity, choose who earns 70% of the fees Zerolotl zerolotl Every coin starts at Zero. The token launchpad on Zero: launch in one tx, graduate to locked liquidity, choose who earns 70% of the fees Zerolotl zerolotl Every coin starts at Zero. The token launchpad on Zero: launch in one tx, graduate to locked liquidity, choose who earns 70% of the fees",
       "score": 6,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -8612,6 +8694,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "Layer Zero Ecosystem",
+      "account": "LayerzeroEco",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "unsynned",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-15T04:27:59+00:00",
+      "lastSeen": "2026-11-15T15:25:16+00:00",
+      "description": "scouting every mint, launchpad and memecoin on Zero before you hear about it. mainnet nov 30. @LayerZero_core",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Layer Zero Ecosystem",
+          "account": "LayerzeroEco",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-15T04:27:59+00:00",
+          "messageId": "dodtwitterbot/40964",
+          "description": "scouting every mint, launchpad and memecoin on Zero before you hear about it. mainnet nov 30. @LayerZero_core",
+          "text": "scouting every mint, launchpad and memecoin on Zero before you hear about it. mainnet nov 30. @LayerZero_core"
+        },
+        {
+          "source": "TG",
+          "project": "Layer Zero Ecosystem",
+          "account": "LayerzeroEco",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-15T15:25:16+00:00",
+          "messageId": "dodtwitterbot/41042",
+          "description": "scouting every mint, launchpad and memecoin on Zero before you hear about it. mainnet nov 30. @LayerZero_core",
+          "text": "scouting every mint, launchpad and memecoin on Zero before you hear about it. mainnet nov 30. @LayerZero_core"
+        }
+      ],
+      "text": " Layer Zero Ecosystem LayerzeroEco scouting every mint, launchpad and memecoin on Zero before you hear about it. mainnet nov 30. @LayerZero_core Layer Zero Ecosystem LayerzeroEco scouting every mint, launchpad and memecoin on Zero before you hear about it. mainnet nov 30. @LayerZero_core",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "LayerZero",
       "account": "LayerZero_Core",
       "sources": [
@@ -10728,52 +10856,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Zerolotl",
-      "account": "zerolotl",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "CSR",
-        "阿宏"
-      ],
-      "tgAlphas": [
-        "CSR",
-        "阿宏"
-      ],
-      "xAlphas": [],
-      "mentions": 2,
-      "firstSeen": "2026-11-14T10:52:57+00:00",
-      "lastSeen": "2026-11-15T04:37:34+00:00",
-      "description": "Every coin starts at Zero. The token launchpad on Zero: launch in one tx, graduate to locked liquidity, choose who earns 70% of the fees",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Zerolotl",
-          "account": "zerolotl",
-          "alpha": "CSR",
-          "seenAt": "2026-11-14T10:52:57+00:00",
-          "messageId": "dodtwitterbot/40895",
-          "description": "Every coin starts at Zero. The token launchpad on Zero: launch in one tx, graduate to locked liquidity, choose who earns 70% of the fees",
-          "text": "Every coin starts at Zero. The token launchpad on Zero: launch in one tx, graduate to locked liquidity, choose who earns 70% of the fees"
-        },
-        {
-          "source": "TG",
-          "project": "Zerolotl",
-          "account": "zerolotl",
-          "alpha": "阿宏",
-          "seenAt": "2026-11-15T04:37:34+00:00",
-          "messageId": "dodtwitterbot/40969",
-          "description": "Every coin starts at Zero. The token launchpad on Zero: launch in one tx, graduate to locked liquidity, choose who earns 70% of the fees",
-          "text": "Every coin starts at Zero. The token launchpad on Zero: launch in one tx, graduate to locked liquidity, choose who earns 70% of the fees"
-        }
-      ],
-      "text": " Zerolotl zerolotl Every coin starts at Zero. The token launchpad on Zero: launch in one tx, graduate to locked liquidity, choose who earns 70% of the fees Zerolotl zerolotl Every coin starts at Zero. The token launchpad on Zero: launch in one tx, graduate to locked liquidity, choose who earns 70% of the fees",
-      "score": 4,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
       "project": "币安分红",
       "account": "BiAnFenHong",
       "sources": [
@@ -10849,6 +10931,40 @@
         }
       ],
       "text": " &#036;NEOPRIME NeoprimeCapital Bet on Western Supremacy\n\nTokenized exposure to America's next industrial giants.\n\nBuilt on @hectoinc issued on @Cantonnetwork .",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "0pad.fun",
+      "account": "0padfun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-15T15:25:16+00:00",
+      "lastSeen": "2026-11-15T15:25:16+00:00",
+      "description": "A launchpad for fair token launches, built on @LayerZero_Core",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "0pad.fun",
+          "account": "0padfun",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-15T15:25:16+00:00",
+          "messageId": "dodtwitterbot/41043",
+          "description": "A launchpad for fair token launches, built on @LayerZero_Core",
+          "text": "A launchpad for fair token launches, built on @LayerZero_Core"
+        }
+      ],
+      "text": " 0pad.fun 0padfun A launchpad for fair token launches, built on @LayerZero_Core",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -16702,6 +16818,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "kodziak",
+      "account": "_kodziak",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "发誓要做永赚大师"
+      ],
+      "tgAlphas": [
+        "发誓要做永赚大师"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-15T11:18:59+00:00",
+      "lastSeen": "2026-11-15T11:18:59+00:00",
+      "description": "shill me your product at @inkonchain @nadohq\n\nbullposting on my own",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "kodziak",
+          "account": "_kodziak",
+          "alpha": "发誓要做永赚大师",
+          "seenAt": "2026-11-15T11:18:59+00:00",
+          "messageId": "dodtwitterbot/41034",
+          "description": "shill me your product at @inkonchain @nadohq\n\nbullposting on my own",
+          "text": "shill me your product at @inkonchain @nadohq\n\nbullposting on my own"
+        }
+      ],
+      "text": " kodziak _kodziak shill me your product at @inkonchain @nadohq\n\nbullposting on my own",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "KOSMIK",
       "account": "kosmikprivacy",
       "sources": [
@@ -16969,40 +17119,6 @@
         }
       ],
       "text": " Launch For Good goodlauncher Launch a coin. Fund a charity. Fees from every coin on our Raydium launchpad rotate through https://t.co/1fzY2e2ZJB charities every 3 min, on-chain.",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Layer Zero Ecosystem",
-      "account": "LayerzeroEco",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "阿宏"
-      ],
-      "tgAlphas": [
-        "阿宏"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-15T04:27:59+00:00",
-      "lastSeen": "2026-11-15T04:27:59+00:00",
-      "description": "scouting every mint, launchpad and memecoin on Zero before you hear about it. mainnet nov 30. @LayerZero_core",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Layer Zero Ecosystem",
-          "account": "LayerzeroEco",
-          "alpha": "阿宏",
-          "seenAt": "2026-11-15T04:27:59+00:00",
-          "messageId": "dodtwitterbot/40964",
-          "description": "scouting every mint, launchpad and memecoin on Zero before you hear about it. mainnet nov 30. @LayerZero_core",
-          "text": "scouting every mint, launchpad and memecoin on Zero before you hear about it. mainnet nov 30. @LayerZero_core"
-        }
-      ],
-      "text": " Layer Zero Ecosystem LayerzeroEco scouting every mint, launchpad and memecoin on Zero before you hear about it. mainnet nov 30. @LayerZero_core",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -24036,6 +24152,24 @@
       "avatarUrl": ""
     },
     {
+      "project": "Tzero",
+      "x_account": "T0dotfun",
+      "total_mentions": 5,
+      "unique_alphas": 5,
+      "alphas": [
+        "speest 💎",
+        "unsynned",
+        "well",
+        "zyy",
+        "黑客fa1r"
+      ],
+      "description": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
+      "first_seen_utc": "2026-11-02T11:33:42+00:00",
+      "last_seen_utc": "2026-11-15T15:35:00+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
       "project": "Agora",
       "x_account": "agora_elysium",
       "total_mentions": 4,
@@ -24291,19 +24425,19 @@
       "avatarUrl": ""
     },
     {
-      "project": "Tzero",
-      "x_account": "T0dotfun",
+      "project": "Sifr",
+      "x_account": "sifrswap",
       "total_mentions": 4,
       "unique_alphas": 4,
       "alphas": [
-        "speest 💎",
-        "unsynned",
+        "hit.ink",
         "well",
-        "zyy"
+        "发誓要做永赚大师",
+        "阿宏"
       ],
-      "description": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
-      "first_seen_utc": "2026-11-02T11:33:42+00:00",
-      "last_seen_utc": "2026-11-15T07:34:20+00:00",
+      "description": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one.",
+      "first_seen_utc": "2026-11-14T17:28:26+00:00",
+      "last_seen_utc": "2026-11-15T11:25:51+00:00",
       "status": "priority",
       "avatarUrl": ""
     },
@@ -24948,22 +25082,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Sifr",
-      "x_account": "sifrswap",
-      "total_mentions": 3,
-      "unique_alphas": 3,
-      "alphas": [
-        "hit.ink",
-        "well",
-        "阿宏"
-      ],
-      "description": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one.",
-      "first_seen_utc": "2026-11-14T17:28:26+00:00",
-      "last_seen_utc": "2026-11-15T07:31:29+00:00",
-      "status": "priority",
-      "avatarUrl": ""
-    },
-    {
       "project": "squeekchain",
       "x_account": "squeekchain",
       "total_mentions": 3,
@@ -25136,6 +25254,22 @@
       "description": "Hyperliquid made private.\nA shade between HyperCore, HyperEVM, Elysium.\nExpanding @Enter_Elysium\n&#036;WRAITH",
       "first_seen_utc": "2026-11-07T05:58:51+00:00",
       "last_seen_utc": "2026-11-09T07:22:48+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Zerolotl",
+      "x_account": "zerolotl",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "CSR",
+        "发誓要做永赚大师",
+        "阿宏"
+      ],
+      "description": "Every coin starts at Zero. The token launchpad on Zero: launch in one tx, graduate to locked liquidity, choose who earns 70% of the fees",
+      "first_seen_utc": "2026-11-14T10:52:57+00:00",
+      "last_seen_utc": "2026-11-15T11:25:51+00:00",
       "status": "priority",
       "avatarUrl": ""
     },
@@ -25966,6 +26100,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "Layer Zero Ecosystem",
+      "x_account": "LayerzeroEco",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "unsynned",
+        "阿宏"
+      ],
+      "description": "scouting every mint, launchpad and memecoin on Zero before you hear about it. mainnet nov 30. @LayerZero_core",
+      "first_seen_utc": "2026-11-15T04:27:59+00:00",
+      "last_seen_utc": "2026-11-15T15:25:16+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "LayerZero",
       "x_account": "LayerZero_Core",
       "total_mentions": 2,
@@ -26656,21 +26805,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Zerolotl",
-      "x_account": "zerolotl",
-      "total_mentions": 2,
-      "unique_alphas": 2,
-      "alphas": [
-        "CSR",
-        "阿宏"
-      ],
-      "description": "Every coin starts at Zero. The token launchpad on Zero: launch in one tx, graduate to locked liquidity, choose who earns 70% of the fees",
-      "first_seen_utc": "2026-11-14T10:52:57+00:00",
-      "last_seen_utc": "2026-11-15T04:37:34+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "币安分红",
       "x_account": "BiAnFenHong",
       "total_mentions": 2,
@@ -26696,6 +26830,20 @@
       "description": "Bet on Western Supremacy\n\nTokenized exposure to America's next industrial giants.\n\nBuilt on @hectoinc issued on @Cantonnetwork .",
       "first_seen_utc": "2026-11-09T16:42:46+00:00",
       "last_seen_utc": "2026-11-09T16:42:46+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "0pad.fun",
+      "x_account": "0padfun",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "unsynned"
+      ],
+      "description": "A launchpad for fair token launches, built on @LayerZero_Core",
+      "first_seen_utc": "2026-11-15T15:25:16+00:00",
+      "last_seen_utc": "2026-11-15T15:25:16+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -29108,6 +29256,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "kodziak",
+      "x_account": "_kodziak",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "发誓要做永赚大师"
+      ],
+      "description": "shill me your product at @inkonchain @nadohq\n\nbullposting on my own",
+      "first_seen_utc": "2026-11-15T11:18:59+00:00",
+      "last_seen_utc": "2026-11-15T11:18:59+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "KOSMIK",
       "x_account": "kosmikprivacy",
       "total_mentions": 1,
@@ -29216,20 +29378,6 @@
       "description": "Launch a coin. Fund a charity. Fees from every coin on our Raydium launchpad rotate through https://t.co/1fzY2e2ZJB charities every 3 min, on-chain.",
       "first_seen_utc": "2026-11-14T17:29:21+00:00",
       "last_seen_utc": "2026-11-14T17:29:21+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Layer Zero Ecosystem",
-      "x_account": "LayerzeroEco",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "阿宏"
-      ],
-      "description": "scouting every mint, launchpad and memecoin on Zero before you hear about it. mainnet nov 30. @LayerZero_core",
-      "first_seen_utc": "2026-11-15T04:27:59+00:00",
-      "last_seen_utc": "2026-11-15T04:27:59+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -31966,13 +32114,24 @@
   ],
   "daily": [
     {
+      "date": "2026-11-16",
+      "totalRows": 0,
+      "projectCount": 0,
+      "focusCount": 0,
+      "candidateCount": 0,
+      "crossSource": 0,
+      "newCount": 0,
+      "repeatCount": 0,
+      "projects": []
+    },
+    {
       "date": "2026-11-15",
-      "totalRows": 29,
-      "projectCount": 23,
-      "focusCount": 5,
+      "totalRows": 35,
+      "projectCount": 25,
+      "focusCount": 7,
       "candidateCount": 18,
       "crossSource": 0,
-      "newCount": 16,
+      "newCount": 18,
       "repeatCount": 7,
       "projects": [
         {
@@ -31984,17 +32143,19 @@
           "alphas": [
             "hit.ink",
             "well",
+            "发誓要做永赚大师",
             "阿宏"
           ],
           "tgAlphas": [
             "hit.ink",
             "well",
+            "发誓要做永赚大师",
             "阿宏"
           ],
           "xAlphas": [],
-          "mentions": 3,
+          "mentions": 4,
           "firstSeen": "2026-11-14T17:28:26+00:00",
-          "lastSeen": "2026-11-15T07:31:29+00:00",
+          "lastSeen": "2026-11-15T11:25:51+00:00",
           "description": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one.",
           "rows": [
             {
@@ -32026,13 +32187,82 @@
               "messageId": "dodtwitterbot/41003",
               "description": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one.",
               "text": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one."
+            },
+            {
+              "source": "TG",
+              "project": "Sifr",
+              "account": "sifrswap",
+              "alpha": "发誓要做永赚大师",
+              "seenAt": "2026-11-15T11:25:51+00:00",
+              "messageId": "dodtwitterbot/41039",
+              "description": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one.",
+              "text": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one."
             }
           ],
-          "text": " Sifr sifrswap The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one. Sifr sifrswap The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one. Sifr sifrswap The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one.",
-          "score": 6,
+          "text": " Sifr sifrswap The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one. Sifr sifrswap The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one. Sifr sifrswap The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one. Sifr sifrswap The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one.",
+          "score": 8,
           "displayTier": "focus",
           "avatarUrl": "",
           "dayStatus": "new"
+        },
+        {
+          "project": "Tzero",
+          "account": "T0dotfun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "speest 💎",
+            "well",
+            "黑客fa1r"
+          ],
+          "tgAlphas": [
+            "speest 💎",
+            "well",
+            "黑客fa1r"
+          ],
+          "xAlphas": [],
+          "mentions": 3,
+          "firstSeen": "2026-11-15T00:49:01+00:00",
+          "lastSeen": "2026-11-15T15:35:00+00:00",
+          "description": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Tzero",
+              "account": "T0dotfun",
+              "alpha": "speest 💎",
+              "seenAt": "2026-11-15T00:49:01+00:00",
+              "messageId": "dodtwitterbot/40960",
+              "description": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
+              "text": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet."
+            },
+            {
+              "source": "TG",
+              "project": "Tzero",
+              "account": "T0dotfun",
+              "alpha": "well",
+              "seenAt": "2026-11-15T07:34:20+00:00",
+              "messageId": "dodtwitterbot/41006",
+              "description": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
+              "text": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet."
+            },
+            {
+              "source": "TG",
+              "project": "Tzero",
+              "account": "T0dotfun",
+              "alpha": "黑客fa1r",
+              "seenAt": "2026-11-15T15:35:00+00:00",
+              "messageId": "dodtwitterbot/41044",
+              "description": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
+              "text": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet."
+            }
+          ],
+          "text": " Tzero T0dotfun The first launchpad on the last blockchain. Live on Zero Chain at mainnet. Tzero T0dotfun The first launchpad on the last blockchain. Live on Zero Chain at mainnet. Tzero T0dotfun The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
+          "score": 6,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
         },
         {
           "project": "000.fun",
@@ -32176,51 +32406,133 @@
           "dayStatus": "repeat"
         },
         {
-          "project": "Tzero",
-          "account": "T0dotfun",
+          "project": "Layer Zero Ecosystem",
+          "account": "LayerzeroEco",
           "sources": [
             "TG"
           ],
           "alphas": [
-            "speest 💎",
-            "well"
+            "unsynned",
+            "阿宏"
           ],
           "tgAlphas": [
-            "speest 💎",
-            "well"
+            "unsynned",
+            "阿宏"
           ],
           "xAlphas": [],
           "mentions": 2,
-          "firstSeen": "2026-11-15T00:49:01+00:00",
-          "lastSeen": "2026-11-15T07:34:20+00:00",
-          "description": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
+          "firstSeen": "2026-11-15T04:27:59+00:00",
+          "lastSeen": "2026-11-15T15:25:16+00:00",
+          "description": "scouting every mint, launchpad and memecoin on Zero before you hear about it. mainnet nov 30. @LayerZero_core",
           "rows": [
             {
               "source": "TG",
-              "project": "Tzero",
-              "account": "T0dotfun",
-              "alpha": "speest 💎",
-              "seenAt": "2026-11-15T00:49:01+00:00",
-              "messageId": "dodtwitterbot/40960",
-              "description": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
-              "text": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet."
+              "project": "Layer Zero Ecosystem",
+              "account": "LayerzeroEco",
+              "alpha": "阿宏",
+              "seenAt": "2026-11-15T04:27:59+00:00",
+              "messageId": "dodtwitterbot/40964",
+              "description": "scouting every mint, launchpad and memecoin on Zero before you hear about it. mainnet nov 30. @LayerZero_core",
+              "text": "scouting every mint, launchpad and memecoin on Zero before you hear about it. mainnet nov 30. @LayerZero_core"
             },
             {
               "source": "TG",
-              "project": "Tzero",
-              "account": "T0dotfun",
-              "alpha": "well",
-              "seenAt": "2026-11-15T07:34:20+00:00",
-              "messageId": "dodtwitterbot/41006",
-              "description": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
-              "text": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet."
+              "project": "Layer Zero Ecosystem",
+              "account": "LayerzeroEco",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-15T15:25:16+00:00",
+              "messageId": "dodtwitterbot/41042",
+              "description": "scouting every mint, launchpad and memecoin on Zero before you hear about it. mainnet nov 30. @LayerZero_core",
+              "text": "scouting every mint, launchpad and memecoin on Zero before you hear about it. mainnet nov 30. @LayerZero_core"
             }
           ],
-          "text": " Tzero T0dotfun The first launchpad on the last blockchain. Live on Zero Chain at mainnet. Tzero T0dotfun The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
+          "text": " Layer Zero Ecosystem LayerzeroEco scouting every mint, launchpad and memecoin on Zero before you hear about it. mainnet nov 30. @LayerZero_core Layer Zero Ecosystem LayerzeroEco scouting every mint, launchpad and memecoin on Zero before you hear about it. mainnet nov 30. @LayerZero_core",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Zerolotl",
+          "account": "zerolotl",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "发誓要做永赚大师",
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "发誓要做永赚大师",
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-11-15T04:37:34+00:00",
+          "lastSeen": "2026-11-15T11:25:51+00:00",
+          "description": "Every coin starts at Zero. The token launchpad on Zero: launch in one tx, graduate to locked liquidity, choose who earns 70% of the fees",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Zerolotl",
+              "account": "zerolotl",
+              "alpha": "阿宏",
+              "seenAt": "2026-11-15T04:37:34+00:00",
+              "messageId": "dodtwitterbot/40969",
+              "description": "Every coin starts at Zero. The token launchpad on Zero: launch in one tx, graduate to locked liquidity, choose who earns 70% of the fees",
+              "text": "Every coin starts at Zero. The token launchpad on Zero: launch in one tx, graduate to locked liquidity, choose who earns 70% of the fees"
+            },
+            {
+              "source": "TG",
+              "project": "Zerolotl",
+              "account": "zerolotl",
+              "alpha": "发誓要做永赚大师",
+              "seenAt": "2026-11-15T11:25:51+00:00",
+              "messageId": "dodtwitterbot/41038",
+              "description": "Every coin starts at Zero. The token launchpad on Zero: launch in one tx, graduate to locked liquidity, choose who earns 70% of the fees",
+              "text": "Every coin starts at Zero. The token launchpad on Zero: launch in one tx, graduate to locked liquidity, choose who earns 70% of the fees"
+            }
+          ],
+          "text": " Zerolotl zerolotl Every coin starts at Zero. The token launchpad on Zero: launch in one tx, graduate to locked liquidity, choose who earns 70% of the fees Zerolotl zerolotl Every coin starts at Zero. The token launchpad on Zero: launch in one tx, graduate to locked liquidity, choose who earns 70% of the fees",
           "score": 4,
           "displayTier": "focus",
           "avatarUrl": "",
           "dayStatus": "repeat"
+        },
+        {
+          "project": "0pad.fun",
+          "account": "0padfun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-15T15:25:16+00:00",
+          "lastSeen": "2026-11-15T15:25:16+00:00",
+          "description": "A launchpad for fair token launches, built on @LayerZero_Core",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "0pad.fun",
+              "account": "0padfun",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-15T15:25:16+00:00",
+              "messageId": "dodtwitterbot/41043",
+              "description": "A launchpad for fair token launches, built on @LayerZero_Core",
+              "text": "A launchpad for fair token launches, built on @LayerZero_Core"
+            }
+          ],
+          "text": " 0pad.fun 0padfun A launchpad for fair token launches, built on @LayerZero_Core",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
         },
         {
           "project": "Clearpump",
@@ -32398,6 +32710,41 @@
           "dayStatus": "repeat"
         },
         {
+          "project": "kodziak",
+          "account": "_kodziak",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "发誓要做永赚大师"
+          ],
+          "tgAlphas": [
+            "发誓要做永赚大师"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-15T11:18:59+00:00",
+          "lastSeen": "2026-11-15T11:18:59+00:00",
+          "description": "shill me your product at @inkonchain @nadohq\n\nbullposting on my own",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "kodziak",
+              "account": "_kodziak",
+              "alpha": "发誓要做永赚大师",
+              "seenAt": "2026-11-15T11:18:59+00:00",
+              "messageId": "dodtwitterbot/41034",
+              "description": "shill me your product at @inkonchain @nadohq\n\nbullposting on my own",
+              "text": "shill me your product at @inkonchain @nadohq\n\nbullposting on my own"
+            }
+          ],
+          "text": " kodziak _kodziak shill me your product at @inkonchain @nadohq\n\nbullposting on my own",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
           "project": "Launch For Good",
           "account": "goodlauncher",
           "sources": [
@@ -32427,41 +32774,6 @@
             }
           ],
           "text": " Launch For Good goodlauncher Launch a coin. Fund a charity. Fees from every coin on our Raydium launchpad rotate through https://t.co/1fzY2e2ZJB charities every 3 min, on-chain.",
-          "score": 2,
-          "displayTier": "candidate",
-          "avatarUrl": "",
-          "dayStatus": "new"
-        },
-        {
-          "project": "Layer Zero Ecosystem",
-          "account": "LayerzeroEco",
-          "sources": [
-            "TG"
-          ],
-          "alphas": [
-            "阿宏"
-          ],
-          "tgAlphas": [
-            "阿宏"
-          ],
-          "xAlphas": [],
-          "mentions": 1,
-          "firstSeen": "2026-11-15T04:27:59+00:00",
-          "lastSeen": "2026-11-15T04:27:59+00:00",
-          "description": "scouting every mint, launchpad and memecoin on Zero before you hear about it. mainnet nov 30. @LayerZero_core",
-          "rows": [
-            {
-              "source": "TG",
-              "project": "Layer Zero Ecosystem",
-              "account": "LayerzeroEco",
-              "alpha": "阿宏",
-              "seenAt": "2026-11-15T04:27:59+00:00",
-              "messageId": "dodtwitterbot/40964",
-              "description": "scouting every mint, launchpad and memecoin on Zero before you hear about it. mainnet nov 30. @LayerZero_core",
-              "text": "scouting every mint, launchpad and memecoin on Zero before you hear about it. mainnet nov 30. @LayerZero_core"
-            }
-          ],
-          "text": " Layer Zero Ecosystem LayerzeroEco scouting every mint, launchpad and memecoin on Zero before you hear about it. mainnet nov 30. @LayerZero_core",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -32711,41 +33023,6 @@
           "displayTier": "candidate",
           "avatarUrl": "",
           "dayStatus": "new"
-        },
-        {
-          "project": "Zerolotl",
-          "account": "zerolotl",
-          "sources": [
-            "TG"
-          ],
-          "alphas": [
-            "阿宏"
-          ],
-          "tgAlphas": [
-            "阿宏"
-          ],
-          "xAlphas": [],
-          "mentions": 1,
-          "firstSeen": "2026-11-15T04:37:34+00:00",
-          "lastSeen": "2026-11-15T04:37:34+00:00",
-          "description": "Every coin starts at Zero. The token launchpad on Zero: launch in one tx, graduate to locked liquidity, choose who earns 70% of the fees",
-          "rows": [
-            {
-              "source": "TG",
-              "project": "Zerolotl",
-              "account": "zerolotl",
-              "alpha": "阿宏",
-              "seenAt": "2026-11-15T04:37:34+00:00",
-              "messageId": "dodtwitterbot/40969",
-              "description": "Every coin starts at Zero. The token launchpad on Zero: launch in one tx, graduate to locked liquidity, choose who earns 70% of the fees",
-              "text": "Every coin starts at Zero. The token launchpad on Zero: launch in one tx, graduate to locked liquidity, choose who earns 70% of the fees"
-            }
-          ],
-          "text": " Zerolotl zerolotl Every coin starts at Zero. The token launchpad on Zero: launch in one tx, graduate to locked liquidity, choose who earns 70% of the fees",
-          "score": 2,
-          "displayTier": "candidate",
-          "avatarUrl": "",
-          "dayStatus": "repeat"
         },
         {
           "project": "ZeroStocks",
@@ -60454,309 +60731,314 @@
   ],
   "reports": [
     {
+      "file": "2026-11-15-1639-telegram-update.md",
+      "title": "2026-11-15-1639-telegram-update",
+      "updatedAt": "2026-11-15T16:39:13.996Z"
+    },
+    {
       "file": "2026-11-15-0828-telegram-update.md",
       "title": "2026-11-15-0828-telegram-update",
-      "updatedAt": "2026-11-15T08:28:53.428Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-11-15-0121-telegram-update.md",
       "title": "2026-11-15-0121-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.749Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-11-14-2141-telegram-update.md",
       "title": "2026-11-14-2141-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-11-14-1610-telegram-update.md",
       "title": "2026-11-14-1610-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-11-14-0809-telegram-update.md",
       "title": "2026-11-14-0809-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-11-13-2255-telegram-update.md",
       "title": "2026-11-13-2255-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-11-13-1724-telegram-update.md",
       "title": "2026-11-13-1724-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-11-13-0849-telegram-update.md",
       "title": "2026-11-13-0849-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-11-12-2254-telegram-update.md",
       "title": "2026-11-12-2254-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-11-12-1746-telegram-update.md",
       "title": "2026-11-12-1746-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-11-12-0853-telegram-update.md",
       "title": "2026-11-12-0853-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-11-11-2344-telegram-update.md",
       "title": "2026-11-11-2344-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-11-11-1729-telegram-update.md",
       "title": "2026-11-11-1729-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-11-11-0828-telegram-update.md",
       "title": "2026-11-11-0828-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-11-11-0130-telegram-update.md",
       "title": "2026-11-11-0130-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-11-10-2037-telegram-update.md",
       "title": "2026-11-10-2037-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-11-10-1348-telegram-update.md",
       "title": "2026-11-10-1348-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-11-10-0351-telegram-update.md",
       "title": "2026-11-10-0351-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-11-09-2013-telegram-update.md",
       "title": "2026-11-09-2013-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-11-09-0844-telegram-update.md",
       "title": "2026-11-09-0844-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-11-08-2123-telegram-update.md",
       "title": "2026-11-08-2123-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-11-08-1623-telegram-update.md",
       "title": "2026-11-08-1623-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-11-08-0804-telegram-update.md",
       "title": "2026-11-08-0804-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-11-07-2106-telegram-update.md",
       "title": "2026-11-07-2106-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-11-07-1556-telegram-update.md",
       "title": "2026-11-07-1556-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-11-07-0751-telegram-update.md",
       "title": "2026-11-07-0751-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-11-06-2226-telegram-update.md",
       "title": "2026-11-06-2226-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-11-06-1658-telegram-update.md",
       "title": "2026-11-06-1658-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-11-06-0835-telegram-update.md",
       "title": "2026-11-06-0835-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-11-05-2256-telegram-update.md",
       "title": "2026-11-05-2256-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-11-05-1742-telegram-update.md",
       "title": "2026-11-05-1742-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-11-05-0836-telegram-update.md",
       "title": "2026-11-05-0836-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-11-04-2255-telegram-update.md",
       "title": "2026-11-04-2255-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-11-04-1737-telegram-update.md",
       "title": "2026-11-04-1737-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-11-04-0810-telegram-update.md",
       "title": "2026-11-04-0810-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-11-04-0143-telegram-update.md",
       "title": "2026-11-04-0143-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-11-03-2018-telegram-update.md",
       "title": "2026-11-03-2018-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-11-03-1302-telegram-update.md",
       "title": "2026-11-03-1302-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-11-03-0306-telegram-update.md",
       "title": "2026-11-03-0306-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-11-02-1950-telegram-update.md",
       "title": "2026-11-02-1950-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-11-02-0826-telegram-update.md",
       "title": "2026-11-02-0826-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.488Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-15T08:28:47.748Z"
+      "updatedAt": "2026-11-15T16:39:08.487Z"
     }
   ]
 }
