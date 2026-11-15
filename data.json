@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-15T16:39:14.195Z",
+  "generatedAt": "2026-11-15T22:07:50.528Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 41045,
-    "lastMessageAt": "2026-11-15T16:21:04+00:00",
-    "lastCheckedAt": "2026-11-15T16:39:13.997Z",
-    "previousMessageId": 41013,
+    "lastMessageId": 41079,
+    "lastMessageAt": "2026-11-15T20:28:36+00:00",
+    "lastCheckedAt": "2026-11-15T22:07:50.282Z",
+    "previousMessageId": 41045,
     "pagesRead": 2,
-    "messagesRead": 32,
-    "newProjectRecords": 6,
+    "messagesRead": 34,
+    "newProjectRecords": 14,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 931,
+    "telegramRows": 945,
     "xRows": 0,
-    "projects": 571,
+    "projects": 584,
     "crossSource": 0
   },
   "projects": [
@@ -10764,6 +10764,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "w0rld",
+      "account": "w0rld_fun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "speest 💎",
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "speest 💎",
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-10-31T03:42:02+00:00",
+      "lastSeen": "2026-11-15T18:48:21+00:00",
+      "description": "Collect the world.\n\nSoon on Solana.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "w0rld",
+          "account": "w0rld_fun",
+          "alpha": "speest 💎",
+          "seenAt": "2026-10-31T03:42:02+00:00",
+          "messageId": "dodtwitterbot/38718",
+          "description": "Collect the world.\n\nSoon on Solana.",
+          "text": "Collect the world.\n\nSoon on Solana."
+        },
+        {
+          "source": "TG",
+          "project": "w0rld",
+          "account": "w0rld_fun",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-15T18:48:21+00:00",
+          "messageId": "dodtwitterbot/41068",
+          "description": "Collect the world.\n\nSoon on Solana.",
+          "text": "Collect the world.\n\nSoon on Solana."
+        }
+      ],
+      "text": " w0rld w0rld_fun Collect the world.\n\nSoon on Solana. w0rld w0rld_fun Collect the world.\n\nSoon on Solana.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "xiaosu",
       "account": "xiaosu998",
       "sources": [
@@ -11543,6 +11589,40 @@
         }
       ],
       "text": " AIDOG AIDOGagentai 第一个币安 Agent ID 的 Mint 的纯动物meme项目",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Alex Lim",
+      "account": "alexlimasia",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "poet"
+      ],
+      "tgAlphas": [
+        "poet"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-15T20:28:36+00:00",
+      "lastSeen": "2026-11-15T20:28:36+00:00",
+      "description": "asia @LayerZero_Core\nleading @AsiaStableCoin\nvoicing @face_east_\n\nall opinions are my own",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Alex Lim",
+          "account": "alexlimasia",
+          "alpha": "poet",
+          "seenAt": "2026-11-15T20:28:36+00:00",
+          "messageId": "dodtwitterbot/41077",
+          "description": "asia @LayerZero_Core\nleading @AsiaStableCoin\nvoicing @face_east_\n\nall opinions are my own",
+          "text": "asia @LayerZero_Core\nleading @AsiaStableCoin\nvoicing @face_east_\n\nall opinions are my own"
+        }
+      ],
+      "text": " Alex Lim alexlimasia asia @LayerZero_Core\nleading @AsiaStableCoin\nvoicing @face_east_\n\nall opinions are my own",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -15458,6 +15538,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "harnesspro",
+      "account": "harnessproai",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-15T18:49:14+00:00",
+      "lastSeen": "2026-11-15T18:49:14+00:00",
+      "description": "Your ai trading desk on @Solana",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "harnesspro",
+          "account": "harnessproai",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-15T18:49:14+00:00",
+          "messageId": "dodtwitterbot/41069",
+          "description": "Your ai trading desk on @Solana",
+          "text": "Your ai trading desk on @Solana"
+        }
+      ],
+      "text": " harnesspro harnessproai Your ai trading desk on @Solana",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "HashDoge",
       "account": "HashDogeIO",
       "sources": [
@@ -17600,6 +17714,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Manci",
+      "account": "Manci_rwa",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-15T18:32:06+00:00",
+      "lastSeen": "2026-11-15T18:32:06+00:00",
+      "description": "Emancipating the ascent of private capital markets on @Solana",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Manci",
+          "account": "Manci_rwa",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-15T18:32:06+00:00",
+          "messageId": "dodtwitterbot/41051",
+          "description": "Emancipating the ascent of private capital markets on @Solana",
+          "text": "Emancipating the ascent of private capital markets on @Solana"
+        }
+      ],
+      "text": " Manci Manci_rwa Emancipating the ascent of private capital markets on @Solana",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Matcha 🍵 ✨",
       "account": "matchaxyz",
       "sources": [
@@ -18411,6 +18559,40 @@
         }
       ],
       "text": " Move Fast MovefastonAptos The fastest launchpad on @Aptos\n\n&#036;MF is the native coin of MoveFast : 0x24a74425d82e8085c9ee96bd40cfa1c282734515ddec0f1234b10749594d42c6",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Muralis",
+      "account": "muralis_io",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-15T18:32:06+00:00",
+      "lastSeen": "2026-11-15T18:32:06+00:00",
+      "description": "Non-custodial market making + treasury automation for Solana token teams. Your keys, your pool, on autopilot. → https://t.co/maab6Y4gKD",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Muralis",
+          "account": "muralis_io",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-15T18:32:06+00:00",
+          "messageId": "dodtwitterbot/41052",
+          "description": "Non-custodial market making + treasury automation for Solana token teams. Your keys, your pool, on autopilot. → https://t.co/maab6Y4gKD",
+          "text": "Non-custodial market making + treasury automation for Solana token teams. Your keys, your pool, on autopilot. → https://t.co/maab6Y4gKD"
+        }
+      ],
+      "text": " Muralis muralis_io Non-custodial market making + treasury automation for Solana token teams. Your keys, your pool, on autopilot. → https://t.co/maab6Y4gKD",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -21578,6 +21760,312 @@
       "avatarUrl": ""
     },
     {
+      "project": "Superteam Brasil",
+      "account": "SuperteamBR",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-15T18:33:00+00:00",
+      "lastSeen": "2026-11-15T18:33:00+00:00",
+      "description": "Construindo a @Solana no Brasil&#33; 🇧🇷",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Superteam Brasil",
+          "account": "SuperteamBR",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-15T18:33:00+00:00",
+          "messageId": "dodtwitterbot/41054",
+          "description": "Construindo a @Solana no Brasil&#33; 🇧🇷",
+          "text": "Construindo a @Solana no Brasil&#33; 🇧🇷"
+        }
+      ],
+      "text": " Superteam Brasil SuperteamBR Construindo a @Solana no Brasil&#33; 🇧🇷",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Superteam Georgia",
+      "account": "SuperteamGEO",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-15T18:33:00+00:00",
+      "lastSeen": "2026-11-15T18:33:00+00:00",
+      "description": "Growing the Solana ecosystem in Georgia 🇬🇪",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Superteam Georgia",
+          "account": "SuperteamGEO",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-15T18:33:00+00:00",
+          "messageId": "dodtwitterbot/41057",
+          "description": "Growing the Solana ecosystem in Georgia 🇬🇪",
+          "text": "Growing the Solana ecosystem in Georgia 🇬🇪"
+        }
+      ],
+      "text": " Superteam Georgia SuperteamGEO Growing the Solana ecosystem in Georgia 🇬🇪",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Superteam Italy",
+      "account": "superteamITA",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-15T18:33:13+00:00",
+      "lastSeen": "2026-11-15T18:33:13+00:00",
+      "description": "Building the @solana ecosystem in Italy. 🇮🇹",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Superteam Italy",
+          "account": "superteamITA",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-15T18:33:13+00:00",
+          "messageId": "dodtwitterbot/41064",
+          "description": "Building the @solana ecosystem in Italy. 🇮🇹",
+          "text": "Building the @solana ecosystem in Italy. 🇮🇹"
+        }
+      ],
+      "text": " Superteam Italy superteamITA Building the @solana ecosystem in Italy. 🇮🇹",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Superteam Japan",
+      "account": "SuperteamJapan",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-15T18:33:00+00:00",
+      "lastSeen": "2026-11-15T18:33:00+00:00",
+      "description": "Superteam Japanは @solana 上で次世代を創るビルダー、スタートアップ、企業が集うコミュニティです。 🇯🇵",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Superteam Japan",
+          "account": "SuperteamJapan",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-15T18:33:00+00:00",
+          "messageId": "dodtwitterbot/41053",
+          "description": "Superteam Japanは @solana 上で次世代を創るビルダー、スタートアップ、企業が集うコミュニティです。 🇯🇵",
+          "text": "Superteam Japanは @solana 上で次世代を創るビルダー、スタートアップ、企業が集うコミュニティです。 🇯🇵"
+        }
+      ],
+      "text": " Superteam Japan SuperteamJapan Superteam Japanは @solana 上で次世代を創るビルダー、スタートアップ、企業が集うコミュニティです。 🇯🇵",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Superteam Netherlands",
+      "account": "SuperteamNL",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-15T18:33:06+00:00",
+      "lastSeen": "2026-11-15T18:33:06+00:00",
+      "description": "Growing @solana in the Netherlands 🇳🇱",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Superteam Netherlands",
+          "account": "SuperteamNL",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-15T18:33:06+00:00",
+          "messageId": "dodtwitterbot/41060",
+          "description": "Growing @solana in the Netherlands 🇳🇱",
+          "text": "Growing @solana in the Netherlands 🇳🇱"
+        }
+      ],
+      "text": " Superteam Netherlands SuperteamNL Growing @solana in the Netherlands 🇳🇱",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Superteam Poland",
+      "account": "SuperteamPOL",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-15T18:33:06+00:00",
+      "lastSeen": "2026-11-15T18:33:06+00:00",
+      "description": "Building the @Solana ecosystem in Poland 🇵🇱",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Superteam Poland",
+          "account": "SuperteamPOL",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-15T18:33:06+00:00",
+          "messageId": "dodtwitterbot/41061",
+          "description": "Building the @Solana ecosystem in Poland 🇵🇱",
+          "text": "Building the @Solana ecosystem in Poland 🇵🇱"
+        }
+      ],
+      "text": " Superteam Poland SuperteamPOL Building the @Solana ecosystem in Poland 🇵🇱",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Superteam Türkiye",
+      "account": "SuperteamTR",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-15T18:33:00+00:00",
+      "lastSeen": "2026-11-15T18:33:00+00:00",
+      "description": "Building on Solana.\nConnecting Turkish talent to the global stage.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Superteam Türkiye",
+          "account": "SuperteamTR",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-15T18:33:00+00:00",
+          "messageId": "dodtwitterbot/41056",
+          "description": "Building on Solana.\nConnecting Turkish talent to the global stage.",
+          "text": "Building on Solana.\nConnecting Turkish talent to the global stage."
+        }
+      ],
+      "text": " Superteam Türkiye SuperteamTR Building on Solana.\nConnecting Turkish talent to the global stage.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Superteam UAE",
+      "account": "SuperteamAE",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-15T18:33:06+00:00",
+      "lastSeen": "2026-11-15T18:33:06+00:00",
+      "description": "Accelerating the @Solana ecosystem in the UAE",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Superteam UAE",
+          "account": "SuperteamAE",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-15T18:33:06+00:00",
+          "messageId": "dodtwitterbot/41062",
+          "description": "Accelerating the @Solana ecosystem in the UAE",
+          "text": "Accelerating the @Solana ecosystem in the UAE"
+        }
+      ],
+      "text": " Superteam UAE SuperteamAE Accelerating the @Solana ecosystem in the UAE",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Superteam Ukraine",
+      "account": "SuperteamUKR",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-15T18:33:05+00:00",
+      "lastSeen": "2026-11-15T18:33:05+00:00",
+      "description": "🇺🇦 Ukrainian @Solana Hub | Part of the @Superteam family | Grow your startup with us",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Superteam Ukraine",
+          "account": "SuperteamUKR",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-15T18:33:05+00:00",
+          "messageId": "dodtwitterbot/41058",
+          "description": "🇺🇦 Ukrainian @Solana Hub | Part of the @Superteam family | Grow your startup with us",
+          "text": "🇺🇦 Ukrainian @Solana Hub | Part of the @Superteam family | Grow your startup with us"
+        }
+      ],
+      "text": " Superteam Ukraine SuperteamUKR 🇺🇦 Ukrainian @Solana Hub | Part of the @Superteam family | Grow your startup with us",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "SuperToken",
       "account": "supertokenspl",
       "sources": [
@@ -22865,40 +23353,6 @@
         }
       ],
       "text": " Vyro vyropro Perpetual hedging on Elysium, built on Hyperliquid. Hold the asset, hedge the downside. Non-custodial.",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
-      "project": "w0rld",
-      "account": "w0rld_fun",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "speest 💎"
-      ],
-      "tgAlphas": [
-        "speest 💎"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-10-31T03:42:02+00:00",
-      "lastSeen": "2026-10-31T03:42:02+00:00",
-      "description": "Collect the world.\n\nSoon on Solana.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "w0rld",
-          "account": "w0rld_fun",
-          "alpha": "speest 💎",
-          "seenAt": "2026-10-31T03:42:02+00:00",
-          "messageId": "dodtwitterbot/38718",
-          "description": "Collect the world.\n\nSoon on Solana.",
-          "text": "Collect the world.\n\nSoon on Solana."
-        }
-      ],
-      "text": " w0rld w0rld_fun Collect the world.\n\nSoon on Solana.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -26775,6 +27229,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "w0rld",
+      "x_account": "w0rld_fun",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "speest 💎",
+        "unsynned"
+      ],
+      "description": "Collect the world.\n\nSoon on Solana.",
+      "first_seen_utc": "2026-10-31T03:42:02+00:00",
+      "last_seen_utc": "2026-11-15T18:48:21+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "xiaosu",
       "x_account": "xiaosu998",
       "total_mentions": 2,
@@ -27082,6 +27551,20 @@
       "description": "第一个币安 Agent ID 的 Mint 的纯动物meme项目",
       "first_seen_utc": "2026-10-31T06:15:27+00:00",
       "last_seen_utc": "2026-10-31T06:15:27+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Alex Lim",
+      "x_account": "alexlimasia",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "poet"
+      ],
+      "description": "asia @LayerZero_Core\nleading @AsiaStableCoin\nvoicing @face_east_\n\nall opinions are my own",
+      "first_seen_utc": "2026-11-15T20:28:36+00:00",
+      "last_seen_utc": "2026-11-15T20:28:36+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -28696,6 +29179,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "harnesspro",
+      "x_account": "harnessproai",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "unsynned"
+      ],
+      "description": "Your ai trading desk on @Solana",
+      "first_seen_utc": "2026-11-15T18:49:14+00:00",
+      "last_seen_utc": "2026-11-15T18:49:14+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "HashDoge",
       "x_account": "HashDogeIO",
       "total_mentions": 1,
@@ -29578,6 +30075,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Manci",
+      "x_account": "Manci_rwa",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "unsynned"
+      ],
+      "description": "Emancipating the ascent of private capital markets on @Solana",
+      "first_seen_utc": "2026-11-15T18:32:06+00:00",
+      "last_seen_utc": "2026-11-15T18:32:06+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Matcha 🍵 ✨",
       "x_account": "matchaxyz",
       "total_mentions": 1,
@@ -29910,6 +30421,20 @@
       "description": "The fastest launchpad on @Aptos\n\n&#036;MF is the native coin of MoveFast : 0x24a74425d82e8085c9ee96bd40cfa1c282734515ddec0f1234b10749594d42c6",
       "first_seen_utc": "2026-11-02T11:33:42+00:00",
       "last_seen_utc": "2026-11-02T11:33:42+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Muralis",
+      "x_account": "muralis_io",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "unsynned"
+      ],
+      "description": "Non-custodial market making + treasury automation for Solana token teams. Your keys, your pool, on autopilot. → https://t.co/maab6Y4gKD",
+      "first_seen_utc": "2026-11-15T18:32:06+00:00",
+      "last_seen_utc": "2026-11-15T18:32:06+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -31216,6 +31741,132 @@
       "avatarUrl": ""
     },
     {
+      "project": "Superteam Brasil",
+      "x_account": "SuperteamBR",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "unsynned"
+      ],
+      "description": "Construindo a @Solana no Brasil&#33; 🇧🇷",
+      "first_seen_utc": "2026-11-15T18:33:00+00:00",
+      "last_seen_utc": "2026-11-15T18:33:00+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Superteam Georgia",
+      "x_account": "SuperteamGEO",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "unsynned"
+      ],
+      "description": "Growing the Solana ecosystem in Georgia 🇬🇪",
+      "first_seen_utc": "2026-11-15T18:33:00+00:00",
+      "last_seen_utc": "2026-11-15T18:33:00+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Superteam Italy",
+      "x_account": "superteamITA",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "unsynned"
+      ],
+      "description": "Building the @solana ecosystem in Italy. 🇮🇹",
+      "first_seen_utc": "2026-11-15T18:33:13+00:00",
+      "last_seen_utc": "2026-11-15T18:33:13+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Superteam Japan",
+      "x_account": "SuperteamJapan",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "unsynned"
+      ],
+      "description": "Superteam Japanは @solana 上で次世代を創るビルダー、スタートアップ、企業が集うコミュニティです。 🇯🇵",
+      "first_seen_utc": "2026-11-15T18:33:00+00:00",
+      "last_seen_utc": "2026-11-15T18:33:00+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Superteam Netherlands",
+      "x_account": "SuperteamNL",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "unsynned"
+      ],
+      "description": "Growing @solana in the Netherlands 🇳🇱",
+      "first_seen_utc": "2026-11-15T18:33:06+00:00",
+      "last_seen_utc": "2026-11-15T18:33:06+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Superteam Poland",
+      "x_account": "SuperteamPOL",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "unsynned"
+      ],
+      "description": "Building the @Solana ecosystem in Poland 🇵🇱",
+      "first_seen_utc": "2026-11-15T18:33:06+00:00",
+      "last_seen_utc": "2026-11-15T18:33:06+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Superteam Türkiye",
+      "x_account": "SuperteamTR",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "unsynned"
+      ],
+      "description": "Building on Solana.\nConnecting Turkish talent to the global stage.",
+      "first_seen_utc": "2026-11-15T18:33:00+00:00",
+      "last_seen_utc": "2026-11-15T18:33:00+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Superteam UAE",
+      "x_account": "SuperteamAE",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "unsynned"
+      ],
+      "description": "Accelerating the @Solana ecosystem in the UAE",
+      "first_seen_utc": "2026-11-15T18:33:06+00:00",
+      "last_seen_utc": "2026-11-15T18:33:06+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Superteam Ukraine",
+      "x_account": "SuperteamUKR",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "unsynned"
+      ],
+      "description": "🇺🇦 Ukrainian @Solana Hub | Part of the @Superteam family | Grow your startup with us",
+      "first_seen_utc": "2026-11-15T18:33:05+00:00",
+      "last_seen_utc": "2026-11-15T18:33:05+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "SuperToken",
       "x_account": "supertokenspl",
       "total_mentions": 1,
@@ -31748,20 +32399,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "w0rld",
-      "x_account": "w0rld_fun",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "speest 💎"
-      ],
-      "description": "Collect the world.\n\nSoon on Solana.",
-      "first_seen_utc": "2026-10-31T03:42:02+00:00",
-      "last_seen_utc": "2026-10-31T03:42:02+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "WaveFund",
       "x_account": "wavefund_HQ",
       "total_mentions": 1,
@@ -32115,14 +32752,505 @@
   "daily": [
     {
       "date": "2026-11-16",
-      "totalRows": 0,
-      "projectCount": 0,
+      "totalRows": 14,
+      "projectCount": 14,
       "focusCount": 0,
-      "candidateCount": 0,
+      "candidateCount": 14,
       "crossSource": 0,
-      "newCount": 0,
-      "repeatCount": 0,
-      "projects": []
+      "newCount": 13,
+      "repeatCount": 1,
+      "projects": [
+        {
+          "project": "Alex Lim",
+          "account": "alexlimasia",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "poet"
+          ],
+          "tgAlphas": [
+            "poet"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-15T20:28:36+00:00",
+          "lastSeen": "2026-11-15T20:28:36+00:00",
+          "description": "asia @LayerZero_Core\nleading @AsiaStableCoin\nvoicing @face_east_\n\nall opinions are my own",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Alex Lim",
+              "account": "alexlimasia",
+              "alpha": "poet",
+              "seenAt": "2026-11-15T20:28:36+00:00",
+              "messageId": "dodtwitterbot/41077",
+              "description": "asia @LayerZero_Core\nleading @AsiaStableCoin\nvoicing @face_east_\n\nall opinions are my own",
+              "text": "asia @LayerZero_Core\nleading @AsiaStableCoin\nvoicing @face_east_\n\nall opinions are my own"
+            }
+          ],
+          "text": " Alex Lim alexlimasia asia @LayerZero_Core\nleading @AsiaStableCoin\nvoicing @face_east_\n\nall opinions are my own",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "harnesspro",
+          "account": "harnessproai",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-15T18:49:14+00:00",
+          "lastSeen": "2026-11-15T18:49:14+00:00",
+          "description": "Your ai trading desk on @Solana",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "harnesspro",
+              "account": "harnessproai",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-15T18:49:14+00:00",
+              "messageId": "dodtwitterbot/41069",
+              "description": "Your ai trading desk on @Solana",
+              "text": "Your ai trading desk on @Solana"
+            }
+          ],
+          "text": " harnesspro harnessproai Your ai trading desk on @Solana",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Manci",
+          "account": "Manci_rwa",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-15T18:32:06+00:00",
+          "lastSeen": "2026-11-15T18:32:06+00:00",
+          "description": "Emancipating the ascent of private capital markets on @Solana",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Manci",
+              "account": "Manci_rwa",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-15T18:32:06+00:00",
+              "messageId": "dodtwitterbot/41051",
+              "description": "Emancipating the ascent of private capital markets on @Solana",
+              "text": "Emancipating the ascent of private capital markets on @Solana"
+            }
+          ],
+          "text": " Manci Manci_rwa Emancipating the ascent of private capital markets on @Solana",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Muralis",
+          "account": "muralis_io",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-15T18:32:06+00:00",
+          "lastSeen": "2026-11-15T18:32:06+00:00",
+          "description": "Non-custodial market making + treasury automation for Solana token teams. Your keys, your pool, on autopilot. → https://t.co/maab6Y4gKD",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Muralis",
+              "account": "muralis_io",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-15T18:32:06+00:00",
+              "messageId": "dodtwitterbot/41052",
+              "description": "Non-custodial market making + treasury automation for Solana token teams. Your keys, your pool, on autopilot. → https://t.co/maab6Y4gKD",
+              "text": "Non-custodial market making + treasury automation for Solana token teams. Your keys, your pool, on autopilot. → https://t.co/maab6Y4gKD"
+            }
+          ],
+          "text": " Muralis muralis_io Non-custodial market making + treasury automation for Solana token teams. Your keys, your pool, on autopilot. → https://t.co/maab6Y4gKD",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Superteam Brasil",
+          "account": "SuperteamBR",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-15T18:33:00+00:00",
+          "lastSeen": "2026-11-15T18:33:00+00:00",
+          "description": "Construindo a @Solana no Brasil&#33; 🇧🇷",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Superteam Brasil",
+              "account": "SuperteamBR",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-15T18:33:00+00:00",
+              "messageId": "dodtwitterbot/41054",
+              "description": "Construindo a @Solana no Brasil&#33; 🇧🇷",
+              "text": "Construindo a @Solana no Brasil&#33; 🇧🇷"
+            }
+          ],
+          "text": " Superteam Brasil SuperteamBR Construindo a @Solana no Brasil&#33; 🇧🇷",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Superteam Georgia",
+          "account": "SuperteamGEO",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-15T18:33:00+00:00",
+          "lastSeen": "2026-11-15T18:33:00+00:00",
+          "description": "Growing the Solana ecosystem in Georgia 🇬🇪",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Superteam Georgia",
+              "account": "SuperteamGEO",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-15T18:33:00+00:00",
+              "messageId": "dodtwitterbot/41057",
+              "description": "Growing the Solana ecosystem in Georgia 🇬🇪",
+              "text": "Growing the Solana ecosystem in Georgia 🇬🇪"
+            }
+          ],
+          "text": " Superteam Georgia SuperteamGEO Growing the Solana ecosystem in Georgia 🇬🇪",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Superteam Italy",
+          "account": "superteamITA",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-15T18:33:13+00:00",
+          "lastSeen": "2026-11-15T18:33:13+00:00",
+          "description": "Building the @solana ecosystem in Italy. 🇮🇹",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Superteam Italy",
+              "account": "superteamITA",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-15T18:33:13+00:00",
+              "messageId": "dodtwitterbot/41064",
+              "description": "Building the @solana ecosystem in Italy. 🇮🇹",
+              "text": "Building the @solana ecosystem in Italy. 🇮🇹"
+            }
+          ],
+          "text": " Superteam Italy superteamITA Building the @solana ecosystem in Italy. 🇮🇹",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Superteam Japan",
+          "account": "SuperteamJapan",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-15T18:33:00+00:00",
+          "lastSeen": "2026-11-15T18:33:00+00:00",
+          "description": "Superteam Japanは @solana 上で次世代を創るビルダー、スタートアップ、企業が集うコミュニティです。 🇯🇵",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Superteam Japan",
+              "account": "SuperteamJapan",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-15T18:33:00+00:00",
+              "messageId": "dodtwitterbot/41053",
+              "description": "Superteam Japanは @solana 上で次世代を創るビルダー、スタートアップ、企業が集うコミュニティです。 🇯🇵",
+              "text": "Superteam Japanは @solana 上で次世代を創るビルダー、スタートアップ、企業が集うコミュニティです。 🇯🇵"
+            }
+          ],
+          "text": " Superteam Japan SuperteamJapan Superteam Japanは @solana 上で次世代を創るビルダー、スタートアップ、企業が集うコミュニティです。 🇯🇵",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Superteam Netherlands",
+          "account": "SuperteamNL",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-15T18:33:06+00:00",
+          "lastSeen": "2026-11-15T18:33:06+00:00",
+          "description": "Growing @solana in the Netherlands 🇳🇱",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Superteam Netherlands",
+              "account": "SuperteamNL",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-15T18:33:06+00:00",
+              "messageId": "dodtwitterbot/41060",
+              "description": "Growing @solana in the Netherlands 🇳🇱",
+              "text": "Growing @solana in the Netherlands 🇳🇱"
+            }
+          ],
+          "text": " Superteam Netherlands SuperteamNL Growing @solana in the Netherlands 🇳🇱",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Superteam Poland",
+          "account": "SuperteamPOL",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-15T18:33:06+00:00",
+          "lastSeen": "2026-11-15T18:33:06+00:00",
+          "description": "Building the @Solana ecosystem in Poland 🇵🇱",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Superteam Poland",
+              "account": "SuperteamPOL",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-15T18:33:06+00:00",
+              "messageId": "dodtwitterbot/41061",
+              "description": "Building the @Solana ecosystem in Poland 🇵🇱",
+              "text": "Building the @Solana ecosystem in Poland 🇵🇱"
+            }
+          ],
+          "text": " Superteam Poland SuperteamPOL Building the @Solana ecosystem in Poland 🇵🇱",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Superteam Türkiye",
+          "account": "SuperteamTR",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-15T18:33:00+00:00",
+          "lastSeen": "2026-11-15T18:33:00+00:00",
+          "description": "Building on Solana.\nConnecting Turkish talent to the global stage.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Superteam Türkiye",
+              "account": "SuperteamTR",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-15T18:33:00+00:00",
+              "messageId": "dodtwitterbot/41056",
+              "description": "Building on Solana.\nConnecting Turkish talent to the global stage.",
+              "text": "Building on Solana.\nConnecting Turkish talent to the global stage."
+            }
+          ],
+          "text": " Superteam Türkiye SuperteamTR Building on Solana.\nConnecting Turkish talent to the global stage.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Superteam UAE",
+          "account": "SuperteamAE",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-15T18:33:06+00:00",
+          "lastSeen": "2026-11-15T18:33:06+00:00",
+          "description": "Accelerating the @Solana ecosystem in the UAE",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Superteam UAE",
+              "account": "SuperteamAE",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-15T18:33:06+00:00",
+              "messageId": "dodtwitterbot/41062",
+              "description": "Accelerating the @Solana ecosystem in the UAE",
+              "text": "Accelerating the @Solana ecosystem in the UAE"
+            }
+          ],
+          "text": " Superteam UAE SuperteamAE Accelerating the @Solana ecosystem in the UAE",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Superteam Ukraine",
+          "account": "SuperteamUKR",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-15T18:33:05+00:00",
+          "lastSeen": "2026-11-15T18:33:05+00:00",
+          "description": "🇺🇦 Ukrainian @Solana Hub | Part of the @Superteam family | Grow your startup with us",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Superteam Ukraine",
+              "account": "SuperteamUKR",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-15T18:33:05+00:00",
+              "messageId": "dodtwitterbot/41058",
+              "description": "🇺🇦 Ukrainian @Solana Hub | Part of the @Superteam family | Grow your startup with us",
+              "text": "🇺🇦 Ukrainian @Solana Hub | Part of the @Superteam family | Grow your startup with us"
+            }
+          ],
+          "text": " Superteam Ukraine SuperteamUKR 🇺🇦 Ukrainian @Solana Hub | Part of the @Superteam family | Grow your startup with us",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "w0rld",
+          "account": "w0rld_fun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-15T18:48:21+00:00",
+          "lastSeen": "2026-11-15T18:48:21+00:00",
+          "description": "Collect the world.\n\nSoon on Solana.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "w0rld",
+              "account": "w0rld_fun",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-15T18:48:21+00:00",
+              "messageId": "dodtwitterbot/41068",
+              "description": "Collect the world.\n\nSoon on Solana.",
+              "text": "Collect the world.\n\nSoon on Solana."
+            }
+          ],
+          "text": " w0rld w0rld_fun Collect the world.\n\nSoon on Solana.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        }
+      ]
     },
     {
       "date": "2026-11-15",
@@ -60731,314 +61859,319 @@
   ],
   "reports": [
     {
+      "file": "2026-11-15-2207-telegram-update.md",
+      "title": "2026-11-15-2207-telegram-update",
+      "updatedAt": "2026-11-15T22:07:50.280Z"
+    },
+    {
       "file": "2026-11-15-1639-telegram-update.md",
       "title": "2026-11-15-1639-telegram-update",
-      "updatedAt": "2026-11-15T16:39:13.996Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-11-15-0828-telegram-update.md",
       "title": "2026-11-15-0828-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-11-15-0121-telegram-update.md",
       "title": "2026-11-15-0121-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-11-14-2141-telegram-update.md",
       "title": "2026-11-14-2141-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-11-14-1610-telegram-update.md",
       "title": "2026-11-14-1610-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-11-14-0809-telegram-update.md",
       "title": "2026-11-14-0809-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-11-13-2255-telegram-update.md",
       "title": "2026-11-13-2255-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-11-13-1724-telegram-update.md",
       "title": "2026-11-13-1724-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-11-13-0849-telegram-update.md",
       "title": "2026-11-13-0849-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-11-12-2254-telegram-update.md",
       "title": "2026-11-12-2254-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-11-12-1746-telegram-update.md",
       "title": "2026-11-12-1746-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-11-12-0853-telegram-update.md",
       "title": "2026-11-12-0853-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-11-11-2344-telegram-update.md",
       "title": "2026-11-11-2344-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-11-11-1729-telegram-update.md",
       "title": "2026-11-11-1729-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-11-11-0828-telegram-update.md",
       "title": "2026-11-11-0828-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-11-11-0130-telegram-update.md",
       "title": "2026-11-11-0130-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-11-10-2037-telegram-update.md",
       "title": "2026-11-10-2037-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-11-10-1348-telegram-update.md",
       "title": "2026-11-10-1348-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-11-10-0351-telegram-update.md",
       "title": "2026-11-10-0351-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-11-09-2013-telegram-update.md",
       "title": "2026-11-09-2013-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-11-09-0844-telegram-update.md",
       "title": "2026-11-09-0844-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-11-08-2123-telegram-update.md",
       "title": "2026-11-08-2123-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-11-08-1623-telegram-update.md",
       "title": "2026-11-08-1623-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-11-08-0804-telegram-update.md",
       "title": "2026-11-08-0804-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-11-07-2106-telegram-update.md",
       "title": "2026-11-07-2106-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-11-07-1556-telegram-update.md",
       "title": "2026-11-07-1556-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-11-07-0751-telegram-update.md",
       "title": "2026-11-07-0751-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-11-06-2226-telegram-update.md",
       "title": "2026-11-06-2226-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-11-06-1658-telegram-update.md",
       "title": "2026-11-06-1658-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-11-06-0835-telegram-update.md",
       "title": "2026-11-06-0835-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-11-05-2256-telegram-update.md",
       "title": "2026-11-05-2256-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-11-05-1742-telegram-update.md",
       "title": "2026-11-05-1742-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-11-05-0836-telegram-update.md",
       "title": "2026-11-05-0836-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-11-04-2255-telegram-update.md",
       "title": "2026-11-04-2255-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-11-04-1737-telegram-update.md",
       "title": "2026-11-04-1737-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-11-04-0810-telegram-update.md",
       "title": "2026-11-04-0810-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-11-04-0143-telegram-update.md",
       "title": "2026-11-04-0143-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-11-03-2018-telegram-update.md",
       "title": "2026-11-03-2018-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-11-03-1302-telegram-update.md",
       "title": "2026-11-03-1302-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-11-03-0306-telegram-update.md",
       "title": "2026-11-03-0306-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-11-02-1950-telegram-update.md",
       "title": "2026-11-02-1950-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-11-02-0826-telegram-update.md",
       "title": "2026-11-02-0826-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-15T16:39:08.488Z"
+      "updatedAt": "2026-11-15T22:07:48.025Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-15T16:39:08.487Z"
+      "updatedAt": "2026-11-15T22:07:48.023Z"
     }
   ]
 }
