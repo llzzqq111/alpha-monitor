@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-14T21:41:36.746Z",
+  "generatedAt": "2026-11-15T01:21:33.624Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 40949,
-    "lastMessageAt": "2026-11-14T21:25:26+00:00",
-    "lastCheckedAt": "2026-11-14T21:41:36.543Z",
-    "previousMessageId": 40939,
+    "lastMessageId": 40961,
+    "lastMessageAt": "2026-11-15T00:49:53+00:00",
+    "lastCheckedAt": "2026-11-15T01:21:33.425Z",
+    "previousMessageId": 40949,
     "pagesRead": 1,
-    "messagesRead": 10,
+    "messagesRead": 12,
     "newProjectRecords": 4,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 900,
+    "telegramRows": 904,
     "xRows": 0,
-    "projects": 556,
+    "projects": 557,
     "crossSource": 0
   },
   "projects": [
@@ -1770,6 +1770,146 @@
       "avatarUrl": ""
     },
     {
+      "project": "000.fun",
+      "account": "000dotfun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "speest 💎",
+        "unsynned",
+        "well",
+        "zyy"
+      ],
+      "tgAlphas": [
+        "speest 💎",
+        "unsynned",
+        "well",
+        "zyy"
+      ],
+      "xAlphas": [],
+      "mentions": 4,
+      "firstSeen": "2026-11-02T11:33:37+00:00",
+      "lastSeen": "2026-11-15T00:49:01+00:00",
+      "description": "From zero to FUN. A token launchpad built on @LayerZero_Core",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "000.fun",
+          "account": "000dotfun",
+          "alpha": "zyy",
+          "seenAt": "2026-11-02T11:33:37+00:00",
+          "messageId": "dodtwitterbot/39234",
+          "description": "From zero to FUN. A token launchpad built on @LayerZero_Core",
+          "text": "From zero to FUN. A token launchpad built on @LayerZero_Core"
+        },
+        {
+          "source": "TG",
+          "project": "000.fun",
+          "account": "000dotfun",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-09T20:18:14+00:00",
+          "messageId": "dodtwitterbot/40464",
+          "description": "From zero to FUN. A token launchpad built on @LayerZero_Core",
+          "text": "From zero to FUN. A token launchpad built on @LayerZero_Core"
+        },
+        {
+          "source": "TG",
+          "project": "000.fun",
+          "account": "000dotfun",
+          "alpha": "well",
+          "seenAt": "2026-11-11T04:49:41+00:00",
+          "messageId": "dodtwitterbot/40592",
+          "description": "From zero to FUN. A token launchpad built on @LayerZero_Core",
+          "text": "From zero to FUN. A token launchpad built on @LayerZero_Core"
+        },
+        {
+          "source": "TG",
+          "project": "000.fun",
+          "account": "000dotfun",
+          "alpha": "speest 💎",
+          "seenAt": "2026-11-15T00:49:01+00:00",
+          "messageId": "dodtwitterbot/40959",
+          "description": "From zero to FUN. A token launchpad built on @LayerZero_Core",
+          "text": "From zero to FUN. A token launchpad built on @LayerZero_Core"
+        }
+      ],
+      "text": " 000.fun 000dotfun From zero to FUN. A token launchpad built on @LayerZero_Core 000.fun 000dotfun From zero to FUN. A token launchpad built on @LayerZero_Core 000.fun 000dotfun From zero to FUN. A token launchpad built on @LayerZero_Core 000.fun 000dotfun From zero to FUN. A token launchpad built on @LayerZero_Core",
+      "score": 8,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "0rigin",
+      "account": "0rigindotfun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "CSR",
+        "lakka",
+        "speest 💎",
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "CSR",
+        "lakka",
+        "speest 💎",
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 4,
+      "firstSeen": "2026-11-02T21:29:15+00:00",
+      "lastSeen": "2026-11-15T00:49:00+00:00",
+      "description": "Everything starts from 0, launchpad soon on @LayerZero_Core",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "0rigin",
+          "account": "0rigindotfun",
+          "alpha": "lakka",
+          "seenAt": "2026-11-02T21:29:15+00:00",
+          "messageId": "dodtwitterbot/39352",
+          "description": "Everything starts from 0, launchpad soon on @LayerZero_Core",
+          "text": "Everything starts from 0, launchpad soon on @LayerZero_Core"
+        },
+        {
+          "source": "TG",
+          "project": "0rigin",
+          "account": "0rigindotfun",
+          "alpha": "CSR",
+          "seenAt": "2026-11-08T20:07:02+00:00",
+          "messageId": "dodtwitterbot/40259",
+          "description": "Everything starts from 0, launchpad soon on @LayerZero_Core",
+          "text": "Everything starts from 0, launchpad soon on @LayerZero_Core"
+        },
+        {
+          "source": "TG",
+          "project": "0rigin",
+          "account": "0rigindotfun",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-09T20:18:14+00:00",
+          "messageId": "dodtwitterbot/40462",
+          "description": "Everything starts from 0, launchpad soon on @LayerZero_Core",
+          "text": "Everything starts from 0, launchpad soon on @LayerZero_Core"
+        },
+        {
+          "source": "TG",
+          "project": "0rigin",
+          "account": "0rigindotfun",
+          "alpha": "speest 💎",
+          "seenAt": "2026-11-15T00:49:00+00:00",
+          "messageId": "dodtwitterbot/40958",
+          "description": "Everything starts from 0, launchpad soon on @LayerZero_Core",
+          "text": "Everything starts from 0, launchpad soon on @LayerZero_Core"
+        }
+      ],
+      "text": " 0rigin 0rigindotfun Everything starts from 0, launchpad soon on @LayerZero_Core 0rigin 0rigindotfun Everything starts from 0, launchpad soon on @LayerZero_Core 0rigin 0rigindotfun Everything starts from 0, launchpad soon on @LayerZero_Core 0rigin 0rigindotfun Everything starts from 0, launchpad soon on @LayerZero_Core",
+      "score": 8,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Agora",
       "account": "agora_elysium",
       "sources": [
@@ -2746,122 +2886,6 @@
       ],
       "text": " Origo origopad Launch tokens with post quantum proof of origin anchored to Bitcoin, Monero, Zcash, and Hyperliquid. Origo origopad Launch tokens with post quantum proof of origin anchored to Bitcoin, Monero, Zcash, and Hyperliquid. Origo origopad Launch tokens with post quantum proof of origin anchored to Bitcoin, Monero, Zcash, and Hyperliquid. Origo origopad Launch tokens with post quantum proof of origin anchored to Bitcoin, Monero, Zcash, and Hyperliquid.",
       "score": 8,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
-      "project": "000.fun",
-      "account": "000dotfun",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "unsynned",
-        "well",
-        "zyy"
-      ],
-      "tgAlphas": [
-        "unsynned",
-        "well",
-        "zyy"
-      ],
-      "xAlphas": [],
-      "mentions": 3,
-      "firstSeen": "2026-11-02T11:33:37+00:00",
-      "lastSeen": "2026-11-11T04:49:41+00:00",
-      "description": "From zero to FUN. A token launchpad built on @LayerZero_Core",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "000.fun",
-          "account": "000dotfun",
-          "alpha": "zyy",
-          "seenAt": "2026-11-02T11:33:37+00:00",
-          "messageId": "dodtwitterbot/39234",
-          "description": "From zero to FUN. A token launchpad built on @LayerZero_Core",
-          "text": "From zero to FUN. A token launchpad built on @LayerZero_Core"
-        },
-        {
-          "source": "TG",
-          "project": "000.fun",
-          "account": "000dotfun",
-          "alpha": "unsynned",
-          "seenAt": "2026-11-09T20:18:14+00:00",
-          "messageId": "dodtwitterbot/40464",
-          "description": "From zero to FUN. A token launchpad built on @LayerZero_Core",
-          "text": "From zero to FUN. A token launchpad built on @LayerZero_Core"
-        },
-        {
-          "source": "TG",
-          "project": "000.fun",
-          "account": "000dotfun",
-          "alpha": "well",
-          "seenAt": "2026-11-11T04:49:41+00:00",
-          "messageId": "dodtwitterbot/40592",
-          "description": "From zero to FUN. A token launchpad built on @LayerZero_Core",
-          "text": "From zero to FUN. A token launchpad built on @LayerZero_Core"
-        }
-      ],
-      "text": " 000.fun 000dotfun From zero to FUN. A token launchpad built on @LayerZero_Core 000.fun 000dotfun From zero to FUN. A token launchpad built on @LayerZero_Core 000.fun 000dotfun From zero to FUN. A token launchpad built on @LayerZero_Core",
-      "score": 6,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
-      "project": "0rigin",
-      "account": "0rigindotfun",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "CSR",
-        "lakka",
-        "unsynned"
-      ],
-      "tgAlphas": [
-        "CSR",
-        "lakka",
-        "unsynned"
-      ],
-      "xAlphas": [],
-      "mentions": 3,
-      "firstSeen": "2026-11-02T21:29:15+00:00",
-      "lastSeen": "2026-11-09T20:18:14+00:00",
-      "description": "Everything starts from 0, launchpad soon on @LayerZero_Core",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "0rigin",
-          "account": "0rigindotfun",
-          "alpha": "lakka",
-          "seenAt": "2026-11-02T21:29:15+00:00",
-          "messageId": "dodtwitterbot/39352",
-          "description": "Everything starts from 0, launchpad soon on @LayerZero_Core",
-          "text": "Everything starts from 0, launchpad soon on @LayerZero_Core"
-        },
-        {
-          "source": "TG",
-          "project": "0rigin",
-          "account": "0rigindotfun",
-          "alpha": "CSR",
-          "seenAt": "2026-11-08T20:07:02+00:00",
-          "messageId": "dodtwitterbot/40259",
-          "description": "Everything starts from 0, launchpad soon on @LayerZero_Core",
-          "text": "Everything starts from 0, launchpad soon on @LayerZero_Core"
-        },
-        {
-          "source": "TG",
-          "project": "0rigin",
-          "account": "0rigindotfun",
-          "alpha": "unsynned",
-          "seenAt": "2026-11-09T20:18:14+00:00",
-          "messageId": "dodtwitterbot/40462",
-          "description": "Everything starts from 0, launchpad soon on @LayerZero_Core",
-          "text": "Everything starts from 0, launchpad soon on @LayerZero_Core"
-        }
-      ],
-      "text": " 0rigin 0rigindotfun Everything starts from 0, launchpad soon on @LayerZero_Core 0rigin 0rigindotfun Everything starts from 0, launchpad soon on @LayerZero_Core 0rigin 0rigindotfun Everything starts from 0, launchpad soon on @LayerZero_Core",
-      "score": 6,
       "displayTier": "focus",
       "avatarUrl": ""
     },
@@ -5645,6 +5669,64 @@
         }
       ],
       "text": " tolls tollsfun Pay-per-call for AI agents on Solana.\nAgents pay in USDC over x402. Every request pays its toll.\n\nToken is not live yet. tolls tollsfun Pay-per-call for AI agents on Solana.\nAgents pay in USDC over x402. Every request pays its toll.\n\nToken is not live yet. tolls tollsfun Pay-per-call for AI agents on Solana.\nAgents pay in USDC over x402. Every request pays its toll.\n\nToken is not live yet.",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Tzero",
+      "account": "T0dotfun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "speest 💎",
+        "unsynned",
+        "zyy"
+      ],
+      "tgAlphas": [
+        "speest 💎",
+        "unsynned",
+        "zyy"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-11-02T11:33:42+00:00",
+      "lastSeen": "2026-11-15T00:49:01+00:00",
+      "description": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Tzero",
+          "account": "T0dotfun",
+          "alpha": "zyy",
+          "seenAt": "2026-11-02T11:33:42+00:00",
+          "messageId": "dodtwitterbot/39235",
+          "description": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
+          "text": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet."
+        },
+        {
+          "source": "TG",
+          "project": "Tzero",
+          "account": "T0dotfun",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-09T20:18:14+00:00",
+          "messageId": "dodtwitterbot/40463",
+          "description": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
+          "text": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet."
+        },
+        {
+          "source": "TG",
+          "project": "Tzero",
+          "account": "T0dotfun",
+          "alpha": "speest 💎",
+          "seenAt": "2026-11-15T00:49:01+00:00",
+          "messageId": "dodtwitterbot/40960",
+          "description": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
+          "text": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet."
+        }
+      ],
+      "text": " Tzero T0dotfun The first launchpad on the last blockchain. Live on Zero Chain at mainnet. Tzero T0dotfun The first launchpad on the last blockchain. Live on Zero Chain at mainnet. Tzero T0dotfun The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
       "score": 6,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -10126,52 +10208,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Tzero",
-      "account": "T0dotfun",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "unsynned",
-        "zyy"
-      ],
-      "tgAlphas": [
-        "unsynned",
-        "zyy"
-      ],
-      "xAlphas": [],
-      "mentions": 2,
-      "firstSeen": "2026-11-02T11:33:42+00:00",
-      "lastSeen": "2026-11-09T20:18:14+00:00",
-      "description": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Tzero",
-          "account": "T0dotfun",
-          "alpha": "zyy",
-          "seenAt": "2026-11-02T11:33:42+00:00",
-          "messageId": "dodtwitterbot/39235",
-          "description": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
-          "text": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet."
-        },
-        {
-          "source": "TG",
-          "project": "Tzero",
-          "account": "T0dotfun",
-          "alpha": "unsynned",
-          "seenAt": "2026-11-09T20:18:14+00:00",
-          "messageId": "dodtwitterbot/40463",
-          "description": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
-          "text": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet."
-        }
-      ],
-      "text": " Tzero T0dotfun The first launchpad on the last blockchain. Live on Zero Chain at mainnet. Tzero T0dotfun The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
-      "score": 4,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
       "project": "UNSEEN",
       "account": "UnseenOrdo",
       "sources": [
@@ -10569,6 +10605,40 @@
         }
       ],
       "text": " &#036;NEOPRIME NeoprimeCapital Bet on Western Supremacy\n\nTokenized exposure to America's next industrial giants.\n\nBuilt on @hectoinc issued on @Cantonnetwork .",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "010101",
+      "account": "010101fun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "speest 💎"
+      ],
+      "tgAlphas": [
+        "speest 💎"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-15T00:49:53+00:00",
+      "lastSeen": "2026-11-15T00:49:53+00:00",
+      "description": "An independent token launchpad for Zero, the blockchain by @LayerZero_Core . From the first bit to the next beginning. Pre-launch.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "010101",
+          "account": "010101fun",
+          "alpha": "speest 💎",
+          "seenAt": "2026-11-15T00:49:53+00:00",
+          "messageId": "dodtwitterbot/40961",
+          "description": "An independent token launchpad for Zero, the blockchain by @LayerZero_Core . From the first bit to the next beginning. Pre-launch.",
+          "text": "An independent token launchpad for Zero, the blockchain by @LayerZero_Core . From the first bit to the next beginning. Pre-launch."
+        }
+      ],
+      "text": " 010101 010101fun An independent token launchpad for Zero, the blockchain by @LayerZero_Core . From the first bit to the next beginning. Pre-launch.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -23414,6 +23484,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "000.fun",
+      "x_account": "000dotfun",
+      "total_mentions": 4,
+      "unique_alphas": 4,
+      "alphas": [
+        "speest 💎",
+        "unsynned",
+        "well",
+        "zyy"
+      ],
+      "description": "From zero to FUN. A token launchpad built on @LayerZero_Core",
+      "first_seen_utc": "2026-11-02T11:33:37+00:00",
+      "last_seen_utc": "2026-11-15T00:49:01+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
+      "project": "0rigin",
+      "x_account": "0rigindotfun",
+      "total_mentions": 4,
+      "unique_alphas": 4,
+      "alphas": [
+        "CSR",
+        "lakka",
+        "speest 💎",
+        "unsynned"
+      ],
+      "description": "Everything starts from 0, launchpad soon on @LayerZero_Core",
+      "first_seen_utc": "2026-11-02T21:29:15+00:00",
+      "last_seen_utc": "2026-11-15T00:49:00+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
       "project": "Agora",
       "x_account": "agora_elysium",
       "total_mentions": 4,
@@ -23648,38 +23752,6 @@
       "description": "Launch tokens with post quantum proof of origin anchored to Bitcoin, Monero, Zcash, and Hyperliquid.",
       "first_seen_utc": "2026-11-01T16:52:34+00:00",
       "last_seen_utc": "2026-11-02T11:02:15+00:00",
-      "status": "priority",
-      "avatarUrl": ""
-    },
-    {
-      "project": "000.fun",
-      "x_account": "000dotfun",
-      "total_mentions": 3,
-      "unique_alphas": 3,
-      "alphas": [
-        "unsynned",
-        "well",
-        "zyy"
-      ],
-      "description": "From zero to FUN. A token launchpad built on @LayerZero_Core",
-      "first_seen_utc": "2026-11-02T11:33:37+00:00",
-      "last_seen_utc": "2026-11-11T04:49:41+00:00",
-      "status": "priority",
-      "avatarUrl": ""
-    },
-    {
-      "project": "0rigin",
-      "x_account": "0rigindotfun",
-      "total_mentions": 3,
-      "unique_alphas": 3,
-      "alphas": [
-        "CSR",
-        "lakka",
-        "unsynned"
-      ],
-      "description": "Everything starts from 0, launchpad soon on @LayerZero_Core",
-      "first_seen_utc": "2026-11-02T21:29:15+00:00",
-      "last_seen_utc": "2026-11-09T20:18:14+00:00",
       "status": "priority",
       "avatarUrl": ""
     },
@@ -24448,6 +24520,22 @@
       "description": "Pay-per-call for AI agents on Solana.\nAgents pay in USDC over x402. Every request pays its toll.\n\nToken is not live yet.",
       "first_seen_utc": "2026-10-31T12:00:23+00:00",
       "last_seen_utc": "2026-11-01T06:10:58+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Tzero",
+      "x_account": "T0dotfun",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "speest 💎",
+        "unsynned",
+        "zyy"
+      ],
+      "description": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
+      "first_seen_utc": "2026-11-02T11:33:42+00:00",
+      "last_seen_utc": "2026-11-15T00:49:01+00:00",
       "status": "priority",
       "avatarUrl": ""
     },
@@ -25897,21 +25985,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Tzero",
-      "x_account": "T0dotfun",
-      "total_mentions": 2,
-      "unique_alphas": 2,
-      "alphas": [
-        "unsynned",
-        "zyy"
-      ],
-      "description": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
-      "first_seen_utc": "2026-11-02T11:33:42+00:00",
-      "last_seen_utc": "2026-11-09T20:18:14+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "UNSEEN",
       "x_account": "UnseenOrdo",
       "total_mentions": 2,
@@ -26042,6 +26115,20 @@
       "description": "Bet on Western Supremacy\n\nTokenized exposure to America's next industrial giants.\n\nBuilt on @hectoinc issued on @Cantonnetwork .",
       "first_seen_utc": "2026-11-09T16:42:46+00:00",
       "last_seen_utc": "2026-11-09T16:42:46+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "010101",
+      "x_account": "010101fun",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "speest 💎"
+      ],
+      "description": "An independent token launchpad for Zero, the blockchain by @LayerZero_Core . From the first bit to the next beginning. Pre-launch.",
+      "first_seen_utc": "2026-11-15T00:49:53+00:00",
+      "last_seen_utc": "2026-11-15T00:49:53+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -31187,14 +31274,119 @@
   "daily": [
     {
       "date": "2026-11-15",
-      "totalRows": 4,
-      "projectCount": 4,
+      "totalRows": 8,
+      "projectCount": 8,
       "focusCount": 0,
-      "candidateCount": 4,
+      "candidateCount": 8,
       "crossSource": 0,
-      "newCount": 3,
-      "repeatCount": 1,
+      "newCount": 4,
+      "repeatCount": 4,
       "projects": [
+        {
+          "project": "000.fun",
+          "account": "000dotfun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "speest 💎"
+          ],
+          "tgAlphas": [
+            "speest 💎"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-15T00:49:01+00:00",
+          "lastSeen": "2026-11-15T00:49:01+00:00",
+          "description": "From zero to FUN. A token launchpad built on @LayerZero_Core",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "000.fun",
+              "account": "000dotfun",
+              "alpha": "speest 💎",
+              "seenAt": "2026-11-15T00:49:01+00:00",
+              "messageId": "dodtwitterbot/40959",
+              "description": "From zero to FUN. A token launchpad built on @LayerZero_Core",
+              "text": "From zero to FUN. A token launchpad built on @LayerZero_Core"
+            }
+          ],
+          "text": " 000.fun 000dotfun From zero to FUN. A token launchpad built on @LayerZero_Core",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "010101",
+          "account": "010101fun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "speest 💎"
+          ],
+          "tgAlphas": [
+            "speest 💎"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-15T00:49:53+00:00",
+          "lastSeen": "2026-11-15T00:49:53+00:00",
+          "description": "An independent token launchpad for Zero, the blockchain by @LayerZero_Core . From the first bit to the next beginning. Pre-launch.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "010101",
+              "account": "010101fun",
+              "alpha": "speest 💎",
+              "seenAt": "2026-11-15T00:49:53+00:00",
+              "messageId": "dodtwitterbot/40961",
+              "description": "An independent token launchpad for Zero, the blockchain by @LayerZero_Core . From the first bit to the next beginning. Pre-launch.",
+              "text": "An independent token launchpad for Zero, the blockchain by @LayerZero_Core . From the first bit to the next beginning. Pre-launch."
+            }
+          ],
+          "text": " 010101 010101fun An independent token launchpad for Zero, the blockchain by @LayerZero_Core . From the first bit to the next beginning. Pre-launch.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "0rigin",
+          "account": "0rigindotfun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "speest 💎"
+          ],
+          "tgAlphas": [
+            "speest 💎"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-15T00:49:00+00:00",
+          "lastSeen": "2026-11-15T00:49:00+00:00",
+          "description": "Everything starts from 0, launchpad soon on @LayerZero_Core",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "0rigin",
+              "account": "0rigindotfun",
+              "alpha": "speest 💎",
+              "seenAt": "2026-11-15T00:49:00+00:00",
+              "messageId": "dodtwitterbot/40958",
+              "description": "Everything starts from 0, launchpad soon on @LayerZero_Core",
+              "text": "Everything starts from 0, launchpad soon on @LayerZero_Core"
+            }
+          ],
+          "text": " 0rigin 0rigindotfun Everything starts from 0, launchpad soon on @LayerZero_Core",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
         {
           "project": "Launch For Good",
           "account": "goodlauncher",
@@ -31334,6 +31526,41 @@
           "displayTier": "candidate",
           "avatarUrl": "",
           "dayStatus": "new"
+        },
+        {
+          "project": "Tzero",
+          "account": "T0dotfun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "speest 💎"
+          ],
+          "tgAlphas": [
+            "speest 💎"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-15T00:49:01+00:00",
+          "lastSeen": "2026-11-15T00:49:01+00:00",
+          "description": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Tzero",
+              "account": "T0dotfun",
+              "alpha": "speest 💎",
+              "seenAt": "2026-11-15T00:49:01+00:00",
+              "messageId": "dodtwitterbot/40960",
+              "description": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
+              "text": "The first launchpad on the last blockchain. Live on Zero Chain at mainnet."
+            }
+          ],
+          "text": " Tzero T0dotfun The first launchpad on the last blockchain. Live on Zero Chain at mainnet.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
         }
       ]
     },
@@ -58937,299 +59164,304 @@
   ],
   "reports": [
     {
+      "file": "2026-11-15-0121-telegram-update.md",
+      "title": "2026-11-15-0121-telegram-update",
+      "updatedAt": "2026-11-15T01:21:33.425Z"
+    },
+    {
       "file": "2026-11-14-2141-telegram-update.md",
       "title": "2026-11-14-2141-telegram-update",
-      "updatedAt": "2026-11-14T21:41:36.543Z"
+      "updatedAt": "2026-11-15T01:21:28.861Z"
     },
     {
       "file": "2026-11-14-1610-telegram-update.md",
       "title": "2026-11-14-1610-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.805Z"
+      "updatedAt": "2026-11-15T01:21:28.861Z"
     },
     {
       "file": "2026-11-14-0809-telegram-update.md",
       "title": "2026-11-14-0809-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.805Z"
+      "updatedAt": "2026-11-15T01:21:28.861Z"
     },
     {
       "file": "2026-11-13-2255-telegram-update.md",
       "title": "2026-11-13-2255-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.805Z"
+      "updatedAt": "2026-11-15T01:21:28.861Z"
     },
     {
       "file": "2026-11-13-1724-telegram-update.md",
       "title": "2026-11-13-1724-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.805Z"
+      "updatedAt": "2026-11-15T01:21:28.861Z"
     },
     {
       "file": "2026-11-13-0849-telegram-update.md",
       "title": "2026-11-13-0849-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.805Z"
+      "updatedAt": "2026-11-15T01:21:28.861Z"
     },
     {
       "file": "2026-11-12-2254-telegram-update.md",
       "title": "2026-11-12-2254-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.805Z"
+      "updatedAt": "2026-11-15T01:21:28.861Z"
     },
     {
       "file": "2026-11-12-1746-telegram-update.md",
       "title": "2026-11-12-1746-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.805Z"
+      "updatedAt": "2026-11-15T01:21:28.861Z"
     },
     {
       "file": "2026-11-12-0853-telegram-update.md",
       "title": "2026-11-12-0853-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.805Z"
+      "updatedAt": "2026-11-15T01:21:28.861Z"
     },
     {
       "file": "2026-11-11-2344-telegram-update.md",
       "title": "2026-11-11-2344-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.805Z"
+      "updatedAt": "2026-11-15T01:21:28.861Z"
     },
     {
       "file": "2026-11-11-1729-telegram-update.md",
       "title": "2026-11-11-1729-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.804Z"
+      "updatedAt": "2026-11-15T01:21:28.860Z"
     },
     {
       "file": "2026-11-11-0828-telegram-update.md",
       "title": "2026-11-11-0828-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.804Z"
+      "updatedAt": "2026-11-15T01:21:28.860Z"
     },
     {
       "file": "2026-11-11-0130-telegram-update.md",
       "title": "2026-11-11-0130-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.804Z"
+      "updatedAt": "2026-11-15T01:21:28.860Z"
     },
     {
       "file": "2026-11-10-2037-telegram-update.md",
       "title": "2026-11-10-2037-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.804Z"
+      "updatedAt": "2026-11-15T01:21:28.860Z"
     },
     {
       "file": "2026-11-10-1348-telegram-update.md",
       "title": "2026-11-10-1348-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.804Z"
+      "updatedAt": "2026-11-15T01:21:28.860Z"
     },
     {
       "file": "2026-11-10-0351-telegram-update.md",
       "title": "2026-11-10-0351-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.804Z"
+      "updatedAt": "2026-11-15T01:21:28.860Z"
     },
     {
       "file": "2026-11-09-2013-telegram-update.md",
       "title": "2026-11-09-2013-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.804Z"
+      "updatedAt": "2026-11-15T01:21:28.860Z"
     },
     {
       "file": "2026-11-09-0844-telegram-update.md",
       "title": "2026-11-09-0844-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.804Z"
+      "updatedAt": "2026-11-15T01:21:28.860Z"
     },
     {
       "file": "2026-11-08-2123-telegram-update.md",
       "title": "2026-11-08-2123-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.804Z"
+      "updatedAt": "2026-11-15T01:21:28.860Z"
     },
     {
       "file": "2026-11-08-1623-telegram-update.md",
       "title": "2026-11-08-1623-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.804Z"
+      "updatedAt": "2026-11-15T01:21:28.860Z"
     },
     {
       "file": "2026-11-08-0804-telegram-update.md",
       "title": "2026-11-08-0804-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.804Z"
+      "updatedAt": "2026-11-15T01:21:28.860Z"
     },
     {
       "file": "2026-11-07-2106-telegram-update.md",
       "title": "2026-11-07-2106-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.804Z"
+      "updatedAt": "2026-11-15T01:21:28.860Z"
     },
     {
       "file": "2026-11-07-1556-telegram-update.md",
       "title": "2026-11-07-1556-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.804Z"
+      "updatedAt": "2026-11-15T01:21:28.860Z"
     },
     {
       "file": "2026-11-07-0751-telegram-update.md",
       "title": "2026-11-07-0751-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.804Z"
+      "updatedAt": "2026-11-15T01:21:28.860Z"
     },
     {
       "file": "2026-11-06-2226-telegram-update.md",
       "title": "2026-11-06-2226-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.804Z"
+      "updatedAt": "2026-11-15T01:21:28.860Z"
     },
     {
       "file": "2026-11-06-1658-telegram-update.md",
       "title": "2026-11-06-1658-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.804Z"
+      "updatedAt": "2026-11-15T01:21:28.860Z"
     },
     {
       "file": "2026-11-06-0835-telegram-update.md",
       "title": "2026-11-06-0835-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.804Z"
+      "updatedAt": "2026-11-15T01:21:28.860Z"
     },
     {
       "file": "2026-11-05-2256-telegram-update.md",
       "title": "2026-11-05-2256-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.804Z"
+      "updatedAt": "2026-11-15T01:21:28.860Z"
     },
     {
       "file": "2026-11-05-1742-telegram-update.md",
       "title": "2026-11-05-1742-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.804Z"
+      "updatedAt": "2026-11-15T01:21:28.860Z"
     },
     {
       "file": "2026-11-05-0836-telegram-update.md",
       "title": "2026-11-05-0836-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.804Z"
+      "updatedAt": "2026-11-15T01:21:28.860Z"
     },
     {
       "file": "2026-11-04-2255-telegram-update.md",
       "title": "2026-11-04-2255-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.804Z"
+      "updatedAt": "2026-11-15T01:21:28.860Z"
     },
     {
       "file": "2026-11-04-1737-telegram-update.md",
       "title": "2026-11-04-1737-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.804Z"
+      "updatedAt": "2026-11-15T01:21:28.860Z"
     },
     {
       "file": "2026-11-04-0810-telegram-update.md",
       "title": "2026-11-04-0810-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.804Z"
+      "updatedAt": "2026-11-15T01:21:28.860Z"
     },
     {
       "file": "2026-11-04-0143-telegram-update.md",
       "title": "2026-11-04-0143-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.804Z"
+      "updatedAt": "2026-11-15T01:21:28.860Z"
     },
     {
       "file": "2026-11-03-2018-telegram-update.md",
       "title": "2026-11-03-2018-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.804Z"
+      "updatedAt": "2026-11-15T01:21:28.860Z"
     },
     {
       "file": "2026-11-03-1302-telegram-update.md",
       "title": "2026-11-03-1302-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.804Z"
+      "updatedAt": "2026-11-15T01:21:28.860Z"
     },
     {
       "file": "2026-11-03-0306-telegram-update.md",
       "title": "2026-11-03-0306-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.804Z"
+      "updatedAt": "2026-11-15T01:21:28.860Z"
     },
     {
       "file": "2026-11-02-1950-telegram-update.md",
       "title": "2026-11-02-1950-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.804Z"
+      "updatedAt": "2026-11-15T01:21:28.860Z"
     },
     {
       "file": "2026-11-02-0826-telegram-update.md",
       "title": "2026-11-02-0826-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.804Z"
+      "updatedAt": "2026-11-15T01:21:28.860Z"
     },
     {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.804Z"
+      "updatedAt": "2026-11-15T01:21:28.860Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.804Z"
+      "updatedAt": "2026-11-15T01:21:28.860Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.804Z"
+      "updatedAt": "2026-11-15T01:21:28.860Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.804Z"
+      "updatedAt": "2026-11-15T01:21:28.860Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.804Z"
+      "updatedAt": "2026-11-15T01:21:28.860Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.804Z"
+      "updatedAt": "2026-11-15T01:21:28.860Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.804Z"
+      "updatedAt": "2026-11-15T01:21:28.860Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.804Z"
+      "updatedAt": "2026-11-15T01:21:28.860Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.804Z"
+      "updatedAt": "2026-11-15T01:21:28.860Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.804Z"
+      "updatedAt": "2026-11-15T01:21:28.860Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.804Z"
+      "updatedAt": "2026-11-15T01:21:28.860Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.804Z"
+      "updatedAt": "2026-11-15T01:21:28.860Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.804Z"
+      "updatedAt": "2026-11-15T01:21:28.860Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.804Z"
+      "updatedAt": "2026-11-15T01:21:28.860Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.804Z"
+      "updatedAt": "2026-11-15T01:21:28.860Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.804Z"
+      "updatedAt": "2026-11-15T01:21:28.860Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.804Z"
+      "updatedAt": "2026-11-15T01:21:28.860Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.804Z"
+      "updatedAt": "2026-11-15T01:21:28.860Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-14T21:41:34.804Z"
+      "updatedAt": "2026-11-15T01:21:28.860Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-14T21:41:34.803Z"
+      "updatedAt": "2026-11-15T01:21:28.859Z"
     }
   ]
 }

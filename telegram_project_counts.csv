@@ -34,6 +34,8 @@ Korini,Korinitrade,5,5,2026-11-01T16:52:34+00:00,2026-11-10T10:23:02+00:00,prior
 Launchpad/terminal/social"
 Stockium,Stockium,5,5,2026-10-29T20:31:32+00:00,2026-11-09T12:50:55+00:00,priority,CSR; speest 💎; zyy; 蛋总; 阿宏,Launch tokens on HyperEVM. Graduate to Elysium paired with tokenized stocks. Memes meet Wall Street.
 Twoprint,twoprintlabs,5,5,2026-10-28T17:34:46+00:00,2026-11-09T06:24:14+00:00,priority,flaxsed; ibrax; speest 💎; 蛋总; 阿宏,Synthetic perps on Elysium
+000.fun,000dotfun,4,4,2026-11-02T11:33:37+00:00,2026-11-15T00:49:01+00:00,priority,speest 💎; unsynned; well; zyy,From zero to FUN. A token launchpad built on @LayerZero_Core
+0rigin,0rigindotfun,4,4,2026-11-02T21:29:15+00:00,2026-11-15T00:49:00+00:00,priority,CSR; lakka; speest 💎; unsynned,"Everything starts from 0, launchpad soon on @LayerZero_Core"
 Agora,agora_elysium,4,4,2026-10-30T15:23:19+00:00,2026-11-04T07:45:27+00:00,priority,lakka; speest 💎; 蛋总; 阿宏,First launchpad aggregator on Elysium
 BunnyPad,Bunnypadfun,4,4,2026-10-28T01:29:00+08:00,2026-11-01T16:59:42+00:00,priority,lakka; speest 💎; 蛋总; 阿宏,"The fair launchpad on @Enter_Elysium 🐰 One tx to launch. No seed liquidity, no graduation. Every pool is locked forever."
 CABAL,cabaldotfun,4,4,2026-10-28T17:40:02+00:00,2026-10-28T17:44:31+00:00,priority,Skrchen666(钻石手伤心版 绝对纸手之人）; flaxsed; 发誓要做永赚大师; 阿宏,Agent-only launchpad on Ethereum. ERC-8004 agents launch and trade; every call they make is judged on chain a day later.
@@ -58,8 +60,6 @@ NutshellMarkets,NutshellMarkets,4,4,2026-10-28T20:12:15+00:00,2026-11-03T21:10:1
 Offworld Privacy,OffworldPrivacy,4,4,2026-11-11T15:35:19+00:00,2026-11-14T14:38:43+00:00,priority,Mutu 🕸️; hit.ink; lakka; well,Building private DeFi with shielded Zcash
 Omnia π,0xOmnia,4,4,2026-10-28T18:47:16+00:00,2026-11-06T19:26:29+00:00,priority,CSR; flaxsed; speest 💎; 蛋总,@Kinetiq_xyz | @Markets_xyz | @Enter_Elysium
 Origo,origopad,4,4,2026-11-01T16:52:34+00:00,2026-11-02T11:02:15+00:00,priority,A佬; 发誓要做永赚大师; 蛋总; 阿宏,"Launch tokens with post quantum proof of origin anchored to Bitcoin, Monero, Zcash, and Hyperliquid."
-000.fun,000dotfun,3,3,2026-11-02T11:33:37+00:00,2026-11-11T04:49:41+00:00,priority,unsynned; well; zyy,From zero to FUN. A token launchpad built on @LayerZero_Core
-0rigin,0rigindotfun,3,3,2026-11-02T21:29:15+00:00,2026-11-09T20:18:14+00:00,priority,CSR; lakka; unsynned,"Everything starts from 0, launchpad soon on @LayerZero_Core"
 99901.fun,99901dotfun,3,3,2026-10-31T12:05:42+00:00,2026-11-01T14:41:57+00:00,priority,CSR; 蛋总; 阿宏,The launchpad on @Enter_Elysium . 9…9…9…0…1
 Agentic Pad,agenticsolfun,3,3,2026-10-28T17:19:30+00:00,2026-10-29T05:40:06+00:00,priority,Skrchen666(钻石手伤心版 绝对纸手之人）; flaxsed; 阿宏,The first Binance Agentic Launchpad on Solana
 Anemos,AnemosPad,3,3,2026-10-28T22:17:26+00:00,2026-11-01T05:26:41+00:00,priority,CSR; 蛋总; 阿宏,Launchpad on @Enter_Elysium . Trade here and your gas comes back in HYPE. Every token graduates with a 72h floor. Mainnet November 9.
@@ -152,6 +152,7 @@ tolls,tollsfun,3,3,2026-10-31T12:00:23+00:00,2026-11-01T06:10:58+00:00,priority,
 Agents pay in USDC over x402. Every request pays its toll.
 
 Token is not live yet."
+Tzero,T0dotfun,3,3,2026-11-02T11:33:42+00:00,2026-11-15T00:49:01+00:00,priority,speest 💎; unsynned; zyy,The first launchpad on the last blockchain. Live on Zero Chain at mainnet.
 Valhalla on Elysium,Valhalla_Launch,3,3,2026-10-30T14:07:21+00:00,2026-11-03T21:01:37+00:00,priority,BTC alpha; 蛋总; 阿宏,Alpha platform for launching NFTs and tokens on @Enter_Elysium
 Velom,velom33,3,3,2026-11-04T14:10:57+00:00,2026-11-09T08:49:03+00:00,priority,lakka; 蛋总; 阿宏,"ve(3,3) liquidity layer on @enter_elysium . veNFT gauges, HYPE bribes, fee-funded buyback and burn."
 Versine,VersineApp,3,3,2026-11-10T18:56:47+00:00,2026-11-11T05:48:24+00:00,priority,BearzVerse; unsynned; well,Let your AI agent send and receive money for you.
@@ -316,7 +317,6 @@ TG: https://t.co/FHbm4oX520"
 Token Guardian,TokenGuardianAI,2,2,2026-11-11T01:59:34+00:00,2026-11-14T14:14:22+00:00,watch,hit.ink; well,"AI-powered on-chain due diligence for any token. Assess bundles, linked wallets and potential risks. We do not have a token."
 torpor,torpornet,2,2,2026-11-01T04:43:52+00:00,2026-11-07T12:24:31+00:00,watch,蛋总; 阿宏,https://t.co/2bFEMjhiUw is the intelligence layer for Elysium NFTs. apply for wl https://t.co/h7N4CaglIV
 tryCorpusAI,tryCorpusAI,2,2,2026-11-11T20:31:04+00:00,2026-11-14T14:38:49+00:00,watch,hit.ink; unsynned,"Perpetual Compute -- x402 Compute Price Feeds -- Tokenized Compute Ownership, Yield Generation, and Speculation"
-Tzero,T0dotfun,2,2,2026-11-02T11:33:42+00:00,2026-11-09T20:18:14+00:00,watch,unsynned; zyy,The first launchpad on the last blockchain. Live on Zero Chain at mainnet.
 UNSEEN,UnseenOrdo,2,2,2026-10-29T07:10:35+00:00,2026-11-03T14:32:22+00:00,watch,八九; 阿宏,"The first Private UDA(NFT) collection on Bitcoin RGB.
 Here's to the unseen ones.
 TG → https://t.co/zzUxatm7kr"
@@ -341,6 +341,7 @@ AgentID 首发 · 储备曲线 · BNB 分红
 Tokenized exposure to America's next industrial giants.
 
 Built on @hectoinc issued on @Cantonnetwork ."
+010101,010101fun,1,1,2026-11-15T00:49:53+00:00,2026-11-15T00:49:53+00:00,watch,speest 💎,"An independent token launchpad for Zero, the blockchain by @LayerZero_Core . From the first bit to the next beginning. Pre-launch."
 0xWills | Crypto Inheritance,0xWillsHQ,1,1,2026-10-28T21:50:00+08:00,2026-10-28T21:50:00+08:00,watch,蛋总,"Leave your crypto to your family, without ever sharing your seed phrase. Free on testnet: https://t.co/buuZPTtCjZ · Built by @raza_armaghan"
 0z0,0z0_Fun,1,1,2026-11-02T11:33:24+00:00,2026-11-02T11:33:24+00:00,watch,zyy,A launchpad on @LayerZero_Core
 0Zero,0Zero_Fun,1,1,2026-11-02T11:33:37+00:00,2026-11-02T11:33:37+00:00,watch,zyy,"Every great idea starts at zero.
