@@ -34,6 +34,7 @@ Minting closes forever at 99.99%."
 Korini,Korinitrade,5,5,2026-11-01T16:52:34+00:00,2026-11-10T10:23:02+00:00,priority,CSR; Skrchen666(钻石手伤心版 绝对纸手之人）; hit.ink; lakka; 蛋总,"Korini trade launch and connect on giwa mainnet
 
 Launchpad/terminal/social"
+Sifr,sifrswap,5,5,2026-11-14T17:28:26+00:00,2026-11-16T15:21:05+00:00,priority,hit.ink; lakka; well; 发誓要做永赚大师; 阿宏,"The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one."
 Stockium,Stockium,5,5,2026-10-29T20:31:32+00:00,2026-11-09T12:50:55+00:00,priority,CSR; speest 💎; zyy; 蛋总; 阿宏,Launch tokens on HyperEVM. Graduate to Elysium paired with tokenized stocks. Memes meet Wall Street.
 Twoprint,twoprintlabs,5,5,2026-10-28T17:34:46+00:00,2026-11-09T06:24:14+00:00,priority,flaxsed; ibrax; speest 💎; 蛋总; 阿宏,Synthetic perps on Elysium
 Tzero,T0dotfun,5,5,2026-11-02T11:33:42+00:00,2026-11-15T15:35:00+00:00,priority,speest 💎; unsynned; well; zyy; 黑客fa1r,The first launchpad on the last blockchain. Live on Zero Chain at mainnet.
@@ -62,7 +63,6 @@ NutshellMarkets,NutshellMarkets,4,4,2026-10-28T20:12:15+00:00,2026-11-03T21:10:1
 Offworld Privacy,OffworldPrivacy,4,4,2026-11-11T15:35:19+00:00,2026-11-14T14:38:43+00:00,priority,Mutu 🕸️; hit.ink; lakka; well,Building private DeFi with shielded Zcash
 Omnia π,0xOmnia,4,4,2026-10-28T18:47:16+00:00,2026-11-06T19:26:29+00:00,priority,CSR; flaxsed; speest 💎; 蛋总,@Kinetiq_xyz | @Markets_xyz | @Enter_Elysium
 Origo,origopad,4,4,2026-11-01T16:52:34+00:00,2026-11-02T11:02:15+00:00,priority,A佬; 发誓要做永赚大师; 蛋总; 阿宏,"Launch tokens with post quantum proof of origin anchored to Bitcoin, Monero, Zcash, and Hyperliquid."
-Sifr,sifrswap,4,4,2026-11-14T17:28:26+00:00,2026-11-15T11:25:51+00:00,priority,hit.ink; well; 发誓要做永赚大师; 阿宏,"The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one."
 99901.fun,99901dotfun,3,3,2026-10-31T12:05:42+00:00,2026-11-01T14:41:57+00:00,priority,CSR; 蛋总; 阿宏,The launchpad on @Enter_Elysium . 9…9…9…0…1
 Agentic Pad,agenticsolfun,3,3,2026-10-28T17:19:30+00:00,2026-10-29T05:40:06+00:00,priority,Skrchen666(钻石手伤心版 绝对纸手之人）; flaxsed; 阿宏,The first Binance Agentic Launchpad on Solana
 Anemos,AnemosPad,3,3,2026-10-28T22:17:26+00:00,2026-11-01T05:26:41+00:00,priority,CSR; 蛋总; 阿宏,Launchpad on @Enter_Elysium . Trade here and your gas comes back in HYPE. Every token graduates with a 72h floor. Mainnet November 9.
@@ -233,6 +233,7 @@ Ericonomic,ericonomic,2,2,2026-11-01T03:54:07+00:00,2026-11-01T16:41:47+00:00,wa
 FishingAI,FishingAiBSC,2,2,2026-11-02T13:15:47+00:00,2026-11-03T11:30:09+00:00,watch,zyy; 阿宏,"你睡觉，你的 agent 在钓鱼 🎣 BSC 链上钓鱼游戏，持 .ai Agent ID 就能玩。
 You sleep, your agent fishes. An on-chain fishing game on BSC for .ai Agent ID holders."
 Flutch,Flutchdotfun,2,2,2026-11-01T06:18:52+00:00,2026-11-05T04:34:33+00:00,watch,A佬; 蛋总,Building the launch infrastructure for the next generation of builders | we’re not launching a token
+forge,avaxforge_etf,2,2,2026-11-12T04:31:02+00:00,2026-11-16T12:45:18+00:00,watch,lakka; 阿宏,"The ETF launchpad of @avax . Your stocks, your hooks, your fees."
 Forge,Forge_elysium,2,2,2026-11-09T06:26:04+00:00,2026-11-10T01:11:19+00:00,watch,老大哥; 阿宏,"Launch on Uniswap v4 from block one. Hook Blocks, Triggers, Assistance Fund. The pool you launch into is the pool that trades forever."
 Formation Markets,formation_mkts,2,2,2026-10-28T02:05:00+08:00,2026-10-28T03:40:00+08:00,watch,BearzVerse; unsynned,Creating markets and helping firms transfer risk using frontier markets.
 GLIDORA,UseGlidora,2,2,2026-11-04T13:52:24+00:00,2026-11-09T12:34:15+00:00,watch,hit.ink; 蛋总,Move with liquidity. Building controlled spot execution for Elysium.
@@ -268,6 +269,11 @@ LiGuRR,LigurrNFT,2,2,2026-11-02T01:18:39+00:00,2026-11-02T12:55:46+00:00,watch,A
 liquid,liquidtransfer,2,2,2026-10-30T18:12:47+00:00,2026-10-31T04:35:06+00:00,watch,BearzVerse; unsynned,"The any currency account for global operators. We connect bank, mobile money, stablecoin, bitcoin and gold payment networks from one platform."
 Loadout,loadoutprotocol,2,2,2026-11-03T23:49:05+00:00,2026-11-04T11:17:48+00:00,watch,A佬; 阿宏,The Launchpad for Games. From the creators of @illuviumio
 Maschina,MaschinaLabs,2,2,2026-10-31T20:39:57+00:00,2026-10-31T21:21:27+00:00,watch,BearzVerse; unsynned,"Building infrastructure for machines to work, transact, and earn."
+MERGIT,MergitonGIWA,2,2,2026-11-14T14:08:50+00:00,2026-11-16T15:11:14+00:00,watch,hit.ink; lakka,"An AI agent verifies merged pull requests and pays developer bounties on GIWA Chain.
+
+Merged, tested, paid in seconds.
+
+Building in public."
 MineHype,MineHyperLiquid,2,2,2026-11-09T07:19:11+00:00,2026-11-09T12:00:35+00:00,watch,A佬; 蛋总,"MineHype is a SHA-256 CPU mining protocol built on Elysium.
 Hold MineHype, Mine with your CPU.. 0xd3f363dd3b5c3f386884029e05a4ae8757b69490"
 MLX.app,MLXapp,2,2,2026-11-01T11:11:23+00:00,2026-11-02T10:07:48+00:00,watch,A佬; 阿宏,Building the Apple Silicon Supercomputer. Add your Mac to the AI compute network and earn MLX Tokens.
@@ -317,7 +323,11 @@ Spire,Spire_index,2,2,2026-11-08T13:50:23+00:00,2026-11-08T14:31:19+00:00,watch,
 Squadz Protocol,Squadzdotfun,2,2,2026-10-28T21:22:01+00:00,2026-11-06T12:10:20+00:00,watch,Mutu 🕸️; 蛋总,Decentralized fair launch protocol on Solana
 Stars,StarsAI_BSC,2,2,2026-11-12T09:28:28+00:00,2026-11-12T09:49:27+00:00,watch,八九; 枫叶,"A completely new minting launch platform&#33;
 TG: https://t.co/Iu9D8wcJxX"
+Sudo,textsudo,2,2,2026-11-14T14:11:34+00:00,2026-11-16T15:10:22+00:00,watch,hit.ink; lakka,"Your DeFi agent, research & trade through text.
+
+Live on Telegram & iMessage. No token."
 Syntropic Agent,SyntropicAgent,2,2,2026-11-03T21:43:31+00:00,2026-11-04T02:48:46+00:00,watch,unsynned; well,"An agent, developing & powering Real World Flywheels via Syntropic Farming, leveraging the @KokonutNetwork Framework."
+Tide,tide_data,2,2,2026-11-14T14:38:43+00:00,2026-11-16T14:58:36+00:00,watch,hit.ink; lakka,accelerating sui infrastructure
 Todd,ToshXguys,2,2,2026-10-29T06:12:54+00:00,2026-10-29T07:19:07+00:00,watch,发誓要做永赚大师; 蛋总,"TapeOut 生态发射台｜以 &#036;BEM为计价基准 @ToshProtocol
 
 TG: https://t.co/FHbm4oX520"
@@ -343,6 +353,11 @@ xiaosu,xiaosu998,2,2,2026-10-28T20:10:27+00:00,2026-10-29T05:40:06+00:00,watch,�
 碎碎念： https://t.co/hCvPW9fTVH
 Bitcoin Ordinals Eth"
 Yeetr,Yeetr_fun,2,2,2026-10-30T18:13:41+00:00,2026-10-31T04:35:06+00:00,watch,BearzVerse; unsynned,Onchain options for the tokens you hold.
+币安人生AI,BinanceLifeAI,2,2,2026-11-16T09:05:52+00:00,2026-11-16T16:54:19+00:00,watch,八九; 地推雷氏,"币安人生AI is now live on @binance through Agentic Wallet minting.
+
+Born on STARS AI. Built for the AI-powered Web3 era.
+
+TG: https://t.co/MpR1TRqyAT"
 币安分红,BiAnFenHong,2,2,2026-11-01T14:04:45+00:00,2026-11-01T14:21:55+00:00,watch,八九; 阿宏,"持币即享交易分红
 AgentID 首发 · 储备曲线 · BNB 分红
 无需质押 按持仓记账 自主领取"
@@ -401,6 +416,7 @@ Asend.,AsendNow,1,1,2026-10-29T12:01:16+00:00,2026-10-29T12:01:16+00:00,watch,ib
 Atlas,Atlas_Elysium,1,1,2026-10-29T12:00:51+00:00,2026-10-29T12:00:51+00:00,watch,阿宏,"The hedged liquidity layer of @Enter_Elysium . Earn the fees, skip the impermanent loss."
 Atrium Protocol,AtriumProtocol,1,1,2026-11-08T19:09:43+00:00,2026-11-08T19:09:43+00:00,watch,CSR,"Liquidity layer on @Enter_Elysium
 &#036;ATRM"
+avalaunch,avalaunchworld,1,1,2026-11-16T12:43:31+00:00,2026-11-16T12:43:31+00:00,watch,lakka,launch tokens paired with anything on avax
 Avax Hook,avaxhookfun,1,1,2026-11-11T12:51:15+00:00,2026-11-11T12:51:15+00:00,watch,A佬,"Building the hook-powered launchpad for Avalanche C-Chain.
 Launch. Trade. Go onchain. 🔺 🪝"
 Avia,Avia_Finance,1,1,2026-10-29T12:01:05+00:00,2026-10-29T12:01:05+00:00,watch,ibrax,Real aviation cash flows. Onchain yield.
@@ -484,10 +500,13 @@ Deanone 💎,Deanoneqq,1,1,2026-11-04T19:50:25+00:00,2026-11-04T19:50:25+00:00,w
 Defined,definedfi,1,1,2026-11-13T11:48:59+00:00,2026-11-13T11:48:59+00:00,watch,unsynned,"Tokens. Predictions. Perps. Sports. All in one, lightning-fast UI.
 
 No paid trending. Purely organic."
+deuslaunch,deuslaunch,1,1,2026-11-16T16:53:22+00:00,2026-11-16T16:53:22+00:00,watch,lakka,"GIWA Mainnet day 1.
+Launchpad on GIWA. @GIWA_by_Upbit"
 Divi.fun,Dividotfun,1,1,2026-11-08T17:43:05+00:00,2026-11-08T17:43:05+00:00,watch,阿宏,"The Launchpad Stack on Elysium
 
 Earn Points: https://t.co/uXjy8nZB34"
 dogepunk,dogepunkk,1,1,2026-10-29T18:26:23+00:00,2026-10-29T18:26:23+00:00,watch,Skrchen666(钻石手伤心版 绝对纸手之人）,doge agentic wallet
+Dream Robotics,dreamrobotics_,1,1,2026-11-16T16:55:13+00:00,2026-11-16T16:55:13+00:00,watch,unsynned,"Co-designing the hardware, AI models, and data pipeline to make robotic labor affordable and scalable."
 ELA.fun,Elaa_fun,1,1,2026-10-28T17:27:37+00:00,2026-10-28T17:27:37+00:00,watch,地推雷氏,The Next Generation Multi-Chain Launchpad & Traffic Growth Network
 Elijah Elysium,ElijahElysium,1,1,2026-11-07T18:41:24+00:00,2026-11-07T18:41:24+00:00,watch,CSR,One mind. For humans and agents. AI-powered Hyperliquid research. Building toward a home on Elysium.
 ElyChest,ElyChestFun,1,1,2026-10-30T14:07:21+00:00,2026-10-30T14:07:21+00:00,watch,阿宏,"Building a token launchpad for Elysium.
@@ -543,12 +562,12 @@ FM Tigrotto,fmtigrotto,1,1,2026-11-05T09:39:26+00:00,2026-11-05T09:39:26+00:00,w
 👤 by: @giovanibiava"
 FMining,FMining_,1,1,2026-11-06T10:55:13+00:00,2026-11-06T10:55:13+00:00,watch,蛋总,"Proof-of-work mining on Flap. AI agents hash for 7s, every score checked on-chain. Trade tax buys back, burns, pays miners. Hold more, earn more. ⛏️"
 Forest Pixel,playforestpixel,1,1,2026-11-04T12:20:11+00:00,2026-11-04T12:20:11+00:00,watch,蛋总,"A Web3 pixel adventure game with multiplayer, boss fights, rare drops, FPX Token and NFT items."
-forge,avaxforge_etf,1,1,2026-11-12T04:31:02+00:00,2026-11-12T04:31:02+00:00,watch,阿宏,"The ETF launchpad of @avax . Your stocks, your hooks, your fees."
 Fupa on PulseChain,FupaFinance,1,1,2026-11-05T13:43:00+00:00,2026-11-05T13:43:00+00:00,watch,蛋总,Fupa on PulseChain | Unruggable by design | Starlink-powered from the Highlands 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | Driving volume & liquidity | &#036;FUPA | &#036;ZELDA |
 Furge,furgexyz,1,1,2026-11-06T09:31:21+00:00,2026-11-06T09:31:21+00:00,watch,蛋总,"The all-in-one onchain trading platform. Perps, Spot, custom bots & market making."
 Gage,gagedotcash,1,1,2026-10-29T13:43:45+00:00,2026-10-29T13:43:45+00:00,watch,阿宏,"The no liquidation fixed credit peer to peer credit protocol of @RobinhoodCrypto
 
 Get cash for your memes/stocks and LP pairs."
+Gamapad · Launchpad on GIWA,gamapadcom,1,1,2026-11-16T16:53:22+00:00,2026-11-16T16:53:22+00:00,watch,lakka,Day 1 token launchpad on GIWA Chain. Testnet live now.
 gamenest,gamenestnetwork,1,1,2026-11-04T12:48:49+00:00,2026-11-04T12:48:49+00:00,watch,蛋总,"Draw it, build it, play it, share it. 2D games without a single line of code."
 Gangstaz Taking All,Gangstazfun,1,1,2026-11-13T19:51:11+00:00,2026-11-13T19:51:11+00:00,watch,BTC alpha,"RWA gaming meets gangster life on @RobinhoodApp 👑
 Gold. Silver. Oil.
@@ -671,6 +690,7 @@ kascov,kascovio,1,1,2026-11-04T13:59:19+00:00,2026-11-04T13:59:19+00:00,watch,�
 Kinetiq Energy,KeenOnElysium,1,1,2026-11-08T13:52:17+00:00,2026-11-08T13:52:17+00:00,watch,蛋总,"E = ½mv².
 The market charges the battery. The dump fires it. The supply burns.
 ⚡ &#036;KEEN on Elysium"
+Kinfield,kinfieldlabs,1,1,2026-11-16T16:30:40+00:00,2026-11-16T16:30:40+00:00,watch,lakka,Train the next generation of AI trading agents. Test your strategies in simulated markets and help agents learn from your trades. Powered by @HyperliquidX .
 kodziak,_kodziak,1,1,2026-11-15T11:18:59+00:00,2026-11-15T11:18:59+00:00,watch,发誓要做永赚大师,"shill me your product at @inkonchain @nadohq
 
 bullposting on my own"
@@ -726,11 +746,6 @@ Medbay,MedbayVault,1,1,2026-11-07T09:33:44+00:00,2026-11-07T09:33:44+00:00,watch
 Pass the check → liquidity from minute one
 Fail → stay on the ground"
 Mehmski,Mehmski,1,1,2026-10-28T20:38:57+00:00,2026-10-28T20:38:57+00:00,watch,CSR,Corporate Tax Lawyer tuned into crypto / Game is game
-MERGIT,MergitonGIWA,1,1,2026-11-14T14:08:50+00:00,2026-11-14T14:08:50+00:00,watch,hit.ink,"An AI agent verifies merged pull requests and pays developer bounties on GIWA Chain.
-
-Merged, tested, paid in seconds.
-
-Building in public."
 MeridianTown,meridiantown,1,1,2026-11-14T14:13:25+00:00,2026-11-14T14:13:25+00:00,watch,hit.ink,"A market town that runs itself. AI shopkeepers, a real economy, and shops you can own. Built on NEAR. Coming to mainnet."
 Meron,MeronElysium,1,1,2026-11-10T21:20:41+00:00,2026-11-10T21:20:41+00:00,watch,Mutu 🕸️,"Launch a coin on @Enter_Elysium and choose where every trade fee goes: you, holders, buyback and burn, or a @Hyperliquidx perp."
 Mey Network,Mey_Network,1,1,2026-11-03T14:37:42+00:00,2026-11-03T14:37:42+00:00,watch,阿宏,"Empowering the next RWA Supercycle with Property Token Offerings (PTO). Powered by &#036;MEY.
@@ -804,6 +819,10 @@ Join Raydium, WOOFi, Vanta, and 450+ more&#33;"
 Orez,OrezDotFun,1,1,2026-11-15T04:42:48+00:00,2026-11-15T04:42:48+00:00,watch,阿宏,The @LayerZero_Core Launchpad
 Orionpad,orionpad,1,1,2026-11-09T09:31:23+00:00,2026-11-09T09:31:23+00:00,watch,蛋总,"Orionpad launch tokens with post-quantum proof of origin anchored to Monero.
 @Enter_Elysium provides verifiable digital birth certificates for tokens."
+oripa.xyz,oripaxyz,1,1,2026-11-16T15:13:56+00:00,2026-11-16T15:13:56+00:00,watch,lakka,"japanese pack ripping, now onchain. @HyperliquidX
+hit = real card, yours. miss = &#036;ORIPA, also yours.
+every miss mints."
+Ozero,ozero_fun,1,1,2026-11-16T12:42:38+00:00,2026-11-16T12:42:38+00:00,watch,lakka,A Launchpad for the rest of us.
 P2PKit,p2pkitdotcom,1,1,2026-11-04T22:42:03+00:00,2026-11-04T22:42:03+00:00,watch,NΞO,Take local payments. Settle in USDC.
 PadPad,ThePadPad,1,1,2026-11-10T15:15:18+00:00,2026-11-10T15:15:18+00:00,watch,hit.ink,"Coins, launchpads, any pair. Live on Solana."
 PAIR,pairedelysium,1,1,2026-11-06T10:24:03+00:00,2026-11-06T10:24:03+00:00,watch,蛋总,"Launch a token paired with any asset people already hold. Single-sided on Kleos, &#036;5k open, 1% fee. &#036;PAIR anything on Elysium"
@@ -846,6 +865,8 @@ Primus Labs,primus_labs,1,1,2026-11-03T08:02:38+00:00,2026-11-03T08:02:38+00:00,
 Priors,priors_trade,1,1,2026-11-01T11:13:11+00:00,2026-11-01T11:13:11+00:00,watch,发誓要做永赚大师,"The credit layer for AI agents on Robinhood Chain. agents borrow USDG and build a record. stocks, @pendle_fi PT and save on @Morpho"
 PrivKet,privketcom,1,1,2026-11-04T12:58:25+00:00,2026-11-04T12:58:25+00:00,watch,lakka,The privacy first NFTs marketplace on @CantonNetwork
 Project Harmonia,JoinHarmonia,1,1,2026-11-08T06:30:46+00:00,2026-11-08T06:30:46+00:00,watch,BearzVerse,Tokenization meets distribution. Connecting regulated tokenized funds to Allfunds’ institutional network and @Solana . Quarterly RFP rounds. Apply now ↓
+ProofMarket,ProofMarketfun,1,1,2026-11-16T18:56:42+00:00,2026-11-16T18:56:42+00:00,watch,unsynned,"Hi AI agents, how can I help you?
+A marketplace connecting AI agents with humans for real-world tasks. Verifiable proof, onchain rewards. Powered by Solana."
 Puffy Puff,PuffyPuffNFT,1,1,2026-11-07T02:25:50+00:00,2026-11-07T02:25:50+00:00,watch,well,"2,222 unfairly grumpy Puffs on @Enter_Elysium . 93 hand-built traits, 8 layers. Grumpy since block zero. Low numbers mint first."
 PurrCade,PurrCadeGames,1,1,2026-11-08T06:29:54+00:00,2026-11-08T06:29:54+00:00,watch,BearzVerse,"Mobile arcade games on @Enter_Elysium . Top the 4h leaderboard, take 50% of every play-in fee. Try it on Elysium testnet: https://t.co/W1UBDxjqOm"
 PYRIVA,Desire8492261,1,1,2026-10-30T15:23:19+00:00,2026-10-30T15:23:19+00:00,watch,八九,"PYRIVA | An AI-Native NFT Launchpad on BSC
@@ -925,9 +946,15 @@ Squeekcrumb,Squeekcrumb,1,1,2026-11-04T14:10:56+00:00,2026-11-04T14:10:56+00:00,
 st0cks,St0cksfun,1,1,2026-11-15T04:38:26+00:00,2026-11-15T04:38:26+00:00,watch,阿宏,"Stocks, with @LayerZero_Core
 A stock-meme launchpad, coming to Zero."
 Stars agent,Starsagent_BNB,1,1,2026-10-30T15:06:19+00:00,2026-10-30T15:06:19+00:00,watch,地推雷氏,"Spells are written into the Ledger. A Solana card battler with Echo, Leylines and Pacts. Earn &#036;Ember by playing. 8B1ehC8qLoFYhqFTueBa1zq8s7uwV2qtsufDp4qapump"
-Sudo,textsudo,1,1,2026-11-14T14:11:34+00:00,2026-11-14T14:11:34+00:00,watch,hit.ink,"Your DeFi agent, research & trade through text.
+StinkyPenguin 臭企鹅,StinkyPenguinL0,1,1,2026-11-16T15:49:58+00:00,2026-11-16T15:49:58+00:00,watch,CSR,"I am my penguin and my penguin is me.
+· *Rookery* launchpad burns 0.5% of every trade into the penguin
+· Pad for: LayerZero / Giwa / XLM 👈"
+Stroopy XLM Mascot,StroopyMascot,1,1,2026-11-16T16:16:00+00:00,2026-11-16T16:16:00+00:00,watch,CSR,"Stroopy is Stellar's mascot. The name comes from “stroop,”
+- the smallest unit of XLM
+@StellarOrg
 
-Live on Telegram & iMessage. No token."
+Deployed on Rookery, liquidity transferred to
+@AquariusD"
 Sunpeak AI,sunpeak_ai,1,1,2026-11-06T10:33:16+00:00,2026-11-06T10:33:16+00:00,watch,A佬,"MCP App framework and MCP testing framework. Build, test, ship ChatGPT Apps and Claude Connectors.
 
 Our token is launching soon."
@@ -985,7 +1012,9 @@ A small agent with &#036;100 in a big city of bots, hunting new ways to earn on-
 
 Sidekick: Bart 🐦"
 THE PODS,thepodnft,1,1,2026-11-06T11:05:21+00:00,2026-11-06T11:05:21+00:00,watch,蛋总,111 ai slops coming soon on @Enter_Elysium
-Tide,tide_data,1,1,2026-11-14T14:38:43+00:00,2026-11-14T14:38:43+00:00,watch,hit.ink,accelerating sui infrastructure
+Thinkers_,ThinkersClub_,1,1,2026-11-16T16:28:54+00:00,2026-11-16T16:28:54+00:00,watch,lakka,"World's first stock paired NFTs coming soon to INK chain.
+
+thinking_thinking_thinking_"
 TidePerps,tideperps,1,1,2026-11-09T07:13:44+00:00,2026-11-09T07:13:44+00:00,watch,A佬,"Perpetual markets intelligence, built for @Enter_Elysium on @HyperliquidX ."
 Tilt,playtilt_gg,1,1,2026-11-09T08:10:18+00:00,2026-11-09T08:10:18+00:00,watch,speest 💎,Enter the arena. Provably fair games on @Enter_Elysium . 18+
 Tiny Farm,tiny_farming,1,1,2026-10-29T13:39:17+00:00,2026-10-29T13:39:17+00:00,watch,蛋总,A pixel-art farming game played by AI agents.
@@ -1024,6 +1053,9 @@ Built on @Enter_Elysium"
 Zero Cool,ZeroCool_AI,1,1,2026-11-06T17:23:16+00:00,2026-11-06T17:23:16+00:00,watch,speest 💎,"AI + human hybrid security systems for the cyborg era.
 
 Trusted by @Uniswap , @YearnFi , @yAuditDAO and more&#33;"
+Zero Pengus,Zero_Pengus,1,1,2026-11-16T18:57:36+00:00,2026-11-16T18:57:36+00:00,watch,unsynned,"First Pengus NFT collection on @LayerZero_Core .
+
+5,555 pixel Pengus. Free Mint."
 ZeroStocks,0Stocks_fun,1,1,2026-11-15T04:40:09+00:00,2026-11-15T04:40:09+00:00,watch,阿宏,"Launch a token. Pair it with a stock. The stock-paired launchpad, built on @LayerZero_Core"
 Zerror,Zerror_Protocol,1,1,2026-11-15T04:42:47+00:00,2026-11-15T04:42:47+00:00,watch,阿宏,"A next-generation hybrid exchange on Zero. AMM + Orderbook, intelligent liquidity routing and verifiable onchain settlement on @LayerZero_Core"
 Zillions,zillions_app,1,1,2026-10-29T12:01:15+00:00,2026-10-29T12:01:15+00:00,watch,ibrax,Zcash to the zillions.

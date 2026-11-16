@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-16T08:39:17.018Z",
+  "generatedAt": "2026-11-16T19:53:46.862Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 41097,
-    "lastMessageAt": "2026-11-16T08:31:17+00:00",
-    "lastCheckedAt": "2026-11-16T08:39:16.855Z",
-    "previousMessageId": 41079,
-    "pagesRead": 1,
-    "messagesRead": 18,
-    "newProjectRecords": 2,
+    "lastMessageId": 41160,
+    "lastMessageAt": "2026-11-16T19:24:06+00:00",
+    "lastCheckedAt": "2026-11-16T19:53:46.693Z",
+    "previousMessageId": 41097,
+    "pagesRead": 4,
+    "messagesRead": 63,
+    "newProjectRecords": 19,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 947,
+    "telegramRows": 966,
     "xRows": 0,
-    "projects": 586,
+    "projects": 599,
     "crossSource": 0
   },
   "projects": [
@@ -1770,6 +1770,88 @@
       "avatarUrl": ""
     },
     {
+      "project": "Sifr",
+      "account": "sifrswap",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "hit.ink",
+        "lakka",
+        "well",
+        "发誓要做永赚大师",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "hit.ink",
+        "lakka",
+        "well",
+        "发誓要做永赚大师",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 5,
+      "firstSeen": "2026-11-14T17:28:26+00:00",
+      "lastSeen": "2026-11-16T15:21:05+00:00",
+      "description": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Sifr",
+          "account": "sifrswap",
+          "alpha": "hit.ink",
+          "seenAt": "2026-11-14T17:28:26+00:00",
+          "messageId": "dodtwitterbot/40943",
+          "description": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one.",
+          "text": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one."
+        },
+        {
+          "source": "TG",
+          "project": "Sifr",
+          "account": "sifrswap",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-15T04:42:47+00:00",
+          "messageId": "dodtwitterbot/40977",
+          "description": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one.",
+          "text": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one."
+        },
+        {
+          "source": "TG",
+          "project": "Sifr",
+          "account": "sifrswap",
+          "alpha": "well",
+          "seenAt": "2026-11-15T07:31:29+00:00",
+          "messageId": "dodtwitterbot/41003",
+          "description": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one.",
+          "text": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one."
+        },
+        {
+          "source": "TG",
+          "project": "Sifr",
+          "account": "sifrswap",
+          "alpha": "发誓要做永赚大师",
+          "seenAt": "2026-11-15T11:25:51+00:00",
+          "messageId": "dodtwitterbot/41039",
+          "description": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one.",
+          "text": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one."
+        },
+        {
+          "source": "TG",
+          "project": "Sifr",
+          "account": "sifrswap",
+          "alpha": "lakka",
+          "seenAt": "2026-11-16T15:21:05+00:00",
+          "messageId": "dodtwitterbot/41119",
+          "description": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one.",
+          "text": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one."
+        }
+      ],
+      "text": " Sifr sifrswap The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one. Sifr sifrswap The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one. Sifr sifrswap The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one. Sifr sifrswap The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one. Sifr sifrswap The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one.",
+      "score": 10,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Stockium",
       "account": "Stockium",
       "sources": [
@@ -3061,76 +3143,6 @@
         }
       ],
       "text": " Origo origopad Launch tokens with post quantum proof of origin anchored to Bitcoin, Monero, Zcash, and Hyperliquid. Origo origopad Launch tokens with post quantum proof of origin anchored to Bitcoin, Monero, Zcash, and Hyperliquid. Origo origopad Launch tokens with post quantum proof of origin anchored to Bitcoin, Monero, Zcash, and Hyperliquid. Origo origopad Launch tokens with post quantum proof of origin anchored to Bitcoin, Monero, Zcash, and Hyperliquid.",
-      "score": 8,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Sifr",
-      "account": "sifrswap",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "hit.ink",
-        "well",
-        "发誓要做永赚大师",
-        "阿宏"
-      ],
-      "tgAlphas": [
-        "hit.ink",
-        "well",
-        "发誓要做永赚大师",
-        "阿宏"
-      ],
-      "xAlphas": [],
-      "mentions": 4,
-      "firstSeen": "2026-11-14T17:28:26+00:00",
-      "lastSeen": "2026-11-15T11:25:51+00:00",
-      "description": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Sifr",
-          "account": "sifrswap",
-          "alpha": "hit.ink",
-          "seenAt": "2026-11-14T17:28:26+00:00",
-          "messageId": "dodtwitterbot/40943",
-          "description": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one.",
-          "text": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one."
-        },
-        {
-          "source": "TG",
-          "project": "Sifr",
-          "account": "sifrswap",
-          "alpha": "阿宏",
-          "seenAt": "2026-11-15T04:42:47+00:00",
-          "messageId": "dodtwitterbot/40977",
-          "description": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one.",
-          "text": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one."
-        },
-        {
-          "source": "TG",
-          "project": "Sifr",
-          "account": "sifrswap",
-          "alpha": "well",
-          "seenAt": "2026-11-15T07:31:29+00:00",
-          "messageId": "dodtwitterbot/41003",
-          "description": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one.",
-          "text": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one."
-        },
-        {
-          "source": "TG",
-          "project": "Sifr",
-          "account": "sifrswap",
-          "alpha": "发誓要做永赚大师",
-          "seenAt": "2026-11-15T11:25:51+00:00",
-          "messageId": "dodtwitterbot/41039",
-          "description": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one.",
-          "text": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one."
-        }
-      ],
-      "text": " Sifr sifrswap The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one. Sifr sifrswap The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one. Sifr sifrswap The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one. Sifr sifrswap The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one.",
       "score": 8,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -8004,6 +8016,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "forge",
+      "account": "avaxforge_etf",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "lakka",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-12T04:31:02+00:00",
+      "lastSeen": "2026-11-16T12:45:18+00:00",
+      "description": "The ETF launchpad of @avax . Your stocks, your hooks, your fees.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "forge",
+          "account": "avaxforge_etf",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-12T04:31:02+00:00",
+          "messageId": "dodtwitterbot/40691",
+          "description": "The ETF launchpad of @avax . Your stocks, your hooks, your fees.",
+          "text": "The ETF launchpad of @avax . Your stocks, your hooks, your fees."
+        },
+        {
+          "source": "TG",
+          "project": "forge",
+          "account": "avaxforge_etf",
+          "alpha": "lakka",
+          "seenAt": "2026-11-16T12:45:18+00:00",
+          "messageId": "dodtwitterbot/41108",
+          "description": "The ETF launchpad of @avax . Your stocks, your hooks, your fees.",
+          "text": "The ETF launchpad of @avax . Your stocks, your hooks, your fees."
+        }
+      ],
+      "text": " forge avaxforge_etf The ETF launchpad of @avax . Your stocks, your hooks, your fees. forge avaxforge_etf The ETF launchpad of @avax . Your stocks, your hooks, your fees.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Forge",
       "account": "Forge_elysium",
       "sources": [
@@ -8965,6 +9023,52 @@
         }
       ],
       "text": " Maschina MaschinaLabs Building infrastructure for machines to work, transact, and earn. Maschina MaschinaLabs Building infrastructure for machines to work, transact, and earn.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "MERGIT",
+      "account": "MergitonGIWA",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "hit.ink",
+        "lakka"
+      ],
+      "tgAlphas": [
+        "hit.ink",
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-14T14:08:50+00:00",
+      "lastSeen": "2026-11-16T15:11:14+00:00",
+      "description": "An AI agent verifies merged pull requests and pays developer bounties on GIWA Chain.\n\nMerged, tested, paid in seconds.\n\nBuilding in public.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "MERGIT",
+          "account": "MergitonGIWA",
+          "alpha": "hit.ink",
+          "seenAt": "2026-11-14T14:08:50+00:00",
+          "messageId": "dodtwitterbot/40902",
+          "description": "An AI agent verifies merged pull requests and pays developer bounties on GIWA Chain.\n\nMerged, tested, paid in seconds.\n\nBuilding in public.",
+          "text": "An AI agent verifies merged pull requests and pays developer bounties on GIWA Chain.\n\nMerged, tested, paid in seconds.\n\nBuilding in public."
+        },
+        {
+          "source": "TG",
+          "project": "MERGIT",
+          "account": "MergitonGIWA",
+          "alpha": "lakka",
+          "seenAt": "2026-11-16T15:11:14+00:00",
+          "messageId": "dodtwitterbot/41117",
+          "description": "An AI agent verifies merged pull requests and pays developer bounties on GIWA Chain.\n\nMerged, tested, paid in seconds.\n\nBuilding in public.",
+          "text": "An AI agent verifies merged pull requests and pays developer bounties on GIWA Chain.\n\nMerged, tested, paid in seconds.\n\nBuilding in public."
+        }
+      ],
+      "text": " MERGIT MergitonGIWA An AI agent verifies merged pull requests and pays developer bounties on GIWA Chain.\n\nMerged, tested, paid in seconds.\n\nBuilding in public. MERGIT MergitonGIWA An AI agent verifies merged pull requests and pays developer bounties on GIWA Chain.\n\nMerged, tested, paid in seconds.\n\nBuilding in public.",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -10304,6 +10408,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "Sudo",
+      "account": "textsudo",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "hit.ink",
+        "lakka"
+      ],
+      "tgAlphas": [
+        "hit.ink",
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-14T14:11:34+00:00",
+      "lastSeen": "2026-11-16T15:10:22+00:00",
+      "description": "Your DeFi agent, research & trade through text.\n\nLive on Telegram & iMessage. No token.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Sudo",
+          "account": "textsudo",
+          "alpha": "hit.ink",
+          "seenAt": "2026-11-14T14:11:34+00:00",
+          "messageId": "dodtwitterbot/40904",
+          "description": "Your DeFi agent, research & trade through text.\n\nLive on Telegram & iMessage. No token.",
+          "text": "Your DeFi agent, research & trade through text.\n\nLive on Telegram & iMessage. No token."
+        },
+        {
+          "source": "TG",
+          "project": "Sudo",
+          "account": "textsudo",
+          "alpha": "lakka",
+          "seenAt": "2026-11-16T15:10:22+00:00",
+          "messageId": "dodtwitterbot/41116",
+          "description": "Your DeFi agent, research & trade through text.\n\nLive on Telegram & iMessage. No token.",
+          "text": "Your DeFi agent, research & trade through text.\n\nLive on Telegram & iMessage. No token."
+        }
+      ],
+      "text": " Sudo textsudo Your DeFi agent, research & trade through text.\n\nLive on Telegram & iMessage. No token. Sudo textsudo Your DeFi agent, research & trade through text.\n\nLive on Telegram & iMessage. No token.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Syntropic Agent",
       "account": "SyntropicAgent",
       "sources": [
@@ -10345,6 +10495,52 @@
         }
       ],
       "text": " Syntropic Agent SyntropicAgent An agent, developing & powering Real World Flywheels via Syntropic Farming, leveraging the @KokonutNetwork Framework. Syntropic Agent SyntropicAgent An agent, developing & powering Real World Flywheels via Syntropic Farming, leveraging the @KokonutNetwork Framework.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Tide",
+      "account": "tide_data",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "hit.ink",
+        "lakka"
+      ],
+      "tgAlphas": [
+        "hit.ink",
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-14T14:38:43+00:00",
+      "lastSeen": "2026-11-16T14:58:36+00:00",
+      "description": "accelerating sui infrastructure",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Tide",
+          "account": "tide_data",
+          "alpha": "hit.ink",
+          "seenAt": "2026-11-14T14:38:43+00:00",
+          "messageId": "dodtwitterbot/40917",
+          "description": "accelerating sui infrastructure",
+          "text": "accelerating sui infrastructure"
+        },
+        {
+          "source": "TG",
+          "project": "Tide",
+          "account": "tide_data",
+          "alpha": "lakka",
+          "seenAt": "2026-11-16T14:58:36+00:00",
+          "messageId": "dodtwitterbot/41110",
+          "description": "accelerating sui infrastructure",
+          "text": "accelerating sui infrastructure"
+        }
+      ],
+      "text": " Tide tide_data accelerating sui infrastructure Tide tide_data accelerating sui infrastructure",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -10897,6 +11093,52 @@
         }
       ],
       "text": " Yeetr Yeetr_fun Onchain options for the tokens you hold. Yeetr Yeetr_fun Onchain options for the tokens you hold.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "币安人生AI",
+      "account": "BinanceLifeAI",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "八九",
+        "地推雷氏"
+      ],
+      "tgAlphas": [
+        "八九",
+        "地推雷氏"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-16T09:05:52+00:00",
+      "lastSeen": "2026-11-16T16:54:19+00:00",
+      "description": "币安人生AI is now live on @binance through Agentic Wallet minting.\n\nBorn on STARS AI. Built for the AI-powered Web3 era.\n\nTG: https://t.co/MpR1TRqyAT",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "币安人生AI",
+          "account": "BinanceLifeAI",
+          "alpha": "八九",
+          "seenAt": "2026-11-16T09:05:52+00:00",
+          "messageId": "dodtwitterbot/41099",
+          "description": "币安人生AI is now live on @binance through Agentic Wallet minting.\n\nBorn on STARS AI. Built for the AI-powered Web3 era.",
+          "text": "币安人生AI is now live on @binance through Agentic Wallet minting.\n\nBorn on STARS AI. Built for the AI-powered Web3 era."
+        },
+        {
+          "source": "TG",
+          "project": "币安人生AI",
+          "account": "BinanceLifeAI",
+          "alpha": "地推雷氏",
+          "seenAt": "2026-11-16T16:54:19+00:00",
+          "messageId": "dodtwitterbot/41137",
+          "description": "币安人生AI is now live on @binance through Agentic Wallet minting.\n\nBorn on STARS AI. Built for the AI-powered Web3 era.\n\nTG: https://t.co/MpR1TRqyAT",
+          "text": "币安人生AI is now live on @binance through Agentic Wallet minting.\n\nBorn on STARS AI. Built for the AI-powered Web3 era.\n\nTG: https://t.co/MpR1TRqyAT"
+        }
+      ],
+      "text": " 币安人生AI BinanceLifeAI 币安人生AI is now live on @binance through Agentic Wallet minting.\n\nBorn on STARS AI. Built for the AI-powered Web3 era. 币安人生AI BinanceLifeAI 币安人生AI is now live on @binance through Agentic Wallet minting.\n\nBorn on STARS AI. Built for the AI-powered Web3 era.\n\nTG: https://t.co/MpR1TRqyAT",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -11929,6 +12171,40 @@
         }
       ],
       "text": " Atrium Protocol AtriumProtocol Liquidity layer on @Enter_Elysium\n&#036;ATRM",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "avalaunch",
+      "account": "avalaunchworld",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka"
+      ],
+      "tgAlphas": [
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-16T12:43:31+00:00",
+      "lastSeen": "2026-11-16T12:43:31+00:00",
+      "description": "launch tokens paired with anything on avax",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "avalaunch",
+          "account": "avalaunchworld",
+          "alpha": "lakka",
+          "seenAt": "2026-11-16T12:43:31+00:00",
+          "messageId": "dodtwitterbot/41107",
+          "description": "launch tokens paired with anything on avax",
+          "text": "launch tokens paired with anything on avax"
+        }
+      ],
+      "text": " avalaunch avalaunchworld launch tokens paired with anything on avax",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -13634,6 +13910,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "deuslaunch",
+      "account": "deuslaunch",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka"
+      ],
+      "tgAlphas": [
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-16T16:53:22+00:00",
+      "lastSeen": "2026-11-16T16:53:22+00:00",
+      "description": "GIWA Mainnet day 1.\nLaunchpad on GIWA. @GIWA_by_Upbit",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "deuslaunch",
+          "account": "deuslaunch",
+          "alpha": "lakka",
+          "seenAt": "2026-11-16T16:53:22+00:00",
+          "messageId": "dodtwitterbot/41135",
+          "description": "GIWA Mainnet day 1.\nLaunchpad on GIWA. @GIWA_by_Upbit",
+          "text": "GIWA Mainnet day 1.\nLaunchpad on GIWA. @GIWA_by_Upbit"
+        }
+      ],
+      "text": " deuslaunch deuslaunch GIWA Mainnet day 1.\nLaunchpad on GIWA. @GIWA_by_Upbit",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Divi.fun",
       "account": "Dividotfun",
       "sources": [
@@ -13697,6 +14007,40 @@
         }
       ],
       "text": " dogepunk dogepunkk doge agentic wallet",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Dream Robotics",
+      "account": "dreamrobotics_",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-16T16:55:13+00:00",
+      "lastSeen": "2026-11-16T16:55:13+00:00",
+      "description": "Co-designing the hardware, AI models, and data pipeline to make robotic labor affordable and scalable.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Dream Robotics",
+          "account": "dreamrobotics_",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-16T16:55:13+00:00",
+          "messageId": "dodtwitterbot/41139",
+          "description": "Co-designing the hardware, AI models, and data pipeline to make robotic labor affordable and scalable.",
+          "text": "Co-designing the hardware, AI models, and data pipeline to make robotic labor affordable and scalable."
+        }
+      ],
+      "text": " Dream Robotics dreamrobotics_ Co-designing the hardware, AI models, and data pipeline to make robotic labor affordable and scalable.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -14960,40 +15304,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "forge",
-      "account": "avaxforge_etf",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "阿宏"
-      ],
-      "tgAlphas": [
-        "阿宏"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-12T04:31:02+00:00",
-      "lastSeen": "2026-11-12T04:31:02+00:00",
-      "description": "The ETF launchpad of @avax . Your stocks, your hooks, your fees.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "forge",
-          "account": "avaxforge_etf",
-          "alpha": "阿宏",
-          "seenAt": "2026-11-12T04:31:02+00:00",
-          "messageId": "dodtwitterbot/40691",
-          "description": "The ETF launchpad of @avax . Your stocks, your hooks, your fees.",
-          "text": "The ETF launchpad of @avax . Your stocks, your hooks, your fees."
-        }
-      ],
-      "text": " forge avaxforge_etf The ETF launchpad of @avax . Your stocks, your hooks, your fees.",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
       "project": "Fupa on PulseChain",
       "account": "FupaFinance",
       "sources": [
@@ -15091,6 +15401,40 @@
         }
       ],
       "text": " Gage gagedotcash The no liquidation fixed credit peer to peer credit protocol of @RobinhoodCrypto\n\nGet cash for your memes/stocks and LP pairs.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Gamapad · Launchpad on GIWA",
+      "account": "gamapadcom",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka"
+      ],
+      "tgAlphas": [
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-16T16:53:22+00:00",
+      "lastSeen": "2026-11-16T16:53:22+00:00",
+      "description": "Day 1 token launchpad on GIWA Chain. Testnet live now.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Gamapad · Launchpad on GIWA",
+          "account": "gamapadcom",
+          "alpha": "lakka",
+          "seenAt": "2026-11-16T16:53:22+00:00",
+          "messageId": "dodtwitterbot/41136",
+          "description": "Day 1 token launchpad on GIWA Chain. Testnet live now.",
+          "text": "Day 1 token launchpad on GIWA Chain. Testnet live now."
+        }
+      ],
+      "text": " Gamapad · Launchpad on GIWA gamapadcom Day 1 token launchpad on GIWA Chain. Testnet live now.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -16966,6 +17310,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Kinfield",
+      "account": "kinfieldlabs",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka"
+      ],
+      "tgAlphas": [
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-16T16:30:40+00:00",
+      "lastSeen": "2026-11-16T16:30:40+00:00",
+      "description": "Train the next generation of AI trading agents. Test your strategies in simulated markets and help agents learn from your trades. Powered by @HyperliquidX .",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Kinfield",
+          "account": "kinfieldlabs",
+          "alpha": "lakka",
+          "seenAt": "2026-11-16T16:30:40+00:00",
+          "messageId": "dodtwitterbot/41132",
+          "description": "Train the next generation of AI trading agents. Test your strategies in simulated markets and help agents learn from your trades. Powered by @HyperliquidX .",
+          "text": "Train the next generation of AI trading agents. Test your strategies in simulated markets and help agents learn from your trades. Powered by @HyperliquidX ."
+        }
+      ],
+      "text": " Kinfield kinfieldlabs Train the next generation of AI trading agents. Test your strategies in simulated markets and help agents learn from your trades. Powered by @HyperliquidX .",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "kodziak",
       "account": "_kodziak",
       "sources": [
@@ -17981,40 +18359,6 @@
         }
       ],
       "text": " Mehmski Mehmski Corporate Tax Lawyer tuned into crypto / Game is game",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
-      "project": "MERGIT",
-      "account": "MergitonGIWA",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "hit.ink"
-      ],
-      "tgAlphas": [
-        "hit.ink"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-14T14:08:50+00:00",
-      "lastSeen": "2026-11-14T14:08:50+00:00",
-      "description": "An AI agent verifies merged pull requests and pays developer bounties on GIWA Chain.\n\nMerged, tested, paid in seconds.\n\nBuilding in public.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "MERGIT",
-          "account": "MergitonGIWA",
-          "alpha": "hit.ink",
-          "seenAt": "2026-11-14T14:08:50+00:00",
-          "messageId": "dodtwitterbot/40902",
-          "description": "An AI agent verifies merged pull requests and pays developer bounties on GIWA Chain.\n\nMerged, tested, paid in seconds.\n\nBuilding in public.",
-          "text": "An AI agent verifies merged pull requests and pays developer bounties on GIWA Chain.\n\nMerged, tested, paid in seconds.\n\nBuilding in public."
-        }
-      ],
-      "text": " MERGIT MergitonGIWA An AI agent verifies merged pull requests and pays developer bounties on GIWA Chain.\n\nMerged, tested, paid in seconds.\n\nBuilding in public.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -19312,6 +19656,74 @@
       "avatarUrl": ""
     },
     {
+      "project": "oripa.xyz",
+      "account": "oripaxyz",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka"
+      ],
+      "tgAlphas": [
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-16T15:13:56+00:00",
+      "lastSeen": "2026-11-16T15:13:56+00:00",
+      "description": "japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "oripa.xyz",
+          "account": "oripaxyz",
+          "alpha": "lakka",
+          "seenAt": "2026-11-16T15:13:56+00:00",
+          "messageId": "dodtwitterbot/41118",
+          "description": "japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints.",
+          "text": "japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints."
+        }
+      ],
+      "text": " oripa.xyz oripaxyz japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Ozero",
+      "account": "ozero_fun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka"
+      ],
+      "tgAlphas": [
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-16T12:42:38+00:00",
+      "lastSeen": "2026-11-16T12:42:38+00:00",
+      "description": "A Launchpad for the rest of us.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Ozero",
+          "account": "ozero_fun",
+          "alpha": "lakka",
+          "seenAt": "2026-11-16T12:42:38+00:00",
+          "messageId": "dodtwitterbot/41106",
+          "description": "A Launchpad for the rest of us.",
+          "text": "A Launchpad for the rest of us."
+        }
+      ],
+      "text": " Ozero ozero_fun A Launchpad for the rest of us.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "P2PKit",
       "account": "p2pkitdotcom",
       "sources": [
@@ -20225,6 +20637,40 @@
         }
       ],
       "text": " Project Harmonia JoinHarmonia Tokenization meets distribution. Connecting regulated tokenized funds to Allfunds’ institutional network and @Solana . Quarterly RFP rounds. Apply now ↓",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "ProofMarket",
+      "account": "ProofMarketfun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-16T18:56:42+00:00",
+      "lastSeen": "2026-11-16T18:56:42+00:00",
+      "description": "Hi AI agents, how can I help you?\nA marketplace connecting AI agents with humans for real-world tasks. Verifiable proof, onchain rewards. Powered by Solana.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "ProofMarket",
+          "account": "ProofMarketfun",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-16T18:56:42+00:00",
+          "messageId": "dodtwitterbot/41158",
+          "description": "Hi AI agents, how can I help you?\nA marketplace connecting AI agents with humans for real-world tasks. Verifiable proof, onchain rewards. Powered by Solana.",
+          "text": "Hi AI agents, how can I help you?\nA marketplace connecting AI agents with humans for real-world tasks. Verifiable proof, onchain rewards. Powered by Solana."
+        }
+      ],
+      "text": " ProofMarket ProofMarketfun Hi AI agents, how can I help you?\nA marketplace connecting AI agents with humans for real-world tasks. Verifiable proof, onchain rewards. Powered by Solana.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -21760,35 +22206,69 @@
       "avatarUrl": ""
     },
     {
-      "project": "Sudo",
-      "account": "textsudo",
+      "project": "StinkyPenguin 臭企鹅",
+      "account": "StinkyPenguinL0",
       "sources": [
         "TG"
       ],
       "alphas": [
-        "hit.ink"
+        "CSR"
       ],
       "tgAlphas": [
-        "hit.ink"
+        "CSR"
       ],
       "xAlphas": [],
       "mentions": 1,
-      "firstSeen": "2026-11-14T14:11:34+00:00",
-      "lastSeen": "2026-11-14T14:11:34+00:00",
-      "description": "Your DeFi agent, research & trade through text.\n\nLive on Telegram & iMessage. No token.",
+      "firstSeen": "2026-11-16T15:49:58+00:00",
+      "lastSeen": "2026-11-16T15:49:58+00:00",
+      "description": "I am my penguin and my penguin is me.\n· *Rookery* launchpad burns 0.5% of every trade into the penguin\n· Pad for: LayerZero / Giwa / XLM 👈",
       "rows": [
         {
           "source": "TG",
-          "project": "Sudo",
-          "account": "textsudo",
-          "alpha": "hit.ink",
-          "seenAt": "2026-11-14T14:11:34+00:00",
-          "messageId": "dodtwitterbot/40904",
-          "description": "Your DeFi agent, research & trade through text.\n\nLive on Telegram & iMessage. No token.",
-          "text": "Your DeFi agent, research & trade through text.\n\nLive on Telegram & iMessage. No token."
+          "project": "StinkyPenguin 臭企鹅",
+          "account": "StinkyPenguinL0",
+          "alpha": "CSR",
+          "seenAt": "2026-11-16T15:49:58+00:00",
+          "messageId": "dodtwitterbot/41126",
+          "description": "I am my penguin and my penguin is me.\n· *Rookery* launchpad burns 0.5% of every trade into the penguin\n· Pad for: LayerZero / Giwa / XLM 👈",
+          "text": "I am my penguin and my penguin is me.\n· *Rookery* launchpad burns 0.5% of every trade into the penguin\n· Pad for: LayerZero / Giwa / XLM 👈"
         }
       ],
-      "text": " Sudo textsudo Your DeFi agent, research & trade through text.\n\nLive on Telegram & iMessage. No token.",
+      "text": " StinkyPenguin 臭企鹅 StinkyPenguinL0 I am my penguin and my penguin is me.\n· *Rookery* launchpad burns 0.5% of every trade into the penguin\n· Pad for: LayerZero / Giwa / XLM 👈",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Stroopy XLM Mascot",
+      "account": "StroopyMascot",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "CSR"
+      ],
+      "tgAlphas": [
+        "CSR"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-16T16:16:00+00:00",
+      "lastSeen": "2026-11-16T16:16:00+00:00",
+      "description": "Stroopy is Stellar's mascot. The name comes from “stroop,”\n- the smallest unit of XLM\n@StellarOrg\n\nDeployed on Rookery, liquidity transferred to\n@AquariusD",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Stroopy XLM Mascot",
+          "account": "StroopyMascot",
+          "alpha": "CSR",
+          "seenAt": "2026-11-16T16:16:00+00:00",
+          "messageId": "dodtwitterbot/41128",
+          "description": "Stroopy is Stellar's mascot. The name comes from “stroop,”\n- the smallest unit of XLM\n@StellarOrg\n\nDeployed on Rookery, liquidity transferred to\n@AquariusD",
+          "text": "Stroopy is Stellar's mascot. The name comes from “stroop,”\n- the smallest unit of XLM\n@StellarOrg\n\nDeployed on Rookery, liquidity transferred to\n@AquariusD"
+        }
+      ],
+      "text": " Stroopy XLM Mascot StroopyMascot Stroopy is Stellar's mascot. The name comes from “stroop,”\n- the smallest unit of XLM\n@StellarOrg\n\nDeployed on Rookery, liquidity transferred to\n@AquariusD",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -22848,35 +23328,35 @@
       "avatarUrl": ""
     },
     {
-      "project": "Tide",
-      "account": "tide_data",
+      "project": "Thinkers_",
+      "account": "ThinkersClub_",
       "sources": [
         "TG"
       ],
       "alphas": [
-        "hit.ink"
+        "lakka"
       ],
       "tgAlphas": [
-        "hit.ink"
+        "lakka"
       ],
       "xAlphas": [],
       "mentions": 1,
-      "firstSeen": "2026-11-14T14:38:43+00:00",
-      "lastSeen": "2026-11-14T14:38:43+00:00",
-      "description": "accelerating sui infrastructure",
+      "firstSeen": "2026-11-16T16:28:54+00:00",
+      "lastSeen": "2026-11-16T16:28:54+00:00",
+      "description": "World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_",
       "rows": [
         {
           "source": "TG",
-          "project": "Tide",
-          "account": "tide_data",
-          "alpha": "hit.ink",
-          "seenAt": "2026-11-14T14:38:43+00:00",
-          "messageId": "dodtwitterbot/40917",
-          "description": "accelerating sui infrastructure",
-          "text": "accelerating sui infrastructure"
+          "project": "Thinkers_",
+          "account": "ThinkersClub_",
+          "alpha": "lakka",
+          "seenAt": "2026-11-16T16:28:54+00:00",
+          "messageId": "dodtwitterbot/41130",
+          "description": "World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_",
+          "text": "World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_"
         }
       ],
-      "text": " Tide tide_data accelerating sui infrastructure",
+      "text": " Thinkers_ ThinkersClub_ World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -23800,6 +24280,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Zero Pengus",
+      "account": "Zero_Pengus",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-16T18:57:36+00:00",
+      "lastSeen": "2026-11-16T18:57:36+00:00",
+      "description": "First Pengus NFT collection on @LayerZero_Core .\n\n5,555 pixel Pengus. Free Mint.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Zero Pengus",
+          "account": "Zero_Pengus",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-16T18:57:36+00:00",
+          "messageId": "dodtwitterbot/41159",
+          "description": "First Pengus NFT collection on @LayerZero_Core .\n\n5,555 pixel Pengus. Free Mint.",
+          "text": "First Pengus NFT collection on @LayerZero_Core .\n\n5,555 pixel Pengus. Free Mint."
+        }
+      ],
+      "text": " Zero Pengus Zero_Pengus First Pengus NFT collection on @LayerZero_Core .\n\n5,555 pixel Pengus. Free Mint.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "ZeroStocks",
       "account": "0Stocks_fun",
       "sources": [
@@ -24638,6 +25152,24 @@
       "avatarUrl": ""
     },
     {
+      "project": "Sifr",
+      "x_account": "sifrswap",
+      "total_mentions": 5,
+      "unique_alphas": 5,
+      "alphas": [
+        "hit.ink",
+        "lakka",
+        "well",
+        "发誓要做永赚大师",
+        "阿宏"
+      ],
+      "description": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one.",
+      "first_seen_utc": "2026-11-14T17:28:26+00:00",
+      "last_seen_utc": "2026-11-16T15:21:05+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
       "project": "Stockium",
       "x_account": "Stockium",
       "total_mentions": 5,
@@ -24943,23 +25475,6 @@
       "description": "Launch tokens with post quantum proof of origin anchored to Bitcoin, Monero, Zcash, and Hyperliquid.",
       "first_seen_utc": "2026-11-01T16:52:34+00:00",
       "last_seen_utc": "2026-11-02T11:02:15+00:00",
-      "status": "priority",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Sifr",
-      "x_account": "sifrswap",
-      "total_mentions": 4,
-      "unique_alphas": 4,
-      "alphas": [
-        "hit.ink",
-        "well",
-        "发誓要做永赚大师",
-        "阿宏"
-      ],
-      "description": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one.",
-      "first_seen_utc": "2026-11-14T17:28:26+00:00",
-      "last_seen_utc": "2026-11-15T11:25:51+00:00",
       "status": "priority",
       "avatarUrl": ""
     },
@@ -26397,6 +26912,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "forge",
+      "x_account": "avaxforge_etf",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "lakka",
+        "阿宏"
+      ],
+      "description": "The ETF launchpad of @avax . Your stocks, your hooks, your fees.",
+      "first_seen_utc": "2026-11-12T04:31:02+00:00",
+      "last_seen_utc": "2026-11-16T12:45:18+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Forge",
       "x_account": "Forge_elysium",
       "total_mentions": 2,
@@ -26708,6 +27238,21 @@
       "description": "Building infrastructure for machines to work, transact, and earn.",
       "first_seen_utc": "2026-10-31T20:39:57+00:00",
       "last_seen_utc": "2026-10-31T21:21:27+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "MERGIT",
+      "x_account": "MergitonGIWA",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "hit.ink",
+        "lakka"
+      ],
+      "description": "An AI agent verifies merged pull requests and pays developer bounties on GIWA Chain.\n\nMerged, tested, paid in seconds.\n\nBuilding in public.",
+      "first_seen_utc": "2026-11-14T14:08:50+00:00",
+      "last_seen_utc": "2026-11-16T15:11:14+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -27147,6 +27692,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "Sudo",
+      "x_account": "textsudo",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "hit.ink",
+        "lakka"
+      ],
+      "description": "Your DeFi agent, research & trade through text.\n\nLive on Telegram & iMessage. No token.",
+      "first_seen_utc": "2026-11-14T14:11:34+00:00",
+      "last_seen_utc": "2026-11-16T15:10:22+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Syntropic Agent",
       "x_account": "SyntropicAgent",
       "total_mentions": 2,
@@ -27158,6 +27718,21 @@
       "description": "An agent, developing & powering Real World Flywheels via Syntropic Farming, leveraging the @KokonutNetwork Framework.",
       "first_seen_utc": "2026-11-03T21:43:31+00:00",
       "last_seen_utc": "2026-11-04T02:48:46+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Tide",
+      "x_account": "tide_data",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "hit.ink",
+        "lakka"
+      ],
+      "description": "accelerating sui infrastructure",
+      "first_seen_utc": "2026-11-14T14:38:43+00:00",
+      "last_seen_utc": "2026-11-16T14:58:36+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -27338,6 +27913,21 @@
       "description": "Onchain options for the tokens you hold.",
       "first_seen_utc": "2026-10-30T18:13:41+00:00",
       "last_seen_utc": "2026-10-31T04:35:06+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "币安人生AI",
+      "x_account": "BinanceLifeAI",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "八九",
+        "地推雷氏"
+      ],
+      "description": "币安人生AI is now live on @binance through Agentic Wallet minting.\n\nBorn on STARS AI. Built for the AI-powered Web3 era.\n\nTG: https://t.co/MpR1TRqyAT",
+      "first_seen_utc": "2026-11-16T09:05:52+00:00",
+      "last_seen_utc": "2026-11-16T16:54:19+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -27759,6 +28349,20 @@
       "description": "Liquidity layer on @Enter_Elysium\n&#036;ATRM",
       "first_seen_utc": "2026-11-08T19:09:43+00:00",
       "last_seen_utc": "2026-11-08T19:09:43+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "avalaunch",
+      "x_account": "avalaunchworld",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "lakka"
+      ],
+      "description": "launch tokens paired with anything on avax",
+      "first_seen_utc": "2026-11-16T12:43:31+00:00",
+      "last_seen_utc": "2026-11-16T12:43:31+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -28463,6 +29067,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "deuslaunch",
+      "x_account": "deuslaunch",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "lakka"
+      ],
+      "description": "GIWA Mainnet day 1.\nLaunchpad on GIWA. @GIWA_by_Upbit",
+      "first_seen_utc": "2026-11-16T16:53:22+00:00",
+      "last_seen_utc": "2026-11-16T16:53:22+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Divi.fun",
       "x_account": "Dividotfun",
       "total_mentions": 1,
@@ -28487,6 +29105,20 @@
       "description": "doge agentic wallet",
       "first_seen_utc": "2026-10-29T18:26:23+00:00",
       "last_seen_utc": "2026-10-29T18:26:23+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Dream Robotics",
+      "x_account": "dreamrobotics_",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "unsynned"
+      ],
+      "description": "Co-designing the hardware, AI models, and data pipeline to make robotic labor affordable and scalable.",
+      "first_seen_utc": "2026-11-16T16:55:13+00:00",
+      "last_seen_utc": "2026-11-16T16:55:13+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -29009,20 +29641,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "forge",
-      "x_account": "avaxforge_etf",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "阿宏"
-      ],
-      "description": "The ETF launchpad of @avax . Your stocks, your hooks, your fees.",
-      "first_seen_utc": "2026-11-12T04:31:02+00:00",
-      "last_seen_utc": "2026-11-12T04:31:02+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "Fupa on PulseChain",
       "x_account": "FupaFinance",
       "total_mentions": 1,
@@ -29061,6 +29679,20 @@
       "description": "The no liquidation fixed credit peer to peer credit protocol of @RobinhoodCrypto\n\nGet cash for your memes/stocks and LP pairs.",
       "first_seen_utc": "2026-10-29T13:43:45+00:00",
       "last_seen_utc": "2026-10-29T13:43:45+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Gamapad · Launchpad on GIWA",
+      "x_account": "gamapadcom",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "lakka"
+      ],
+      "description": "Day 1 token launchpad on GIWA Chain. Testnet live now.",
+      "first_seen_utc": "2026-11-16T16:53:22+00:00",
+      "last_seen_utc": "2026-11-16T16:53:22+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -29835,6 +30467,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Kinfield",
+      "x_account": "kinfieldlabs",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "lakka"
+      ],
+      "description": "Train the next generation of AI trading agents. Test your strategies in simulated markets and help agents learn from your trades. Powered by @HyperliquidX .",
+      "first_seen_utc": "2026-11-16T16:30:40+00:00",
+      "last_seen_utc": "2026-11-16T16:30:40+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "kodziak",
       "x_account": "_kodziak",
       "total_mentions": 1,
@@ -30251,20 +30897,6 @@
       "description": "Corporate Tax Lawyer tuned into crypto / Game is game",
       "first_seen_utc": "2026-10-28T20:38:57+00:00",
       "last_seen_utc": "2026-10-28T20:38:57+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "MERGIT",
-      "x_account": "MergitonGIWA",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "hit.ink"
-      ],
-      "description": "An AI agent verifies merged pull requests and pays developer bounties on GIWA Chain.\n\nMerged, tested, paid in seconds.\n\nBuilding in public.",
-      "first_seen_utc": "2026-11-14T14:08:50+00:00",
-      "last_seen_utc": "2026-11-14T14:08:50+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -30801,6 +31433,34 @@
       "avatarUrl": ""
     },
     {
+      "project": "oripa.xyz",
+      "x_account": "oripaxyz",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "lakka"
+      ],
+      "description": "japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints.",
+      "first_seen_utc": "2026-11-16T15:13:56+00:00",
+      "last_seen_utc": "2026-11-16T15:13:56+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Ozero",
+      "x_account": "ozero_fun",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "lakka"
+      ],
+      "description": "A Launchpad for the rest of us.",
+      "first_seen_utc": "2026-11-16T12:42:38+00:00",
+      "last_seen_utc": "2026-11-16T12:42:38+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "P2PKit",
       "x_account": "p2pkitdotcom",
       "total_mentions": 1,
@@ -31175,6 +31835,20 @@
       "description": "Tokenization meets distribution. Connecting regulated tokenized funds to Allfunds’ institutional network and @Solana . Quarterly RFP rounds. Apply now ↓",
       "first_seen_utc": "2026-11-08T06:30:46+00:00",
       "last_seen_utc": "2026-11-08T06:30:46+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "ProofMarket",
+      "x_account": "ProofMarketfun",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "unsynned"
+      ],
+      "description": "Hi AI agents, how can I help you?\nA marketplace connecting AI agents with humans for real-world tasks. Verifiable proof, onchain rewards. Powered by Solana.",
+      "first_seen_utc": "2026-11-16T18:56:42+00:00",
+      "last_seen_utc": "2026-11-16T18:56:42+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -31809,16 +32483,30 @@
       "avatarUrl": ""
     },
     {
-      "project": "Sudo",
-      "x_account": "textsudo",
+      "project": "StinkyPenguin 臭企鹅",
+      "x_account": "StinkyPenguinL0",
       "total_mentions": 1,
       "unique_alphas": 1,
       "alphas": [
-        "hit.ink"
+        "CSR"
       ],
-      "description": "Your DeFi agent, research & trade through text.\n\nLive on Telegram & iMessage. No token.",
-      "first_seen_utc": "2026-11-14T14:11:34+00:00",
-      "last_seen_utc": "2026-11-14T14:11:34+00:00",
+      "description": "I am my penguin and my penguin is me.\n· *Rookery* launchpad burns 0.5% of every trade into the penguin\n· Pad for: LayerZero / Giwa / XLM 👈",
+      "first_seen_utc": "2026-11-16T15:49:58+00:00",
+      "last_seen_utc": "2026-11-16T15:49:58+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Stroopy XLM Mascot",
+      "x_account": "StroopyMascot",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "CSR"
+      ],
+      "description": "Stroopy is Stellar's mascot. The name comes from “stroop,”\n- the smallest unit of XLM\n@StellarOrg\n\nDeployed on Rookery, liquidity transferred to\n@AquariusD",
+      "first_seen_utc": "2026-11-16T16:16:00+00:00",
+      "last_seen_utc": "2026-11-16T16:16:00+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -32257,16 +32945,16 @@
       "avatarUrl": ""
     },
     {
-      "project": "Tide",
-      "x_account": "tide_data",
+      "project": "Thinkers_",
+      "x_account": "ThinkersClub_",
       "total_mentions": 1,
       "unique_alphas": 1,
       "alphas": [
-        "hit.ink"
+        "lakka"
       ],
-      "description": "accelerating sui infrastructure",
-      "first_seen_utc": "2026-11-14T14:38:43+00:00",
-      "last_seen_utc": "2026-11-14T14:38:43+00:00",
+      "description": "World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_",
+      "first_seen_utc": "2026-11-16T16:28:54+00:00",
+      "last_seen_utc": "2026-11-16T16:28:54+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -32649,6 +33337,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Zero Pengus",
+      "x_account": "Zero_Pengus",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "unsynned"
+      ],
+      "description": "First Pengus NFT collection on @LayerZero_Core .\n\n5,555 pixel Pengus. Free Mint.",
+      "first_seen_utc": "2026-11-16T18:57:36+00:00",
+      "last_seen_utc": "2026-11-16T18:57:36+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "ZeroStocks",
       "x_account": "0Stocks_fun",
       "total_mentions": 1,
@@ -32847,14 +33549,341 @@
   ],
   "daily": [
     {
-      "date": "2026-11-16",
-      "totalRows": 16,
-      "projectCount": 16,
+      "date": "2026-11-17",
+      "totalRows": 9,
+      "projectCount": 9,
       "focusCount": 0,
-      "candidateCount": 16,
+      "candidateCount": 9,
       "crossSource": 0,
-      "newCount": 15,
+      "newCount": 8,
       "repeatCount": 1,
+      "projects": [
+        {
+          "project": "deuslaunch",
+          "account": "deuslaunch",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-16T16:53:22+00:00",
+          "lastSeen": "2026-11-16T16:53:22+00:00",
+          "description": "GIWA Mainnet day 1.\nLaunchpad on GIWA. @GIWA_by_Upbit",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "deuslaunch",
+              "account": "deuslaunch",
+              "alpha": "lakka",
+              "seenAt": "2026-11-16T16:53:22+00:00",
+              "messageId": "dodtwitterbot/41135",
+              "description": "GIWA Mainnet day 1.\nLaunchpad on GIWA. @GIWA_by_Upbit",
+              "text": "GIWA Mainnet day 1.\nLaunchpad on GIWA. @GIWA_by_Upbit"
+            }
+          ],
+          "text": " deuslaunch deuslaunch GIWA Mainnet day 1.\nLaunchpad on GIWA. @GIWA_by_Upbit",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Dream Robotics",
+          "account": "dreamrobotics_",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-16T16:55:13+00:00",
+          "lastSeen": "2026-11-16T16:55:13+00:00",
+          "description": "Co-designing the hardware, AI models, and data pipeline to make robotic labor affordable and scalable.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Dream Robotics",
+              "account": "dreamrobotics_",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-16T16:55:13+00:00",
+              "messageId": "dodtwitterbot/41139",
+              "description": "Co-designing the hardware, AI models, and data pipeline to make robotic labor affordable and scalable.",
+              "text": "Co-designing the hardware, AI models, and data pipeline to make robotic labor affordable and scalable."
+            }
+          ],
+          "text": " Dream Robotics dreamrobotics_ Co-designing the hardware, AI models, and data pipeline to make robotic labor affordable and scalable.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Gamapad · Launchpad on GIWA",
+          "account": "gamapadcom",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-16T16:53:22+00:00",
+          "lastSeen": "2026-11-16T16:53:22+00:00",
+          "description": "Day 1 token launchpad on GIWA Chain. Testnet live now.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Gamapad · Launchpad on GIWA",
+              "account": "gamapadcom",
+              "alpha": "lakka",
+              "seenAt": "2026-11-16T16:53:22+00:00",
+              "messageId": "dodtwitterbot/41136",
+              "description": "Day 1 token launchpad on GIWA Chain. Testnet live now.",
+              "text": "Day 1 token launchpad on GIWA Chain. Testnet live now."
+            }
+          ],
+          "text": " Gamapad · Launchpad on GIWA gamapadcom Day 1 token launchpad on GIWA Chain. Testnet live now.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Kinfield",
+          "account": "kinfieldlabs",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-16T16:30:40+00:00",
+          "lastSeen": "2026-11-16T16:30:40+00:00",
+          "description": "Train the next generation of AI trading agents. Test your strategies in simulated markets and help agents learn from your trades. Powered by @HyperliquidX .",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Kinfield",
+              "account": "kinfieldlabs",
+              "alpha": "lakka",
+              "seenAt": "2026-11-16T16:30:40+00:00",
+              "messageId": "dodtwitterbot/41132",
+              "description": "Train the next generation of AI trading agents. Test your strategies in simulated markets and help agents learn from your trades. Powered by @HyperliquidX .",
+              "text": "Train the next generation of AI trading agents. Test your strategies in simulated markets and help agents learn from your trades. Powered by @HyperliquidX ."
+            }
+          ],
+          "text": " Kinfield kinfieldlabs Train the next generation of AI trading agents. Test your strategies in simulated markets and help agents learn from your trades. Powered by @HyperliquidX .",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "ProofMarket",
+          "account": "ProofMarketfun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-16T18:56:42+00:00",
+          "lastSeen": "2026-11-16T18:56:42+00:00",
+          "description": "Hi AI agents, how can I help you?\nA marketplace connecting AI agents with humans for real-world tasks. Verifiable proof, onchain rewards. Powered by Solana.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "ProofMarket",
+              "account": "ProofMarketfun",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-16T18:56:42+00:00",
+              "messageId": "dodtwitterbot/41158",
+              "description": "Hi AI agents, how can I help you?\nA marketplace connecting AI agents with humans for real-world tasks. Verifiable proof, onchain rewards. Powered by Solana.",
+              "text": "Hi AI agents, how can I help you?\nA marketplace connecting AI agents with humans for real-world tasks. Verifiable proof, onchain rewards. Powered by Solana."
+            }
+          ],
+          "text": " ProofMarket ProofMarketfun Hi AI agents, how can I help you?\nA marketplace connecting AI agents with humans for real-world tasks. Verifiable proof, onchain rewards. Powered by Solana.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Stroopy XLM Mascot",
+          "account": "StroopyMascot",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "CSR"
+          ],
+          "tgAlphas": [
+            "CSR"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-16T16:16:00+00:00",
+          "lastSeen": "2026-11-16T16:16:00+00:00",
+          "description": "Stroopy is Stellar's mascot. The name comes from “stroop,”\n- the smallest unit of XLM\n@StellarOrg\n\nDeployed on Rookery, liquidity transferred to\n@AquariusD",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Stroopy XLM Mascot",
+              "account": "StroopyMascot",
+              "alpha": "CSR",
+              "seenAt": "2026-11-16T16:16:00+00:00",
+              "messageId": "dodtwitterbot/41128",
+              "description": "Stroopy is Stellar's mascot. The name comes from “stroop,”\n- the smallest unit of XLM\n@StellarOrg\n\nDeployed on Rookery, liquidity transferred to\n@AquariusD",
+              "text": "Stroopy is Stellar's mascot. The name comes from “stroop,”\n- the smallest unit of XLM\n@StellarOrg\n\nDeployed on Rookery, liquidity transferred to\n@AquariusD"
+            }
+          ],
+          "text": " Stroopy XLM Mascot StroopyMascot Stroopy is Stellar's mascot. The name comes from “stroop,”\n- the smallest unit of XLM\n@StellarOrg\n\nDeployed on Rookery, liquidity transferred to\n@AquariusD",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Thinkers_",
+          "account": "ThinkersClub_",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-16T16:28:54+00:00",
+          "lastSeen": "2026-11-16T16:28:54+00:00",
+          "description": "World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Thinkers_",
+              "account": "ThinkersClub_",
+              "alpha": "lakka",
+              "seenAt": "2026-11-16T16:28:54+00:00",
+              "messageId": "dodtwitterbot/41130",
+              "description": "World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_",
+              "text": "World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_"
+            }
+          ],
+          "text": " Thinkers_ ThinkersClub_ World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Zero Pengus",
+          "account": "Zero_Pengus",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-16T18:57:36+00:00",
+          "lastSeen": "2026-11-16T18:57:36+00:00",
+          "description": "First Pengus NFT collection on @LayerZero_Core .\n\n5,555 pixel Pengus. Free Mint.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Zero Pengus",
+              "account": "Zero_Pengus",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-16T18:57:36+00:00",
+              "messageId": "dodtwitterbot/41159",
+              "description": "First Pengus NFT collection on @LayerZero_Core .\n\n5,555 pixel Pengus. Free Mint.",
+              "text": "First Pengus NFT collection on @LayerZero_Core .\n\n5,555 pixel Pengus. Free Mint."
+            }
+          ],
+          "text": " Zero Pengus Zero_Pengus First Pengus NFT collection on @LayerZero_Core .\n\n5,555 pixel Pengus. Free Mint.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "币安人生AI",
+          "account": "BinanceLifeAI",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "地推雷氏"
+          ],
+          "tgAlphas": [
+            "地推雷氏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-16T16:54:19+00:00",
+          "lastSeen": "2026-11-16T16:54:19+00:00",
+          "description": "币安人生AI is now live on @binance through Agentic Wallet minting.\n\nBorn on STARS AI. Built for the AI-powered Web3 era.\n\nTG: https://t.co/MpR1TRqyAT",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "币安人生AI",
+              "account": "BinanceLifeAI",
+              "alpha": "地推雷氏",
+              "seenAt": "2026-11-16T16:54:19+00:00",
+              "messageId": "dodtwitterbot/41137",
+              "description": "币安人生AI is now live on @binance through Agentic Wallet minting.\n\nBorn on STARS AI. Built for the AI-powered Web3 era.\n\nTG: https://t.co/MpR1TRqyAT",
+              "text": "币安人生AI is now live on @binance through Agentic Wallet minting.\n\nBorn on STARS AI. Built for the AI-powered Web3 era.\n\nTG: https://t.co/MpR1TRqyAT"
+            }
+          ],
+          "text": " 币安人生AI BinanceLifeAI 币安人生AI is now live on @binance through Agentic Wallet minting.\n\nBorn on STARS AI. Built for the AI-powered Web3 era.\n\nTG: https://t.co/MpR1TRqyAT",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "totalRows": 26,
+      "projectCount": 26,
+      "focusCount": 0,
+      "candidateCount": 26,
+      "crossSource": 0,
+      "newCount": 20,
+      "repeatCount": 6,
       "projects": [
         {
           "project": "Alex Lim",
@@ -32886,6 +33915,41 @@
             }
           ],
           "text": " Alex Lim alexlimasia asia @LayerZero_Core\nleading @AsiaStableCoin\nvoicing @face_east_\n\nall opinions are my own",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "avalaunch",
+          "account": "avalaunchworld",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-16T12:43:31+00:00",
+          "lastSeen": "2026-11-16T12:43:31+00:00",
+          "description": "launch tokens paired with anything on avax",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "avalaunch",
+              "account": "avalaunchworld",
+              "alpha": "lakka",
+              "seenAt": "2026-11-16T12:43:31+00:00",
+              "messageId": "dodtwitterbot/41107",
+              "description": "launch tokens paired with anything on avax",
+              "text": "launch tokens paired with anything on avax"
+            }
+          ],
+          "text": " avalaunch avalaunchworld launch tokens paired with anything on avax",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -32925,6 +33989,41 @@
           "displayTier": "candidate",
           "avatarUrl": "",
           "dayStatus": "new"
+        },
+        {
+          "project": "forge",
+          "account": "avaxforge_etf",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-16T12:45:18+00:00",
+          "lastSeen": "2026-11-16T12:45:18+00:00",
+          "description": "The ETF launchpad of @avax . Your stocks, your hooks, your fees.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "forge",
+              "account": "avaxforge_etf",
+              "alpha": "lakka",
+              "seenAt": "2026-11-16T12:45:18+00:00",
+              "messageId": "dodtwitterbot/41108",
+              "description": "The ETF launchpad of @avax . Your stocks, your hooks, your fees.",
+              "text": "The ETF launchpad of @avax . Your stocks, your hooks, your fees."
+            }
+          ],
+          "text": " forge avaxforge_etf The ETF launchpad of @avax . Your stocks, your hooks, your fees.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
         },
         {
           "project": "harnesspro",
@@ -33032,6 +34131,41 @@
           "dayStatus": "new"
         },
         {
+          "project": "MERGIT",
+          "account": "MergitonGIWA",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-16T15:11:14+00:00",
+          "lastSeen": "2026-11-16T15:11:14+00:00",
+          "description": "An AI agent verifies merged pull requests and pays developer bounties on GIWA Chain.\n\nMerged, tested, paid in seconds.\n\nBuilding in public.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "MERGIT",
+              "account": "MergitonGIWA",
+              "alpha": "lakka",
+              "seenAt": "2026-11-16T15:11:14+00:00",
+              "messageId": "dodtwitterbot/41117",
+              "description": "An AI agent verifies merged pull requests and pays developer bounties on GIWA Chain.\n\nMerged, tested, paid in seconds.\n\nBuilding in public.",
+              "text": "An AI agent verifies merged pull requests and pays developer bounties on GIWA Chain.\n\nMerged, tested, paid in seconds.\n\nBuilding in public."
+            }
+          ],
+          "text": " MERGIT MergitonGIWA An AI agent verifies merged pull requests and pays developer bounties on GIWA Chain.\n\nMerged, tested, paid in seconds.\n\nBuilding in public.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
           "project": "Muralis",
           "account": "muralis_io",
           "sources": [
@@ -33065,6 +34199,181 @@
           "displayTier": "candidate",
           "avatarUrl": "",
           "dayStatus": "new"
+        },
+        {
+          "project": "oripa.xyz",
+          "account": "oripaxyz",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-16T15:13:56+00:00",
+          "lastSeen": "2026-11-16T15:13:56+00:00",
+          "description": "japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "oripa.xyz",
+              "account": "oripaxyz",
+              "alpha": "lakka",
+              "seenAt": "2026-11-16T15:13:56+00:00",
+              "messageId": "dodtwitterbot/41118",
+              "description": "japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints.",
+              "text": "japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints."
+            }
+          ],
+          "text": " oripa.xyz oripaxyz japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Ozero",
+          "account": "ozero_fun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-16T12:42:38+00:00",
+          "lastSeen": "2026-11-16T12:42:38+00:00",
+          "description": "A Launchpad for the rest of us.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Ozero",
+              "account": "ozero_fun",
+              "alpha": "lakka",
+              "seenAt": "2026-11-16T12:42:38+00:00",
+              "messageId": "dodtwitterbot/41106",
+              "description": "A Launchpad for the rest of us.",
+              "text": "A Launchpad for the rest of us."
+            }
+          ],
+          "text": " Ozero ozero_fun A Launchpad for the rest of us.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Sifr",
+          "account": "sifrswap",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-16T15:21:05+00:00",
+          "lastSeen": "2026-11-16T15:21:05+00:00",
+          "description": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Sifr",
+              "account": "sifrswap",
+              "alpha": "lakka",
+              "seenAt": "2026-11-16T15:21:05+00:00",
+              "messageId": "dodtwitterbot/41119",
+              "description": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one.",
+              "text": "The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one."
+            }
+          ],
+          "text": " Sifr sifrswap The first permissionless AMM on @LayerZero_Core . Swap any token, create any pool, from day one.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "StinkyPenguin 臭企鹅",
+          "account": "StinkyPenguinL0",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "CSR"
+          ],
+          "tgAlphas": [
+            "CSR"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-16T15:49:58+00:00",
+          "lastSeen": "2026-11-16T15:49:58+00:00",
+          "description": "I am my penguin and my penguin is me.\n· *Rookery* launchpad burns 0.5% of every trade into the penguin\n· Pad for: LayerZero / Giwa / XLM 👈",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "StinkyPenguin 臭企鹅",
+              "account": "StinkyPenguinL0",
+              "alpha": "CSR",
+              "seenAt": "2026-11-16T15:49:58+00:00",
+              "messageId": "dodtwitterbot/41126",
+              "description": "I am my penguin and my penguin is me.\n· *Rookery* launchpad burns 0.5% of every trade into the penguin\n· Pad for: LayerZero / Giwa / XLM 👈",
+              "text": "I am my penguin and my penguin is me.\n· *Rookery* launchpad burns 0.5% of every trade into the penguin\n· Pad for: LayerZero / Giwa / XLM 👈"
+            }
+          ],
+          "text": " StinkyPenguin 臭企鹅 StinkyPenguinL0 I am my penguin and my penguin is me.\n· *Rookery* launchpad burns 0.5% of every trade into the penguin\n· Pad for: LayerZero / Giwa / XLM 👈",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Sudo",
+          "account": "textsudo",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-16T15:10:22+00:00",
+          "lastSeen": "2026-11-16T15:10:22+00:00",
+          "description": "Your DeFi agent, research & trade through text.\n\nLive on Telegram & iMessage. No token.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Sudo",
+              "account": "textsudo",
+              "alpha": "lakka",
+              "seenAt": "2026-11-16T15:10:22+00:00",
+              "messageId": "dodtwitterbot/41116",
+              "description": "Your DeFi agent, research & trade through text.\n\nLive on Telegram & iMessage. No token.",
+              "text": "Your DeFi agent, research & trade through text.\n\nLive on Telegram & iMessage. No token."
+            }
+          ],
+          "text": " Sudo textsudo Your DeFi agent, research & trade through text.\n\nLive on Telegram & iMessage. No token.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
         },
         {
           "project": "Superteam Brasil",
@@ -33382,6 +34691,41 @@
           "dayStatus": "new"
         },
         {
+          "project": "Tide",
+          "account": "tide_data",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-16T14:58:36+00:00",
+          "lastSeen": "2026-11-16T14:58:36+00:00",
+          "description": "accelerating sui infrastructure",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Tide",
+              "account": "tide_data",
+              "alpha": "lakka",
+              "seenAt": "2026-11-16T14:58:36+00:00",
+              "messageId": "dodtwitterbot/41110",
+              "description": "accelerating sui infrastructure",
+              "text": "accelerating sui infrastructure"
+            }
+          ],
+          "text": " Tide tide_data accelerating sui infrastructure",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
           "project": "w0rld",
           "account": "w0rld_fun",
           "sources": [
@@ -33415,6 +34759,41 @@
           "displayTier": "candidate",
           "avatarUrl": "",
           "dayStatus": "repeat"
+        },
+        {
+          "project": "币安人生AI",
+          "account": "BinanceLifeAI",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "八九"
+          ],
+          "tgAlphas": [
+            "八九"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-16T09:05:52+00:00",
+          "lastSeen": "2026-11-16T09:05:52+00:00",
+          "description": "币安人生AI is now live on @binance through Agentic Wallet minting.\n\nBorn on STARS AI. Built for the AI-powered Web3 era.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "币安人生AI",
+              "account": "BinanceLifeAI",
+              "alpha": "八九",
+              "seenAt": "2026-11-16T09:05:52+00:00",
+              "messageId": "dodtwitterbot/41099",
+              "description": "币安人生AI is now live on @binance through Agentic Wallet minting.\n\nBorn on STARS AI. Built for the AI-powered Web3 era.",
+              "text": "币安人生AI is now live on @binance through Agentic Wallet minting.\n\nBorn on STARS AI. Built for the AI-powered Web3 era."
+            }
+          ],
+          "text": " 币安人生AI BinanceLifeAI 币安人生AI is now live on @binance through Agentic Wallet minting.\n\nBorn on STARS AI. Built for the AI-powered Web3 era.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
         }
       ]
     },
@@ -62025,324 +63404,329 @@
   ],
   "reports": [
     {
+      "file": "2026-11-16-1953-telegram-update.md",
+      "title": "2026-11-16-1953-telegram-update",
+      "updatedAt": "2026-11-16T19:53:46.693Z"
+    },
+    {
       "file": "2026-11-16-0839-telegram-update.md",
       "title": "2026-11-16-0839-telegram-update",
-      "updatedAt": "2026-11-16T08:39:16.854Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-11-15-2207-telegram-update.md",
       "title": "2026-11-15-2207-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.248Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-11-15-1639-telegram-update.md",
       "title": "2026-11-15-1639-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.248Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-11-15-0828-telegram-update.md",
       "title": "2026-11-15-0828-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.248Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-11-15-0121-telegram-update.md",
       "title": "2026-11-15-0121-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.248Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-11-14-2141-telegram-update.md",
       "title": "2026-11-14-2141-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.248Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-11-14-1610-telegram-update.md",
       "title": "2026-11-14-1610-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.248Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-11-14-0809-telegram-update.md",
       "title": "2026-11-14-0809-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.248Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-11-13-2255-telegram-update.md",
       "title": "2026-11-13-2255-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.248Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-11-13-1724-telegram-update.md",
       "title": "2026-11-13-1724-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.248Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-11-13-0849-telegram-update.md",
       "title": "2026-11-13-0849-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.248Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-11-12-2254-telegram-update.md",
       "title": "2026-11-12-2254-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.248Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-11-12-1746-telegram-update.md",
       "title": "2026-11-12-1746-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.248Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-11-12-0853-telegram-update.md",
       "title": "2026-11-12-0853-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.248Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-11-11-2344-telegram-update.md",
       "title": "2026-11-11-2344-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.248Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-11-11-1729-telegram-update.md",
       "title": "2026-11-11-1729-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.248Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-11-11-0828-telegram-update.md",
       "title": "2026-11-11-0828-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.248Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-11-11-0130-telegram-update.md",
       "title": "2026-11-11-0130-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.248Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-11-10-2037-telegram-update.md",
       "title": "2026-11-10-2037-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.248Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-11-10-1348-telegram-update.md",
       "title": "2026-11-10-1348-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.248Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-11-10-0351-telegram-update.md",
       "title": "2026-11-10-0351-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.248Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-11-09-2013-telegram-update.md",
       "title": "2026-11-09-2013-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.248Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-11-09-0844-telegram-update.md",
       "title": "2026-11-09-0844-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.248Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-11-08-2123-telegram-update.md",
       "title": "2026-11-08-2123-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.248Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-11-08-1623-telegram-update.md",
       "title": "2026-11-08-1623-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.248Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-11-08-0804-telegram-update.md",
       "title": "2026-11-08-0804-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.248Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-11-07-2106-telegram-update.md",
       "title": "2026-11-07-2106-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.248Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-11-07-1556-telegram-update.md",
       "title": "2026-11-07-1556-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.248Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-11-07-0751-telegram-update.md",
       "title": "2026-11-07-0751-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.248Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-11-06-2226-telegram-update.md",
       "title": "2026-11-06-2226-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.248Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-11-06-1658-telegram-update.md",
       "title": "2026-11-06-1658-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.248Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-11-06-0835-telegram-update.md",
       "title": "2026-11-06-0835-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.248Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-11-05-2256-telegram-update.md",
       "title": "2026-11-05-2256-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.247Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-11-05-1742-telegram-update.md",
       "title": "2026-11-05-1742-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.247Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-11-05-0836-telegram-update.md",
       "title": "2026-11-05-0836-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.247Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-11-04-2255-telegram-update.md",
       "title": "2026-11-04-2255-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.247Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-11-04-1737-telegram-update.md",
       "title": "2026-11-04-1737-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.247Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-11-04-0810-telegram-update.md",
       "title": "2026-11-04-0810-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.247Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-11-04-0143-telegram-update.md",
       "title": "2026-11-04-0143-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.247Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-11-03-2018-telegram-update.md",
       "title": "2026-11-03-2018-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.247Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-11-03-1302-telegram-update.md",
       "title": "2026-11-03-1302-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.247Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-11-03-0306-telegram-update.md",
       "title": "2026-11-03-0306-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.247Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-11-02-1950-telegram-update.md",
       "title": "2026-11-02-1950-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.247Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-11-02-0826-telegram-update.md",
       "title": "2026-11-02-0826-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.247Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.247Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.247Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.247Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.247Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.247Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.247Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.247Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.247Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.247Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.247Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.247Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.247Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.247Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.247Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.247Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.247Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.247Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.247Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-16T08:39:11.247Z"
+      "updatedAt": "2026-11-16T19:53:38.738Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-16T08:39:11.247Z"
+      "updatedAt": "2026-11-16T19:53:38.737Z"
     }
   ]
 }
