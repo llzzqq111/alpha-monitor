@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-17T04:12:48.249Z",
+  "generatedAt": "2026-11-17T14:56:44.983Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 41163,
-    "lastMessageAt": "2026-11-17T02:08:03+00:00",
-    "lastCheckedAt": "2026-11-17T04:12:48.077Z",
-    "previousMessageId": 41160,
-    "pagesRead": 1,
-    "messagesRead": 3,
-    "newProjectRecords": 2,
+    "lastMessageId": 41209,
+    "lastMessageAt": "2026-11-17T14:48:47+00:00",
+    "lastCheckedAt": "2026-11-17T14:56:44.770Z",
+    "previousMessageId": 41163,
+    "pagesRead": 3,
+    "messagesRead": 46,
+    "newProjectRecords": 12,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 968,
+    "telegramRows": 980,
     "xRows": 0,
-    "projects": 600,
+    "projects": 604,
     "crossSource": 0
   },
   "projects": [
@@ -3844,6 +3844,64 @@
       "avatarUrl": ""
     },
     {
+      "project": "CyraDex",
+      "account": "Cyra_Dex",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "hit.ink",
+        "lakka",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "hit.ink",
+        "lakka",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-11-15T04:38:25+00:00",
+      "lastSeen": "2026-11-17T14:22:59+00:00",
+      "description": "DEX aggregator on @LayerZero_Core ⚡",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "CyraDex",
+          "account": "Cyra_Dex",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-15T04:38:25+00:00",
+          "messageId": "dodtwitterbot/40971",
+          "description": "DEX aggregator on Layer0 ⚡",
+          "text": "DEX aggregator on Layer0 ⚡"
+        },
+        {
+          "source": "TG",
+          "project": "CyraDex",
+          "account": "Cyra_Dex",
+          "alpha": "hit.ink",
+          "seenAt": "2026-11-17T05:32:30+00:00",
+          "messageId": "dodtwitterbot/41169",
+          "description": "DEX aggregator on @LayerZero_Core ⚡",
+          "text": "DEX aggregator on @LayerZero_Core ⚡"
+        },
+        {
+          "source": "TG",
+          "project": "CyraDex",
+          "account": "Cyra_Dex",
+          "alpha": "lakka",
+          "seenAt": "2026-11-17T14:22:59+00:00",
+          "messageId": "dodtwitterbot/41203",
+          "description": "DEX aggregator on @LayerZero_Core ⚡",
+          "text": "DEX aggregator on @LayerZero_Core ⚡"
+        }
+      ],
+      "text": " CyraDex Cyra_Dex DEX aggregator on Layer0 ⚡ CyraDex Cyra_Dex DEX aggregator on @LayerZero_Core ⚡ CyraDex Cyra_Dex DEX aggregator on @LayerZero_Core ⚡",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Eloscape",
       "account": "eloscapeHQ",
       "sources": [
@@ -4129,6 +4187,64 @@
         }
       ],
       "text": " FiatDesk fiatdesk We make high-risk stablecoin flows bankable. FiatDesk fiatdesk We make high-risk stablecoin flows bankable. FiatDesk fiatdesk We make high-risk stablecoin flows bankable.",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Formation Markets",
+      "account": "formation_mkts",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse",
+        "lakka",
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "BearzVerse",
+        "lakka",
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-10-28T02:05:00+08:00",
+      "lastSeen": "2026-11-17T14:23:54+00:00",
+      "description": "Creating markets and helping firms transfer risk using frontier markets.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Formation Markets",
+          "account": "formation_mkts",
+          "alpha": "lakka",
+          "seenAt": "2026-11-17T14:23:54+00:00",
+          "messageId": "dodtwitterbot/41205",
+          "description": "Frontier market creation and risk transfer made programmatic.",
+          "text": "Frontier market creation and risk transfer made programmatic."
+        },
+        {
+          "source": "TG",
+          "project": "Formation Markets",
+          "account": "formation_mkts",
+          "alpha": "unsynned",
+          "seenAt": "2026-10-28T02:05:00+08:00",
+          "messageId": "dodtwitterbot/38141",
+          "description": "Creating markets and helping firms transfer risk using frontier markets.",
+          "text": "Creating markets and helping firms transfer risk using frontier markets."
+        },
+        {
+          "source": "TG",
+          "project": "Formation Markets",
+          "account": "formation_mkts",
+          "alpha": "BearzVerse",
+          "seenAt": "2026-10-28T03:40:00+08:00",
+          "messageId": "dodtwitterbot/38157",
+          "description": "Creating markets and helping firms transfer risk using frontier markets.",
+          "text": "Creating markets and helping firms transfer risk using frontier markets."
+        }
+      ],
+      "text": " Formation Markets formation_mkts Frontier market creation and risk transfer made programmatic. Formation Markets formation_mkts Creating markets and helping firms transfer risk using frontier markets. Formation Markets formation_mkts Creating markets and helping firms transfer risk using frontier markets.",
       "score": 6,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -4825,6 +4941,64 @@
         }
       ],
       "text": " Nummo NummoHQ One app for on-chain trading and lending. Built on @SonicLabs Nummo NummoHQ One app for on-chain trading and lending. Built on @SonicLabs Nummo NummoHQ One app for on-chain trading and lending. Built on @SonicLabs",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "NVDA chain",
+      "account": "NVDAchain",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "CSR",
+        "lakka",
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "CSR",
+        "lakka",
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-11-16T20:22:11+00:00",
+      "lastSeen": "2026-11-17T14:22:59+00:00",
+      "description": "Compute is gas. The AI native L3.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "NVDA chain",
+          "account": "NVDAchain",
+          "alpha": "CSR",
+          "seenAt": "2026-11-16T20:22:11+00:00",
+          "messageId": "dodtwitterbot/41161",
+          "description": "Compute is gas. The AI native L3.",
+          "text": "Compute is gas. The AI native L3."
+        },
+        {
+          "source": "TG",
+          "project": "NVDA chain",
+          "account": "NVDAchain",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-17T05:52:58+00:00",
+          "messageId": "dodtwitterbot/41172",
+          "description": "Compute is gas. The AI native L3.",
+          "text": "Compute is gas. The AI native L3."
+        },
+        {
+          "source": "TG",
+          "project": "NVDA chain",
+          "account": "NVDAchain",
+          "alpha": "lakka",
+          "seenAt": "2026-11-17T14:22:59+00:00",
+          "messageId": "dodtwitterbot/41204",
+          "description": "Compute is gas. The AI native L3.",
+          "text": "Compute is gas. The AI native L3."
+        }
+      ],
+      "text": " NVDA chain NVDAchain Compute is gas. The AI native L3. NVDA chain NVDAchain Compute is gas. The AI native L3. NVDA chain NVDAchain Compute is gas. The AI native L3.",
       "score": 6,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -8108,52 +8282,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Formation Markets",
-      "account": "formation_mkts",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "BearzVerse",
-        "unsynned"
-      ],
-      "tgAlphas": [
-        "BearzVerse",
-        "unsynned"
-      ],
-      "xAlphas": [],
-      "mentions": 2,
-      "firstSeen": "2026-10-28T02:05:00+08:00",
-      "lastSeen": "2026-10-28T03:40:00+08:00",
-      "description": "Creating markets and helping firms transfer risk using frontier markets.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Formation Markets",
-          "account": "formation_mkts",
-          "alpha": "unsynned",
-          "seenAt": "2026-10-28T02:05:00+08:00",
-          "messageId": "dodtwitterbot/38141",
-          "description": "Creating markets and helping firms transfer risk using frontier markets.",
-          "text": "Creating markets and helping firms transfer risk using frontier markets."
-        },
-        {
-          "source": "TG",
-          "project": "Formation Markets",
-          "account": "formation_mkts",
-          "alpha": "BearzVerse",
-          "seenAt": "2026-10-28T03:40:00+08:00",
-          "messageId": "dodtwitterbot/38157",
-          "description": "Creating markets and helping firms transfer risk using frontier markets.",
-          "text": "Creating markets and helping firms transfer risk using frontier markets."
-        }
-      ],
-      "text": " Formation Markets formation_mkts Creating markets and helping firms transfer risk using frontier markets. Formation Markets formation_mkts Creating markets and helping firms transfer risk using frontier markets.",
-      "score": 4,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
       "project": "GLIDORA",
       "account": "UseGlidora",
       "sources": [
@@ -9810,6 +9938,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "ProofMarket",
+      "account": "ProofMarketfun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned",
+        "well"
+      ],
+      "tgAlphas": [
+        "unsynned",
+        "well"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-16T18:56:42+00:00",
+      "lastSeen": "2026-11-17T05:23:32+00:00",
+      "description": "Hi AI agents, how can I help you?\nA marketplace connecting AI agents with humans for real-world tasks. Verifiable proof, onchain rewards. Powered by Solana.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "ProofMarket",
+          "account": "ProofMarketfun",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-16T18:56:42+00:00",
+          "messageId": "dodtwitterbot/41158",
+          "description": "Hi AI agents, how can I help you?\nA marketplace connecting AI agents with humans for real-world tasks. Verifiable proof, onchain rewards. Powered by Solana.",
+          "text": "Hi AI agents, how can I help you?\nA marketplace connecting AI agents with humans for real-world tasks. Verifiable proof, onchain rewards. Powered by Solana."
+        },
+        {
+          "source": "TG",
+          "project": "ProofMarket",
+          "account": "ProofMarketfun",
+          "alpha": "well",
+          "seenAt": "2026-11-17T05:23:32+00:00",
+          "messageId": "dodtwitterbot/41168",
+          "description": "Hi AI agents, how can I help you?\nA marketplace connecting AI agents with humans for real-world tasks. Verifiable proof, onchain rewards. Powered by Solana.",
+          "text": "Hi AI agents, how can I help you?\nA marketplace connecting AI agents with humans for real-world tasks. Verifiable proof, onchain rewards. Powered by Solana."
+        }
+      ],
+      "text": " ProofMarket ProofMarketfun Hi AI agents, how can I help you?\nA marketplace connecting AI agents with humans for real-world tasks. Verifiable proof, onchain rewards. Powered by Solana. ProofMarket ProofMarketfun Hi AI agents, how can I help you?\nA marketplace connecting AI agents with humans for real-world tasks. Verifiable proof, onchain rewards. Powered by Solana.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "punk.fun",
       "account": "punkdotfun",
       "sources": [
@@ -10270,6 +10444,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "Sixth Sense Labs",
+      "account": "Sextus_Sensus",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "A佬",
+        "黑客fa1r"
+      ],
+      "tgAlphas": [
+        "A佬",
+        "黑客fa1r"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-10-28T14:46:00+08:00",
+      "lastSeen": "2026-11-17T14:22:02+00:00",
+      "description": "Building a Robust Robotics Data & Refinement layer | The First Humanoid On Solana.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Sixth Sense Labs",
+          "account": "Sextus_Sensus",
+          "alpha": "A佬",
+          "seenAt": "2026-11-17T14:22:02+00:00",
+          "messageId": "dodtwitterbot/41202",
+          "description": "Building a Robust Robotics Data & Refinement layer | The First Humanoid On Solana.",
+          "text": "Building a Robust Robotics Data & Refinement layer | The First Humanoid On Solana."
+        },
+        {
+          "source": "TG",
+          "project": "Sixth Sense Labs",
+          "account": "Sextus_Sensus",
+          "alpha": "黑客fa1r",
+          "seenAt": "2026-10-28T14:46:00+08:00",
+          "messageId": "dodtwitterbot/38182",
+          "description": "Building a Robust Robotics Data & Refinement layer | The First Humanoid On Solana.",
+          "text": "Building a Robust Robotics Data & Refinement layer | The First Humanoid On Solana."
+        }
+      ],
+      "text": " Sixth Sense Labs Sextus_Sensus Building a Robust Robotics Data & Refinement layer | The First Humanoid On Solana. Sixth Sense Labs Sextus_Sensus Building a Robust Robotics Data & Refinement layer | The First Humanoid On Solana.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "SolRocket",
       "account": "SolRocketPad",
       "sources": [
@@ -10541,6 +10761,52 @@
         }
       ],
       "text": " Syntropic Agent SyntropicAgent An agent, developing & powering Real World Flywheels via Syntropic Farming, leveraging the @KokonutNetwork Framework. Syntropic Agent SyntropicAgent An agent, developing & powering Real World Flywheels via Syntropic Farming, leveraging the @KokonutNetwork Framework.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Thinkers_",
+      "account": "ThinkersClub_",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Skrchen666(钻石手伤心版 绝对纸手之人）",
+        "lakka"
+      ],
+      "tgAlphas": [
+        "Skrchen666(钻石手伤心版 绝对纸手之人）",
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-16T16:28:54+00:00",
+      "lastSeen": "2026-11-17T11:07:32+00:00",
+      "description": "World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Thinkers_",
+          "account": "ThinkersClub_",
+          "alpha": "lakka",
+          "seenAt": "2026-11-16T16:28:54+00:00",
+          "messageId": "dodtwitterbot/41130",
+          "description": "World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_",
+          "text": "World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_"
+        },
+        {
+          "source": "TG",
+          "project": "Thinkers_",
+          "account": "ThinkersClub_",
+          "alpha": "Skrchen666(钻石手伤心版 绝对纸手之人）",
+          "seenAt": "2026-11-17T11:07:32+00:00",
+          "messageId": "dodtwitterbot/41184",
+          "description": "World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_",
+          "text": "World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_"
+        }
+      ],
+      "text": " Thinkers_ ThinkersClub_ World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_ Thinkers_ ThinkersClub_ World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -13038,6 +13304,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "CardChase",
+      "account": "CardChaseFun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka"
+      ],
+      "tgAlphas": [
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-17T14:13:00+00:00",
+      "lastSeen": "2026-11-17T14:13:00+00:00",
+      "description": "Where collectors call the market.\nPokemon TCG price predictions.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "CardChase",
+          "account": "CardChaseFun",
+          "alpha": "lakka",
+          "seenAt": "2026-11-17T14:13:00+00:00",
+          "messageId": "dodtwitterbot/41201",
+          "description": "Where collectors call the market.\nPokemon TCG price predictions.",
+          "text": "Where collectors call the market.\nPokemon TCG price predictions."
+        }
+      ],
+      "text": " CardChase CardChaseFun Where collectors call the market.\nPokemon TCG price predictions.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Carry",
       "account": "carryonhl",
       "sources": [
@@ -13135,6 +13435,40 @@
         }
       ],
       "text": " CeilingDotFun CeilingDotFun A @Solana launchpad enabling permissionless token creation for any online identity, with vault-based creator fee distribution",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "CFTC",
+      "account": "CFTC",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Skrchen666(钻石手伤心版 绝对纸手之人）"
+      ],
+      "tgAlphas": [
+        "Skrchen666(钻石手伤心版 绝对纸手之人）"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-17T11:28:00+00:00",
+      "lastSeen": "2026-11-17T11:28:00+00:00",
+      "description": "The CFTC is an independent federal regulatory agency tasked with overseeing the US derivatives markets. Hyperlinks are not endorsements. https://t.co/pKyGmrVO34",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "CFTC",
+          "account": "CFTC",
+          "alpha": "Skrchen666(钻石手伤心版 绝对纸手之人）",
+          "seenAt": "2026-11-17T11:28:00+00:00",
+          "messageId": "dodtwitterbot/41187",
+          "description": "The CFTC is an independent federal regulatory agency tasked with overseeing the US derivatives markets. Hyperlinks are not endorsements. https://t.co/pKyGmrVO34",
+          "text": "The CFTC is an independent federal regulatory agency tasked with overseeing the US derivatives markets. Hyperlinks are not endorsements. https://t.co/pKyGmrVO34"
+        }
+      ],
+      "text": " CFTC CFTC The CFTC is an independent federal regulatory agency tasked with overseeing the US derivatives markets. Hyperlinks are not endorsements. https://t.co/pKyGmrVO34",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -13815,40 +14149,6 @@
         }
       ],
       "text": " CustosFinance custosfinance Custos Finance — an RWA exchange on GIWA.\nBringing real-world assets onchain with transparent, verifiable proof.\nReal assets. Visible proof.\nFollow the build",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
-      "project": "CyraDex",
-      "account": "Cyra_Dex",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "阿宏"
-      ],
-      "tgAlphas": [
-        "阿宏"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-15T04:38:25+00:00",
-      "lastSeen": "2026-11-15T04:38:25+00:00",
-      "description": "DEX aggregator on Layer0 ⚡",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "CyraDex",
-          "account": "Cyra_Dex",
-          "alpha": "阿宏",
-          "seenAt": "2026-11-15T04:38:25+00:00",
-          "messageId": "dodtwitterbot/40971",
-          "description": "DEX aggregator on Layer0 ⚡",
-          "text": "DEX aggregator on Layer0 ⚡"
-        }
-      ],
-      "text": " CyraDex Cyra_Dex DEX aggregator on Layer0 ⚡",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -19328,40 +19628,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "NVDA chain",
-      "account": "NVDAchain",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "CSR"
-      ],
-      "tgAlphas": [
-        "CSR"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-16T20:22:11+00:00",
-      "lastSeen": "2026-11-16T20:22:11+00:00",
-      "description": "Compute is gas. The AI native L3.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "NVDA chain",
-          "account": "NVDAchain",
-          "alpha": "CSR",
-          "seenAt": "2026-11-16T20:22:11+00:00",
-          "messageId": "dodtwitterbot/41161",
-          "description": "Compute is gas. The AI native L3.",
-          "text": "Compute is gas. The AI native L3."
-        }
-      ],
-      "text": " NVDA chain NVDAchain Compute is gas. The AI native L3.",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
       "project": "Nymra",
       "account": "Nymrasi",
       "sources": [
@@ -19799,6 +20065,40 @@
         }
       ],
       "text": " P2PKit p2pkitdotcom Take local payments. Settle in USDC.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Paboxo",
+      "account": "paboxoxyz",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "hit.ink"
+      ],
+      "tgAlphas": [
+        "hit.ink"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-17T09:21:26+00:00",
+      "lastSeen": "2026-11-17T09:21:26+00:00",
+      "description": "The Credit Layer of Tokenized Assets | No token yet. Beware of scammers&#33;",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Paboxo",
+          "account": "paboxoxyz",
+          "alpha": "hit.ink",
+          "seenAt": "2026-11-17T09:21:26+00:00",
+          "messageId": "dodtwitterbot/41177",
+          "description": "The Credit Layer of Tokenized Assets | No token yet. Beware of scammers&#33;",
+          "text": "The Credit Layer of Tokenized Assets | No token yet. Beware of scammers&#33;"
+        }
+      ],
+      "text": " Paboxo paboxoxyz The Credit Layer of Tokenized Assets | No token yet. Beware of scammers&#33;",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -20683,40 +20983,6 @@
         }
       ],
       "text": " Project Harmonia JoinHarmonia Tokenization meets distribution. Connecting regulated tokenized funds to Allfunds’ institutional network and @Solana . Quarterly RFP rounds. Apply now ↓",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
-      "project": "ProofMarket",
-      "account": "ProofMarketfun",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "unsynned"
-      ],
-      "tgAlphas": [
-        "unsynned"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-16T18:56:42+00:00",
-      "lastSeen": "2026-11-16T18:56:42+00:00",
-      "description": "Hi AI agents, how can I help you?\nA marketplace connecting AI agents with humans for real-world tasks. Verifiable proof, onchain rewards. Powered by Solana.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "ProofMarket",
-          "account": "ProofMarketfun",
-          "alpha": "unsynned",
-          "seenAt": "2026-11-16T18:56:42+00:00",
-          "messageId": "dodtwitterbot/41158",
-          "description": "Hi AI agents, how can I help you?\nA marketplace connecting AI agents with humans for real-world tasks. Verifiable proof, onchain rewards. Powered by Solana.",
-          "text": "Hi AI agents, how can I help you?\nA marketplace connecting AI agents with humans for real-world tasks. Verifiable proof, onchain rewards. Powered by Solana."
-        }
-      ],
-      "text": " ProofMarket ProofMarketfun Hi AI agents, how can I help you?\nA marketplace connecting AI agents with humans for real-world tasks. Verifiable proof, onchain rewards. Powered by Solana.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -21907,40 +22173,6 @@
         }
       ],
       "text": " Silicon Dreamers Protocol Silicon_Dreamer Let the machines dream.\n\nYour AI imagines a Dreamer. Your wallet brings it onchain. A shared world gains another character.\n\n4,444 initial seats.\nOne payment.",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Sixth Sense Labs",
-      "account": "Sextus_Sensus",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "黑客fa1r"
-      ],
-      "tgAlphas": [
-        "黑客fa1r"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-10-28T14:46:00+08:00",
-      "lastSeen": "2026-10-28T14:46:00+08:00",
-      "description": "Building a Robust Robotics Data & Refinement layer | The First Humanoid On Solana.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Sixth Sense Labs",
-          "account": "Sextus_Sensus",
-          "alpha": "黑客fa1r",
-          "seenAt": "2026-10-28T14:46:00+08:00",
-          "messageId": "dodtwitterbot/38182",
-          "description": "Building a Robust Robotics Data & Refinement layer | The First Humanoid On Solana.",
-          "text": "Building a Robust Robotics Data & Refinement layer | The First Humanoid On Solana."
-        }
-      ],
-      "text": " Sixth Sense Labs Sextus_Sensus Building a Robust Robotics Data & Refinement layer | The First Humanoid On Solana.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -23374,40 +23606,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Thinkers_",
-      "account": "ThinkersClub_",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "lakka"
-      ],
-      "tgAlphas": [
-        "lakka"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-16T16:28:54+00:00",
-      "lastSeen": "2026-11-16T16:28:54+00:00",
-      "description": "World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Thinkers_",
-          "account": "ThinkersClub_",
-          "alpha": "lakka",
-          "seenAt": "2026-11-16T16:28:54+00:00",
-          "messageId": "dodtwitterbot/41130",
-          "description": "World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_",
-          "text": "World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_"
-        }
-      ],
-      "text": " Thinkers_ ThinkersClub_ World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
       "project": "TidePerps",
       "account": "tideperps",
       "sources": [
@@ -24117,6 +24315,40 @@
         }
       ],
       "text": " yeet.bond yeetdotbond yeet provides devtools that make launching as easy as one-two-yeet",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "yn",
+      "account": "LuxeynSOL",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-17T05:21:44+00:00",
+      "lastSeen": "2026-11-17T05:21:44+00:00",
+      "description": "Memecoin Enthusiast | Degen-Perp ANALYST 📊 Visioner Cabal |",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "yn",
+          "account": "LuxeynSOL",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-17T05:21:44+00:00",
+          "messageId": "dodtwitterbot/41167",
+          "description": "Memecoin Enthusiast | Degen-Perp ANALYST 📊 Visioner Cabal |",
+          "text": "Memecoin Enthusiast | Degen-Perp ANALYST 📊 Visioner Cabal |"
+        }
+      ],
+      "text": " yn LuxeynSOL Memecoin Enthusiast | Degen-Perp ANALYST 📊 Visioner Cabal |",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -25717,6 +25949,22 @@
       "avatarUrl": ""
     },
     {
+      "project": "CyraDex",
+      "x_account": "Cyra_Dex",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "hit.ink",
+        "lakka",
+        "阿宏"
+      ],
+      "description": "DEX aggregator on @LayerZero_Core ⚡",
+      "first_seen_utc": "2026-11-15T04:38:25+00:00",
+      "last_seen_utc": "2026-11-17T14:22:59+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
       "project": "Eloscape",
       "x_account": "eloscapeHQ",
       "total_mentions": 3,
@@ -25793,6 +26041,22 @@
       "description": "We make high-risk stablecoin flows bankable.",
       "first_seen_utc": "2026-10-29T14:52:03+00:00",
       "last_seen_utc": "2026-10-29T19:42:43+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Formation Markets",
+      "x_account": "formation_mkts",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "BearzVerse",
+        "lakka",
+        "unsynned"
+      ],
+      "description": "Creating markets and helping firms transfer risk using frontier markets.",
+      "first_seen_utc": "2026-10-28T02:05:00+08:00",
+      "last_seen_utc": "2026-11-17T14:23:54+00:00",
       "status": "priority",
       "avatarUrl": ""
     },
@@ -25985,6 +26249,22 @@
       "description": "One app for on-chain trading and lending. Built on @SonicLabs",
       "first_seen_utc": "2026-10-31T17:26:01+00:00",
       "last_seen_utc": "2026-11-02T16:20:44+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
+      "project": "NVDA chain",
+      "x_account": "NVDAchain",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "CSR",
+        "lakka",
+        "unsynned"
+      ],
+      "description": "Compute is gas. The AI native L3.",
+      "first_seen_utc": "2026-11-16T20:22:11+00:00",
+      "last_seen_utc": "2026-11-17T14:22:59+00:00",
       "status": "priority",
       "avatarUrl": ""
     },
@@ -26988,21 +27268,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Formation Markets",
-      "x_account": "formation_mkts",
-      "total_mentions": 2,
-      "unique_alphas": 2,
-      "alphas": [
-        "BearzVerse",
-        "unsynned"
-      ],
-      "description": "Creating markets and helping firms transfer risk using frontier markets.",
-      "first_seen_utc": "2026-10-28T02:05:00+08:00",
-      "last_seen_utc": "2026-10-28T03:40:00+08:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "GLIDORA",
       "x_account": "UseGlidora",
       "total_mentions": 2,
@@ -27543,6 +27808,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "ProofMarket",
+      "x_account": "ProofMarketfun",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "unsynned",
+        "well"
+      ],
+      "description": "Hi AI agents, how can I help you?\nA marketplace connecting AI agents with humans for real-world tasks. Verifiable proof, onchain rewards. Powered by Solana.",
+      "first_seen_utc": "2026-11-16T18:56:42+00:00",
+      "last_seen_utc": "2026-11-17T05:23:32+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "punk.fun",
       "x_account": "punkdotfun",
       "total_mentions": 2,
@@ -27693,6 +27973,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "Sixth Sense Labs",
+      "x_account": "Sextus_Sensus",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "A佬",
+        "黑客fa1r"
+      ],
+      "description": "Building a Robust Robotics Data & Refinement layer | The First Humanoid On Solana.",
+      "first_seen_utc": "2026-10-28T14:46:00+08:00",
+      "last_seen_utc": "2026-11-17T14:22:02+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "SolRocket",
       "x_account": "SolRocketPad",
       "total_mentions": 2,
@@ -27779,6 +28074,21 @@
       "description": "An agent, developing & powering Real World Flywheels via Syntropic Farming, leveraging the @KokonutNetwork Framework.",
       "first_seen_utc": "2026-11-03T21:43:31+00:00",
       "last_seen_utc": "2026-11-04T02:48:46+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Thinkers_",
+      "x_account": "ThinkersClub_",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "Skrchen666(钻石手伤心版 绝对纸手之人）",
+        "lakka"
+      ],
+      "description": "World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_",
+      "first_seen_utc": "2026-11-16T16:28:54+00:00",
+      "last_seen_utc": "2026-11-17T11:07:32+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -28750,6 +29060,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "CardChase",
+      "x_account": "CardChaseFun",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "lakka"
+      ],
+      "description": "Where collectors call the market.\nPokemon TCG price predictions.",
+      "first_seen_utc": "2026-11-17T14:13:00+00:00",
+      "last_seen_utc": "2026-11-17T14:13:00+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Carry",
       "x_account": "carryonhl",
       "total_mentions": 1,
@@ -28788,6 +29112,20 @@
       "description": "A @Solana launchpad enabling permissionless token creation for any online identity, with vault-based creator fee distribution",
       "first_seen_utc": "2026-11-05T18:28:54+00:00",
       "last_seen_utc": "2026-11-05T18:28:54+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "CFTC",
+      "x_account": "CFTC",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "Skrchen666(钻石手伤心版 绝对纸手之人）"
+      ],
+      "description": "The CFTC is an independent federal regulatory agency tasked with overseeing the US derivatives markets. Hyperlinks are not endorsements. https://t.co/pKyGmrVO34",
+      "first_seen_utc": "2026-11-17T11:28:00+00:00",
+      "last_seen_utc": "2026-11-17T11:28:00+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -29068,20 +29406,6 @@
       "description": "Custos Finance — an RWA exchange on GIWA.\nBringing real-world assets onchain with transparent, verifiable proof.\nReal assets. Visible proof.\nFollow the build",
       "first_seen_utc": "2026-10-31T16:51:25+00:00",
       "last_seen_utc": "2026-10-31T16:51:25+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "CyraDex",
-      "x_account": "Cyra_Dex",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "阿宏"
-      ],
-      "description": "DEX aggregator on Layer0 ⚡",
-      "first_seen_utc": "2026-11-15T04:38:25+00:00",
-      "last_seen_utc": "2026-11-15T04:38:25+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -31340,20 +31664,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "NVDA chain",
-      "x_account": "NVDAchain",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "CSR"
-      ],
-      "description": "Compute is gas. The AI native L3.",
-      "first_seen_utc": "2026-11-16T20:22:11+00:00",
-      "last_seen_utc": "2026-11-16T20:22:11+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "Nymra",
       "x_account": "Nymrasi",
       "total_mentions": 1,
@@ -31532,6 +31842,20 @@
       "description": "Take local payments. Settle in USDC.",
       "first_seen_utc": "2026-11-04T22:42:03+00:00",
       "last_seen_utc": "2026-11-04T22:42:03+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Paboxo",
+      "x_account": "paboxoxyz",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "hit.ink"
+      ],
+      "description": "The Credit Layer of Tokenized Assets | No token yet. Beware of scammers&#33;",
+      "first_seen_utc": "2026-11-17T09:21:26+00:00",
+      "last_seen_utc": "2026-11-17T09:21:26+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -31896,20 +32220,6 @@
       "description": "Tokenization meets distribution. Connecting regulated tokenized funds to Allfunds’ institutional network and @Solana . Quarterly RFP rounds. Apply now ↓",
       "first_seen_utc": "2026-11-08T06:30:46+00:00",
       "last_seen_utc": "2026-11-08T06:30:46+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "ProofMarket",
-      "x_account": "ProofMarketfun",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "unsynned"
-      ],
-      "description": "Hi AI agents, how can I help you?\nA marketplace connecting AI agents with humans for real-world tasks. Verifiable proof, onchain rewards. Powered by Solana.",
-      "first_seen_utc": "2026-11-16T18:56:42+00:00",
-      "last_seen_utc": "2026-11-16T18:56:42+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -32400,20 +32710,6 @@
       "description": "Let the machines dream.\n\nYour AI imagines a Dreamer. Your wallet brings it onchain. A shared world gains another character.\n\n4,444 initial seats.\nOne payment.",
       "first_seen_utc": "2026-10-29T15:09:59+00:00",
       "last_seen_utc": "2026-10-29T15:09:59+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Sixth Sense Labs",
-      "x_account": "Sextus_Sensus",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "黑客fa1r"
-      ],
-      "description": "Building a Robust Robotics Data & Refinement layer | The First Humanoid On Solana.",
-      "first_seen_utc": "2026-10-28T14:46:00+08:00",
-      "last_seen_utc": "2026-10-28T14:46:00+08:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -33006,20 +33302,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Thinkers_",
-      "x_account": "ThinkersClub_",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "lakka"
-      ],
-      "description": "World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_",
-      "first_seen_utc": "2026-11-16T16:28:54+00:00",
-      "last_seen_utc": "2026-11-16T16:28:54+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "TidePerps",
       "x_account": "tideperps",
       "total_mentions": 1,
@@ -33310,6 +33592,20 @@
       "description": "yeet provides devtools that make launching as easy as one-two-yeet",
       "first_seen_utc": "2026-10-28T05:08:00+08:00",
       "last_seen_utc": "2026-10-28T05:08:00+08:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "yn",
+      "x_account": "LuxeynSOL",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "Memecoin Enthusiast | Degen-Perp ANALYST 📊 Visioner Cabal |",
+      "first_seen_utc": "2026-11-17T05:21:44+00:00",
+      "last_seen_utc": "2026-11-17T05:21:44+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -33611,14 +33907,284 @@
   "daily": [
     {
       "date": "2026-11-17",
-      "totalRows": 11,
-      "projectCount": 11,
-      "focusCount": 0,
-      "candidateCount": 11,
+      "totalRows": 23,
+      "projectCount": 18,
+      "focusCount": 4,
+      "candidateCount": 14,
       "crossSource": 0,
-      "newCount": 9,
-      "repeatCount": 2,
+      "newCount": 13,
+      "repeatCount": 5,
       "projects": [
+        {
+          "project": "NVDA chain",
+          "account": "NVDAchain",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "CSR",
+            "lakka",
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "CSR",
+            "lakka",
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 3,
+          "firstSeen": "2026-11-16T20:22:11+00:00",
+          "lastSeen": "2026-11-17T14:22:59+00:00",
+          "description": "Compute is gas. The AI native L3.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "NVDA chain",
+              "account": "NVDAchain",
+              "alpha": "CSR",
+              "seenAt": "2026-11-16T20:22:11+00:00",
+              "messageId": "dodtwitterbot/41161",
+              "description": "Compute is gas. The AI native L3.",
+              "text": "Compute is gas. The AI native L3."
+            },
+            {
+              "source": "TG",
+              "project": "NVDA chain",
+              "account": "NVDAchain",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-17T05:52:58+00:00",
+              "messageId": "dodtwitterbot/41172",
+              "description": "Compute is gas. The AI native L3.",
+              "text": "Compute is gas. The AI native L3."
+            },
+            {
+              "source": "TG",
+              "project": "NVDA chain",
+              "account": "NVDAchain",
+              "alpha": "lakka",
+              "seenAt": "2026-11-17T14:22:59+00:00",
+              "messageId": "dodtwitterbot/41204",
+              "description": "Compute is gas. The AI native L3.",
+              "text": "Compute is gas. The AI native L3."
+            }
+          ],
+          "text": " NVDA chain NVDAchain Compute is gas. The AI native L3. NVDA chain NVDAchain Compute is gas. The AI native L3. NVDA chain NVDAchain Compute is gas. The AI native L3.",
+          "score": 6,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "CyraDex",
+          "account": "Cyra_Dex",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "hit.ink",
+            "lakka"
+          ],
+          "tgAlphas": [
+            "hit.ink",
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-11-17T05:32:30+00:00",
+          "lastSeen": "2026-11-17T14:22:59+00:00",
+          "description": "DEX aggregator on @LayerZero_Core ⚡",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "CyraDex",
+              "account": "Cyra_Dex",
+              "alpha": "hit.ink",
+              "seenAt": "2026-11-17T05:32:30+00:00",
+              "messageId": "dodtwitterbot/41169",
+              "description": "DEX aggregator on @LayerZero_Core ⚡",
+              "text": "DEX aggregator on @LayerZero_Core ⚡"
+            },
+            {
+              "source": "TG",
+              "project": "CyraDex",
+              "account": "Cyra_Dex",
+              "alpha": "lakka",
+              "seenAt": "2026-11-17T14:22:59+00:00",
+              "messageId": "dodtwitterbot/41203",
+              "description": "DEX aggregator on @LayerZero_Core ⚡",
+              "text": "DEX aggregator on @LayerZero_Core ⚡"
+            }
+          ],
+          "text": " CyraDex Cyra_Dex DEX aggregator on @LayerZero_Core ⚡ CyraDex Cyra_Dex DEX aggregator on @LayerZero_Core ⚡",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "ProofMarket",
+          "account": "ProofMarketfun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned",
+            "well"
+          ],
+          "tgAlphas": [
+            "unsynned",
+            "well"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-11-16T18:56:42+00:00",
+          "lastSeen": "2026-11-17T05:23:32+00:00",
+          "description": "Hi AI agents, how can I help you?\nA marketplace connecting AI agents with humans for real-world tasks. Verifiable proof, onchain rewards. Powered by Solana.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "ProofMarket",
+              "account": "ProofMarketfun",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-16T18:56:42+00:00",
+              "messageId": "dodtwitterbot/41158",
+              "description": "Hi AI agents, how can I help you?\nA marketplace connecting AI agents with humans for real-world tasks. Verifiable proof, onchain rewards. Powered by Solana.",
+              "text": "Hi AI agents, how can I help you?\nA marketplace connecting AI agents with humans for real-world tasks. Verifiable proof, onchain rewards. Powered by Solana."
+            },
+            {
+              "source": "TG",
+              "project": "ProofMarket",
+              "account": "ProofMarketfun",
+              "alpha": "well",
+              "seenAt": "2026-11-17T05:23:32+00:00",
+              "messageId": "dodtwitterbot/41168",
+              "description": "Hi AI agents, how can I help you?\nA marketplace connecting AI agents with humans for real-world tasks. Verifiable proof, onchain rewards. Powered by Solana.",
+              "text": "Hi AI agents, how can I help you?\nA marketplace connecting AI agents with humans for real-world tasks. Verifiable proof, onchain rewards. Powered by Solana."
+            }
+          ],
+          "text": " ProofMarket ProofMarketfun Hi AI agents, how can I help you?\nA marketplace connecting AI agents with humans for real-world tasks. Verifiable proof, onchain rewards. Powered by Solana. ProofMarket ProofMarketfun Hi AI agents, how can I help you?\nA marketplace connecting AI agents with humans for real-world tasks. Verifiable proof, onchain rewards. Powered by Solana.",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Thinkers_",
+          "account": "ThinkersClub_",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Skrchen666(钻石手伤心版 绝对纸手之人）",
+            "lakka"
+          ],
+          "tgAlphas": [
+            "Skrchen666(钻石手伤心版 绝对纸手之人）",
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-11-16T16:28:54+00:00",
+          "lastSeen": "2026-11-17T11:07:32+00:00",
+          "description": "World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Thinkers_",
+              "account": "ThinkersClub_",
+              "alpha": "lakka",
+              "seenAt": "2026-11-16T16:28:54+00:00",
+              "messageId": "dodtwitterbot/41130",
+              "description": "World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_",
+              "text": "World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_"
+            },
+            {
+              "source": "TG",
+              "project": "Thinkers_",
+              "account": "ThinkersClub_",
+              "alpha": "Skrchen666(钻石手伤心版 绝对纸手之人）",
+              "seenAt": "2026-11-17T11:07:32+00:00",
+              "messageId": "dodtwitterbot/41184",
+              "description": "World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_",
+              "text": "World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_"
+            }
+          ],
+          "text": " Thinkers_ ThinkersClub_ World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_ Thinkers_ ThinkersClub_ World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "CardChase",
+          "account": "CardChaseFun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-17T14:13:00+00:00",
+          "lastSeen": "2026-11-17T14:13:00+00:00",
+          "description": "Where collectors call the market.\nPokemon TCG price predictions.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "CardChase",
+              "account": "CardChaseFun",
+              "alpha": "lakka",
+              "seenAt": "2026-11-17T14:13:00+00:00",
+              "messageId": "dodtwitterbot/41201",
+              "description": "Where collectors call the market.\nPokemon TCG price predictions.",
+              "text": "Where collectors call the market.\nPokemon TCG price predictions."
+            }
+          ],
+          "text": " CardChase CardChaseFun Where collectors call the market.\nPokemon TCG price predictions.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "CFTC",
+          "account": "CFTC",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Skrchen666(钻石手伤心版 绝对纸手之人）"
+          ],
+          "tgAlphas": [
+            "Skrchen666(钻石手伤心版 绝对纸手之人）"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-17T11:28:00+00:00",
+          "lastSeen": "2026-11-17T11:28:00+00:00",
+          "description": "The CFTC is an independent federal regulatory agency tasked with overseeing the US derivatives markets. Hyperlinks are not endorsements. https://t.co/pKyGmrVO34",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "CFTC",
+              "account": "CFTC",
+              "alpha": "Skrchen666(钻石手伤心版 绝对纸手之人）",
+              "seenAt": "2026-11-17T11:28:00+00:00",
+              "messageId": "dodtwitterbot/41187",
+              "description": "The CFTC is an independent federal regulatory agency tasked with overseeing the US derivatives markets. Hyperlinks are not endorsements. https://t.co/pKyGmrVO34",
+              "text": "The CFTC is an independent federal regulatory agency tasked with overseeing the US derivatives markets. Hyperlinks are not endorsements. https://t.co/pKyGmrVO34"
+            }
+          ],
+          "text": " CFTC CFTC The CFTC is an independent federal regulatory agency tasked with overseeing the US derivatives markets. Hyperlinks are not endorsements. https://t.co/pKyGmrVO34",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
         {
           "project": "deuslaunch",
           "account": "deuslaunch",
@@ -33688,6 +34254,41 @@
           "displayTier": "candidate",
           "avatarUrl": "",
           "dayStatus": "new"
+        },
+        {
+          "project": "Formation Markets",
+          "account": "formation_mkts",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-17T14:23:54+00:00",
+          "lastSeen": "2026-11-17T14:23:54+00:00",
+          "description": "Frontier market creation and risk transfer made programmatic.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Formation Markets",
+              "account": "formation_mkts",
+              "alpha": "lakka",
+              "seenAt": "2026-11-17T14:23:54+00:00",
+              "messageId": "dodtwitterbot/41205",
+              "description": "Frontier market creation and risk transfer made programmatic.",
+              "text": "Frontier market creation and risk transfer made programmatic."
+            }
+          ],
+          "text": " Formation Markets formation_mkts Frontier market creation and risk transfer made programmatic.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
         },
         {
           "project": "Gamapad · Launchpad on GIWA",
@@ -33795,74 +34396,74 @@
           "dayStatus": "repeat"
         },
         {
-          "project": "NVDA chain",
-          "account": "NVDAchain",
+          "project": "Paboxo",
+          "account": "paboxoxyz",
           "sources": [
             "TG"
           ],
           "alphas": [
-            "CSR"
+            "hit.ink"
           ],
           "tgAlphas": [
-            "CSR"
+            "hit.ink"
           ],
           "xAlphas": [],
           "mentions": 1,
-          "firstSeen": "2026-11-16T20:22:11+00:00",
-          "lastSeen": "2026-11-16T20:22:11+00:00",
-          "description": "Compute is gas. The AI native L3.",
+          "firstSeen": "2026-11-17T09:21:26+00:00",
+          "lastSeen": "2026-11-17T09:21:26+00:00",
+          "description": "The Credit Layer of Tokenized Assets | No token yet. Beware of scammers&#33;",
           "rows": [
             {
               "source": "TG",
-              "project": "NVDA chain",
-              "account": "NVDAchain",
-              "alpha": "CSR",
-              "seenAt": "2026-11-16T20:22:11+00:00",
-              "messageId": "dodtwitterbot/41161",
-              "description": "Compute is gas. The AI native L3.",
-              "text": "Compute is gas. The AI native L3."
+              "project": "Paboxo",
+              "account": "paboxoxyz",
+              "alpha": "hit.ink",
+              "seenAt": "2026-11-17T09:21:26+00:00",
+              "messageId": "dodtwitterbot/41177",
+              "description": "The Credit Layer of Tokenized Assets | No token yet. Beware of scammers&#33;",
+              "text": "The Credit Layer of Tokenized Assets | No token yet. Beware of scammers&#33;"
             }
           ],
-          "text": " NVDA chain NVDAchain Compute is gas. The AI native L3.",
+          "text": " Paboxo paboxoxyz The Credit Layer of Tokenized Assets | No token yet. Beware of scammers&#33;",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
           "dayStatus": "new"
         },
         {
-          "project": "ProofMarket",
-          "account": "ProofMarketfun",
+          "project": "Sixth Sense Labs",
+          "account": "Sextus_Sensus",
           "sources": [
             "TG"
           ],
           "alphas": [
-            "unsynned"
+            "A佬"
           ],
           "tgAlphas": [
-            "unsynned"
+            "A佬"
           ],
           "xAlphas": [],
           "mentions": 1,
-          "firstSeen": "2026-11-16T18:56:42+00:00",
-          "lastSeen": "2026-11-16T18:56:42+00:00",
-          "description": "Hi AI agents, how can I help you?\nA marketplace connecting AI agents with humans for real-world tasks. Verifiable proof, onchain rewards. Powered by Solana.",
+          "firstSeen": "2026-11-17T14:22:02+00:00",
+          "lastSeen": "2026-11-17T14:22:02+00:00",
+          "description": "Building a Robust Robotics Data & Refinement layer | The First Humanoid On Solana.",
           "rows": [
             {
               "source": "TG",
-              "project": "ProofMarket",
-              "account": "ProofMarketfun",
-              "alpha": "unsynned",
-              "seenAt": "2026-11-16T18:56:42+00:00",
-              "messageId": "dodtwitterbot/41158",
-              "description": "Hi AI agents, how can I help you?\nA marketplace connecting AI agents with humans for real-world tasks. Verifiable proof, onchain rewards. Powered by Solana.",
-              "text": "Hi AI agents, how can I help you?\nA marketplace connecting AI agents with humans for real-world tasks. Verifiable proof, onchain rewards. Powered by Solana."
+              "project": "Sixth Sense Labs",
+              "account": "Sextus_Sensus",
+              "alpha": "A佬",
+              "seenAt": "2026-11-17T14:22:02+00:00",
+              "messageId": "dodtwitterbot/41202",
+              "description": "Building a Robust Robotics Data & Refinement layer | The First Humanoid On Solana.",
+              "text": "Building a Robust Robotics Data & Refinement layer | The First Humanoid On Solana."
             }
           ],
-          "text": " ProofMarket ProofMarketfun Hi AI agents, how can I help you?\nA marketplace connecting AI agents with humans for real-world tasks. Verifiable proof, onchain rewards. Powered by Solana.",
+          "text": " Sixth Sense Labs Sextus_Sensus Building a Robust Robotics Data & Refinement layer | The First Humanoid On Solana.",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
-          "dayStatus": "new"
+          "dayStatus": "repeat"
         },
         {
           "project": "Stroopy XLM Mascot",
@@ -33900,35 +34501,35 @@
           "dayStatus": "new"
         },
         {
-          "project": "Thinkers_",
-          "account": "ThinkersClub_",
+          "project": "yn",
+          "account": "LuxeynSOL",
           "sources": [
             "TG"
           ],
           "alphas": [
-            "lakka"
+            "蛋总"
           ],
           "tgAlphas": [
-            "lakka"
+            "蛋总"
           ],
           "xAlphas": [],
           "mentions": 1,
-          "firstSeen": "2026-11-16T16:28:54+00:00",
-          "lastSeen": "2026-11-16T16:28:54+00:00",
-          "description": "World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_",
+          "firstSeen": "2026-11-17T05:21:44+00:00",
+          "lastSeen": "2026-11-17T05:21:44+00:00",
+          "description": "Memecoin Enthusiast | Degen-Perp ANALYST 📊 Visioner Cabal |",
           "rows": [
             {
               "source": "TG",
-              "project": "Thinkers_",
-              "account": "ThinkersClub_",
-              "alpha": "lakka",
-              "seenAt": "2026-11-16T16:28:54+00:00",
-              "messageId": "dodtwitterbot/41130",
-              "description": "World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_",
-              "text": "World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_"
+              "project": "yn",
+              "account": "LuxeynSOL",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-17T05:21:44+00:00",
+              "messageId": "dodtwitterbot/41167",
+              "description": "Memecoin Enthusiast | Degen-Perp ANALYST 📊 Visioner Cabal |",
+              "text": "Memecoin Enthusiast | Degen-Perp ANALYST 📊 Visioner Cabal |"
             }
           ],
-          "text": " Thinkers_ ThinkersClub_ World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_",
+          "text": " yn LuxeynSOL Memecoin Enthusiast | Degen-Perp ANALYST 📊 Visioner Cabal |",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -63535,334 +64136,339 @@
   ],
   "reports": [
     {
+      "file": "2026-11-17-1456-telegram-update.md",
+      "title": "2026-11-17-1456-telegram-update",
+      "updatedAt": "2026-11-17T14:56:44.769Z"
+    },
+    {
       "file": "2026-11-17-0412-telegram-update.md",
       "title": "2026-11-17-0412-telegram-update",
-      "updatedAt": "2026-11-17T04:12:48.076Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-16-1953-telegram-update.md",
       "title": "2026-11-16-1953-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.478Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-16-0839-telegram-update.md",
       "title": "2026-11-16-0839-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.478Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-15-2207-telegram-update.md",
       "title": "2026-11-15-2207-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.478Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-15-1639-telegram-update.md",
       "title": "2026-11-15-1639-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.478Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-15-0828-telegram-update.md",
       "title": "2026-11-15-0828-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.478Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-15-0121-telegram-update.md",
       "title": "2026-11-15-0121-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.478Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-14-2141-telegram-update.md",
       "title": "2026-11-14-2141-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.478Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-14-1610-telegram-update.md",
       "title": "2026-11-14-1610-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.478Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-14-0809-telegram-update.md",
       "title": "2026-11-14-0809-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.478Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-13-2255-telegram-update.md",
       "title": "2026-11-13-2255-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.478Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-13-1724-telegram-update.md",
       "title": "2026-11-13-1724-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.478Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-13-0849-telegram-update.md",
       "title": "2026-11-13-0849-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.478Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-12-2254-telegram-update.md",
       "title": "2026-11-12-2254-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.478Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-12-1746-telegram-update.md",
       "title": "2026-11-12-1746-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-12-0853-telegram-update.md",
       "title": "2026-11-12-0853-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-11-2344-telegram-update.md",
       "title": "2026-11-11-2344-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-11-1729-telegram-update.md",
       "title": "2026-11-11-1729-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-11-0828-telegram-update.md",
       "title": "2026-11-11-0828-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-11-0130-telegram-update.md",
       "title": "2026-11-11-0130-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-10-2037-telegram-update.md",
       "title": "2026-11-10-2037-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-10-1348-telegram-update.md",
       "title": "2026-11-10-1348-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-10-0351-telegram-update.md",
       "title": "2026-11-10-0351-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-09-2013-telegram-update.md",
       "title": "2026-11-09-2013-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-09-0844-telegram-update.md",
       "title": "2026-11-09-0844-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-08-2123-telegram-update.md",
       "title": "2026-11-08-2123-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-08-1623-telegram-update.md",
       "title": "2026-11-08-1623-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-08-0804-telegram-update.md",
       "title": "2026-11-08-0804-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-07-2106-telegram-update.md",
       "title": "2026-11-07-2106-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-07-1556-telegram-update.md",
       "title": "2026-11-07-1556-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-07-0751-telegram-update.md",
       "title": "2026-11-07-0751-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-06-2226-telegram-update.md",
       "title": "2026-11-06-2226-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-06-1658-telegram-update.md",
       "title": "2026-11-06-1658-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-06-0835-telegram-update.md",
       "title": "2026-11-06-0835-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-05-2256-telegram-update.md",
       "title": "2026-11-05-2256-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-05-1742-telegram-update.md",
       "title": "2026-11-05-1742-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-05-0836-telegram-update.md",
       "title": "2026-11-05-0836-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-04-2255-telegram-update.md",
       "title": "2026-11-04-2255-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-04-1737-telegram-update.md",
       "title": "2026-11-04-1737-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-04-0810-telegram-update.md",
       "title": "2026-11-04-0810-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-04-0143-telegram-update.md",
       "title": "2026-11-04-0143-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-03-2018-telegram-update.md",
       "title": "2026-11-03-2018-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-03-1302-telegram-update.md",
       "title": "2026-11-03-1302-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-03-0306-telegram-update.md",
       "title": "2026-11-03-0306-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-02-1950-telegram-update.md",
       "title": "2026-11-02-1950-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-02-0826-telegram-update.md",
       "title": "2026-11-02-0826-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-17T04:12:46.477Z"
+      "updatedAt": "2026-11-17T14:56:42.118Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-17T04:12:46.476Z"
+      "updatedAt": "2026-11-17T14:56:42.117Z"
     }
   ]
 }
