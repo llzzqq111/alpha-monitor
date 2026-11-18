@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-18T09:16:03.963Z",
+  "generatedAt": "2026-11-18T18:26:32.390Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 41244,
-    "lastMessageAt": "2026-11-18T07:23:21+00:00",
-    "lastCheckedAt": "2026-11-18T09:16:03.722Z",
-    "previousMessageId": 41228,
-    "pagesRead": 1,
-    "messagesRead": 16,
-    "newProjectRecords": 3,
+    "lastMessageId": 41267,
+    "lastMessageAt": "2026-11-18T17:40:09+00:00",
+    "lastCheckedAt": "2026-11-18T18:26:32.162Z",
+    "previousMessageId": 41244,
+    "pagesRead": 2,
+    "messagesRead": 23,
+    "newProjectRecords": 4,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 985,
+    "telegramRows": 989,
     "xRows": 0,
-    "projects": 607,
+    "projects": 610,
     "crossSource": 0
   },
   "projects": [
@@ -7408,6 +7408,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "Dream Robotics",
+      "account": "dreamrobotics_",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "hit.ink",
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "hit.ink",
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-16T16:55:13+00:00",
+      "lastSeen": "2026-11-18T09:28:30+00:00",
+      "description": "Co-designing the hardware, AI models, and data pipeline to make robotic labor affordable and scalable.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Dream Robotics",
+          "account": "dreamrobotics_",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-16T16:55:13+00:00",
+          "messageId": "dodtwitterbot/41139",
+          "description": "Co-designing the hardware, AI models, and data pipeline to make robotic labor affordable and scalable.",
+          "text": "Co-designing the hardware, AI models, and data pipeline to make robotic labor affordable and scalable."
+        },
+        {
+          "source": "TG",
+          "project": "Dream Robotics",
+          "account": "dreamrobotics_",
+          "alpha": "hit.ink",
+          "seenAt": "2026-11-18T09:28:30+00:00",
+          "messageId": "dodtwitterbot/41247",
+          "description": "Co-designing the hardware, AI models, and data pipeline to make robotic labor affordable and scalable.",
+          "text": "Co-designing the hardware, AI models, and data pipeline to make robotic labor affordable and scalable."
+        }
+      ],
+      "text": " Dream Robotics dreamrobotics_ Co-designing the hardware, AI models, and data pipeline to make robotic labor affordable and scalable. Dream Robotics dreamrobotics_ Co-designing the hardware, AI models, and data pipeline to make robotic labor affordable and scalable.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Elevate",
       "account": "elevatepad",
       "sources": [
@@ -12512,6 +12558,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Async Swap",
+      "account": "asyncswap",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Mutu 🕸️"
+      ],
+      "tgAlphas": [
+        "Mutu 🕸️"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-18T17:05:41+00:00",
+      "lastSeen": "2026-11-18T17:05:41+00:00",
+      "description": "A CoW and CLOB protocol build for large on-chain trades. Powered by Uniswap.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Async Swap",
+          "account": "asyncswap",
+          "alpha": "Mutu 🕸️",
+          "seenAt": "2026-11-18T17:05:41+00:00",
+          "messageId": "dodtwitterbot/41263",
+          "description": "A CoW and CLOB protocol build for large on-chain trades. Powered by Uniswap.",
+          "text": "A CoW and CLOB protocol build for large on-chain trades. Powered by Uniswap."
+        }
+      ],
+      "text": " Async Swap asyncswap A CoW and CLOB protocol build for large on-chain trades. Powered by Uniswap.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Atlas",
       "account": "Atlas_Elysium",
       "sources": [
@@ -14484,35 +14564,35 @@
       "avatarUrl": ""
     },
     {
-      "project": "Dream Robotics",
-      "account": "dreamrobotics_",
+      "project": "DyDx.fun",
+      "account": "DyDxfun",
       "sources": [
         "TG"
       ],
       "alphas": [
-        "unsynned"
+        "lakka"
       ],
       "tgAlphas": [
-        "unsynned"
+        "lakka"
       ],
       "xAlphas": [],
       "mentions": 1,
-      "firstSeen": "2026-11-16T16:55:13+00:00",
-      "lastSeen": "2026-11-16T16:55:13+00:00",
-      "description": "Co-designing the hardware, AI models, and data pipeline to make robotic labor affordable and scalable.",
+      "firstSeen": "2026-11-18T10:36:13+00:00",
+      "lastSeen": "2026-11-18T10:36:13+00:00",
+      "description": "The token launchpad for Zero. Launch. Trade. Earn. Coming soon on @LayerZero_Core .",
       "rows": [
         {
           "source": "TG",
-          "project": "Dream Robotics",
-          "account": "dreamrobotics_",
-          "alpha": "unsynned",
-          "seenAt": "2026-11-16T16:55:13+00:00",
-          "messageId": "dodtwitterbot/41139",
-          "description": "Co-designing the hardware, AI models, and data pipeline to make robotic labor affordable and scalable.",
-          "text": "Co-designing the hardware, AI models, and data pipeline to make robotic labor affordable and scalable."
+          "project": "DyDx.fun",
+          "account": "DyDxfun",
+          "alpha": "lakka",
+          "seenAt": "2026-11-18T10:36:13+00:00",
+          "messageId": "dodtwitterbot/41249",
+          "description": "The token launchpad for Zero. Launch. Trade. Earn. Coming soon on @LayerZero_Core .",
+          "text": "The token launchpad for Zero. Launch. Trade. Earn. Coming soon on @LayerZero_Core ."
         }
       ],
-      "text": " Dream Robotics dreamrobotics_ Co-designing the hardware, AI models, and data pipeline to make robotic labor affordable and scalable.",
+      "text": " DyDx.fun DyDxfun The token launchpad for Zero. Launch. Trade. Earn. Coming soon on @LayerZero_Core .",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -18083,6 +18163,40 @@
         }
       ],
       "text": " Ladder ladder_markets Creates a liquid market of structured yields",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Laminar",
+      "account": "LaminarTerminal",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "hit.ink"
+      ],
+      "tgAlphas": [
+        "hit.ink"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-18T09:27:38+00:00",
+      "lastSeen": "2026-11-18T09:27:38+00:00",
+      "description": "The operational command console for the Zcash economy. Construct high-volume payment batches without exposing private keys. Zero key exposure. Full audit trail.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Laminar",
+          "account": "LaminarTerminal",
+          "alpha": "hit.ink",
+          "seenAt": "2026-11-18T09:27:38+00:00",
+          "messageId": "dodtwitterbot/41245",
+          "description": "The operational command console for the Zcash economy. Construct high-volume payment batches without exposing private keys. Zero key exposure. Full audit trail.",
+          "text": "The operational command console for the Zcash economy. Construct high-volume payment batches without exposing private keys. Zero key exposure. Full audit trail."
+        }
+      ],
+      "text": " Laminar LaminarTerminal The operational command console for the Zcash economy. Construct high-volume payment batches without exposing private keys. Zero key exposure. Full audit trail.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -27109,6 +27223,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "Dream Robotics",
+      "x_account": "dreamrobotics_",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "hit.ink",
+        "unsynned"
+      ],
+      "description": "Co-designing the hardware, AI models, and data pipeline to make robotic labor affordable and scalable.",
+      "first_seen_utc": "2026-11-16T16:55:13+00:00",
+      "last_seen_utc": "2026-11-18T09:28:30+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Elevate",
       "x_account": "elevatepad",
       "total_mentions": 2,
@@ -28852,6 +28981,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Async Swap",
+      "x_account": "asyncswap",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "Mutu 🕸️"
+      ],
+      "description": "A CoW and CLOB protocol build for large on-chain trades. Powered by Uniswap.",
+      "first_seen_utc": "2026-11-18T17:05:41+00:00",
+      "last_seen_utc": "2026-11-18T17:05:41+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Atlas",
       "x_account": "Atlas_Elysium",
       "total_mentions": 1,
@@ -29664,16 +29807,16 @@
       "avatarUrl": ""
     },
     {
-      "project": "Dream Robotics",
-      "x_account": "dreamrobotics_",
+      "project": "DyDx.fun",
+      "x_account": "DyDxfun",
       "total_mentions": 1,
       "unique_alphas": 1,
       "alphas": [
-        "unsynned"
+        "lakka"
       ],
-      "description": "Co-designing the hardware, AI models, and data pipeline to make robotic labor affordable and scalable.",
-      "first_seen_utc": "2026-11-16T16:55:13+00:00",
-      "last_seen_utc": "2026-11-16T16:55:13+00:00",
+      "description": "The token launchpad for Zero. Launch. Trade. Earn. Coming soon on @LayerZero_Core .",
+      "first_seen_utc": "2026-11-18T10:36:13+00:00",
+      "last_seen_utc": "2026-11-18T10:36:13+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -31144,6 +31287,20 @@
       "description": "Creates a liquid market of structured yields",
       "first_seen_utc": "2026-11-04T13:30:12+00:00",
       "last_seen_utc": "2026-11-04T13:30:12+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Laminar",
+      "x_account": "LaminarTerminal",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "hit.ink"
+      ],
+      "description": "The operational command console for the Zcash economy. Construct high-volume payment batches without exposing private keys. Zero key exposure. Full audit trail.",
+      "first_seen_utc": "2026-11-18T09:27:38+00:00",
+      "last_seen_utc": "2026-11-18T09:27:38+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -34076,14 +34233,61 @@
   ],
   "daily": [
     {
-      "date": "2026-11-18",
-      "totalRows": 5,
-      "projectCount": 4,
-      "focusCount": 1,
-      "candidateCount": 3,
+      "date": "2026-11-19",
+      "totalRows": 1,
+      "projectCount": 1,
+      "focusCount": 0,
+      "candidateCount": 1,
       "crossSource": 0,
-      "newCount": 3,
-      "repeatCount": 1,
+      "newCount": 1,
+      "repeatCount": 0,
+      "projects": [
+        {
+          "project": "Async Swap",
+          "account": "asyncswap",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Mutu 🕸️"
+          ],
+          "tgAlphas": [
+            "Mutu 🕸️"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-18T17:05:41+00:00",
+          "lastSeen": "2026-11-18T17:05:41+00:00",
+          "description": "A CoW and CLOB protocol build for large on-chain trades. Powered by Uniswap.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Async Swap",
+              "account": "asyncswap",
+              "alpha": "Mutu 🕸️",
+              "seenAt": "2026-11-18T17:05:41+00:00",
+              "messageId": "dodtwitterbot/41263",
+              "description": "A CoW and CLOB protocol build for large on-chain trades. Powered by Uniswap.",
+              "text": "A CoW and CLOB protocol build for large on-chain trades. Powered by Uniswap."
+            }
+          ],
+          "text": " Async Swap asyncswap A CoW and CLOB protocol build for large on-chain trades. Powered by Uniswap.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "totalRows": 8,
+      "projectCount": 7,
+      "focusCount": 1,
+      "candidateCount": 6,
+      "crossSource": 0,
+      "newCount": 5,
+      "repeatCount": 2,
       "projects": [
         {
           "project": "Pika ⚡️",
@@ -34168,6 +34372,76 @@
           "dayStatus": "new"
         },
         {
+          "project": "Dream Robotics",
+          "account": "dreamrobotics_",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "hit.ink"
+          ],
+          "tgAlphas": [
+            "hit.ink"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-18T09:28:30+00:00",
+          "lastSeen": "2026-11-18T09:28:30+00:00",
+          "description": "Co-designing the hardware, AI models, and data pipeline to make robotic labor affordable and scalable.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Dream Robotics",
+              "account": "dreamrobotics_",
+              "alpha": "hit.ink",
+              "seenAt": "2026-11-18T09:28:30+00:00",
+              "messageId": "dodtwitterbot/41247",
+              "description": "Co-designing the hardware, AI models, and data pipeline to make robotic labor affordable and scalable.",
+              "text": "Co-designing the hardware, AI models, and data pipeline to make robotic labor affordable and scalable."
+            }
+          ],
+          "text": " Dream Robotics dreamrobotics_ Co-designing the hardware, AI models, and data pipeline to make robotic labor affordable and scalable.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "DyDx.fun",
+          "account": "DyDxfun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-18T10:36:13+00:00",
+          "lastSeen": "2026-11-18T10:36:13+00:00",
+          "description": "The token launchpad for Zero. Launch. Trade. Earn. Coming soon on @LayerZero_Core .",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "DyDx.fun",
+              "account": "DyDxfun",
+              "alpha": "lakka",
+              "seenAt": "2026-11-18T10:36:13+00:00",
+              "messageId": "dodtwitterbot/41249",
+              "description": "The token launchpad for Zero. Launch. Trade. Earn. Coming soon on @LayerZero_Core .",
+              "text": "The token launchpad for Zero. Launch. Trade. Earn. Coming soon on @LayerZero_Core ."
+            }
+          ],
+          "text": " DyDx.fun DyDxfun The token launchpad for Zero. Launch. Trade. Earn. Coming soon on @LayerZero_Core .",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
           "project": "ephemeral",
           "account": "ephemeral_eth",
           "sources": [
@@ -34197,6 +34471,41 @@
             }
           ],
           "text": " ephemeral ephemeral_eth private payments on ethereum L1. every payment lands on a fresh address only the receiver can find. erc-5564",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Laminar",
+          "account": "LaminarTerminal",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "hit.ink"
+          ],
+          "tgAlphas": [
+            "hit.ink"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-18T09:27:38+00:00",
+          "lastSeen": "2026-11-18T09:27:38+00:00",
+          "description": "The operational command console for the Zcash economy. Construct high-volume payment batches without exposing private keys. Zero key exposure. Full audit trail.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Laminar",
+              "account": "LaminarTerminal",
+              "alpha": "hit.ink",
+              "seenAt": "2026-11-18T09:27:38+00:00",
+              "messageId": "dodtwitterbot/41245",
+              "description": "The operational command console for the Zcash economy. Construct high-volume payment batches without exposing private keys. Zero key exposure. Full audit trail.",
+              "text": "The operational command console for the Zcash economy. Construct high-volume payment batches without exposing private keys. Zero key exposure. Full audit trail."
+            }
+          ],
+          "text": " Laminar LaminarTerminal The operational command console for the Zcash economy. Construct high-volume payment batches without exposing private keys. Zero key exposure. Full audit trail.",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -64470,349 +64779,354 @@
   ],
   "reports": [
     {
+      "file": "2026-11-18-1826-telegram-update.md",
+      "title": "2026-11-18-1826-telegram-update",
+      "updatedAt": "2026-11-18T18:26:32.161Z"
+    },
+    {
       "file": "2026-11-18-0916-telegram-update.md",
       "title": "2026-11-18-0916-telegram-update",
-      "updatedAt": "2026-11-18T09:16:03.721Z"
+      "updatedAt": "2026-11-18T18:26:29.469Z"
     },
     {
       "file": "2026-11-18-0002-telegram-update.md",
       "title": "2026-11-18-0002-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.357Z"
+      "updatedAt": "2026-11-18T18:26:29.469Z"
     },
     {
       "file": "2026-11-17-1456-telegram-update.md",
       "title": "2026-11-17-1456-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.357Z"
+      "updatedAt": "2026-11-18T18:26:29.469Z"
     },
     {
       "file": "2026-11-17-0412-telegram-update.md",
       "title": "2026-11-17-0412-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.357Z"
+      "updatedAt": "2026-11-18T18:26:29.469Z"
     },
     {
       "file": "2026-11-16-1953-telegram-update.md",
       "title": "2026-11-16-1953-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.357Z"
+      "updatedAt": "2026-11-18T18:26:29.469Z"
     },
     {
       "file": "2026-11-16-0839-telegram-update.md",
       "title": "2026-11-16-0839-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.357Z"
+      "updatedAt": "2026-11-18T18:26:29.469Z"
     },
     {
       "file": "2026-11-15-2207-telegram-update.md",
       "title": "2026-11-15-2207-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.357Z"
+      "updatedAt": "2026-11-18T18:26:29.469Z"
     },
     {
       "file": "2026-11-15-1639-telegram-update.md",
       "title": "2026-11-15-1639-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.357Z"
+      "updatedAt": "2026-11-18T18:26:29.469Z"
     },
     {
       "file": "2026-11-15-0828-telegram-update.md",
       "title": "2026-11-15-0828-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.357Z"
+      "updatedAt": "2026-11-18T18:26:29.469Z"
     },
     {
       "file": "2026-11-15-0121-telegram-update.md",
       "title": "2026-11-15-0121-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.469Z"
     },
     {
       "file": "2026-11-14-2141-telegram-update.md",
       "title": "2026-11-14-2141-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.469Z"
     },
     {
       "file": "2026-11-14-1610-telegram-update.md",
       "title": "2026-11-14-1610-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.469Z"
     },
     {
       "file": "2026-11-14-0809-telegram-update.md",
       "title": "2026-11-14-0809-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.469Z"
     },
     {
       "file": "2026-11-13-2255-telegram-update.md",
       "title": "2026-11-13-2255-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.469Z"
     },
     {
       "file": "2026-11-13-1724-telegram-update.md",
       "title": "2026-11-13-1724-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.469Z"
     },
     {
       "file": "2026-11-13-0849-telegram-update.md",
       "title": "2026-11-13-0849-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.469Z"
     },
     {
       "file": "2026-11-12-2254-telegram-update.md",
       "title": "2026-11-12-2254-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.469Z"
     },
     {
       "file": "2026-11-12-1746-telegram-update.md",
       "title": "2026-11-12-1746-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-11-12-0853-telegram-update.md",
       "title": "2026-11-12-0853-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-11-11-2344-telegram-update.md",
       "title": "2026-11-11-2344-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-11-11-1729-telegram-update.md",
       "title": "2026-11-11-1729-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-11-11-0828-telegram-update.md",
       "title": "2026-11-11-0828-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-11-11-0130-telegram-update.md",
       "title": "2026-11-11-0130-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-11-10-2037-telegram-update.md",
       "title": "2026-11-10-2037-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-11-10-1348-telegram-update.md",
       "title": "2026-11-10-1348-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-11-10-0351-telegram-update.md",
       "title": "2026-11-10-0351-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-11-09-2013-telegram-update.md",
       "title": "2026-11-09-2013-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-11-09-0844-telegram-update.md",
       "title": "2026-11-09-0844-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-11-08-2123-telegram-update.md",
       "title": "2026-11-08-2123-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-11-08-1623-telegram-update.md",
       "title": "2026-11-08-1623-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-11-08-0804-telegram-update.md",
       "title": "2026-11-08-0804-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-11-07-2106-telegram-update.md",
       "title": "2026-11-07-2106-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-11-07-1556-telegram-update.md",
       "title": "2026-11-07-1556-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-11-07-0751-telegram-update.md",
       "title": "2026-11-07-0751-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-11-06-2226-telegram-update.md",
       "title": "2026-11-06-2226-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-11-06-1658-telegram-update.md",
       "title": "2026-11-06-1658-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-11-06-0835-telegram-update.md",
       "title": "2026-11-06-0835-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-11-05-2256-telegram-update.md",
       "title": "2026-11-05-2256-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-11-05-1742-telegram-update.md",
       "title": "2026-11-05-1742-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-11-05-0836-telegram-update.md",
       "title": "2026-11-05-0836-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-11-04-2255-telegram-update.md",
       "title": "2026-11-04-2255-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-11-04-1737-telegram-update.md",
       "title": "2026-11-04-1737-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-11-04-0810-telegram-update.md",
       "title": "2026-11-04-0810-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-11-04-0143-telegram-update.md",
       "title": "2026-11-04-0143-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-11-03-2018-telegram-update.md",
       "title": "2026-11-03-2018-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-11-03-1302-telegram-update.md",
       "title": "2026-11-03-1302-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-11-03-0306-telegram-update.md",
       "title": "2026-11-03-0306-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-11-02-1950-telegram-update.md",
       "title": "2026-11-02-1950-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-11-02-0826-telegram-update.md",
       "title": "2026-11-02-0826-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-18T09:16:01.356Z"
+      "updatedAt": "2026-11-18T18:26:29.468Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-18T09:16:01.355Z"
+      "updatedAt": "2026-11-18T18:26:29.467Z"
     }
   ]
 }
