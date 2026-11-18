@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-18T00:02:28.223Z",
+  "generatedAt": "2026-11-18T09:16:03.963Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 41228,
-    "lastMessageAt": "2026-11-17T22:51:47+00:00",
-    "lastCheckedAt": "2026-11-18T00:02:28.045Z",
-    "previousMessageId": 41209,
+    "lastMessageId": 41244,
+    "lastMessageAt": "2026-11-18T07:23:21+00:00",
+    "lastCheckedAt": "2026-11-18T09:16:03.722Z",
+    "previousMessageId": 41228,
     "pagesRead": 1,
-    "messagesRead": 19,
-    "newProjectRecords": 2,
+    "messagesRead": 16,
+    "newProjectRecords": 3,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 982,
+    "telegramRows": 985,
     "xRows": 0,
-    "projects": 606,
+    "projects": 607,
     "crossSource": 0
   },
   "projects": [
@@ -9708,6 +9708,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "oripa.xyz",
+      "account": "oripaxyz",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka",
+        "发誓要做永赚大师"
+      ],
+      "tgAlphas": [
+        "lakka",
+        "发誓要做永赚大师"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-16T15:13:56+00:00",
+      "lastSeen": "2026-11-18T03:21:03+00:00",
+      "description": "japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "oripa.xyz",
+          "account": "oripaxyz",
+          "alpha": "lakka",
+          "seenAt": "2026-11-16T15:13:56+00:00",
+          "messageId": "dodtwitterbot/41118",
+          "description": "japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints.",
+          "text": "japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints."
+        },
+        {
+          "source": "TG",
+          "project": "oripa.xyz",
+          "account": "oripaxyz",
+          "alpha": "发誓要做永赚大师",
+          "seenAt": "2026-11-18T03:21:03+00:00",
+          "messageId": "dodtwitterbot/41233",
+          "description": "japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints.",
+          "text": "japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints."
+        }
+      ],
+      "text": " oripa.xyz oripaxyz japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints. oripa.xyz oripaxyz japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "orphic",
       "account": "orphicfi",
       "sources": [
@@ -9887,6 +9933,52 @@
         }
       ],
       "text": " Phantom Alpha PhantomAlpha_ Breaking news & crypto market insights.\n\npowered by @phantom\n\nNot for UK users. See @phantom__UK . Phantom Alpha PhantomAlpha_ Breaking news & crypto market insights.\n\npowered by @phantom\n\nNot for UK users. See @phantom__UK .",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Pika ⚡️",
+      "account": "senditpika",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "speest 💎",
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "speest 💎",
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-18T00:26:13+00:00",
+      "lastSeen": "2026-11-18T05:58:22+00:00",
+      "description": "PIKA is a launchpad for bold ideas, offering flexible, customizable token launch infrastructure.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Pika ⚡️",
+          "account": "senditpika",
+          "alpha": "speest 💎",
+          "seenAt": "2026-11-18T00:26:13+00:00",
+          "messageId": "dodtwitterbot/41229",
+          "description": "PIKA is a launchpad for bold ideas, offering flexible, customizable token launch infrastructure.",
+          "text": "PIKA is a launchpad for bold ideas, offering flexible, customizable token launch infrastructure."
+        },
+        {
+          "source": "TG",
+          "project": "Pika ⚡️",
+          "account": "senditpika",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-18T05:58:22+00:00",
+          "messageId": "dodtwitterbot/41239",
+          "description": "PIKA is a launchpad for bold ideas, offering flexible, customizable token launch infrastructure.",
+          "text": "PIKA is a launchpad for bold ideas, offering flexible, customizable token launch infrastructure."
+        }
+      ],
+      "text": " Pika ⚡️ senditpika PIKA is a launchpad for bold ideas, offering flexible, customizable token launch infrastructure. Pika ⚡️ senditpika PIKA is a launchpad for bold ideas, offering flexible, customizable token launch infrastructure.",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -20036,40 +20128,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "oripa.xyz",
-      "account": "oripaxyz",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "lakka"
-      ],
-      "tgAlphas": [
-        "lakka"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-16T15:13:56+00:00",
-      "lastSeen": "2026-11-16T15:13:56+00:00",
-      "description": "japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "oripa.xyz",
-          "account": "oripaxyz",
-          "alpha": "lakka",
-          "seenAt": "2026-11-16T15:13:56+00:00",
-          "messageId": "dodtwitterbot/41118",
-          "description": "japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints.",
-          "text": "japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints."
-        }
-      ],
-      "text": " oripa.xyz oripaxyz japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints.",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
       "project": "Ozero",
       "account": "ozero_fun",
       "sources": [
@@ -27801,6 +27859,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "oripa.xyz",
+      "x_account": "oripaxyz",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "lakka",
+        "发誓要做永赚大师"
+      ],
+      "description": "japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints.",
+      "first_seen_utc": "2026-11-16T15:13:56+00:00",
+      "last_seen_utc": "2026-11-18T03:21:03+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "orphic",
       "x_account": "orphicfi",
       "total_mentions": 2,
@@ -27857,6 +27930,21 @@
       "description": "Breaking news & crypto market insights.\n\npowered by @phantom\n\nNot for UK users. See @phantom__UK .",
       "first_seen_utc": "2026-10-30T11:11:44+00:00",
       "last_seen_utc": "2026-10-31T04:35:59+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Pika ⚡️",
+      "x_account": "senditpika",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "speest 💎",
+        "蛋总"
+      ],
+      "description": "PIKA is a launchpad for bold ideas, offering flexible, customizable token launch infrastructure.",
+      "first_seen_utc": "2026-11-18T00:26:13+00:00",
+      "last_seen_utc": "2026-11-18T05:58:22+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -31900,20 +31988,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "oripa.xyz",
-      "x_account": "oripaxyz",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "lakka"
-      ],
-      "description": "japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints.",
-      "first_seen_utc": "2026-11-16T15:13:56+00:00",
-      "last_seen_utc": "2026-11-16T15:13:56+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "Ozero",
       "x_account": "ozero_fun",
       "total_mentions": 1,
@@ -34003,14 +34077,61 @@
   "daily": [
     {
       "date": "2026-11-18",
-      "totalRows": 2,
-      "projectCount": 2,
-      "focusCount": 0,
-      "candidateCount": 2,
+      "totalRows": 5,
+      "projectCount": 4,
+      "focusCount": 1,
+      "candidateCount": 3,
       "crossSource": 0,
-      "newCount": 2,
-      "repeatCount": 0,
+      "newCount": 3,
+      "repeatCount": 1,
       "projects": [
+        {
+          "project": "Pika ⚡️",
+          "account": "senditpika",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "speest 💎",
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "speest 💎",
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-11-18T00:26:13+00:00",
+          "lastSeen": "2026-11-18T05:58:22+00:00",
+          "description": "PIKA is a launchpad for bold ideas, offering flexible, customizable token launch infrastructure.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Pika ⚡️",
+              "account": "senditpika",
+              "alpha": "speest 💎",
+              "seenAt": "2026-11-18T00:26:13+00:00",
+              "messageId": "dodtwitterbot/41229",
+              "description": "PIKA is a launchpad for bold ideas, offering flexible, customizable token launch infrastructure.",
+              "text": "PIKA is a launchpad for bold ideas, offering flexible, customizable token launch infrastructure."
+            },
+            {
+              "source": "TG",
+              "project": "Pika ⚡️",
+              "account": "senditpika",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-18T05:58:22+00:00",
+              "messageId": "dodtwitterbot/41239",
+              "description": "PIKA is a launchpad for bold ideas, offering flexible, customizable token launch infrastructure.",
+              "text": "PIKA is a launchpad for bold ideas, offering flexible, customizable token launch infrastructure."
+            }
+          ],
+          "text": " Pika ⚡️ senditpika PIKA is a launchpad for bold ideas, offering flexible, customizable token launch infrastructure. Pika ⚡️ senditpika PIKA is a launchpad for bold ideas, offering flexible, customizable token launch infrastructure.",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
         {
           "project": "clanker.world",
           "account": "clanker_world",
@@ -34080,6 +34201,41 @@
           "displayTier": "candidate",
           "avatarUrl": "",
           "dayStatus": "new"
+        },
+        {
+          "project": "oripa.xyz",
+          "account": "oripaxyz",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "发誓要做永赚大师"
+          ],
+          "tgAlphas": [
+            "发誓要做永赚大师"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-18T03:21:03+00:00",
+          "lastSeen": "2026-11-18T03:21:03+00:00",
+          "description": "japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "oripa.xyz",
+              "account": "oripaxyz",
+              "alpha": "发誓要做永赚大师",
+              "seenAt": "2026-11-18T03:21:03+00:00",
+              "messageId": "dodtwitterbot/41233",
+              "description": "japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints.",
+              "text": "japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints."
+            }
+          ],
+          "text": " oripa.xyz oripaxyz japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
         }
       ]
     },
@@ -64314,344 +64470,349 @@
   ],
   "reports": [
     {
+      "file": "2026-11-18-0916-telegram-update.md",
+      "title": "2026-11-18-0916-telegram-update",
+      "updatedAt": "2026-11-18T09:16:03.721Z"
+    },
+    {
       "file": "2026-11-18-0002-telegram-update.md",
       "title": "2026-11-18-0002-telegram-update",
-      "updatedAt": "2026-11-18T00:02:28.045Z"
+      "updatedAt": "2026-11-18T09:16:01.357Z"
     },
     {
       "file": "2026-11-17-1456-telegram-update.md",
       "title": "2026-11-17-1456-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.357Z"
     },
     {
       "file": "2026-11-17-0412-telegram-update.md",
       "title": "2026-11-17-0412-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.357Z"
     },
     {
       "file": "2026-11-16-1953-telegram-update.md",
       "title": "2026-11-16-1953-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.357Z"
     },
     {
       "file": "2026-11-16-0839-telegram-update.md",
       "title": "2026-11-16-0839-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.357Z"
     },
     {
       "file": "2026-11-15-2207-telegram-update.md",
       "title": "2026-11-15-2207-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.357Z"
     },
     {
       "file": "2026-11-15-1639-telegram-update.md",
       "title": "2026-11-15-1639-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.357Z"
     },
     {
       "file": "2026-11-15-0828-telegram-update.md",
       "title": "2026-11-15-0828-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.357Z"
     },
     {
       "file": "2026-11-15-0121-telegram-update.md",
       "title": "2026-11-15-0121-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-11-14-2141-telegram-update.md",
       "title": "2026-11-14-2141-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-11-14-1610-telegram-update.md",
       "title": "2026-11-14-1610-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-11-14-0809-telegram-update.md",
       "title": "2026-11-14-0809-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-11-13-2255-telegram-update.md",
       "title": "2026-11-13-2255-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-11-13-1724-telegram-update.md",
       "title": "2026-11-13-1724-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-11-13-0849-telegram-update.md",
       "title": "2026-11-13-0849-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-11-12-2254-telegram-update.md",
       "title": "2026-11-12-2254-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-11-12-1746-telegram-update.md",
       "title": "2026-11-12-1746-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-11-12-0853-telegram-update.md",
       "title": "2026-11-12-0853-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-11-11-2344-telegram-update.md",
       "title": "2026-11-11-2344-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-11-11-1729-telegram-update.md",
       "title": "2026-11-11-1729-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-11-11-0828-telegram-update.md",
       "title": "2026-11-11-0828-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-11-11-0130-telegram-update.md",
       "title": "2026-11-11-0130-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-11-10-2037-telegram-update.md",
       "title": "2026-11-10-2037-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-11-10-1348-telegram-update.md",
       "title": "2026-11-10-1348-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-11-10-0351-telegram-update.md",
       "title": "2026-11-10-0351-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-11-09-2013-telegram-update.md",
       "title": "2026-11-09-2013-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-11-09-0844-telegram-update.md",
       "title": "2026-11-09-0844-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-11-08-2123-telegram-update.md",
       "title": "2026-11-08-2123-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-11-08-1623-telegram-update.md",
       "title": "2026-11-08-1623-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-11-08-0804-telegram-update.md",
       "title": "2026-11-08-0804-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-11-07-2106-telegram-update.md",
       "title": "2026-11-07-2106-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-11-07-1556-telegram-update.md",
       "title": "2026-11-07-1556-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-11-07-0751-telegram-update.md",
       "title": "2026-11-07-0751-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-11-06-2226-telegram-update.md",
       "title": "2026-11-06-2226-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-11-06-1658-telegram-update.md",
       "title": "2026-11-06-1658-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-11-06-0835-telegram-update.md",
       "title": "2026-11-06-0835-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-11-05-2256-telegram-update.md",
       "title": "2026-11-05-2256-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-11-05-1742-telegram-update.md",
       "title": "2026-11-05-1742-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-11-05-0836-telegram-update.md",
       "title": "2026-11-05-0836-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-11-04-2255-telegram-update.md",
       "title": "2026-11-04-2255-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-11-04-1737-telegram-update.md",
       "title": "2026-11-04-1737-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-11-04-0810-telegram-update.md",
       "title": "2026-11-04-0810-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-11-04-0143-telegram-update.md",
       "title": "2026-11-04-0143-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-11-03-2018-telegram-update.md",
       "title": "2026-11-03-2018-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-11-03-1302-telegram-update.md",
       "title": "2026-11-03-1302-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-11-03-0306-telegram-update.md",
       "title": "2026-11-03-0306-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-11-02-1950-telegram-update.md",
       "title": "2026-11-02-1950-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-11-02-0826-telegram-update.md",
       "title": "2026-11-02-0826-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-18T00:02:19.927Z"
+      "updatedAt": "2026-11-18T09:16:01.356Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-18T00:02:19.925Z"
+      "updatedAt": "2026-11-18T09:16:01.355Z"
     }
   ]
 }
