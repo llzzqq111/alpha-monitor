@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-17T14:56:44.983Z",
+  "generatedAt": "2026-11-18T00:02:28.223Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 41209,
-    "lastMessageAt": "2026-11-17T14:48:47+00:00",
-    "lastCheckedAt": "2026-11-17T14:56:44.770Z",
-    "previousMessageId": 41163,
-    "pagesRead": 3,
-    "messagesRead": 46,
-    "newProjectRecords": 12,
+    "lastMessageId": 41228,
+    "lastMessageAt": "2026-11-17T22:51:47+00:00",
+    "lastCheckedAt": "2026-11-18T00:02:28.045Z",
+    "previousMessageId": 41209,
+    "pagesRead": 1,
+    "messagesRead": 19,
+    "newProjectRecords": 2,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 980,
+    "telegramRows": 982,
     "xRows": 0,
-    "projects": 604,
+    "projects": 606,
     "crossSource": 0
   },
   "projects": [
@@ -13576,6 +13576,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "clanker.world",
+      "account": "clanker_world",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka"
+      ],
+      "tgAlphas": [
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-17T16:37:20+00:00",
+      "lastSeen": "2026-11-17T16:37:20+00:00",
+      "description": "launch a token from anywhere. clank clank",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "clanker.world",
+          "account": "clanker_world",
+          "alpha": "lakka",
+          "seenAt": "2026-11-17T16:37:20+00:00",
+          "messageId": "dodtwitterbot/41216",
+          "description": "launch a token from anywhere. clank clank",
+          "text": "launch a token from anywhere. clank clank"
+        }
+      ],
+      "text": " clanker.world clanker_world launch a token from anywhere. clank clank",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Clash for Elysium",
       "account": "clashforelysium",
       "sources": [
@@ -15033,6 +15067,40 @@
         }
       ],
       "text": " ElyWord elyword_xyz Building a daily word game on Elysium",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "ephemeral",
+      "account": "ephemeral_eth",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "NΞO"
+      ],
+      "tgAlphas": [
+        "NΞO"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-17T16:14:57+00:00",
+      "lastSeen": "2026-11-17T16:14:57+00:00",
+      "description": "private payments on ethereum L1. every payment lands on a fresh address only the receiver can find. erc-5564",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "ephemeral",
+          "account": "ephemeral_eth",
+          "alpha": "NΞO",
+          "seenAt": "2026-11-17T16:14:57+00:00",
+          "messageId": "dodtwitterbot/41215",
+          "description": "private payments on ethereum L1. every payment lands on a fresh address only the receiver can find. erc-5564",
+          "text": "private payments on ethereum L1. every payment lands on a fresh address only the receiver can find. erc-5564"
+        }
+      ],
+      "text": " ephemeral ephemeral_eth private payments on ethereum L1. every payment lands on a fresh address only the receiver can find. erc-5564",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -29172,6 +29240,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "clanker.world",
+      "x_account": "clanker_world",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "lakka"
+      ],
+      "description": "launch a token from anywhere. clank clank",
+      "first_seen_utc": "2026-11-17T16:37:20+00:00",
+      "last_seen_utc": "2026-11-17T16:37:20+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Clash for Elysium",
       "x_account": "clashforelysium",
       "total_mentions": 1,
@@ -29770,6 +29852,20 @@
       "description": "Building a daily word game on Elysium",
       "first_seen_utc": "2026-11-01T08:09:52+00:00",
       "last_seen_utc": "2026-11-01T08:09:52+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "ephemeral",
+      "x_account": "ephemeral_eth",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "NΞO"
+      ],
+      "description": "private payments on ethereum L1. every payment lands on a fresh address only the receiver can find. erc-5564",
+      "first_seen_utc": "2026-11-17T16:14:57+00:00",
+      "last_seen_utc": "2026-11-17T16:14:57+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -33905,6 +34001,88 @@
     }
   ],
   "daily": [
+    {
+      "date": "2026-11-18",
+      "totalRows": 2,
+      "projectCount": 2,
+      "focusCount": 0,
+      "candidateCount": 2,
+      "crossSource": 0,
+      "newCount": 2,
+      "repeatCount": 0,
+      "projects": [
+        {
+          "project": "clanker.world",
+          "account": "clanker_world",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-17T16:37:20+00:00",
+          "lastSeen": "2026-11-17T16:37:20+00:00",
+          "description": "launch a token from anywhere. clank clank",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "clanker.world",
+              "account": "clanker_world",
+              "alpha": "lakka",
+              "seenAt": "2026-11-17T16:37:20+00:00",
+              "messageId": "dodtwitterbot/41216",
+              "description": "launch a token from anywhere. clank clank",
+              "text": "launch a token from anywhere. clank clank"
+            }
+          ],
+          "text": " clanker.world clanker_world launch a token from anywhere. clank clank",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "ephemeral",
+          "account": "ephemeral_eth",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "NΞO"
+          ],
+          "tgAlphas": [
+            "NΞO"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-17T16:14:57+00:00",
+          "lastSeen": "2026-11-17T16:14:57+00:00",
+          "description": "private payments on ethereum L1. every payment lands on a fresh address only the receiver can find. erc-5564",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "ephemeral",
+              "account": "ephemeral_eth",
+              "alpha": "NΞO",
+              "seenAt": "2026-11-17T16:14:57+00:00",
+              "messageId": "dodtwitterbot/41215",
+              "description": "private payments on ethereum L1. every payment lands on a fresh address only the receiver can find. erc-5564",
+              "text": "private payments on ethereum L1. every payment lands on a fresh address only the receiver can find. erc-5564"
+            }
+          ],
+          "text": " ephemeral ephemeral_eth private payments on ethereum L1. every payment lands on a fresh address only the receiver can find. erc-5564",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        }
+      ]
+    },
     {
       "date": "2026-11-17",
       "totalRows": 23,
@@ -64136,339 +64314,344 @@
   ],
   "reports": [
     {
+      "file": "2026-11-18-0002-telegram-update.md",
+      "title": "2026-11-18-0002-telegram-update",
+      "updatedAt": "2026-11-18T00:02:28.045Z"
+    },
+    {
       "file": "2026-11-17-1456-telegram-update.md",
       "title": "2026-11-17-1456-telegram-update",
-      "updatedAt": "2026-11-17T14:56:44.769Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-17-0412-telegram-update.md",
       "title": "2026-11-17-0412-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-16-1953-telegram-update.md",
       "title": "2026-11-16-1953-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-16-0839-telegram-update.md",
       "title": "2026-11-16-0839-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-15-2207-telegram-update.md",
       "title": "2026-11-15-2207-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-15-1639-telegram-update.md",
       "title": "2026-11-15-1639-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-15-0828-telegram-update.md",
       "title": "2026-11-15-0828-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-15-0121-telegram-update.md",
       "title": "2026-11-15-0121-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-14-2141-telegram-update.md",
       "title": "2026-11-14-2141-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-14-1610-telegram-update.md",
       "title": "2026-11-14-1610-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-14-0809-telegram-update.md",
       "title": "2026-11-14-0809-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-13-2255-telegram-update.md",
       "title": "2026-11-13-2255-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-13-1724-telegram-update.md",
       "title": "2026-11-13-1724-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-13-0849-telegram-update.md",
       "title": "2026-11-13-0849-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-12-2254-telegram-update.md",
       "title": "2026-11-12-2254-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-12-1746-telegram-update.md",
       "title": "2026-11-12-1746-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-12-0853-telegram-update.md",
       "title": "2026-11-12-0853-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-11-2344-telegram-update.md",
       "title": "2026-11-11-2344-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-11-1729-telegram-update.md",
       "title": "2026-11-11-1729-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-11-0828-telegram-update.md",
       "title": "2026-11-11-0828-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-11-0130-telegram-update.md",
       "title": "2026-11-11-0130-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-10-2037-telegram-update.md",
       "title": "2026-11-10-2037-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-10-1348-telegram-update.md",
       "title": "2026-11-10-1348-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-10-0351-telegram-update.md",
       "title": "2026-11-10-0351-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-09-2013-telegram-update.md",
       "title": "2026-11-09-2013-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-09-0844-telegram-update.md",
       "title": "2026-11-09-0844-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-08-2123-telegram-update.md",
       "title": "2026-11-08-2123-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-08-1623-telegram-update.md",
       "title": "2026-11-08-1623-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-08-0804-telegram-update.md",
       "title": "2026-11-08-0804-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-07-2106-telegram-update.md",
       "title": "2026-11-07-2106-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-07-1556-telegram-update.md",
       "title": "2026-11-07-1556-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-07-0751-telegram-update.md",
       "title": "2026-11-07-0751-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-06-2226-telegram-update.md",
       "title": "2026-11-06-2226-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-06-1658-telegram-update.md",
       "title": "2026-11-06-1658-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-06-0835-telegram-update.md",
       "title": "2026-11-06-0835-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-05-2256-telegram-update.md",
       "title": "2026-11-05-2256-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-05-1742-telegram-update.md",
       "title": "2026-11-05-1742-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-05-0836-telegram-update.md",
       "title": "2026-11-05-0836-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-04-2255-telegram-update.md",
       "title": "2026-11-04-2255-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-04-1737-telegram-update.md",
       "title": "2026-11-04-1737-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-04-0810-telegram-update.md",
       "title": "2026-11-04-0810-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-04-0143-telegram-update.md",
       "title": "2026-11-04-0143-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-03-2018-telegram-update.md",
       "title": "2026-11-03-2018-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-03-1302-telegram-update.md",
       "title": "2026-11-03-1302-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-03-0306-telegram-update.md",
       "title": "2026-11-03-0306-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-02-1950-telegram-update.md",
       "title": "2026-11-02-1950-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-02-0826-telegram-update.md",
       "title": "2026-11-02-0826-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-17T14:56:42.118Z"
+      "updatedAt": "2026-11-18T00:02:19.927Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-17T14:56:42.117Z"
+      "updatedAt": "2026-11-18T00:02:19.925Z"
     }
   ]
 }
