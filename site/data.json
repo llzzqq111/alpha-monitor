@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-19T02:51:05.995Z",
+  "generatedAt": "2026-11-19T14:43:53.320Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 41270,
-    "lastMessageAt": "2026-11-18T20:25:31+00:00",
-    "lastCheckedAt": "2026-11-19T02:51:05.614Z",
-    "previousMessageId": 41267,
-    "pagesRead": 1,
-    "messagesRead": 3,
-    "newProjectRecords": 0,
+    "lastMessageId": 41311,
+    "lastMessageAt": "2026-11-19T14:24:27+00:00",
+    "lastCheckedAt": "2026-11-19T14:43:53.010Z",
+    "previousMessageId": 41270,
+    "pagesRead": 3,
+    "messagesRead": 41,
+    "newProjectRecords": 8,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 989,
+    "telegramRows": 997,
     "xRows": 0,
-    "projects": 610,
+    "projects": 614,
     "crossSource": 0
   },
   "projects": [
@@ -5874,6 +5874,64 @@
       "avatarUrl": ""
     },
     {
+      "project": "TapeX",
+      "account": "TapeX_BSC",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "speest 💎",
+        "地推雷氏",
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "speest 💎",
+        "地推雷氏",
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-11-19T05:07:46+00:00",
+      "lastSeen": "2026-11-19T10:30:39+00:00",
+      "description": "TapeX — Unlock on-chain potential with computing power mining.\nA brand-new mining token launch module powered by transistor pool issuance tools.\nFair, verifiabl",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "TapeX",
+          "account": "TapeX_BSC",
+          "alpha": "地推雷氏",
+          "seenAt": "2026-11-19T05:07:46+00:00",
+          "messageId": "dodtwitterbot/41273",
+          "description": "TapeX — Unlock on-chain potential with computing power mining.\nA brand-new mining token launch module powered by transistor pool issuance tools.\nFair, verifiabl",
+          "text": "TapeX — Unlock on-chain potential with computing power mining.\nA brand-new mining token launch module powered by transistor pool issuance tools.\nFair, verifiabl"
+        },
+        {
+          "source": "TG",
+          "project": "TapeX",
+          "account": "TapeX_BSC",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-19T06:08:40+00:00",
+          "messageId": "dodtwitterbot/41278",
+          "description": "TapeX — Unlock on-chain potential with computing power mining.\nA brand-new mining token launch module powered by transistor pool issuance tools.\nFair, verifiabl",
+          "text": "TapeX — Unlock on-chain potential with computing power mining.\nA brand-new mining token launch module powered by transistor pool issuance tools.\nFair, verifiabl"
+        },
+        {
+          "source": "TG",
+          "project": "TapeX",
+          "account": "TapeX_BSC",
+          "alpha": "speest 💎",
+          "seenAt": "2026-11-19T10:30:39+00:00",
+          "messageId": "dodtwitterbot/41292",
+          "description": "TapeX — Unlock on-chain potential with computing power mining.\nA brand-new mining token launch module powered by transistor pool issuance tools.\nFair, verifiabl",
+          "text": "TapeX — Unlock on-chain potential with computing power mining.\nA brand-new mining token launch module powered by transistor pool issuance tools.\nFair, verifiabl"
+        }
+      ],
+      "text": " TapeX TapeX_BSC TapeX — Unlock on-chain potential with computing power mining.\nA brand-new mining token launch module powered by transistor pool issuance tools.\nFair, verifiabl TapeX TapeX_BSC TapeX — Unlock on-chain potential with computing power mining.\nA brand-new mining token launch module powered by transistor pool issuance tools.\nFair, verifiabl TapeX TapeX_BSC TapeX — Unlock on-chain potential with computing power mining.\nA brand-new mining token launch module powered by transistor pool issuance tools.\nFair, verifiabl",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Tenjo",
       "account": "tenjofinance",
       "sources": [
@@ -6805,6 +6863,52 @@
         }
       ],
       "text": " Asphod.el asphodellaunch Elysium Launchpad\n\nLive on mainnet\n\ndev @myturnarc Asphod.el asphodellaunch Elysium Launchpad\n\nLive on mainnet\n\ndev @myturnarc",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Async Swap",
+      "account": "asyncswap",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Mutu 🕸️",
+        "lakka"
+      ],
+      "tgAlphas": [
+        "Mutu 🕸️",
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-18T17:05:41+00:00",
+      "lastSeen": "2026-11-19T11:03:53+00:00",
+      "description": "A CoW and CLOB protocol build for large on-chain trades. Powered by Uniswap.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Async Swap",
+          "account": "asyncswap",
+          "alpha": "Mutu 🕸️",
+          "seenAt": "2026-11-18T17:05:41+00:00",
+          "messageId": "dodtwitterbot/41263",
+          "description": "A CoW and CLOB protocol build for large on-chain trades. Powered by Uniswap.",
+          "text": "A CoW and CLOB protocol build for large on-chain trades. Powered by Uniswap."
+        },
+        {
+          "source": "TG",
+          "project": "Async Swap",
+          "account": "asyncswap",
+          "alpha": "lakka",
+          "seenAt": "2026-11-19T11:03:53+00:00",
+          "messageId": "dodtwitterbot/41294",
+          "description": "A CoW and CLOB protocol build for large on-chain trades. Powered by Uniswap.",
+          "text": "A CoW and CLOB protocol build for large on-chain trades. Powered by Uniswap."
+        }
+      ],
+      "text": " Async Swap asyncswap A CoW and CLOB protocol build for large on-chain trades. Powered by Uniswap. Async Swap asyncswap A CoW and CLOB protocol build for large on-chain trades. Powered by Uniswap.",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -9892,6 +9996,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "Paboxo",
+      "account": "paboxoxyz",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Mutu 🕸️",
+        "hit.ink"
+      ],
+      "tgAlphas": [
+        "Mutu 🕸️",
+        "hit.ink"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-17T09:21:26+00:00",
+      "lastSeen": "2026-11-19T11:10:00+00:00",
+      "description": "The Credit Layer of Tokenized Assets | No token yet. Beware of scammers&#33;",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Paboxo",
+          "account": "paboxoxyz",
+          "alpha": "hit.ink",
+          "seenAt": "2026-11-17T09:21:26+00:00",
+          "messageId": "dodtwitterbot/41177",
+          "description": "The Credit Layer of Tokenized Assets | No token yet. Beware of scammers&#33;",
+          "text": "The Credit Layer of Tokenized Assets | No token yet. Beware of scammers&#33;"
+        },
+        {
+          "source": "TG",
+          "project": "Paboxo",
+          "account": "paboxoxyz",
+          "alpha": "Mutu 🕸️",
+          "seenAt": "2026-11-19T11:10:00+00:00",
+          "messageId": "dodtwitterbot/41295",
+          "description": "The Credit Layer of Tokenized Assets | No token yet. Beware of scammers&#33;",
+          "text": "The Credit Layer of Tokenized Assets | No token yet. Beware of scammers&#33;"
+        }
+      ],
+      "text": " Paboxo paboxoxyz The Credit Layer of Tokenized Assets | No token yet. Beware of scammers&#33; Paboxo paboxoxyz The Credit Layer of Tokenized Assets | No token yet. Beware of scammers&#33;",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Parabola",
       "account": "ParabolaMarkets",
       "sources": [
@@ -12558,40 +12708,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Async Swap",
-      "account": "asyncswap",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "Mutu 🕸️"
-      ],
-      "tgAlphas": [
-        "Mutu 🕸️"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-18T17:05:41+00:00",
-      "lastSeen": "2026-11-18T17:05:41+00:00",
-      "description": "A CoW and CLOB protocol build for large on-chain trades. Powered by Uniswap.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Async Swap",
-          "account": "asyncswap",
-          "alpha": "Mutu 🕸️",
-          "seenAt": "2026-11-18T17:05:41+00:00",
-          "messageId": "dodtwitterbot/41263",
-          "description": "A CoW and CLOB protocol build for large on-chain trades. Powered by Uniswap.",
-          "text": "A CoW and CLOB protocol build for large on-chain trades. Powered by Uniswap."
-        }
-      ],
-      "text": " Async Swap asyncswap A CoW and CLOB protocol build for large on-chain trades. Powered by Uniswap.",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
       "project": "Atlas",
       "account": "Atlas_Elysium",
       "sources": [
@@ -13777,6 +13893,40 @@
         }
       ],
       "text": " clanker.world clanker_world launch a token from anywhere. clank clank",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "ClankID",
+      "account": "ClankID_",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "CSR"
+      ],
+      "tgAlphas": [
+        "CSR"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-19T06:04:23+00:00",
+      "lastSeen": "2026-11-19T06:04:23+00:00",
+      "description": "Your name, your identity, your token.\n\nPowered by @clanker_world .",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "ClankID",
+          "account": "ClankID_",
+          "alpha": "CSR",
+          "seenAt": "2026-11-19T06:04:23+00:00",
+          "messageId": "dodtwitterbot/41277",
+          "description": "Your name, your identity, your token.\n\nPowered by @clanker_world .",
+          "text": "Your name, your identity, your token.\n\nPowered by @clanker_world ."
+        }
+      ],
+      "text": " ClankID ClankID_ Your name, your identity, your token.\n\nPowered by @clanker_world .",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -19936,6 +20086,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Oath Pad",
+      "account": "LaunchonOath",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Mutu 🕸️"
+      ],
+      "tgAlphas": [
+        "Mutu 🕸️"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-19T12:37:48+00:00",
+      "lastSeen": "2026-11-19T12:37:48+00:00",
+      "description": "The launchpad that pays the ones who never sell. Hold through the curve, split its fee pot at graduation.\n\nD6bi67sum7vPk7Pe76u4eHWHWoHznBVRtaanu1o5wkKA",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Oath Pad",
+          "account": "LaunchonOath",
+          "alpha": "Mutu 🕸️",
+          "seenAt": "2026-11-19T12:37:48+00:00",
+          "messageId": "dodtwitterbot/41304",
+          "description": "The launchpad that pays the ones who never sell. Hold through the curve, split its fee pot at graduation.\n\nD6bi67sum7vPk7Pe76u4eHWHWoHznBVRtaanu1o5wkKA",
+          "text": "The launchpad that pays the ones who never sell. Hold through the curve, split its fee pot at graduation.\n\nD6bi67sum7vPk7Pe76u4eHWHWoHznBVRtaanu1o5wkKA"
+        }
+      ],
+      "text": " Oath Pad LaunchonOath The launchpad that pays the ones who never sell. Hold through the curve, split its fee pot at graduation.\n\nD6bi67sum7vPk7Pe76u4eHWHWoHznBVRtaanu1o5wkKA",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Olysium",
       "account": "Olysium_xyz",
       "sources": [
@@ -20305,40 +20489,6 @@
         }
       ],
       "text": " P2PKit p2pkitdotcom Take local payments. Settle in USDC.",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Paboxo",
-      "account": "paboxoxyz",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "hit.ink"
-      ],
-      "tgAlphas": [
-        "hit.ink"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-17T09:21:26+00:00",
-      "lastSeen": "2026-11-17T09:21:26+00:00",
-      "description": "The Credit Layer of Tokenized Assets | No token yet. Beware of scammers&#33;",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Paboxo",
-          "account": "paboxoxyz",
-          "alpha": "hit.ink",
-          "seenAt": "2026-11-17T09:21:26+00:00",
-          "messageId": "dodtwitterbot/41177",
-          "description": "The Credit Layer of Tokenized Assets | No token yet. Beware of scammers&#33;",
-          "text": "The Credit Layer of Tokenized Assets | No token yet. Beware of scammers&#33;"
-        }
-      ],
-      "text": " Paboxo paboxoxyz The Credit Layer of Tokenized Assets | No token yet. Beware of scammers&#33;",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -22821,6 +22971,40 @@
         }
       ],
       "text": " Sunpeak AI sunpeak_ai MCP App framework and MCP testing framework. Build, test, ship ChatGPT Apps and Claude Connectors.\n\nOur token is launching soon.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "supermassive",
+      "account": "supermassivedex",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "well"
+      ],
+      "tgAlphas": [
+        "well"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-19T06:01:47+00:00",
+      "lastSeen": "2026-11-19T06:01:47+00:00",
+      "description": "The center of every market on Solana. Launching 2027.\n\nbuilt by @temporal_xyz",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "supermassive",
+          "account": "supermassivedex",
+          "alpha": "well",
+          "seenAt": "2026-11-19T06:01:47+00:00",
+          "messageId": "dodtwitterbot/41276",
+          "description": "The center of every market on Solana. Launching 2027.\n\nbuilt by @temporal_xyz",
+          "text": "The center of every market on Solana. Launching 2027.\n\nbuilt by @temporal_xyz"
+        }
+      ],
+      "text": " supermassive supermassivedex The center of every market on Solana. Launching 2027.\n\nbuilt by @temporal_xyz",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -26749,6 +26933,22 @@
       "avatarUrl": ""
     },
     {
+      "project": "TapeX",
+      "x_account": "TapeX_BSC",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "speest 💎",
+        "地推雷氏",
+        "蛋总"
+      ],
+      "description": "TapeX — Unlock on-chain potential with computing power mining.\nA brand-new mining token launch module powered by transistor pool issuance tools.\nFair, verifiabl",
+      "first_seen_utc": "2026-11-19T05:07:46+00:00",
+      "last_seen_utc": "2026-11-19T10:30:39+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
       "project": "Tenjo",
       "x_account": "tenjofinance",
       "total_mentions": 3,
@@ -27024,6 +27224,21 @@
       "description": "Elysium Launchpad\n\nLive on mainnet\n\ndev @myturnarc",
       "first_seen_utc": "2026-10-30T14:03:48+00:00",
       "last_seen_utc": "2026-10-30T16:59:03+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Async Swap",
+      "x_account": "asyncswap",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "Mutu 🕸️",
+        "lakka"
+      ],
+      "description": "A CoW and CLOB protocol build for large on-chain trades. Powered by Uniswap.",
+      "first_seen_utc": "2026-11-18T17:05:41+00:00",
+      "last_seen_utc": "2026-11-19T11:03:53+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -28033,6 +28248,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "Paboxo",
+      "x_account": "paboxoxyz",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "Mutu 🕸️",
+        "hit.ink"
+      ],
+      "description": "The Credit Layer of Tokenized Assets | No token yet. Beware of scammers&#33;",
+      "first_seen_utc": "2026-11-17T09:21:26+00:00",
+      "last_seen_utc": "2026-11-19T11:10:00+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Parabola",
       "x_account": "ParabolaMarkets",
       "total_mentions": 2,
@@ -28981,20 +29211,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Async Swap",
-      "x_account": "asyncswap",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "Mutu 🕸️"
-      ],
-      "description": "A CoW and CLOB protocol build for large on-chain trades. Powered by Uniswap.",
-      "first_seen_utc": "2026-11-18T17:05:41+00:00",
-      "last_seen_utc": "2026-11-18T17:05:41+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "Atlas",
       "x_account": "Atlas_Elysium",
       "total_mentions": 1,
@@ -29481,6 +29697,20 @@
       "description": "launch a token from anywhere. clank clank",
       "first_seen_utc": "2026-11-17T16:37:20+00:00",
       "last_seen_utc": "2026-11-17T16:37:20+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "ClankID",
+      "x_account": "ClankID_",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "CSR"
+      ],
+      "description": "Your name, your identity, your token.\n\nPowered by @clanker_world .",
+      "first_seen_utc": "2026-11-19T06:04:23+00:00",
+      "last_seen_utc": "2026-11-19T06:04:23+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -32019,6 +32249,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Oath Pad",
+      "x_account": "LaunchonOath",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "Mutu 🕸️"
+      ],
+      "description": "The launchpad that pays the ones who never sell. Hold through the curve, split its fee pot at graduation.\n\nD6bi67sum7vPk7Pe76u4eHWHWoHznBVRtaanu1o5wkKA",
+      "first_seen_utc": "2026-11-19T12:37:48+00:00",
+      "last_seen_utc": "2026-11-19T12:37:48+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Olysium",
       "x_account": "Olysium_xyz",
       "total_mentions": 1,
@@ -32169,20 +32413,6 @@
       "description": "Take local payments. Settle in USDC.",
       "first_seen_utc": "2026-11-04T22:42:03+00:00",
       "last_seen_utc": "2026-11-04T22:42:03+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Paboxo",
-      "x_account": "paboxoxyz",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "hit.ink"
-      ],
-      "description": "The Credit Layer of Tokenized Assets | No token yet. Beware of scammers&#33;",
-      "first_seen_utc": "2026-11-17T09:21:26+00:00",
-      "last_seen_utc": "2026-11-17T09:21:26+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -33205,6 +33435,20 @@
       "description": "MCP App framework and MCP testing framework. Build, test, ship ChatGPT Apps and Claude Connectors.\n\nOur token is launching soon.",
       "first_seen_utc": "2026-11-06T10:33:16+00:00",
       "last_seen_utc": "2026-11-06T10:33:16+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "supermassive",
+      "x_account": "supermassivedex",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "well"
+      ],
+      "description": "The center of every market on Solana. Launching 2027.\n\nbuilt by @temporal_xyz",
+      "first_seen_utc": "2026-11-19T06:01:47+00:00",
+      "last_seen_utc": "2026-11-19T06:01:47+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -34234,14 +34478,73 @@
   "daily": [
     {
       "date": "2026-11-19",
-      "totalRows": 1,
-      "projectCount": 1,
-      "focusCount": 0,
-      "candidateCount": 1,
+      "totalRows": 9,
+      "projectCount": 6,
+      "focusCount": 2,
+      "candidateCount": 4,
       "crossSource": 0,
-      "newCount": 1,
-      "repeatCount": 0,
+      "newCount": 5,
+      "repeatCount": 1,
       "projects": [
+        {
+          "project": "TapeX",
+          "account": "TapeX_BSC",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "speest 💎",
+            "地推雷氏",
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "speest 💎",
+            "地推雷氏",
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 3,
+          "firstSeen": "2026-11-19T05:07:46+00:00",
+          "lastSeen": "2026-11-19T10:30:39+00:00",
+          "description": "TapeX — Unlock on-chain potential with computing power mining.\nA brand-new mining token launch module powered by transistor pool issuance tools.\nFair, verifiabl",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "TapeX",
+              "account": "TapeX_BSC",
+              "alpha": "地推雷氏",
+              "seenAt": "2026-11-19T05:07:46+00:00",
+              "messageId": "dodtwitterbot/41273",
+              "description": "TapeX — Unlock on-chain potential with computing power mining.\nA brand-new mining token launch module powered by transistor pool issuance tools.\nFair, verifiabl",
+              "text": "TapeX — Unlock on-chain potential with computing power mining.\nA brand-new mining token launch module powered by transistor pool issuance tools.\nFair, verifiabl"
+            },
+            {
+              "source": "TG",
+              "project": "TapeX",
+              "account": "TapeX_BSC",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-19T06:08:40+00:00",
+              "messageId": "dodtwitterbot/41278",
+              "description": "TapeX — Unlock on-chain potential with computing power mining.\nA brand-new mining token launch module powered by transistor pool issuance tools.\nFair, verifiabl",
+              "text": "TapeX — Unlock on-chain potential with computing power mining.\nA brand-new mining token launch module powered by transistor pool issuance tools.\nFair, verifiabl"
+            },
+            {
+              "source": "TG",
+              "project": "TapeX",
+              "account": "TapeX_BSC",
+              "alpha": "speest 💎",
+              "seenAt": "2026-11-19T10:30:39+00:00",
+              "messageId": "dodtwitterbot/41292",
+              "description": "TapeX — Unlock on-chain potential with computing power mining.\nA brand-new mining token launch module powered by transistor pool issuance tools.\nFair, verifiabl",
+              "text": "TapeX — Unlock on-chain potential with computing power mining.\nA brand-new mining token launch module powered by transistor pool issuance tools.\nFair, verifiabl"
+            }
+          ],
+          "text": " TapeX TapeX_BSC TapeX — Unlock on-chain potential with computing power mining.\nA brand-new mining token launch module powered by transistor pool issuance tools.\nFair, verifiabl TapeX TapeX_BSC TapeX — Unlock on-chain potential with computing power mining.\nA brand-new mining token launch module powered by transistor pool issuance tools.\nFair, verifiabl TapeX TapeX_BSC TapeX — Unlock on-chain potential with computing power mining.\nA brand-new mining token launch module powered by transistor pool issuance tools.\nFair, verifiabl",
+          "score": 6,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
         {
           "project": "Async Swap",
           "account": "asyncswap",
@@ -34249,15 +34552,17 @@
             "TG"
           ],
           "alphas": [
-            "Mutu 🕸️"
+            "Mutu 🕸️",
+            "lakka"
           ],
           "tgAlphas": [
-            "Mutu 🕸️"
+            "Mutu 🕸️",
+            "lakka"
           ],
           "xAlphas": [],
-          "mentions": 1,
+          "mentions": 2,
           "firstSeen": "2026-11-18T17:05:41+00:00",
-          "lastSeen": "2026-11-18T17:05:41+00:00",
+          "lastSeen": "2026-11-19T11:03:53+00:00",
           "description": "A CoW and CLOB protocol build for large on-chain trades. Powered by Uniswap.",
           "rows": [
             {
@@ -34269,9 +34574,159 @@
               "messageId": "dodtwitterbot/41263",
               "description": "A CoW and CLOB protocol build for large on-chain trades. Powered by Uniswap.",
               "text": "A CoW and CLOB protocol build for large on-chain trades. Powered by Uniswap."
+            },
+            {
+              "source": "TG",
+              "project": "Async Swap",
+              "account": "asyncswap",
+              "alpha": "lakka",
+              "seenAt": "2026-11-19T11:03:53+00:00",
+              "messageId": "dodtwitterbot/41294",
+              "description": "A CoW and CLOB protocol build for large on-chain trades. Powered by Uniswap.",
+              "text": "A CoW and CLOB protocol build for large on-chain trades. Powered by Uniswap."
             }
           ],
-          "text": " Async Swap asyncswap A CoW and CLOB protocol build for large on-chain trades. Powered by Uniswap.",
+          "text": " Async Swap asyncswap A CoW and CLOB protocol build for large on-chain trades. Powered by Uniswap. Async Swap asyncswap A CoW and CLOB protocol build for large on-chain trades. Powered by Uniswap.",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "ClankID",
+          "account": "ClankID_",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "CSR"
+          ],
+          "tgAlphas": [
+            "CSR"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-19T06:04:23+00:00",
+          "lastSeen": "2026-11-19T06:04:23+00:00",
+          "description": "Your name, your identity, your token.\n\nPowered by @clanker_world .",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "ClankID",
+              "account": "ClankID_",
+              "alpha": "CSR",
+              "seenAt": "2026-11-19T06:04:23+00:00",
+              "messageId": "dodtwitterbot/41277",
+              "description": "Your name, your identity, your token.\n\nPowered by @clanker_world .",
+              "text": "Your name, your identity, your token.\n\nPowered by @clanker_world ."
+            }
+          ],
+          "text": " ClankID ClankID_ Your name, your identity, your token.\n\nPowered by @clanker_world .",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Oath Pad",
+          "account": "LaunchonOath",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Mutu 🕸️"
+          ],
+          "tgAlphas": [
+            "Mutu 🕸️"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-19T12:37:48+00:00",
+          "lastSeen": "2026-11-19T12:37:48+00:00",
+          "description": "The launchpad that pays the ones who never sell. Hold through the curve, split its fee pot at graduation.\n\nD6bi67sum7vPk7Pe76u4eHWHWoHznBVRtaanu1o5wkKA",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Oath Pad",
+              "account": "LaunchonOath",
+              "alpha": "Mutu 🕸️",
+              "seenAt": "2026-11-19T12:37:48+00:00",
+              "messageId": "dodtwitterbot/41304",
+              "description": "The launchpad that pays the ones who never sell. Hold through the curve, split its fee pot at graduation.\n\nD6bi67sum7vPk7Pe76u4eHWHWoHznBVRtaanu1o5wkKA",
+              "text": "The launchpad that pays the ones who never sell. Hold through the curve, split its fee pot at graduation.\n\nD6bi67sum7vPk7Pe76u4eHWHWoHznBVRtaanu1o5wkKA"
+            }
+          ],
+          "text": " Oath Pad LaunchonOath The launchpad that pays the ones who never sell. Hold through the curve, split its fee pot at graduation.\n\nD6bi67sum7vPk7Pe76u4eHWHWoHznBVRtaanu1o5wkKA",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Paboxo",
+          "account": "paboxoxyz",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Mutu 🕸️"
+          ],
+          "tgAlphas": [
+            "Mutu 🕸️"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-19T11:10:00+00:00",
+          "lastSeen": "2026-11-19T11:10:00+00:00",
+          "description": "The Credit Layer of Tokenized Assets | No token yet. Beware of scammers&#33;",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Paboxo",
+              "account": "paboxoxyz",
+              "alpha": "Mutu 🕸️",
+              "seenAt": "2026-11-19T11:10:00+00:00",
+              "messageId": "dodtwitterbot/41295",
+              "description": "The Credit Layer of Tokenized Assets | No token yet. Beware of scammers&#33;",
+              "text": "The Credit Layer of Tokenized Assets | No token yet. Beware of scammers&#33;"
+            }
+          ],
+          "text": " Paboxo paboxoxyz The Credit Layer of Tokenized Assets | No token yet. Beware of scammers&#33;",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "supermassive",
+          "account": "supermassivedex",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "well"
+          ],
+          "tgAlphas": [
+            "well"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-19T06:01:47+00:00",
+          "lastSeen": "2026-11-19T06:01:47+00:00",
+          "description": "The center of every market on Solana. Launching 2027.\n\nbuilt by @temporal_xyz",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "supermassive",
+              "account": "supermassivedex",
+              "alpha": "well",
+              "seenAt": "2026-11-19T06:01:47+00:00",
+              "messageId": "dodtwitterbot/41276",
+              "description": "The center of every market on Solana. Launching 2027.\n\nbuilt by @temporal_xyz",
+              "text": "The center of every market on Solana. Launching 2027.\n\nbuilt by @temporal_xyz"
+            }
+          ],
+          "text": " supermassive supermassivedex The center of every market on Solana. Launching 2027.\n\nbuilt by @temporal_xyz",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -64779,354 +65234,359 @@
   ],
   "reports": [
     {
+      "file": "2026-11-19-1443-telegram-update.md",
+      "title": "2026-11-19-1443-telegram-update",
+      "updatedAt": "2026-11-19T14:43:53.009Z"
+    },
+    {
       "file": "2026-11-18-1826-telegram-update.md",
       "title": "2026-11-18-1826-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.292Z"
+      "updatedAt": "2026-11-19T14:43:50.468Z"
     },
     {
       "file": "2026-11-18-0916-telegram-update.md",
       "title": "2026-11-18-0916-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.292Z"
+      "updatedAt": "2026-11-19T14:43:50.468Z"
     },
     {
       "file": "2026-11-18-0002-telegram-update.md",
       "title": "2026-11-18-0002-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.292Z"
+      "updatedAt": "2026-11-19T14:43:50.468Z"
     },
     {
       "file": "2026-11-17-1456-telegram-update.md",
       "title": "2026-11-17-1456-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.292Z"
+      "updatedAt": "2026-11-19T14:43:50.468Z"
     },
     {
       "file": "2026-11-17-0412-telegram-update.md",
       "title": "2026-11-17-0412-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.292Z"
+      "updatedAt": "2026-11-19T14:43:50.468Z"
     },
     {
       "file": "2026-11-16-1953-telegram-update.md",
       "title": "2026-11-16-1953-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.292Z"
+      "updatedAt": "2026-11-19T14:43:50.468Z"
     },
     {
       "file": "2026-11-16-0839-telegram-update.md",
       "title": "2026-11-16-0839-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.292Z"
+      "updatedAt": "2026-11-19T14:43:50.468Z"
     },
     {
       "file": "2026-11-15-2207-telegram-update.md",
       "title": "2026-11-15-2207-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.468Z"
     },
     {
       "file": "2026-11-15-1639-telegram-update.md",
       "title": "2026-11-15-1639-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.468Z"
     },
     {
       "file": "2026-11-15-0828-telegram-update.md",
       "title": "2026-11-15-0828-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.468Z"
     },
     {
       "file": "2026-11-15-0121-telegram-update.md",
       "title": "2026-11-15-0121-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.468Z"
     },
     {
       "file": "2026-11-14-2141-telegram-update.md",
       "title": "2026-11-14-2141-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.468Z"
     },
     {
       "file": "2026-11-14-1610-telegram-update.md",
       "title": "2026-11-14-1610-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.467Z"
     },
     {
       "file": "2026-11-14-0809-telegram-update.md",
       "title": "2026-11-14-0809-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.467Z"
     },
     {
       "file": "2026-11-13-2255-telegram-update.md",
       "title": "2026-11-13-2255-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.467Z"
     },
     {
       "file": "2026-11-13-1724-telegram-update.md",
       "title": "2026-11-13-1724-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.467Z"
     },
     {
       "file": "2026-11-13-0849-telegram-update.md",
       "title": "2026-11-13-0849-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.467Z"
     },
     {
       "file": "2026-11-12-2254-telegram-update.md",
       "title": "2026-11-12-2254-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.467Z"
     },
     {
       "file": "2026-11-12-1746-telegram-update.md",
       "title": "2026-11-12-1746-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.467Z"
     },
     {
       "file": "2026-11-12-0853-telegram-update.md",
       "title": "2026-11-12-0853-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.467Z"
     },
     {
       "file": "2026-11-11-2344-telegram-update.md",
       "title": "2026-11-11-2344-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.467Z"
     },
     {
       "file": "2026-11-11-1729-telegram-update.md",
       "title": "2026-11-11-1729-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.467Z"
     },
     {
       "file": "2026-11-11-0828-telegram-update.md",
       "title": "2026-11-11-0828-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.467Z"
     },
     {
       "file": "2026-11-11-0130-telegram-update.md",
       "title": "2026-11-11-0130-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.467Z"
     },
     {
       "file": "2026-11-10-2037-telegram-update.md",
       "title": "2026-11-10-2037-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.467Z"
     },
     {
       "file": "2026-11-10-1348-telegram-update.md",
       "title": "2026-11-10-1348-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.467Z"
     },
     {
       "file": "2026-11-10-0351-telegram-update.md",
       "title": "2026-11-10-0351-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.467Z"
     },
     {
       "file": "2026-11-09-2013-telegram-update.md",
       "title": "2026-11-09-2013-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.467Z"
     },
     {
       "file": "2026-11-09-0844-telegram-update.md",
       "title": "2026-11-09-0844-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.467Z"
     },
     {
       "file": "2026-11-08-2123-telegram-update.md",
       "title": "2026-11-08-2123-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.467Z"
     },
     {
       "file": "2026-11-08-1623-telegram-update.md",
       "title": "2026-11-08-1623-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.467Z"
     },
     {
       "file": "2026-11-08-0804-telegram-update.md",
       "title": "2026-11-08-0804-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.467Z"
     },
     {
       "file": "2026-11-07-2106-telegram-update.md",
       "title": "2026-11-07-2106-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.467Z"
     },
     {
       "file": "2026-11-07-1556-telegram-update.md",
       "title": "2026-11-07-1556-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.467Z"
     },
     {
       "file": "2026-11-07-0751-telegram-update.md",
       "title": "2026-11-07-0751-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.467Z"
     },
     {
       "file": "2026-11-06-2226-telegram-update.md",
       "title": "2026-11-06-2226-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.467Z"
     },
     {
       "file": "2026-11-06-1658-telegram-update.md",
       "title": "2026-11-06-1658-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.467Z"
     },
     {
       "file": "2026-11-06-0835-telegram-update.md",
       "title": "2026-11-06-0835-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.467Z"
     },
     {
       "file": "2026-11-05-2256-telegram-update.md",
       "title": "2026-11-05-2256-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.467Z"
     },
     {
       "file": "2026-11-05-1742-telegram-update.md",
       "title": "2026-11-05-1742-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.466Z"
     },
     {
       "file": "2026-11-05-0836-telegram-update.md",
       "title": "2026-11-05-0836-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.466Z"
     },
     {
       "file": "2026-11-04-2255-telegram-update.md",
       "title": "2026-11-04-2255-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.466Z"
     },
     {
       "file": "2026-11-04-1737-telegram-update.md",
       "title": "2026-11-04-1737-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.466Z"
     },
     {
       "file": "2026-11-04-0810-telegram-update.md",
       "title": "2026-11-04-0810-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.466Z"
     },
     {
       "file": "2026-11-04-0143-telegram-update.md",
       "title": "2026-11-04-0143-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.466Z"
     },
     {
       "file": "2026-11-03-2018-telegram-update.md",
       "title": "2026-11-03-2018-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.466Z"
     },
     {
       "file": "2026-11-03-1302-telegram-update.md",
       "title": "2026-11-03-1302-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.466Z"
     },
     {
       "file": "2026-11-03-0306-telegram-update.md",
       "title": "2026-11-03-0306-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.466Z"
     },
     {
       "file": "2026-11-02-1950-telegram-update.md",
       "title": "2026-11-02-1950-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.466Z"
     },
     {
       "file": "2026-11-02-0826-telegram-update.md",
       "title": "2026-11-02-0826-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.466Z"
     },
     {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.466Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.466Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.466Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.466Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.466Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.466Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.466Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.466Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.466Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.466Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.466Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.466Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.466Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.466Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.466Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.466Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.466Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.466Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-19T02:51:03.291Z"
+      "updatedAt": "2026-11-19T14:43:50.466Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-19T02:51:03.289Z"
+      "updatedAt": "2026-11-19T14:43:50.465Z"
     }
   ]
 }
