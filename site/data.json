@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-21T02:52:25.794Z",
+  "generatedAt": "2026-11-21T13:44:28.995Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 41377,
-    "lastMessageAt": "2026-11-21T01:18:58+00:00",
-    "lastCheckedAt": "2026-11-21T02:52:25.555Z",
-    "previousMessageId": 41365,
+    "lastMessageId": 41386,
+    "lastMessageAt": "2026-11-21T12:13:40+00:00",
+    "lastCheckedAt": "2026-11-21T13:44:28.635Z",
+    "previousMessageId": 41377,
     "pagesRead": 1,
-    "messagesRead": 12,
-    "newProjectRecords": 4,
+    "messagesRead": 9,
+    "newProjectRecords": 2,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 1012,
+    "telegramRows": 1014,
     "xRows": 0,
-    "projects": 625,
+    "projects": 626,
     "crossSource": 0
   },
   "projects": [
@@ -10836,6 +10836,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "Sealed",
+      "account": "sealed_auction",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned",
+        "well"
+      ],
+      "tgAlphas": [
+        "unsynned",
+        "well"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-20T20:38:57+00:00",
+      "lastSeen": "2026-11-21T06:55:40+00:00",
+      "description": "Private auctions built on @aztecnetwork .\nPublic listings. Private bids. On-chain settlement.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Sealed",
+          "account": "sealed_auction",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-20T20:38:57+00:00",
+          "messageId": "dodtwitterbot/41371",
+          "description": "Private auctions built on @aztecnetwork .\nPublic listings. Private bids. On-chain settlement.",
+          "text": "Private auctions built on @aztecnetwork .\nPublic listings. Private bids. On-chain settlement."
+        },
+        {
+          "source": "TG",
+          "project": "Sealed",
+          "account": "sealed_auction",
+          "alpha": "well",
+          "seenAt": "2026-11-21T06:55:40+00:00",
+          "messageId": "dodtwitterbot/41381",
+          "description": "Private auctions built on @aztecnetwork .\nPublic listings. Private bids. On-chain settlement.",
+          "text": "Private auctions built on @aztecnetwork .\nPublic listings. Private bids. On-chain settlement."
+        }
+      ],
+      "text": " Sealed sealed_auction Private auctions built on @aztecnetwork .\nPublic listings. Private bids. On-chain settlement. Sealed sealed_auction Private auctions built on @aztecnetwork .\nPublic listings. Private bids. On-chain settlement.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "SHADES",
       "account": "ShadesofEly",
       "sources": [
@@ -18026,6 +18072,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "INSCRIBOORS",
+      "account": "theinscriboors",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BTC alpha"
+      ],
+      "tgAlphas": [
+        "BTC alpha"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-21T05:52:21+00:00",
+      "lastSeen": "2026-11-21T05:52:21+00:00",
+      "description": "Every 24 Bitcoin blocks the block hash picks one OG Ordinals inscription. Once the hoard is funded, its holder gets ETCHY.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "INSCRIBOORS",
+          "account": "theinscriboors",
+          "alpha": "BTC alpha",
+          "seenAt": "2026-11-21T05:52:21+00:00",
+          "messageId": "dodtwitterbot/41379",
+          "description": "Every 24 Bitcoin blocks the block hash picks one OG Ordinals inscription. Once the hoard is funded, its holder gets ETCHY.",
+          "text": "Every 24 Bitcoin blocks the block hash picks one OG Ordinals inscription. Once the hoard is funded, its holder gets ETCHY."
+        }
+      ],
+      "text": " INSCRIBOORS theinscriboors Every 24 Bitcoin blocks the block hash picks one OG Ordinals inscription. Once the hoard is funded, its holder gets ETCHY.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "intelligent dance markets",
       "account": "theidmfun",
       "sources": [
@@ -22713,40 +22793,6 @@
         }
       ],
       "text": " SCION ScionGG_ Onchain plant game on @LayerZero_Core .\nWater yours, graft from theirs.",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Sealed",
-      "account": "sealed_auction",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "unsynned"
-      ],
-      "tgAlphas": [
-        "unsynned"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-20T20:38:57+00:00",
-      "lastSeen": "2026-11-20T20:38:57+00:00",
-      "description": "Private auctions built on @aztecnetwork .\nPublic listings. Private bids. On-chain settlement.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Sealed",
-          "account": "sealed_auction",
-          "alpha": "unsynned",
-          "seenAt": "2026-11-20T20:38:57+00:00",
-          "messageId": "dodtwitterbot/41371",
-          "description": "Private auctions built on @aztecnetwork .\nPublic listings. Private bids. On-chain settlement.",
-          "text": "Private auctions built on @aztecnetwork .\nPublic listings. Private bids. On-chain settlement."
-        }
-      ],
-      "text": " Sealed sealed_auction Private auctions built on @aztecnetwork .\nPublic listings. Private bids. On-chain settlement.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -28941,6 +28987,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "Sealed",
+      "x_account": "sealed_auction",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "unsynned",
+        "well"
+      ],
+      "description": "Private auctions built on @aztecnetwork .\nPublic listings. Private bids. On-chain settlement.",
+      "first_seen_utc": "2026-11-20T20:38:57+00:00",
+      "last_seen_utc": "2026-11-21T06:55:40+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "SHADES",
       "x_account": "ShadesofEly",
       "total_mentions": 2,
@@ -31807,6 +31868,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "INSCRIBOORS",
+      "x_account": "theinscriboors",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "BTC alpha"
+      ],
+      "description": "Every 24 Bitcoin blocks the block hash picks one OG Ordinals inscription. Once the hoard is funded, its holder gets ETCHY.",
+      "first_seen_utc": "2026-11-21T05:52:21+00:00",
+      "last_seen_utc": "2026-11-21T05:52:21+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "intelligent dance markets",
       "x_account": "theidmfun",
       "total_mentions": 1,
@@ -33739,20 +33814,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Sealed",
-      "x_account": "sealed_auction",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "unsynned"
-      ],
-      "description": "Private auctions built on @aztecnetwork .\nPublic listings. Private bids. On-chain settlement.",
-      "first_seen_utc": "2026-11-20T20:38:57+00:00",
-      "last_seen_utc": "2026-11-20T20:38:57+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "shadow",
       "x_account": "0xmev",
       "total_mentions": 1,
@@ -35058,14 +35119,96 @@
   "daily": [
     {
       "date": "2026-11-21",
-      "totalRows": 4,
-      "projectCount": 4,
-      "focusCount": 0,
+      "totalRows": 6,
+      "projectCount": 5,
+      "focusCount": 1,
       "candidateCount": 4,
       "crossSource": 0,
-      "newCount": 4,
+      "newCount": 5,
       "repeatCount": 0,
       "projects": [
+        {
+          "project": "Sealed",
+          "account": "sealed_auction",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned",
+            "well"
+          ],
+          "tgAlphas": [
+            "unsynned",
+            "well"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-11-20T20:38:57+00:00",
+          "lastSeen": "2026-11-21T06:55:40+00:00",
+          "description": "Private auctions built on @aztecnetwork .\nPublic listings. Private bids. On-chain settlement.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Sealed",
+              "account": "sealed_auction",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-20T20:38:57+00:00",
+              "messageId": "dodtwitterbot/41371",
+              "description": "Private auctions built on @aztecnetwork .\nPublic listings. Private bids. On-chain settlement.",
+              "text": "Private auctions built on @aztecnetwork .\nPublic listings. Private bids. On-chain settlement."
+            },
+            {
+              "source": "TG",
+              "project": "Sealed",
+              "account": "sealed_auction",
+              "alpha": "well",
+              "seenAt": "2026-11-21T06:55:40+00:00",
+              "messageId": "dodtwitterbot/41381",
+              "description": "Private auctions built on @aztecnetwork .\nPublic listings. Private bids. On-chain settlement.",
+              "text": "Private auctions built on @aztecnetwork .\nPublic listings. Private bids. On-chain settlement."
+            }
+          ],
+          "text": " Sealed sealed_auction Private auctions built on @aztecnetwork .\nPublic listings. Private bids. On-chain settlement. Sealed sealed_auction Private auctions built on @aztecnetwork .\nPublic listings. Private bids. On-chain settlement.",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "INSCRIBOORS",
+          "account": "theinscriboors",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BTC alpha"
+          ],
+          "tgAlphas": [
+            "BTC alpha"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-21T05:52:21+00:00",
+          "lastSeen": "2026-11-21T05:52:21+00:00",
+          "description": "Every 24 Bitcoin blocks the block hash picks one OG Ordinals inscription. Once the hoard is funded, its holder gets ETCHY.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "INSCRIBOORS",
+              "account": "theinscriboors",
+              "alpha": "BTC alpha",
+              "seenAt": "2026-11-21T05:52:21+00:00",
+              "messageId": "dodtwitterbot/41379",
+              "description": "Every 24 Bitcoin blocks the block hash picks one OG Ordinals inscription. Once the hoard is funded, its holder gets ETCHY.",
+              "text": "Every 24 Bitcoin blocks the block hash picks one OG Ordinals inscription. Once the hoard is funded, its holder gets ETCHY."
+            }
+          ],
+          "text": " INSCRIBOORS theinscriboors Every 24 Bitcoin blocks the block hash picks one OG Ordinals inscription. Once the hoard is funded, its holder gets ETCHY.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
         {
           "project": "Pari",
           "account": "PariProtocol",
@@ -35131,41 +35274,6 @@
             }
           ],
           "text": " Pocket thepocketapp Trade with Agents",
-          "score": 2,
-          "displayTier": "candidate",
-          "avatarUrl": "",
-          "dayStatus": "new"
-        },
-        {
-          "project": "Sealed",
-          "account": "sealed_auction",
-          "sources": [
-            "TG"
-          ],
-          "alphas": [
-            "unsynned"
-          ],
-          "tgAlphas": [
-            "unsynned"
-          ],
-          "xAlphas": [],
-          "mentions": 1,
-          "firstSeen": "2026-11-20T20:38:57+00:00",
-          "lastSeen": "2026-11-20T20:38:57+00:00",
-          "description": "Private auctions built on @aztecnetwork .\nPublic listings. Private bids. On-chain settlement.",
-          "rows": [
-            {
-              "source": "TG",
-              "project": "Sealed",
-              "account": "sealed_auction",
-              "alpha": "unsynned",
-              "seenAt": "2026-11-20T20:38:57+00:00",
-              "messageId": "dodtwitterbot/41371",
-              "description": "Private auctions built on @aztecnetwork .\nPublic listings. Private bids. On-chain settlement.",
-              "text": "Private auctions built on @aztecnetwork .\nPublic listings. Private bids. On-chain settlement."
-            }
-          ],
-          "text": " Sealed sealed_auction Private auctions built on @aztecnetwork .\nPublic listings. Private bids. On-chain settlement.",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -66271,374 +66379,379 @@
   ],
   "reports": [
     {
+      "file": "2026-11-21-1344-telegram-update.md",
+      "title": "2026-11-21-1344-telegram-update",
+      "updatedAt": "2026-11-21T13:44:28.634Z"
+    },
+    {
       "file": "2026-11-21-0252-telegram-update.md",
       "title": "2026-11-21-0252-telegram-update",
-      "updatedAt": "2026-11-21T02:52:25.554Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-20-0915-telegram-update.md",
       "title": "2026-11-20-0915-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.781Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-19-2355-telegram-update.md",
       "title": "2026-11-19-2355-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.781Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-19-1443-telegram-update.md",
       "title": "2026-11-19-1443-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.781Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-18-1826-telegram-update.md",
       "title": "2026-11-18-1826-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.781Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-18-0916-telegram-update.md",
       "title": "2026-11-18-0916-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.781Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-18-0002-telegram-update.md",
       "title": "2026-11-18-0002-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.781Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-17-1456-telegram-update.md",
       "title": "2026-11-17-1456-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.781Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-17-0412-telegram-update.md",
       "title": "2026-11-17-0412-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.781Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-16-1953-telegram-update.md",
       "title": "2026-11-16-1953-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.781Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-16-0839-telegram-update.md",
       "title": "2026-11-16-0839-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.781Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-15-2207-telegram-update.md",
       "title": "2026-11-15-2207-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.781Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-15-1639-telegram-update.md",
       "title": "2026-11-15-1639-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.781Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-15-0828-telegram-update.md",
       "title": "2026-11-15-0828-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.781Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-15-0121-telegram-update.md",
       "title": "2026-11-15-0121-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.781Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-14-2141-telegram-update.md",
       "title": "2026-11-14-2141-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.781Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-14-1610-telegram-update.md",
       "title": "2026-11-14-1610-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.781Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-14-0809-telegram-update.md",
       "title": "2026-11-14-0809-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.781Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-13-2255-telegram-update.md",
       "title": "2026-11-13-2255-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.781Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-13-1724-telegram-update.md",
       "title": "2026-11-13-1724-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.781Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-13-0849-telegram-update.md",
       "title": "2026-11-13-0849-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.781Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-12-2254-telegram-update.md",
       "title": "2026-11-12-2254-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.781Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-12-1746-telegram-update.md",
       "title": "2026-11-12-1746-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.781Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-12-0853-telegram-update.md",
       "title": "2026-11-12-0853-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-11-2344-telegram-update.md",
       "title": "2026-11-11-2344-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-11-1729-telegram-update.md",
       "title": "2026-11-11-1729-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-11-0828-telegram-update.md",
       "title": "2026-11-11-0828-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-11-0130-telegram-update.md",
       "title": "2026-11-11-0130-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-10-2037-telegram-update.md",
       "title": "2026-11-10-2037-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-10-1348-telegram-update.md",
       "title": "2026-11-10-1348-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-10-0351-telegram-update.md",
       "title": "2026-11-10-0351-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-09-2013-telegram-update.md",
       "title": "2026-11-09-2013-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-09-0844-telegram-update.md",
       "title": "2026-11-09-0844-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-08-2123-telegram-update.md",
       "title": "2026-11-08-2123-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-08-1623-telegram-update.md",
       "title": "2026-11-08-1623-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-08-0804-telegram-update.md",
       "title": "2026-11-08-0804-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-07-2106-telegram-update.md",
       "title": "2026-11-07-2106-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-07-1556-telegram-update.md",
       "title": "2026-11-07-1556-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-07-0751-telegram-update.md",
       "title": "2026-11-07-0751-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-06-2226-telegram-update.md",
       "title": "2026-11-06-2226-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-06-1658-telegram-update.md",
       "title": "2026-11-06-1658-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-06-0835-telegram-update.md",
       "title": "2026-11-06-0835-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-05-2256-telegram-update.md",
       "title": "2026-11-05-2256-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-05-1742-telegram-update.md",
       "title": "2026-11-05-1742-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-05-0836-telegram-update.md",
       "title": "2026-11-05-0836-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-04-2255-telegram-update.md",
       "title": "2026-11-04-2255-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-04-1737-telegram-update.md",
       "title": "2026-11-04-1737-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-04-0810-telegram-update.md",
       "title": "2026-11-04-0810-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-04-0143-telegram-update.md",
       "title": "2026-11-04-0143-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-03-2018-telegram-update.md",
       "title": "2026-11-03-2018-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-03-1302-telegram-update.md",
       "title": "2026-11-03-1302-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-03-0306-telegram-update.md",
       "title": "2026-11-03-0306-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-02-1950-telegram-update.md",
       "title": "2026-11-02-1950-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-02-0826-telegram-update.md",
       "title": "2026-11-02-0826-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-21T02:52:23.780Z"
+      "updatedAt": "2026-11-21T13:44:26.614Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-21T02:52:23.779Z"
+      "updatedAt": "2026-11-21T13:44:26.613Z"
     }
   ]
 }
