@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-22T08:55:00.011Z",
+  "generatedAt": "2026-11-22T17:26:44.194Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 41408,
-    "lastMessageAt": "2026-11-22T06:15:16+00:00",
-    "lastCheckedAt": "2026-11-22T08:54:59.685Z",
-    "previousMessageId": 41402,
-    "pagesRead": 1,
-    "messagesRead": 6,
-    "newProjectRecords": 1,
+    "lastMessageId": 41432,
+    "lastMessageAt": "2026-11-22T17:26:01+00:00",
+    "lastCheckedAt": "2026-11-22T17:26:43.892Z",
+    "previousMessageId": 41408,
+    "pagesRead": 2,
+    "messagesRead": 24,
+    "newProjectRecords": 6,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 1019,
+    "telegramRows": 1025,
     "xRows": 0,
-    "projects": 630,
+    "projects": 635,
     "crossSource": 0
   },
   "projects": [
@@ -5178,6 +5178,64 @@
       "avatarUrl": ""
     },
     {
+      "project": "oripa.xyz",
+      "account": "oripaxyz",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka",
+        "speest 💎",
+        "发誓要做永赚大师"
+      ],
+      "tgAlphas": [
+        "lakka",
+        "speest 💎",
+        "发誓要做永赚大师"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-11-16T15:13:56+00:00",
+      "lastSeen": "2026-11-22T10:38:27+00:00",
+      "description": "japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "oripa.xyz",
+          "account": "oripaxyz",
+          "alpha": "lakka",
+          "seenAt": "2026-11-16T15:13:56+00:00",
+          "messageId": "dodtwitterbot/41118",
+          "description": "japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints.",
+          "text": "japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints."
+        },
+        {
+          "source": "TG",
+          "project": "oripa.xyz",
+          "account": "oripaxyz",
+          "alpha": "发誓要做永赚大师",
+          "seenAt": "2026-11-18T03:21:03+00:00",
+          "messageId": "dodtwitterbot/41233",
+          "description": "japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints.",
+          "text": "japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints."
+        },
+        {
+          "source": "TG",
+          "project": "oripa.xyz",
+          "account": "oripaxyz",
+          "alpha": "speest 💎",
+          "seenAt": "2026-11-22T10:38:27+00:00",
+          "messageId": "dodtwitterbot/41410",
+          "description": "japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints.",
+          "text": "japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints."
+        }
+      ],
+      "text": " oripa.xyz oripaxyz japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints. oripa.xyz oripaxyz japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints. oripa.xyz oripaxyz japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints.",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Pcash Protocol",
       "account": "pcash_protocol",
       "sources": [
@@ -10061,52 +10119,6 @@
         }
       ],
       "text": " Open Teleport open_teleport Move your agents. Anywhere. Open Teleport open_teleport Move your agents. Anywhere.",
-      "score": 4,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
-      "project": "oripa.xyz",
-      "account": "oripaxyz",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "lakka",
-        "发誓要做永赚大师"
-      ],
-      "tgAlphas": [
-        "lakka",
-        "发誓要做永赚大师"
-      ],
-      "xAlphas": [],
-      "mentions": 2,
-      "firstSeen": "2026-11-16T15:13:56+00:00",
-      "lastSeen": "2026-11-18T03:21:03+00:00",
-      "description": "japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "oripa.xyz",
-          "account": "oripaxyz",
-          "alpha": "lakka",
-          "seenAt": "2026-11-16T15:13:56+00:00",
-          "messageId": "dodtwitterbot/41118",
-          "description": "japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints.",
-          "text": "japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints."
-        },
-        {
-          "source": "TG",
-          "project": "oripa.xyz",
-          "account": "oripaxyz",
-          "alpha": "发誓要做永赚大师",
-          "seenAt": "2026-11-18T03:21:03+00:00",
-          "messageId": "dodtwitterbot/41233",
-          "description": "japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints.",
-          "text": "japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints."
-        }
-      ],
-      "text": " oripa.xyz oripaxyz japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints. oripa.xyz oripaxyz japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints.",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -15024,6 +15036,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Dojima Fi",
+      "account": "dojimafi",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Mutu 🕸️"
+      ],
+      "tgAlphas": [
+        "Mutu 🕸️"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-22T13:58:11+00:00",
+      "lastSeen": "2026-11-22T13:58:11+00:00",
+      "description": "playground for money legos on @risechain\n\nby @degenRobot",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Dojima Fi",
+          "account": "dojimafi",
+          "alpha": "Mutu 🕸️",
+          "seenAt": "2026-11-22T13:58:11+00:00",
+          "messageId": "dodtwitterbot/41419",
+          "description": "playground for money legos on @risechain\n\nby @degenRobot",
+          "text": "playground for money legos on @risechain\n\nby @degenRobot"
+        }
+      ],
+      "text": " Dojima Fi dojimafi playground for money legos on @risechain\n\nby @degenRobot",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "DyDx.fun",
       "account": "DyDxfun",
       "sources": [
@@ -19308,6 +19354,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Mark Minervini",
+      "account": "markminervini",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "黑客fa1r"
+      ],
+      "tgAlphas": [
+        "黑客fa1r"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-22T15:27:48+00:00",
+      "lastSeen": "2026-11-22T15:27:48+00:00",
+      "description": "2-time U.S. Investing Champion. Author Trade Like A Stock Market Wizard and Think & Trade Like a Champion. Featured in Stock Market Wizards. Read disclosure.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Mark Minervini",
+          "account": "markminervini",
+          "alpha": "黑客fa1r",
+          "seenAt": "2026-11-22T15:27:48+00:00",
+          "messageId": "dodtwitterbot/41424",
+          "description": "2-time U.S. Investing Champion. Author Trade Like A Stock Market Wizard and Think & Trade Like a Champion. Featured in Stock Market Wizards. Read disclosure.",
+          "text": "2-time U.S. Investing Champion. Author Trade Like A Stock Market Wizard and Think & Trade Like a Champion. Featured in Stock Market Wizards. Read disclosure."
+        }
+      ],
+      "text": " Mark Minervini markminervini 2-time U.S. Investing Champion. Author Trade Like A Stock Market Wizard and Think & Trade Like a Champion. Featured in Stock Market Wizards. Read disclosure.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Matcha 🍵 ✨",
       "account": "matchaxyz",
       "sources": [
@@ -19473,6 +19553,40 @@
         }
       ],
       "text": " Mehmski Mehmski Corporate Tax Lawyer tuned into crypto / Game is game",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Memoria",
+      "account": "memoriaagent",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Mutu 🕸️"
+      ],
+      "tgAlphas": [
+        "Mutu 🕸️"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-22T13:05:49+00:00",
+      "lastSeen": "2026-11-22T13:05:49+00:00",
+      "description": "Shared, signed memory for AI agents: store a fact once, recall it anywhere. Built for Claude, Cursor, MCP apps and agents on Robinhood Chain.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Memoria",
+          "account": "memoriaagent",
+          "alpha": "Mutu 🕸️",
+          "seenAt": "2026-11-22T13:05:49+00:00",
+          "messageId": "dodtwitterbot/41414",
+          "description": "Shared, signed memory for AI agents: store a fact once, recall it anywhere. Built for Claude, Cursor, MCP apps and agents on Robinhood Chain.",
+          "text": "Shared, signed memory for AI agents: store a fact once, recall it anywhere. Built for Claude, Cursor, MCP apps and agents on Robinhood Chain."
+        }
+      ],
+      "text": " Memoria memoriaagent Shared, signed memory for AI agents: store a fact once, recall it anywhere. Built for Claude, Cursor, MCP apps and agents on Robinhood Chain.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -23320,6 +23434,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Stage Analysis",
+      "account": "stageanalysis",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "黑客fa1r"
+      ],
+      "tgAlphas": [
+        "黑客fa1r"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-22T15:27:48+00:00",
+      "lastSeen": "2026-11-22T15:27:48+00:00",
+      "description": "Stage Analysis Screener & Market Breadth Tools\n\nStock Trading & Investing – Stan Weinstein's Stage Analysis & Wyckoff\n\n➜ Join: https://t.co/mtOKZZIXec",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Stage Analysis",
+          "account": "stageanalysis",
+          "alpha": "黑客fa1r",
+          "seenAt": "2026-11-22T15:27:48+00:00",
+          "messageId": "dodtwitterbot/41423",
+          "description": "Stage Analysis Screener & Market Breadth Tools\n\nStock Trading & Investing – Stan Weinstein's Stage Analysis & Wyckoff\n\n➜ Join: https://t.co/mtOKZZIXec",
+          "text": "Stage Analysis Screener & Market Breadth Tools\n\nStock Trading & Investing – Stan Weinstein's Stage Analysis & Wyckoff\n\n➜ Join: https://t.co/mtOKZZIXec"
+        }
+      ],
+      "text": " Stage Analysis stageanalysis Stage Analysis Screener & Market Breadth Tools\n\nStock Trading & Investing – Stan Weinstein's Stage Analysis & Wyckoff\n\n➜ Join: https://t.co/mtOKZZIXec",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Stars agent",
       "account": "Starsagent_BNB",
       "sources": [
@@ -23451,6 +23599,40 @@
         }
       ],
       "text": " Stroopy XLM Mascot StroopyMascot Stroopy is Stellar's mascot. The name comes from “stroop,”\n- the smallest unit of XLM\n@StellarOrg\n\nDeployed on Rookery, liquidity transferred to\n@AquariusD",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "SUN | Launchpad",
+      "account": "SUNLaunchpad",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "八九"
+      ],
+      "tgAlphas": [
+        "八九"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-22T16:56:27+00:00",
+      "lastSeen": "2026-11-22T16:56:27+00:00",
+      "description": "☀️ AI Agent Launchpad on BNB Chain.\n\nAgent ID × Fair Launch × AI Mint\n\nCreate → Mint → Auto LP → Launch\n\nIgnite a New Dawn.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "SUN | Launchpad",
+          "account": "SUNLaunchpad",
+          "alpha": "八九",
+          "seenAt": "2026-11-22T16:56:27+00:00",
+          "messageId": "dodtwitterbot/41429",
+          "description": "☀️ AI Agent Launchpad on BNB Chain.\n\nAgent ID × Fair Launch × AI Mint\n\nCreate → Mint → Auto LP → Launch\n\nIgnite a New Dawn.",
+          "text": "☀️ AI Agent Launchpad on BNB Chain.\n\nAgent ID × Fair Launch × AI Mint\n\nCreate → Mint → Auto LP → Launch\n\nIgnite a New Dawn."
+        }
+      ],
+      "text": " SUN | Launchpad SUNLaunchpad ☀️ AI Agent Launchpad on BNB Chain.\n\nAgent ID × Fair Launch × AI Mint\n\nCreate → Mint → Auto LP → Launch\n\nIgnite a New Dawn.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -27357,6 +27539,22 @@
       "avatarUrl": ""
     },
     {
+      "project": "oripa.xyz",
+      "x_account": "oripaxyz",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "lakka",
+        "speest 💎",
+        "发誓要做永赚大师"
+      ],
+      "description": "japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints.",
+      "first_seen_utc": "2026-11-16T15:13:56+00:00",
+      "last_seen_utc": "2026-11-22T10:38:27+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
       "project": "Pcash Protocol",
       "x_account": "pcash_protocol",
       "total_mentions": 3,
@@ -28877,21 +29075,6 @@
       "description": "Move your agents. Anywhere.",
       "first_seen_utc": "2026-11-04T11:44:55+00:00",
       "last_seen_utc": "2026-11-04T11:47:47+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "oripa.xyz",
-      "x_account": "oripaxyz",
-      "total_mentions": 2,
-      "unique_alphas": 2,
-      "alphas": [
-        "lakka",
-        "发誓要做永赚大师"
-      ],
-      "description": "japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints.",
-      "first_seen_utc": "2026-11-16T15:13:56+00:00",
-      "last_seen_utc": "2026-11-18T03:21:03+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -30757,6 +30940,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Dojima Fi",
+      "x_account": "dojimafi",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "Mutu 🕸️"
+      ],
+      "description": "playground for money legos on @risechain\n\nby @degenRobot",
+      "first_seen_utc": "2026-11-22T13:58:11+00:00",
+      "last_seen_utc": "2026-11-22T13:58:11+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "DyDx.fun",
       "x_account": "DyDxfun",
       "total_mentions": 1,
@@ -32521,6 +32718,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Mark Minervini",
+      "x_account": "markminervini",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "黑客fa1r"
+      ],
+      "description": "2-time U.S. Investing Champion. Author Trade Like A Stock Market Wizard and Think & Trade Like a Champion. Featured in Stock Market Wizards. Read disclosure.",
+      "first_seen_utc": "2026-11-22T15:27:48+00:00",
+      "last_seen_utc": "2026-11-22T15:27:48+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Matcha 🍵 ✨",
       "x_account": "matchaxyz",
       "total_mentions": 1,
@@ -32587,6 +32798,20 @@
       "description": "Corporate Tax Lawyer tuned into crypto / Game is game",
       "first_seen_utc": "2026-10-28T20:38:57+00:00",
       "last_seen_utc": "2026-10-28T20:38:57+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Memoria",
+      "x_account": "memoriaagent",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "Mutu 🕸️"
+      ],
+      "description": "Shared, signed memory for AI agents: store a fact once, recall it anywhere. Built for Claude, Cursor, MCP apps and agents on Robinhood Chain.",
+      "first_seen_utc": "2026-11-22T13:05:49+00:00",
+      "last_seen_utc": "2026-11-22T13:05:49+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -34173,6 +34398,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Stage Analysis",
+      "x_account": "stageanalysis",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "黑客fa1r"
+      ],
+      "description": "Stage Analysis Screener & Market Breadth Tools\n\nStock Trading & Investing – Stan Weinstein's Stage Analysis & Wyckoff\n\n➜ Join: https://t.co/mtOKZZIXec",
+      "first_seen_utc": "2026-11-22T15:27:48+00:00",
+      "last_seen_utc": "2026-11-22T15:27:48+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Stars agent",
       "x_account": "Starsagent_BNB",
       "total_mentions": 1,
@@ -34225,6 +34464,20 @@
       "description": "Stroopy is Stellar's mascot. The name comes from “stroop,”\n- the smallest unit of XLM\n@StellarOrg\n\nDeployed on Rookery, liquidity transferred to\n@AquariusD",
       "first_seen_utc": "2026-11-16T16:16:00+00:00",
       "last_seen_utc": "2026-11-16T16:16:00+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "SUN | Launchpad",
+      "x_account": "SUNLaunchpad",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "八九"
+      ],
+      "description": "☀️ AI Agent Launchpad on BNB Chain.\n\nAgent ID × Fair Launch × AI Mint\n\nCreate → Mint → Auto LP → Launch\n\nIgnite a New Dawn.",
+      "first_seen_utc": "2026-11-22T16:56:27+00:00",
+      "last_seen_utc": "2026-11-22T16:56:27+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -35323,14 +35576,61 @@
   ],
   "daily": [
     {
-      "date": "2026-11-22",
-      "totalRows": 5,
-      "projectCount": 5,
+      "date": "2026-11-23",
+      "totalRows": 1,
+      "projectCount": 1,
       "focusCount": 0,
-      "candidateCount": 5,
+      "candidateCount": 1,
       "crossSource": 0,
-      "newCount": 4,
-      "repeatCount": 1,
+      "newCount": 1,
+      "repeatCount": 0,
+      "projects": [
+        {
+          "project": "SUN | Launchpad",
+          "account": "SUNLaunchpad",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "八九"
+          ],
+          "tgAlphas": [
+            "八九"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-22T16:56:27+00:00",
+          "lastSeen": "2026-11-22T16:56:27+00:00",
+          "description": "☀️ AI Agent Launchpad on BNB Chain.\n\nAgent ID × Fair Launch × AI Mint\n\nCreate → Mint → Auto LP → Launch\n\nIgnite a New Dawn.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "SUN | Launchpad",
+              "account": "SUNLaunchpad",
+              "alpha": "八九",
+              "seenAt": "2026-11-22T16:56:27+00:00",
+              "messageId": "dodtwitterbot/41429",
+              "description": "☀️ AI Agent Launchpad on BNB Chain.\n\nAgent ID × Fair Launch × AI Mint\n\nCreate → Mint → Auto LP → Launch\n\nIgnite a New Dawn.",
+              "text": "☀️ AI Agent Launchpad on BNB Chain.\n\nAgent ID × Fair Launch × AI Mint\n\nCreate → Mint → Auto LP → Launch\n\nIgnite a New Dawn."
+            }
+          ],
+          "text": " SUN | Launchpad SUNLaunchpad ☀️ AI Agent Launchpad on BNB Chain.\n\nAgent ID × Fair Launch × AI Mint\n\nCreate → Mint → Auto LP → Launch\n\nIgnite a New Dawn.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "totalRows": 10,
+      "projectCount": 10,
+      "focusCount": 0,
+      "candidateCount": 10,
+      "crossSource": 0,
+      "newCount": 8,
+      "repeatCount": 2,
       "projects": [
         {
           "project": "ComputeMarket",
@@ -35368,6 +35668,146 @@
           "dayStatus": "new"
         },
         {
+          "project": "Dojima Fi",
+          "account": "dojimafi",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Mutu 🕸️"
+          ],
+          "tgAlphas": [
+            "Mutu 🕸️"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-22T13:58:11+00:00",
+          "lastSeen": "2026-11-22T13:58:11+00:00",
+          "description": "playground for money legos on @risechain\n\nby @degenRobot",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Dojima Fi",
+              "account": "dojimafi",
+              "alpha": "Mutu 🕸️",
+              "seenAt": "2026-11-22T13:58:11+00:00",
+              "messageId": "dodtwitterbot/41419",
+              "description": "playground for money legos on @risechain\n\nby @degenRobot",
+              "text": "playground for money legos on @risechain\n\nby @degenRobot"
+            }
+          ],
+          "text": " Dojima Fi dojimafi playground for money legos on @risechain\n\nby @degenRobot",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Mark Minervini",
+          "account": "markminervini",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "黑客fa1r"
+          ],
+          "tgAlphas": [
+            "黑客fa1r"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-22T15:27:48+00:00",
+          "lastSeen": "2026-11-22T15:27:48+00:00",
+          "description": "2-time U.S. Investing Champion. Author Trade Like A Stock Market Wizard and Think & Trade Like a Champion. Featured in Stock Market Wizards. Read disclosure.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Mark Minervini",
+              "account": "markminervini",
+              "alpha": "黑客fa1r",
+              "seenAt": "2026-11-22T15:27:48+00:00",
+              "messageId": "dodtwitterbot/41424",
+              "description": "2-time U.S. Investing Champion. Author Trade Like A Stock Market Wizard and Think & Trade Like a Champion. Featured in Stock Market Wizards. Read disclosure.",
+              "text": "2-time U.S. Investing Champion. Author Trade Like A Stock Market Wizard and Think & Trade Like a Champion. Featured in Stock Market Wizards. Read disclosure."
+            }
+          ],
+          "text": " Mark Minervini markminervini 2-time U.S. Investing Champion. Author Trade Like A Stock Market Wizard and Think & Trade Like a Champion. Featured in Stock Market Wizards. Read disclosure.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Memoria",
+          "account": "memoriaagent",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Mutu 🕸️"
+          ],
+          "tgAlphas": [
+            "Mutu 🕸️"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-22T13:05:49+00:00",
+          "lastSeen": "2026-11-22T13:05:49+00:00",
+          "description": "Shared, signed memory for AI agents: store a fact once, recall it anywhere. Built for Claude, Cursor, MCP apps and agents on Robinhood Chain.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Memoria",
+              "account": "memoriaagent",
+              "alpha": "Mutu 🕸️",
+              "seenAt": "2026-11-22T13:05:49+00:00",
+              "messageId": "dodtwitterbot/41414",
+              "description": "Shared, signed memory for AI agents: store a fact once, recall it anywhere. Built for Claude, Cursor, MCP apps and agents on Robinhood Chain.",
+              "text": "Shared, signed memory for AI agents: store a fact once, recall it anywhere. Built for Claude, Cursor, MCP apps and agents on Robinhood Chain."
+            }
+          ],
+          "text": " Memoria memoriaagent Shared, signed memory for AI agents: store a fact once, recall it anywhere. Built for Claude, Cursor, MCP apps and agents on Robinhood Chain.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "oripa.xyz",
+          "account": "oripaxyz",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "speest 💎"
+          ],
+          "tgAlphas": [
+            "speest 💎"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-22T10:38:27+00:00",
+          "lastSeen": "2026-11-22T10:38:27+00:00",
+          "description": "japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "oripa.xyz",
+              "account": "oripaxyz",
+              "alpha": "speest 💎",
+              "seenAt": "2026-11-22T10:38:27+00:00",
+              "messageId": "dodtwitterbot/41410",
+              "description": "japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints.",
+              "text": "japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints."
+            }
+          ],
+          "text": " oripa.xyz oripaxyz japanese pack ripping, now onchain. @HyperliquidX\nhit = real card, yours. miss = &#036;ORIPA, also yours.\nevery miss mints.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
           "project": "Sixth Sense Labs",
           "account": "Sextus_Sensus",
           "sources": [
@@ -35401,6 +35841,41 @@
           "displayTier": "candidate",
           "avatarUrl": "",
           "dayStatus": "repeat"
+        },
+        {
+          "project": "Stage Analysis",
+          "account": "stageanalysis",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "黑客fa1r"
+          ],
+          "tgAlphas": [
+            "黑客fa1r"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-22T15:27:48+00:00",
+          "lastSeen": "2026-11-22T15:27:48+00:00",
+          "description": "Stage Analysis Screener & Market Breadth Tools\n\nStock Trading & Investing – Stan Weinstein's Stage Analysis & Wyckoff\n\n➜ Join: https://t.co/mtOKZZIXec",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Stage Analysis",
+              "account": "stageanalysis",
+              "alpha": "黑客fa1r",
+              "seenAt": "2026-11-22T15:27:48+00:00",
+              "messageId": "dodtwitterbot/41423",
+              "description": "Stage Analysis Screener & Market Breadth Tools\n\nStock Trading & Investing – Stan Weinstein's Stage Analysis & Wyckoff\n\n➜ Join: https://t.co/mtOKZZIXec",
+              "text": "Stage Analysis Screener & Market Breadth Tools\n\nStock Trading & Investing – Stan Weinstein's Stage Analysis & Wyckoff\n\n➜ Join: https://t.co/mtOKZZIXec"
+            }
+          ],
+          "text": " Stage Analysis stageanalysis Stage Analysis Screener & Market Breadth Tools\n\nStock Trading & Investing – Stan Weinstein's Stage Analysis & Wyckoff\n\n➜ Join: https://t.co/mtOKZZIXec",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
         },
         {
           "project": "thanksbowling",
@@ -66771,394 +67246,399 @@
   ],
   "reports": [
     {
+      "file": "2026-11-22-1726-telegram-update.md",
+      "title": "2026-11-22-1726-telegram-update",
+      "updatedAt": "2026-11-22T17:26:43.891Z"
+    },
+    {
       "file": "2026-11-22-0854-telegram-update.md",
       "title": "2026-11-22-0854-telegram-update",
-      "updatedAt": "2026-11-22T08:54:59.684Z"
+      "updatedAt": "2026-11-22T17:26:41.534Z"
     },
     {
       "file": "2026-11-22-0141-telegram-update.md",
       "title": "2026-11-22-0141-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.501Z"
+      "updatedAt": "2026-11-22T17:26:41.533Z"
     },
     {
       "file": "2026-11-21-2016-telegram-update.md",
       "title": "2026-11-21-2016-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.501Z"
+      "updatedAt": "2026-11-22T17:26:41.533Z"
     },
     {
       "file": "2026-11-21-1344-telegram-update.md",
       "title": "2026-11-21-1344-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.501Z"
+      "updatedAt": "2026-11-22T17:26:41.533Z"
     },
     {
       "file": "2026-11-21-0252-telegram-update.md",
       "title": "2026-11-21-0252-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.501Z"
+      "updatedAt": "2026-11-22T17:26:41.533Z"
     },
     {
       "file": "2026-11-20-0915-telegram-update.md",
       "title": "2026-11-20-0915-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.500Z"
+      "updatedAt": "2026-11-22T17:26:41.533Z"
     },
     {
       "file": "2026-11-19-2355-telegram-update.md",
       "title": "2026-11-19-2355-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.500Z"
+      "updatedAt": "2026-11-22T17:26:41.533Z"
     },
     {
       "file": "2026-11-19-1443-telegram-update.md",
       "title": "2026-11-19-1443-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.500Z"
+      "updatedAt": "2026-11-22T17:26:41.533Z"
     },
     {
       "file": "2026-11-18-1826-telegram-update.md",
       "title": "2026-11-18-1826-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.500Z"
+      "updatedAt": "2026-11-22T17:26:41.533Z"
     },
     {
       "file": "2026-11-18-0916-telegram-update.md",
       "title": "2026-11-18-0916-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.500Z"
+      "updatedAt": "2026-11-22T17:26:41.533Z"
     },
     {
       "file": "2026-11-18-0002-telegram-update.md",
       "title": "2026-11-18-0002-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.500Z"
+      "updatedAt": "2026-11-22T17:26:41.533Z"
     },
     {
       "file": "2026-11-17-1456-telegram-update.md",
       "title": "2026-11-17-1456-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.500Z"
+      "updatedAt": "2026-11-22T17:26:41.533Z"
     },
     {
       "file": "2026-11-17-0412-telegram-update.md",
       "title": "2026-11-17-0412-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.500Z"
+      "updatedAt": "2026-11-22T17:26:41.533Z"
     },
     {
       "file": "2026-11-16-1953-telegram-update.md",
       "title": "2026-11-16-1953-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.500Z"
+      "updatedAt": "2026-11-22T17:26:41.533Z"
     },
     {
       "file": "2026-11-16-0839-telegram-update.md",
       "title": "2026-11-16-0839-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.500Z"
+      "updatedAt": "2026-11-22T17:26:41.533Z"
     },
     {
       "file": "2026-11-15-2207-telegram-update.md",
       "title": "2026-11-15-2207-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.500Z"
+      "updatedAt": "2026-11-22T17:26:41.533Z"
     },
     {
       "file": "2026-11-15-1639-telegram-update.md",
       "title": "2026-11-15-1639-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.500Z"
+      "updatedAt": "2026-11-22T17:26:41.533Z"
     },
     {
       "file": "2026-11-15-0828-telegram-update.md",
       "title": "2026-11-15-0828-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.500Z"
+      "updatedAt": "2026-11-22T17:26:41.533Z"
     },
     {
       "file": "2026-11-15-0121-telegram-update.md",
       "title": "2026-11-15-0121-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.500Z"
+      "updatedAt": "2026-11-22T17:26:41.533Z"
     },
     {
       "file": "2026-11-14-2141-telegram-update.md",
       "title": "2026-11-14-2141-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.500Z"
+      "updatedAt": "2026-11-22T17:26:41.533Z"
     },
     {
       "file": "2026-11-14-1610-telegram-update.md",
       "title": "2026-11-14-1610-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.500Z"
+      "updatedAt": "2026-11-22T17:26:41.533Z"
     },
     {
       "file": "2026-11-14-0809-telegram-update.md",
       "title": "2026-11-14-0809-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.500Z"
+      "updatedAt": "2026-11-22T17:26:41.533Z"
     },
     {
       "file": "2026-11-13-2255-telegram-update.md",
       "title": "2026-11-13-2255-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.500Z"
+      "updatedAt": "2026-11-22T17:26:41.533Z"
     },
     {
       "file": "2026-11-13-1724-telegram-update.md",
       "title": "2026-11-13-1724-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.500Z"
+      "updatedAt": "2026-11-22T17:26:41.533Z"
     },
     {
       "file": "2026-11-13-0849-telegram-update.md",
       "title": "2026-11-13-0849-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.500Z"
+      "updatedAt": "2026-11-22T17:26:41.533Z"
     },
     {
       "file": "2026-11-12-2254-telegram-update.md",
       "title": "2026-11-12-2254-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.500Z"
+      "updatedAt": "2026-11-22T17:26:41.533Z"
     },
     {
       "file": "2026-11-12-1746-telegram-update.md",
       "title": "2026-11-12-1746-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.500Z"
+      "updatedAt": "2026-11-22T17:26:41.533Z"
     },
     {
       "file": "2026-11-12-0853-telegram-update.md",
       "title": "2026-11-12-0853-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.500Z"
+      "updatedAt": "2026-11-22T17:26:41.533Z"
     },
     {
       "file": "2026-11-11-2344-telegram-update.md",
       "title": "2026-11-11-2344-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.500Z"
+      "updatedAt": "2026-11-22T17:26:41.533Z"
     },
     {
       "file": "2026-11-11-1729-telegram-update.md",
       "title": "2026-11-11-1729-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.500Z"
+      "updatedAt": "2026-11-22T17:26:41.532Z"
     },
     {
       "file": "2026-11-11-0828-telegram-update.md",
       "title": "2026-11-11-0828-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.500Z"
+      "updatedAt": "2026-11-22T17:26:41.532Z"
     },
     {
       "file": "2026-11-11-0130-telegram-update.md",
       "title": "2026-11-11-0130-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.500Z"
+      "updatedAt": "2026-11-22T17:26:41.532Z"
     },
     {
       "file": "2026-11-10-2037-telegram-update.md",
       "title": "2026-11-10-2037-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.499Z"
+      "updatedAt": "2026-11-22T17:26:41.532Z"
     },
     {
       "file": "2026-11-10-1348-telegram-update.md",
       "title": "2026-11-10-1348-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.499Z"
+      "updatedAt": "2026-11-22T17:26:41.532Z"
     },
     {
       "file": "2026-11-10-0351-telegram-update.md",
       "title": "2026-11-10-0351-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.499Z"
+      "updatedAt": "2026-11-22T17:26:41.532Z"
     },
     {
       "file": "2026-11-09-2013-telegram-update.md",
       "title": "2026-11-09-2013-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.499Z"
+      "updatedAt": "2026-11-22T17:26:41.532Z"
     },
     {
       "file": "2026-11-09-0844-telegram-update.md",
       "title": "2026-11-09-0844-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.499Z"
+      "updatedAt": "2026-11-22T17:26:41.532Z"
     },
     {
       "file": "2026-11-08-2123-telegram-update.md",
       "title": "2026-11-08-2123-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.499Z"
+      "updatedAt": "2026-11-22T17:26:41.532Z"
     },
     {
       "file": "2026-11-08-1623-telegram-update.md",
       "title": "2026-11-08-1623-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.499Z"
+      "updatedAt": "2026-11-22T17:26:41.532Z"
     },
     {
       "file": "2026-11-08-0804-telegram-update.md",
       "title": "2026-11-08-0804-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.499Z"
+      "updatedAt": "2026-11-22T17:26:41.532Z"
     },
     {
       "file": "2026-11-07-2106-telegram-update.md",
       "title": "2026-11-07-2106-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.499Z"
+      "updatedAt": "2026-11-22T17:26:41.532Z"
     },
     {
       "file": "2026-11-07-1556-telegram-update.md",
       "title": "2026-11-07-1556-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.499Z"
+      "updatedAt": "2026-11-22T17:26:41.532Z"
     },
     {
       "file": "2026-11-07-0751-telegram-update.md",
       "title": "2026-11-07-0751-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.499Z"
+      "updatedAt": "2026-11-22T17:26:41.532Z"
     },
     {
       "file": "2026-11-06-2226-telegram-update.md",
       "title": "2026-11-06-2226-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.499Z"
+      "updatedAt": "2026-11-22T17:26:41.532Z"
     },
     {
       "file": "2026-11-06-1658-telegram-update.md",
       "title": "2026-11-06-1658-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.499Z"
+      "updatedAt": "2026-11-22T17:26:41.532Z"
     },
     {
       "file": "2026-11-06-0835-telegram-update.md",
       "title": "2026-11-06-0835-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.499Z"
+      "updatedAt": "2026-11-22T17:26:41.532Z"
     },
     {
       "file": "2026-11-05-2256-telegram-update.md",
       "title": "2026-11-05-2256-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.499Z"
+      "updatedAt": "2026-11-22T17:26:41.532Z"
     },
     {
       "file": "2026-11-05-1742-telegram-update.md",
       "title": "2026-11-05-1742-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.499Z"
+      "updatedAt": "2026-11-22T17:26:41.532Z"
     },
     {
       "file": "2026-11-05-0836-telegram-update.md",
       "title": "2026-11-05-0836-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.499Z"
+      "updatedAt": "2026-11-22T17:26:41.532Z"
     },
     {
       "file": "2026-11-04-2255-telegram-update.md",
       "title": "2026-11-04-2255-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.499Z"
+      "updatedAt": "2026-11-22T17:26:41.532Z"
     },
     {
       "file": "2026-11-04-1737-telegram-update.md",
       "title": "2026-11-04-1737-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.499Z"
+      "updatedAt": "2026-11-22T17:26:41.532Z"
     },
     {
       "file": "2026-11-04-0810-telegram-update.md",
       "title": "2026-11-04-0810-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.499Z"
+      "updatedAt": "2026-11-22T17:26:41.532Z"
     },
     {
       "file": "2026-11-04-0143-telegram-update.md",
       "title": "2026-11-04-0143-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.499Z"
+      "updatedAt": "2026-11-22T17:26:41.532Z"
     },
     {
       "file": "2026-11-03-2018-telegram-update.md",
       "title": "2026-11-03-2018-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.499Z"
+      "updatedAt": "2026-11-22T17:26:41.532Z"
     },
     {
       "file": "2026-11-03-1302-telegram-update.md",
       "title": "2026-11-03-1302-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.499Z"
+      "updatedAt": "2026-11-22T17:26:41.531Z"
     },
     {
       "file": "2026-11-03-0306-telegram-update.md",
       "title": "2026-11-03-0306-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.499Z"
+      "updatedAt": "2026-11-22T17:26:41.531Z"
     },
     {
       "file": "2026-11-02-1950-telegram-update.md",
       "title": "2026-11-02-1950-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.499Z"
+      "updatedAt": "2026-11-22T17:26:41.531Z"
     },
     {
       "file": "2026-11-02-0826-telegram-update.md",
       "title": "2026-11-02-0826-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.499Z"
+      "updatedAt": "2026-11-22T17:26:41.531Z"
     },
     {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.499Z"
+      "updatedAt": "2026-11-22T17:26:41.531Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.499Z"
+      "updatedAt": "2026-11-22T17:26:41.531Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.499Z"
+      "updatedAt": "2026-11-22T17:26:41.531Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.499Z"
+      "updatedAt": "2026-11-22T17:26:41.531Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.499Z"
+      "updatedAt": "2026-11-22T17:26:41.531Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.499Z"
+      "updatedAt": "2026-11-22T17:26:41.531Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.499Z"
+      "updatedAt": "2026-11-22T17:26:41.531Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.499Z"
+      "updatedAt": "2026-11-22T17:26:41.531Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.499Z"
+      "updatedAt": "2026-11-22T17:26:41.531Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.499Z"
+      "updatedAt": "2026-11-22T17:26:41.531Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.499Z"
+      "updatedAt": "2026-11-22T17:26:41.531Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.499Z"
+      "updatedAt": "2026-11-22T17:26:41.531Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.499Z"
+      "updatedAt": "2026-11-22T17:26:41.531Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.499Z"
+      "updatedAt": "2026-11-22T17:26:41.531Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.499Z"
+      "updatedAt": "2026-11-22T17:26:41.531Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.499Z"
+      "updatedAt": "2026-11-22T17:26:41.531Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.499Z"
+      "updatedAt": "2026-11-22T17:26:41.531Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.499Z"
+      "updatedAt": "2026-11-22T17:26:41.531Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-22T08:54:53.499Z"
+      "updatedAt": "2026-11-22T17:26:41.531Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-22T08:54:53.498Z"
+      "updatedAt": "2026-11-22T17:26:41.531Z"
     }
   ]
 }
