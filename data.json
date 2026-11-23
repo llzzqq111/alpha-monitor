@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-23T09:52:29.923Z",
+  "generatedAt": "2026-11-23T21:44:21.287Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 41487,
-    "lastMessageAt": "2026-11-23T09:19:30+00:00",
-    "lastCheckedAt": "2026-11-23T09:52:29.684Z",
-    "previousMessageId": 41433,
+    "lastMessageId": 41544,
+    "lastMessageAt": "2026-11-23T21:33:11+00:00",
+    "lastCheckedAt": "2026-11-23T21:44:21.027Z",
+    "previousMessageId": 41487,
     "pagesRead": 3,
-    "messagesRead": 54,
-    "newProjectRecords": 20,
+    "messagesRead": 57,
+    "newProjectRecords": 14,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 1045,
+    "telegramRows": 1059,
     "xRows": 0,
-    "projects": 646,
+    "projects": 655,
     "crossSource": 0
   },
   "projects": [
@@ -8620,6 +8620,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "Flop Labs",
+      "account": "flop_labs",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "八九",
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "八九",
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-11T07:57:04+00:00",
+      "lastSeen": "2026-11-23T14:08:28+00:00",
+      "description": "Building the currency for the agentic economy.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Flop Labs",
+          "account": "flop_labs",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-11T07:57:04+00:00",
+          "messageId": "dodtwitterbot/40608",
+          "description": "Building the currency for the agentic economy.",
+          "text": "Building the currency for the agentic economy."
+        },
+        {
+          "source": "TG",
+          "project": "Flop Labs",
+          "account": "flop_labs",
+          "alpha": "八九",
+          "seenAt": "2026-11-23T14:08:28+00:00",
+          "messageId": "dodtwitterbot/41504",
+          "description": "Building the currency for the agentic economy.",
+          "text": "Building the currency for the agentic economy."
+        }
+      ],
+      "text": " Flop Labs flop_labs Building the currency for the agentic economy. Flop Labs flop_labs Building the currency for the agentic economy.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Flutch",
       "account": "Flutchdotfun",
       "sources": [
@@ -9121,6 +9167,52 @@
         }
       ],
       "text": " IMPRINT imprint_bnb Genesis token event on BNB Chain. Only .ai agents can join. The final canvas becomes the &#036;IMPRINT logo, shared by every agent who joined it. IMPRINT imprint_bnb Genesis token event on BNB Chain. Only .ai agents can join. The final canvas becomes the &#036;IMPRINT logo, shared by every agent who joined it.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Index Industries",
+      "account": "Index_inds",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka",
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "lakka",
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-10T21:42:48+00:00",
+      "lastSeen": "2026-11-23T12:19:52+00:00",
+      "description": "Index Industries creates infrastructure that reshapes how the world accesses and invests in real estate.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Index Industries",
+          "account": "Index_inds",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-10T21:42:48+00:00",
+          "messageId": "dodtwitterbot/40577",
+          "description": "Index Industries creates infrastructure that reshapes how the world accesses and invests in real estate.",
+          "text": "Index Industries creates infrastructure that reshapes how the world accesses and invests in real estate."
+        },
+        {
+          "source": "TG",
+          "project": "Index Industries",
+          "account": "Index_inds",
+          "alpha": "lakka",
+          "seenAt": "2026-11-23T12:19:52+00:00",
+          "messageId": "dodtwitterbot/41501",
+          "description": "Index Industries creates infrastructure that reshapes how the world accesses and invests in real estate.",
+          "text": "Index Industries creates infrastructure that reshapes how the world accesses and invests in real estate."
+        }
+      ],
+      "text": " Index Industries Index_inds Index Industries creates infrastructure that reshapes how the world accesses and invests in real estate. Index Industries Index_inds Index Industries creates infrastructure that reshapes how the world accesses and invests in real estate.",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -10966,6 +11058,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "Rostrum",
+      "account": "rostrumsale",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Mutu 🕸️",
+        "lakka"
+      ],
+      "tgAlphas": [
+        "Mutu 🕸️",
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-23T19:33:45+00:00",
+      "lastSeen": "2026-11-23T19:38:51+00:00",
+      "description": "The sale room for Clanker launches. Curated weekly sales on Base. Every lot comes with an estimate and a guarantee",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Rostrum",
+          "account": "rostrumsale",
+          "alpha": "lakka",
+          "seenAt": "2026-11-23T19:33:45+00:00",
+          "messageId": "dodtwitterbot/41534",
+          "description": "The sale room for Clanker launches. Curated weekly sales on Base. Every lot comes with an estimate and a guarantee",
+          "text": "The sale room for Clanker launches. Curated weekly sales on Base. Every lot comes with an estimate and a guarantee"
+        },
+        {
+          "source": "TG",
+          "project": "Rostrum",
+          "account": "rostrumsale",
+          "alpha": "Mutu 🕸️",
+          "seenAt": "2026-11-23T19:38:51+00:00",
+          "messageId": "dodtwitterbot/41535",
+          "description": "The sale room for Clanker launches. Curated weekly sales on Base. Every lot comes with an estimate and a guarantee",
+          "text": "The sale room for Clanker launches. Curated weekly sales on Base. Every lot comes with an estimate and a guarantee"
+        }
+      ],
+      "text": " Rostrum rostrumsale The sale room for Clanker launches. Curated weekly sales on Base. Every lot comes with an estimate and a guarantee Rostrum rostrumsale The sale room for Clanker launches. Curated weekly sales on Base. Every lot comes with an estimate and a guarantee",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Rovya",
       "account": "Rovya_org",
       "sources": [
@@ -11472,6 +11610,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "Sunny",
+      "account": "Sunnyklown",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Mutu 🕸️",
+        "lakka"
+      ],
+      "tgAlphas": [
+        "Mutu 🕸️",
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-23T20:23:00+00:00",
+      "lastSeen": "2026-11-23T20:45:06+00:00",
+      "description": "Dev at the @circuslaunchpad 🤡\n\nThe admin launchpad to end all launchpads",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Sunny",
+          "account": "Sunnyklown",
+          "alpha": "Mutu 🕸️",
+          "seenAt": "2026-11-23T20:23:00+00:00",
+          "messageId": "dodtwitterbot/41540",
+          "description": "Dev at the @circuslaunchpad 🤡\n\nThe admin launchpad to end all launchpads",
+          "text": "Dev at the @circuslaunchpad 🤡\n\nThe admin launchpad to end all launchpads"
+        },
+        {
+          "source": "TG",
+          "project": "Sunny",
+          "account": "Sunnyklown",
+          "alpha": "lakka",
+          "seenAt": "2026-11-23T20:45:06+00:00",
+          "messageId": "dodtwitterbot/41542",
+          "description": "Dev at the @circuslaunchpad 🤡\n\nThe admin launchpad to end all launchpads",
+          "text": "Dev at the @circuslaunchpad 🤡\n\nThe admin launchpad to end all launchpads"
+        }
+      ],
+      "text": " Sunny Sunnyklown Dev at the @circuslaunchpad 🤡\n\nThe admin launchpad to end all launchpads Sunny Sunnyklown Dev at the @circuslaunchpad 🤡\n\nThe admin launchpad to end all launchpads",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Syntropic Agent",
       "account": "SyntropicAgent",
       "sources": [
@@ -11513,6 +11697,52 @@
         }
       ],
       "text": " Syntropic Agent SyntropicAgent An agent, developing & powering Real World Flywheels via Syntropic Farming, leveraging the @KokonutNetwork Framework. Syntropic Agent SyntropicAgent An agent, developing & powering Real World Flywheels via Syntropic Farming, leveraging the @KokonutNetwork Framework.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "The Circus",
+      "account": "CircusLaunchpad",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Mutu 🕸️",
+        "lakka"
+      ],
+      "tgAlphas": [
+        "Mutu 🕸️",
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-23T20:23:00+00:00",
+      "lastSeen": "2026-11-23T20:29:47+00:00",
+      "description": "The Last Launchpad\n\nManaged by @sunnyklown",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "The Circus",
+          "account": "CircusLaunchpad",
+          "alpha": "Mutu 🕸️",
+          "seenAt": "2026-11-23T20:23:00+00:00",
+          "messageId": "dodtwitterbot/41539",
+          "description": "The Last Launchpad\n\nManaged by @sunnyklown",
+          "text": "The Last Launchpad\n\nManaged by @sunnyklown"
+        },
+        {
+          "source": "TG",
+          "project": "The Circus",
+          "account": "CircusLaunchpad",
+          "alpha": "lakka",
+          "seenAt": "2026-11-23T20:29:47+00:00",
+          "messageId": "dodtwitterbot/41541",
+          "description": "The Last Launchpad\n\nManaged by @sunnyklown",
+          "text": "The Last Launchpad\n\nManaged by @sunnyklown"
+        }
+      ],
+      "text": " The Circus CircusLaunchpad The Last Launchpad\n\nManaged by @sunnyklown The Circus CircusLaunchpad The Last Launchpad\n\nManaged by @sunnyklown",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -12251,6 +12481,40 @@
       "text": " 币安分红 BiAnFenHong 持币即享交易分红\nAgentID 首发 · 储备曲线 · BNB 分红\n无需质押 按持仓记账 自主领取 币安分红 BiAnFenHong 持币即享交易分红\nAgentID 首发 · 储备曲线 · BNB 分红\n无需质押 按持仓记账 自主领取",
       "score": 4,
       "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "&#036;GTA | Gay Transaction Association",
+      "account": "GTAonBaseChain",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka"
+      ],
+      "tgAlphas": [
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-23T19:31:46+00:00",
+      "lastSeen": "2026-11-23T19:31:46+00:00",
+      "description": "It takes two.\n\n&#036;GTA on Base, launching on https://t.co/6Yq45fdUjP .\n\nEverybody's welcome in this Vice City. 🌴\n\nPortal: https://t.co/ENF3SSUyvE",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "&#036;GTA | Gay Transaction Association",
+          "account": "GTAonBaseChain",
+          "alpha": "lakka",
+          "seenAt": "2026-11-23T19:31:46+00:00",
+          "messageId": "dodtwitterbot/41533",
+          "description": "It takes two.\n\n&#036;GTA on Base, launching on https://t.co/6Yq45fdUjP .\n\nEverybody's welcome in this Vice City. 🌴\n\nPortal: https://t.co/ENF3SSUyvE",
+          "text": "It takes two.\n\n&#036;GTA on Base, launching on https://t.co/6Yq45fdUjP .\n\nEverybody's welcome in this Vice City. 🌴\n\nPortal: https://t.co/ENF3SSUyvE"
+        }
+      ],
+      "text": " &#036;GTA | Gay Transaction Association GTAonBaseChain It takes two.\n\n&#036;GTA on Base, launching on https://t.co/6Yq45fdUjP .\n\nEverybody's welcome in this Vice City. 🌴\n\nPortal: https://t.co/ENF3SSUyvE",
+      "score": 2,
+      "displayTier": "candidate",
       "avatarUrl": ""
     },
     {
@@ -15314,6 +15578,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "druxamb•base•eth",
+      "account": "DruxAMB",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka"
+      ],
+      "tgAlphas": [
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-23T13:26:39+00:00",
+      "lastSeen": "2026-11-23T13:26:39+00:00",
+      "description": "raining @'stocksrain\ngaming @iceandwatr\n•\nI looove building on base - million dollar with @... soooon",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "druxamb•base•eth",
+          "account": "DruxAMB",
+          "alpha": "lakka",
+          "seenAt": "2026-11-23T13:26:39+00:00",
+          "messageId": "dodtwitterbot/41503",
+          "description": "raining @'stocksrain\ngaming @iceandwatr\n•\nI looove building on base - million dollar with @... soooon",
+          "text": "raining @'stocksrain\ngaming @iceandwatr\n•\nI looove building on base - million dollar with @... soooon"
+        }
+      ],
+      "text": " druxamb•base•eth DruxAMB raining @'stocksrain\ngaming @iceandwatr\n•\nI looove building on base - million dollar with @... soooon",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "DyDx.fun",
       "account": "DyDxfun",
       "sources": [
@@ -16504,40 +16802,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Flop Labs",
-      "account": "flop_labs",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "蛋总"
-      ],
-      "tgAlphas": [
-        "蛋总"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-11T07:57:04+00:00",
-      "lastSeen": "2026-11-11T07:57:04+00:00",
-      "description": "Building the currency for the agentic economy.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Flop Labs",
-          "account": "flop_labs",
-          "alpha": "蛋总",
-          "seenAt": "2026-11-11T07:57:04+00:00",
-          "messageId": "dodtwitterbot/40608",
-          "description": "Building the currency for the agentic economy.",
-          "text": "Building the currency for the agentic economy."
-        }
-      ],
-      "text": " Flop Labs flop_labs Building the currency for the agentic economy.",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
       "project": "Flora",
       "account": "FloraMontra",
       "sources": [
@@ -16946,6 +17210,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Genera Network",
+      "account": "GeneraNetwork",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka"
+      ],
+      "tgAlphas": [
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-23T21:26:57+00:00",
+      "lastSeen": "2026-11-23T21:26:57+00:00",
+      "description": "An AI civilization where autonomous agents build and produce blocks through Proof of Productive Activity (PoPA)",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Genera Network",
+          "account": "GeneraNetwork",
+          "alpha": "lakka",
+          "seenAt": "2026-11-23T21:26:57+00:00",
+          "messageId": "dodtwitterbot/41543",
+          "description": "An AI civilization where autonomous agents build and produce blocks through Proof of Productive Activity (PoPA)",
+          "text": "An AI civilization where autonomous agents build and produce blocks through Proof of Productive Activity (PoPA)"
+        }
+      ],
+      "text": " Genera Network GeneraNetwork An AI civilization where autonomous agents build and produce blocks through Proof of Productive Activity (PoPA)",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "ghostonelysium",
       "account": "ghostonelysium",
       "sources": [
@@ -16975,6 +17273,40 @@
         }
       ],
       "text": " ghostonelysium ghostonelysium Elysium's first protocol. Private balances. Private perps on Hyperliquid. Leave no trace. &#036;GHOST",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "GIWA Alpha",
+      "account": "giwaalpha",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-23T19:30:21+00:00",
+      "lastSeen": "2026-11-23T19:30:21+00:00",
+      "description": "GIWA Alpha: News, updates, and onchain intel on @GIWA_by_Upbit",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "GIWA Alpha",
+          "account": "giwaalpha",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-23T19:30:21+00:00",
+          "messageId": "dodtwitterbot/41532",
+          "description": "GIWA Alpha: News, updates, and onchain intel on @GIWA_by_Upbit",
+          "text": "GIWA Alpha: News, updates, and onchain intel on @GIWA_by_Upbit"
+        }
+      ],
+      "text": " GIWA Alpha giwaalpha GIWA Alpha: News, updates, and onchain intel on @GIWA_by_Upbit",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -18408,40 +18740,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Index Industries",
-      "account": "Index_inds",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "unsynned"
-      ],
-      "tgAlphas": [
-        "unsynned"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-10T21:42:48+00:00",
-      "lastSeen": "2026-11-10T21:42:48+00:00",
-      "description": "Index Industries creates infrastructure that reshapes how the world accesses and invests in real estate.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Index Industries",
-          "account": "Index_inds",
-          "alpha": "unsynned",
-          "seenAt": "2026-11-10T21:42:48+00:00",
-          "messageId": "dodtwitterbot/40577",
-          "description": "Index Industries creates infrastructure that reshapes how the world accesses and invests in real estate.",
-          "text": "Index Industries creates infrastructure that reshapes how the world accesses and invests in real estate."
-        }
-      ],
-      "text": " Index Industries Index_inds Index Industries creates infrastructure that reshapes how the world accesses and invests in real estate.",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
       "project": "Index Maxi",
       "account": "IndexMaxi",
       "sources": [
@@ -19729,6 +20027,40 @@
         }
       ],
       "text": " Mark Minervini markminervini 2-time U.S. Investing Champion. Author Trade Like A Stock Market Wizard and Think & Trade Like a Champion. Featured in Stock Market Wizards. Read disclosure.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Markov Robotics",
+      "account": "markovrobotics",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-23T10:57:25+00:00",
+      "lastSeen": "2026-11-23T10:57:25+00:00",
+      "description": "0-shot dexterity",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Markov Robotics",
+          "account": "markovrobotics",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-23T10:57:25+00:00",
+          "messageId": "dodtwitterbot/41493",
+          "description": "0-shot dexterity",
+          "text": "0-shot dexterity"
+        }
+      ],
+      "text": " Markov Robotics markovrobotics 0-shot dexterity",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -24013,6 +24345,40 @@
         }
       ],
       "text": " StinkyPenguin 臭企鹅 StinkyPenguinL0 I am my penguin and my penguin is me.\n· *Rookery* launchpad burns 0.5% of every trade into the penguin\n· Pad for: LayerZero / Giwa / XLM 👈",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Stox Credit",
+      "account": "StoxCredit",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka"
+      ],
+      "tgAlphas": [
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-23T11:12:14+00:00",
+      "lastSeen": "2026-11-23T11:12:14+00:00",
+      "description": "Borrow USDC using tokenized stocks as collateral on @base",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Stox Credit",
+          "account": "StoxCredit",
+          "alpha": "lakka",
+          "seenAt": "2026-11-23T11:12:14+00:00",
+          "messageId": "dodtwitterbot/41494",
+          "description": "Borrow USDC using tokenized stocks as collateral on @base",
+          "text": "Borrow USDC using tokenized stocks as collateral on @base"
+        }
+      ],
+      "text": " Stox Credit StoxCredit Borrow USDC using tokenized stocks as collateral on @base",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -29056,6 +29422,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "Flop Labs",
+      "x_account": "flop_labs",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "八九",
+        "蛋总"
+      ],
+      "description": "Building the currency for the agentic economy.",
+      "first_seen_utc": "2026-11-11T07:57:04+00:00",
+      "last_seen_utc": "2026-11-23T14:08:28+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Flutch",
       "x_account": "Flutchdotfun",
       "total_mentions": 2,
@@ -29217,6 +29598,21 @@
       "description": "Genesis token event on BNB Chain. Only .ai agents can join. The final canvas becomes the &#036;IMPRINT logo, shared by every agent who joined it.",
       "first_seen_utc": "2026-11-06T13:59:25+00:00",
       "last_seen_utc": "2026-11-10T18:14:48+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Index Industries",
+      "x_account": "Index_inds",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "lakka",
+        "unsynned"
+      ],
+      "description": "Index Industries creates infrastructure that reshapes how the world accesses and invests in real estate.",
+      "first_seen_utc": "2026-11-10T21:42:48+00:00",
+      "last_seen_utc": "2026-11-23T12:19:52+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -29821,6 +30217,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "Rostrum",
+      "x_account": "rostrumsale",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "Mutu 🕸️",
+        "lakka"
+      ],
+      "description": "The sale room for Clanker launches. Curated weekly sales on Base. Every lot comes with an estimate and a guarantee",
+      "first_seen_utc": "2026-11-23T19:33:45+00:00",
+      "last_seen_utc": "2026-11-23T19:38:51+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Rovya",
       "x_account": "Rovya_org",
       "total_mentions": 2,
@@ -29986,6 +30397,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "Sunny",
+      "x_account": "Sunnyklown",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "Mutu 🕸️",
+        "lakka"
+      ],
+      "description": "Dev at the @circuslaunchpad 🤡\n\nThe admin launchpad to end all launchpads",
+      "first_seen_utc": "2026-11-23T20:23:00+00:00",
+      "last_seen_utc": "2026-11-23T20:45:06+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Syntropic Agent",
       "x_account": "SyntropicAgent",
       "total_mentions": 2,
@@ -29997,6 +30423,21 @@
       "description": "An agent, developing & powering Real World Flywheels via Syntropic Farming, leveraging the @KokonutNetwork Framework.",
       "first_seen_utc": "2026-11-03T21:43:31+00:00",
       "last_seen_utc": "2026-11-04T02:48:46+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "The Circus",
+      "x_account": "CircusLaunchpad",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "Mutu 🕸️",
+        "lakka"
+      ],
+      "description": "The Last Launchpad\n\nManaged by @sunnyklown",
+      "first_seen_utc": "2026-11-23T20:23:00+00:00",
+      "last_seen_utc": "2026-11-23T20:29:47+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -30237,6 +30678,20 @@
       "description": "持币即享交易分红\nAgentID 首发 · 储备曲线 · BNB 分红\n无需质押 按持仓记账 自主领取",
       "first_seen_utc": "2026-11-01T14:04:45+00:00",
       "last_seen_utc": "2026-11-01T14:21:55+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "&#036;GTA | Gay Transaction Association",
+      "x_account": "GTAonBaseChain",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "lakka"
+      ],
+      "description": "It takes two.\n\n&#036;GTA on Base, launching on https://t.co/6Yq45fdUjP .\n\nEverybody's welcome in this Vice City. 🌴\n\nPortal: https://t.co/ENF3SSUyvE",
+      "first_seen_utc": "2026-11-23T19:31:46+00:00",
+      "last_seen_utc": "2026-11-23T19:31:46+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -31501,6 +31956,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "druxamb•base•eth",
+      "x_account": "DruxAMB",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "lakka"
+      ],
+      "description": "raining @'stocksrain\ngaming @iceandwatr\n•\nI looove building on base - million dollar with @... soooon",
+      "first_seen_utc": "2026-11-23T13:26:39+00:00",
+      "last_seen_utc": "2026-11-23T13:26:39+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "DyDx.fun",
       "x_account": "DyDxfun",
       "total_mentions": 1,
@@ -31991,20 +32460,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Flop Labs",
-      "x_account": "flop_labs",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "蛋总"
-      ],
-      "description": "Building the currency for the agentic economy.",
-      "first_seen_utc": "2026-11-11T07:57:04+00:00",
-      "last_seen_utc": "2026-11-11T07:57:04+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "Flora",
       "x_account": "FloraMontra",
       "total_mentions": 1,
@@ -32173,6 +32628,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Genera Network",
+      "x_account": "GeneraNetwork",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "lakka"
+      ],
+      "description": "An AI civilization where autonomous agents build and produce blocks through Proof of Productive Activity (PoPA)",
+      "first_seen_utc": "2026-11-23T21:26:57+00:00",
+      "last_seen_utc": "2026-11-23T21:26:57+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "ghostonelysium",
       "x_account": "ghostonelysium",
       "total_mentions": 1,
@@ -32183,6 +32652,20 @@
       "description": "Elysium's first protocol. Private balances. Private perps on Hyperliquid. Leave no trace. &#036;GHOST",
       "first_seen_utc": "2026-11-06T07:38:02+00:00",
       "last_seen_utc": "2026-11-06T07:38:02+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "GIWA Alpha",
+      "x_account": "giwaalpha",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "GIWA Alpha: News, updates, and onchain intel on @GIWA_by_Upbit",
+      "first_seen_utc": "2026-11-23T19:30:21+00:00",
+      "last_seen_utc": "2026-11-23T19:30:21+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -32775,20 +33258,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Index Industries",
-      "x_account": "Index_inds",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "unsynned"
-      ],
-      "description": "Index Industries creates infrastructure that reshapes how the world accesses and invests in real estate.",
-      "first_seen_utc": "2026-11-10T21:42:48+00:00",
-      "last_seen_utc": "2026-11-10T21:42:48+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "Index Maxi",
       "x_account": "IndexMaxi",
       "total_mentions": 1,
@@ -33317,6 +33786,20 @@
       "description": "2-time U.S. Investing Champion. Author Trade Like A Stock Market Wizard and Think & Trade Like a Champion. Featured in Stock Market Wizards. Read disclosure.",
       "first_seen_utc": "2026-11-22T15:27:48+00:00",
       "last_seen_utc": "2026-11-22T15:27:48+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Markov Robotics",
+      "x_account": "markovrobotics",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "unsynned"
+      ],
+      "description": "0-shot dexterity",
+      "first_seen_utc": "2026-11-23T10:57:25+00:00",
+      "last_seen_utc": "2026-11-23T10:57:25+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -35085,6 +35568,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Stox Credit",
+      "x_account": "StoxCredit",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "lakka"
+      ],
+      "description": "Borrow USDC using tokenized stocks as collateral on @base",
+      "first_seen_utc": "2026-11-23T11:12:14+00:00",
+      "last_seen_utc": "2026-11-23T11:12:14+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Stroopy XLM Mascot",
       "x_account": "StroopyMascot",
       "total_mentions": 1,
@@ -36221,14 +36718,272 @@
   ],
   "daily": [
     {
-      "date": "2026-11-23",
-      "totalRows": 21,
-      "projectCount": 21,
-      "focusCount": 0,
-      "candidateCount": 21,
+      "date": "2026-11-24",
+      "totalRows": 9,
+      "projectCount": 6,
+      "focusCount": 3,
+      "candidateCount": 3,
       "crossSource": 0,
-      "newCount": 12,
-      "repeatCount": 9,
+      "newCount": 6,
+      "repeatCount": 0,
+      "projects": [
+        {
+          "project": "Rostrum",
+          "account": "rostrumsale",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Mutu 🕸️",
+            "lakka"
+          ],
+          "tgAlphas": [
+            "Mutu 🕸️",
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-11-23T19:33:45+00:00",
+          "lastSeen": "2026-11-23T19:38:51+00:00",
+          "description": "The sale room for Clanker launches. Curated weekly sales on Base. Every lot comes with an estimate and a guarantee",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Rostrum",
+              "account": "rostrumsale",
+              "alpha": "lakka",
+              "seenAt": "2026-11-23T19:33:45+00:00",
+              "messageId": "dodtwitterbot/41534",
+              "description": "The sale room for Clanker launches. Curated weekly sales on Base. Every lot comes with an estimate and a guarantee",
+              "text": "The sale room for Clanker launches. Curated weekly sales on Base. Every lot comes with an estimate and a guarantee"
+            },
+            {
+              "source": "TG",
+              "project": "Rostrum",
+              "account": "rostrumsale",
+              "alpha": "Mutu 🕸️",
+              "seenAt": "2026-11-23T19:38:51+00:00",
+              "messageId": "dodtwitterbot/41535",
+              "description": "The sale room for Clanker launches. Curated weekly sales on Base. Every lot comes with an estimate and a guarantee",
+              "text": "The sale room for Clanker launches. Curated weekly sales on Base. Every lot comes with an estimate and a guarantee"
+            }
+          ],
+          "text": " Rostrum rostrumsale The sale room for Clanker launches. Curated weekly sales on Base. Every lot comes with an estimate and a guarantee Rostrum rostrumsale The sale room for Clanker launches. Curated weekly sales on Base. Every lot comes with an estimate and a guarantee",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Sunny",
+          "account": "Sunnyklown",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Mutu 🕸️",
+            "lakka"
+          ],
+          "tgAlphas": [
+            "Mutu 🕸️",
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-11-23T20:23:00+00:00",
+          "lastSeen": "2026-11-23T20:45:06+00:00",
+          "description": "Dev at the @circuslaunchpad 🤡\n\nThe admin launchpad to end all launchpads",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Sunny",
+              "account": "Sunnyklown",
+              "alpha": "Mutu 🕸️",
+              "seenAt": "2026-11-23T20:23:00+00:00",
+              "messageId": "dodtwitterbot/41540",
+              "description": "Dev at the @circuslaunchpad 🤡\n\nThe admin launchpad to end all launchpads",
+              "text": "Dev at the @circuslaunchpad 🤡\n\nThe admin launchpad to end all launchpads"
+            },
+            {
+              "source": "TG",
+              "project": "Sunny",
+              "account": "Sunnyklown",
+              "alpha": "lakka",
+              "seenAt": "2026-11-23T20:45:06+00:00",
+              "messageId": "dodtwitterbot/41542",
+              "description": "Dev at the @circuslaunchpad 🤡\n\nThe admin launchpad to end all launchpads",
+              "text": "Dev at the @circuslaunchpad 🤡\n\nThe admin launchpad to end all launchpads"
+            }
+          ],
+          "text": " Sunny Sunnyklown Dev at the @circuslaunchpad 🤡\n\nThe admin launchpad to end all launchpads Sunny Sunnyklown Dev at the @circuslaunchpad 🤡\n\nThe admin launchpad to end all launchpads",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "The Circus",
+          "account": "CircusLaunchpad",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Mutu 🕸️",
+            "lakka"
+          ],
+          "tgAlphas": [
+            "Mutu 🕸️",
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-11-23T20:23:00+00:00",
+          "lastSeen": "2026-11-23T20:29:47+00:00",
+          "description": "The Last Launchpad\n\nManaged by @sunnyklown",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "The Circus",
+              "account": "CircusLaunchpad",
+              "alpha": "Mutu 🕸️",
+              "seenAt": "2026-11-23T20:23:00+00:00",
+              "messageId": "dodtwitterbot/41539",
+              "description": "The Last Launchpad\n\nManaged by @sunnyklown",
+              "text": "The Last Launchpad\n\nManaged by @sunnyklown"
+            },
+            {
+              "source": "TG",
+              "project": "The Circus",
+              "account": "CircusLaunchpad",
+              "alpha": "lakka",
+              "seenAt": "2026-11-23T20:29:47+00:00",
+              "messageId": "dodtwitterbot/41541",
+              "description": "The Last Launchpad\n\nManaged by @sunnyklown",
+              "text": "The Last Launchpad\n\nManaged by @sunnyklown"
+            }
+          ],
+          "text": " The Circus CircusLaunchpad The Last Launchpad\n\nManaged by @sunnyklown The Circus CircusLaunchpad The Last Launchpad\n\nManaged by @sunnyklown",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "&#036;GTA | Gay Transaction Association",
+          "account": "GTAonBaseChain",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-23T19:31:46+00:00",
+          "lastSeen": "2026-11-23T19:31:46+00:00",
+          "description": "It takes two.\n\n&#036;GTA on Base, launching on https://t.co/6Yq45fdUjP .\n\nEverybody's welcome in this Vice City. 🌴\n\nPortal: https://t.co/ENF3SSUyvE",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "&#036;GTA | Gay Transaction Association",
+              "account": "GTAonBaseChain",
+              "alpha": "lakka",
+              "seenAt": "2026-11-23T19:31:46+00:00",
+              "messageId": "dodtwitterbot/41533",
+              "description": "It takes two.\n\n&#036;GTA on Base, launching on https://t.co/6Yq45fdUjP .\n\nEverybody's welcome in this Vice City. 🌴\n\nPortal: https://t.co/ENF3SSUyvE",
+              "text": "It takes two.\n\n&#036;GTA on Base, launching on https://t.co/6Yq45fdUjP .\n\nEverybody's welcome in this Vice City. 🌴\n\nPortal: https://t.co/ENF3SSUyvE"
+            }
+          ],
+          "text": " &#036;GTA | Gay Transaction Association GTAonBaseChain It takes two.\n\n&#036;GTA on Base, launching on https://t.co/6Yq45fdUjP .\n\nEverybody's welcome in this Vice City. 🌴\n\nPortal: https://t.co/ENF3SSUyvE",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Genera Network",
+          "account": "GeneraNetwork",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-23T21:26:57+00:00",
+          "lastSeen": "2026-11-23T21:26:57+00:00",
+          "description": "An AI civilization where autonomous agents build and produce blocks through Proof of Productive Activity (PoPA)",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Genera Network",
+              "account": "GeneraNetwork",
+              "alpha": "lakka",
+              "seenAt": "2026-11-23T21:26:57+00:00",
+              "messageId": "dodtwitterbot/41543",
+              "description": "An AI civilization where autonomous agents build and produce blocks through Proof of Productive Activity (PoPA)",
+              "text": "An AI civilization where autonomous agents build and produce blocks through Proof of Productive Activity (PoPA)"
+            }
+          ],
+          "text": " Genera Network GeneraNetwork An AI civilization where autonomous agents build and produce blocks through Proof of Productive Activity (PoPA)",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "GIWA Alpha",
+          "account": "giwaalpha",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-23T19:30:21+00:00",
+          "lastSeen": "2026-11-23T19:30:21+00:00",
+          "description": "GIWA Alpha: News, updates, and onchain intel on @GIWA_by_Upbit",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "GIWA Alpha",
+              "account": "giwaalpha",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-23T19:30:21+00:00",
+              "messageId": "dodtwitterbot/41532",
+              "description": "GIWA Alpha: News, updates, and onchain intel on @GIWA_by_Upbit",
+              "text": "GIWA Alpha: News, updates, and onchain intel on @GIWA_by_Upbit"
+            }
+          ],
+          "text": " GIWA Alpha giwaalpha GIWA Alpha: News, updates, and onchain intel on @GIWA_by_Upbit",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "totalRows": 26,
+      "projectCount": 26,
+      "focusCount": 0,
+      "candidateCount": 26,
+      "crossSource": 0,
+      "newCount": 15,
+      "repeatCount": 11,
       "projects": [
         {
           "project": "000.fun",
@@ -36266,6 +37021,41 @@
           "dayStatus": "repeat"
         },
         {
+          "project": "druxamb•base•eth",
+          "account": "DruxAMB",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-23T13:26:39+00:00",
+          "lastSeen": "2026-11-23T13:26:39+00:00",
+          "description": "raining @'stocksrain\ngaming @iceandwatr\n•\nI looove building on base - million dollar with @... soooon",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "druxamb•base•eth",
+              "account": "DruxAMB",
+              "alpha": "lakka",
+              "seenAt": "2026-11-23T13:26:39+00:00",
+              "messageId": "dodtwitterbot/41503",
+              "description": "raining @'stocksrain\ngaming @iceandwatr\n•\nI looove building on base - million dollar with @... soooon",
+              "text": "raining @'stocksrain\ngaming @iceandwatr\n•\nI looove building on base - million dollar with @... soooon"
+            }
+          ],
+          "text": " druxamb•base•eth DruxAMB raining @'stocksrain\ngaming @iceandwatr\n•\nI looove building on base - million dollar with @... soooon",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
           "project": "f x Protocol",
           "account": "FXNProtocol",
           "sources": [
@@ -36299,6 +37089,41 @@
           "displayTier": "candidate",
           "avatarUrl": "",
           "dayStatus": "new"
+        },
+        {
+          "project": "Flop Labs",
+          "account": "flop_labs",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "八九"
+          ],
+          "tgAlphas": [
+            "八九"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-23T14:08:28+00:00",
+          "lastSeen": "2026-11-23T14:08:28+00:00",
+          "description": "Building the currency for the agentic economy.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Flop Labs",
+              "account": "flop_labs",
+              "alpha": "八九",
+              "seenAt": "2026-11-23T14:08:28+00:00",
+              "messageId": "dodtwitterbot/41504",
+              "description": "Building the currency for the agentic economy.",
+              "text": "Building the currency for the agentic economy."
+            }
+          ],
+          "text": " Flop Labs flop_labs Building the currency for the agentic economy.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
         },
         {
           "project": "GIWATER",
@@ -36365,6 +37190,76 @@
             }
           ],
           "text": " IGNIS Ignis_bnb Ignis Agentic: bring more users to claim Binance Agentic ID → Mint: Ignis.\nSolid anti‑inflation model, our mission: largest holder-base Meme within the Agentic.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Index Industries",
+          "account": "Index_inds",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-23T12:19:52+00:00",
+          "lastSeen": "2026-11-23T12:19:52+00:00",
+          "description": "Index Industries creates infrastructure that reshapes how the world accesses and invests in real estate.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Index Industries",
+              "account": "Index_inds",
+              "alpha": "lakka",
+              "seenAt": "2026-11-23T12:19:52+00:00",
+              "messageId": "dodtwitterbot/41501",
+              "description": "Index Industries creates infrastructure that reshapes how the world accesses and invests in real estate.",
+              "text": "Index Industries creates infrastructure that reshapes how the world accesses and invests in real estate."
+            }
+          ],
+          "text": " Index Industries Index_inds Index Industries creates infrastructure that reshapes how the world accesses and invests in real estate.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Markov Robotics",
+          "account": "markovrobotics",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-23T10:57:25+00:00",
+          "lastSeen": "2026-11-23T10:57:25+00:00",
+          "description": "0-shot dexterity",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Markov Robotics",
+              "account": "markovrobotics",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-23T10:57:25+00:00",
+              "messageId": "dodtwitterbot/41493",
+              "description": "0-shot dexterity",
+              "text": "0-shot dexterity"
+            }
+          ],
+          "text": " Markov Robotics markovrobotics 0-shot dexterity",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -36719,6 +37614,41 @@
           "displayTier": "candidate",
           "avatarUrl": "",
           "dayStatus": "repeat"
+        },
+        {
+          "project": "Stox Credit",
+          "account": "StoxCredit",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-23T11:12:14+00:00",
+          "lastSeen": "2026-11-23T11:12:14+00:00",
+          "description": "Borrow USDC using tokenized stocks as collateral on @base",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Stox Credit",
+              "account": "StoxCredit",
+              "alpha": "lakka",
+              "seenAt": "2026-11-23T11:12:14+00:00",
+              "messageId": "dodtwitterbot/41494",
+              "description": "Borrow USDC using tokenized stocks as collateral on @base",
+              "text": "Borrow USDC using tokenized stocks as collateral on @base"
+            }
+          ],
+          "text": " Stox Credit StoxCredit Borrow USDC using tokenized stocks as collateral on @base",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
         },
         {
           "project": "SubZero",
@@ -68591,404 +69521,409 @@
   ],
   "reports": [
     {
+      "file": "2026-11-23-2144-telegram-update.md",
+      "title": "2026-11-23-2144-telegram-update",
+      "updatedAt": "2026-11-23T21:44:21.026Z"
+    },
+    {
       "file": "2026-11-23-0952-telegram-update.md",
       "title": "2026-11-23-0952-telegram-update",
-      "updatedAt": "2026-11-23T09:52:29.683Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-22-1726-telegram-update.md",
       "title": "2026-11-22-1726-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-22-0854-telegram-update.md",
       "title": "2026-11-22-0854-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-22-0141-telegram-update.md",
       "title": "2026-11-22-0141-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-21-2016-telegram-update.md",
       "title": "2026-11-21-2016-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-21-1344-telegram-update.md",
       "title": "2026-11-21-1344-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-21-0252-telegram-update.md",
       "title": "2026-11-21-0252-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-20-0915-telegram-update.md",
       "title": "2026-11-20-0915-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-19-2355-telegram-update.md",
       "title": "2026-11-19-2355-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-19-1443-telegram-update.md",
       "title": "2026-11-19-1443-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-18-1826-telegram-update.md",
       "title": "2026-11-18-1826-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-18-0916-telegram-update.md",
       "title": "2026-11-18-0916-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-18-0002-telegram-update.md",
       "title": "2026-11-18-0002-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-17-1456-telegram-update.md",
       "title": "2026-11-17-1456-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-17-0412-telegram-update.md",
       "title": "2026-11-17-0412-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-16-1953-telegram-update.md",
       "title": "2026-11-16-1953-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-16-0839-telegram-update.md",
       "title": "2026-11-16-0839-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-15-2207-telegram-update.md",
       "title": "2026-11-15-2207-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-15-1639-telegram-update.md",
       "title": "2026-11-15-1639-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-15-0828-telegram-update.md",
       "title": "2026-11-15-0828-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-15-0121-telegram-update.md",
       "title": "2026-11-15-0121-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-14-2141-telegram-update.md",
       "title": "2026-11-14-2141-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-14-1610-telegram-update.md",
       "title": "2026-11-14-1610-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-14-0809-telegram-update.md",
       "title": "2026-11-14-0809-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-13-2255-telegram-update.md",
       "title": "2026-11-13-2255-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-13-1724-telegram-update.md",
       "title": "2026-11-13-1724-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-13-0849-telegram-update.md",
       "title": "2026-11-13-0849-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-12-2254-telegram-update.md",
       "title": "2026-11-12-2254-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-12-1746-telegram-update.md",
       "title": "2026-11-12-1746-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-12-0853-telegram-update.md",
       "title": "2026-11-12-0853-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-11-2344-telegram-update.md",
       "title": "2026-11-11-2344-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-11-1729-telegram-update.md",
       "title": "2026-11-11-1729-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-11-0828-telegram-update.md",
       "title": "2026-11-11-0828-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-11-0130-telegram-update.md",
       "title": "2026-11-11-0130-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-10-2037-telegram-update.md",
       "title": "2026-11-10-2037-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-10-1348-telegram-update.md",
       "title": "2026-11-10-1348-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-10-0351-telegram-update.md",
       "title": "2026-11-10-0351-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-09-2013-telegram-update.md",
       "title": "2026-11-09-2013-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-09-0844-telegram-update.md",
       "title": "2026-11-09-0844-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-08-2123-telegram-update.md",
       "title": "2026-11-08-2123-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-08-1623-telegram-update.md",
       "title": "2026-11-08-1623-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-08-0804-telegram-update.md",
       "title": "2026-11-08-0804-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-07-2106-telegram-update.md",
       "title": "2026-11-07-2106-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-07-1556-telegram-update.md",
       "title": "2026-11-07-1556-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-07-0751-telegram-update.md",
       "title": "2026-11-07-0751-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-06-2226-telegram-update.md",
       "title": "2026-11-06-2226-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-06-1658-telegram-update.md",
       "title": "2026-11-06-1658-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-06-0835-telegram-update.md",
       "title": "2026-11-06-0835-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-05-2256-telegram-update.md",
       "title": "2026-11-05-2256-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-05-1742-telegram-update.md",
       "title": "2026-11-05-1742-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-05-0836-telegram-update.md",
       "title": "2026-11-05-0836-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-04-2255-telegram-update.md",
       "title": "2026-11-04-2255-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-04-1737-telegram-update.md",
       "title": "2026-11-04-1737-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-04-0810-telegram-update.md",
       "title": "2026-11-04-0810-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-04-0143-telegram-update.md",
       "title": "2026-11-04-0143-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-03-2018-telegram-update.md",
       "title": "2026-11-03-2018-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-03-1302-telegram-update.md",
       "title": "2026-11-03-1302-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-03-0306-telegram-update.md",
       "title": "2026-11-03-0306-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-02-1950-telegram-update.md",
       "title": "2026-11-02-1950-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-02-0826-telegram-update.md",
       "title": "2026-11-02-0826-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-23T09:52:27.052Z"
+      "updatedAt": "2026-11-23T21:44:18.399Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-23T09:52:27.050Z"
+      "updatedAt": "2026-11-23T21:44:18.397Z"
     }
   ]
 }
