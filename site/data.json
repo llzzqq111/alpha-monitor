@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-24T05:37:14.368Z",
+  "generatedAt": "2026-11-24T16:30:46.269Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 41550,
-    "lastMessageAt": "2026-11-24T05:26:32+00:00",
-    "lastCheckedAt": "2026-11-24T05:37:14.050Z",
-    "previousMessageId": 41544,
-    "pagesRead": 1,
-    "messagesRead": 6,
-    "newProjectRecords": 3,
+    "lastMessageId": 41584,
+    "lastMessageAt": "2026-11-24T16:30:12+00:00",
+    "lastCheckedAt": "2026-11-24T16:30:45.969Z",
+    "previousMessageId": 41550,
+    "pagesRead": 2,
+    "messagesRead": 34,
+    "newProjectRecords": 13,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 1062,
+    "telegramRows": 1075,
     "xRows": 0,
-    "projects": 657,
+    "projects": 664,
     "crossSource": 0
   },
   "projects": [
@@ -4704,6 +4704,64 @@
       "avatarUrl": ""
     },
     {
+      "project": "LayerZero",
+      "account": "LayerZero_Core",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "CSR",
+        "zyy",
+        "哒哒 🦅 🟠"
+      ],
+      "tgAlphas": [
+        "CSR",
+        "zyy",
+        "哒哒 🦅 🟠"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-11-02T11:33:32+00:00",
+      "lastSeen": "2026-11-24T13:00:41+00:00",
+      "description": "Better Money Technology. Better Markets Technology. // @LayerZero_Fndn ㅤ",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "LayerZero",
+          "account": "LayerZero_Core",
+          "alpha": "zyy",
+          "seenAt": "2026-11-02T11:33:32+00:00",
+          "messageId": "dodtwitterbot/39228",
+          "description": "Better Money Technology. Better Markets Technology. // @LayerZero_Fndn ㅤ",
+          "text": "Better Money Technology. Better Markets Technology. // @LayerZero_Fndn ㅤ"
+        },
+        {
+          "source": "TG",
+          "project": "LayerZero",
+          "account": "LayerZero_Core",
+          "alpha": "CSR",
+          "seenAt": "2026-11-10T21:34:35+00:00",
+          "messageId": "dodtwitterbot/40576",
+          "description": "Better Money Technology. Better Markets Technology. // @LayerZero_Fndn ㅤ",
+          "text": "Better Money Technology. Better Markets Technology. // @LayerZero_Fndn ㅤ"
+        },
+        {
+          "source": "TG",
+          "project": "LayerZero",
+          "account": "LayerZero_Core",
+          "alpha": "哒哒 🦅 🟠",
+          "seenAt": "2026-11-24T13:00:41+00:00",
+          "messageId": "dodtwitterbot/41573",
+          "description": "Better Money Technology. Better Markets Technology. // @LayerZero_Fndn ㅤ",
+          "text": "Better Money Technology. Better Markets Technology. // @LayerZero_Fndn ㅤ"
+        }
+      ],
+      "text": " LayerZero LayerZero_Core Better Money Technology. Better Markets Technology. // @LayerZero_Fndn ㅤ LayerZero LayerZero_Core Better Money Technology. Better Markets Technology. // @LayerZero_Fndn ㅤ LayerZero LayerZero_Core Better Money Technology. Better Markets Technology. // @LayerZero_Fndn ㅤ",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Lotlings",
       "account": "lotlings",
       "sources": [
@@ -4989,6 +5047,64 @@
         }
       ],
       "text": " Neuriio Neuriio Tokenize Accounts, Create Social Markets.\n\nBuilt on @Enter_Elysium Neuriio Neuriio Tokenize Accounts, Create Social Markets.\n\nBuilt on @Enter_Elysium Neuriio Neuriio Tokenize Accounts, Create Social Markets.\n\nBuilt on @Enter_Elysium",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "NFTX",
+      "account": "NFTX_",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BTC alpha",
+        "CSR",
+        "发誓要做永赚大师"
+      ],
+      "tgAlphas": [
+        "BTC alpha",
+        "CSR",
+        "发誓要做永赚大师"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-11-20T04:38:23+00:00",
+      "lastSeen": "2026-11-24T15:39:35+00:00",
+      "description": "NFTs with instant liquidity, instant swaps and trade-ups. Stock pairings launch November 24.\n\nBuilt by @FlayerLabs · &#036;FLAY",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "NFTX",
+          "account": "NFTX_",
+          "alpha": "BTC alpha",
+          "seenAt": "2026-11-20T04:38:23+00:00",
+          "messageId": "dodtwitterbot/41332",
+          "description": "NFTs with instant liquidity, instant swaps and trade-ups. Stock pairings launch November 24.\n\nBuilt by @FlayerLabs · &#036;FLAY",
+          "text": "NFTs with instant liquidity, instant swaps and trade-ups. Stock pairings launch November 24.\n\nBuilt by @FlayerLabs · &#036;FLAY"
+        },
+        {
+          "source": "TG",
+          "project": "NFTX",
+          "account": "NFTX_",
+          "alpha": "发誓要做永赚大师",
+          "seenAt": "2026-11-20T08:43:17+00:00",
+          "messageId": "dodtwitterbot/41345",
+          "description": "NFTs with instant liquidity, instant swaps and trade-ups. Stock pairings launch November 24.\n\nBuilt by @FlayerLabs · &#036;FLAY",
+          "text": "NFTs with instant liquidity, instant swaps and trade-ups. Stock pairings launch November 24.\n\nBuilt by @FlayerLabs · &#036;FLAY"
+        },
+        {
+          "source": "TG",
+          "project": "NFTX",
+          "account": "NFTX_",
+          "alpha": "CSR",
+          "seenAt": "2026-11-24T15:39:35+00:00",
+          "messageId": "dodtwitterbot/41581",
+          "description": "NFTs with instant liquidity, instant swaps and trade-ups. Stock pairings launch November 24.\n\nBuilt by @FlayerLabs",
+          "text": "NFTs with instant liquidity, instant swaps and trade-ups. Stock pairings launch November 24.\n\nBuilt by @FlayerLabs"
+        }
+      ],
+      "text": " NFTX NFTX_ NFTs with instant liquidity, instant swaps and trade-ups. Stock pairings launch November 24.\n\nBuilt by @FlayerLabs · &#036;FLAY NFTX NFTX_ NFTs with instant liquidity, instant swaps and trade-ups. Stock pairings launch November 24.\n\nBuilt by @FlayerLabs · &#036;FLAY NFTX NFTX_ NFTs with instant liquidity, instant swaps and trade-ups. Stock pairings launch November 24.\n\nBuilt by @FlayerLabs",
       "score": 6,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -5801,6 +5917,64 @@
         }
       ],
       "text": " Pulse PulseLaunchpad Coming to Robinhood Chain Soon Pulse PulseLaunchpad Coming to Robinhood Chain Soon Pulse PulseLaunchpad Coming to Robinhood Chain Soon",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Revvy",
+      "account": "tryrevvy",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Mutu 🕸️",
+        "lakka",
+        "speest 💎"
+      ],
+      "tgAlphas": [
+        "Mutu 🕸️",
+        "lakka",
+        "speest 💎"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-11-04T21:55:06+00:00",
+      "lastSeen": "2026-11-24T13:06:13+00:00",
+      "description": "The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Revvy",
+          "account": "tryrevvy",
+          "alpha": "lakka",
+          "seenAt": "2026-11-04T21:55:06+00:00",
+          "messageId": "dodtwitterbot/39684",
+          "description": "The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world",
+          "text": "The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world"
+        },
+        {
+          "source": "TG",
+          "project": "Revvy",
+          "account": "tryrevvy",
+          "alpha": "Mutu 🕸️",
+          "seenAt": "2026-11-11T17:15:54+00:00",
+          "messageId": "dodtwitterbot/40651",
+          "description": "The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world",
+          "text": "The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world"
+        },
+        {
+          "source": "TG",
+          "project": "Revvy",
+          "account": "tryrevvy",
+          "alpha": "speest 💎",
+          "seenAt": "2026-11-24T13:06:13+00:00",
+          "messageId": "dodtwitterbot/41574",
+          "description": "The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world",
+          "text": "The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world"
+        }
+      ],
+      "text": " Revvy tryrevvy The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world Revvy tryrevvy The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world Revvy tryrevvy The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world",
       "score": 6,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -8804,6 +8978,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "GIWATER",
+      "account": "GiwaterFinance",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "叶子君Foliage ◎ 🔶",
+        "哒哒 🦅 🟠"
+      ],
+      "tgAlphas": [
+        "叶子君Foliage ◎ 🔶",
+        "哒哒 🦅 🟠"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-23T03:19:14+00:00",
+      "lastSeen": "2026-11-24T12:03:53+00:00",
+      "description": "The liquidity layer for Korea's on-chain capital",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "GIWATER",
+          "account": "GiwaterFinance",
+          "alpha": "叶子君Foliage ◎ 🔶",
+          "seenAt": "2026-11-23T03:19:14+00:00",
+          "messageId": "dodtwitterbot/41437",
+          "description": "The liquidity layer for Korea's on-chain capital",
+          "text": "The liquidity layer for Korea's on-chain capital"
+        },
+        {
+          "source": "TG",
+          "project": "GIWATER",
+          "account": "GiwaterFinance",
+          "alpha": "哒哒 🦅 🟠",
+          "seenAt": "2026-11-24T12:03:53+00:00",
+          "messageId": "dodtwitterbot/41569",
+          "description": "The liquidity layer for Korea's on-chain capital",
+          "text": "The liquidity layer for Korea's on-chain capital"
+        }
+      ],
+      "text": " GIWATER GiwaterFinance The liquidity layer for Korea's on-chain capital GIWATER GiwaterFinance The liquidity layer for Korea's on-chain capital",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "GLIDORA",
       "account": "UseGlidora",
       "sources": [
@@ -9540,52 +9760,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "LayerZero",
-      "account": "LayerZero_Core",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "CSR",
-        "zyy"
-      ],
-      "tgAlphas": [
-        "CSR",
-        "zyy"
-      ],
-      "xAlphas": [],
-      "mentions": 2,
-      "firstSeen": "2026-11-02T11:33:32+00:00",
-      "lastSeen": "2026-11-10T21:34:35+00:00",
-      "description": "Better Money Technology. Better Markets Technology. // @LayerZero_Fndn ㅤ",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "LayerZero",
-          "account": "LayerZero_Core",
-          "alpha": "zyy",
-          "seenAt": "2026-11-02T11:33:32+00:00",
-          "messageId": "dodtwitterbot/39228",
-          "description": "Better Money Technology. Better Markets Technology. // @LayerZero_Fndn ㅤ",
-          "text": "Better Money Technology. Better Markets Technology. // @LayerZero_Fndn ㅤ"
-        },
-        {
-          "source": "TG",
-          "project": "LayerZero",
-          "account": "LayerZero_Core",
-          "alpha": "CSR",
-          "seenAt": "2026-11-10T21:34:35+00:00",
-          "messageId": "dodtwitterbot/40576",
-          "description": "Better Money Technology. Better Markets Technology. // @LayerZero_Fndn ㅤ",
-          "text": "Better Money Technology. Better Markets Technology. // @LayerZero_Fndn ㅤ"
-        }
-      ],
-      "text": " LayerZero LayerZero_Core Better Money Technology. Better Markets Technology. // @LayerZero_Fndn ㅤ LayerZero LayerZero_Core Better Money Technology. Better Markets Technology. // @LayerZero_Fndn ㅤ",
-      "score": 4,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
       "project": "LiGuRR",
       "account": "LigurrNFT",
       "sources": [
@@ -9719,6 +9893,52 @@
         }
       ],
       "text": " Loadout loadoutprotocol The Launchpad for Games. From the creators of @illuviumio Loadout loadoutprotocol The Launchpad for Games. From the creators of @illuviumio",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Markov Robotics",
+      "account": "markovrobotics",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "unsynned",
+        "well"
+      ],
+      "tgAlphas": [
+        "unsynned",
+        "well"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-23T10:57:25+00:00",
+      "lastSeen": "2026-11-24T06:24:26+00:00",
+      "description": "0-shot dexterity",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Markov Robotics",
+          "account": "markovrobotics",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-23T10:57:25+00:00",
+          "messageId": "dodtwitterbot/41493",
+          "description": "0-shot dexterity",
+          "text": "0-shot dexterity"
+        },
+        {
+          "source": "TG",
+          "project": "Markov Robotics",
+          "account": "markovrobotics",
+          "alpha": "well",
+          "seenAt": "2026-11-24T06:24:26+00:00",
+          "messageId": "dodtwitterbot/41551",
+          "description": "0-shot dexterity",
+          "text": "0-shot dexterity"
+        }
+      ],
+      "text": " Markov Robotics markovrobotics 0-shot dexterity Markov Robotics markovrobotics 0-shot dexterity",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -10087,52 +10307,6 @@
         }
       ],
       "text": " NearQuery NearQuery Ask the chain. Show the work. Re-runnable, data-backed research on @near_intents . Every number computed from public data. Built at NEAR HACKATHON. @nearprotocol NearQuery NearQuery Ask the chain. Show the work. Re-runnable, data-backed research on @near_intents . Every number computed from public data. Built at NEAR HACKATHON. @nearprotocol",
-      "score": 4,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
-      "project": "NFTX",
-      "account": "NFTX_",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "BTC alpha",
-        "发誓要做永赚大师"
-      ],
-      "tgAlphas": [
-        "BTC alpha",
-        "发誓要做永赚大师"
-      ],
-      "xAlphas": [],
-      "mentions": 2,
-      "firstSeen": "2026-11-20T04:38:23+00:00",
-      "lastSeen": "2026-11-20T08:43:17+00:00",
-      "description": "NFTs with instant liquidity, instant swaps and trade-ups. Stock pairings launch November 24.\n\nBuilt by @FlayerLabs · &#036;FLAY",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "NFTX",
-          "account": "NFTX_",
-          "alpha": "BTC alpha",
-          "seenAt": "2026-11-20T04:38:23+00:00",
-          "messageId": "dodtwitterbot/41332",
-          "description": "NFTs with instant liquidity, instant swaps and trade-ups. Stock pairings launch November 24.\n\nBuilt by @FlayerLabs · &#036;FLAY",
-          "text": "NFTs with instant liquidity, instant swaps and trade-ups. Stock pairings launch November 24.\n\nBuilt by @FlayerLabs · &#036;FLAY"
-        },
-        {
-          "source": "TG",
-          "project": "NFTX",
-          "account": "NFTX_",
-          "alpha": "发誓要做永赚大师",
-          "seenAt": "2026-11-20T08:43:17+00:00",
-          "messageId": "dodtwitterbot/41345",
-          "description": "NFTs with instant liquidity, instant swaps and trade-ups. Stock pairings launch November 24.\n\nBuilt by @FlayerLabs · &#036;FLAY",
-          "text": "NFTs with instant liquidity, instant swaps and trade-ups. Stock pairings launch November 24.\n\nBuilt by @FlayerLabs · &#036;FLAY"
-        }
-      ],
-      "text": " NFTX NFTX_ NFTs with instant liquidity, instant swaps and trade-ups. Stock pairings launch November 24.\n\nBuilt by @FlayerLabs · &#036;FLAY NFTX NFTX_ NFTs with instant liquidity, instant swaps and trade-ups. Stock pairings launch November 24.\n\nBuilt by @FlayerLabs · &#036;FLAY",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -10961,52 +11135,6 @@
         }
       ],
       "text": " Realbond realbondai Real agents ，Real bonding curve.\nBind your agent address to X /Launchpad On BNB Chain Realbond realbondai Real agents ，Real bonding curve.\nBind your agent address to X /Launchpad On BNB Chain",
-      "score": 4,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Revvy",
-      "account": "tryrevvy",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "Mutu 🕸️",
-        "lakka"
-      ],
-      "tgAlphas": [
-        "Mutu 🕸️",
-        "lakka"
-      ],
-      "xAlphas": [],
-      "mentions": 2,
-      "firstSeen": "2026-11-04T21:55:06+00:00",
-      "lastSeen": "2026-11-11T17:15:54+00:00",
-      "description": "The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Revvy",
-          "account": "tryrevvy",
-          "alpha": "lakka",
-          "seenAt": "2026-11-04T21:55:06+00:00",
-          "messageId": "dodtwitterbot/39684",
-          "description": "The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world",
-          "text": "The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world"
-        },
-        {
-          "source": "TG",
-          "project": "Revvy",
-          "account": "tryrevvy",
-          "alpha": "Mutu 🕸️",
-          "seenAt": "2026-11-11T17:15:54+00:00",
-          "messageId": "dodtwitterbot/40651",
-          "description": "The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world",
-          "text": "The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world"
-        }
-      ],
-      "text": " Revvy tryrevvy The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world Revvy tryrevvy The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -12433,6 +12561,52 @@
         }
       ],
       "text": " z30 z30index The 30-stock dividend protocol of Zero Chain. Powered by @LayerZero_Core . z30 z30index The 30-stock dividend protocol of Zero Chain. Powered by @LayerZero_Core .",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Zayro Perps",
+      "account": "zayrotrade",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka",
+        "哒哒 🦅 🟠"
+      ],
+      "tgAlphas": [
+        "lakka",
+        "哒哒 🦅 🟠"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-24T12:03:54+00:00",
+      "lastSeen": "2026-11-24T14:21:40+00:00",
+      "description": "Trade at up to 1000x leverage with zero slippage",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Zayro Perps",
+          "account": "zayrotrade",
+          "alpha": "哒哒 🦅 🟠",
+          "seenAt": "2026-11-24T12:03:54+00:00",
+          "messageId": "dodtwitterbot/41571",
+          "description": "Trade at up to 1000x leverage with zero slippage",
+          "text": "Trade at up to 1000x leverage with zero slippage"
+        },
+        {
+          "source": "TG",
+          "project": "Zayro Perps",
+          "account": "zayrotrade",
+          "alpha": "lakka",
+          "seenAt": "2026-11-24T14:21:40+00:00",
+          "messageId": "dodtwitterbot/41580",
+          "description": "Trade at up to 1000x leverage with zero slippage",
+          "text": "Trade at up to 1000x leverage with zero slippage"
+        }
+      ],
+      "text": " Zayro Perps zayrotrade Trade at up to 1000x leverage with zero slippage Zayro Perps zayrotrade Trade at up to 1000x leverage with zero slippage",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -17392,35 +17566,69 @@
       "avatarUrl": ""
     },
     {
-      "project": "GIWATER",
-      "account": "GiwaterFinance",
+      "project": "GIWA Forge",
+      "account": "GIWAForge",
       "sources": [
         "TG"
       ],
       "alphas": [
-        "叶子君Foliage ◎ 🔶"
+        "哒哒 🦅 🟠"
       ],
       "tgAlphas": [
-        "叶子君Foliage ◎ 🔶"
+        "哒哒 🦅 🟠"
       ],
       "xAlphas": [],
       "mentions": 1,
-      "firstSeen": "2026-11-23T03:19:14+00:00",
-      "lastSeen": "2026-11-23T03:19:14+00:00",
-      "description": "The liquidity layer for Korea's on-chain capital",
+      "firstSeen": "2026-11-24T13:32:57+00:00",
+      "lastSeen": "2026-11-24T13:32:57+00:00",
+      "description": "Token launchpad built on @GIWA_by_Upbit",
       "rows": [
         {
           "source": "TG",
-          "project": "GIWATER",
-          "account": "GiwaterFinance",
-          "alpha": "叶子君Foliage ◎ 🔶",
-          "seenAt": "2026-11-23T03:19:14+00:00",
-          "messageId": "dodtwitterbot/41437",
-          "description": "The liquidity layer for Korea's on-chain capital",
-          "text": "The liquidity layer for Korea's on-chain capital"
+          "project": "GIWA Forge",
+          "account": "GIWAForge",
+          "alpha": "哒哒 🦅 🟠",
+          "seenAt": "2026-11-24T13:32:57+00:00",
+          "messageId": "dodtwitterbot/41579",
+          "description": "Token launchpad built on @GIWA_by_Upbit",
+          "text": "Token launchpad built on @GIWA_by_Upbit"
         }
       ],
-      "text": " GIWATER GiwaterFinance The liquidity layer for Korea's on-chain capital",
+      "text": " GIWA Forge GIWAForge Token launchpad built on @GIWA_by_Upbit",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "GiwaPump",
+      "account": "GiwaPump",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "哒哒 🦅 🟠"
+      ],
+      "tgAlphas": [
+        "哒哒 🦅 🟠"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-24T13:31:59+00:00",
+      "lastSeen": "2026-11-24T13:31:59+00:00",
+      "description": "Liquid NFT launchpad on @giwa_by_upbit",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "GiwaPump",
+          "account": "GiwaPump",
+          "alpha": "哒哒 🦅 🟠",
+          "seenAt": "2026-11-24T13:31:59+00:00",
+          "messageId": "dodtwitterbot/41578",
+          "description": "Liquid NFT launchpad on @giwa_by_upbit",
+          "text": "Liquid NFT launchpad on @giwa_by_upbit"
+        }
+      ],
+      "text": " GiwaPump GiwaPump Liquid NFT launchpad on @giwa_by_upbit",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -20112,6 +20320,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "MAPAE",
+      "account": "MapaeGiwa",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "哒哒 🦅 🟠"
+      ],
+      "tgAlphas": [
+        "哒哒 🦅 🟠"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-24T13:22:19+00:00",
+      "lastSeen": "2026-11-24T13:22:19+00:00",
+      "description": "MAPAE, a launchpad where everyone starts from the same line.\n\nIncubated by @GIWA_by_Upbit . GASOK Accelerator Phase 3.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "MAPAE",
+          "account": "MapaeGiwa",
+          "alpha": "哒哒 🦅 🟠",
+          "seenAt": "2026-11-24T13:22:19+00:00",
+          "messageId": "dodtwitterbot/41577",
+          "description": "MAPAE, a launchpad where everyone starts from the same line.\n\nIncubated by @GIWA_by_Upbit . GASOK Accelerator Phase 3.",
+          "text": "MAPAE, a launchpad where everyone starts from the same line.\n\nIncubated by @GIWA_by_Upbit . GASOK Accelerator Phase 3."
+        }
+      ],
+      "text": " MAPAE MapaeGiwa MAPAE, a launchpad where everyone starts from the same line.\n\nIncubated by @GIWA_by_Upbit . GASOK Accelerator Phase 3.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Mark Minervini",
       "account": "markminervini",
       "sources": [
@@ -20141,40 +20383,6 @@
         }
       ],
       "text": " Mark Minervini markminervini 2-time U.S. Investing Champion. Author Trade Like A Stock Market Wizard and Think & Trade Like a Champion. Featured in Stock Market Wizards. Read disclosure.",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Markov Robotics",
-      "account": "markovrobotics",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "unsynned"
-      ],
-      "tgAlphas": [
-        "unsynned"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-23T10:57:25+00:00",
-      "lastSeen": "2026-11-23T10:57:25+00:00",
-      "description": "0-shot dexterity",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Markov Robotics",
-          "account": "markovrobotics",
-          "alpha": "unsynned",
-          "seenAt": "2026-11-23T10:57:25+00:00",
-          "messageId": "dodtwitterbot/41493",
-          "description": "0-shot dexterity",
-          "text": "0-shot dexterity"
-        }
-      ],
-      "text": " Markov Robotics markovrobotics 0-shot dexterity",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -21025,6 +21233,40 @@
         }
       ],
       "text": " Move Fast MovefastonAptos The fastest launchpad on @Aptos\n\n&#036;MF is the native coin of MoveFast : 0x24a74425d82e8085c9ee96bd40cfa1c282734515ddec0f1234b10749594d42c6",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Mulle Protocol",
+      "account": "MulleProtocol",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka"
+      ],
+      "tgAlphas": [
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-24T09:00:31+00:00",
+      "lastSeen": "2026-11-24T09:00:31+00:00",
+      "description": "Bringing sovereign assets on-chain.\nTokenized bonds.\nGlobal access.\n\nUPBIT GIWA Accelerating · Phase 3 @GIWA_by_Upbit",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Mulle Protocol",
+          "account": "MulleProtocol",
+          "alpha": "lakka",
+          "seenAt": "2026-11-24T09:00:31+00:00",
+          "messageId": "dodtwitterbot/41558",
+          "description": "Bringing sovereign assets on-chain.\nTokenized bonds.\nGlobal access.\n\nUPBIT GIWA Accelerating · Phase 3 @GIWA_by_Upbit",
+          "text": "Bringing sovereign assets on-chain.\nTokenized bonds.\nGlobal access.\n\nUPBIT GIWA Accelerating · Phase 3 @GIWA_by_Upbit"
+        }
+      ],
+      "text": " Mulle Protocol MulleProtocol Bringing sovereign assets on-chain.\nTokenized bonds.\nGlobal access.\n\nUPBIT GIWA Accelerating · Phase 3 @GIWA_by_Upbit",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -23648,6 +23890,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "SatSea",
+      "account": "thesatsea",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "八九"
+      ],
+      "tgAlphas": [
+        "八九"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-24T07:00:05+00:00",
+      "lastSeen": "2026-11-24T07:00:05+00:00",
+      "description": "The first UDA (NFT) marketplace on Bitcoin RGB\n\nConnect with us: https://t.co/21R714Juet",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "SatSea",
+          "account": "thesatsea",
+          "alpha": "八九",
+          "seenAt": "2026-11-24T07:00:05+00:00",
+          "messageId": "dodtwitterbot/41554",
+          "description": "The first UDA (NFT) marketplace on Bitcoin RGB\n\nConnect with us: https://t.co/21R714Juet",
+          "text": "The first UDA (NFT) marketplace on Bitcoin RGB\n\nConnect with us: https://t.co/21R714Juet"
+        }
+      ],
+      "text": " SatSea thesatsea The first UDA (NFT) marketplace on Bitcoin RGB\n\nConnect with us: https://t.co/21R714Juet",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Satsfun",
       "account": "Satsfun",
       "sources": [
@@ -25445,6 +25721,40 @@
         }
       ],
       "text": " TARS tars_Agentic Hello, world. This is TARS.\n\n++ The agentic launchpad on @Solana .\n++ Ask your agent to install TARS.\n++ Create or trade tokens.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Temple Digital Group",
+      "account": "temple_ny",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka"
+      ],
+      "tgAlphas": [
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-24T09:39:45+00:00",
+      "lastSeen": "2026-11-24T09:39:45+00:00",
+      "description": "Private and compliant financial market infrastructure for the world's institutions on the @CantonNetwork",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Temple Digital Group",
+          "account": "temple_ny",
+          "alpha": "lakka",
+          "seenAt": "2026-11-24T09:39:45+00:00",
+          "messageId": "dodtwitterbot/41562",
+          "description": "Private and compliant financial market infrastructure for the world's institutions on the @CantonNetwork",
+          "text": "Private and compliant financial market infrastructure for the world's institutions on the @CantonNetwork"
+        }
+      ],
+      "text": " Temple Digital Group temple_ny Private and compliant financial market infrastructure for the world's institutions on the @CantonNetwork",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -28327,6 +28637,22 @@
       "avatarUrl": ""
     },
     {
+      "project": "LayerZero",
+      "x_account": "LayerZero_Core",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "CSR",
+        "zyy",
+        "哒哒 🦅 🟠"
+      ],
+      "description": "Better Money Technology. Better Markets Technology. // @LayerZero_Fndn ㅤ",
+      "first_seen_utc": "2026-11-02T11:33:32+00:00",
+      "last_seen_utc": "2026-11-24T13:00:41+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
       "project": "Lotlings",
       "x_account": "lotlings",
       "total_mentions": 3,
@@ -28403,6 +28729,22 @@
       "description": "Tokenize Accounts, Create Social Markets.\n\nBuilt on @Enter_Elysium",
       "first_seen_utc": "2026-11-01T04:35:15+00:00",
       "last_seen_utc": "2026-11-08T14:28:25+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
+      "project": "NFTX",
+      "x_account": "NFTX_",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "BTC alpha",
+        "CSR",
+        "发誓要做永赚大师"
+      ],
+      "description": "NFTs with instant liquidity, instant swaps and trade-ups. Stock pairings launch November 24.\n\nBuilt by @FlayerLabs · &#036;FLAY",
+      "first_seen_utc": "2026-11-20T04:38:23+00:00",
+      "last_seen_utc": "2026-11-24T15:39:35+00:00",
       "status": "priority",
       "avatarUrl": ""
     },
@@ -28627,6 +28969,22 @@
       "description": "Coming to Robinhood Chain Soon",
       "first_seen_utc": "2026-10-28T22:23:00+08:00",
       "last_seen_utc": "2026-10-28T22:51:00+08:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Revvy",
+      "x_account": "tryrevvy",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "Mutu 🕸️",
+        "lakka",
+        "speest 💎"
+      ],
+      "description": "The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world",
+      "first_seen_utc": "2026-11-04T21:55:06+00:00",
+      "last_seen_utc": "2026-11-24T13:06:13+00:00",
       "status": "priority",
       "avatarUrl": ""
     },
@@ -29562,6 +29920,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "GIWATER",
+      "x_account": "GiwaterFinance",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "叶子君Foliage ◎ 🔶",
+        "哒哒 🦅 🟠"
+      ],
+      "description": "The liquidity layer for Korea's on-chain capital",
+      "first_seen_utc": "2026-11-23T03:19:14+00:00",
+      "last_seen_utc": "2026-11-24T12:03:53+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "GLIDORA",
       "x_account": "UseGlidora",
       "total_mentions": 2,
@@ -29802,21 +30175,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "LayerZero",
-      "x_account": "LayerZero_Core",
-      "total_mentions": 2,
-      "unique_alphas": 2,
-      "alphas": [
-        "CSR",
-        "zyy"
-      ],
-      "description": "Better Money Technology. Better Markets Technology. // @LayerZero_Fndn ㅤ",
-      "first_seen_utc": "2026-11-02T11:33:32+00:00",
-      "last_seen_utc": "2026-11-10T21:34:35+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "LiGuRR",
       "x_account": "LigurrNFT",
       "total_mentions": 2,
@@ -29858,6 +30216,21 @@
       "description": "The Launchpad for Games. From the creators of @illuviumio",
       "first_seen_utc": "2026-11-03T23:49:05+00:00",
       "last_seen_utc": "2026-11-04T11:17:48+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Markov Robotics",
+      "x_account": "markovrobotics",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "unsynned",
+        "well"
+      ],
+      "description": "0-shot dexterity",
+      "first_seen_utc": "2026-11-23T10:57:25+00:00",
+      "last_seen_utc": "2026-11-24T06:24:26+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -29978,21 +30351,6 @@
       "description": "Ask the chain. Show the work. Re-runnable, data-backed research on @near_intents . Every number computed from public data. Built at NEAR HACKATHON. @nearprotocol",
       "first_seen_utc": "2026-11-02T19:39:55+00:00",
       "last_seen_utc": "2026-11-02T19:56:42+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "NFTX",
-      "x_account": "NFTX_",
-      "total_mentions": 2,
-      "unique_alphas": 2,
-      "alphas": [
-        "BTC alpha",
-        "发誓要做永赚大师"
-      ],
-      "description": "NFTs with instant liquidity, instant swaps and trade-ups. Stock pairings launch November 24.\n\nBuilt by @FlayerLabs · &#036;FLAY",
-      "first_seen_utc": "2026-11-20T04:38:23+00:00",
-      "last_seen_utc": "2026-11-20T08:43:17+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -30263,21 +30621,6 @@
       "description": "Real agents ，Real bonding curve.\nBind your agent address to X /Launchpad On BNB Chain",
       "first_seen_utc": "2026-10-29T07:28:41+00:00",
       "last_seen_utc": "2026-10-29T13:15:58+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Revvy",
-      "x_account": "tryrevvy",
-      "total_mentions": 2,
-      "unique_alphas": 2,
-      "alphas": [
-        "Mutu 🕸️",
-        "lakka"
-      ],
-      "description": "The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world",
-      "first_seen_utc": "2026-11-04T21:55:06+00:00",
-      "last_seen_utc": "2026-11-11T17:15:54+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -30743,6 +31086,21 @@
       "description": "The 30-stock dividend protocol of Zero Chain. Powered by @LayerZero_Core .",
       "first_seen_utc": "2026-11-02T11:33:32+00:00",
       "last_seen_utc": "2026-11-23T04:26:25+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Zayro Perps",
+      "x_account": "zayrotrade",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "lakka",
+        "哒哒 🦅 🟠"
+      ],
+      "description": "Trade at up to 1000x leverage with zero slippage",
+      "first_seen_utc": "2026-11-24T12:03:54+00:00",
+      "last_seen_utc": "2026-11-24T14:21:40+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -32779,16 +33137,30 @@
       "avatarUrl": ""
     },
     {
-      "project": "GIWATER",
-      "x_account": "GiwaterFinance",
+      "project": "GIWA Forge",
+      "x_account": "GIWAForge",
       "total_mentions": 1,
       "unique_alphas": 1,
       "alphas": [
-        "叶子君Foliage ◎ 🔶"
+        "哒哒 🦅 🟠"
       ],
-      "description": "The liquidity layer for Korea's on-chain capital",
-      "first_seen_utc": "2026-11-23T03:19:14+00:00",
-      "last_seen_utc": "2026-11-23T03:19:14+00:00",
+      "description": "Token launchpad built on @GIWA_by_Upbit",
+      "first_seen_utc": "2026-11-24T13:32:57+00:00",
+      "last_seen_utc": "2026-11-24T13:32:57+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "GiwaPump",
+      "x_account": "GiwaPump",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "哒哒 🦅 🟠"
+      ],
+      "description": "Liquid NFT launchpad on @giwa_by_upbit",
+      "first_seen_utc": "2026-11-24T13:31:59+00:00",
+      "last_seen_utc": "2026-11-24T13:31:59+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -33899,6 +34271,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "MAPAE",
+      "x_account": "MapaeGiwa",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "哒哒 🦅 🟠"
+      ],
+      "description": "MAPAE, a launchpad where everyone starts from the same line.\n\nIncubated by @GIWA_by_Upbit . GASOK Accelerator Phase 3.",
+      "first_seen_utc": "2026-11-24T13:22:19+00:00",
+      "last_seen_utc": "2026-11-24T13:22:19+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Mark Minervini",
       "x_account": "markminervini",
       "total_mentions": 1,
@@ -33909,20 +34295,6 @@
       "description": "2-time U.S. Investing Champion. Author Trade Like A Stock Market Wizard and Think & Trade Like a Champion. Featured in Stock Market Wizards. Read disclosure.",
       "first_seen_utc": "2026-11-22T15:27:48+00:00",
       "last_seen_utc": "2026-11-22T15:27:48+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Markov Robotics",
-      "x_account": "markovrobotics",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "unsynned"
-      ],
-      "description": "0-shot dexterity",
-      "first_seen_utc": "2026-11-23T10:57:25+00:00",
-      "last_seen_utc": "2026-11-23T10:57:25+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -34273,6 +34645,20 @@
       "description": "The fastest launchpad on @Aptos\n\n&#036;MF is the native coin of MoveFast : 0x24a74425d82e8085c9ee96bd40cfa1c282734515ddec0f1234b10749594d42c6",
       "first_seen_utc": "2026-11-02T11:33:42+00:00",
       "last_seen_utc": "2026-11-02T11:33:42+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Mulle Protocol",
+      "x_account": "MulleProtocol",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "lakka"
+      ],
+      "description": "Bringing sovereign assets on-chain.\nTokenized bonds.\nGlobal access.\n\nUPBIT GIWA Accelerating · Phase 3 @GIWA_by_Upbit",
+      "first_seen_utc": "2026-11-24T09:00:31+00:00",
+      "last_seen_utc": "2026-11-24T09:00:31+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -35355,6 +35741,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "SatSea",
+      "x_account": "thesatsea",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "八九"
+      ],
+      "description": "The first UDA (NFT) marketplace on Bitcoin RGB\n\nConnect with us: https://t.co/21R714Juet",
+      "first_seen_utc": "2026-11-24T07:00:05+00:00",
+      "last_seen_utc": "2026-11-24T07:00:05+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Satsfun",
       "x_account": "Satsfun",
       "total_mentions": 1,
@@ -36097,6 +36497,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Temple Digital Group",
+      "x_account": "temple_ny",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "lakka"
+      ],
+      "description": "Private and compliant financial market infrastructure for the world's institutions on the @CantonNetwork",
+      "first_seen_utc": "2026-11-24T09:39:45+00:00",
+      "last_seen_utc": "2026-11-24T09:39:45+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "TermiX",
       "x_account": "termix_ai",
       "total_mentions": 1,
@@ -36827,14 +37241,25 @@
   ],
   "daily": [
     {
-      "date": "2026-11-24",
-      "totalRows": 12,
-      "projectCount": 9,
-      "focusCount": 3,
-      "candidateCount": 6,
+      "date": "2026-11-25",
+      "totalRows": 0,
+      "projectCount": 0,
+      "focusCount": 0,
+      "candidateCount": 0,
       "crossSource": 0,
-      "newCount": 8,
-      "repeatCount": 1,
+      "newCount": 0,
+      "repeatCount": 0,
+      "projects": []
+    },
+    {
+      "date": "2026-11-24",
+      "totalRows": 25,
+      "projectCount": 21,
+      "focusCount": 4,
+      "candidateCount": 17,
+      "crossSource": 0,
+      "newCount": 15,
+      "repeatCount": 6,
       "projects": [
         {
           "project": "Rostrum",
@@ -36972,6 +37397,53 @@
             }
           ],
           "text": " The Circus CircusLaunchpad The Last Launchpad\n\nManaged by @sunnyklown The Circus CircusLaunchpad The Last Launchpad\n\nManaged by @sunnyklown",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Zayro Perps",
+          "account": "zayrotrade",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka",
+            "哒哒 🦅 🟠"
+          ],
+          "tgAlphas": [
+            "lakka",
+            "哒哒 🦅 🟠"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-11-24T12:03:54+00:00",
+          "lastSeen": "2026-11-24T14:21:40+00:00",
+          "description": "Trade at up to 1000x leverage with zero slippage",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Zayro Perps",
+              "account": "zayrotrade",
+              "alpha": "哒哒 🦅 🟠",
+              "seenAt": "2026-11-24T12:03:54+00:00",
+              "messageId": "dodtwitterbot/41571",
+              "description": "Trade at up to 1000x leverage with zero slippage",
+              "text": "Trade at up to 1000x leverage with zero slippage"
+            },
+            {
+              "source": "TG",
+              "project": "Zayro Perps",
+              "account": "zayrotrade",
+              "alpha": "lakka",
+              "seenAt": "2026-11-24T14:21:40+00:00",
+              "messageId": "dodtwitterbot/41580",
+              "description": "Trade at up to 1000x leverage with zero slippage",
+              "text": "Trade at up to 1000x leverage with zero slippage"
+            }
+          ],
+          "text": " Zayro Perps zayrotrade Trade at up to 1000x leverage with zero slippage Zayro Perps zayrotrade Trade at up to 1000x leverage with zero slippage",
           "score": 4,
           "displayTier": "focus",
           "avatarUrl": "",
@@ -37118,6 +37590,111 @@
           "dayStatus": "new"
         },
         {
+          "project": "GIWA Forge",
+          "account": "GIWAForge",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "哒哒 🦅 🟠"
+          ],
+          "tgAlphas": [
+            "哒哒 🦅 🟠"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-24T13:32:57+00:00",
+          "lastSeen": "2026-11-24T13:32:57+00:00",
+          "description": "Token launchpad built on @GIWA_by_Upbit",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "GIWA Forge",
+              "account": "GIWAForge",
+              "alpha": "哒哒 🦅 🟠",
+              "seenAt": "2026-11-24T13:32:57+00:00",
+              "messageId": "dodtwitterbot/41579",
+              "description": "Token launchpad built on @GIWA_by_Upbit",
+              "text": "Token launchpad built on @GIWA_by_Upbit"
+            }
+          ],
+          "text": " GIWA Forge GIWAForge Token launchpad built on @GIWA_by_Upbit",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "GiwaPump",
+          "account": "GiwaPump",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "哒哒 🦅 🟠"
+          ],
+          "tgAlphas": [
+            "哒哒 🦅 🟠"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-24T13:31:59+00:00",
+          "lastSeen": "2026-11-24T13:31:59+00:00",
+          "description": "Liquid NFT launchpad on @giwa_by_upbit",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "GiwaPump",
+              "account": "GiwaPump",
+              "alpha": "哒哒 🦅 🟠",
+              "seenAt": "2026-11-24T13:31:59+00:00",
+              "messageId": "dodtwitterbot/41578",
+              "description": "Liquid NFT launchpad on @giwa_by_upbit",
+              "text": "Liquid NFT launchpad on @giwa_by_upbit"
+            }
+          ],
+          "text": " GiwaPump GiwaPump Liquid NFT launchpad on @giwa_by_upbit",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "GIWATER",
+          "account": "GiwaterFinance",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "哒哒 🦅 🟠"
+          ],
+          "tgAlphas": [
+            "哒哒 🦅 🟠"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-24T12:03:53+00:00",
+          "lastSeen": "2026-11-24T12:03:53+00:00",
+          "description": "The liquidity layer for Korea's on-chain capital",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "GIWATER",
+              "account": "GiwaterFinance",
+              "alpha": "哒哒 🦅 🟠",
+              "seenAt": "2026-11-24T12:03:53+00:00",
+              "messageId": "dodtwitterbot/41569",
+              "description": "The liquidity layer for Korea's on-chain capital",
+              "text": "The liquidity layer for Korea's on-chain capital"
+            }
+          ],
+          "text": " GIWATER GiwaterFinance The liquidity layer for Korea's on-chain capital",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
           "project": "HonestBull",
           "account": "HonestBullBSC",
           "sources": [
@@ -37153,6 +37730,216 @@
           "dayStatus": "new"
         },
         {
+          "project": "LayerZero",
+          "account": "LayerZero_Core",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "哒哒 🦅 🟠"
+          ],
+          "tgAlphas": [
+            "哒哒 🦅 🟠"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-24T13:00:41+00:00",
+          "lastSeen": "2026-11-24T13:00:41+00:00",
+          "description": "Better Money Technology. Better Markets Technology. // @LayerZero_Fndn ㅤ",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "LayerZero",
+              "account": "LayerZero_Core",
+              "alpha": "哒哒 🦅 🟠",
+              "seenAt": "2026-11-24T13:00:41+00:00",
+              "messageId": "dodtwitterbot/41573",
+              "description": "Better Money Technology. Better Markets Technology. // @LayerZero_Fndn ㅤ",
+              "text": "Better Money Technology. Better Markets Technology. // @LayerZero_Fndn ㅤ"
+            }
+          ],
+          "text": " LayerZero LayerZero_Core Better Money Technology. Better Markets Technology. // @LayerZero_Fndn ㅤ",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "MAPAE",
+          "account": "MapaeGiwa",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "哒哒 🦅 🟠"
+          ],
+          "tgAlphas": [
+            "哒哒 🦅 🟠"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-24T13:22:19+00:00",
+          "lastSeen": "2026-11-24T13:22:19+00:00",
+          "description": "MAPAE, a launchpad where everyone starts from the same line.\n\nIncubated by @GIWA_by_Upbit . GASOK Accelerator Phase 3.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "MAPAE",
+              "account": "MapaeGiwa",
+              "alpha": "哒哒 🦅 🟠",
+              "seenAt": "2026-11-24T13:22:19+00:00",
+              "messageId": "dodtwitterbot/41577",
+              "description": "MAPAE, a launchpad where everyone starts from the same line.\n\nIncubated by @GIWA_by_Upbit . GASOK Accelerator Phase 3.",
+              "text": "MAPAE, a launchpad where everyone starts from the same line.\n\nIncubated by @GIWA_by_Upbit . GASOK Accelerator Phase 3."
+            }
+          ],
+          "text": " MAPAE MapaeGiwa MAPAE, a launchpad where everyone starts from the same line.\n\nIncubated by @GIWA_by_Upbit . GASOK Accelerator Phase 3.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Markov Robotics",
+          "account": "markovrobotics",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "well"
+          ],
+          "tgAlphas": [
+            "well"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-24T06:24:26+00:00",
+          "lastSeen": "2026-11-24T06:24:26+00:00",
+          "description": "0-shot dexterity",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Markov Robotics",
+              "account": "markovrobotics",
+              "alpha": "well",
+              "seenAt": "2026-11-24T06:24:26+00:00",
+              "messageId": "dodtwitterbot/41551",
+              "description": "0-shot dexterity",
+              "text": "0-shot dexterity"
+            }
+          ],
+          "text": " Markov Robotics markovrobotics 0-shot dexterity",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Mulle Protocol",
+          "account": "MulleProtocol",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-24T09:00:31+00:00",
+          "lastSeen": "2026-11-24T09:00:31+00:00",
+          "description": "Bringing sovereign assets on-chain.\nTokenized bonds.\nGlobal access.\n\nUPBIT GIWA Accelerating · Phase 3 @GIWA_by_Upbit",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Mulle Protocol",
+              "account": "MulleProtocol",
+              "alpha": "lakka",
+              "seenAt": "2026-11-24T09:00:31+00:00",
+              "messageId": "dodtwitterbot/41558",
+              "description": "Bringing sovereign assets on-chain.\nTokenized bonds.\nGlobal access.\n\nUPBIT GIWA Accelerating · Phase 3 @GIWA_by_Upbit",
+              "text": "Bringing sovereign assets on-chain.\nTokenized bonds.\nGlobal access.\n\nUPBIT GIWA Accelerating · Phase 3 @GIWA_by_Upbit"
+            }
+          ],
+          "text": " Mulle Protocol MulleProtocol Bringing sovereign assets on-chain.\nTokenized bonds.\nGlobal access.\n\nUPBIT GIWA Accelerating · Phase 3 @GIWA_by_Upbit",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "NFTX",
+          "account": "NFTX_",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "CSR"
+          ],
+          "tgAlphas": [
+            "CSR"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-24T15:39:35+00:00",
+          "lastSeen": "2026-11-24T15:39:35+00:00",
+          "description": "NFTs with instant liquidity, instant swaps and trade-ups. Stock pairings launch November 24.\n\nBuilt by @FlayerLabs",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "NFTX",
+              "account": "NFTX_",
+              "alpha": "CSR",
+              "seenAt": "2026-11-24T15:39:35+00:00",
+              "messageId": "dodtwitterbot/41581",
+              "description": "NFTs with instant liquidity, instant swaps and trade-ups. Stock pairings launch November 24.\n\nBuilt by @FlayerLabs",
+              "text": "NFTs with instant liquidity, instant swaps and trade-ups. Stock pairings launch November 24.\n\nBuilt by @FlayerLabs"
+            }
+          ],
+          "text": " NFTX NFTX_ NFTs with instant liquidity, instant swaps and trade-ups. Stock pairings launch November 24.\n\nBuilt by @FlayerLabs",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Revvy",
+          "account": "tryrevvy",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "speest 💎"
+          ],
+          "tgAlphas": [
+            "speest 💎"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-24T13:06:13+00:00",
+          "lastSeen": "2026-11-24T13:06:13+00:00",
+          "description": "The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Revvy",
+              "account": "tryrevvy",
+              "alpha": "speest 💎",
+              "seenAt": "2026-11-24T13:06:13+00:00",
+              "messageId": "dodtwitterbot/41574",
+              "description": "The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world",
+              "text": "The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world"
+            }
+          ],
+          "text": " Revvy tryrevvy The custom launchpad for Base coins that build themselves.\n\nPowered by programmable fees. Built on @clanker_world",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
           "project": "RGBStone",
           "account": "RGB_Stone",
           "sources": [
@@ -37186,6 +37973,76 @@
           "displayTier": "candidate",
           "avatarUrl": "",
           "dayStatus": "repeat"
+        },
+        {
+          "project": "SatSea",
+          "account": "thesatsea",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "八九"
+          ],
+          "tgAlphas": [
+            "八九"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-24T07:00:05+00:00",
+          "lastSeen": "2026-11-24T07:00:05+00:00",
+          "description": "The first UDA (NFT) marketplace on Bitcoin RGB\n\nConnect with us: https://t.co/21R714Juet",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "SatSea",
+              "account": "thesatsea",
+              "alpha": "八九",
+              "seenAt": "2026-11-24T07:00:05+00:00",
+              "messageId": "dodtwitterbot/41554",
+              "description": "The first UDA (NFT) marketplace on Bitcoin RGB\n\nConnect with us: https://t.co/21R714Juet",
+              "text": "The first UDA (NFT) marketplace on Bitcoin RGB\n\nConnect with us: https://t.co/21R714Juet"
+            }
+          ],
+          "text": " SatSea thesatsea The first UDA (NFT) marketplace on Bitcoin RGB\n\nConnect with us: https://t.co/21R714Juet",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Temple Digital Group",
+          "account": "temple_ny",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-24T09:39:45+00:00",
+          "lastSeen": "2026-11-24T09:39:45+00:00",
+          "description": "Private and compliant financial market infrastructure for the world's institutions on the @CantonNetwork",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Temple Digital Group",
+              "account": "temple_ny",
+              "alpha": "lakka",
+              "seenAt": "2026-11-24T09:39:45+00:00",
+              "messageId": "dodtwitterbot/41562",
+              "description": "Private and compliant financial market infrastructure for the world's institutions on the @CantonNetwork",
+              "text": "Private and compliant financial market infrastructure for the world's institutions on the @CantonNetwork"
+            }
+          ],
+          "text": " Temple Digital Group temple_ny Private and compliant financial market infrastructure for the world's institutions on the @CantonNetwork",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
         }
       ]
     },
@@ -69735,414 +70592,419 @@
   ],
   "reports": [
     {
+      "file": "2026-11-24-1630-telegram-update.md",
+      "title": "2026-11-24-1630-telegram-update",
+      "updatedAt": "2026-11-24T16:30:45.969Z"
+    },
+    {
       "file": "2026-11-24-0537-telegram-update.md",
       "title": "2026-11-24-0537-telegram-update",
-      "updatedAt": "2026-11-24T05:37:14.049Z"
+      "updatedAt": "2026-11-24T16:30:40.937Z"
     },
     {
       "file": "2026-11-23-2144-telegram-update.md",
       "title": "2026-11-23-2144-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.822Z"
+      "updatedAt": "2026-11-24T16:30:40.937Z"
     },
     {
       "file": "2026-11-23-0952-telegram-update.md",
       "title": "2026-11-23-0952-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.822Z"
+      "updatedAt": "2026-11-24T16:30:40.937Z"
     },
     {
       "file": "2026-11-22-1726-telegram-update.md",
       "title": "2026-11-22-1726-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.822Z"
+      "updatedAt": "2026-11-24T16:30:40.937Z"
     },
     {
       "file": "2026-11-22-0854-telegram-update.md",
       "title": "2026-11-22-0854-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.822Z"
+      "updatedAt": "2026-11-24T16:30:40.937Z"
     },
     {
       "file": "2026-11-22-0141-telegram-update.md",
       "title": "2026-11-22-0141-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.822Z"
+      "updatedAt": "2026-11-24T16:30:40.936Z"
     },
     {
       "file": "2026-11-21-2016-telegram-update.md",
       "title": "2026-11-21-2016-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.822Z"
+      "updatedAt": "2026-11-24T16:30:40.936Z"
     },
     {
       "file": "2026-11-21-1344-telegram-update.md",
       "title": "2026-11-21-1344-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.822Z"
+      "updatedAt": "2026-11-24T16:30:40.936Z"
     },
     {
       "file": "2026-11-21-0252-telegram-update.md",
       "title": "2026-11-21-0252-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.822Z"
+      "updatedAt": "2026-11-24T16:30:40.936Z"
     },
     {
       "file": "2026-11-20-0915-telegram-update.md",
       "title": "2026-11-20-0915-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.821Z"
+      "updatedAt": "2026-11-24T16:30:40.936Z"
     },
     {
       "file": "2026-11-19-2355-telegram-update.md",
       "title": "2026-11-19-2355-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.821Z"
+      "updatedAt": "2026-11-24T16:30:40.936Z"
     },
     {
       "file": "2026-11-19-1443-telegram-update.md",
       "title": "2026-11-19-1443-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.821Z"
+      "updatedAt": "2026-11-24T16:30:40.936Z"
     },
     {
       "file": "2026-11-18-1826-telegram-update.md",
       "title": "2026-11-18-1826-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.821Z"
+      "updatedAt": "2026-11-24T16:30:40.936Z"
     },
     {
       "file": "2026-11-18-0916-telegram-update.md",
       "title": "2026-11-18-0916-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.821Z"
+      "updatedAt": "2026-11-24T16:30:40.936Z"
     },
     {
       "file": "2026-11-18-0002-telegram-update.md",
       "title": "2026-11-18-0002-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.821Z"
+      "updatedAt": "2026-11-24T16:30:40.936Z"
     },
     {
       "file": "2026-11-17-1456-telegram-update.md",
       "title": "2026-11-17-1456-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.821Z"
+      "updatedAt": "2026-11-24T16:30:40.936Z"
     },
     {
       "file": "2026-11-17-0412-telegram-update.md",
       "title": "2026-11-17-0412-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.821Z"
+      "updatedAt": "2026-11-24T16:30:40.936Z"
     },
     {
       "file": "2026-11-16-1953-telegram-update.md",
       "title": "2026-11-16-1953-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.821Z"
+      "updatedAt": "2026-11-24T16:30:40.936Z"
     },
     {
       "file": "2026-11-16-0839-telegram-update.md",
       "title": "2026-11-16-0839-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.821Z"
+      "updatedAt": "2026-11-24T16:30:40.936Z"
     },
     {
       "file": "2026-11-15-2207-telegram-update.md",
       "title": "2026-11-15-2207-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.821Z"
+      "updatedAt": "2026-11-24T16:30:40.936Z"
     },
     {
       "file": "2026-11-15-1639-telegram-update.md",
       "title": "2026-11-15-1639-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.821Z"
+      "updatedAt": "2026-11-24T16:30:40.936Z"
     },
     {
       "file": "2026-11-15-0828-telegram-update.md",
       "title": "2026-11-15-0828-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.821Z"
+      "updatedAt": "2026-11-24T16:30:40.936Z"
     },
     {
       "file": "2026-11-15-0121-telegram-update.md",
       "title": "2026-11-15-0121-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.821Z"
+      "updatedAt": "2026-11-24T16:30:40.936Z"
     },
     {
       "file": "2026-11-14-2141-telegram-update.md",
       "title": "2026-11-14-2141-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.821Z"
+      "updatedAt": "2026-11-24T16:30:40.936Z"
     },
     {
       "file": "2026-11-14-1610-telegram-update.md",
       "title": "2026-11-14-1610-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.821Z"
+      "updatedAt": "2026-11-24T16:30:40.936Z"
     },
     {
       "file": "2026-11-14-0809-telegram-update.md",
       "title": "2026-11-14-0809-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.821Z"
+      "updatedAt": "2026-11-24T16:30:40.936Z"
     },
     {
       "file": "2026-11-13-2255-telegram-update.md",
       "title": "2026-11-13-2255-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.821Z"
+      "updatedAt": "2026-11-24T16:30:40.936Z"
     },
     {
       "file": "2026-11-13-1724-telegram-update.md",
       "title": "2026-11-13-1724-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.821Z"
+      "updatedAt": "2026-11-24T16:30:40.936Z"
     },
     {
       "file": "2026-11-13-0849-telegram-update.md",
       "title": "2026-11-13-0849-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.821Z"
+      "updatedAt": "2026-11-24T16:30:40.936Z"
     },
     {
       "file": "2026-11-12-2254-telegram-update.md",
       "title": "2026-11-12-2254-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.821Z"
+      "updatedAt": "2026-11-24T16:30:40.936Z"
     },
     {
       "file": "2026-11-12-1746-telegram-update.md",
       "title": "2026-11-12-1746-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.821Z"
+      "updatedAt": "2026-11-24T16:30:40.936Z"
     },
     {
       "file": "2026-11-12-0853-telegram-update.md",
       "title": "2026-11-12-0853-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.821Z"
+      "updatedAt": "2026-11-24T16:30:40.936Z"
     },
     {
       "file": "2026-11-11-2344-telegram-update.md",
       "title": "2026-11-11-2344-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.821Z"
+      "updatedAt": "2026-11-24T16:30:40.936Z"
     },
     {
       "file": "2026-11-11-1729-telegram-update.md",
       "title": "2026-11-11-1729-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.821Z"
+      "updatedAt": "2026-11-24T16:30:40.935Z"
     },
     {
       "file": "2026-11-11-0828-telegram-update.md",
       "title": "2026-11-11-0828-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.821Z"
+      "updatedAt": "2026-11-24T16:30:40.935Z"
     },
     {
       "file": "2026-11-11-0130-telegram-update.md",
       "title": "2026-11-11-0130-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.821Z"
+      "updatedAt": "2026-11-24T16:30:40.935Z"
     },
     {
       "file": "2026-11-10-2037-telegram-update.md",
       "title": "2026-11-10-2037-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.820Z"
+      "updatedAt": "2026-11-24T16:30:40.935Z"
     },
     {
       "file": "2026-11-10-1348-telegram-update.md",
       "title": "2026-11-10-1348-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.820Z"
+      "updatedAt": "2026-11-24T16:30:40.935Z"
     },
     {
       "file": "2026-11-10-0351-telegram-update.md",
       "title": "2026-11-10-0351-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.820Z"
+      "updatedAt": "2026-11-24T16:30:40.935Z"
     },
     {
       "file": "2026-11-09-2013-telegram-update.md",
       "title": "2026-11-09-2013-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.820Z"
+      "updatedAt": "2026-11-24T16:30:40.935Z"
     },
     {
       "file": "2026-11-09-0844-telegram-update.md",
       "title": "2026-11-09-0844-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.820Z"
+      "updatedAt": "2026-11-24T16:30:40.935Z"
     },
     {
       "file": "2026-11-08-2123-telegram-update.md",
       "title": "2026-11-08-2123-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.820Z"
+      "updatedAt": "2026-11-24T16:30:40.935Z"
     },
     {
       "file": "2026-11-08-1623-telegram-update.md",
       "title": "2026-11-08-1623-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.820Z"
+      "updatedAt": "2026-11-24T16:30:40.935Z"
     },
     {
       "file": "2026-11-08-0804-telegram-update.md",
       "title": "2026-11-08-0804-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.820Z"
+      "updatedAt": "2026-11-24T16:30:40.935Z"
     },
     {
       "file": "2026-11-07-2106-telegram-update.md",
       "title": "2026-11-07-2106-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.820Z"
+      "updatedAt": "2026-11-24T16:30:40.935Z"
     },
     {
       "file": "2026-11-07-1556-telegram-update.md",
       "title": "2026-11-07-1556-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.820Z"
+      "updatedAt": "2026-11-24T16:30:40.935Z"
     },
     {
       "file": "2026-11-07-0751-telegram-update.md",
       "title": "2026-11-07-0751-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.820Z"
+      "updatedAt": "2026-11-24T16:30:40.935Z"
     },
     {
       "file": "2026-11-06-2226-telegram-update.md",
       "title": "2026-11-06-2226-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.820Z"
+      "updatedAt": "2026-11-24T16:30:40.935Z"
     },
     {
       "file": "2026-11-06-1658-telegram-update.md",
       "title": "2026-11-06-1658-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.820Z"
+      "updatedAt": "2026-11-24T16:30:40.935Z"
     },
     {
       "file": "2026-11-06-0835-telegram-update.md",
       "title": "2026-11-06-0835-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.820Z"
+      "updatedAt": "2026-11-24T16:30:40.935Z"
     },
     {
       "file": "2026-11-05-2256-telegram-update.md",
       "title": "2026-11-05-2256-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.820Z"
+      "updatedAt": "2026-11-24T16:30:40.935Z"
     },
     {
       "file": "2026-11-05-1742-telegram-update.md",
       "title": "2026-11-05-1742-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.820Z"
+      "updatedAt": "2026-11-24T16:30:40.935Z"
     },
     {
       "file": "2026-11-05-0836-telegram-update.md",
       "title": "2026-11-05-0836-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.820Z"
+      "updatedAt": "2026-11-24T16:30:40.935Z"
     },
     {
       "file": "2026-11-04-2255-telegram-update.md",
       "title": "2026-11-04-2255-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.820Z"
+      "updatedAt": "2026-11-24T16:30:40.935Z"
     },
     {
       "file": "2026-11-04-1737-telegram-update.md",
       "title": "2026-11-04-1737-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.820Z"
+      "updatedAt": "2026-11-24T16:30:40.935Z"
     },
     {
       "file": "2026-11-04-0810-telegram-update.md",
       "title": "2026-11-04-0810-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.820Z"
+      "updatedAt": "2026-11-24T16:30:40.935Z"
     },
     {
       "file": "2026-11-04-0143-telegram-update.md",
       "title": "2026-11-04-0143-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.820Z"
+      "updatedAt": "2026-11-24T16:30:40.935Z"
     },
     {
       "file": "2026-11-03-2018-telegram-update.md",
       "title": "2026-11-03-2018-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.820Z"
+      "updatedAt": "2026-11-24T16:30:40.935Z"
     },
     {
       "file": "2026-11-03-1302-telegram-update.md",
       "title": "2026-11-03-1302-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.820Z"
+      "updatedAt": "2026-11-24T16:30:40.935Z"
     },
     {
       "file": "2026-11-03-0306-telegram-update.md",
       "title": "2026-11-03-0306-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.820Z"
+      "updatedAt": "2026-11-24T16:30:40.935Z"
     },
     {
       "file": "2026-11-02-1950-telegram-update.md",
       "title": "2026-11-02-1950-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.820Z"
+      "updatedAt": "2026-11-24T16:30:40.935Z"
     },
     {
       "file": "2026-11-02-0826-telegram-update.md",
       "title": "2026-11-02-0826-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.819Z"
+      "updatedAt": "2026-11-24T16:30:40.935Z"
     },
     {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.819Z"
+      "updatedAt": "2026-11-24T16:30:40.935Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.819Z"
+      "updatedAt": "2026-11-24T16:30:40.935Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.819Z"
+      "updatedAt": "2026-11-24T16:30:40.935Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.819Z"
+      "updatedAt": "2026-11-24T16:30:40.935Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.819Z"
+      "updatedAt": "2026-11-24T16:30:40.935Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.819Z"
+      "updatedAt": "2026-11-24T16:30:40.935Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.819Z"
+      "updatedAt": "2026-11-24T16:30:40.935Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.819Z"
+      "updatedAt": "2026-11-24T16:30:40.935Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.819Z"
+      "updatedAt": "2026-11-24T16:30:40.935Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.819Z"
+      "updatedAt": "2026-11-24T16:30:40.935Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.819Z"
+      "updatedAt": "2026-11-24T16:30:40.935Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.819Z"
+      "updatedAt": "2026-11-24T16:30:40.935Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.819Z"
+      "updatedAt": "2026-11-24T16:30:40.935Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.819Z"
+      "updatedAt": "2026-11-24T16:30:40.935Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.819Z"
+      "updatedAt": "2026-11-24T16:30:40.935Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.819Z"
+      "updatedAt": "2026-11-24T16:30:40.935Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.819Z"
+      "updatedAt": "2026-11-24T16:30:40.935Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.819Z"
+      "updatedAt": "2026-11-24T16:30:40.935Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-24T05:37:07.819Z"
+      "updatedAt": "2026-11-24T16:30:40.935Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-24T05:37:07.819Z"
+      "updatedAt": "2026-11-24T16:30:40.934Z"
     }
   ]
 }
