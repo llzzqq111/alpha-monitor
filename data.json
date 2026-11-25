@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-24T16:30:46.269Z",
+  "generatedAt": "2026-11-25T01:38:33.243Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 41584,
-    "lastMessageAt": "2026-11-24T16:30:12+00:00",
-    "lastCheckedAt": "2026-11-24T16:30:45.969Z",
-    "previousMessageId": 41550,
-    "pagesRead": 2,
-    "messagesRead": 34,
-    "newProjectRecords": 13,
+    "lastMessageId": 41599,
+    "lastMessageAt": "2026-11-24T20:29:17+00:00",
+    "lastCheckedAt": "2026-11-25T01:38:33.055Z",
+    "previousMessageId": 41584,
+    "pagesRead": 1,
+    "messagesRead": 15,
+    "newProjectRecords": 3,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 1075,
+    "telegramRows": 1078,
     "xRows": 0,
-    "projects": 664,
+    "projects": 666,
     "crossSource": 0
   },
   "projects": [
@@ -6444,6 +6444,64 @@
       "avatarUrl": ""
     },
     {
+      "project": "Thinkers_",
+      "account": "ThinkersClub_",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "CSR",
+        "Skrchen666(钻石手伤心版 绝对纸手之人）",
+        "lakka"
+      ],
+      "tgAlphas": [
+        "CSR",
+        "Skrchen666(钻石手伤心版 绝对纸手之人）",
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-11-16T16:28:54+00:00",
+      "lastSeen": "2026-11-24T19:37:02+00:00",
+      "description": "World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Thinkers_",
+          "account": "ThinkersClub_",
+          "alpha": "lakka",
+          "seenAt": "2026-11-16T16:28:54+00:00",
+          "messageId": "dodtwitterbot/41130",
+          "description": "World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_",
+          "text": "World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_"
+        },
+        {
+          "source": "TG",
+          "project": "Thinkers_",
+          "account": "ThinkersClub_",
+          "alpha": "Skrchen666(钻石手伤心版 绝对纸手之人）",
+          "seenAt": "2026-11-17T11:07:32+00:00",
+          "messageId": "dodtwitterbot/41184",
+          "description": "World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_",
+          "text": "World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_"
+        },
+        {
+          "source": "TG",
+          "project": "Thinkers_",
+          "account": "ThinkersClub_",
+          "alpha": "CSR",
+          "seenAt": "2026-11-24T19:37:02+00:00",
+          "messageId": "dodtwitterbot/41596",
+          "description": "World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_",
+          "text": "World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_"
+        }
+      ],
+      "text": " Thinkers_ ThinkersClub_ World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_ Thinkers_ ThinkersClub_ World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_ Thinkers_ ThinkersClub_ World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Tick",
       "account": "tick_fivebar",
       "sources": [
@@ -11917,52 +11975,6 @@
         }
       ],
       "text": " The Circus CircusLaunchpad The Last Launchpad\n\nManaged by @sunnyklown The Circus CircusLaunchpad The Last Launchpad\n\nManaged by @sunnyklown",
-      "score": 4,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Thinkers_",
-      "account": "ThinkersClub_",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "Skrchen666(钻石手伤心版 绝对纸手之人）",
-        "lakka"
-      ],
-      "tgAlphas": [
-        "Skrchen666(钻石手伤心版 绝对纸手之人）",
-        "lakka"
-      ],
-      "xAlphas": [],
-      "mentions": 2,
-      "firstSeen": "2026-11-16T16:28:54+00:00",
-      "lastSeen": "2026-11-17T11:07:32+00:00",
-      "description": "World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Thinkers_",
-          "account": "ThinkersClub_",
-          "alpha": "lakka",
-          "seenAt": "2026-11-16T16:28:54+00:00",
-          "messageId": "dodtwitterbot/41130",
-          "description": "World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_",
-          "text": "World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_"
-        },
-        {
-          "source": "TG",
-          "project": "Thinkers_",
-          "account": "ThinkersClub_",
-          "alpha": "Skrchen666(钻石手伤心版 绝对纸手之人）",
-          "seenAt": "2026-11-17T11:07:32+00:00",
-          "messageId": "dodtwitterbot/41184",
-          "description": "World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_",
-          "text": "World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_"
-        }
-      ],
-      "text": " Thinkers_ ThinkersClub_ World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_ Thinkers_ ThinkersClub_ World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -26066,6 +26078,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Thinkers Strategy",
+      "account": "ThinkerStrategy",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka"
+      ],
+      "tgAlphas": [
+        "lakka"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-24T18:29:14+00:00",
+      "lastSeen": "2026-11-24T18:29:14+00:00",
+      "description": "The perpetual @Thinkersclub_ machine on ink.\n\nthinking_thinking_thinking_",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Thinkers Strategy",
+          "account": "ThinkerStrategy",
+          "alpha": "lakka",
+          "seenAt": "2026-11-24T18:29:14+00:00",
+          "messageId": "dodtwitterbot/41593",
+          "description": "The perpetual @Thinkersclub_ machine on ink.\n\nthinking_thinking_thinking_",
+          "text": "The perpetual @Thinkersclub_ machine on ink.\n\nthinking_thinking_thinking_"
+        }
+      ],
+      "text": " Thinkers Strategy ThinkerStrategy The perpetual @Thinkersclub_ machine on ink.\n\nthinking_thinking_thinking_",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "TidePerps",
       "account": "tideperps",
       "sources": [
@@ -26877,6 +26923,40 @@
         }
       ],
       "text": " zBase zbase__ Open Privacy for Agents | Base Batches 003 Finalist | https://t.co/MCBiDDKm1K ( @cardano_cf )",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Zentra Finance",
+      "account": "ZENTRA_Hq",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BTC alpha"
+      ],
+      "tgAlphas": [
+        "BTC alpha"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-24T20:29:17+00:00",
+      "lastSeen": "2026-11-24T20:29:17+00:00",
+      "description": "The Next-Gen lending & borrowing, liquidity, trading and yield-generation protocol. Audited & Doxxed by @Vb_Audit , ⛽️ fueled On @CantonNetwork",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Zentra Finance",
+          "account": "ZENTRA_Hq",
+          "alpha": "BTC alpha",
+          "seenAt": "2026-11-24T20:29:17+00:00",
+          "messageId": "dodtwitterbot/41599",
+          "description": "The Next-Gen lending & borrowing, liquidity, trading and yield-generation protocol. Audited & Doxxed by @Vb_Audit , ⛽️ fueled On @CantonNetwork",
+          "text": "The Next-Gen lending & borrowing, liquidity, trading and yield-generation protocol. Audited & Doxxed by @Vb_Audit , ⛽️ fueled On @CantonNetwork"
+        }
+      ],
+      "text": " Zentra Finance ZENTRA_Hq The Next-Gen lending & borrowing, liquidity, trading and yield-generation protocol. Audited & Doxxed by @Vb_Audit , ⛽️ fueled On @CantonNetwork",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -29117,6 +29197,22 @@
       "avatarUrl": ""
     },
     {
+      "project": "Thinkers_",
+      "x_account": "ThinkersClub_",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "CSR",
+        "Skrchen666(钻石手伤心版 绝对纸手之人）",
+        "lakka"
+      ],
+      "description": "World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_",
+      "first_seen_utc": "2026-11-16T16:28:54+00:00",
+      "last_seen_utc": "2026-11-24T19:37:02+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
       "project": "Tick",
       "x_account": "tick_fivebar",
       "total_mentions": 3,
@@ -30876,21 +30972,6 @@
       "description": "The Last Launchpad\n\nManaged by @sunnyklown",
       "first_seen_utc": "2026-11-23T20:23:00+00:00",
       "last_seen_utc": "2026-11-23T20:29:47+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Thinkers_",
-      "x_account": "ThinkersClub_",
-      "total_mentions": 2,
-      "unique_alphas": 2,
-      "alphas": [
-        "Skrchen666(钻石手伤心版 绝对纸手之人）",
-        "lakka"
-      ],
-      "description": "World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_",
-      "first_seen_utc": "2026-11-16T16:28:54+00:00",
-      "last_seen_utc": "2026-11-17T11:07:32+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -36637,6 +36718,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Thinkers Strategy",
+      "x_account": "ThinkerStrategy",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "lakka"
+      ],
+      "description": "The perpetual @Thinkersclub_ machine on ink.\n\nthinking_thinking_thinking_",
+      "first_seen_utc": "2026-11-24T18:29:14+00:00",
+      "last_seen_utc": "2026-11-24T18:29:14+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "TidePerps",
       "x_account": "tideperps",
       "total_mentions": 1,
@@ -36973,6 +37068,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Zentra Finance",
+      "x_account": "ZENTRA_Hq",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "BTC alpha"
+      ],
+      "description": "The Next-Gen lending & borrowing, liquidity, trading and yield-generation protocol. Audited & Doxxed by @Vb_Audit , ⛽️ fueled On @CantonNetwork",
+      "first_seen_utc": "2026-11-24T20:29:17+00:00",
+      "last_seen_utc": "2026-11-24T20:29:17+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Zephium",
       "x_account": "zephium_browser",
       "total_mentions": 1,
@@ -37242,14 +37351,120 @@
   "daily": [
     {
       "date": "2026-11-25",
-      "totalRows": 0,
-      "projectCount": 0,
+      "totalRows": 3,
+      "projectCount": 3,
       "focusCount": 0,
-      "candidateCount": 0,
+      "candidateCount": 3,
       "crossSource": 0,
-      "newCount": 0,
-      "repeatCount": 0,
-      "projects": []
+      "newCount": 2,
+      "repeatCount": 1,
+      "projects": [
+        {
+          "project": "Thinkers Strategy",
+          "account": "ThinkerStrategy",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "lakka"
+          ],
+          "tgAlphas": [
+            "lakka"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-24T18:29:14+00:00",
+          "lastSeen": "2026-11-24T18:29:14+00:00",
+          "description": "The perpetual @Thinkersclub_ machine on ink.\n\nthinking_thinking_thinking_",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Thinkers Strategy",
+              "account": "ThinkerStrategy",
+              "alpha": "lakka",
+              "seenAt": "2026-11-24T18:29:14+00:00",
+              "messageId": "dodtwitterbot/41593",
+              "description": "The perpetual @Thinkersclub_ machine on ink.\n\nthinking_thinking_thinking_",
+              "text": "The perpetual @Thinkersclub_ machine on ink.\n\nthinking_thinking_thinking_"
+            }
+          ],
+          "text": " Thinkers Strategy ThinkerStrategy The perpetual @Thinkersclub_ machine on ink.\n\nthinking_thinking_thinking_",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Thinkers_",
+          "account": "ThinkersClub_",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "CSR"
+          ],
+          "tgAlphas": [
+            "CSR"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-24T19:37:02+00:00",
+          "lastSeen": "2026-11-24T19:37:02+00:00",
+          "description": "World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Thinkers_",
+              "account": "ThinkersClub_",
+              "alpha": "CSR",
+              "seenAt": "2026-11-24T19:37:02+00:00",
+              "messageId": "dodtwitterbot/41596",
+              "description": "World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_",
+              "text": "World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_"
+            }
+          ],
+          "text": " Thinkers_ ThinkersClub_ World's first stock paired NFTs coming soon to INK chain.\n\nthinking_thinking_thinking_",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Zentra Finance",
+          "account": "ZENTRA_Hq",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BTC alpha"
+          ],
+          "tgAlphas": [
+            "BTC alpha"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-24T20:29:17+00:00",
+          "lastSeen": "2026-11-24T20:29:17+00:00",
+          "description": "The Next-Gen lending & borrowing, liquidity, trading and yield-generation protocol. Audited & Doxxed by @Vb_Audit , ⛽️ fueled On @CantonNetwork",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Zentra Finance",
+              "account": "ZENTRA_Hq",
+              "alpha": "BTC alpha",
+              "seenAt": "2026-11-24T20:29:17+00:00",
+              "messageId": "dodtwitterbot/41599",
+              "description": "The Next-Gen lending & borrowing, liquidity, trading and yield-generation protocol. Audited & Doxxed by @Vb_Audit , ⛽️ fueled On @CantonNetwork",
+              "text": "The Next-Gen lending & borrowing, liquidity, trading and yield-generation protocol. Audited & Doxxed by @Vb_Audit , ⛽️ fueled On @CantonNetwork"
+            }
+          ],
+          "text": " Zentra Finance ZENTRA_Hq The Next-Gen lending & borrowing, liquidity, trading and yield-generation protocol. Audited & Doxxed by @Vb_Audit , ⛽️ fueled On @CantonNetwork",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        }
+      ]
     },
     {
       "date": "2026-11-24",
@@ -70592,419 +70807,424 @@
   ],
   "reports": [
     {
+      "file": "2026-11-25-0138-telegram-update.md",
+      "title": "2026-11-25-0138-telegram-update",
+      "updatedAt": "2026-11-25T01:38:33.054Z"
+    },
+    {
       "file": "2026-11-24-1630-telegram-update.md",
       "title": "2026-11-24-1630-telegram-update",
-      "updatedAt": "2026-11-24T16:30:45.969Z"
+      "updatedAt": "2026-11-25T01:38:31.462Z"
     },
     {
       "file": "2026-11-24-0537-telegram-update.md",
       "title": "2026-11-24-0537-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.937Z"
+      "updatedAt": "2026-11-25T01:38:31.462Z"
     },
     {
       "file": "2026-11-23-2144-telegram-update.md",
       "title": "2026-11-23-2144-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.937Z"
+      "updatedAt": "2026-11-25T01:38:31.462Z"
     },
     {
       "file": "2026-11-23-0952-telegram-update.md",
       "title": "2026-11-23-0952-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.937Z"
+      "updatedAt": "2026-11-25T01:38:31.462Z"
     },
     {
       "file": "2026-11-22-1726-telegram-update.md",
       "title": "2026-11-22-1726-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.937Z"
+      "updatedAt": "2026-11-25T01:38:31.462Z"
     },
     {
       "file": "2026-11-22-0854-telegram-update.md",
       "title": "2026-11-22-0854-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.937Z"
+      "updatedAt": "2026-11-25T01:38:31.462Z"
     },
     {
       "file": "2026-11-22-0141-telegram-update.md",
       "title": "2026-11-22-0141-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.936Z"
+      "updatedAt": "2026-11-25T01:38:31.462Z"
     },
     {
       "file": "2026-11-21-2016-telegram-update.md",
       "title": "2026-11-21-2016-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.936Z"
+      "updatedAt": "2026-11-25T01:38:31.462Z"
     },
     {
       "file": "2026-11-21-1344-telegram-update.md",
       "title": "2026-11-21-1344-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.936Z"
+      "updatedAt": "2026-11-25T01:38:31.462Z"
     },
     {
       "file": "2026-11-21-0252-telegram-update.md",
       "title": "2026-11-21-0252-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.936Z"
+      "updatedAt": "2026-11-25T01:38:31.462Z"
     },
     {
       "file": "2026-11-20-0915-telegram-update.md",
       "title": "2026-11-20-0915-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.936Z"
+      "updatedAt": "2026-11-25T01:38:31.462Z"
     },
     {
       "file": "2026-11-19-2355-telegram-update.md",
       "title": "2026-11-19-2355-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.936Z"
+      "updatedAt": "2026-11-25T01:38:31.462Z"
     },
     {
       "file": "2026-11-19-1443-telegram-update.md",
       "title": "2026-11-19-1443-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.936Z"
+      "updatedAt": "2026-11-25T01:38:31.462Z"
     },
     {
       "file": "2026-11-18-1826-telegram-update.md",
       "title": "2026-11-18-1826-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.936Z"
+      "updatedAt": "2026-11-25T01:38:31.462Z"
     },
     {
       "file": "2026-11-18-0916-telegram-update.md",
       "title": "2026-11-18-0916-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.936Z"
+      "updatedAt": "2026-11-25T01:38:31.462Z"
     },
     {
       "file": "2026-11-18-0002-telegram-update.md",
       "title": "2026-11-18-0002-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.936Z"
+      "updatedAt": "2026-11-25T01:38:31.462Z"
     },
     {
       "file": "2026-11-17-1456-telegram-update.md",
       "title": "2026-11-17-1456-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.936Z"
+      "updatedAt": "2026-11-25T01:38:31.462Z"
     },
     {
       "file": "2026-11-17-0412-telegram-update.md",
       "title": "2026-11-17-0412-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.936Z"
+      "updatedAt": "2026-11-25T01:38:31.462Z"
     },
     {
       "file": "2026-11-16-1953-telegram-update.md",
       "title": "2026-11-16-1953-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.936Z"
+      "updatedAt": "2026-11-25T01:38:31.462Z"
     },
     {
       "file": "2026-11-16-0839-telegram-update.md",
       "title": "2026-11-16-0839-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.936Z"
+      "updatedAt": "2026-11-25T01:38:31.462Z"
     },
     {
       "file": "2026-11-15-2207-telegram-update.md",
       "title": "2026-11-15-2207-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.936Z"
+      "updatedAt": "2026-11-25T01:38:31.462Z"
     },
     {
       "file": "2026-11-15-1639-telegram-update.md",
       "title": "2026-11-15-1639-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.936Z"
+      "updatedAt": "2026-11-25T01:38:31.462Z"
     },
     {
       "file": "2026-11-15-0828-telegram-update.md",
       "title": "2026-11-15-0828-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.936Z"
+      "updatedAt": "2026-11-25T01:38:31.462Z"
     },
     {
       "file": "2026-11-15-0121-telegram-update.md",
       "title": "2026-11-15-0121-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.936Z"
+      "updatedAt": "2026-11-25T01:38:31.462Z"
     },
     {
       "file": "2026-11-14-2141-telegram-update.md",
       "title": "2026-11-14-2141-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.936Z"
+      "updatedAt": "2026-11-25T01:38:31.462Z"
     },
     {
       "file": "2026-11-14-1610-telegram-update.md",
       "title": "2026-11-14-1610-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.936Z"
+      "updatedAt": "2026-11-25T01:38:31.462Z"
     },
     {
       "file": "2026-11-14-0809-telegram-update.md",
       "title": "2026-11-14-0809-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.936Z"
+      "updatedAt": "2026-11-25T01:38:31.462Z"
     },
     {
       "file": "2026-11-13-2255-telegram-update.md",
       "title": "2026-11-13-2255-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.936Z"
+      "updatedAt": "2026-11-25T01:38:31.462Z"
     },
     {
       "file": "2026-11-13-1724-telegram-update.md",
       "title": "2026-11-13-1724-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.936Z"
+      "updatedAt": "2026-11-25T01:38:31.462Z"
     },
     {
       "file": "2026-11-13-0849-telegram-update.md",
       "title": "2026-11-13-0849-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.936Z"
+      "updatedAt": "2026-11-25T01:38:31.462Z"
     },
     {
       "file": "2026-11-12-2254-telegram-update.md",
       "title": "2026-11-12-2254-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.936Z"
+      "updatedAt": "2026-11-25T01:38:31.462Z"
     },
     {
       "file": "2026-11-12-1746-telegram-update.md",
       "title": "2026-11-12-1746-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.936Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-11-12-0853-telegram-update.md",
       "title": "2026-11-12-0853-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.936Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-11-11-2344-telegram-update.md",
       "title": "2026-11-11-2344-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.936Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-11-11-1729-telegram-update.md",
       "title": "2026-11-11-1729-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.935Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-11-11-0828-telegram-update.md",
       "title": "2026-11-11-0828-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.935Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-11-11-0130-telegram-update.md",
       "title": "2026-11-11-0130-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.935Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-11-10-2037-telegram-update.md",
       "title": "2026-11-10-2037-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.935Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-11-10-1348-telegram-update.md",
       "title": "2026-11-10-1348-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.935Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-11-10-0351-telegram-update.md",
       "title": "2026-11-10-0351-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.935Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-11-09-2013-telegram-update.md",
       "title": "2026-11-09-2013-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.935Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-11-09-0844-telegram-update.md",
       "title": "2026-11-09-0844-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.935Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-11-08-2123-telegram-update.md",
       "title": "2026-11-08-2123-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.935Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-11-08-1623-telegram-update.md",
       "title": "2026-11-08-1623-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.935Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-11-08-0804-telegram-update.md",
       "title": "2026-11-08-0804-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.935Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-11-07-2106-telegram-update.md",
       "title": "2026-11-07-2106-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.935Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-11-07-1556-telegram-update.md",
       "title": "2026-11-07-1556-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.935Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-11-07-0751-telegram-update.md",
       "title": "2026-11-07-0751-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.935Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-11-06-2226-telegram-update.md",
       "title": "2026-11-06-2226-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.935Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-11-06-1658-telegram-update.md",
       "title": "2026-11-06-1658-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.935Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-11-06-0835-telegram-update.md",
       "title": "2026-11-06-0835-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.935Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-11-05-2256-telegram-update.md",
       "title": "2026-11-05-2256-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.935Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-11-05-1742-telegram-update.md",
       "title": "2026-11-05-1742-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.935Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-11-05-0836-telegram-update.md",
       "title": "2026-11-05-0836-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.935Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-11-04-2255-telegram-update.md",
       "title": "2026-11-04-2255-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.935Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-11-04-1737-telegram-update.md",
       "title": "2026-11-04-1737-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.935Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-11-04-0810-telegram-update.md",
       "title": "2026-11-04-0810-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.935Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-11-04-0143-telegram-update.md",
       "title": "2026-11-04-0143-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.935Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-11-03-2018-telegram-update.md",
       "title": "2026-11-03-2018-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.935Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-11-03-1302-telegram-update.md",
       "title": "2026-11-03-1302-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.935Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-11-03-0306-telegram-update.md",
       "title": "2026-11-03-0306-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.935Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-11-02-1950-telegram-update.md",
       "title": "2026-11-02-1950-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.935Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-11-02-0826-telegram-update.md",
       "title": "2026-11-02-0826-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.935Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.935Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.935Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.935Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.935Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.935Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.935Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.935Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.935Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.935Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.935Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.935Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.935Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.935Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.935Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.935Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.935Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.935Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.935Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-24T16:30:40.935Z"
+      "updatedAt": "2026-11-25T01:38:31.461Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-24T16:30:40.934Z"
+      "updatedAt": "2026-11-25T01:38:31.460Z"
     }
   ]
 }
