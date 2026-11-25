@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-25T01:38:33.243Z",
+  "generatedAt": "2026-11-25T10:33:24.380Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 41599,
-    "lastMessageAt": "2026-11-24T20:29:17+00:00",
-    "lastCheckedAt": "2026-11-25T01:38:33.055Z",
-    "previousMessageId": 41584,
-    "pagesRead": 1,
-    "messagesRead": 15,
+    "lastMessageId": 41620,
+    "lastMessageAt": "2026-11-25T10:26:35+00:00",
+    "lastCheckedAt": "2026-11-25T10:33:24.172Z",
+    "previousMessageId": 41599,
+    "pagesRead": 2,
+    "messagesRead": 21,
     "newProjectRecords": 3,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 1078,
+    "telegramRows": 1081,
     "xRows": 0,
-    "projects": 666,
+    "projects": 668,
     "crossSource": 0
   },
   "projects": [
@@ -11796,6 +11796,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "StinkyPenguin 臭企鹅",
+      "account": "StinkyPenguinL0",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "CSR",
+        "Mutu 🕸️"
+      ],
+      "tgAlphas": [
+        "CSR",
+        "Mutu 🕸️"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-16T15:49:58+00:00",
+      "lastSeen": "2026-11-25T09:11:16+00:00",
+      "description": "I am my penguin and my penguin is me.\n\n· *Rookery* launchpad burns 0.5% of every trade into the penguin\nMultichains Luanchpad & Pre Market Launchpad",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "StinkyPenguin 臭企鹅",
+          "account": "StinkyPenguinL0",
+          "alpha": "CSR",
+          "seenAt": "2026-11-16T15:49:58+00:00",
+          "messageId": "dodtwitterbot/41126",
+          "description": "I am my penguin and my penguin is me.\n· *Rookery* launchpad burns 0.5% of every trade into the penguin\n· Pad for: LayerZero / Giwa / XLM 👈",
+          "text": "I am my penguin and my penguin is me.\n· *Rookery* launchpad burns 0.5% of every trade into the penguin\n· Pad for: LayerZero / Giwa / XLM 👈"
+        },
+        {
+          "source": "TG",
+          "project": "Rookery 臭企鹅",
+          "account": "StinkyPenguinL0",
+          "alpha": "Mutu 🕸️",
+          "seenAt": "2026-11-25T09:11:16+00:00",
+          "messageId": "dodtwitterbot/41617",
+          "description": "I am my penguin and my penguin is me.\n\n· *Rookery* launchpad burns 0.5% of every trade into the penguin\nMultichains Luanchpad & Pre Market Launchpad",
+          "text": "I am my penguin and my penguin is me.\n\n· *Rookery* launchpad burns 0.5% of every trade into the penguin\nMultichains Luanchpad & Pre Market Launchpad"
+        }
+      ],
+      "text": " StinkyPenguin 臭企鹅 StinkyPenguinL0 I am my penguin and my penguin is me.\n· *Rookery* launchpad burns 0.5% of every trade into the penguin\n· Pad for: LayerZero / Giwa / XLM 👈 Rookery 臭企鹅 StinkyPenguinL0 I am my penguin and my penguin is me.\n\n· *Rookery* launchpad burns 0.5% of every trade into the penguin\nMultichains Luanchpad & Pre Market Launchpad",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Sudo",
       "account": "textsudo",
       "sources": [
@@ -18836,6 +18882,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Hyperodds",
+      "account": "UseHyperodds",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Mutu 🕸️"
+      ],
+      "tgAlphas": [
+        "Mutu 🕸️"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-25T07:47:37+00:00",
+      "lastSeen": "2026-11-25T07:47:37+00:00",
+      "description": "Terminal for @HyperliquidX outcome markets.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Hyperodds",
+          "account": "UseHyperodds",
+          "alpha": "Mutu 🕸️",
+          "seenAt": "2026-11-25T07:47:37+00:00",
+          "messageId": "dodtwitterbot/41614",
+          "description": "Terminal for @HyperliquidX outcome markets.",
+          "text": "Terminal for @HyperliquidX outcome markets."
+        }
+      ],
+      "text": " Hyperodds UseHyperodds Terminal for @HyperliquidX outcome markets.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "HypeX",
       "account": "useHypeX",
       "sources": [
@@ -24684,40 +24764,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "StinkyPenguin 臭企鹅",
-      "account": "StinkyPenguinL0",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "CSR"
-      ],
-      "tgAlphas": [
-        "CSR"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-16T15:49:58+00:00",
-      "lastSeen": "2026-11-16T15:49:58+00:00",
-      "description": "I am my penguin and my penguin is me.\n· *Rookery* launchpad burns 0.5% of every trade into the penguin\n· Pad for: LayerZero / Giwa / XLM 👈",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "StinkyPenguin 臭企鹅",
-          "account": "StinkyPenguinL0",
-          "alpha": "CSR",
-          "seenAt": "2026-11-16T15:49:58+00:00",
-          "messageId": "dodtwitterbot/41126",
-          "description": "I am my penguin and my penguin is me.\n· *Rookery* launchpad burns 0.5% of every trade into the penguin\n· Pad for: LayerZero / Giwa / XLM 👈",
-          "text": "I am my penguin and my penguin is me.\n· *Rookery* launchpad burns 0.5% of every trade into the penguin\n· Pad for: LayerZero / Giwa / XLM 👈"
-        }
-      ],
-      "text": " StinkyPenguin 臭企鹅 StinkyPenguinL0 I am my penguin and my penguin is me.\n· *Rookery* launchpad burns 0.5% of every trade into the penguin\n· Pad for: LayerZero / Giwa / XLM 👈",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
       "project": "Stox Credit",
       "account": "StoxCredit",
       "sources": [
@@ -26583,6 +26629,40 @@
         }
       ],
       "text": " Veins veindotspace The first mining protocol on Elysium.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Vested",
+      "account": "vestedfun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "黑客fa1r"
+      ],
+      "tgAlphas": [
+        "黑客fa1r"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-25T07:37:02+00:00",
+      "lastSeen": "2026-11-25T07:37:02+00:00",
+      "description": "Launch tokens on public terms.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Vested",
+          "account": "vestedfun",
+          "alpha": "黑客fa1r",
+          "seenAt": "2026-11-25T07:37:02+00:00",
+          "messageId": "dodtwitterbot/41612",
+          "description": "Launch tokens on public terms.",
+          "text": "Launch tokens on public terms."
+        }
+      ],
+      "text": " Vested vestedfun Launch tokens on public terms.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -30916,6 +30996,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "StinkyPenguin 臭企鹅",
+      "x_account": "StinkyPenguinL0",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "CSR",
+        "Mutu 🕸️"
+      ],
+      "description": "I am my penguin and my penguin is me.\n\n· *Rookery* launchpad burns 0.5% of every trade into the penguin\nMultichains Luanchpad & Pre Market Launchpad",
+      "first_seen_utc": "2026-11-16T15:49:58+00:00",
+      "last_seen_utc": "2026-11-25T09:11:16+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Sudo",
       "x_account": "textsudo",
       "total_mentions": 2,
@@ -33736,6 +33831,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Hyperodds",
+      "x_account": "UseHyperodds",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "Mutu 🕸️"
+      ],
+      "description": "Terminal for @HyperliquidX outcome markets.",
+      "first_seen_utc": "2026-11-25T07:47:37+00:00",
+      "last_seen_utc": "2026-11-25T07:47:37+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "HypeX",
       "x_account": "useHypeX",
       "total_mentions": 1,
@@ -36144,20 +36253,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "StinkyPenguin 臭企鹅",
-      "x_account": "StinkyPenguinL0",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "CSR"
-      ],
-      "description": "I am my penguin and my penguin is me.\n· *Rookery* launchpad burns 0.5% of every trade into the penguin\n· Pad for: LayerZero / Giwa / XLM 👈",
-      "first_seen_utc": "2026-11-16T15:49:58+00:00",
-      "last_seen_utc": "2026-11-16T15:49:58+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "Stox Credit",
       "x_account": "StoxCredit",
       "total_mentions": 1,
@@ -36928,6 +37023,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Vested",
+      "x_account": "vestedfun",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "黑客fa1r"
+      ],
+      "description": "Launch tokens on public terms.",
+      "first_seen_utc": "2026-11-25T07:37:02+00:00",
+      "last_seen_utc": "2026-11-25T07:37:02+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "vpaw",
       "x_account": "vPawHook",
       "total_mentions": 1,
@@ -37351,14 +37460,84 @@
   "daily": [
     {
       "date": "2026-11-25",
-      "totalRows": 3,
-      "projectCount": 3,
+      "totalRows": 6,
+      "projectCount": 6,
       "focusCount": 0,
-      "candidateCount": 3,
+      "candidateCount": 6,
       "crossSource": 0,
-      "newCount": 2,
-      "repeatCount": 1,
+      "newCount": 4,
+      "repeatCount": 2,
       "projects": [
+        {
+          "project": "Hyperodds",
+          "account": "UseHyperodds",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Mutu 🕸️"
+          ],
+          "tgAlphas": [
+            "Mutu 🕸️"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-25T07:47:37+00:00",
+          "lastSeen": "2026-11-25T07:47:37+00:00",
+          "description": "Terminal for @HyperliquidX outcome markets.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Hyperodds",
+              "account": "UseHyperodds",
+              "alpha": "Mutu 🕸️",
+              "seenAt": "2026-11-25T07:47:37+00:00",
+              "messageId": "dodtwitterbot/41614",
+              "description": "Terminal for @HyperliquidX outcome markets.",
+              "text": "Terminal for @HyperliquidX outcome markets."
+            }
+          ],
+          "text": " Hyperodds UseHyperodds Terminal for @HyperliquidX outcome markets.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Rookery 臭企鹅",
+          "account": "StinkyPenguinL0",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Mutu 🕸️"
+          ],
+          "tgAlphas": [
+            "Mutu 🕸️"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-25T09:11:16+00:00",
+          "lastSeen": "2026-11-25T09:11:16+00:00",
+          "description": "I am my penguin and my penguin is me.\n\n· *Rookery* launchpad burns 0.5% of every trade into the penguin\nMultichains Luanchpad & Pre Market Launchpad",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Rookery 臭企鹅",
+              "account": "StinkyPenguinL0",
+              "alpha": "Mutu 🕸️",
+              "seenAt": "2026-11-25T09:11:16+00:00",
+              "messageId": "dodtwitterbot/41617",
+              "description": "I am my penguin and my penguin is me.\n\n· *Rookery* launchpad burns 0.5% of every trade into the penguin\nMultichains Luanchpad & Pre Market Launchpad",
+              "text": "I am my penguin and my penguin is me.\n\n· *Rookery* launchpad burns 0.5% of every trade into the penguin\nMultichains Luanchpad & Pre Market Launchpad"
+            }
+          ],
+          "text": " Rookery 臭企鹅 StinkyPenguinL0 I am my penguin and my penguin is me.\n\n· *Rookery* launchpad burns 0.5% of every trade into the penguin\nMultichains Luanchpad & Pre Market Launchpad",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
         {
           "project": "Thinkers Strategy",
           "account": "ThinkerStrategy",
@@ -37428,6 +37607,41 @@
           "displayTier": "candidate",
           "avatarUrl": "",
           "dayStatus": "repeat"
+        },
+        {
+          "project": "Vested",
+          "account": "vestedfun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "黑客fa1r"
+          ],
+          "tgAlphas": [
+            "黑客fa1r"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-25T07:37:02+00:00",
+          "lastSeen": "2026-11-25T07:37:02+00:00",
+          "description": "Launch tokens on public terms.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Vested",
+              "account": "vestedfun",
+              "alpha": "黑客fa1r",
+              "seenAt": "2026-11-25T07:37:02+00:00",
+              "messageId": "dodtwitterbot/41612",
+              "description": "Launch tokens on public terms.",
+              "text": "Launch tokens on public terms."
+            }
+          ],
+          "text": " Vested vestedfun Launch tokens on public terms.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
         },
         {
           "project": "Zentra Finance",
@@ -70807,424 +71021,429 @@
   ],
   "reports": [
     {
+      "file": "2026-11-25-1033-telegram-update.md",
+      "title": "2026-11-25-1033-telegram-update",
+      "updatedAt": "2026-11-25T10:33:24.172Z"
+    },
+    {
       "file": "2026-11-25-0138-telegram-update.md",
       "title": "2026-11-25-0138-telegram-update",
-      "updatedAt": "2026-11-25T01:38:33.054Z"
+      "updatedAt": "2026-11-25T10:33:22.298Z"
     },
     {
       "file": "2026-11-24-1630-telegram-update.md",
       "title": "2026-11-24-1630-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.462Z"
+      "updatedAt": "2026-11-25T10:33:22.298Z"
     },
     {
       "file": "2026-11-24-0537-telegram-update.md",
       "title": "2026-11-24-0537-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.462Z"
+      "updatedAt": "2026-11-25T10:33:22.297Z"
     },
     {
       "file": "2026-11-23-2144-telegram-update.md",
       "title": "2026-11-23-2144-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.462Z"
+      "updatedAt": "2026-11-25T10:33:22.297Z"
     },
     {
       "file": "2026-11-23-0952-telegram-update.md",
       "title": "2026-11-23-0952-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.462Z"
+      "updatedAt": "2026-11-25T10:33:22.297Z"
     },
     {
       "file": "2026-11-22-1726-telegram-update.md",
       "title": "2026-11-22-1726-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.462Z"
+      "updatedAt": "2026-11-25T10:33:22.297Z"
     },
     {
       "file": "2026-11-22-0854-telegram-update.md",
       "title": "2026-11-22-0854-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.462Z"
+      "updatedAt": "2026-11-25T10:33:22.297Z"
     },
     {
       "file": "2026-11-22-0141-telegram-update.md",
       "title": "2026-11-22-0141-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.462Z"
+      "updatedAt": "2026-11-25T10:33:22.297Z"
     },
     {
       "file": "2026-11-21-2016-telegram-update.md",
       "title": "2026-11-21-2016-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.462Z"
+      "updatedAt": "2026-11-25T10:33:22.297Z"
     },
     {
       "file": "2026-11-21-1344-telegram-update.md",
       "title": "2026-11-21-1344-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.462Z"
+      "updatedAt": "2026-11-25T10:33:22.297Z"
     },
     {
       "file": "2026-11-21-0252-telegram-update.md",
       "title": "2026-11-21-0252-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.462Z"
+      "updatedAt": "2026-11-25T10:33:22.297Z"
     },
     {
       "file": "2026-11-20-0915-telegram-update.md",
       "title": "2026-11-20-0915-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.462Z"
+      "updatedAt": "2026-11-25T10:33:22.297Z"
     },
     {
       "file": "2026-11-19-2355-telegram-update.md",
       "title": "2026-11-19-2355-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.462Z"
+      "updatedAt": "2026-11-25T10:33:22.297Z"
     },
     {
       "file": "2026-11-19-1443-telegram-update.md",
       "title": "2026-11-19-1443-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.462Z"
+      "updatedAt": "2026-11-25T10:33:22.297Z"
     },
     {
       "file": "2026-11-18-1826-telegram-update.md",
       "title": "2026-11-18-1826-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.462Z"
+      "updatedAt": "2026-11-25T10:33:22.297Z"
     },
     {
       "file": "2026-11-18-0916-telegram-update.md",
       "title": "2026-11-18-0916-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.462Z"
+      "updatedAt": "2026-11-25T10:33:22.297Z"
     },
     {
       "file": "2026-11-18-0002-telegram-update.md",
       "title": "2026-11-18-0002-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.462Z"
+      "updatedAt": "2026-11-25T10:33:22.297Z"
     },
     {
       "file": "2026-11-17-1456-telegram-update.md",
       "title": "2026-11-17-1456-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.462Z"
+      "updatedAt": "2026-11-25T10:33:22.297Z"
     },
     {
       "file": "2026-11-17-0412-telegram-update.md",
       "title": "2026-11-17-0412-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.462Z"
+      "updatedAt": "2026-11-25T10:33:22.297Z"
     },
     {
       "file": "2026-11-16-1953-telegram-update.md",
       "title": "2026-11-16-1953-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.462Z"
+      "updatedAt": "2026-11-25T10:33:22.297Z"
     },
     {
       "file": "2026-11-16-0839-telegram-update.md",
       "title": "2026-11-16-0839-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.462Z"
+      "updatedAt": "2026-11-25T10:33:22.297Z"
     },
     {
       "file": "2026-11-15-2207-telegram-update.md",
       "title": "2026-11-15-2207-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.462Z"
+      "updatedAt": "2026-11-25T10:33:22.297Z"
     },
     {
       "file": "2026-11-15-1639-telegram-update.md",
       "title": "2026-11-15-1639-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.462Z"
+      "updatedAt": "2026-11-25T10:33:22.297Z"
     },
     {
       "file": "2026-11-15-0828-telegram-update.md",
       "title": "2026-11-15-0828-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.462Z"
+      "updatedAt": "2026-11-25T10:33:22.297Z"
     },
     {
       "file": "2026-11-15-0121-telegram-update.md",
       "title": "2026-11-15-0121-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.462Z"
+      "updatedAt": "2026-11-25T10:33:22.297Z"
     },
     {
       "file": "2026-11-14-2141-telegram-update.md",
       "title": "2026-11-14-2141-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.462Z"
+      "updatedAt": "2026-11-25T10:33:22.297Z"
     },
     {
       "file": "2026-11-14-1610-telegram-update.md",
       "title": "2026-11-14-1610-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.462Z"
+      "updatedAt": "2026-11-25T10:33:22.297Z"
     },
     {
       "file": "2026-11-14-0809-telegram-update.md",
       "title": "2026-11-14-0809-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.462Z"
+      "updatedAt": "2026-11-25T10:33:22.297Z"
     },
     {
       "file": "2026-11-13-2255-telegram-update.md",
       "title": "2026-11-13-2255-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.462Z"
+      "updatedAt": "2026-11-25T10:33:22.297Z"
     },
     {
       "file": "2026-11-13-1724-telegram-update.md",
       "title": "2026-11-13-1724-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.462Z"
+      "updatedAt": "2026-11-25T10:33:22.297Z"
     },
     {
       "file": "2026-11-13-0849-telegram-update.md",
       "title": "2026-11-13-0849-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.462Z"
+      "updatedAt": "2026-11-25T10:33:22.297Z"
     },
     {
       "file": "2026-11-12-2254-telegram-update.md",
       "title": "2026-11-12-2254-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.462Z"
+      "updatedAt": "2026-11-25T10:33:22.297Z"
     },
     {
       "file": "2026-11-12-1746-telegram-update.md",
       "title": "2026-11-12-1746-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.297Z"
     },
     {
       "file": "2026-11-12-0853-telegram-update.md",
       "title": "2026-11-12-0853-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.297Z"
     },
     {
       "file": "2026-11-11-2344-telegram-update.md",
       "title": "2026-11-11-2344-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.297Z"
     },
     {
       "file": "2026-11-11-1729-telegram-update.md",
       "title": "2026-11-11-1729-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.297Z"
     },
     {
       "file": "2026-11-11-0828-telegram-update.md",
       "title": "2026-11-11-0828-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.297Z"
     },
     {
       "file": "2026-11-11-0130-telegram-update.md",
       "title": "2026-11-11-0130-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.297Z"
     },
     {
       "file": "2026-11-10-2037-telegram-update.md",
       "title": "2026-11-10-2037-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.296Z"
     },
     {
       "file": "2026-11-10-1348-telegram-update.md",
       "title": "2026-11-10-1348-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.296Z"
     },
     {
       "file": "2026-11-10-0351-telegram-update.md",
       "title": "2026-11-10-0351-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.296Z"
     },
     {
       "file": "2026-11-09-2013-telegram-update.md",
       "title": "2026-11-09-2013-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.296Z"
     },
     {
       "file": "2026-11-09-0844-telegram-update.md",
       "title": "2026-11-09-0844-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.296Z"
     },
     {
       "file": "2026-11-08-2123-telegram-update.md",
       "title": "2026-11-08-2123-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.296Z"
     },
     {
       "file": "2026-11-08-1623-telegram-update.md",
       "title": "2026-11-08-1623-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.296Z"
     },
     {
       "file": "2026-11-08-0804-telegram-update.md",
       "title": "2026-11-08-0804-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.296Z"
     },
     {
       "file": "2026-11-07-2106-telegram-update.md",
       "title": "2026-11-07-2106-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.296Z"
     },
     {
       "file": "2026-11-07-1556-telegram-update.md",
       "title": "2026-11-07-1556-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.296Z"
     },
     {
       "file": "2026-11-07-0751-telegram-update.md",
       "title": "2026-11-07-0751-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.296Z"
     },
     {
       "file": "2026-11-06-2226-telegram-update.md",
       "title": "2026-11-06-2226-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.296Z"
     },
     {
       "file": "2026-11-06-1658-telegram-update.md",
       "title": "2026-11-06-1658-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.296Z"
     },
     {
       "file": "2026-11-06-0835-telegram-update.md",
       "title": "2026-11-06-0835-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.296Z"
     },
     {
       "file": "2026-11-05-2256-telegram-update.md",
       "title": "2026-11-05-2256-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.296Z"
     },
     {
       "file": "2026-11-05-1742-telegram-update.md",
       "title": "2026-11-05-1742-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.296Z"
     },
     {
       "file": "2026-11-05-0836-telegram-update.md",
       "title": "2026-11-05-0836-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.296Z"
     },
     {
       "file": "2026-11-04-2255-telegram-update.md",
       "title": "2026-11-04-2255-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.296Z"
     },
     {
       "file": "2026-11-04-1737-telegram-update.md",
       "title": "2026-11-04-1737-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.296Z"
     },
     {
       "file": "2026-11-04-0810-telegram-update.md",
       "title": "2026-11-04-0810-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.296Z"
     },
     {
       "file": "2026-11-04-0143-telegram-update.md",
       "title": "2026-11-04-0143-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.296Z"
     },
     {
       "file": "2026-11-03-2018-telegram-update.md",
       "title": "2026-11-03-2018-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.296Z"
     },
     {
       "file": "2026-11-03-1302-telegram-update.md",
       "title": "2026-11-03-1302-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.296Z"
     },
     {
       "file": "2026-11-03-0306-telegram-update.md",
       "title": "2026-11-03-0306-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.296Z"
     },
     {
       "file": "2026-11-02-1950-telegram-update.md",
       "title": "2026-11-02-1950-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.296Z"
     },
     {
       "file": "2026-11-02-0826-telegram-update.md",
       "title": "2026-11-02-0826-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.296Z"
     },
     {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.296Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.296Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.296Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.296Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.296Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.296Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.296Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.296Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.296Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.296Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.296Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.296Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.296Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.296Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.296Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.296Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.296Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.296Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-25T01:38:31.461Z"
+      "updatedAt": "2026-11-25T10:33:22.296Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-25T01:38:31.460Z"
+      "updatedAt": "2026-11-25T10:33:22.295Z"
     }
   ]
 }
