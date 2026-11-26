@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-26T10:05:37.361Z",
+  "generatedAt": "2026-11-26T22:38:28.782Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 41764,
-    "lastMessageAt": "2026-11-26T09:37:03+00:00",
-    "lastCheckedAt": "2026-11-26T10:05:37.117Z",
-    "previousMessageId": 41728,
-    "pagesRead": 2,
-    "messagesRead": 36,
-    "newProjectRecords": 15,
+    "lastMessageId": 41818,
+    "lastMessageAt": "2026-11-26T21:29:08+00:00",
+    "lastCheckedAt": "2026-11-26T22:38:28.535Z",
+    "previousMessageId": 41764,
+    "pagesRead": 3,
+    "messagesRead": 54,
+    "newProjectRecords": 14,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 1155,
+    "telegramRows": 1169,
     "xRows": 0,
-    "projects": 696,
+    "projects": 705,
     "crossSource": 0
   },
   "projects": [
@@ -2112,6 +2112,88 @@
       "avatarUrl": ""
     },
     {
+      "project": "Sendors",
+      "account": "Sendorsfun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "well",
+        "亚瑟-鸿运当头（招财版）（看签名进tg阿尔法频道）",
+        "哒哒 🦅 🟠",
+        "蛋总",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "well",
+        "亚瑟-鸿运当头（招财版）（看签名进tg阿尔法频道）",
+        "哒哒 🦅 🟠",
+        "蛋总",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 5,
+      "firstSeen": "2026-11-23T05:17:50+00:00",
+      "lastSeen": "2026-11-26T14:07:43+00:00",
+      "description": "Every token starts from zero. Then it sends. A token launchpad Coming soon on @LayerZero_Core",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Sendors",
+          "account": "Sendorsfun",
+          "alpha": "亚瑟-鸿运当头（招财版）（看签名进tg阿尔法频道）",
+          "seenAt": "2026-11-23T05:17:50+00:00",
+          "messageId": "dodtwitterbot/41455",
+          "description": "Every token starts from zero. Then it sends. A token launchpad Coming soon on @LayerZero_Core",
+          "text": "Every token starts from zero. Then it sends. A token launchpad Coming soon on @LayerZero_Core"
+        },
+        {
+          "source": "TG",
+          "project": "Sendors",
+          "account": "Sendorsfun",
+          "alpha": "哒哒 🦅 🟠",
+          "seenAt": "2026-11-25T11:50:38+00:00",
+          "messageId": "dodtwitterbot/41649",
+          "description": "Every token starts from zero. Then it sends. A token launchpad Coming soon on @LayerZero_Core",
+          "text": "Every token starts from zero. Then it sends. A token launchpad Coming soon on @LayerZero_Core"
+        },
+        {
+          "source": "TG",
+          "project": "Sendors",
+          "account": "Sendorsfun",
+          "alpha": "well",
+          "seenAt": "2026-11-25T18:52:12+00:00",
+          "messageId": "dodtwitterbot/41719",
+          "description": "Every token starts from zero. Then it sends. A token launchpad Coming soon on @LayerZero_Core",
+          "text": "Every token starts from zero. Then it sends. A token launchpad Coming soon on @LayerZero_Core"
+        },
+        {
+          "source": "TG",
+          "project": "Sendors",
+          "account": "Sendorsfun",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-26T05:28:55+00:00",
+          "messageId": "dodtwitterbot/41746",
+          "description": "Every token starts from zero. Then it sends. A token launchpad Coming soon on @LayerZero_Core",
+          "text": "Every token starts from zero. Then it sends. A token launchpad Coming soon on @LayerZero_Core"
+        },
+        {
+          "source": "TG",
+          "project": "Sendors",
+          "account": "Sendorsfun",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-26T14:07:43+00:00",
+          "messageId": "dodtwitterbot/41782",
+          "description": "Every token starts from zero. Then it sends. A token launchpad Coming soon on @LayerZero_Core",
+          "text": "Every token starts from zero. Then it sends. A token launchpad Coming soon on @LayerZero_Core"
+        }
+      ],
+      "text": " Sendors Sendorsfun Every token starts from zero. Then it sends. A token launchpad Coming soon on @LayerZero_Core Sendors Sendorsfun Every token starts from zero. Then it sends. A token launchpad Coming soon on @LayerZero_Core Sendors Sendorsfun Every token starts from zero. Then it sends. A token launchpad Coming soon on @LayerZero_Core Sendors Sendorsfun Every token starts from zero. Then it sends. A token launchpad Coming soon on @LayerZero_Core Sendors Sendorsfun Every token starts from zero. Then it sends. A token launchpad Coming soon on @LayerZero_Core",
+      "score": 10,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Stockium",
       "account": "Stockium",
       "sources": [
@@ -2271,6 +2353,88 @@
         }
       ],
       "text": " Twoprint twoprintlabs Synthetic perps on Elysium Twoprint twoprintlabs Synthetic perps on Elysium Twoprint twoprintlabs Synthetic perps on Elysium Twoprint twoprintlabs Synthetic perps on Elysium Twoprint twoprintlabs Synthetic perps on Elysium",
+      "score": 10,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Vested",
+      "account": "vestedfun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "lakka",
+        "speest 💎",
+        "unsynned",
+        "well",
+        "黑客fa1r"
+      ],
+      "tgAlphas": [
+        "lakka",
+        "speest 💎",
+        "unsynned",
+        "well",
+        "黑客fa1r"
+      ],
+      "xAlphas": [],
+      "mentions": 5,
+      "firstSeen": "2026-11-25T07:37:02+00:00",
+      "lastSeen": "2026-11-26T21:04:09+00:00",
+      "description": "Launch tokens on public terms.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Vested",
+          "account": "vestedfun",
+          "alpha": "黑客fa1r",
+          "seenAt": "2026-11-25T07:37:02+00:00",
+          "messageId": "dodtwitterbot/41612",
+          "description": "Launch tokens on public terms.",
+          "text": "Launch tokens on public terms."
+        },
+        {
+          "source": "TG",
+          "project": "Vested",
+          "account": "vestedfun",
+          "alpha": "well",
+          "seenAt": "2026-11-25T11:24:56+00:00",
+          "messageId": "dodtwitterbot/41634",
+          "description": "Launch tokens on public terms.",
+          "text": "Launch tokens on public terms."
+        },
+        {
+          "source": "TG",
+          "project": "Vested",
+          "account": "vestedfun",
+          "alpha": "lakka",
+          "seenAt": "2026-11-25T13:01:23+00:00",
+          "messageId": "dodtwitterbot/41658",
+          "description": "Launch tokens on public terms.",
+          "text": "Launch tokens on public terms."
+        },
+        {
+          "source": "TG",
+          "project": "Vested",
+          "account": "vestedfun",
+          "alpha": "speest 💎",
+          "seenAt": "2026-11-25T16:22:09+00:00",
+          "messageId": "dodtwitterbot/41711",
+          "description": "Launch tokens on public terms.",
+          "text": "Launch tokens on public terms."
+        },
+        {
+          "source": "TG",
+          "project": "Vested",
+          "account": "vestedfun",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-26T21:04:09+00:00",
+          "messageId": "dodtwitterbot/41817",
+          "description": "Launch tokens on public terms.",
+          "text": "Launch tokens on public terms."
+        }
+      ],
+      "text": " Vested vestedfun Launch tokens on public terms. Vested vestedfun Launch tokens on public terms. Vested vestedfun Launch tokens on public terms. Vested vestedfun Launch tokens on public terms. Vested vestedfun Launch tokens on public terms.",
       "score": 10,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -3478,141 +3642,71 @@
       "avatarUrl": ""
     },
     {
-      "project": "Sendors",
-      "account": "Sendorsfun",
+      "project": "Rostrum",
+      "account": "rostrumsale",
       "sources": [
         "TG"
       ],
       "alphas": [
-        "well",
-        "亚瑟-鸿运当头（招财版）（看签名进tg阿尔法频道）",
-        "哒哒 🦅 🟠",
-        "蛋总"
+        "Mutu 🕸️",
+        "lakka",
+        "unsynned",
+        "well"
       ],
       "tgAlphas": [
-        "well",
-        "亚瑟-鸿运当头（招财版）（看签名进tg阿尔法频道）",
-        "哒哒 🦅 🟠",
-        "蛋总"
+        "Mutu 🕸️",
+        "lakka",
+        "unsynned",
+        "well"
       ],
       "xAlphas": [],
       "mentions": 4,
-      "firstSeen": "2026-11-23T05:17:50+00:00",
-      "lastSeen": "2026-11-26T05:28:55+00:00",
-      "description": "Every token starts from zero. Then it sends. A token launchpad Coming soon on @LayerZero_Core",
+      "firstSeen": "2026-11-23T19:33:45+00:00",
+      "lastSeen": "2026-11-26T21:04:09+00:00",
+      "description": "The sale room for token launches on Base. Every lot comes with an estimate, a guarantee, and compute by @VeniceAI .",
       "rows": [
         {
           "source": "TG",
-          "project": "Sendors",
-          "account": "Sendorsfun",
-          "alpha": "亚瑟-鸿运当头（招财版）（看签名进tg阿尔法频道）",
-          "seenAt": "2026-11-23T05:17:50+00:00",
-          "messageId": "dodtwitterbot/41455",
-          "description": "Every token starts from zero. Then it sends. A token launchpad Coming soon on @LayerZero_Core",
-          "text": "Every token starts from zero. Then it sends. A token launchpad Coming soon on @LayerZero_Core"
-        },
-        {
-          "source": "TG",
-          "project": "Sendors",
-          "account": "Sendorsfun",
-          "alpha": "哒哒 🦅 🟠",
-          "seenAt": "2026-11-25T11:50:38+00:00",
-          "messageId": "dodtwitterbot/41649",
-          "description": "Every token starts from zero. Then it sends. A token launchpad Coming soon on @LayerZero_Core",
-          "text": "Every token starts from zero. Then it sends. A token launchpad Coming soon on @LayerZero_Core"
-        },
-        {
-          "source": "TG",
-          "project": "Sendors",
-          "account": "Sendorsfun",
-          "alpha": "well",
-          "seenAt": "2026-11-25T18:52:12+00:00",
-          "messageId": "dodtwitterbot/41719",
-          "description": "Every token starts from zero. Then it sends. A token launchpad Coming soon on @LayerZero_Core",
-          "text": "Every token starts from zero. Then it sends. A token launchpad Coming soon on @LayerZero_Core"
-        },
-        {
-          "source": "TG",
-          "project": "Sendors",
-          "account": "Sendorsfun",
-          "alpha": "蛋总",
-          "seenAt": "2026-11-26T05:28:55+00:00",
-          "messageId": "dodtwitterbot/41746",
-          "description": "Every token starts from zero. Then it sends. A token launchpad Coming soon on @LayerZero_Core",
-          "text": "Every token starts from zero. Then it sends. A token launchpad Coming soon on @LayerZero_Core"
-        }
-      ],
-      "text": " Sendors Sendorsfun Every token starts from zero. Then it sends. A token launchpad Coming soon on @LayerZero_Core Sendors Sendorsfun Every token starts from zero. Then it sends. A token launchpad Coming soon on @LayerZero_Core Sendors Sendorsfun Every token starts from zero. Then it sends. A token launchpad Coming soon on @LayerZero_Core Sendors Sendorsfun Every token starts from zero. Then it sends. A token launchpad Coming soon on @LayerZero_Core",
-      "score": 8,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Vested",
-      "account": "vestedfun",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "lakka",
-        "speest 💎",
-        "well",
-        "黑客fa1r"
-      ],
-      "tgAlphas": [
-        "lakka",
-        "speest 💎",
-        "well",
-        "黑客fa1r"
-      ],
-      "xAlphas": [],
-      "mentions": 4,
-      "firstSeen": "2026-11-25T07:37:02+00:00",
-      "lastSeen": "2026-11-25T16:22:09+00:00",
-      "description": "Launch tokens on public terms.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Vested",
-          "account": "vestedfun",
-          "alpha": "黑客fa1r",
-          "seenAt": "2026-11-25T07:37:02+00:00",
-          "messageId": "dodtwitterbot/41612",
-          "description": "Launch tokens on public terms.",
-          "text": "Launch tokens on public terms."
-        },
-        {
-          "source": "TG",
-          "project": "Vested",
-          "account": "vestedfun",
-          "alpha": "well",
-          "seenAt": "2026-11-25T11:24:56+00:00",
-          "messageId": "dodtwitterbot/41634",
-          "description": "Launch tokens on public terms.",
-          "text": "Launch tokens on public terms."
-        },
-        {
-          "source": "TG",
-          "project": "Vested",
-          "account": "vestedfun",
+          "project": "Rostrum",
+          "account": "rostrumsale",
           "alpha": "lakka",
-          "seenAt": "2026-11-25T13:01:23+00:00",
-          "messageId": "dodtwitterbot/41658",
-          "description": "Launch tokens on public terms.",
-          "text": "Launch tokens on public terms."
+          "seenAt": "2026-11-23T19:33:45+00:00",
+          "messageId": "dodtwitterbot/41534",
+          "description": "The sale room for Clanker launches. Curated weekly sales on Base. Every lot comes with an estimate and a guarantee",
+          "text": "The sale room for Clanker launches. Curated weekly sales on Base. Every lot comes with an estimate and a guarantee"
         },
         {
           "source": "TG",
-          "project": "Vested",
-          "account": "vestedfun",
-          "alpha": "speest 💎",
-          "seenAt": "2026-11-25T16:22:09+00:00",
-          "messageId": "dodtwitterbot/41711",
-          "description": "Launch tokens on public terms.",
-          "text": "Launch tokens on public terms."
+          "project": "Rostrum",
+          "account": "rostrumsale",
+          "alpha": "Mutu 🕸️",
+          "seenAt": "2026-11-23T19:38:51+00:00",
+          "messageId": "dodtwitterbot/41535",
+          "description": "The sale room for Clanker launches. Curated weekly sales on Base. Every lot comes with an estimate and a guarantee",
+          "text": "The sale room for Clanker launches. Curated weekly sales on Base. Every lot comes with an estimate and a guarantee"
+        },
+        {
+          "source": "TG",
+          "project": "Rostrum",
+          "account": "rostrumsale",
+          "alpha": "well",
+          "seenAt": "2026-11-26T04:22:08+00:00",
+          "messageId": "dodtwitterbot/41734",
+          "description": "The sale room for Clanker launches. Curated weekly sales on Base. Every lot comes with an estimate and a guarantee",
+          "text": "The sale room for Clanker launches. Curated weekly sales on Base. Every lot comes with an estimate and a guarantee"
+        },
+        {
+          "source": "TG",
+          "project": "Rostrum",
+          "account": "rostrumsale",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-26T21:04:09+00:00",
+          "messageId": "dodtwitterbot/41815",
+          "description": "The sale room for token launches on Base. Every lot comes with an estimate, a guarantee, and compute by @VeniceAI .",
+          "text": "The sale room for token launches on Base. Every lot comes with an estimate, a guarantee, and compute by @VeniceAI ."
         }
       ],
-      "text": " Vested vestedfun Launch tokens on public terms. Vested vestedfun Launch tokens on public terms. Vested vestedfun Launch tokens on public terms. Vested vestedfun Launch tokens on public terms.",
+      "text": " Rostrum rostrumsale The sale room for Clanker launches. Curated weekly sales on Base. Every lot comes with an estimate and a guarantee Rostrum rostrumsale The sale room for Clanker launches. Curated weekly sales on Base. Every lot comes with an estimate and a guarantee Rostrum rostrumsale The sale room for Clanker launches. Curated weekly sales on Base. Every lot comes with an estimate and a guarantee Rostrum rostrumsale The sale room for token launches on Base. Every lot comes with an estimate, a guarantee, and compute by @VeniceAI .",
       "score": 8,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -6692,64 +6786,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Rostrum",
-      "account": "rostrumsale",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "Mutu 🕸️",
-        "lakka",
-        "well"
-      ],
-      "tgAlphas": [
-        "Mutu 🕸️",
-        "lakka",
-        "well"
-      ],
-      "xAlphas": [],
-      "mentions": 3,
-      "firstSeen": "2026-11-23T19:33:45+00:00",
-      "lastSeen": "2026-11-26T04:22:08+00:00",
-      "description": "The sale room for Clanker launches. Curated weekly sales on Base. Every lot comes with an estimate and a guarantee",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Rostrum",
-          "account": "rostrumsale",
-          "alpha": "lakka",
-          "seenAt": "2026-11-23T19:33:45+00:00",
-          "messageId": "dodtwitterbot/41534",
-          "description": "The sale room for Clanker launches. Curated weekly sales on Base. Every lot comes with an estimate and a guarantee",
-          "text": "The sale room for Clanker launches. Curated weekly sales on Base. Every lot comes with an estimate and a guarantee"
-        },
-        {
-          "source": "TG",
-          "project": "Rostrum",
-          "account": "rostrumsale",
-          "alpha": "Mutu 🕸️",
-          "seenAt": "2026-11-23T19:38:51+00:00",
-          "messageId": "dodtwitterbot/41535",
-          "description": "The sale room for Clanker launches. Curated weekly sales on Base. Every lot comes with an estimate and a guarantee",
-          "text": "The sale room for Clanker launches. Curated weekly sales on Base. Every lot comes with an estimate and a guarantee"
-        },
-        {
-          "source": "TG",
-          "project": "Rostrum",
-          "account": "rostrumsale",
-          "alpha": "well",
-          "seenAt": "2026-11-26T04:22:08+00:00",
-          "messageId": "dodtwitterbot/41734",
-          "description": "The sale room for Clanker launches. Curated weekly sales on Base. Every lot comes with an estimate and a guarantee",
-          "text": "The sale room for Clanker launches. Curated weekly sales on Base. Every lot comes with an estimate and a guarantee"
-        }
-      ],
-      "text": " Rostrum rostrumsale The sale room for Clanker launches. Curated weekly sales on Base. Every lot comes with an estimate and a guarantee Rostrum rostrumsale The sale room for Clanker launches. Curated weekly sales on Base. Every lot comes with an estimate and a guarantee Rostrum rostrumsale The sale room for Clanker launches. Curated weekly sales on Base. Every lot comes with an estimate and a guarantee",
-      "score": 6,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
       "project": "Script",
       "account": "Script_Agent",
       "sources": [
@@ -7852,6 +7888,64 @@
       "avatarUrl": ""
     },
     {
+      "project": "ZeroPad",
+      "account": "0padtrade",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "亚瑟-鸿运当头（招财版）（看签名进tg阿尔法频道）",
+        "哒哒 🦅 🟠",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "亚瑟-鸿运当头（招财版）（看签名进tg阿尔法频道）",
+        "哒哒 🦅 🟠",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-11-25T11:42:37+00:00",
+      "lastSeen": "2026-11-26T14:05:49+00:00",
+      "description": "Launch at block zero. Trade from the first block. A token launchpad built @LayerZero_Core",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "ZeroPad",
+          "account": "0padtrade",
+          "alpha": "哒哒 🦅 🟠",
+          "seenAt": "2026-11-25T11:42:37+00:00",
+          "messageId": "dodtwitterbot/41644",
+          "description": "Launch at block zero. Trade from the first block. A token launchpad built @LayerZero_Core",
+          "text": "Launch at block zero. Trade from the first block. A token launchpad built @LayerZero_Core"
+        },
+        {
+          "source": "TG",
+          "project": "ZeroPad",
+          "account": "0padtrade",
+          "alpha": "亚瑟-鸿运当头（招财版）（看签名进tg阿尔法频道）",
+          "seenAt": "2026-11-25T13:18:55+00:00",
+          "messageId": "dodtwitterbot/41670",
+          "description": "Launch at block zero. Trade from the first block. A token launchpad built @LayerZero_Core",
+          "text": "Launch at block zero. Trade from the first block. A token launchpad built @LayerZero_Core"
+        },
+        {
+          "source": "TG",
+          "project": "ZeroPad",
+          "account": "0padtrade",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-26T14:05:49+00:00",
+          "messageId": "dodtwitterbot/41780",
+          "description": "Launch at block zero. Trade from the first block. A token launchpad built @LayerZero_Core",
+          "text": "Launch at block zero. Trade from the first block. A token launchpad built @LayerZero_Core"
+        }
+      ],
+      "text": " ZeroPad 0padtrade Launch at block zero. Trade from the first block. A token launchpad built @LayerZero_Core ZeroPad 0padtrade Launch at block zero. Trade from the first block. A token launchpad built @LayerZero_Core ZeroPad 0padtrade Launch at block zero. Trade from the first block. A token launchpad built @LayerZero_Core",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "ZROfun",
       "account": "ZROfun",
       "sources": [
@@ -8285,6 +8379,52 @@
         }
       ],
       "text": " Alex Lim alexlimasia asia @LayerZero_Core\nleading @AsiaStableCoin\nvoicing @face_east_\n\nall opinions are my own Alex Lim alexlimasia asia @LayerZero_Core\nleading @AsiaStableCoin\nvoicing @face_east_\n\nall opinions are my own",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Argent DEX",
+      "account": "Argent_DEX",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "hit.ink",
+        "unsynned"
+      ],
+      "tgAlphas": [
+        "hit.ink",
+        "unsynned"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-26T08:48:09+00:00",
+      "lastSeen": "2026-11-26T17:02:33+00:00",
+      "description": "LitVM's native Exchange",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Argent DEX",
+          "account": "Argent_DEX",
+          "alpha": "hit.ink",
+          "seenAt": "2026-11-26T08:48:09+00:00",
+          "messageId": "dodtwitterbot/41760",
+          "description": "LitVM's native Exchange",
+          "text": "LitVM's native Exchange"
+        },
+        {
+          "source": "TG",
+          "project": "Argent DEX",
+          "account": "Argent_DEX",
+          "alpha": "unsynned",
+          "seenAt": "2026-11-26T17:02:33+00:00",
+          "messageId": "dodtwitterbot/41805",
+          "description": "LitVM's native Exchange",
+          "text": "LitVM's native Exchange"
+        }
+      ],
+      "text": " Argent DEX Argent_DEX LitVM's native Exchange Argent DEX Argent_DEX LitVM's native Exchange",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -13810,52 +13950,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "ZeroPad",
-      "account": "0padtrade",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "亚瑟-鸿运当头（招财版）（看签名进tg阿尔法频道）",
-        "哒哒 🦅 🟠"
-      ],
-      "tgAlphas": [
-        "亚瑟-鸿运当头（招财版）（看签名进tg阿尔法频道）",
-        "哒哒 🦅 🟠"
-      ],
-      "xAlphas": [],
-      "mentions": 2,
-      "firstSeen": "2026-11-25T11:42:37+00:00",
-      "lastSeen": "2026-11-25T13:18:55+00:00",
-      "description": "Launch at block zero. Trade from the first block. A token launchpad built @LayerZero_Core",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "ZeroPad",
-          "account": "0padtrade",
-          "alpha": "哒哒 🦅 🟠",
-          "seenAt": "2026-11-25T11:42:37+00:00",
-          "messageId": "dodtwitterbot/41644",
-          "description": "Launch at block zero. Trade from the first block. A token launchpad built @LayerZero_Core",
-          "text": "Launch at block zero. Trade from the first block. A token launchpad built @LayerZero_Core"
-        },
-        {
-          "source": "TG",
-          "project": "ZeroPad",
-          "account": "0padtrade",
-          "alpha": "亚瑟-鸿运当头（招财版）（看签名进tg阿尔法频道）",
-          "seenAt": "2026-11-25T13:18:55+00:00",
-          "messageId": "dodtwitterbot/41670",
-          "description": "Launch at block zero. Trade from the first block. A token launchpad built @LayerZero_Core",
-          "text": "Launch at block zero. Trade from the first block. A token launchpad built @LayerZero_Core"
-        }
-      ],
-      "text": " ZeroPad 0padtrade Launch at block zero. Trade from the first block. A token launchpad built @LayerZero_Core ZeroPad 0padtrade Launch at block zero. Trade from the first block. A token launchpad built @LayerZero_Core",
-      "score": 4,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
       "project": "ZeroStocks",
       "account": "0Stocks_fun",
       "sources": [
@@ -14839,40 +14933,6 @@
         }
       ],
       "text": " ArcherSwap archerswapcore Central Memecoins Liquidity Hub built on @Enter_Elysium\nWe build memecoin liquidity with &#036;HYPE @ Elysium\nLaunchpad : @memekodotfun\nTG: https://t.co/XKZjX3tCV2",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Argent DEX",
-      "account": "Argent_DEX",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "hit.ink"
-      ],
-      "tgAlphas": [
-        "hit.ink"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-26T08:48:09+00:00",
-      "lastSeen": "2026-11-26T08:48:09+00:00",
-      "description": "LitVM's native Exchange",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Argent DEX",
-          "account": "Argent_DEX",
-          "alpha": "hit.ink",
-          "seenAt": "2026-11-26T08:48:09+00:00",
-          "messageId": "dodtwitterbot/41760",
-          "description": "LitVM's native Exchange",
-          "text": "LitVM's native Exchange"
-        }
-      ],
-      "text": " Argent DEX Argent_DEX LitVM's native Exchange",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -17734,6 +17794,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "ElyTrenches",
+      "account": "ElyTrenches",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Mutu 🕸️"
+      ],
+      "tgAlphas": [
+        "Mutu 🕸️"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-26T13:14:43+00:00",
+      "lastSeen": "2026-11-26T13:14:43+00:00",
+      "description": "Discover launches. Understand the risks. Trade on Elysium. Onchain intelligence and Telegram alerts by Ely Trenches.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "ElyTrenches",
+          "account": "ElyTrenches",
+          "alpha": "Mutu 🕸️",
+          "seenAt": "2026-11-26T13:14:43+00:00",
+          "messageId": "dodtwitterbot/41777",
+          "description": "Discover launches. Understand the risks. Trade on Elysium. Onchain intelligence and Telegram alerts by Ely Trenches.",
+          "text": "Discover launches. Understand the risks. Trade on Elysium. Onchain intelligence and Telegram alerts by Ely Trenches."
+        }
+      ],
+      "text": " ElyTrenches ElyTrenches Discover launches. Understand the risks. Trade on Elysium. Onchain intelligence and Telegram alerts by Ely Trenches.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Elytypes",
       "account": "Elytypess",
       "sources": [
@@ -18443,6 +18537,40 @@
         }
       ],
       "text": " FMining FMining_ Proof-of-work mining on Flap. AI agents hash for 7s, every score checked on-chain. Trade tax buys back, burns, pays miners. Hold more, earn more. ⛏️",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "FORECASTER",
+      "account": "Forecaster_gg",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "亚瑟-鸿运当头（招财版）（看签名进tg阿尔法频道）"
+      ],
+      "tgAlphas": [
+        "亚瑟-鸿运当头（招财版）（看签名进tg阿尔法频道）"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-26T16:12:56+00:00",
+      "lastSeen": "2026-11-26T16:12:56+00:00",
+      "description": "Go from zero to a fortune on good calls alone. The source of truth for who’s right about the markets.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "FORECASTER",
+          "account": "Forecaster_gg",
+          "alpha": "亚瑟-鸿运当头（招财版）（看签名进tg阿尔法频道）",
+          "seenAt": "2026-11-26T16:12:56+00:00",
+          "messageId": "dodtwitterbot/41797",
+          "description": "Go from zero to a fortune on good calls alone. The source of truth for who’s right about the markets.",
+          "text": "Go from zero to a fortune on good calls alone. The source of truth for who’s right about the markets."
+        }
+      ],
+      "text": " FORECASTER Forecaster_gg Go from zero to a fortune on good calls alone. The source of truth for who’s right about the markets.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -21372,6 +21500,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "LIQUID",
+      "account": "Liquid_ely",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Mutu 🕸️"
+      ],
+      "tgAlphas": [
+        "Mutu 🕸️"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-26T18:15:11+00:00",
+      "lastSeen": "2026-11-26T18:15:11+00:00",
+      "description": "Infinite liquidity pools on Elysium.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "LIQUID",
+          "account": "Liquid_ely",
+          "alpha": "Mutu 🕸️",
+          "seenAt": "2026-11-26T18:15:11+00:00",
+          "messageId": "dodtwitterbot/41807",
+          "description": "Infinite liquidity pools on Elysium.",
+          "text": "Infinite liquidity pools on Elysium."
+        }
+      ],
+      "text": " LIQUID Liquid_ely Infinite liquidity pools on Elysium.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Liquid Terminal",
       "account": "liquidterminal",
       "sources": [
@@ -21401,6 +21563,40 @@
         }
       ],
       "text": " Liquid Terminal liquidterminal The terminal to house all @HyperliquidX .\nData powered by @enigmavalidator and @hypedexer\nFree & open source.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Liquidisium",
+      "account": "liquidisium",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-26T14:10:40+00:00",
+      "lastSeen": "2026-11-26T14:10:40+00:00",
+      "description": "Uniswap v4 hooks that plug Elysium pools into Hyperliquid. Pools that move with the HyperCore book, LPs paid what arbitrageurs took, HyperCore hedges next.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Liquidisium",
+          "account": "liquidisium",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-26T14:10:40+00:00",
+          "messageId": "dodtwitterbot/41788",
+          "description": "Uniswap v4 hooks that plug Elysium pools into Hyperliquid. Pools that move with the HyperCore book, LPs paid what arbitrageurs took, HyperCore hedges next.",
+          "text": "Uniswap v4 hooks that plug Elysium pools into Hyperliquid. Pools that move with the HyperCore book, LPs paid what arbitrageurs took, HyperCore hedges next."
+        }
+      ],
+      "text": " Liquidisium liquidisium Uniswap v4 hooks that plug Elysium pools into Hyperliquid. Pools that move with the HyperCore book, LPs paid what arbitrageurs took, HyperCore hedges next.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -21673,6 +21869,40 @@
         }
       ],
       "text": " madang / 마당 - A launchpad on GIWA madang_fun Put a ticker on it&#33;\n@GIWA_by_Upbit 기반의 토큰 런치패드\nJoin us: https://t.co/csalWhLTbp\n\n&#036;MADANG token is not yet live. Beware of scams.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Magpie",
+      "account": "magpiegiwa",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-26T14:08:42+00:00",
+      "lastSeen": "2026-11-26T14:08:42+00:00",
+      "description": "Reserve-backed token on GIWA. @GIWA_by_upbit",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Magpie",
+          "account": "magpiegiwa",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-26T14:08:42+00:00",
+          "messageId": "dodtwitterbot/41785",
+          "description": "Reserve-backed token on GIWA. @GIWA_by_upbit",
+          "text": "Reserve-backed token on GIWA. @GIWA_by_upbit"
+        }
+      ],
+      "text": " Magpie magpiegiwa Reserve-backed token on GIWA. @GIWA_by_upbit",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -23480,6 +23710,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Origin",
+      "account": "Originonzero",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-26T14:07:43+00:00",
+      "lastSeen": "2026-11-26T14:07:43+00:00",
+      "description": "The original token launchpad on Zero. No presale. Bonding curve. Liquidity locked forever after graduation.\n@LayerZero_Core",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Origin",
+          "account": "Originonzero",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-26T14:07:43+00:00",
+          "messageId": "dodtwitterbot/41783",
+          "description": "The original token launchpad on Zero. No presale. Bonding curve. Liquidity locked forever after graduation.\n@LayerZero_Core",
+          "text": "The original token launchpad on Zero. No presale. Bonding curve. Liquidity locked forever after graduation.\n@LayerZero_Core"
+        }
+      ],
+      "text": " Origin Originonzero The original token launchpad on Zero. No presale. Bonding curve. Liquidity locked forever after graduation.\n@LayerZero_Core",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Orionpad",
       "account": "orionpad",
       "sources": [
@@ -23815,6 +24079,40 @@
         }
       ],
       "text": " Pari PariProtocol Fair token launches on Solana.\nEveryone starts on the same line: snipers pay 99% → 1% in the first 30s, and holders earn a share of every trade in SOL.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Pearly",
+      "account": "pearlydotfun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-26T14:05:49+00:00",
+      "lastSeen": "2026-11-26T14:05:49+00:00",
+      "description": "Mint, trade and launch PRC-20 tokens on Pearl. Wallet, swap and market in one place.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Pearly",
+          "account": "pearlydotfun",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-26T14:05:49+00:00",
+          "messageId": "dodtwitterbot/41781",
+          "description": "Mint, trade and launch PRC-20 tokens on Pearl. Wallet, swap and market in one place.",
+          "text": "Mint, trade and launch PRC-20 tokens on Pearl. Wallet, swap and market in one place."
+        }
+      ],
+      "text": " Pearly pearlydotfun Mint, trade and launch PRC-20 tokens on Pearl. Wallet, swap and market in one place.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -26064,6 +26362,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "spinor",
+      "account": "spinor_",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-26T12:57:52+00:00",
+      "lastSeen": "2026-11-26T12:57:52+00:00",
+      "description": "@cashcat_token | @montraXYZ",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "spinor",
+          "account": "spinor_",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-26T12:57:52+00:00",
+          "messageId": "dodtwitterbot/41774",
+          "description": "@cashcat_token | @montraXYZ",
+          "text": "@cashcat_token | @montraXYZ"
+        }
+      ],
+      "text": " spinor spinor_ @cashcat_token | @montraXYZ",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "spritefun",
       "account": "spritefun_xyz",
       "sources": [
@@ -26773,6 +27105,40 @@
         }
       ],
       "text": " Sway swaydotfun The First Narrative Market. Where ideas become positions.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Swellio",
+      "account": "swelliofi",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-26T14:08:42+00:00",
+      "lastSeen": "2026-11-26T14:08:42+00:00",
+      "description": "Hold still. Your bag grows.\n\nYield-powered balances on @base",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Swellio",
+          "account": "swelliofi",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-26T14:08:42+00:00",
+          "messageId": "dodtwitterbot/41787",
+          "description": "Hold still. Your bag grows.\n\nYield-powered balances on @base",
+          "text": "Hold still. Your bag grows.\n\nYield-powered balances on @base"
+        }
+      ],
+      "text": " Swellio swelliofi Hold still. Your bag grows.\n\nYield-powered balances on @base",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -29616,6 +29982,24 @@
       "avatarUrl": ""
     },
     {
+      "project": "Sendors",
+      "x_account": "Sendorsfun",
+      "total_mentions": 5,
+      "unique_alphas": 5,
+      "alphas": [
+        "well",
+        "亚瑟-鸿运当头（招财版）（看签名进tg阿尔法频道）",
+        "哒哒 🦅 🟠",
+        "蛋总",
+        "阿宏"
+      ],
+      "description": "Every token starts from zero. Then it sends. A token launchpad Coming soon on @LayerZero_Core",
+      "first_seen_utc": "2026-11-23T05:17:50+00:00",
+      "last_seen_utc": "2026-11-26T14:07:43+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
       "project": "Stockium",
       "x_account": "Stockium",
       "total_mentions": 5,
@@ -29648,6 +30032,24 @@
       "description": "Synthetic perps on Elysium",
       "first_seen_utc": "2026-10-28T17:34:46+00:00",
       "last_seen_utc": "2026-11-09T06:24:14+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Vested",
+      "x_account": "vestedfun",
+      "total_mentions": 5,
+      "unique_alphas": 5,
+      "alphas": [
+        "lakka",
+        "speest 💎",
+        "unsynned",
+        "well",
+        "黑客fa1r"
+      ],
+      "description": "Launch tokens on public terms.",
+      "first_seen_utc": "2026-11-25T07:37:02+00:00",
+      "last_seen_utc": "2026-11-26T21:04:09+00:00",
       "status": "priority",
       "avatarUrl": ""
     },
@@ -29942,36 +30344,19 @@
       "avatarUrl": ""
     },
     {
-      "project": "Sendors",
-      "x_account": "Sendorsfun",
+      "project": "Rostrum",
+      "x_account": "rostrumsale",
       "total_mentions": 4,
       "unique_alphas": 4,
       "alphas": [
-        "well",
-        "亚瑟-鸿运当头（招财版）（看签名进tg阿尔法频道）",
-        "哒哒 🦅 🟠",
-        "蛋总"
-      ],
-      "description": "Every token starts from zero. Then it sends. A token launchpad Coming soon on @LayerZero_Core",
-      "first_seen_utc": "2026-11-23T05:17:50+00:00",
-      "last_seen_utc": "2026-11-26T05:28:55+00:00",
-      "status": "priority",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Vested",
-      "x_account": "vestedfun",
-      "total_mentions": 4,
-      "unique_alphas": 4,
-      "alphas": [
+        "Mutu 🕸️",
         "lakka",
-        "speest 💎",
-        "well",
-        "黑客fa1r"
+        "unsynned",
+        "well"
       ],
-      "description": "Launch tokens on public terms.",
-      "first_seen_utc": "2026-11-25T07:37:02+00:00",
-      "last_seen_utc": "2026-11-25T16:22:09+00:00",
+      "description": "The sale room for token launches on Base. Every lot comes with an estimate, a guarantee, and compute by @VeniceAI .",
+      "first_seen_utc": "2026-11-23T19:33:45+00:00",
+      "last_seen_utc": "2026-11-26T21:04:09+00:00",
       "status": "priority",
       "avatarUrl": ""
     },
@@ -30824,22 +31209,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "Rostrum",
-      "x_account": "rostrumsale",
-      "total_mentions": 3,
-      "unique_alphas": 3,
-      "alphas": [
-        "Mutu 🕸️",
-        "lakka",
-        "well"
-      ],
-      "description": "The sale room for Clanker launches. Curated weekly sales on Base. Every lot comes with an estimate and a guarantee",
-      "first_seen_utc": "2026-11-23T19:33:45+00:00",
-      "last_seen_utc": "2026-11-26T04:22:08+00:00",
-      "status": "priority",
-      "avatarUrl": ""
-    },
-    {
       "project": "Script",
       "x_account": "Script_Agent",
       "total_mentions": 3,
@@ -31144,6 +31513,22 @@
       "avatarUrl": ""
     },
     {
+      "project": "ZeroPad",
+      "x_account": "0padtrade",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "亚瑟-鸿运当头（招财版）（看签名进tg阿尔法频道）",
+        "哒哒 🦅 🟠",
+        "阿宏"
+      ],
+      "description": "Launch at block zero. Trade from the first block. A token launchpad built @LayerZero_Core",
+      "first_seen_utc": "2026-11-25T11:42:37+00:00",
+      "last_seen_utc": "2026-11-26T14:05:49+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
       "project": "ZROfun",
       "x_account": "ZROfun",
       "total_mentions": 3,
@@ -31277,6 +31662,21 @@
       "description": "asia @LayerZero_Core\nleading @AsiaStableCoin\nvoicing @face_east_\n\nall opinions are my own",
       "first_seen_utc": "2026-11-15T20:28:36+00:00",
       "last_seen_utc": "2026-11-25T13:31:51+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Argent DEX",
+      "x_account": "Argent_DEX",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "hit.ink",
+        "unsynned"
+      ],
+      "description": "LitVM's native Exchange",
+      "first_seen_utc": "2026-11-26T08:48:09+00:00",
+      "last_seen_utc": "2026-11-26T17:02:33+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -33081,21 +33481,6 @@
       "avatarUrl": ""
     },
     {
-      "project": "ZeroPad",
-      "x_account": "0padtrade",
-      "total_mentions": 2,
-      "unique_alphas": 2,
-      "alphas": [
-        "亚瑟-鸿运当头（招财版）（看签名进tg阿尔法频道）",
-        "哒哒 🦅 🟠"
-      ],
-      "description": "Launch at block zero. Trade from the first block. A token launchpad built @LayerZero_Core",
-      "first_seen_utc": "2026-11-25T11:42:37+00:00",
-      "last_seen_utc": "2026-11-25T13:18:55+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
       "project": "ZeroStocks",
       "x_account": "0Stocks_fun",
       "total_mentions": 2,
@@ -33487,20 +33872,6 @@
       "description": "Central Memecoins Liquidity Hub built on @Enter_Elysium\nWe build memecoin liquidity with &#036;HYPE @ Elysium\nLaunchpad : @memekodotfun\nTG: https://t.co/XKZjX3tCV2",
       "first_seen_utc": "2026-11-09T12:15:39+00:00",
       "last_seen_utc": "2026-11-09T12:15:39+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Argent DEX",
-      "x_account": "Argent_DEX",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "hit.ink"
-      ],
-      "description": "LitVM's native Exchange",
-      "first_seen_utc": "2026-11-26T08:48:09+00:00",
-      "last_seen_utc": "2026-11-26T08:48:09+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -34681,6 +35052,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "ElyTrenches",
+      "x_account": "ElyTrenches",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "Mutu 🕸️"
+      ],
+      "description": "Discover launches. Understand the risks. Trade on Elysium. Onchain intelligence and Telegram alerts by Ely Trenches.",
+      "first_seen_utc": "2026-11-26T13:14:43+00:00",
+      "last_seen_utc": "2026-11-26T13:14:43+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Elytypes",
       "x_account": "Elytypess",
       "total_mentions": 1,
@@ -34971,6 +35356,20 @@
       "description": "Proof-of-work mining on Flap. AI agents hash for 7s, every score checked on-chain. Trade tax buys back, burns, pays miners. Hold more, earn more. ⛏️",
       "first_seen_utc": "2026-11-06T10:55:13+00:00",
       "last_seen_utc": "2026-11-06T10:55:13+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "FORECASTER",
+      "x_account": "Forecaster_gg",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "亚瑟-鸿运当头（招财版）（看签名进tg阿尔法频道）"
+      ],
+      "description": "Go from zero to a fortune on good calls alone. The source of truth for who’s right about the markets.",
+      "first_seen_utc": "2026-11-26T16:12:56+00:00",
+      "last_seen_utc": "2026-11-26T16:12:56+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -36179,6 +36578,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "LIQUID",
+      "x_account": "Liquid_ely",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "Mutu 🕸️"
+      ],
+      "description": "Infinite liquidity pools on Elysium.",
+      "first_seen_utc": "2026-11-26T18:15:11+00:00",
+      "last_seen_utc": "2026-11-26T18:15:11+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Liquid Terminal",
       "x_account": "liquidterminal",
       "total_mentions": 1,
@@ -36189,6 +36602,20 @@
       "description": "The terminal to house all @HyperliquidX .\nData powered by @enigmavalidator and @hypedexer\nFree & open source.",
       "first_seen_utc": "2026-11-09T08:40:54+00:00",
       "last_seen_utc": "2026-11-09T08:40:54+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Liquidisium",
+      "x_account": "liquidisium",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "Uniswap v4 hooks that plug Elysium pools into Hyperliquid. Pools that move with the HyperCore book, LPs paid what arbitrageurs took, HyperCore hedges next.",
+      "first_seen_utc": "2026-11-26T14:10:40+00:00",
+      "last_seen_utc": "2026-11-26T14:10:40+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -36301,6 +36728,20 @@
       "description": "Put a ticker on it&#33;\n@GIWA_by_Upbit 기반의 토큰 런치패드\nJoin us: https://t.co/csalWhLTbp\n\n&#036;MADANG token is not yet live. Beware of scams.",
       "first_seen_utc": "2026-10-31T16:43:42+00:00",
       "last_seen_utc": "2026-10-31T16:43:42+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Magpie",
+      "x_account": "magpiegiwa",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "阿宏"
+      ],
+      "description": "Reserve-backed token on GIWA. @GIWA_by_upbit",
+      "first_seen_utc": "2026-11-26T14:08:42+00:00",
+      "last_seen_utc": "2026-11-26T14:08:42+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -37047,6 +37488,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Origin",
+      "x_account": "Originonzero",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "阿宏"
+      ],
+      "description": "The original token launchpad on Zero. No presale. Bonding curve. Liquidity locked forever after graduation.\n@LayerZero_Core",
+      "first_seen_utc": "2026-11-26T14:07:43+00:00",
+      "last_seen_utc": "2026-11-26T14:07:43+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Orionpad",
       "x_account": "orionpad",
       "total_mentions": 1,
@@ -37183,6 +37638,20 @@
       "description": "Fair token launches on Solana.\nEveryone starts on the same line: snipers pay 99% → 1% in the first 30s, and holders earn a share of every trade in SOL.",
       "first_seen_utc": "2026-11-20T21:28:55+00:00",
       "last_seen_utc": "2026-11-20T21:28:55+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Pearly",
+      "x_account": "pearlydotfun",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "阿宏"
+      ],
+      "description": "Mint, trade and launch PRC-20 tokens on Pearl. Wallet, swap and market in one place.",
+      "first_seen_utc": "2026-11-26T14:05:49+00:00",
+      "last_seen_utc": "2026-11-26T14:05:49+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -38111,6 +38580,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "spinor",
+      "x_account": "spinor_",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "@cashcat_token | @montraXYZ",
+      "first_seen_utc": "2026-11-26T12:57:52+00:00",
+      "last_seen_utc": "2026-11-26T12:57:52+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "spritefun",
       "x_account": "spritefun_xyz",
       "total_mentions": 1,
@@ -38401,6 +38884,20 @@
       "description": "The First Narrative Market. Where ideas become positions.",
       "first_seen_utc": "2026-11-11T17:20:27+00:00",
       "last_seen_utc": "2026-11-11T17:20:27+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Swellio",
+      "x_account": "swelliofi",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "阿宏"
+      ],
+      "description": "Hold still. Your bag grows.\n\nYield-powered balances on @base",
+      "first_seen_utc": "2026-11-26T14:08:42+00:00",
+      "last_seen_utc": "2026-11-26T14:08:42+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -39401,15 +39898,261 @@
   ],
   "daily": [
     {
-      "date": "2026-11-26",
-      "totalRows": 21,
-      "projectCount": 18,
-      "focusCount": 3,
-      "candidateCount": 15,
+      "date": "2026-11-27",
+      "totalRows": 5,
+      "projectCount": 5,
+      "focusCount": 0,
+      "candidateCount": 5,
       "crossSource": 0,
-      "newCount": 10,
-      "repeatCount": 8,
+      "newCount": 2,
+      "repeatCount": 3,
       "projects": [
+        {
+          "project": "Argent DEX",
+          "account": "Argent_DEX",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-26T17:02:33+00:00",
+          "lastSeen": "2026-11-26T17:02:33+00:00",
+          "description": "LitVM's native Exchange",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Argent DEX",
+              "account": "Argent_DEX",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-26T17:02:33+00:00",
+              "messageId": "dodtwitterbot/41805",
+              "description": "LitVM's native Exchange",
+              "text": "LitVM's native Exchange"
+            }
+          ],
+          "text": " Argent DEX Argent_DEX LitVM's native Exchange",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "FORECASTER",
+          "account": "Forecaster_gg",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "亚瑟-鸿运当头（招财版）（看签名进tg阿尔法频道）"
+          ],
+          "tgAlphas": [
+            "亚瑟-鸿运当头（招财版）（看签名进tg阿尔法频道）"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-26T16:12:56+00:00",
+          "lastSeen": "2026-11-26T16:12:56+00:00",
+          "description": "Go from zero to a fortune on good calls alone. The source of truth for who’s right about the markets.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "FORECASTER",
+              "account": "Forecaster_gg",
+              "alpha": "亚瑟-鸿运当头（招财版）（看签名进tg阿尔法频道）",
+              "seenAt": "2026-11-26T16:12:56+00:00",
+              "messageId": "dodtwitterbot/41797",
+              "description": "Go from zero to a fortune on good calls alone. The source of truth for who’s right about the markets.",
+              "text": "Go from zero to a fortune on good calls alone. The source of truth for who’s right about the markets."
+            }
+          ],
+          "text": " FORECASTER Forecaster_gg Go from zero to a fortune on good calls alone. The source of truth for who’s right about the markets.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "LIQUID",
+          "account": "Liquid_ely",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Mutu 🕸️"
+          ],
+          "tgAlphas": [
+            "Mutu 🕸️"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-26T18:15:11+00:00",
+          "lastSeen": "2026-11-26T18:15:11+00:00",
+          "description": "Infinite liquidity pools on Elysium.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "LIQUID",
+              "account": "Liquid_ely",
+              "alpha": "Mutu 🕸️",
+              "seenAt": "2026-11-26T18:15:11+00:00",
+              "messageId": "dodtwitterbot/41807",
+              "description": "Infinite liquidity pools on Elysium.",
+              "text": "Infinite liquidity pools on Elysium."
+            }
+          ],
+          "text": " LIQUID Liquid_ely Infinite liquidity pools on Elysium.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Rostrum",
+          "account": "rostrumsale",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-26T21:04:09+00:00",
+          "lastSeen": "2026-11-26T21:04:09+00:00",
+          "description": "The sale room for token launches on Base. Every lot comes with an estimate, a guarantee, and compute by @VeniceAI .",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Rostrum",
+              "account": "rostrumsale",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-26T21:04:09+00:00",
+              "messageId": "dodtwitterbot/41815",
+              "description": "The sale room for token launches on Base. Every lot comes with an estimate, a guarantee, and compute by @VeniceAI .",
+              "text": "The sale room for token launches on Base. Every lot comes with an estimate, a guarantee, and compute by @VeniceAI ."
+            }
+          ],
+          "text": " Rostrum rostrumsale The sale room for token launches on Base. Every lot comes with an estimate, a guarantee, and compute by @VeniceAI .",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Vested",
+          "account": "vestedfun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "unsynned"
+          ],
+          "tgAlphas": [
+            "unsynned"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-26T21:04:09+00:00",
+          "lastSeen": "2026-11-26T21:04:09+00:00",
+          "description": "Launch tokens on public terms.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Vested",
+              "account": "vestedfun",
+              "alpha": "unsynned",
+              "seenAt": "2026-11-26T21:04:09+00:00",
+              "messageId": "dodtwitterbot/41817",
+              "description": "Launch tokens on public terms.",
+              "text": "Launch tokens on public terms."
+            }
+          ],
+          "text": " Vested vestedfun Launch tokens on public terms.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-26",
+      "totalRows": 30,
+      "projectCount": 26,
+      "focusCount": 3,
+      "candidateCount": 23,
+      "crossSource": 0,
+      "newCount": 17,
+      "repeatCount": 9,
+      "projects": [
+        {
+          "project": "Sendors",
+          "account": "Sendorsfun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "well",
+            "蛋总",
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "well",
+            "蛋总",
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 3,
+          "firstSeen": "2026-11-25T18:52:12+00:00",
+          "lastSeen": "2026-11-26T14:07:43+00:00",
+          "description": "Every token starts from zero. Then it sends. A token launchpad Coming soon on @LayerZero_Core",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Sendors",
+              "account": "Sendorsfun",
+              "alpha": "well",
+              "seenAt": "2026-11-25T18:52:12+00:00",
+              "messageId": "dodtwitterbot/41719",
+              "description": "Every token starts from zero. Then it sends. A token launchpad Coming soon on @LayerZero_Core",
+              "text": "Every token starts from zero. Then it sends. A token launchpad Coming soon on @LayerZero_Core"
+            },
+            {
+              "source": "TG",
+              "project": "Sendors",
+              "account": "Sendorsfun",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-26T05:28:55+00:00",
+              "messageId": "dodtwitterbot/41746",
+              "description": "Every token starts from zero. Then it sends. A token launchpad Coming soon on @LayerZero_Core",
+              "text": "Every token starts from zero. Then it sends. A token launchpad Coming soon on @LayerZero_Core"
+            },
+            {
+              "source": "TG",
+              "project": "Sendors",
+              "account": "Sendorsfun",
+              "alpha": "阿宏",
+              "seenAt": "2026-11-26T14:07:43+00:00",
+              "messageId": "dodtwitterbot/41782",
+              "description": "Every token starts from zero. Then it sends. A token launchpad Coming soon on @LayerZero_Core",
+              "text": "Every token starts from zero. Then it sends. A token launchpad Coming soon on @LayerZero_Core"
+            }
+          ],
+          "text": " Sendors Sendorsfun Every token starts from zero. Then it sends. A token launchpad Coming soon on @LayerZero_Core Sendors Sendorsfun Every token starts from zero. Then it sends. A token launchpad Coming soon on @LayerZero_Core Sendors Sendorsfun Every token starts from zero. Then it sends. A token launchpad Coming soon on @LayerZero_Core",
+          "score": 6,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
         {
           "project": "Genera Network",
           "account": "GeneraNetwork",
@@ -39505,53 +40248,6 @@
           "dayStatus": "new"
         },
         {
-          "project": "Sendors",
-          "account": "Sendorsfun",
-          "sources": [
-            "TG"
-          ],
-          "alphas": [
-            "well",
-            "蛋总"
-          ],
-          "tgAlphas": [
-            "well",
-            "蛋总"
-          ],
-          "xAlphas": [],
-          "mentions": 2,
-          "firstSeen": "2026-11-25T18:52:12+00:00",
-          "lastSeen": "2026-11-26T05:28:55+00:00",
-          "description": "Every token starts from zero. Then it sends. A token launchpad Coming soon on @LayerZero_Core",
-          "rows": [
-            {
-              "source": "TG",
-              "project": "Sendors",
-              "account": "Sendorsfun",
-              "alpha": "well",
-              "seenAt": "2026-11-25T18:52:12+00:00",
-              "messageId": "dodtwitterbot/41719",
-              "description": "Every token starts from zero. Then it sends. A token launchpad Coming soon on @LayerZero_Core",
-              "text": "Every token starts from zero. Then it sends. A token launchpad Coming soon on @LayerZero_Core"
-            },
-            {
-              "source": "TG",
-              "project": "Sendors",
-              "account": "Sendorsfun",
-              "alpha": "蛋总",
-              "seenAt": "2026-11-26T05:28:55+00:00",
-              "messageId": "dodtwitterbot/41746",
-              "description": "Every token starts from zero. Then it sends. A token launchpad Coming soon on @LayerZero_Core",
-              "text": "Every token starts from zero. Then it sends. A token launchpad Coming soon on @LayerZero_Core"
-            }
-          ],
-          "text": " Sendors Sendorsfun Every token starts from zero. Then it sends. A token launchpad Coming soon on @LayerZero_Core Sendors Sendorsfun Every token starts from zero. Then it sends. A token launchpad Coming soon on @LayerZero_Core",
-          "score": 4,
-          "displayTier": "focus",
-          "avatarUrl": "",
-          "dayStatus": "repeat"
-        },
-        {
           "project": "Addicted",
           "account": "Addictedfamily_",
           "sources": [
@@ -39622,6 +40318,41 @@
           "dayStatus": "new"
         },
         {
+          "project": "ElyTrenches",
+          "account": "ElyTrenches",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Mutu 🕸️"
+          ],
+          "tgAlphas": [
+            "Mutu 🕸️"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-26T13:14:43+00:00",
+          "lastSeen": "2026-11-26T13:14:43+00:00",
+          "description": "Discover launches. Understand the risks. Trade on Elysium. Onchain intelligence and Telegram alerts by Ely Trenches.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "ElyTrenches",
+              "account": "ElyTrenches",
+              "alpha": "Mutu 🕸️",
+              "seenAt": "2026-11-26T13:14:43+00:00",
+              "messageId": "dodtwitterbot/41777",
+              "description": "Discover launches. Understand the risks. Trade on Elysium. Onchain intelligence and Telegram alerts by Ely Trenches.",
+              "text": "Discover launches. Understand the risks. Trade on Elysium. Onchain intelligence and Telegram alerts by Ely Trenches."
+            }
+          ],
+          "text": " ElyTrenches ElyTrenches Discover launches. Understand the risks. Trade on Elysium. Onchain intelligence and Telegram alerts by Ely Trenches.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
           "project": "Get Gremlin",
           "account": "GetGremlin",
           "sources": [
@@ -39686,6 +40417,76 @@
             }
           ],
           "text": " kezzy 💜 joinkezzy girl math has entered the chat 🍒\n\npowered by @solana | coming soon",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Liquidisium",
+          "account": "liquidisium",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-26T14:10:40+00:00",
+          "lastSeen": "2026-11-26T14:10:40+00:00",
+          "description": "Uniswap v4 hooks that plug Elysium pools into Hyperliquid. Pools that move with the HyperCore book, LPs paid what arbitrageurs took, HyperCore hedges next.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Liquidisium",
+              "account": "liquidisium",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-26T14:10:40+00:00",
+              "messageId": "dodtwitterbot/41788",
+              "description": "Uniswap v4 hooks that plug Elysium pools into Hyperliquid. Pools that move with the HyperCore book, LPs paid what arbitrageurs took, HyperCore hedges next.",
+              "text": "Uniswap v4 hooks that plug Elysium pools into Hyperliquid. Pools that move with the HyperCore book, LPs paid what arbitrageurs took, HyperCore hedges next."
+            }
+          ],
+          "text": " Liquidisium liquidisium Uniswap v4 hooks that plug Elysium pools into Hyperliquid. Pools that move with the HyperCore book, LPs paid what arbitrageurs took, HyperCore hedges next.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Magpie",
+          "account": "magpiegiwa",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-26T14:08:42+00:00",
+          "lastSeen": "2026-11-26T14:08:42+00:00",
+          "description": "Reserve-backed token on GIWA. @GIWA_by_upbit",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Magpie",
+              "account": "magpiegiwa",
+              "alpha": "阿宏",
+              "seenAt": "2026-11-26T14:08:42+00:00",
+              "messageId": "dodtwitterbot/41785",
+              "description": "Reserve-backed token on GIWA. @GIWA_by_upbit",
+              "text": "Reserve-backed token on GIWA. @GIWA_by_upbit"
+            }
+          ],
+          "text": " Magpie magpiegiwa Reserve-backed token on GIWA. @GIWA_by_upbit",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -39797,6 +40598,76 @@
           "dayStatus": "repeat"
         },
         {
+          "project": "Origin",
+          "account": "Originonzero",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-26T14:07:43+00:00",
+          "lastSeen": "2026-11-26T14:07:43+00:00",
+          "description": "The original token launchpad on Zero. No presale. Bonding curve. Liquidity locked forever after graduation.\n@LayerZero_Core",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Origin",
+              "account": "Originonzero",
+              "alpha": "阿宏",
+              "seenAt": "2026-11-26T14:07:43+00:00",
+              "messageId": "dodtwitterbot/41783",
+              "description": "The original token launchpad on Zero. No presale. Bonding curve. Liquidity locked forever after graduation.\n@LayerZero_Core",
+              "text": "The original token launchpad on Zero. No presale. Bonding curve. Liquidity locked forever after graduation.\n@LayerZero_Core"
+            }
+          ],
+          "text": " Origin Originonzero The original token launchpad on Zero. No presale. Bonding curve. Liquidity locked forever after graduation.\n@LayerZero_Core",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Pearly",
+          "account": "pearlydotfun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-26T14:05:49+00:00",
+          "lastSeen": "2026-11-26T14:05:49+00:00",
+          "description": "Mint, trade and launch PRC-20 tokens on Pearl. Wallet, swap and market in one place.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Pearly",
+              "account": "pearlydotfun",
+              "alpha": "阿宏",
+              "seenAt": "2026-11-26T14:05:49+00:00",
+              "messageId": "dodtwitterbot/41781",
+              "description": "Mint, trade and launch PRC-20 tokens on Pearl. Wallet, swap and market in one place.",
+              "text": "Mint, trade and launch PRC-20 tokens on Pearl. Wallet, swap and market in one place."
+            }
+          ],
+          "text": " Pearly pearlydotfun Mint, trade and launch PRC-20 tokens on Pearl. Wallet, swap and market in one place.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
           "project": "Prest Agent",
           "account": "PrestAgent",
           "sources": [
@@ -39867,6 +40738,41 @@
           "dayStatus": "repeat"
         },
         {
+          "project": "spinor",
+          "account": "spinor_",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-26T12:57:52+00:00",
+          "lastSeen": "2026-11-26T12:57:52+00:00",
+          "description": "@cashcat_token | @montraXYZ",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "spinor",
+              "account": "spinor_",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-26T12:57:52+00:00",
+              "messageId": "dodtwitterbot/41774",
+              "description": "@cashcat_token | @montraXYZ",
+              "text": "@cashcat_token | @montraXYZ"
+            }
+          ],
+          "text": " spinor spinor_ @cashcat_token | @montraXYZ",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
           "project": "supermassive",
           "account": "supermassivedex",
           "sources": [
@@ -39900,6 +40806,41 @@
           "displayTier": "candidate",
           "avatarUrl": "",
           "dayStatus": "repeat"
+        },
+        {
+          "project": "Swellio",
+          "account": "swelliofi",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-26T14:08:42+00:00",
+          "lastSeen": "2026-11-26T14:08:42+00:00",
+          "description": "Hold still. Your bag grows.\n\nYield-powered balances on @base",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Swellio",
+              "account": "swelliofi",
+              "alpha": "阿宏",
+              "seenAt": "2026-11-26T14:08:42+00:00",
+              "messageId": "dodtwitterbot/41787",
+              "description": "Hold still. Your bag grows.\n\nYield-powered balances on @base",
+              "text": "Hold still. Your bag grows.\n\nYield-powered balances on @base"
+            }
+          ],
+          "text": " Swellio swelliofi Hold still. Your bag grows.\n\nYield-powered balances on @base",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
         },
         {
           "project": "Theo",
@@ -40040,6 +40981,41 @@
           "displayTier": "candidate",
           "avatarUrl": "",
           "dayStatus": "new"
+        },
+        {
+          "project": "ZeroPad",
+          "account": "0padtrade",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-26T14:05:49+00:00",
+          "lastSeen": "2026-11-26T14:05:49+00:00",
+          "description": "Launch at block zero. Trade from the first block. A token launchpad built @LayerZero_Core",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "ZeroPad",
+              "account": "0padtrade",
+              "alpha": "阿宏",
+              "seenAt": "2026-11-26T14:05:49+00:00",
+              "messageId": "dodtwitterbot/41780",
+              "description": "Launch at block zero. Trade from the first block. A token launchpad built @LayerZero_Core",
+              "text": "Launch at block zero. Trade from the first block. A token launchpad built @LayerZero_Core"
+            }
+          ],
+          "text": " ZeroPad 0padtrade Launch at block zero. Trade from the first block. A token launchpad built @LayerZero_Core",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
         },
         {
           "project": "币胜客",
@@ -75266,439 +76242,444 @@
   ],
   "reports": [
     {
+      "file": "2026-11-26-2238-telegram-update.md",
+      "title": "2026-11-26-2238-telegram-update",
+      "updatedAt": "2026-11-26T22:38:28.534Z"
+    },
+    {
       "file": "2026-11-26-1005-telegram-update.md",
       "title": "2026-11-26-1005-telegram-update",
-      "updatedAt": "2026-11-26T10:05:37.116Z"
+      "updatedAt": "2026-11-26T22:38:26.067Z"
     },
     {
       "file": "2026-11-25-2249-telegram-update.md",
       "title": "2026-11-25-2249-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.135Z"
+      "updatedAt": "2026-11-26T22:38:26.067Z"
     },
     {
       "file": "2026-11-25-1033-telegram-update.md",
       "title": "2026-11-25-1033-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.135Z"
+      "updatedAt": "2026-11-26T22:38:26.067Z"
     },
     {
       "file": "2026-11-25-0138-telegram-update.md",
       "title": "2026-11-25-0138-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.135Z"
+      "updatedAt": "2026-11-26T22:38:26.067Z"
     },
     {
       "file": "2026-11-24-1630-telegram-update.md",
       "title": "2026-11-24-1630-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.135Z"
+      "updatedAt": "2026-11-26T22:38:26.067Z"
     },
     {
       "file": "2026-11-24-0537-telegram-update.md",
       "title": "2026-11-24-0537-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.135Z"
+      "updatedAt": "2026-11-26T22:38:26.067Z"
     },
     {
       "file": "2026-11-23-2144-telegram-update.md",
       "title": "2026-11-23-2144-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.135Z"
+      "updatedAt": "2026-11-26T22:38:26.067Z"
     },
     {
       "file": "2026-11-23-0952-telegram-update.md",
       "title": "2026-11-23-0952-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.135Z"
+      "updatedAt": "2026-11-26T22:38:26.067Z"
     },
     {
       "file": "2026-11-22-1726-telegram-update.md",
       "title": "2026-11-22-1726-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.135Z"
+      "updatedAt": "2026-11-26T22:38:26.067Z"
     },
     {
       "file": "2026-11-22-0854-telegram-update.md",
       "title": "2026-11-22-0854-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.135Z"
+      "updatedAt": "2026-11-26T22:38:26.067Z"
     },
     {
       "file": "2026-11-22-0141-telegram-update.md",
       "title": "2026-11-22-0141-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.135Z"
+      "updatedAt": "2026-11-26T22:38:26.067Z"
     },
     {
       "file": "2026-11-21-2016-telegram-update.md",
       "title": "2026-11-21-2016-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.135Z"
+      "updatedAt": "2026-11-26T22:38:26.067Z"
     },
     {
       "file": "2026-11-21-1344-telegram-update.md",
       "title": "2026-11-21-1344-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.135Z"
+      "updatedAt": "2026-11-26T22:38:26.067Z"
     },
     {
       "file": "2026-11-21-0252-telegram-update.md",
       "title": "2026-11-21-0252-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.135Z"
+      "updatedAt": "2026-11-26T22:38:26.067Z"
     },
     {
       "file": "2026-11-20-0915-telegram-update.md",
       "title": "2026-11-20-0915-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.135Z"
+      "updatedAt": "2026-11-26T22:38:26.067Z"
     },
     {
       "file": "2026-11-19-2355-telegram-update.md",
       "title": "2026-11-19-2355-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.135Z"
+      "updatedAt": "2026-11-26T22:38:26.067Z"
     },
     {
       "file": "2026-11-19-1443-telegram-update.md",
       "title": "2026-11-19-1443-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.135Z"
+      "updatedAt": "2026-11-26T22:38:26.067Z"
     },
     {
       "file": "2026-11-18-1826-telegram-update.md",
       "title": "2026-11-18-1826-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.135Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-18-0916-telegram-update.md",
       "title": "2026-11-18-0916-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.135Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-18-0002-telegram-update.md",
       "title": "2026-11-18-0002-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.135Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-17-1456-telegram-update.md",
       "title": "2026-11-17-1456-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.135Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-17-0412-telegram-update.md",
       "title": "2026-11-17-0412-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.135Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-16-1953-telegram-update.md",
       "title": "2026-11-16-1953-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.135Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-16-0839-telegram-update.md",
       "title": "2026-11-16-0839-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.135Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-15-2207-telegram-update.md",
       "title": "2026-11-15-2207-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.135Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-15-1639-telegram-update.md",
       "title": "2026-11-15-1639-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.135Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-15-0828-telegram-update.md",
       "title": "2026-11-15-0828-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.135Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-15-0121-telegram-update.md",
       "title": "2026-11-15-0121-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.135Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-14-2141-telegram-update.md",
       "title": "2026-11-14-2141-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.135Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-14-1610-telegram-update.md",
       "title": "2026-11-14-1610-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.135Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-14-0809-telegram-update.md",
       "title": "2026-11-14-0809-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.135Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-13-2255-telegram-update.md",
       "title": "2026-11-13-2255-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.135Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-13-1724-telegram-update.md",
       "title": "2026-11-13-1724-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.135Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-13-0849-telegram-update.md",
       "title": "2026-11-13-0849-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.135Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-12-2254-telegram-update.md",
       "title": "2026-11-12-2254-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.135Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-12-1746-telegram-update.md",
       "title": "2026-11-12-1746-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-12-0853-telegram-update.md",
       "title": "2026-11-12-0853-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-11-2344-telegram-update.md",
       "title": "2026-11-11-2344-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-11-1729-telegram-update.md",
       "title": "2026-11-11-1729-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-11-0828-telegram-update.md",
       "title": "2026-11-11-0828-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-11-0130-telegram-update.md",
       "title": "2026-11-11-0130-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-10-2037-telegram-update.md",
       "title": "2026-11-10-2037-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-10-1348-telegram-update.md",
       "title": "2026-11-10-1348-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-10-0351-telegram-update.md",
       "title": "2026-11-10-0351-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-09-2013-telegram-update.md",
       "title": "2026-11-09-2013-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-09-0844-telegram-update.md",
       "title": "2026-11-09-0844-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-08-2123-telegram-update.md",
       "title": "2026-11-08-2123-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-08-1623-telegram-update.md",
       "title": "2026-11-08-1623-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-08-0804-telegram-update.md",
       "title": "2026-11-08-0804-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-07-2106-telegram-update.md",
       "title": "2026-11-07-2106-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-07-1556-telegram-update.md",
       "title": "2026-11-07-1556-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-07-0751-telegram-update.md",
       "title": "2026-11-07-0751-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-06-2226-telegram-update.md",
       "title": "2026-11-06-2226-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-06-1658-telegram-update.md",
       "title": "2026-11-06-1658-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-06-0835-telegram-update.md",
       "title": "2026-11-06-0835-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-05-2256-telegram-update.md",
       "title": "2026-11-05-2256-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-05-1742-telegram-update.md",
       "title": "2026-11-05-1742-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-05-0836-telegram-update.md",
       "title": "2026-11-05-0836-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-04-2255-telegram-update.md",
       "title": "2026-11-04-2255-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-04-1737-telegram-update.md",
       "title": "2026-11-04-1737-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-04-0810-telegram-update.md",
       "title": "2026-11-04-0810-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-04-0143-telegram-update.md",
       "title": "2026-11-04-0143-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-03-2018-telegram-update.md",
       "title": "2026-11-03-2018-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-03-1302-telegram-update.md",
       "title": "2026-11-03-1302-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-03-0306-telegram-update.md",
       "title": "2026-11-03-0306-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-02-1950-telegram-update.md",
       "title": "2026-11-02-1950-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-02-0826-telegram-update.md",
       "title": "2026-11-02-0826-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-26T10:05:35.134Z"
+      "updatedAt": "2026-11-26T22:38:26.066Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-26T10:05:35.133Z"
+      "updatedAt": "2026-11-26T22:38:26.065Z"
     }
   ]
 }
