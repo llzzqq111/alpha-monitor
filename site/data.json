@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-27T10:11:13.255Z",
+  "generatedAt": "2026-11-27T22:23:41.336Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 41845,
-    "lastMessageAt": "2026-11-27T10:10:45+00:00",
-    "lastCheckedAt": "2026-11-27T10:11:12.892Z",
-    "previousMessageId": 41818,
-    "pagesRead": 2,
-    "messagesRead": 27,
-    "newProjectRecords": 9,
+    "lastMessageId": 41863,
+    "lastMessageAt": "2026-11-27T21:07:54+00:00",
+    "lastCheckedAt": "2026-11-27T22:23:41.107Z",
+    "previousMessageId": 41845,
+    "pagesRead": 1,
+    "messagesRead": 18,
+    "newProjectRecords": 4,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 1178,
+    "telegramRows": 1182,
     "xRows": 0,
-    "projects": 712,
+    "projects": 715,
     "crossSource": 0
   },
   "projects": [
@@ -11202,6 +11202,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "Liquidisium",
+      "account": "liquidisium",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "flaxsed",
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "flaxsed",
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-26T14:10:40+00:00",
+      "lastSeen": "2026-11-27T11:50:17+00:00",
+      "description": "Uniswap v4 hooks that plug Elysium pools into Hyperliquid. Pools that move with the HyperCore book, LPs paid what arbitrageurs took, HyperCore hedges next.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Liquidisium",
+          "account": "liquidisium",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-26T14:10:40+00:00",
+          "messageId": "dodtwitterbot/41788",
+          "description": "Uniswap v4 hooks that plug Elysium pools into Hyperliquid. Pools that move with the HyperCore book, LPs paid what arbitrageurs took, HyperCore hedges next.",
+          "text": "Uniswap v4 hooks that plug Elysium pools into Hyperliquid. Pools that move with the HyperCore book, LPs paid what arbitrageurs took, HyperCore hedges next."
+        },
+        {
+          "source": "TG",
+          "project": "Liquidisium",
+          "account": "liquidisium",
+          "alpha": "flaxsed",
+          "seenAt": "2026-11-27T11:50:17+00:00",
+          "messageId": "dodtwitterbot/41849",
+          "description": "Uniswap v4 hooks that plug Elysium pools into Hyperliquid. Pools that move with the HyperCore book, LPs paid what arbitrageurs took, HyperCore hedges next.",
+          "text": "Uniswap v4 hooks that plug Elysium pools into Hyperliquid. Pools that move with the HyperCore book, LPs paid what arbitrageurs took, HyperCore hedges next."
+        }
+      ],
+      "text": " Liquidisium liquidisium Uniswap v4 hooks that plug Elysium pools into Hyperliquid. Pools that move with the HyperCore book, LPs paid what arbitrageurs took, HyperCore hedges next. Liquidisium liquidisium Uniswap v4 hooks that plug Elysium pools into Hyperliquid. Pools that move with the HyperCore book, LPs paid what arbitrageurs took, HyperCore hedges next.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Loadout",
       "account": "loadoutprotocol",
       "sources": [
@@ -17274,6 +17320,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "DuckWest",
+      "account": "DuckWest",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BTC alpha"
+      ],
+      "tgAlphas": [
+        "BTC alpha"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-27T13:14:01+00:00",
+      "lastSeen": "2026-11-27T13:14:01+00:00",
+      "description": "I want to get rekt on all shitcoins in this market.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "DuckWest",
+          "account": "DuckWest",
+          "alpha": "BTC alpha",
+          "seenAt": "2026-11-27T13:14:01+00:00",
+          "messageId": "dodtwitterbot/41853",
+          "description": "I want to get rekt on all shitcoins in this market.",
+          "text": "I want to get rekt on all shitcoins in this market."
+        }
+      ],
+      "text": " DuckWest DuckWest I want to get rekt on all shitcoins in this market.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "DyDx.fun",
       "account": "DyDxfun",
       "sources": [
@@ -19309,6 +19389,40 @@
         }
       ],
       "text": " Graph GraphHyperEVM Onchain stock options, built on @HyperliquidX . Trade calls, puts & structured strategies. A new dimension to equity markets.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Greed AI",
+      "account": "greedaitoday",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-27T11:30:10+00:00",
+      "lastSeen": "2026-11-27T11:30:10+00:00",
+      "description": "The first protocol on the internet to put a price on greed. Build on @BNBCHAIN . Powered By @Flapdotsh 😍",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Greed AI",
+          "account": "greedaitoday",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-27T11:30:10+00:00",
+          "messageId": "dodtwitterbot/41847",
+          "description": "The first protocol on the internet to put a price on greed. Build on @BNBCHAIN . Powered By @Flapdotsh 😍",
+          "text": "The first protocol on the internet to put a price on greed. Build on @BNBCHAIN . Powered By @Flapdotsh 😍"
+        }
+      ],
+      "text": " Greed AI greedaitoday The first protocol on the internet to put a price on greed. Build on @BNBCHAIN . Powered By @Flapdotsh 😍",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -21723,40 +21837,6 @@
         }
       ],
       "text": " Liquid Terminal liquidterminal The terminal to house all @HyperliquidX .\nData powered by @enigmavalidator and @hypedexer\nFree & open source.",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Liquidisium",
-      "account": "liquidisium",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "蛋总"
-      ],
-      "tgAlphas": [
-        "蛋总"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-26T14:10:40+00:00",
-      "lastSeen": "2026-11-26T14:10:40+00:00",
-      "description": "Uniswap v4 hooks that plug Elysium pools into Hyperliquid. Pools that move with the HyperCore book, LPs paid what arbitrageurs took, HyperCore hedges next.",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Liquidisium",
-          "account": "liquidisium",
-          "alpha": "蛋总",
-          "seenAt": "2026-11-26T14:10:40+00:00",
-          "messageId": "dodtwitterbot/41788",
-          "description": "Uniswap v4 hooks that plug Elysium pools into Hyperliquid. Pools that move with the HyperCore book, LPs paid what arbitrageurs took, HyperCore hedges next.",
-          "text": "Uniswap v4 hooks that plug Elysium pools into Hyperliquid. Pools that move with the HyperCore book, LPs paid what arbitrageurs took, HyperCore hedges next."
-        }
-      ],
-      "text": " Liquidisium liquidisium Uniswap v4 hooks that plug Elysium pools into Hyperliquid. Pools that move with the HyperCore book, LPs paid what arbitrageurs took, HyperCore hedges next.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -28698,6 +28778,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "VoidCash",
+      "account": "VoidCashio",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-27T17:31:29+00:00",
+      "lastSeen": "2026-11-27T17:31:29+00:00",
+      "description": "The privacy layer of @Enter_Elysium",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "VoidCash",
+          "account": "VoidCashio",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-27T17:31:29+00:00",
+          "messageId": "dodtwitterbot/41861",
+          "description": "The privacy layer of @Enter_Elysium",
+          "text": "The privacy layer of @Enter_Elysium"
+        }
+      ],
+      "text": " VoidCash VoidCashio The privacy layer of @Enter_Elysium",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "vpaw",
       "account": "vPawHook",
       "sources": [
@@ -32844,6 +32958,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "Liquidisium",
+      "x_account": "liquidisium",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "flaxsed",
+        "蛋总"
+      ],
+      "description": "Uniswap v4 hooks that plug Elysium pools into Hyperliquid. Pools that move with the HyperCore book, LPs paid what arbitrageurs took, HyperCore hedges next.",
+      "first_seen_utc": "2026-11-26T14:10:40+00:00",
+      "last_seen_utc": "2026-11-27T11:50:17+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Loadout",
       "x_account": "loadoutprotocol",
       "total_mentions": 2,
@@ -35092,6 +35221,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "DuckWest",
+      "x_account": "DuckWest",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "BTC alpha"
+      ],
+      "description": "I want to get rekt on all shitcoins in this market.",
+      "first_seen_utc": "2026-11-27T13:14:01+00:00",
+      "last_seen_utc": "2026-11-27T13:14:01+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "DyDx.fun",
       "x_account": "DyDxfun",
       "total_mentions": 1,
@@ -35928,6 +36071,20 @@
       "description": "Onchain stock options, built on @HyperliquidX . Trade calls, puts & structured strategies. A new dimension to equity markets.",
       "first_seen_utc": "2026-11-02T12:06:48+00:00",
       "last_seen_utc": "2026-11-02T12:06:48+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Greed AI",
+      "x_account": "greedaitoday",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "阿宏"
+      ],
+      "description": "The first protocol on the internet to put a price on greed. Build on @BNBCHAIN . Powered By @Flapdotsh 😍",
+      "first_seen_utc": "2026-11-27T11:30:10+00:00",
+      "last_seen_utc": "2026-11-27T11:30:10+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -36922,20 +37079,6 @@
       "description": "The terminal to house all @HyperliquidX .\nData powered by @enigmavalidator and @hypedexer\nFree & open source.",
       "first_seen_utc": "2026-11-09T08:40:54+00:00",
       "last_seen_utc": "2026-11-09T08:40:54+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Liquidisium",
-      "x_account": "liquidisium",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "蛋总"
-      ],
-      "description": "Uniswap v4 hooks that plug Elysium pools into Hyperliquid. Pools that move with the HyperCore book, LPs paid what arbitrageurs took, HyperCore hedges next.",
-      "first_seen_utc": "2026-11-26T14:10:40+00:00",
-      "last_seen_utc": "2026-11-26T14:10:40+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -39796,6 +39939,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "VoidCash",
+      "x_account": "VoidCashio",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "阿宏"
+      ],
+      "description": "The privacy layer of @Enter_Elysium",
+      "first_seen_utc": "2026-11-27T17:31:29+00:00",
+      "last_seen_utc": "2026-11-27T17:31:29+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "vpaw",
       "x_account": "vPawHook",
       "total_mentions": 1,
@@ -40260,14 +40417,61 @@
   ],
   "daily": [
     {
-      "date": "2026-11-27",
-      "totalRows": 14,
-      "projectCount": 13,
-      "focusCount": 1,
-      "candidateCount": 12,
+      "date": "2026-11-28",
+      "totalRows": 1,
+      "projectCount": 1,
+      "focusCount": 0,
+      "candidateCount": 1,
       "crossSource": 0,
-      "newCount": 9,
-      "repeatCount": 4,
+      "newCount": 1,
+      "repeatCount": 0,
+      "projects": [
+        {
+          "project": "VoidCash",
+          "account": "VoidCashio",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-27T17:31:29+00:00",
+          "lastSeen": "2026-11-27T17:31:29+00:00",
+          "description": "The privacy layer of @Enter_Elysium",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "VoidCash",
+              "account": "VoidCashio",
+              "alpha": "阿宏",
+              "seenAt": "2026-11-27T17:31:29+00:00",
+              "messageId": "dodtwitterbot/41861",
+              "description": "The privacy layer of @Enter_Elysium",
+              "text": "The privacy layer of @Enter_Elysium"
+            }
+          ],
+          "text": " VoidCash VoidCashio The privacy layer of @Enter_Elysium",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "totalRows": 17,
+      "projectCount": 16,
+      "focusCount": 1,
+      "candidateCount": 15,
+      "crossSource": 0,
+      "newCount": 11,
+      "repeatCount": 5,
       "projects": [
         {
           "project": "o1 Bot",
@@ -40387,6 +40591,41 @@
           "dayStatus": "new"
         },
         {
+          "project": "DuckWest",
+          "account": "DuckWest",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BTC alpha"
+          ],
+          "tgAlphas": [
+            "BTC alpha"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-27T13:14:01+00:00",
+          "lastSeen": "2026-11-27T13:14:01+00:00",
+          "description": "I want to get rekt on all shitcoins in this market.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "DuckWest",
+              "account": "DuckWest",
+              "alpha": "BTC alpha",
+              "seenAt": "2026-11-27T13:14:01+00:00",
+              "messageId": "dodtwitterbot/41853",
+              "description": "I want to get rekt on all shitcoins in this market.",
+              "text": "I want to get rekt on all shitcoins in this market."
+            }
+          ],
+          "text": " DuckWest DuckWest I want to get rekt on all shitcoins in this market.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
           "project": "FORECASTER",
           "account": "Forecaster_gg",
           "sources": [
@@ -40416,6 +40655,41 @@
             }
           ],
           "text": " FORECASTER Forecaster_gg Go from zero to a fortune on good calls alone. The source of truth for who’s right about the markets.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Greed AI",
+          "account": "greedaitoday",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "阿宏"
+          ],
+          "tgAlphas": [
+            "阿宏"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-27T11:30:10+00:00",
+          "lastSeen": "2026-11-27T11:30:10+00:00",
+          "description": "The first protocol on the internet to put a price on greed. Build on @BNBCHAIN . Powered By @Flapdotsh 😍",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Greed AI",
+              "account": "greedaitoday",
+              "alpha": "阿宏",
+              "seenAt": "2026-11-27T11:30:10+00:00",
+              "messageId": "dodtwitterbot/41847",
+              "description": "The first protocol on the internet to put a price on greed. Build on @BNBCHAIN . Powered By @Flapdotsh 😍",
+              "text": "The first protocol on the internet to put a price on greed. Build on @BNBCHAIN . Powered By @Flapdotsh 😍"
+            }
+          ],
+          "text": " Greed AI greedaitoday The first protocol on the internet to put a price on greed. Build on @BNBCHAIN . Powered By @Flapdotsh 😍",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -40525,6 +40799,41 @@
           "displayTier": "candidate",
           "avatarUrl": "",
           "dayStatus": "new"
+        },
+        {
+          "project": "Liquidisium",
+          "account": "liquidisium",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "flaxsed"
+          ],
+          "tgAlphas": [
+            "flaxsed"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-27T11:50:17+00:00",
+          "lastSeen": "2026-11-27T11:50:17+00:00",
+          "description": "Uniswap v4 hooks that plug Elysium pools into Hyperliquid. Pools that move with the HyperCore book, LPs paid what arbitrageurs took, HyperCore hedges next.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Liquidisium",
+              "account": "liquidisium",
+              "alpha": "flaxsed",
+              "seenAt": "2026-11-27T11:50:17+00:00",
+              "messageId": "dodtwitterbot/41849",
+              "description": "Uniswap v4 hooks that plug Elysium pools into Hyperliquid. Pools that move with the HyperCore book, LPs paid what arbitrageurs took, HyperCore hedges next.",
+              "text": "Uniswap v4 hooks that plug Elysium pools into Hyperliquid. Pools that move with the HyperCore book, LPs paid what arbitrageurs took, HyperCore hedges next."
+            }
+          ],
+          "text": " Liquidisium liquidisium Uniswap v4 hooks that plug Elysium pools into Hyperliquid. Pools that move with the HyperCore book, LPs paid what arbitrageurs took, HyperCore hedges next.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
         },
         {
           "project": "Niwa",
@@ -76896,449 +77205,454 @@
   ],
   "reports": [
     {
+      "file": "2026-11-27-2223-telegram-update.md",
+      "title": "2026-11-27-2223-telegram-update",
+      "updatedAt": "2026-11-27T22:23:41.106Z"
+    },
+    {
       "file": "2026-11-27-1011-telegram-update.md",
       "title": "2026-11-27-1011-telegram-update",
-      "updatedAt": "2026-11-27T10:11:12.892Z"
+      "updatedAt": "2026-11-27T22:23:39.039Z"
     },
     {
       "file": "2026-11-26-2238-telegram-update.md",
       "title": "2026-11-26-2238-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.761Z"
+      "updatedAt": "2026-11-27T22:23:39.039Z"
     },
     {
       "file": "2026-11-26-1005-telegram-update.md",
       "title": "2026-11-26-1005-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.761Z"
+      "updatedAt": "2026-11-27T22:23:39.039Z"
     },
     {
       "file": "2026-11-25-2249-telegram-update.md",
       "title": "2026-11-25-2249-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.761Z"
+      "updatedAt": "2026-11-27T22:23:39.039Z"
     },
     {
       "file": "2026-11-25-1033-telegram-update.md",
       "title": "2026-11-25-1033-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.761Z"
+      "updatedAt": "2026-11-27T22:23:39.039Z"
     },
     {
       "file": "2026-11-25-0138-telegram-update.md",
       "title": "2026-11-25-0138-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.761Z"
+      "updatedAt": "2026-11-27T22:23:39.039Z"
     },
     {
       "file": "2026-11-24-1630-telegram-update.md",
       "title": "2026-11-24-1630-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.761Z"
+      "updatedAt": "2026-11-27T22:23:39.039Z"
     },
     {
       "file": "2026-11-24-0537-telegram-update.md",
       "title": "2026-11-24-0537-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.761Z"
+      "updatedAt": "2026-11-27T22:23:39.039Z"
     },
     {
       "file": "2026-11-23-2144-telegram-update.md",
       "title": "2026-11-23-2144-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.761Z"
+      "updatedAt": "2026-11-27T22:23:39.039Z"
     },
     {
       "file": "2026-11-23-0952-telegram-update.md",
       "title": "2026-11-23-0952-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.760Z"
+      "updatedAt": "2026-11-27T22:23:39.039Z"
     },
     {
       "file": "2026-11-22-1726-telegram-update.md",
       "title": "2026-11-22-1726-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.760Z"
+      "updatedAt": "2026-11-27T22:23:39.039Z"
     },
     {
       "file": "2026-11-22-0854-telegram-update.md",
       "title": "2026-11-22-0854-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.760Z"
+      "updatedAt": "2026-11-27T22:23:39.039Z"
     },
     {
       "file": "2026-11-22-0141-telegram-update.md",
       "title": "2026-11-22-0141-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.760Z"
+      "updatedAt": "2026-11-27T22:23:39.039Z"
     },
     {
       "file": "2026-11-21-2016-telegram-update.md",
       "title": "2026-11-21-2016-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.760Z"
+      "updatedAt": "2026-11-27T22:23:39.039Z"
     },
     {
       "file": "2026-11-21-1344-telegram-update.md",
       "title": "2026-11-21-1344-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.760Z"
+      "updatedAt": "2026-11-27T22:23:39.039Z"
     },
     {
       "file": "2026-11-21-0252-telegram-update.md",
       "title": "2026-11-21-0252-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.760Z"
+      "updatedAt": "2026-11-27T22:23:39.039Z"
     },
     {
       "file": "2026-11-20-0915-telegram-update.md",
       "title": "2026-11-20-0915-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.760Z"
+      "updatedAt": "2026-11-27T22:23:39.039Z"
     },
     {
       "file": "2026-11-19-2355-telegram-update.md",
       "title": "2026-11-19-2355-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.760Z"
+      "updatedAt": "2026-11-27T22:23:39.039Z"
     },
     {
       "file": "2026-11-19-1443-telegram-update.md",
       "title": "2026-11-19-1443-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.760Z"
+      "updatedAt": "2026-11-27T22:23:39.039Z"
     },
     {
       "file": "2026-11-18-1826-telegram-update.md",
       "title": "2026-11-18-1826-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.760Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-18-0916-telegram-update.md",
       "title": "2026-11-18-0916-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.760Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-18-0002-telegram-update.md",
       "title": "2026-11-18-0002-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.760Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-17-1456-telegram-update.md",
       "title": "2026-11-17-1456-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.760Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-17-0412-telegram-update.md",
       "title": "2026-11-17-0412-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.760Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-16-1953-telegram-update.md",
       "title": "2026-11-16-1953-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.760Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-16-0839-telegram-update.md",
       "title": "2026-11-16-0839-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.760Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-15-2207-telegram-update.md",
       "title": "2026-11-15-2207-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.760Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-15-1639-telegram-update.md",
       "title": "2026-11-15-1639-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.760Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-15-0828-telegram-update.md",
       "title": "2026-11-15-0828-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.760Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-15-0121-telegram-update.md",
       "title": "2026-11-15-0121-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.760Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-14-2141-telegram-update.md",
       "title": "2026-11-14-2141-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.760Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-14-1610-telegram-update.md",
       "title": "2026-11-14-1610-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.760Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-14-0809-telegram-update.md",
       "title": "2026-11-14-0809-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.760Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-13-2255-telegram-update.md",
       "title": "2026-11-13-2255-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.760Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-13-1724-telegram-update.md",
       "title": "2026-11-13-1724-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.760Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-13-0849-telegram-update.md",
       "title": "2026-11-13-0849-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.760Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-12-2254-telegram-update.md",
       "title": "2026-11-12-2254-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.760Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-12-1746-telegram-update.md",
       "title": "2026-11-12-1746-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.760Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-12-0853-telegram-update.md",
       "title": "2026-11-12-0853-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.760Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-11-2344-telegram-update.md",
       "title": "2026-11-11-2344-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.760Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-11-1729-telegram-update.md",
       "title": "2026-11-11-1729-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.760Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-11-0828-telegram-update.md",
       "title": "2026-11-11-0828-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.760Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-11-0130-telegram-update.md",
       "title": "2026-11-11-0130-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.760Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-10-2037-telegram-update.md",
       "title": "2026-11-10-2037-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.760Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-10-1348-telegram-update.md",
       "title": "2026-11-10-1348-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.759Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-10-0351-telegram-update.md",
       "title": "2026-11-10-0351-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.759Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-09-2013-telegram-update.md",
       "title": "2026-11-09-2013-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.759Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-09-0844-telegram-update.md",
       "title": "2026-11-09-0844-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.759Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-08-2123-telegram-update.md",
       "title": "2026-11-08-2123-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.759Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-08-1623-telegram-update.md",
       "title": "2026-11-08-1623-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.759Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-08-0804-telegram-update.md",
       "title": "2026-11-08-0804-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.759Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-07-2106-telegram-update.md",
       "title": "2026-11-07-2106-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.759Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-07-1556-telegram-update.md",
       "title": "2026-11-07-1556-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.759Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-07-0751-telegram-update.md",
       "title": "2026-11-07-0751-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.759Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-06-2226-telegram-update.md",
       "title": "2026-11-06-2226-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.759Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-06-1658-telegram-update.md",
       "title": "2026-11-06-1658-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.759Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-06-0835-telegram-update.md",
       "title": "2026-11-06-0835-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.759Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-05-2256-telegram-update.md",
       "title": "2026-11-05-2256-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.759Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-05-1742-telegram-update.md",
       "title": "2026-11-05-1742-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.759Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-05-0836-telegram-update.md",
       "title": "2026-11-05-0836-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.759Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-04-2255-telegram-update.md",
       "title": "2026-11-04-2255-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.759Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-04-1737-telegram-update.md",
       "title": "2026-11-04-1737-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.759Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-04-0810-telegram-update.md",
       "title": "2026-11-04-0810-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.759Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-04-0143-telegram-update.md",
       "title": "2026-11-04-0143-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.759Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-03-2018-telegram-update.md",
       "title": "2026-11-03-2018-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.759Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-03-1302-telegram-update.md",
       "title": "2026-11-03-1302-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.759Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-03-0306-telegram-update.md",
       "title": "2026-11-03-0306-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.759Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-02-1950-telegram-update.md",
       "title": "2026-11-02-1950-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.759Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-02-0826-telegram-update.md",
       "title": "2026-11-02-0826-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.759Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.759Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.759Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.759Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.759Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.759Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.759Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.759Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.759Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.759Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.759Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.759Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.759Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.759Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.759Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.759Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.759Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.759Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.759Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-27T10:11:10.759Z"
+      "updatedAt": "2026-11-27T22:23:39.038Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-27T10:11:10.758Z"
+      "updatedAt": "2026-11-27T22:23:39.037Z"
     }
   ]
 }
