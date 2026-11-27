@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-26T22:38:28.782Z",
+  "generatedAt": "2026-11-27T10:11:13.255Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 41818,
-    "lastMessageAt": "2026-11-26T21:29:08+00:00",
-    "lastCheckedAt": "2026-11-26T22:38:28.535Z",
-    "previousMessageId": 41764,
-    "pagesRead": 3,
-    "messagesRead": 54,
-    "newProjectRecords": 14,
+    "lastMessageId": 41845,
+    "lastMessageAt": "2026-11-27T10:10:45+00:00",
+    "lastCheckedAt": "2026-11-27T10:11:12.892Z",
+    "previousMessageId": 41818,
+    "pagesRead": 2,
+    "messagesRead": 27,
+    "newProjectRecords": 9,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 1169,
+    "telegramRows": 1178,
     "xRows": 0,
-    "projects": 705,
+    "projects": 712,
     "crossSource": 0
   },
   "projects": [
@@ -7308,6 +7308,64 @@
       "avatarUrl": ""
     },
     {
+      "project": "The Circus",
+      "account": "CircusLaunchpad",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Mutu 🕸️",
+        "lakka",
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "Mutu 🕸️",
+        "lakka",
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 3,
+      "firstSeen": "2026-11-23T20:23:00+00:00",
+      "lastSeen": "2026-11-27T03:38:39+00:00",
+      "description": "The Last Launchpad\n\nManaged by @sunnyklown",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "The Circus",
+          "account": "CircusLaunchpad",
+          "alpha": "Mutu 🕸️",
+          "seenAt": "2026-11-23T20:23:00+00:00",
+          "messageId": "dodtwitterbot/41539",
+          "description": "The Last Launchpad\n\nManaged by @sunnyklown",
+          "text": "The Last Launchpad\n\nManaged by @sunnyklown"
+        },
+        {
+          "source": "TG",
+          "project": "The Circus",
+          "account": "CircusLaunchpad",
+          "alpha": "lakka",
+          "seenAt": "2026-11-23T20:29:47+00:00",
+          "messageId": "dodtwitterbot/41541",
+          "description": "The Last Launchpad\n\nManaged by @sunnyklown",
+          "text": "The Last Launchpad\n\nManaged by @sunnyklown"
+        },
+        {
+          "source": "TG",
+          "project": "The Circus",
+          "account": "CircusLaunchpad",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-27T03:38:39+00:00",
+          "messageId": "dodtwitterbot/41824",
+          "description": "The Last Launchpad\n\nManaged by @sunnyklown",
+          "text": "The Last Launchpad\n\nManaged by @sunnyklown"
+        }
+      ],
+      "text": " The Circus CircusLaunchpad The Last Launchpad\n\nManaged by @sunnyklown The Circus CircusLaunchpad The Last Launchpad\n\nManaged by @sunnyklown The Circus CircusLaunchpad The Last Launchpad\n\nManaged by @sunnyklown",
+      "score": 6,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Thinkers_",
       "account": "ThinkersClub_",
       "sources": [
@@ -11742,6 +11800,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "o1 Bot",
+      "account": "o1_bot",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Mutu 🕸️",
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "Mutu 🕸️",
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-27T02:15:13+00:00",
+      "lastSeen": "2026-11-27T07:16:48+00:00",
+      "description": "Vibe with @o1_exchange\n\nTag @o1_bot to launch a token on https://t.co/TL6lVFdNKF",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "o1 Bot",
+          "account": "o1_bot",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-27T02:15:13+00:00",
+          "messageId": "dodtwitterbot/41819",
+          "description": "Vibe with @o1_exchange\n\nTag @o1_bot to launch a token on https://t.co/TL6lVFdNKF",
+          "text": "Vibe with @o1_exchange\n\nTag @o1_bot to launch a token on https://t.co/TL6lVFdNKF"
+        },
+        {
+          "source": "TG",
+          "project": "o1 Bot",
+          "account": "o1_bot",
+          "alpha": "Mutu 🕸️",
+          "seenAt": "2026-11-27T07:16:48+00:00",
+          "messageId": "dodtwitterbot/41835",
+          "description": "Vibe with @o1_exchange\n\nTag @o1_bot to launch a token on https://t.co/TL6lVFdNKF",
+          "text": "Vibe with @o1_exchange\n\nTag @o1_bot to launch a token on https://t.co/TL6lVFdNKF"
+        }
+      ],
+      "text": " o1 Bot o1_bot Vibe with @o1_exchange\n\nTag @o1_bot to launch a token on https://t.co/TL6lVFdNKF o1 Bot o1_bot Vibe with @o1_exchange\n\nTag @o1_bot to launch a token on https://t.co/TL6lVFdNKF",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Offbook",
       "account": "Offbook_sol",
       "sources": [
@@ -13301,52 +13405,6 @@
         }
       ],
       "text": " Syntropic Agent SyntropicAgent An agent, developing & powering Real World Flywheels via Syntropic Farming, leveraging the @KokonutNetwork Framework. Syntropic Agent SyntropicAgent An agent, developing & powering Real World Flywheels via Syntropic Farming, leveraging the @KokonutNetwork Framework.",
-      "score": 4,
-      "displayTier": "focus",
-      "avatarUrl": ""
-    },
-    {
-      "project": "The Circus",
-      "account": "CircusLaunchpad",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "Mutu 🕸️",
-        "lakka"
-      ],
-      "tgAlphas": [
-        "Mutu 🕸️",
-        "lakka"
-      ],
-      "xAlphas": [],
-      "mentions": 2,
-      "firstSeen": "2026-11-23T20:23:00+00:00",
-      "lastSeen": "2026-11-23T20:29:47+00:00",
-      "description": "The Last Launchpad\n\nManaged by @sunnyklown",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "The Circus",
-          "account": "CircusLaunchpad",
-          "alpha": "Mutu 🕸️",
-          "seenAt": "2026-11-23T20:23:00+00:00",
-          "messageId": "dodtwitterbot/41539",
-          "description": "The Last Launchpad\n\nManaged by @sunnyklown",
-          "text": "The Last Launchpad\n\nManaged by @sunnyklown"
-        },
-        {
-          "source": "TG",
-          "project": "The Circus",
-          "account": "CircusLaunchpad",
-          "alpha": "lakka",
-          "seenAt": "2026-11-23T20:29:47+00:00",
-          "messageId": "dodtwitterbot/41541",
-          "description": "The Last Launchpad\n\nManaged by @sunnyklown",
-          "text": "The Last Launchpad\n\nManaged by @sunnyklown"
-        }
-      ],
-      "text": " The Circus CircusLaunchpad The Last Launchpad\n\nManaged by @sunnyklown The Circus CircusLaunchpad The Last Launchpad\n\nManaged by @sunnyklown",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -16910,6 +16968,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Cyberzk ⚡ 🐸 💎",
+      "account": "Cyberzks",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "八九"
+      ],
+      "tgAlphas": [
+        "八九"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-27T04:27:52+00:00",
+      "lastSeen": "2026-11-27T04:27:52+00:00",
+      "description": "对web3和AI保持独立思考，实践记录和分享\nBTC ⚡ Lightning ⚡ RGB ⚡\nPPRGB",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Cyberzk ⚡ 🐸 💎",
+          "account": "Cyberzks",
+          "alpha": "八九",
+          "seenAt": "2026-11-27T04:27:52+00:00",
+          "messageId": "dodtwitterbot/41826",
+          "description": "对web3和AI保持独立思考，实践记录和分享\nBTC ⚡ Lightning ⚡ RGB ⚡\nPPRGB",
+          "text": "对web3和AI保持独立思考，实践记录和分享\nBTC ⚡ Lightning ⚡ RGB ⚡\nPPRGB"
+        }
+      ],
+      "text": " Cyberzk ⚡ 🐸 💎 Cyberzks 对web3和AI保持独立思考，实践记录和分享\nBTC ⚡ Lightning ⚡ RGB ⚡\nPPRGB",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "DAIMONS",
       "account": "daimonsHQ",
       "sources": [
@@ -19358,6 +19450,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Halfkey",
+      "account": "Halfkeyxyz",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "Mutu 🕸️"
+      ],
+      "tgAlphas": [
+        "Mutu 🕸️"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-27T08:28:34+00:00",
+      "lastSeen": "2026-11-27T08:28:34+00:00",
+      "description": "The first atomic swap between Solana and Monero. Any Solana coin in, real XMR out. Capped beta.\n\n&#036;HALFKEY\n\nCA: 8YZN5zuvpzBMkQAPPm1m3GwMCWc5EcSKKu4RjNhfpump",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Halfkey",
+          "account": "Halfkeyxyz",
+          "alpha": "Mutu 🕸️",
+          "seenAt": "2026-11-27T08:28:34+00:00",
+          "messageId": "dodtwitterbot/41836",
+          "description": "The first atomic swap between Solana and Monero. Any Solana coin in, real XMR out. Capped beta.\n\n&#036;HALFKEY\n\nCA: 8YZN5zuvpzBMkQAPPm1m3GwMCWc5EcSKKu4RjNhfpump",
+          "text": "The first atomic swap between Solana and Monero. Any Solana coin in, real XMR out. Capped beta.\n\n&#036;HALFKEY\n\nCA: 8YZN5zuvpzBMkQAPPm1m3GwMCWc5EcSKKu4RjNhfpump"
+        }
+      ],
+      "text": " Halfkey Halfkeyxyz The first atomic swap between Solana and Monero. Any Solana coin in, real XMR out. Capped beta.\n\n&#036;HALFKEY\n\nCA: 8YZN5zuvpzBMkQAPPm1m3GwMCWc5EcSKKu4RjNhfpump",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "haloswap",
       "account": "swaponhalo",
       "sources": [
@@ -20917,6 +21043,40 @@
         }
       ],
       "text": " kascov kascovio the open covenant explorer for Kaspa. tokens, markets and pools read straight from the chain's bytes, every claim verified.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Kenomic",
+      "account": "KenomicAI",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-27T02:29:00+00:00",
+      "lastSeen": "2026-11-27T02:29:00+00:00",
+      "description": "The AI that launches Digital Assets. And keeps them alive.\n\nDesign | Validate | Launch | Manage\n\nAny type of token, on any blockchain.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Kenomic",
+          "account": "KenomicAI",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-27T02:29:00+00:00",
+          "messageId": "dodtwitterbot/41820",
+          "description": "The AI that launches Digital Assets. And keeps them alive.\n\nDesign | Validate | Launch | Manage\n\nAny type of token, on any blockchain.",
+          "text": "The AI that launches Digital Assets. And keeps them alive.\n\nDesign | Validate | Launch | Manage\n\nAny type of token, on any blockchain."
+        }
+      ],
+      "text": " Kenomic KenomicAI The AI that launches Digital Assets. And keeps them alive.\n\nDesign | Validate | Launch | Manage\n\nAny type of token, on any blockchain.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -23166,6 +23326,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Niwa",
+      "account": "Niwa_World",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-27T06:18:28+00:00",
+      "lastSeen": "2026-11-27T06:18:28+00:00",
+      "description": "Niwa 庭 · A painted on-chain bonsai world\n\n3,333 Free Mint On Robinhood Chain.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Niwa",
+          "account": "Niwa_World",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-27T06:18:28+00:00",
+          "messageId": "dodtwitterbot/41830",
+          "description": "Niwa 庭 · A painted on-chain bonsai world\n\n3,333 Free Mint On Robinhood Chain.",
+          "text": "Niwa 庭 · A painted on-chain bonsai world\n\n3,333 Free Mint On Robinhood Chain."
+        }
+      ],
+      "text": " Niwa Niwa_World Niwa 庭 · A painted on-chain bonsai world\n\n3,333 Free Mint On Robinhood Chain.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "NorenAgent",
       "account": "NorenAgent",
       "sources": [
@@ -23506,6 +23700,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "Oneshot",
+      "account": "OneshotExchange",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-27T03:42:47+00:00",
+      "lastSeen": "2026-11-27T03:42:47+00:00",
+      "description": "The launchpad and marketplace for @LayerZero_Core",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Oneshot",
+          "account": "OneshotExchange",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-27T03:42:47+00:00",
+          "messageId": "dodtwitterbot/41825",
+          "description": "The launchpad and marketplace for @LayerZero_Core",
+          "text": "The launchpad and marketplace for @LayerZero_Core"
+        }
+      ],
+      "text": " Oneshot OneshotExchange The launchpad and marketplace for @LayerZero_Core",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Open Teleport",
       "account": "openteleportdev",
       "sources": [
@@ -23773,6 +24001,40 @@
         }
       ],
       "text": " Orionpad orionpad Orionpad launch tokens with post-quantum proof of origin anchored to Monero.\n@Enter_Elysium provides verifiable digital birth certificates for tokens.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Ovus Launchpad",
+      "account": "Ovusdotfun",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-27T06:25:06+00:00",
+      "lastSeen": "2026-11-27T06:25:06+00:00",
+      "description": "The first innovative launchpad on Solana with anti-rug mechanics.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Ovus Launchpad",
+          "account": "Ovusdotfun",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-27T06:25:06+00:00",
+          "messageId": "dodtwitterbot/41832",
+          "description": "The first innovative launchpad on Solana with anti-rug mechanics.",
+          "text": "The first innovative launchpad on Solana with anti-rug mechanics."
+        }
+      ],
+      "text": " Ovus Launchpad Ovusdotfun The first innovative launchpad on Solana with anti-rug mechanics.",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -31353,6 +31615,22 @@
       "avatarUrl": ""
     },
     {
+      "project": "The Circus",
+      "x_account": "CircusLaunchpad",
+      "total_mentions": 3,
+      "unique_alphas": 3,
+      "alphas": [
+        "Mutu 🕸️",
+        "lakka",
+        "蛋总"
+      ],
+      "description": "The Last Launchpad\n\nManaged by @sunnyklown",
+      "first_seen_utc": "2026-11-23T20:23:00+00:00",
+      "last_seen_utc": "2026-11-27T03:38:39+00:00",
+      "status": "priority",
+      "avatarUrl": ""
+    },
+    {
       "project": "Thinkers_",
       "x_account": "ThinkersClub_",
       "total_mentions": 3,
@@ -32761,6 +33039,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "o1 Bot",
+      "x_account": "o1_bot",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "Mutu 🕸️",
+        "蛋总"
+      ],
+      "description": "Vibe with @o1_exchange\n\nTag @o1_bot to launch a token on https://t.co/TL6lVFdNKF",
+      "first_seen_utc": "2026-11-27T02:15:13+00:00",
+      "last_seen_utc": "2026-11-27T07:16:48+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Offbook",
       "x_account": "Offbook_sol",
       "total_mentions": 2,
@@ -33267,21 +33560,6 @@
       "description": "An agent, developing & powering Real World Flywheels via Syntropic Farming, leveraging the @KokonutNetwork Framework.",
       "first_seen_utc": "2026-11-03T21:43:31+00:00",
       "last_seen_utc": "2026-11-04T02:48:46+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "The Circus",
-      "x_account": "CircusLaunchpad",
-      "total_mentions": 2,
-      "unique_alphas": 2,
-      "alphas": [
-        "Mutu 🕸️",
-        "lakka"
-      ],
-      "description": "The Last Launchpad\n\nManaged by @sunnyklown",
-      "first_seen_utc": "2026-11-23T20:23:00+00:00",
-      "last_seen_utc": "2026-11-23T20:29:47+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -34688,6 +34966,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Cyberzk ⚡ 🐸 💎",
+      "x_account": "Cyberzks",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "八九"
+      ],
+      "description": "对web3和AI保持独立思考，实践记录和分享\nBTC ⚡ Lightning ⚡ RGB ⚡\nPPRGB",
+      "first_seen_utc": "2026-11-27T04:27:52+00:00",
+      "last_seen_utc": "2026-11-27T04:27:52+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "DAIMONS",
       "x_account": "daimonsHQ",
       "total_mentions": 1,
@@ -35696,6 +35988,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Halfkey",
+      "x_account": "Halfkeyxyz",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "Mutu 🕸️"
+      ],
+      "description": "The first atomic swap between Solana and Monero. Any Solana coin in, real XMR out. Capped beta.\n\n&#036;HALFKEY\n\nCA: 8YZN5zuvpzBMkQAPPm1m3GwMCWc5EcSKKu4RjNhfpump",
+      "first_seen_utc": "2026-11-27T08:28:34+00:00",
+      "last_seen_utc": "2026-11-27T08:28:34+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "haloswap",
       "x_account": "swaponhalo",
       "total_mentions": 1,
@@ -36336,6 +36642,20 @@
       "description": "the open covenant explorer for Kaspa. tokens, markets and pools read straight from the chain's bytes, every claim verified.",
       "first_seen_utc": "2026-11-04T13:59:19+00:00",
       "last_seen_utc": "2026-11-04T13:59:19+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Kenomic",
+      "x_account": "KenomicAI",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "The AI that launches Digital Assets. And keeps them alive.\n\nDesign | Validate | Launch | Manage\n\nAny type of token, on any blockchain.",
+      "first_seen_utc": "2026-11-27T02:29:00+00:00",
+      "last_seen_utc": "2026-11-27T02:29:00+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -37264,6 +37584,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Niwa",
+      "x_account": "Niwa_World",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "Niwa 庭 · A painted on-chain bonsai world\n\n3,333 Free Mint On Robinhood Chain.",
+      "first_seen_utc": "2026-11-27T06:18:28+00:00",
+      "last_seen_utc": "2026-11-27T06:18:28+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "NorenAgent",
       "x_account": "NorenAgent",
       "total_mentions": 1,
@@ -37404,6 +37738,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "Oneshot",
+      "x_account": "OneshotExchange",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "The launchpad and marketplace for @LayerZero_Core",
+      "first_seen_utc": "2026-11-27T03:42:47+00:00",
+      "last_seen_utc": "2026-11-27T03:42:47+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Open Teleport",
       "x_account": "openteleportdev",
       "total_mentions": 1,
@@ -37512,6 +37860,20 @@
       "description": "Orionpad launch tokens with post-quantum proof of origin anchored to Monero.\n@Enter_Elysium provides verifiable digital birth certificates for tokens.",
       "first_seen_utc": "2026-11-09T09:31:23+00:00",
       "last_seen_utc": "2026-11-09T09:31:23+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Ovus Launchpad",
+      "x_account": "Ovusdotfun",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "The first innovative launchpad on Solana with anti-rug mechanics.",
+      "first_seen_utc": "2026-11-27T06:25:06+00:00",
+      "last_seen_utc": "2026-11-27T06:25:06+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -39899,14 +40261,61 @@
   "daily": [
     {
       "date": "2026-11-27",
-      "totalRows": 5,
-      "projectCount": 5,
-      "focusCount": 0,
-      "candidateCount": 5,
+      "totalRows": 14,
+      "projectCount": 13,
+      "focusCount": 1,
+      "candidateCount": 12,
       "crossSource": 0,
-      "newCount": 2,
-      "repeatCount": 3,
+      "newCount": 9,
+      "repeatCount": 4,
       "projects": [
+        {
+          "project": "o1 Bot",
+          "account": "o1_bot",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Mutu 🕸️",
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "Mutu 🕸️",
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 2,
+          "firstSeen": "2026-11-27T02:15:13+00:00",
+          "lastSeen": "2026-11-27T07:16:48+00:00",
+          "description": "Vibe with @o1_exchange\n\nTag @o1_bot to launch a token on https://t.co/TL6lVFdNKF",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "o1 Bot",
+              "account": "o1_bot",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-27T02:15:13+00:00",
+              "messageId": "dodtwitterbot/41819",
+              "description": "Vibe with @o1_exchange\n\nTag @o1_bot to launch a token on https://t.co/TL6lVFdNKF",
+              "text": "Vibe with @o1_exchange\n\nTag @o1_bot to launch a token on https://t.co/TL6lVFdNKF"
+            },
+            {
+              "source": "TG",
+              "project": "o1 Bot",
+              "account": "o1_bot",
+              "alpha": "Mutu 🕸️",
+              "seenAt": "2026-11-27T07:16:48+00:00",
+              "messageId": "dodtwitterbot/41835",
+              "description": "Vibe with @o1_exchange\n\nTag @o1_bot to launch a token on https://t.co/TL6lVFdNKF",
+              "text": "Vibe with @o1_exchange\n\nTag @o1_bot to launch a token on https://t.co/TL6lVFdNKF"
+            }
+          ],
+          "text": " o1 Bot o1_bot Vibe with @o1_exchange\n\nTag @o1_bot to launch a token on https://t.co/TL6lVFdNKF o1 Bot o1_bot Vibe with @o1_exchange\n\nTag @o1_bot to launch a token on https://t.co/TL6lVFdNKF",
+          "score": 4,
+          "displayTier": "focus",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
         {
           "project": "Argent DEX",
           "account": "Argent_DEX",
@@ -39943,6 +40352,41 @@
           "dayStatus": "repeat"
         },
         {
+          "project": "Cyberzk ⚡ 🐸 💎",
+          "account": "Cyberzks",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "八九"
+          ],
+          "tgAlphas": [
+            "八九"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-27T04:27:52+00:00",
+          "lastSeen": "2026-11-27T04:27:52+00:00",
+          "description": "对web3和AI保持独立思考，实践记录和分享\nBTC ⚡ Lightning ⚡ RGB ⚡\nPPRGB",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Cyberzk ⚡ 🐸 💎",
+              "account": "Cyberzks",
+              "alpha": "八九",
+              "seenAt": "2026-11-27T04:27:52+00:00",
+              "messageId": "dodtwitterbot/41826",
+              "description": "对web3和AI保持独立思考，实践记录和分享\nBTC ⚡ Lightning ⚡ RGB ⚡\nPPRGB",
+              "text": "对web3和AI保持独立思考，实践记录和分享\nBTC ⚡ Lightning ⚡ RGB ⚡\nPPRGB"
+            }
+          ],
+          "text": " Cyberzk ⚡ 🐸 💎 Cyberzks 对web3和AI保持独立思考，实践记录和分享\nBTC ⚡ Lightning ⚡ RGB ⚡\nPPRGB",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
           "project": "FORECASTER",
           "account": "Forecaster_gg",
           "sources": [
@@ -39972,6 +40416,76 @@
             }
           ],
           "text": " FORECASTER Forecaster_gg Go from zero to a fortune on good calls alone. The source of truth for who’s right about the markets.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Halfkey",
+          "account": "Halfkeyxyz",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "Mutu 🕸️"
+          ],
+          "tgAlphas": [
+            "Mutu 🕸️"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-27T08:28:34+00:00",
+          "lastSeen": "2026-11-27T08:28:34+00:00",
+          "description": "The first atomic swap between Solana and Monero. Any Solana coin in, real XMR out. Capped beta.\n\n&#036;HALFKEY\n\nCA: 8YZN5zuvpzBMkQAPPm1m3GwMCWc5EcSKKu4RjNhfpump",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Halfkey",
+              "account": "Halfkeyxyz",
+              "alpha": "Mutu 🕸️",
+              "seenAt": "2026-11-27T08:28:34+00:00",
+              "messageId": "dodtwitterbot/41836",
+              "description": "The first atomic swap between Solana and Monero. Any Solana coin in, real XMR out. Capped beta.\n\n&#036;HALFKEY\n\nCA: 8YZN5zuvpzBMkQAPPm1m3GwMCWc5EcSKKu4RjNhfpump",
+              "text": "The first atomic swap between Solana and Monero. Any Solana coin in, real XMR out. Capped beta.\n\n&#036;HALFKEY\n\nCA: 8YZN5zuvpzBMkQAPPm1m3GwMCWc5EcSKKu4RjNhfpump"
+            }
+          ],
+          "text": " Halfkey Halfkeyxyz The first atomic swap between Solana and Monero. Any Solana coin in, real XMR out. Capped beta.\n\n&#036;HALFKEY\n\nCA: 8YZN5zuvpzBMkQAPPm1m3GwMCWc5EcSKKu4RjNhfpump",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Kenomic",
+          "account": "KenomicAI",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-27T02:29:00+00:00",
+          "lastSeen": "2026-11-27T02:29:00+00:00",
+          "description": "The AI that launches Digital Assets. And keeps them alive.\n\nDesign | Validate | Launch | Manage\n\nAny type of token, on any blockchain.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Kenomic",
+              "account": "KenomicAI",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-27T02:29:00+00:00",
+              "messageId": "dodtwitterbot/41820",
+              "description": "The AI that launches Digital Assets. And keeps them alive.\n\nDesign | Validate | Launch | Manage\n\nAny type of token, on any blockchain.",
+              "text": "The AI that launches Digital Assets. And keeps them alive.\n\nDesign | Validate | Launch | Manage\n\nAny type of token, on any blockchain."
+            }
+          ],
+          "text": " Kenomic KenomicAI The AI that launches Digital Assets. And keeps them alive.\n\nDesign | Validate | Launch | Manage\n\nAny type of token, on any blockchain.",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -40013,6 +40527,111 @@
           "dayStatus": "new"
         },
         {
+          "project": "Niwa",
+          "account": "Niwa_World",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-27T06:18:28+00:00",
+          "lastSeen": "2026-11-27T06:18:28+00:00",
+          "description": "Niwa 庭 · A painted on-chain bonsai world\n\n3,333 Free Mint On Robinhood Chain.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Niwa",
+              "account": "Niwa_World",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-27T06:18:28+00:00",
+              "messageId": "dodtwitterbot/41830",
+              "description": "Niwa 庭 · A painted on-chain bonsai world\n\n3,333 Free Mint On Robinhood Chain.",
+              "text": "Niwa 庭 · A painted on-chain bonsai world\n\n3,333 Free Mint On Robinhood Chain."
+            }
+          ],
+          "text": " Niwa Niwa_World Niwa 庭 · A painted on-chain bonsai world\n\n3,333 Free Mint On Robinhood Chain.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Oneshot",
+          "account": "OneshotExchange",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-27T03:42:47+00:00",
+          "lastSeen": "2026-11-27T03:42:47+00:00",
+          "description": "The launchpad and marketplace for @LayerZero_Core",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Oneshot",
+              "account": "OneshotExchange",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-27T03:42:47+00:00",
+              "messageId": "dodtwitterbot/41825",
+              "description": "The launchpad and marketplace for @LayerZero_Core",
+              "text": "The launchpad and marketplace for @LayerZero_Core"
+            }
+          ],
+          "text": " Oneshot OneshotExchange The launchpad and marketplace for @LayerZero_Core",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Ovus Launchpad",
+          "account": "Ovusdotfun",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-27T06:25:06+00:00",
+          "lastSeen": "2026-11-27T06:25:06+00:00",
+          "description": "The first innovative launchpad on Solana with anti-rug mechanics.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Ovus Launchpad",
+              "account": "Ovusdotfun",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-27T06:25:06+00:00",
+              "messageId": "dodtwitterbot/41832",
+              "description": "The first innovative launchpad on Solana with anti-rug mechanics.",
+              "text": "The first innovative launchpad on Solana with anti-rug mechanics."
+            }
+          ],
+          "text": " Ovus Launchpad Ovusdotfun The first innovative launchpad on Solana with anti-rug mechanics.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
           "project": "Rostrum",
           "account": "rostrumsale",
           "sources": [
@@ -40042,6 +40661,41 @@
             }
           ],
           "text": " Rostrum rostrumsale The sale room for token launches on Base. Every lot comes with an estimate, a guarantee, and compute by @VeniceAI .",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "The Circus",
+          "account": "CircusLaunchpad",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-27T03:38:39+00:00",
+          "lastSeen": "2026-11-27T03:38:39+00:00",
+          "description": "The Last Launchpad\n\nManaged by @sunnyklown",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "The Circus",
+              "account": "CircusLaunchpad",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-27T03:38:39+00:00",
+              "messageId": "dodtwitterbot/41824",
+              "description": "The Last Launchpad\n\nManaged by @sunnyklown",
+              "text": "The Last Launchpad\n\nManaged by @sunnyklown"
+            }
+          ],
+          "text": " The Circus CircusLaunchpad The Last Launchpad\n\nManaged by @sunnyklown",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -76242,444 +76896,449 @@
   ],
   "reports": [
     {
+      "file": "2026-11-27-1011-telegram-update.md",
+      "title": "2026-11-27-1011-telegram-update",
+      "updatedAt": "2026-11-27T10:11:12.892Z"
+    },
+    {
       "file": "2026-11-26-2238-telegram-update.md",
       "title": "2026-11-26-2238-telegram-update",
-      "updatedAt": "2026-11-26T22:38:28.534Z"
+      "updatedAt": "2026-11-27T10:11:10.761Z"
     },
     {
       "file": "2026-11-26-1005-telegram-update.md",
       "title": "2026-11-26-1005-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.067Z"
+      "updatedAt": "2026-11-27T10:11:10.761Z"
     },
     {
       "file": "2026-11-25-2249-telegram-update.md",
       "title": "2026-11-25-2249-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.067Z"
+      "updatedAt": "2026-11-27T10:11:10.761Z"
     },
     {
       "file": "2026-11-25-1033-telegram-update.md",
       "title": "2026-11-25-1033-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.067Z"
+      "updatedAt": "2026-11-27T10:11:10.761Z"
     },
     {
       "file": "2026-11-25-0138-telegram-update.md",
       "title": "2026-11-25-0138-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.067Z"
+      "updatedAt": "2026-11-27T10:11:10.761Z"
     },
     {
       "file": "2026-11-24-1630-telegram-update.md",
       "title": "2026-11-24-1630-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.067Z"
+      "updatedAt": "2026-11-27T10:11:10.761Z"
     },
     {
       "file": "2026-11-24-0537-telegram-update.md",
       "title": "2026-11-24-0537-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.067Z"
+      "updatedAt": "2026-11-27T10:11:10.761Z"
     },
     {
       "file": "2026-11-23-2144-telegram-update.md",
       "title": "2026-11-23-2144-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.067Z"
+      "updatedAt": "2026-11-27T10:11:10.761Z"
     },
     {
       "file": "2026-11-23-0952-telegram-update.md",
       "title": "2026-11-23-0952-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.067Z"
+      "updatedAt": "2026-11-27T10:11:10.760Z"
     },
     {
       "file": "2026-11-22-1726-telegram-update.md",
       "title": "2026-11-22-1726-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.067Z"
+      "updatedAt": "2026-11-27T10:11:10.760Z"
     },
     {
       "file": "2026-11-22-0854-telegram-update.md",
       "title": "2026-11-22-0854-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.067Z"
+      "updatedAt": "2026-11-27T10:11:10.760Z"
     },
     {
       "file": "2026-11-22-0141-telegram-update.md",
       "title": "2026-11-22-0141-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.067Z"
+      "updatedAt": "2026-11-27T10:11:10.760Z"
     },
     {
       "file": "2026-11-21-2016-telegram-update.md",
       "title": "2026-11-21-2016-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.067Z"
+      "updatedAt": "2026-11-27T10:11:10.760Z"
     },
     {
       "file": "2026-11-21-1344-telegram-update.md",
       "title": "2026-11-21-1344-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.067Z"
+      "updatedAt": "2026-11-27T10:11:10.760Z"
     },
     {
       "file": "2026-11-21-0252-telegram-update.md",
       "title": "2026-11-21-0252-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.067Z"
+      "updatedAt": "2026-11-27T10:11:10.760Z"
     },
     {
       "file": "2026-11-20-0915-telegram-update.md",
       "title": "2026-11-20-0915-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.067Z"
+      "updatedAt": "2026-11-27T10:11:10.760Z"
     },
     {
       "file": "2026-11-19-2355-telegram-update.md",
       "title": "2026-11-19-2355-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.067Z"
+      "updatedAt": "2026-11-27T10:11:10.760Z"
     },
     {
       "file": "2026-11-19-1443-telegram-update.md",
       "title": "2026-11-19-1443-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.067Z"
+      "updatedAt": "2026-11-27T10:11:10.760Z"
     },
     {
       "file": "2026-11-18-1826-telegram-update.md",
       "title": "2026-11-18-1826-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.760Z"
     },
     {
       "file": "2026-11-18-0916-telegram-update.md",
       "title": "2026-11-18-0916-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.760Z"
     },
     {
       "file": "2026-11-18-0002-telegram-update.md",
       "title": "2026-11-18-0002-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.760Z"
     },
     {
       "file": "2026-11-17-1456-telegram-update.md",
       "title": "2026-11-17-1456-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.760Z"
     },
     {
       "file": "2026-11-17-0412-telegram-update.md",
       "title": "2026-11-17-0412-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.760Z"
     },
     {
       "file": "2026-11-16-1953-telegram-update.md",
       "title": "2026-11-16-1953-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.760Z"
     },
     {
       "file": "2026-11-16-0839-telegram-update.md",
       "title": "2026-11-16-0839-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.760Z"
     },
     {
       "file": "2026-11-15-2207-telegram-update.md",
       "title": "2026-11-15-2207-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.760Z"
     },
     {
       "file": "2026-11-15-1639-telegram-update.md",
       "title": "2026-11-15-1639-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.760Z"
     },
     {
       "file": "2026-11-15-0828-telegram-update.md",
       "title": "2026-11-15-0828-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.760Z"
     },
     {
       "file": "2026-11-15-0121-telegram-update.md",
       "title": "2026-11-15-0121-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.760Z"
     },
     {
       "file": "2026-11-14-2141-telegram-update.md",
       "title": "2026-11-14-2141-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.760Z"
     },
     {
       "file": "2026-11-14-1610-telegram-update.md",
       "title": "2026-11-14-1610-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.760Z"
     },
     {
       "file": "2026-11-14-0809-telegram-update.md",
       "title": "2026-11-14-0809-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.760Z"
     },
     {
       "file": "2026-11-13-2255-telegram-update.md",
       "title": "2026-11-13-2255-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.760Z"
     },
     {
       "file": "2026-11-13-1724-telegram-update.md",
       "title": "2026-11-13-1724-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.760Z"
     },
     {
       "file": "2026-11-13-0849-telegram-update.md",
       "title": "2026-11-13-0849-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.760Z"
     },
     {
       "file": "2026-11-12-2254-telegram-update.md",
       "title": "2026-11-12-2254-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.760Z"
     },
     {
       "file": "2026-11-12-1746-telegram-update.md",
       "title": "2026-11-12-1746-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.760Z"
     },
     {
       "file": "2026-11-12-0853-telegram-update.md",
       "title": "2026-11-12-0853-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.760Z"
     },
     {
       "file": "2026-11-11-2344-telegram-update.md",
       "title": "2026-11-11-2344-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.760Z"
     },
     {
       "file": "2026-11-11-1729-telegram-update.md",
       "title": "2026-11-11-1729-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.760Z"
     },
     {
       "file": "2026-11-11-0828-telegram-update.md",
       "title": "2026-11-11-0828-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.760Z"
     },
     {
       "file": "2026-11-11-0130-telegram-update.md",
       "title": "2026-11-11-0130-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.760Z"
     },
     {
       "file": "2026-11-10-2037-telegram-update.md",
       "title": "2026-11-10-2037-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.760Z"
     },
     {
       "file": "2026-11-10-1348-telegram-update.md",
       "title": "2026-11-10-1348-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.759Z"
     },
     {
       "file": "2026-11-10-0351-telegram-update.md",
       "title": "2026-11-10-0351-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.759Z"
     },
     {
       "file": "2026-11-09-2013-telegram-update.md",
       "title": "2026-11-09-2013-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.759Z"
     },
     {
       "file": "2026-11-09-0844-telegram-update.md",
       "title": "2026-11-09-0844-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.759Z"
     },
     {
       "file": "2026-11-08-2123-telegram-update.md",
       "title": "2026-11-08-2123-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.759Z"
     },
     {
       "file": "2026-11-08-1623-telegram-update.md",
       "title": "2026-11-08-1623-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.759Z"
     },
     {
       "file": "2026-11-08-0804-telegram-update.md",
       "title": "2026-11-08-0804-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.759Z"
     },
     {
       "file": "2026-11-07-2106-telegram-update.md",
       "title": "2026-11-07-2106-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.759Z"
     },
     {
       "file": "2026-11-07-1556-telegram-update.md",
       "title": "2026-11-07-1556-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.759Z"
     },
     {
       "file": "2026-11-07-0751-telegram-update.md",
       "title": "2026-11-07-0751-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.759Z"
     },
     {
       "file": "2026-11-06-2226-telegram-update.md",
       "title": "2026-11-06-2226-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.759Z"
     },
     {
       "file": "2026-11-06-1658-telegram-update.md",
       "title": "2026-11-06-1658-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.759Z"
     },
     {
       "file": "2026-11-06-0835-telegram-update.md",
       "title": "2026-11-06-0835-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.759Z"
     },
     {
       "file": "2026-11-05-2256-telegram-update.md",
       "title": "2026-11-05-2256-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.759Z"
     },
     {
       "file": "2026-11-05-1742-telegram-update.md",
       "title": "2026-11-05-1742-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.759Z"
     },
     {
       "file": "2026-11-05-0836-telegram-update.md",
       "title": "2026-11-05-0836-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.759Z"
     },
     {
       "file": "2026-11-04-2255-telegram-update.md",
       "title": "2026-11-04-2255-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.759Z"
     },
     {
       "file": "2026-11-04-1737-telegram-update.md",
       "title": "2026-11-04-1737-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.759Z"
     },
     {
       "file": "2026-11-04-0810-telegram-update.md",
       "title": "2026-11-04-0810-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.759Z"
     },
     {
       "file": "2026-11-04-0143-telegram-update.md",
       "title": "2026-11-04-0143-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.759Z"
     },
     {
       "file": "2026-11-03-2018-telegram-update.md",
       "title": "2026-11-03-2018-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.759Z"
     },
     {
       "file": "2026-11-03-1302-telegram-update.md",
       "title": "2026-11-03-1302-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.759Z"
     },
     {
       "file": "2026-11-03-0306-telegram-update.md",
       "title": "2026-11-03-0306-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.759Z"
     },
     {
       "file": "2026-11-02-1950-telegram-update.md",
       "title": "2026-11-02-1950-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.759Z"
     },
     {
       "file": "2026-11-02-0826-telegram-update.md",
       "title": "2026-11-02-0826-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.759Z"
     },
     {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.759Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.759Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.759Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.759Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.759Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.759Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.759Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.759Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.759Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.759Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.759Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.759Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.759Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.759Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.759Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.759Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.759Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.759Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-26T22:38:26.066Z"
+      "updatedAt": "2026-11-27T10:11:10.759Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-26T22:38:26.065Z"
+      "updatedAt": "2026-11-27T10:11:10.758Z"
     }
   ]
 }
