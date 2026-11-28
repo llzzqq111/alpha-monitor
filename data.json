@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-27T22:23:41.336Z",
+  "generatedAt": "2026-11-28T09:29:39.586Z",
   "collection": {
     "channel": "dodtwitterbot",
-    "lastMessageId": 41863,
-    "lastMessageAt": "2026-11-27T21:07:54+00:00",
-    "lastCheckedAt": "2026-11-27T22:23:41.107Z",
-    "previousMessageId": 41845,
+    "lastMessageId": 41882,
+    "lastMessageAt": "2026-11-28T09:27:24+00:00",
+    "lastCheckedAt": "2026-11-28T09:29:39.267Z",
+    "previousMessageId": 41863,
     "pagesRead": 1,
-    "messagesRead": 18,
-    "newProjectRecords": 4,
+    "messagesRead": 19,
+    "newProjectRecords": 6,
     "coverageComplete": true,
     "mode": "github-actions"
   },
   "totals": {
-    "telegramRows": 1182,
+    "telegramRows": 1188,
     "xRows": 0,
-    "projects": 715,
+    "projects": 719,
     "crossSource": 0
   },
   "projects": [
@@ -11294,6 +11294,52 @@
       "avatarUrl": ""
     },
     {
+      "project": "Magpie",
+      "account": "magpiegiwa",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "蛋总",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-26T14:08:42+00:00",
+      "lastSeen": "2026-11-28T02:48:31+00:00",
+      "description": "Reserve-backed token on GIWA. @GIWA_by_upbit",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Magpie",
+          "account": "magpiegiwa",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-26T14:08:42+00:00",
+          "messageId": "dodtwitterbot/41785",
+          "description": "Reserve-backed token on GIWA. @GIWA_by_upbit",
+          "text": "Reserve-backed token on GIWA. @GIWA_by_upbit"
+        },
+        {
+          "source": "TG",
+          "project": "Magpie",
+          "account": "magpiegiwa",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-28T02:48:31+00:00",
+          "messageId": "dodtwitterbot/41865",
+          "description": "Reserve-backed token on GIWA. @GIWA_by_upbit",
+          "text": "Reserve-backed token on GIWA. @GIWA_by_upbit"
+        }
+      ],
+      "text": " Magpie magpiegiwa Reserve-backed token on GIWA. @GIWA_by_upbit Magpie magpiegiwa Reserve-backed token on GIWA. @GIWA_by_upbit",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
       "project": "Markov Robotics",
       "account": "markovrobotics",
       "sources": [
@@ -12025,6 +12071,52 @@
         }
       ],
       "text": " Open Teleport open_teleport Move your agents. Anywhere. Open Teleport open_teleport Move your agents. Anywhere.",
+      "score": 4,
+      "displayTier": "focus",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Origin",
+      "account": "Originonzero",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总",
+        "阿宏"
+      ],
+      "tgAlphas": [
+        "蛋总",
+        "阿宏"
+      ],
+      "xAlphas": [],
+      "mentions": 2,
+      "firstSeen": "2026-11-26T14:07:43+00:00",
+      "lastSeen": "2026-11-28T02:49:27+00:00",
+      "description": "The original token launchpad on Zero. No presale. Bonding curve. Liquidity locked forever after graduation.\n@LayerZero_Core",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Origin",
+          "account": "Originonzero",
+          "alpha": "阿宏",
+          "seenAt": "2026-11-26T14:07:43+00:00",
+          "messageId": "dodtwitterbot/41783",
+          "description": "The original token launchpad on Zero. No presale. Bonding curve. Liquidity locked forever after graduation.\n@LayerZero_Core",
+          "text": "The original token launchpad on Zero. No presale. Bonding curve. Liquidity locked forever after graduation.\n@LayerZero_Core"
+        },
+        {
+          "source": "TG",
+          "project": "Origin",
+          "account": "Originonzero",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-28T02:49:27+00:00",
+          "messageId": "dodtwitterbot/41866",
+          "description": "The original token launchpad on Zero. No presale. Bonding curve. Liquidity locked forever after graduation.\n@LayerZero_Core",
+          "text": "The original token launchpad on Zero. No presale. Bonding curve. Liquidity locked forever after graduation.\n@LayerZero_Core"
+        }
+      ],
+      "text": " Origin Originonzero The original token launchpad on Zero. No presale. Bonding curve. Liquidity locked forever after graduation.\n@LayerZero_Core Origin Originonzero The original token launchpad on Zero. No presale. Bonding curve. Liquidity locked forever after graduation.\n@LayerZero_Core",
       "score": 4,
       "displayTier": "focus",
       "avatarUrl": ""
@@ -22046,6 +22138,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "LoSW",
+      "account": "losw_rh",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "BearzVerse"
+      ],
+      "tgAlphas": [
+        "BearzVerse"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-28T04:46:13+00:00",
+      "lastSeen": "2026-11-28T04:46:13+00:00",
+      "description": "Free mint. 3,333 NFT keys on Robinhood Chain. Mining. Hunt. Your key opens the Rift. Find spoils.",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "LoSW",
+          "account": "losw_rh",
+          "alpha": "BearzVerse",
+          "seenAt": "2026-11-28T04:46:13+00:00",
+          "messageId": "dodtwitterbot/41875",
+          "description": "Free mint. 3,333 NFT keys on Robinhood Chain. Mining. Hunt. Your key opens the Rift. Find spoils.",
+          "text": "Free mint. 3,333 NFT keys on Robinhood Chain. Mining. Hunt. Your key opens the Rift. Find spoils."
+        }
+      ],
+      "text": " LoSW losw_rh Free mint. 3,333 NFT keys on Robinhood Chain. Mining. Hunt. Your key opens the Rift. Find spoils.",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "lowkey",
       "account": "useLowkeyXYZ",
       "sources": [
@@ -22109,40 +22235,6 @@
         }
       ],
       "text": " madang / 마당 - A launchpad on GIWA madang_fun Put a ticker on it&#33;\n@GIWA_by_Upbit 기반의 토큰 런치패드\nJoin us: https://t.co/csalWhLTbp\n\n&#036;MADANG token is not yet live. Beware of scams.",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Magpie",
-      "account": "magpiegiwa",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "阿宏"
-      ],
-      "tgAlphas": [
-        "阿宏"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-26T14:08:42+00:00",
-      "lastSeen": "2026-11-26T14:08:42+00:00",
-      "description": "Reserve-backed token on GIWA. @GIWA_by_upbit",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Magpie",
-          "account": "magpiegiwa",
-          "alpha": "阿宏",
-          "seenAt": "2026-11-26T14:08:42+00:00",
-          "messageId": "dodtwitterbot/41785",
-          "description": "Reserve-backed token on GIWA. @GIWA_by_upbit",
-          "text": "Reserve-backed token on GIWA. @GIWA_by_upbit"
-        }
-      ],
-      "text": " Magpie magpiegiwa Reserve-backed token on GIWA. @GIWA_by_upbit",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -22925,6 +23017,40 @@
         }
       ],
       "text": " Moka MokaPerps Onchain perpetual markets for the long tail.\nBuilt on @Solana",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Monero-chan 🟠",
+      "account": "MoneroChanNFT",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "well"
+      ],
+      "tgAlphas": [
+        "well"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-28T05:56:56+00:00",
+      "lastSeen": "2026-11-28T05:56:56+00:00",
+      "description": "Monero-chan NFT is a tribute to the mascot of &#036;XMR, the only private, untraceable and decentralized currency that matters. 🟠",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "Monero-chan 🟠",
+          "account": "MoneroChanNFT",
+          "alpha": "well",
+          "seenAt": "2026-11-28T05:56:56+00:00",
+          "messageId": "dodtwitterbot/41876",
+          "description": "Monero-chan NFT is a tribute to the mascot of &#036;XMR, the only private, untraceable and decentralized currency that matters. 🟠",
+          "text": "Monero-chan NFT is a tribute to the mascot of &#036;XMR, the only private, untraceable and decentralized currency that matters. 🟠"
+        }
+      ],
+      "text": " Monero-chan 🟠 MoneroChanNFT Monero-chan NFT is a tribute to the mascot of &#036;XMR, the only private, untraceable and decentralized currency that matters. 🟠",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -24013,40 +24139,6 @@
         }
       ],
       "text": " Orderly OrderlyNetwork Own the Exchange.\n\nLaunch your own perp DEX in minutes: https://t.co/1lIlmAUeRn\n\nJoin Raydium, WOOFi, Vanta, and 450+ more&#33;",
-      "score": 2,
-      "displayTier": "candidate",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Origin",
-      "account": "Originonzero",
-      "sources": [
-        "TG"
-      ],
-      "alphas": [
-        "阿宏"
-      ],
-      "tgAlphas": [
-        "阿宏"
-      ],
-      "xAlphas": [],
-      "mentions": 1,
-      "firstSeen": "2026-11-26T14:07:43+00:00",
-      "lastSeen": "2026-11-26T14:07:43+00:00",
-      "description": "The original token launchpad on Zero. No presale. Bonding curve. Liquidity locked forever after graduation.\n@LayerZero_Core",
-      "rows": [
-        {
-          "source": "TG",
-          "project": "Origin",
-          "account": "Originonzero",
-          "alpha": "阿宏",
-          "seenAt": "2026-11-26T14:07:43+00:00",
-          "messageId": "dodtwitterbot/41783",
-          "description": "The original token launchpad on Zero. No presale. Bonding curve. Liquidity locked forever after graduation.\n@LayerZero_Core",
-          "text": "The original token launchpad on Zero. No presale. Bonding curve. Liquidity locked forever after graduation.\n@LayerZero_Core"
-        }
-      ],
-      "text": " Origin Originonzero The original token launchpad on Zero. No presale. Bonding curve. Liquidity locked forever after graduation.\n@LayerZero_Core",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -29322,6 +29414,40 @@
       "avatarUrl": ""
     },
     {
+      "project": "ZER0",
+      "account": "0xZER0_0",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-28T02:58:14+00:00",
+      "lastSeen": "2026-11-28T02:58:14+00:00",
+      "description": "0 + 0 = 0\n\nJust a game with NFTs. It's all about zeros, one ends it.\n\nTop players rewarded at the end. 8888 zeros to play with.\nApply for the free allowlist. HF",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "ZER0",
+          "account": "0xZER0_0",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-28T02:58:14+00:00",
+          "messageId": "dodtwitterbot/41868",
+          "description": "0 + 0 = 0\n\nJust a game with NFTs. It's all about zeros, one ends it.\n\nTop players rewarded at the end. 8888 zeros to play with.\nApply for the free allowlist. HF",
+          "text": "0 + 0 = 0\n\nJust a game with NFTs. It's all about zeros, one ends it.\n\nTop players rewarded at the end. 8888 zeros to play with.\nApply for the free allowlist. HF"
+        }
+      ],
+      "text": " ZER0 0xZER0_0 0 + 0 = 0\n\nJust a game with NFTs. It's all about zeros, one ends it.\n\nTop players rewarded at the end. 8888 zeros to play with.\nApply for the free allowlist. HF",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
       "project": "Zero Cool",
       "account": "ZeroCool_AI",
       "sources": [
@@ -29657,6 +29783,40 @@
         }
       ],
       "text": " Zyora Zyoradotfun The next generation of on-chain launches & trading\n\nLive on @Enter_elysium",
+      "score": 2,
+      "displayTier": "candidate",
+      "avatarUrl": ""
+    },
+    {
+      "project": "二娃",
+      "account": "Erwa7316",
+      "sources": [
+        "TG"
+      ],
+      "alphas": [
+        "蛋总"
+      ],
+      "tgAlphas": [
+        "蛋总"
+      ],
+      "xAlphas": [],
+      "mentions": 1,
+      "firstSeen": "2026-11-28T03:35:37+00:00",
+      "lastSeen": "2026-11-28T03:35:37+00:00",
+      "description": "多动脑子少提问，一个理智的赌徒，链上投研，内容仅供参考不作为投资建议！ ✈️ ：Erwa666",
+      "rows": [
+        {
+          "source": "TG",
+          "project": "二娃",
+          "account": "Erwa7316",
+          "alpha": "蛋总",
+          "seenAt": "2026-11-28T03:35:37+00:00",
+          "messageId": "dodtwitterbot/41874",
+          "description": "多动脑子少提问，一个理智的赌徒，链上投研，内容仅供参考不作为投资建议！ ✈️ ：Erwa666",
+          "text": "多动脑子少提问，一个理智的赌徒，链上投研，内容仅供参考不作为投资建议！ ✈️ ：Erwa666"
+        }
+      ],
+      "text": " 二娃 Erwa7316 多动脑子少提问，一个理智的赌徒，链上投研，内容仅供参考不作为投资建议！ ✈️ ：Erwa666",
       "score": 2,
       "displayTier": "candidate",
       "avatarUrl": ""
@@ -32988,6 +33148,21 @@
       "avatarUrl": ""
     },
     {
+      "project": "Magpie",
+      "x_account": "magpiegiwa",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "蛋总",
+        "阿宏"
+      ],
+      "description": "Reserve-backed token on GIWA. @GIWA_by_upbit",
+      "first_seen_utc": "2026-11-26T14:08:42+00:00",
+      "last_seen_utc": "2026-11-28T02:48:31+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Markov Robotics",
       "x_account": "markovrobotics",
       "total_mentions": 2,
@@ -33224,6 +33399,21 @@
       "description": "Move your agents. Anywhere.",
       "first_seen_utc": "2026-11-04T11:44:55+00:00",
       "last_seen_utc": "2026-11-04T11:47:47+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Origin",
+      "x_account": "Originonzero",
+      "total_mentions": 2,
+      "unique_alphas": 2,
+      "alphas": [
+        "蛋总",
+        "阿宏"
+      ],
+      "description": "The original token launchpad on Zero. No presale. Bonding curve. Liquidity locked forever after graduation.\n@LayerZero_Core",
+      "first_seen_utc": "2026-11-26T14:07:43+00:00",
+      "last_seen_utc": "2026-11-28T02:49:27+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -37167,6 +37357,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "LoSW",
+      "x_account": "losw_rh",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "BearzVerse"
+      ],
+      "description": "Free mint. 3,333 NFT keys on Robinhood Chain. Mining. Hunt. Your key opens the Rift. Find spoils.",
+      "first_seen_utc": "2026-11-28T04:46:13+00:00",
+      "last_seen_utc": "2026-11-28T04:46:13+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "lowkey",
       "x_account": "useLowkeyXYZ",
       "total_mentions": 1,
@@ -37191,20 +37395,6 @@
       "description": "Put a ticker on it&#33;\n@GIWA_by_Upbit 기반의 토큰 런치패드\nJoin us: https://t.co/csalWhLTbp\n\n&#036;MADANG token is not yet live. Beware of scams.",
       "first_seen_utc": "2026-10-31T16:43:42+00:00",
       "last_seen_utc": "2026-10-31T16:43:42+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Magpie",
-      "x_account": "magpiegiwa",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "阿宏"
-      ],
-      "description": "Reserve-backed token on GIWA. @GIWA_by_upbit",
-      "first_seen_utc": "2026-11-26T14:08:42+00:00",
-      "last_seen_utc": "2026-11-26T14:08:42+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -37527,6 +37717,20 @@
       "description": "Onchain perpetual markets for the long tail.\nBuilt on @Solana",
       "first_seen_utc": "2026-11-14T14:13:25+00:00",
       "last_seen_utc": "2026-11-14T14:13:25+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
+      "project": "Monero-chan 🟠",
+      "x_account": "MoneroChanNFT",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "well"
+      ],
+      "description": "Monero-chan NFT is a tribute to the mascot of &#036;XMR, the only private, untraceable and decentralized currency that matters. 🟠",
+      "first_seen_utc": "2026-11-28T05:56:56+00:00",
+      "last_seen_utc": "2026-11-28T05:56:56+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -37975,20 +38179,6 @@
       "description": "Own the Exchange.\n\nLaunch your own perp DEX in minutes: https://t.co/1lIlmAUeRn\n\nJoin Raydium, WOOFi, Vanta, and 450+ more&#33;",
       "first_seen_utc": "2026-11-04T11:38:10+00:00",
       "last_seen_utc": "2026-11-04T11:38:10+00:00",
-      "status": "watch",
-      "avatarUrl": ""
-    },
-    {
-      "project": "Origin",
-      "x_account": "Originonzero",
-      "total_mentions": 1,
-      "unique_alphas": 1,
-      "alphas": [
-        "阿宏"
-      ],
-      "description": "The original token launchpad on Zero. No presale. Bonding curve. Liquidity locked forever after graduation.\n@LayerZero_Core",
-      "first_seen_utc": "2026-11-26T14:07:43+00:00",
-      "last_seen_utc": "2026-11-26T14:07:43+00:00",
       "status": "watch",
       "avatarUrl": ""
     },
@@ -40163,6 +40353,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "ZER0",
+      "x_account": "0xZER0_0",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "0 + 0 = 0\n\nJust a game with NFTs. It's all about zeros, one ends it.\n\nTop players rewarded at the end. 8888 zeros to play with.\nApply for the free allowlist. HF",
+      "first_seen_utc": "2026-11-28T02:58:14+00:00",
+      "last_seen_utc": "2026-11-28T02:58:14+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "Zero Cool",
       "x_account": "ZeroCool_AI",
       "total_mentions": 1,
@@ -40303,6 +40507,20 @@
       "avatarUrl": ""
     },
     {
+      "project": "二娃",
+      "x_account": "Erwa7316",
+      "total_mentions": 1,
+      "unique_alphas": 1,
+      "alphas": [
+        "蛋总"
+      ],
+      "description": "多动脑子少提问，一个理智的赌徒，链上投研，内容仅供参考不作为投资建议！ ✈️ ：Erwa666",
+      "first_seen_utc": "2026-11-28T03:35:37+00:00",
+      "last_seen_utc": "2026-11-28T03:35:37+00:00",
+      "status": "watch",
+      "avatarUrl": ""
+    },
+    {
       "project": "小玖在撸毛",
       "x_account": "Nftlumx9",
       "total_mentions": 1,
@@ -40418,14 +40636,154 @@
   "daily": [
     {
       "date": "2026-11-28",
-      "totalRows": 1,
-      "projectCount": 1,
+      "totalRows": 7,
+      "projectCount": 7,
       "focusCount": 0,
-      "candidateCount": 1,
+      "candidateCount": 7,
       "crossSource": 0,
-      "newCount": 1,
-      "repeatCount": 0,
+      "newCount": 5,
+      "repeatCount": 2,
       "projects": [
+        {
+          "project": "LoSW",
+          "account": "losw_rh",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "BearzVerse"
+          ],
+          "tgAlphas": [
+            "BearzVerse"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-28T04:46:13+00:00",
+          "lastSeen": "2026-11-28T04:46:13+00:00",
+          "description": "Free mint. 3,333 NFT keys on Robinhood Chain. Mining. Hunt. Your key opens the Rift. Find spoils.",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "LoSW",
+              "account": "losw_rh",
+              "alpha": "BearzVerse",
+              "seenAt": "2026-11-28T04:46:13+00:00",
+              "messageId": "dodtwitterbot/41875",
+              "description": "Free mint. 3,333 NFT keys on Robinhood Chain. Mining. Hunt. Your key opens the Rift. Find spoils.",
+              "text": "Free mint. 3,333 NFT keys on Robinhood Chain. Mining. Hunt. Your key opens the Rift. Find spoils."
+            }
+          ],
+          "text": " LoSW losw_rh Free mint. 3,333 NFT keys on Robinhood Chain. Mining. Hunt. Your key opens the Rift. Find spoils.",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Magpie",
+          "account": "magpiegiwa",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-28T02:48:31+00:00",
+          "lastSeen": "2026-11-28T02:48:31+00:00",
+          "description": "Reserve-backed token on GIWA. @GIWA_by_upbit",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Magpie",
+              "account": "magpiegiwa",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-28T02:48:31+00:00",
+              "messageId": "dodtwitterbot/41865",
+              "description": "Reserve-backed token on GIWA. @GIWA_by_upbit",
+              "text": "Reserve-backed token on GIWA. @GIWA_by_upbit"
+            }
+          ],
+          "text": " Magpie magpiegiwa Reserve-backed token on GIWA. @GIWA_by_upbit",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
+        {
+          "project": "Monero-chan 🟠",
+          "account": "MoneroChanNFT",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "well"
+          ],
+          "tgAlphas": [
+            "well"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-28T05:56:56+00:00",
+          "lastSeen": "2026-11-28T05:56:56+00:00",
+          "description": "Monero-chan NFT is a tribute to the mascot of &#036;XMR, the only private, untraceable and decentralized currency that matters. 🟠",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Monero-chan 🟠",
+              "account": "MoneroChanNFT",
+              "alpha": "well",
+              "seenAt": "2026-11-28T05:56:56+00:00",
+              "messageId": "dodtwitterbot/41876",
+              "description": "Monero-chan NFT is a tribute to the mascot of &#036;XMR, the only private, untraceable and decentralized currency that matters. 🟠",
+              "text": "Monero-chan NFT is a tribute to the mascot of &#036;XMR, the only private, untraceable and decentralized currency that matters. 🟠"
+            }
+          ],
+          "text": " Monero-chan 🟠 MoneroChanNFT Monero-chan NFT is a tribute to the mascot of &#036;XMR, the only private, untraceable and decentralized currency that matters. 🟠",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "Origin",
+          "account": "Originonzero",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-28T02:49:27+00:00",
+          "lastSeen": "2026-11-28T02:49:27+00:00",
+          "description": "The original token launchpad on Zero. No presale. Bonding curve. Liquidity locked forever after graduation.\n@LayerZero_Core",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "Origin",
+              "account": "Originonzero",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-28T02:49:27+00:00",
+              "messageId": "dodtwitterbot/41866",
+              "description": "The original token launchpad on Zero. No presale. Bonding curve. Liquidity locked forever after graduation.\n@LayerZero_Core",
+              "text": "The original token launchpad on Zero. No presale. Bonding curve. Liquidity locked forever after graduation.\n@LayerZero_Core"
+            }
+          ],
+          "text": " Origin Originonzero The original token launchpad on Zero. No presale. Bonding curve. Liquidity locked forever after graduation.\n@LayerZero_Core",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "repeat"
+        },
         {
           "project": "VoidCash",
           "account": "VoidCashio",
@@ -40456,6 +40814,76 @@
             }
           ],
           "text": " VoidCash VoidCashio The privacy layer of @Enter_Elysium",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "ZER0",
+          "account": "0xZER0_0",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-28T02:58:14+00:00",
+          "lastSeen": "2026-11-28T02:58:14+00:00",
+          "description": "0 + 0 = 0\n\nJust a game with NFTs. It's all about zeros, one ends it.\n\nTop players rewarded at the end. 8888 zeros to play with.\nApply for the free allowlist. HF",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "ZER0",
+              "account": "0xZER0_0",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-28T02:58:14+00:00",
+              "messageId": "dodtwitterbot/41868",
+              "description": "0 + 0 = 0\n\nJust a game with NFTs. It's all about zeros, one ends it.\n\nTop players rewarded at the end. 8888 zeros to play with.\nApply for the free allowlist. HF",
+              "text": "0 + 0 = 0\n\nJust a game with NFTs. It's all about zeros, one ends it.\n\nTop players rewarded at the end. 8888 zeros to play with.\nApply for the free allowlist. HF"
+            }
+          ],
+          "text": " ZER0 0xZER0_0 0 + 0 = 0\n\nJust a game with NFTs. It's all about zeros, one ends it.\n\nTop players rewarded at the end. 8888 zeros to play with.\nApply for the free allowlist. HF",
+          "score": 2,
+          "displayTier": "candidate",
+          "avatarUrl": "",
+          "dayStatus": "new"
+        },
+        {
+          "project": "二娃",
+          "account": "Erwa7316",
+          "sources": [
+            "TG"
+          ],
+          "alphas": [
+            "蛋总"
+          ],
+          "tgAlphas": [
+            "蛋总"
+          ],
+          "xAlphas": [],
+          "mentions": 1,
+          "firstSeen": "2026-11-28T03:35:37+00:00",
+          "lastSeen": "2026-11-28T03:35:37+00:00",
+          "description": "多动脑子少提问，一个理智的赌徒，链上投研，内容仅供参考不作为投资建议！ ✈️ ：Erwa666",
+          "rows": [
+            {
+              "source": "TG",
+              "project": "二娃",
+              "account": "Erwa7316",
+              "alpha": "蛋总",
+              "seenAt": "2026-11-28T03:35:37+00:00",
+              "messageId": "dodtwitterbot/41874",
+              "description": "多动脑子少提问，一个理智的赌徒，链上投研，内容仅供参考不作为投资建议！ ✈️ ：Erwa666",
+              "text": "多动脑子少提问，一个理智的赌徒，链上投研，内容仅供参考不作为投资建议！ ✈️ ：Erwa666"
+            }
+          ],
+          "text": " 二娃 Erwa7316 多动脑子少提问，一个理智的赌徒，链上投研，内容仅供参考不作为投资建议！ ✈️ ：Erwa666",
           "score": 2,
           "displayTier": "candidate",
           "avatarUrl": "",
@@ -77205,454 +77633,459 @@
   ],
   "reports": [
     {
+      "file": "2026-11-28-0929-telegram-update.md",
+      "title": "2026-11-28-0929-telegram-update",
+      "updatedAt": "2026-11-28T09:29:39.267Z"
+    },
+    {
       "file": "2026-11-27-2223-telegram-update.md",
       "title": "2026-11-27-2223-telegram-update",
-      "updatedAt": "2026-11-27T22:23:41.106Z"
+      "updatedAt": "2026-11-28T09:29:37.412Z"
     },
     {
       "file": "2026-11-27-1011-telegram-update.md",
       "title": "2026-11-27-1011-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.039Z"
+      "updatedAt": "2026-11-28T09:29:37.412Z"
     },
     {
       "file": "2026-11-26-2238-telegram-update.md",
       "title": "2026-11-26-2238-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.039Z"
+      "updatedAt": "2026-11-28T09:29:37.412Z"
     },
     {
       "file": "2026-11-26-1005-telegram-update.md",
       "title": "2026-11-26-1005-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.039Z"
+      "updatedAt": "2026-11-28T09:29:37.412Z"
     },
     {
       "file": "2026-11-25-2249-telegram-update.md",
       "title": "2026-11-25-2249-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.039Z"
+      "updatedAt": "2026-11-28T09:29:37.412Z"
     },
     {
       "file": "2026-11-25-1033-telegram-update.md",
       "title": "2026-11-25-1033-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.039Z"
+      "updatedAt": "2026-11-28T09:29:37.412Z"
     },
     {
       "file": "2026-11-25-0138-telegram-update.md",
       "title": "2026-11-25-0138-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.039Z"
+      "updatedAt": "2026-11-28T09:29:37.412Z"
     },
     {
       "file": "2026-11-24-1630-telegram-update.md",
       "title": "2026-11-24-1630-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.039Z"
+      "updatedAt": "2026-11-28T09:29:37.412Z"
     },
     {
       "file": "2026-11-24-0537-telegram-update.md",
       "title": "2026-11-24-0537-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.039Z"
+      "updatedAt": "2026-11-28T09:29:37.412Z"
     },
     {
       "file": "2026-11-23-2144-telegram-update.md",
       "title": "2026-11-23-2144-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.039Z"
+      "updatedAt": "2026-11-28T09:29:37.412Z"
     },
     {
       "file": "2026-11-23-0952-telegram-update.md",
       "title": "2026-11-23-0952-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.039Z"
+      "updatedAt": "2026-11-28T09:29:37.412Z"
     },
     {
       "file": "2026-11-22-1726-telegram-update.md",
       "title": "2026-11-22-1726-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.039Z"
+      "updatedAt": "2026-11-28T09:29:37.412Z"
     },
     {
       "file": "2026-11-22-0854-telegram-update.md",
       "title": "2026-11-22-0854-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.039Z"
+      "updatedAt": "2026-11-28T09:29:37.412Z"
     },
     {
       "file": "2026-11-22-0141-telegram-update.md",
       "title": "2026-11-22-0141-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.039Z"
+      "updatedAt": "2026-11-28T09:29:37.412Z"
     },
     {
       "file": "2026-11-21-2016-telegram-update.md",
       "title": "2026-11-21-2016-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.039Z"
+      "updatedAt": "2026-11-28T09:29:37.412Z"
     },
     {
       "file": "2026-11-21-1344-telegram-update.md",
       "title": "2026-11-21-1344-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.039Z"
+      "updatedAt": "2026-11-28T09:29:37.412Z"
     },
     {
       "file": "2026-11-21-0252-telegram-update.md",
       "title": "2026-11-21-0252-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.039Z"
+      "updatedAt": "2026-11-28T09:29:37.412Z"
     },
     {
       "file": "2026-11-20-0915-telegram-update.md",
       "title": "2026-11-20-0915-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.039Z"
+      "updatedAt": "2026-11-28T09:29:37.412Z"
     },
     {
       "file": "2026-11-19-2355-telegram-update.md",
       "title": "2026-11-19-2355-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.039Z"
+      "updatedAt": "2026-11-28T09:29:37.412Z"
     },
     {
       "file": "2026-11-19-1443-telegram-update.md",
       "title": "2026-11-19-1443-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.039Z"
+      "updatedAt": "2026-11-28T09:29:37.411Z"
     },
     {
       "file": "2026-11-18-1826-telegram-update.md",
       "title": "2026-11-18-1826-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.411Z"
     },
     {
       "file": "2026-11-18-0916-telegram-update.md",
       "title": "2026-11-18-0916-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.411Z"
     },
     {
       "file": "2026-11-18-0002-telegram-update.md",
       "title": "2026-11-18-0002-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.411Z"
     },
     {
       "file": "2026-11-17-1456-telegram-update.md",
       "title": "2026-11-17-1456-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.411Z"
     },
     {
       "file": "2026-11-17-0412-telegram-update.md",
       "title": "2026-11-17-0412-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.411Z"
     },
     {
       "file": "2026-11-16-1953-telegram-update.md",
       "title": "2026-11-16-1953-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.411Z"
     },
     {
       "file": "2026-11-16-0839-telegram-update.md",
       "title": "2026-11-16-0839-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.411Z"
     },
     {
       "file": "2026-11-15-2207-telegram-update.md",
       "title": "2026-11-15-2207-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.411Z"
     },
     {
       "file": "2026-11-15-1639-telegram-update.md",
       "title": "2026-11-15-1639-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.411Z"
     },
     {
       "file": "2026-11-15-0828-telegram-update.md",
       "title": "2026-11-15-0828-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.411Z"
     },
     {
       "file": "2026-11-15-0121-telegram-update.md",
       "title": "2026-11-15-0121-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.411Z"
     },
     {
       "file": "2026-11-14-2141-telegram-update.md",
       "title": "2026-11-14-2141-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.411Z"
     },
     {
       "file": "2026-11-14-1610-telegram-update.md",
       "title": "2026-11-14-1610-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.411Z"
     },
     {
       "file": "2026-11-14-0809-telegram-update.md",
       "title": "2026-11-14-0809-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.411Z"
     },
     {
       "file": "2026-11-13-2255-telegram-update.md",
       "title": "2026-11-13-2255-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.411Z"
     },
     {
       "file": "2026-11-13-1724-telegram-update.md",
       "title": "2026-11-13-1724-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.411Z"
     },
     {
       "file": "2026-11-13-0849-telegram-update.md",
       "title": "2026-11-13-0849-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.411Z"
     },
     {
       "file": "2026-11-12-2254-telegram-update.md",
       "title": "2026-11-12-2254-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.411Z"
     },
     {
       "file": "2026-11-12-1746-telegram-update.md",
       "title": "2026-11-12-1746-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.411Z"
     },
     {
       "file": "2026-11-12-0853-telegram-update.md",
       "title": "2026-11-12-0853-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.411Z"
     },
     {
       "file": "2026-11-11-2344-telegram-update.md",
       "title": "2026-11-11-2344-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.411Z"
     },
     {
       "file": "2026-11-11-1729-telegram-update.md",
       "title": "2026-11-11-1729-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.411Z"
     },
     {
       "file": "2026-11-11-0828-telegram-update.md",
       "title": "2026-11-11-0828-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.411Z"
     },
     {
       "file": "2026-11-11-0130-telegram-update.md",
       "title": "2026-11-11-0130-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.411Z"
     },
     {
       "file": "2026-11-10-2037-telegram-update.md",
       "title": "2026-11-10-2037-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.411Z"
     },
     {
       "file": "2026-11-10-1348-telegram-update.md",
       "title": "2026-11-10-1348-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.411Z"
     },
     {
       "file": "2026-11-10-0351-telegram-update.md",
       "title": "2026-11-10-0351-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.410Z"
     },
     {
       "file": "2026-11-09-2013-telegram-update.md",
       "title": "2026-11-09-2013-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.410Z"
     },
     {
       "file": "2026-11-09-0844-telegram-update.md",
       "title": "2026-11-09-0844-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.410Z"
     },
     {
       "file": "2026-11-08-2123-telegram-update.md",
       "title": "2026-11-08-2123-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.410Z"
     },
     {
       "file": "2026-11-08-1623-telegram-update.md",
       "title": "2026-11-08-1623-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.410Z"
     },
     {
       "file": "2026-11-08-0804-telegram-update.md",
       "title": "2026-11-08-0804-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.410Z"
     },
     {
       "file": "2026-11-07-2106-telegram-update.md",
       "title": "2026-11-07-2106-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.410Z"
     },
     {
       "file": "2026-11-07-1556-telegram-update.md",
       "title": "2026-11-07-1556-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.410Z"
     },
     {
       "file": "2026-11-07-0751-telegram-update.md",
       "title": "2026-11-07-0751-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.410Z"
     },
     {
       "file": "2026-11-06-2226-telegram-update.md",
       "title": "2026-11-06-2226-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.410Z"
     },
     {
       "file": "2026-11-06-1658-telegram-update.md",
       "title": "2026-11-06-1658-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.410Z"
     },
     {
       "file": "2026-11-06-0835-telegram-update.md",
       "title": "2026-11-06-0835-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.410Z"
     },
     {
       "file": "2026-11-05-2256-telegram-update.md",
       "title": "2026-11-05-2256-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.410Z"
     },
     {
       "file": "2026-11-05-1742-telegram-update.md",
       "title": "2026-11-05-1742-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.410Z"
     },
     {
       "file": "2026-11-05-0836-telegram-update.md",
       "title": "2026-11-05-0836-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.410Z"
     },
     {
       "file": "2026-11-04-2255-telegram-update.md",
       "title": "2026-11-04-2255-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.410Z"
     },
     {
       "file": "2026-11-04-1737-telegram-update.md",
       "title": "2026-11-04-1737-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.410Z"
     },
     {
       "file": "2026-11-04-0810-telegram-update.md",
       "title": "2026-11-04-0810-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.410Z"
     },
     {
       "file": "2026-11-04-0143-telegram-update.md",
       "title": "2026-11-04-0143-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.410Z"
     },
     {
       "file": "2026-11-03-2018-telegram-update.md",
       "title": "2026-11-03-2018-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.410Z"
     },
     {
       "file": "2026-11-03-1302-telegram-update.md",
       "title": "2026-11-03-1302-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.410Z"
     },
     {
       "file": "2026-11-03-0306-telegram-update.md",
       "title": "2026-11-03-0306-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.410Z"
     },
     {
       "file": "2026-11-02-1950-telegram-update.md",
       "title": "2026-11-02-1950-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.410Z"
     },
     {
       "file": "2026-11-02-0826-telegram-update.md",
       "title": "2026-11-02-0826-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.410Z"
     },
     {
       "file": "2026-11-02-0104-telegram-update.md",
       "title": "2026-11-02-0104-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.410Z"
     },
     {
       "file": "2026-11-01-2123-telegram-update.md",
       "title": "2026-11-01-2123-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.410Z"
     },
     {
       "file": "2026-11-01-1628-telegram-update.md",
       "title": "2026-11-01-1628-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.410Z"
     },
     {
       "file": "2026-11-01-0814-telegram-update.md",
       "title": "2026-11-01-0814-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.410Z"
     },
     {
       "file": "2026-11-01-0029-telegram-update.md",
       "title": "2026-11-01-0029-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.410Z"
     },
     {
       "file": "2026-10-31-2041-telegram-update.md",
       "title": "2026-10-31-2041-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.410Z"
     },
     {
       "file": "2026-10-31-1531-telegram-update.md",
       "title": "2026-10-31-1531-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.410Z"
     },
     {
       "file": "2026-10-31-0735-telegram-update.md",
       "title": "2026-10-31-0735-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.410Z"
     },
     {
       "file": "2026-10-30-2142-telegram-update.md",
       "title": "2026-10-30-2142-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.410Z"
     },
     {
       "file": "2026-10-30-1617-telegram-update.md",
       "title": "2026-10-30-1617-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.410Z"
     },
     {
       "file": "2026-10-30-0745-telegram-update.md",
       "title": "2026-10-30-0745-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.410Z"
     },
     {
       "file": "2026-10-29-2203-telegram-update.md",
       "title": "2026-10-29-2203-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.410Z"
     },
     {
       "file": "2026-10-29-1627-telegram-update.md",
       "title": "2026-10-29-1627-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.410Z"
     },
     {
       "file": "2026-10-29-0741-telegram-update.md",
       "title": "2026-10-29-0741-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.410Z"
     },
     {
       "file": "2026-10-29-0124-telegram-update.md",
       "title": "2026-10-29-0124-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.410Z"
     },
     {
       "file": "2026-10-28-2155-telegram-update.md",
       "title": "2026-10-28-2155-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.410Z"
     },
     {
       "file": "2026-10-28-1733-telegram-update.md",
       "title": "2026-10-28-1733-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.410Z"
     },
     {
       "file": "2026-10-28-1706-telegram-update.md",
       "title": "2026-10-28-1706-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.410Z"
     },
     {
       "file": "2026-10-28-1651-telegram-update.md",
       "title": "2026-10-28-1651-telegram-update",
-      "updatedAt": "2026-11-27T22:23:39.038Z"
+      "updatedAt": "2026-11-28T09:29:37.410Z"
     },
     {
       "file": "2026-10-28-1531-telegram-browser.md",
       "title": "2026-10-28-1531-telegram-browser",
-      "updatedAt": "2026-11-27T22:23:39.037Z"
+      "updatedAt": "2026-11-28T09:29:37.409Z"
     }
   ]
 }
